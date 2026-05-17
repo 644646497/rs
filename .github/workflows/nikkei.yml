@@ -1,0 +1,42 @@
+name: 抓取日经中文网
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: 安装依赖
+        run: pip install requests
+        
+      - name: 抓取日经中文
+        run: |
+          python3 << 'EOF'
+          import requests
+          
+          url = "https://rsshub.app/nikkei/cn"
+          try:
+              resp = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=30)
+              if resp.status_code == 200:
+                  with open('nikkei.xml', 'w', encoding='utf-8') as f:
+                      f.write(resp.text)
+                  print("✅ 抓取成功")
+              else:
+                  print(f"❌ 失败: {resp.status_code}")
+          except Exception as e:
+              print(f"❌ 错误: {e}")
+          EOF
+      
+      - name: 提交更新
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add nikkei.xml
+          git diff --quiet --staged || git commit -m "更新日经中文"
+          git push
