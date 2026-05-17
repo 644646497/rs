@@ -14,9 +14,9 @@ HEADERS = {
 
 def fetch_fulltext(url):
     try:
-        downloaded = trafilatura.fetch_url(url, user_agent=HEADERS['User-Agent'])
-        if downloaded:
-            result = trafilatura.extract(downloaded, include_formatting=True)
+        resp = requests.get(url, headers=HEADERS, timeout=30)
+        if resp.status_code == 200:
+            result = trafilatura.extract(resp.text, include_formatting=True)
             if result:
                 return result
     except Exception as e:
