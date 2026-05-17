@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 import re
 
-RSS_URL = "https://rsshub.app/nikkei/cn"
+RSS_URL = "https://hub.slarker.me/nikkei/cn"
 OUTPUT_FILE = "feed.xml"
 
 HEADERS = {
@@ -26,8 +26,14 @@ def fetch_fulltext(url):
 def main():
     print("开始抓取日经中文网...")
     
-    resp = requests.get(RSS_URL, headers=HEADERS, timeout=30)
-    feed = feedparser.parse(resp.content)
+    try:
+        resp = requests.get(RSS_URL, headers=HEADERS, timeout=30)
+        print(f"HTTP状态码: {resp.status_code}")
+        feed = feedparser.parse(resp.content)
+        print(f"找到 {len(feed.entries)} 篇文章")
+    except Exception as e:
+        print(f"抓取RSS失败: {e}")
+        return
     
     rss_items = []
     
