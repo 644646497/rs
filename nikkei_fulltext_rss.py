@@ -5,7 +5,7 @@ from datetime import datetime
 import time
 import re
 
-RSS_URL = "https://hub.slarker.me/nikkei/cn"
+RSS_URL = "https://rsshub.bili.us/nikkei/cn"
 OUTPUT_FILE = "feed.xml"
 
 HEADERS = {
