@@ -1,0 +1,29 @@
+name: DW Clean Full RSS
+
+on:
+  schedule:
+    - cron: "*/60 * * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install deps
+        run: |
+          pip install feedparser requests beautifulsoup4 lxml
+
+      - name: Build clean RSS
+        run: |
+          python script.py
+
+      - name: Commit
+        run: |
+          git config user.name "rss-bot"
+          git config user.email "bot@github.com"
+          git add feed.xml
+          git commit -m "update dw clean rss" || exit 0
+          git push
