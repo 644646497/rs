@@ -1,6 +1,6 @@
 name: DW Clean Full RSS
 
-on:
+#on:
   schedule:
     - cron: "*/60 * * * *"
   workflow_dispatch:
