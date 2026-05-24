@@ -1,5 +1,5 @@
 name: 抓取日经中文网
-#on:
+on:
   schedule:
     - cron: '0 */6 * * *'
   workflow_dispatch:
