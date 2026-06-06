@@ -1,13 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import re
-import feedparser
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 import time
 
-# 使用 googletrans 进行英转简
 try:
     from googletrans import Translator
     translator = Translator()
@@ -16,20 +14,9 @@ except ImportError:
     CAN_TRANSLATE = False
     print("警告: googletrans 未安装，将保持英文原文")
 
-RSS_URL = 'https://apnews.com/rss'
+# AP News 首页
+INDEX_URL = 'https://apnews.com'
 OUTPUT_FILE = 'apnews_feed.xml'
-
-def translate_to_simplified(text):
-    """将英文文本翻译成简体中文"""
-    if not CAN_TRANSLATE or not text or len(text) < 50:
-        return text
-    try:
-        # 翻译成简体中文
-        translated = translator.translate(text, dest='zh-cn')
-        return translated.text
-    except Exception as e:
-        print(f"翻译出错: {e}")
-        return text
 
 def fetch_with_retry(url, max_retries=3):
     headers = {
@@ -46,8 +33,17 @@ def fetch_with_retry(url, max_retries=3):
                 raise
             time.sleep(2)
 
+def translate_to_simplified(text):
+    if not CAN_TRANSLATE or not text or len(text) < 50:
+        return text
+    try:
+        translated = translator.translate(text, dest='zh-cn')
+        return translated.text
+    except Exception as e:
+        print(f"翻译出错: {e}")
+        return text
+
 def extract_article(html):
-    """提取 AP News 文章正文"""
     soup = BeautifulSoup(html, 'html.parser')
     
     for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe']):
@@ -70,53 +66,80 @@ def extract_article(html):
     return text
 
 def fetch_and_convert():
-    print(f"抓取 AP News RSS: {RSS_URL}")
-    feed = feedparser.parse(RSS_URL)
-    print(f"获取到 {len(feed.entries)} 篇文章")
+    print(f"抓取 AP News 首页: {INDEX_URL}")
+    resp = fetch_with_retry(INDEX_URL)
+    soup = BeautifulSoup(resp.text, 'html.parser')
+    
+    # 提取所有新闻链接
+    links = []
+    for a in soup.find_all('a', href=True):
+        href = a['href']
+        # AP News 的文章链接格式
+        if href.startswith('/article/') or '/article/' in href:
+            if not href.startswith('http'):
+                url = 'https://apnews.com' + href
+            else:
+                url = href
+            title = a.get_text(strip=True)
+            if title and len(title) > 20 and url not in [l['url'] for l in links]:
+                links.append({'url': url, 'title': title})
+            if len(links) >= 20:
+                break
+    
+    # 去重
+    seen = set()
+    unique_links = []
+    for link in links:
+        if link['url'] not in seen:
+            seen.add(link['url'])
+            unique_links.append(link)
+    unique_links = unique_links[:15]
+    
+    print(f"找到 {len(unique_links)} 篇新闻")
     
     rss_items = []
-    for idx, entry in enumerate(feed.entries[:15]):
-        article_url = entry.link
-        print(f"[{idx+1}] 处理: {entry.title[:60]}...")
+    for idx, link in enumerate(unique_links):
+        print(f"[{idx+1}] 处理: {link['title'][:60]}...")
         
         try:
-            resp = fetch_with_retry(article_url)
-            raw_text = extract_article(resp.text)
+            article_resp = fetch_with_retry(link['url'])
+            raw_text = extract_article(article_resp.text)
             
             if len(raw_text) < 200:
-                print(f"  ⚠ 正文过短({len(raw_text)}字)，使用摘要")
-                raw_text = entry.summary
+                print(f"  ⚠ 正文过短({len(raw_text)}字)")
             else:
                 print(f"  ✓ 正文长度: {len(raw_text)} 字符")
             
-            # 翻译成简体中文
-            print(f"  🔄 翻译中...")
-            translated_text = translate_to_simplified(raw_text)
-            print(f"  ✓ 翻译完成，长度: {len(translated_text)} 字符")
+            # 翻译
+            if CAN_TRANSLATE:
+                print(f"  🔄 翻译中...")
+                translated_title = translate_to_simplified(link['title'])
+                translated_text = translate_to_simplified(raw_text)
+                print(f"  ✓ 翻译完成")
+            else:
+                translated_title = link['title']
+                translated_text = raw_text
             
-            # 标题也翻译
-            translated_title = translate_to_simplified(entry.title) if CAN_TRANSLATE else entry.title
-            
-            pub_date = entry.get('published', datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT'))
+            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
         except Exception as e:
             print(f"  ❌ 出错: {e}")
-            translated_title = entry.title
-            translated_text = entry.summary
-            pub_date = entry.get('published', datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT'))
+            translated_title = link['title']
+            translated_text = ""
+            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
         
         rss_items.append({
             'title': translated_title,
-            'link': article_url,
+            'link': link['url'],
             'description': translated_text,
             'pubDate': pub_date,
-            'guid': article_url,
+            'guid': link['url'],
         })
     
     # 生成 XML
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n<channel>\n'
     xml += '  <title>AP News 全文 RSS（简体中文版）</title>\n'
     xml += '  <link>https://apnews.com/</link>\n'
-    xml += '  <description>AP News 全文抓取 + 英译简</description>\n'
+    xml += '  <description>AP News 首页抓取 + 英译简</description>\n'
     xml += f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")}</lastBuildDate>\n'
     
     for item in rss_items:
