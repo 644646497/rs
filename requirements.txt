@@ -3,3 +3,4 @@ feedparser
 beautifulsoup4
 opencc-python-reimplemented
 trafilatura
+googletrans==4.0.0-rc1
