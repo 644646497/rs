@@ -14,16 +14,20 @@ try:
     CAN_TRANSLATE = True
 except ImportError:
     CAN_TRANSLATE = False
-    print("警告: googletrans 未安装，将保持英文原文")
+    print("警告: googletrans 未安装，将保持原文")
 
 RSS_URL = 'https://www.nasa.gov/rss/dyn/breaking_news.rss'
 OUTPUT_FILE = 'nasa_feed.xml'
 
-def translate_to_simplified(text):
-    """将英文文本翻译成简体中文"""
-    if not CAN_TRANSLATE or not text or len(text) < 50:
+def force_translate_to_simplified(text):
+    """强制翻译成简体中文（不管原文是什么语言）"""
+    if not CAN_TRANSLATE or not text:
+        return text
+    # 如果文本太短（比如只有几个词），可能翻译效果不好，但还是翻
+    if len(text.strip()) < 10:
         return text
     try:
+        # 自动检测源语言，目标语言简体中文
         translated = translator.translate(text, dest='zh-cn')
         return translated.text
     except Exception as e:
@@ -69,11 +73,11 @@ def fetch_and_convert():
             raw_text = entry.summary
             print(f"  ⚠ 使用 RSS 摘要，长度: {len(raw_text)} 字符")
         
-        # 翻译
-        print(f"  🔄 翻译中...")
-        translated_title = translate_to_simplified(entry.title)
-        translated_text = translate_to_simplified(raw_text)
-        print(f"  ✓ 翻译完成，长度: {len(translated_text)} 字符")
+        # 强制翻译成简体中文
+        print(f"  🔄 翻译中（强制转简体）...")
+        translated_title = force_translate_to_simplified(entry.title)
+        translated_text = force_translate_to_simplified(raw_text)
+        print(f"  ✓ 翻译完成，标题: {translated_title[:50]}...")
         
         pub_date = entry.get('published', datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT'))
         
@@ -87,9 +91,9 @@ def fetch_and_convert():
     
     # 生成 XML
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n<channel>\n'
-    xml += '  <title>NASA 新闻 RSS（简体中文版）</title>\n'
+    xml += '  <title>NASA 新闻 RSS（纯简体中文版）</title>\n'
     xml += '  <link>https://www.nasa.gov/</link>\n'
-    xml += '  <description>NASA 官方新闻 + 英译简</description>\n'
+    xml += '  <description>NASA 官方新闻 + 强制英译简</description>\n'
     xml += f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")}</lastBuildDate>\n'
     
     for item in rss_items:
@@ -106,7 +110,7 @@ def fetch_and_convert():
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
         f.write(xml)
     
-    print(f"\n✅ 完成！已生成 {len(rss_items)} 篇简体中文新闻 -> {OUTPUT_FILE}")
+    print(f"\n✅ 完成！已生成 {len(rss_items)} 篇纯简体中文新闻 -> {OUTPUT_FILE}")
 
 def escape_xml(text):
     if not text:
