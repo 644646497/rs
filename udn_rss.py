@@ -9,8 +9,8 @@ import time
 
 cc = OpenCC('t2s')
 
-# 联合报首页
-INDEX_URL = 'https://udn.com'
+# 联合报即时新闻
+INDEX_URL = 'https://udn.com/news/breaknews/1/1'
 OUTPUT_FILE = 'udn_feed.xml'
 
 def fetch_with_retry(url, max_retries=3):
@@ -29,38 +29,29 @@ def fetch_with_retry(url, max_retries=3):
             time.sleep(2)
 
 def extract_article(html):
-    """提取文章正文"""
     soup = BeautifulSoup(html, 'html.parser')
-    
-    # 移除干扰元素
-    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'iframe', 'div.article__tags']):
+    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe']):
         tag.decompose()
     
-    # 联合报的正文通常在 article 或 div.article-content 里
-    article = soup.find('article')
-    if not article:
-        article = soup.find('div', class_=re.compile(r'article-content|story-content|post-content'))
+    article = soup.find('article') or soup.find('div', class_=re.compile(r'article-content|story-article|entry-content'))
     if not article:
         article = soup.body
     
-    # 提取段落
     paragraphs = article.find_all('p')
     if not paragraphs:
         return soup.get_text(strip=True)
     
-    # 过滤短段落（可能是导航或广告）
     valid_paragraphs = [p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 30]
-    
     text = '\n\n'.join(valid_paragraphs)
     text = re.sub(r'\n\s*\n', '\n\n', text)
     return text
 
 def fetch_and_convert():
-    print(f"抓取联合报首页: {INDEX_URL}")
+    print(f"抓取联合报: {INDEX_URL}")
     resp = fetch_with_retry(INDEX_URL)
     soup = BeautifulSoup(resp.text, 'html.parser')
     
-    # 查找所有新闻链接（联合报的新闻链接通常是 /news/story/xxxxx）
+    # 提取新闻链接
     links = []
     for a in soup.find_all('a', href=re.compile(r'/news/story/\d+/\d+')):
         url = a['href']
@@ -69,10 +60,10 @@ def fetch_and_convert():
         title = a.get_text(strip=True)
         if title and len(title) > 5 and url not in [l['url'] for l in links]:
             links.append({'url': url, 'title': title})
+        if len(links) >= 20:
+            break
     
-    print(f"找到 {len(links)} 篇新闻")
-    
-    # 去重，取前15篇
+    # 去重
     seen = set()
     unique_links = []
     for link in links:
@@ -84,17 +75,14 @@ def fetch_and_convert():
     rss_items = []
     for idx, link in enumerate(unique_links):
         print(f"[{idx+1}] 处理: {link['title'][:50]}...")
-        
         try:
             article_resp = fetch_with_retry(link['url'])
             raw_text = extract_article(article_resp.text)
             cleaned = cc.convert(raw_text)
-            
             if len(cleaned) < 100:
                 print(f"  ⚠ 正文过短({len(cleaned)}字)")
             else:
                 print(f"  ✓ 正文长度: {len(cleaned)} 字符")
-            
             pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
         except Exception as e:
             print(f"  ❌ 出错: {e}")
