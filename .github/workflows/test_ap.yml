@@ -1,0 +1,13 @@
+name: Test AP Access
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test AP RSS
+        run: |
+          curl -I https://apnews.com/rss
+          curl -I https://apnews.com/rss/news
