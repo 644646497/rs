@@ -1,9 +1,269 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 <channel>
-  <title>NASA 新闻 RSS（纯简体中文版）</title>
+  <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
-  <description>NASA 官方新闻 + 强制英译简</description>
-  <lastBuildDate>Sat, 06 Jun 2026 21:37:51 GMT</lastBuildDate>
+  <description>NASA 官方新闻 + 英译简</description>
+  <lastBuildDate>Sat, 06 Jun 2026 21:44:09 GMT</lastBuildDate>
+  <item>
+    <title>NASA 的 X-59 飞机首次超音速飞行</title>
+    <link>https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/</link>
+    <guid>https://www.nasa.gov/aeronautics/x-59-first-supersonic-flight/</guid>
+    <pubDate>Fri, 05 Jun 2026 20:44:57 +0000</pubDate>
+    <description><![CDATA[6 月 5 日星期五，NASA 的实验型 X-59 飞机标志着一个重要的里程碑，它首次以超过音速的速度飞行，为今年晚些时候展示其安静的超音速能力奠定了基础。
+
+NASA 试飞员吉姆·“克鲁”·莱斯 (Jim “Clue” Less) 起飞并降落在加利福尼亚州的爱德华兹空军基地，最高速度约为 1.1 马赫（713 英里/小时），高度为 43,400 英尺。 X-59 的飞行于太平洋夏令时间上午 11:08 开始，持续了 81 分钟，团队重点关注亚音速和超音速下的飞行质量。
+
+“X-59 正在为安静的超音速首次亮相做好准备。自 2025 年 10 月 28 日飞机首次飞行以来，团队取得了巨大进展，在过去 90 天内飞行了 16 次，并进入稳定的测试节奏。在接下来的几天里，我们预计将迈出下一步，推动到 1.4 马赫，”NASA 局长贾里德·艾萨克曼 (Jared Isaacman) 说道，“我感谢 NASA 团队和洛克希德·马丁·臭鼬工厂感谢他们的帮助让我们走到了这一步，我希望这是我们重建 NASA X 飞机产品组合时众多合作中的第一个。”
+
+X-59 设计为以超音速飞行，同时只产生安静的重击声，而不是响亮的音爆。 在这次飞行中，一架 NASA F-15 追逐机在附近飞行以监视 X-59。 F-15 发出的巨大音爆掩盖了 X-59 发出的任何声音。
+
+“X-59 的首次超音速飞行证明了美国在科学、工程和航空航天创新领域的持久领导地位，”总统科学技术助理兼科学技术政策办公室主任迈克尔·克拉西奥斯 (Michael Kratsios) 说。 “这一成就是在特朗普政府继续努力释放超音速飞行并发挥美国人的创造力之际取得的。”
+
+第一次超音速飞行是一个重要的里程碑，但对任务更重要的事件即将到来。在短短几天内，该飞机预计将进行首次“任务条件”飞行，巡航速度达到 1.4 马赫（925 英里/小时），高度约为 55,000 英尺。此次飞行中，X-59 还将配备一架追逐飞机。
+
+这个速度和高度是 X-59 最终飞越美国几个社区的基本条件，使 NASA 能够收集有关人们如何感知其安静撞击声的数据。 美国宇航局将与美国和国际监管机构共享这些数据，以帮助建立新的数据驱动的噪声标准，从而为陆地上的超音速商业飞行创造未来可行的市场。
+
+在过去的几个月中，X-59 一直在参加一系列正在进行的飞行，飞机一直在各种速度和高度下飞行，这一过程称为包络扩展。这些测试是 X-59 飞行测试的第一阶段。它们专注于性能并涉及追逐飞机监控。 当飞机完成此阶段时，它将进入另一个阶段，重点关注其声音轮廓，以验证其安静的重击能力。
+
+X-59 是 NASA 探索任务的核心，该任务旨在演示安静的超音速飞行，并帮助实现全球陆地上空的商业超音速飞行。 这些进步将帮助旅行者更快地到达他们的首选目的地，并减少在空中的时间。
+
+通过 Questst 开发 X-59，NASA 还将提供用于安静超音速客机的设计工具和技术，这些客机将在不干扰地面人员的情况下实现商业运营商所需的高速。美国宇航局将通过地面和飞行测试来验证设计工具，使美国飞机制造商能够探索新的安静超音速概念，并让他们相信他们的最终设计将满足安静飞行要求。]]></description>
+  </item>
+  <item>
+    <title>NASA 公布 2026 年大学创新竞赛获奖者</title>
+    <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/</guid>
+    <pubDate>Fri, 05 Jun 2026 20:17:11 +0000</pubDate>
+    <description><![CDATA[NASA 宣布麻省理工学院项目“探索级月球综合动力系统”成为 2026 年革命性航空航天系统概念 - 学术联系 (RASC-AL) 竞赛的第一名获奖者，该竞赛要求学生通过创新新的系统概念和原型来弥合航空航天技术方面的差距。
+
+来自同一所大学的另一个团队凭借其项目“火星探索运营、研究和推进分层基础设施”获得了总体第二名，而弗吉尼亚理工学院和州立大学则凭借火星塔网络获得了第三名。
+
+为了赋予下一代权力，竞赛还通过为大学团队提供任务架构开发、系统工程和技术交流方面的实践经验来支持该机构的劳动力发展优先事项。
+
+“获奖团队展示了学术创新如何支持阿尔忒弥斯任务目标，”RASC-AL 项目发起人、美国宇航局弗吉尼亚州汉普顿兰利研究中心高级空间系统工程师 Daniel Mazanek 说道。 “他们的工作强调了学生研究在塑造未来太空探索中所发挥的重要作用，结果展示了严谨的分析如何将创新想法提升为可行的探索概念。”
+
+14 名决赛入围者参加了在佛罗里达州可可海滩举行的为期多天的 RASC-AL 论坛，并进行了正式演讲，概述了他们的任务架构、技术解决方案和支持分析。这些讨论为学生提供了实时工程反馈，让他们接受了该机构正在开发的载人航天概念的严格要求和审查。
+
+奖项颁发给了表现出最高水平的技术严谨性、创新性和使命一致性的团队。 除了最高奖项外，其他奖项还包括：
+
+安柏瑞德航空大学全球校园先进的资源利用，以实现地外能源和生存能力（AUREVO 项目）伊利诺伊大学厄巴纳-香槟分校与达芬奇工程学院采矿和风化层的高级改造，用于基础设施和扩展 (MATRIX)
+
+“RASC-AL 项目让学生能够展示他们将创新概念转化为技术上可靠的研究的能力，重点是技术严谨性、清晰的沟通和系统级思维，”RASC-AL 项目发起人、NASA 兰利系统分析和概念理事会首席技术专家 Christopher Jones 说道。 “这些是我们正在寻找的有效工程的标志，并反映了解决现实世界航空航天问题所需的标准，”
+
+NASARASC-AL 竞赛代表了跨机构合作。该竞赛由美国国家航空航天研究所管理，并由 NASA 锦标赛实验室管理，是该机构奖项、挑战和众包计划的一部分。]]></description>
+  </item>
+  <item>
+    <title>美国宇航局阿耳忒弥斯二号月球任务研究在地球上继续进行</title>
+    <link>https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/</link>
+    <guid>https://science.nasa.gov/uncategorized/nasas-artemis-ii-moon-mission-research-continues-on-earth/</guid>
+    <pubDate>Fri, 05 Jun 2026 19:16:48 +0000</pubDate>
+    <description><![CDATA[Since NASA’s Artemis II crew members safely splashed down in the Pacific Ocean on April 10 after their record-setting mission around the Moon, science teams have been busy collecting more data and combing through observations collected on the test flight. Results from these science investigations will help support safe human exploration of deep space and provide a blueprint for how future missions will conduct science on the lunar surface as NASA builds a Moon Base and develops an enduring human presence there.
+
+In the hours, days, and weeks after landing, the Artemis II crew members, NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and CSA (Canadian Space Agency) astronaut Jeremy Hansen, contributed critical data to help the agency understand how the human body reacts to spaceflight. Collecting this data as soon as possible after landing was important to understand how the body adapts from microgravity to Earth’s gravity. The data will inform NASA’s understanding of how quickly crews can complete mission-critical tasks after landing on a planetary surface like the Moon or Mars, where there won’t be landing support personnel to assist.
+
+Within a day of splashdown, researchers collected a suite of data for theArtemis II Spaceflight Standard Measuresstudy, which is part of a larger effort across the astronaut corps to gather a baseline set of health measurements on blood pressure, heart rate, eye health, and motor control. Crew members also completed a mini obstacle course, which included lying down, standing up, unfurling a rope ladder, ladder climbing, and more, to assess how their bodies were adapting to Earth’s gravity.
+
+Once the crew returned to NASA’s Johnson Space Center in Houston, researchers guided them through further medical check-ups andtests of motor control. Over the next several days, the crew completed obstacle courses wearing spacesuits offloaded to lunar gravity, which is roughly one-sixth the force of Earth’s gravity. Researchers are now analyzing this data to gain insight into how crews may perform as they adapt to the gravity of a planetary surface.
+
+As part of theImmune Biomarkersstudy, researchers are comparing blood and saliva samples collected after the Artemis II splashdown with samples collected preflight and during the mission. Among other topics, the study investigates whether and how dormant viruses reawaken in astronauts’ bodies while in space.
+
+Some crew members completed postflight cognition tests and a simulated manual spacecraft docking task to assess motor control for the ARCHeR (Artemis Research for Crew Health & Readiness) study. This, combined with data collected through a wrist-worn device while crew members were in space, is used to understand the effect of space hazards on well-being and performance.
+
+Initial data collections for Artemis II health studies concluded 45 days after splashdown. However, medical teams will continually monitor astronaut health throughout the Artemis II crew members’ lifetimes.
+
+Once this data is processed and anonymized, information will be available for scientists to study the effects of spaceflight via a request to NASA’sLife Sciences Data Archive. The results from this work could lead to new technologies and studies that help predict the adaptability of crews on future missions to the Moon and Mars.
+
+Organ chips from NASA’s AVATAR (A Virtual Astronaut Tissue Analog Response) investigation  are being analyzed at chip developer Emulate's laboratory in Boston. The organ chips included bone marrow cells from each Artemis II astronaut. They flew around the Moon with the astronauts, and now researchers are studying these organ chips to determine how deep space radiation and microgravity affect human health at the molecular level.
+
+Scientists are comparing the chips flown aboard the spacecraft to ground controls and crew blood samples using advanced techniques, including single-cell RNA sequencing. The analysis will characterize how organ chips model individual responses to spaceflight, which is data that could allow NASA to send future astronauts’ AVATAR chips ahead on missions to develop personalized medical kits. The researchers plan to share early findings at scientific conferences while full analysis continues.
+
+On April 6, the Artemis II crew members studied features on and around the Moon for nearly seven hours during Orion’sclosest approachto the lunar surface. Their work was guided by a minute-by-minuteobservation plandeveloped by the Artemis II lunar science team.
+
+Scientists are reviewing the data collected from the mission, which includes images, video, and audio files, to release a report of their initial data interpretations later this year. The report will cover observations of impact flashes, variations in color on the lunar surface, and the shape and texture of faults and ridges. The team also will publish a report on how Artemis II lunar science observations were planned, organized, and executed for the benefit of]]></description>
+  </item>
+  <item>
+    <title>NASA 结束天线事故调查并发布报告</title>
+    <link>https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/</link>
+    <guid>https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-concludes-antenna-mishap-investigation-releases-report/</guid>
+    <pubDate>Fri, 05 Jun 2026 17:00:00 +0000</pubDate>
+    <description><![CDATA[NASA has completed the investigation into the damage sustained last year at its 70-meter radio-frequency antenna, known as the Deep Space Station 14 (DSS-14), at the Goldstone Deep Space Communications Complex near Barstow, California. The agency has classified the event as a Type A mishap based on the total cost of damages. The antenna will remain offline to complete repairs and previously scheduled upgrades.
+
+“NASA takes safety and any departure from established procedures seriously, and the investigation at Goldstone made clear that we must strengthen our processes. We are acting on the investigation’s findings,” said Joel Montalbano, acting associate administrator for NASA’s Space Operations Mission Directorate at the agency’s headquarters in Washington. “We will update and improve procedures, rebuild core in-house capabilities, and reinforce operational discipline across the Deep Space Network. NASA remains focused on learning from this and modernizing systems, so DSS-14 and the broader network are ready to support our ambitious future missions.”
+
+On Sept. 16, 2025, theDSS‑14 antennaover‑rotated while actively tracking theJunomission, placing excessive stress on cabling and associated structural supports. Water lines tied to the antenna’s fire‑suppression system also were damaged, causing significant flooding in the facility. There were no injuries.
+
+NASA convened a Mishap Investigation Board, bringing together experts from across the agency to examine the technical, organizational, and cultural factors behind the incident. The board conducted on‑site inspections, interviews, and detailed reviews of technical documentation and operational logs from all threeDeep Space Networksites. The board completed its final report in April and submitted it for agency concurrence.
+
+The investigation issued findings and recommendations that emphasize training, technical rigor, operational procedures, system design, clear roles and responsibilities, and safety assurance. At the same time, teams already are applying lessons learned across all network sites to improve operational consistency. These steps will help bolster the network and reduce the risk of future mishaps.
+
+In its final report, the board found the mishap primarily stemmed from software weaknesses, human error, and an undetected failure in the antenna’s hydraulic limit system. Investigators determined an electrical issue at the antenna the previous day caused the control system to misreport the antenna’s rotation state, an issue that went unnoticed and triggered multiple limit-stops during the Juno track on Sept. 16. While working to identify the limit-stop problem, operators performed several troubleshooting steps that inadvertently bypassed software and hardware safeguards, which ultimately led to the over-rotation incident. After flooding in the antenna base was observed, operators attempted to stow the antenna as a safety precaution, however, because the system had already passed the rotation limits, this action drove the antenna further into over‑rotation, causing additional damage.
+
+Additionally, the investigation found the antenna’s hydraulic limit system, its final mechanical safeguard, was inoperable on Sept. 16 after being damaged in an undocumented prior incident. The system also had not been adequately tested for an undetermined period of time.
+
+Investigators also concluded workplace culture pressured operators to work as expeditiously as possible, often stretching beyond their usual roles, expertise, and training, to keep the antenna operating. The board states the cultural conditions observed at Goldstone were not present at the network’s other sites, where roles and responsibilities are followed more consistently. Other contributing factors outlined in the report include inadequate procedures, reliance on undocumented practices and tacit knowledge, and gaps in the antenna’s control logic. NASA will accept this as the final report.
+
+The agency estimates repairs will cost between $4.1 and $4.6 million, with a final figure to be determined after the antenna’s systems are fully assessed. The antenna will remain offline as it enters its previously scheduled extended maintenance and upgrade period, originally set to begin in August and expected to be completed by October 2028. These upgrades are part of broader network improvements essential to supporting future exploration and science missions, as well as enhancing the nation’s planetary defense capabilities.
+
+“We are committed to learning everything we can from this incident, and we’ve already begun putting those lessons into practice,” said Kevin Coggins, deputy associate administrator for NASA’s SCaN (Space Communications and Navigation) Program at the agency’s headquarters. “Our teams are working to strengthen and standardize processes and training across all three network sites to ensure it remains resilient, consistent, and ready to support the next generation of missions. Every challenge ]]></description>
+  </item>
+  <item>
+    <title>第一步：美国艰苦的第二次太空行走</title>
+    <link>https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/</link>
+    <guid>https://www.nasa.gov/image-article/first-steps-americas-grueling-second-spacewalk/</guid>
+    <pubDate>Fri, 05 Jun 2026 15:47:27 +0000</pubDate>
+    <description><![CDATA[在“双子座四号”宇航员爱德华·H·怀特完成首次太空行走一年后，该机构为艰巨的第二次太空行走做好了准备。原定于双子座 VIII 进行的舱外活动 (EVA) 在该任务提前结束后被重新分配给双子座 IX-A，吉恩·塞尔南 (Gene Cernan) 接手了这项任务。
+
+1966 年 6 月 5 日，即任务的第三天，塞尔南走出飞船，很快发现自己正在与自己的设备作斗争。他的宇航服非常僵硬，即使是简单的动作也需要付出很大的努力。他努力完成最简单的动作。
+
+几分钟之内，塞尔南就筋疲力尽，大汗淋漓。他的宇航服仅通过氧气循环来冷却，当他努力完成 EVA 的目标时，他的头盔完全被雾化，遮挡了他的视线，他的心率升至每分钟约 180 次。随着人们越来越担心他可能会失去知觉，舱外活动被取消，塞尔南的太空行走在两小时零八分钟后结束。
+
+当 Gemini IX-A 返回地球时，医生发现塞尔南在三天的任务中体重减轻了 13 磅，其中大部分是在 EVA 期间流失的水分。
+
+塞尔南那天面临的挑战重塑了美国宇航局的太空行走方法。他的经历直接影响了训练方法的改进、舱外活动程序的完善，并促进了宇航服设计的进步——几年后宇航员为月球表面任务做好准备的关键步骤。]]></description>
+  </item>
+  <item>
+    <title>以火救火</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/fighting-fire-with-fire/</guid>
+    <pubDate>Fri, 05 Jun 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[在澳大利亚北领地易发生火灾的生态系统中，人们会进行规定的焚烧，以最大程度地减少季节后期火灾的严重程度。
+
+大多数年份的五月和六月，美国宇航局卫星通常开始探测到澳大利亚北领地北部地区和阿纳姆地地区的大量荒地火灾。在某些日子里，尤其是在下午，大火可能类似于卫星图像中的大规模野火，广泛蔓延并产生大量烟雾。
+
+美国宇航局的 Aqua 卫星于 2026 年 5 月 28 日下午拍摄到这张烟雾和火灾图像时就是这种情况。然而，通常情况下，该地区燃烧的火灾看起来较小且不那么壮观。例如，在几天前和几天后的早晨，美国宇航局卫星尽管观察到许多表明火灾活动的热异常或热点，但几乎没有检测到烟雾。
+
+燃烧的模式、位置和时间与有意管理景观的规定火缝一致。土地管理者往往在早上生火，而烟雾会在一天中不断积聚。当上升气流和中等强度的风将烟雾从火中吹走时，这一过程有时会产生大量羽流，就像 5 月 28 日和 6 月 2 日发生的那样。火灾通常会烧毁该地区热带稀树草原生态系统中耐火的草丛、灌木丛和零星树木。
+
+在过去的几十年里，该地区的土地管理者将根深蒂固的原住民土地管理实践与现代技术相结合，建立了大规模的景观管理计划，例如西阿纳姆土地消防项目和阿纳姆土地消防项目。这些努力的目标是有意燃烧一些稀树草原灌木丛，以在旱季初期建立防火带并减少燃料负荷，从而减少旱季后期更具破坏性和排放密集型的火灾。据澳大利亚气象局称，旱季通常从五月开始，一直持续到九月。
+
+尽管研究仍在进行中，但有迹象表明规定的燃烧努力正在产生预期效果。对火灾的卫星观测分析表明，规定的燃烧工作已将火灾活动从旱季的后期转移到早期，从而减少了高强度火灾和排放。
+
+NASA 地球观测站图像，由 Michala Garrison 拍摄，使用来自 NASAEOSDIS LANCE 和 GIBS/Worldview 的 MODIS 数据。 亚当·沃伊兰的故事。
+
+当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
+
+2026 年 3 月，美国大平原干燥、温暖和多风的天气导致了极端的火灾活动。
+
+由于干旱席卷美国东南部，消防队员正在该州南部扑灭两场破坏性大火。
+
+荒地大火烧焦了草地、沿海鼠尾草灌木丛和丛林，覆盖了该岛三分之一的面积，这是该岛的第二大岛……
+
+订阅地球观测站并将地球放入您的收件箱中。
+
+美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
+
+开放访问 NASA 的地球科学数据档案]]></description>
+  </item>
+  <item>
+    <title>NASA 举办 2026 年先进复合材料制造审查</title>
+    <link>https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/</link>
+    <guid>https://www.nasa.gov/directorates/armd/aavp/hicam/nasa-hosts-2026-review-on-advanced-composite-manufacturing/</guid>
+    <pubDate>Thu, 04 Jun 2026 20:36:24 +0000</pubDate>
+    <description><![CDATA[美国宇航局兰利研究中心公共事务官员
+
+NASA 的高速复合材料飞机制造 (HiCAM) 项目汇集了先进复合材料联盟合作伙伴的完整团队，在弗吉尼亚州汉普顿的 NASA 兰利研究中心进行 2026 年春季审查。
+
+这次会议于 5 月 5 日至 7 日举行，来自该联盟（一个由 22 名成员组成的公私合作伙伴关系）的约 150 人参加了会议。
+
+此次审查使美国宇航局和行业合作伙伴有机会了解最近的进展并规划未来的工作。美国宇航局宣布了最近的投资组合决定，选择对下一个飞机项目的制造率影响最大的技术。
+
+在会议期间，团队审查了项目开发阶段的最新结果，并讨论了第二阶段（即演示阶段）的早期进展。这一阶段将在未来几年扩大关键制造技术。
+
+该活动的主要部分包括全天研讨会，重点关注两种大型飞机结构的组装演示：机翼和机身。这些会议汇集了 NASA 研究人员、行业工程师和合作伙伴，分享最新动态、交流想法并讨论长期计划。许多团队表示，他们注意到今年整个集团的协作和协调更加加强。
+
+此次合作支持了 HiCAM 在 2028 年和 2029 年大规模制造复合材料机身筒和翼盒的目标。这些演示代表了重大项目里程碑，并将有助于展示先进的复合材料和工艺如何支持更快、成本更低的飞机生产。
+
+美国宇航局及其合作伙伴继续朝着该项目的目标稳步前进。该项目的工作可以帮助为轻质复合结构的新制造方法铺平道路，使未来的飞机更容易制造、更高效地操作。
+
+Kimiko Booker美国宇航局兰利研究中心]]></description>
+  </item>
+  <item>
+    <title>美国宇航局资助的研究显示野火烟雾对臭氧层造成的隐藏影响</title>
+    <link>https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/</link>
+    <guid>https://science.nasa.gov/earth/nasa-funded-study-shows-wildfire-smokes-hidden-ozone-toll/</guid>
+    <pubDate>Thu, 04 Jun 2026 18:01:59 +0000</pubDate>
+    <description><![CDATA[Writer/Editor (IV), Earth Science Division
+
+Wildfire smoke is stoking a new challenge for cleaner air. A NASA-supported study published Thursday found that, over the last decade, wildfires have worsened ground-level ozone pollution across much of the contiguous United States, creating unhealthy air far from active flames.
+
+Wildfires have become an increasingly important contributor to ground-level ozone, or smog, across much of the United States, researchers reportJune 4 in the journal Science. Nationally, fires offset nearly four years’ worth of ozone-control gains, with larger setbacks in the West and Midwest.
+
+Smoke often is associated with the soot, ash, and other fine particles that make the air look hazy. But wildfires also emit gases such as carbon monoxide, which can help form surface ozone in sunlight when other pollutants are present. Surface ozone is an invisible pollutant harmful to human health, plants, and crops. As smoke plumes travel and mix with other pollution, those reactions can drive ozone increases hundreds or even thousands of miles from active fires.“NASA Earth observations, along with ground monitoring networks, help reveal air quality risks from wildfires that can cross state lines, giving air quality managers better decision-making information as wildfire smoke affects more communities,” said John Haynes, manager of NASA Earth Action’s Health and Air Quality program at the agency’s Headquarters in Washington. “This is a strong example of NASA science serving communities here in the U.S.”
+
+High in the atmosphere,ozone shields Earth from harmful ultraviolet radiation. Near the ground, however, ozone can irritate lungs, worsen asthma and other respiratory diseases, and increase health risks for children, older adults, outdoor workers, and people with existing health conditions.
+
+To track surface ozone changes, researchers turned to deep learning, a form of artificial intelligence that finds patterns across large datasets. They used it to build a first-of-its-kind dataset estimating daily surface ozone from 2003 to 2024 on a kilometer-by-kilometer grid — about 0.6 miles on each side — across the contiguous U.S. The work received support from NASA’s Health and Air Quality program and other NASA grants.
+
+The scientists combined data from about 1,000 ground-based air quality stations with atmospheric model data, weather information, wildfire pollution data, and satellite-derived information, including products from the Visible Infrared Imaging Radiometer Suite (VIIRS) and the Moderate Resolution Imaging Spectroradiometer (MODIS) instruments.
+
+Their analysis revealed two distinct periods. From 2003 to 2015, U.S. ground-level ozone generally declined as emissions of ozone-forming pollutants decreased. After 2015, however, those gains slowed or reversed in many places. By comparing estimated ozone levels with scenarios that removed wildfire influence, the researchers found that pollution from wildfires was a main factor in that shift.
+
+Without the wildfire contribution, ground-level ozone in the Midwest, for example, would likely have continued to decline. Instead, wildfires erased about 5.3 years’ worth of ozone-control progress since 2015.
+
+“People in the Midwest may think fires burning far away will not affect them,” said the study’s corresponding author Jun Wang, an atmospheric scientist at the University of Iowa in Iowa City. “But once wildfire pollution is in the air, it can move across regions. Pollution from one place can affect air quality in another.”
+
+The study also found that wildfire-driven ozone increased exposure to unhealthy air and likely contributed to premature deaths. Premature deaths associated with long-term wildfire-related ozone exposure in the U.S. increased by an estimated 318 deaths per year after 2013, with the post-2013 average 46% higher than in the previous decade. The researchers calculated premature deaths using average lifespan, ozone exposure estimates, and population density.
+
+The2023 Canadian wildfiresshowed how widely those risks can spread, with smoke-driven ozone increases stretching across the Midwest and into parts of the Northeast and South. Overall, from 2022 to 2024, wildfires exposed an additional 43 million people in the U.S. to conditions that did not meet current federal air quality standards for ozone, the researchers estimated.
+
+Capturing that national picture is difficult from ground monitors alone. Ground monitors remain the backbone of U.S. air quality tracking, but they do not cover every community. NASA’s scientifically validated satellite observations and models help researchers and agencies see air quality patterns across states, regions, and fire seasons.
+
+That broader air quality work includes newer missionssuch as TEMPO(Tropospheric Emissions: Monitoring of Pollution). Launched in 2023, TEMPO is NASA’s first mission to use a space-based spectrometer to provide hourly daytime measurements of air quality over North America. Its view]]></description>
+  </item>
+  <item>
+    <title>色彩缤纷、混乱的木星</title>
+    <link>https://www.nasa.gov/image-article/colorful-chaotic-jupiter/</link>
+    <guid>https://www.nasa.gov/image-article/colorful-chaotic-jupiter/</guid>
+    <pubDate>Thu, 04 Jun 2026 15:58:03 +0000</pubDate>
+    <description><![CDATA[美国宇航局的朱诺号宇宙飞船在 2024 年 5 月 12 日第 61 次近距离飞越木星北半球时捕捉到了木星北半球的彩色增强视图。
+
+公民科学家加里·伊森 (Gary Eason) 使用 JunoCam 仪器的原始数据制作了这张图像，并应用数字处理技术来增强色彩和清晰度。它提供了科学家称为折叠丝状区域的混乱云和气旋风暴的详细视图。在这些区域，在木星云层中形成熟悉的带状图案的纬向急流会分解，导致湍流图案和云结构在短短几天内迅速演变。
+
+了解更多关于通过公民科学项目进行 NASA 科学的机会。
+
+图片来源：NASA/JPL-Caltech/SwRI/MSSS；图像处理由 Gary Eason © CC BY]]></description>
+  </item>
+  <item>
+    <title>从阿尔忒弥斯二号看到的月光下的地球</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/a-moonlit-earth-as-seen-from-artemis-ii/</guid>
+    <pubDate>Thu, 04 Jun 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[一名宇航员在前往月球途中拍摄的照片，以一种新颖的方式揭示了我们的星球及其在太空中的位置。
+
+从阿耳忒弥斯二号任务传回地球的第一批图像之一令人震惊。在一张图像中，地球的完整圆盘出现在天体现象中，说明了它在太阳系中的位置。尽管可见的半球似乎沐浴在阳光下，但实际上它是被月光照亮的。宇航员的有利位置提供了一个难得的机会，可以从新的角度捕捉夜间特征，尤其是人类居住区的灯光。
+
+一名阿耳忒弥斯宇航员在猎户座飞船完成跨月注入燃烧后拍摄了这张照片，猎户座飞船离开地球轨道并沿着飞往月球的轨道飞行。在照片中，从猎户座的角度来看，地球遮住了太阳，只在右下边缘留下一小部分明亮的光线。绿色极光是由太阳带电粒子与地球高层大气相互作用引起的，在北极和南极（分别为左下和右上）周围发光。
+
+太阳光还会产生模糊的辉光，即所谓的黄道光，出现在地球的右下角。这种现象来自于太阳光被行星际尘埃反射。地球上的天文观测者可能会在一年中的某些时间黎明或黄昏时看到它，它是一束微弱的光柱从地平线延伸出来。美国宇航局朱诺号宇宙飞船在前往木星的旅程中收集的数据表明，火星可能是产生黄道光的尘埃颗粒的重要来源。地球的另一个行星邻居金星在图像右下角显示为明亮的物体。
+
+在地球本身，城市灯光是人类活动的证据。明亮区域出现在西班牙、葡萄牙和北非（左下）、撒哈拉以南非洲（中左）和巴西（中右）。数码相机技术在满月照明的帮助下，使得在弱光下看到地球表面和大气的这些细节和其他细节成为可能。工作人员将相机的ISO设置为51,200，使其对光线高度敏感。作为比较，100 或 200 的 ISO 设置是白天摄影的常见设置。
+
+以前从航天器上拍摄的地球夜间景观可能看起来与这张照片非常不同，但也受到启发和启发。例如，阿波罗 12 号宇航员于 1969 年拍摄了地球食苏宁号；宇航员艾伦·比恩继续用画作描绘了他对这次事件的印象。
+
+最近，国际空间站上的宇航员从近地轨道拍摄了地球的夜间照片，而美国宇航局的 Black Marble 夜间灯光产品套件则利用卫星观测，以每日、每月和每年的时间尺度生成夜间灯光的科学质量记录。这些程序提供持续的数据记录，而 Artemis II 照片的独特之处在于，它是一张人类捕捉的全盘视图，同时显示了许多低光特征。
+
+辛迪·埃文斯 (Cindy Evans) 是美国宇航局约翰逊航天中心天体材料研究和探索科学部的高级探索科学家，她在阿耳忒弥斯二号任务期间在科学评估室工作，是地球上第一批看到该图像的人之一。埃文斯对它的美丽和所有可见太阳系特征所揭示的视角感到震惊。 “我非常喜欢这张照片，因为它是在月光下与地球一起拍摄的，它展示了地球是一个太阳系天体，一个与太阳风相互作用的动态行星，一个孕育生命的地方，”她说。
+
+美国宇航局戈达德太空飞行中心大气和数据系统副主任米格尔·罗曼说，这张图像也具有科学价值。 “它有力地说明了美国宇航局在科学和人类探索领域所做工作的广度，”他说。罗曼研究从太空中观察的夜间人造光，将其作为人类活动的可测量信号。
+
+“[这张照片]提醒我们，夜晚的地球在视觉上引人注目，物理上很复杂，而且科学上尚未得到充分探索，”罗曼说。 “我认为这张图片可以让我们一睹地球科学未来的发展前景。”
+
+NASA 图像由 Lauren Dauphin 为地球观测站准备。林赛·杜尔曼的故事。
+
+当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
+
+国际空间站上的一名宇航员惊讶地拍摄到一道划过黑暗的光雨……
+
+美国宇航局阿耳忒弥斯二号任务的机组人员在绕地球遥远的旅程中捕捉到了我们家乡星球的非凡图像……
+
+一系列夜间卫星图像揭示了月全食期间到达地球的月光如何变化。
+
+订阅地球观测站并将地球放入您的收件箱中。
+
+美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
+
+开放访问 NASA 的地球科学数据档案]]></description>
+  </item>
 </channel>
 </rss>
