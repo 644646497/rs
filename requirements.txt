@@ -1,5 +1,5 @@
 requests
 feedparser
-trafilatura
 beautifulsoup4
 opencc-python-reimplemented
+trafilatura
