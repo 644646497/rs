@@ -4,7 +4,30 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sun, 07 Jun 2026 07:45:27 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 07 Jun 2026 10:19:37 GMT</lastBuildDate>
+  <item>
+    <title>美政府入股 AI 公司有谱？川普正面回应，本周召开会议讨论</title>
+    <link>https://technews.tw/2026/06/07/trump-says-his-team-will-look-into-us-taking-stake-in-ai-companies/</link>
+    <guid>https://technews.tw/2026/06/07/trump-says-his-team-will-look-into-us-taking-stake-in-ai-companies/</guid>
+    <pubDate>Sun, 07 Jun 2026 08:19:34 +0000</pubDate>
+    <description><![CDATA[美国总统川普（Donald Trump）近日告诉记者，他的团队正在研究 AI 公司让美国大众持有股份的构想，并补充将与 AI 公司高层举行会议。
+
+「这当中有一些相当有意思的可能性，像是一种与美国大众之间建立伙伴关系。」川普在空军一号专机上告诉随行记者，「我们会研究看看。」
+
+川普将 AI 的潜在投资类比去年政府收购英特尔 10% 股份，他称美国已从这项投资获利。
+
+白宫方面未回应本周与 AI 公司高层会议的具体细节，至于可能在会议受邀范围如 Anthropic、OpenAI、Google、Meta、SpaceX 等公司未对此发表任何评论。值得一提的是，公布 IPO 计划的 SpaceX、Anthropic 及同样筹备 IPO 的 OpenAI，都是后续值得关注的公司。
+
+值得关注的是，川普政府正在伤脑筋，难以决定应对 AI 采取多严格的监管措施。
+
+川普政府突然取消原定 5 月 21 日举行的 AI 行政命令签署仪式，外媒报导推测，这次取消是科技业针对行政命令部分内容反弹所做的安排。川普曾表示他并不喜欢该行政命令中的某些部分，也不希望在美中 AI 竞赛有自缚手脚的状况发生。
+
+然而上周，川普签署一项行政命令的修订版本，要求顶尖 AI 开发商向大众发布模型前，主动将能力最强的模型送交政府进行网路安全测试。
+
+外界对 AI 的担忧不断升高，尤其 Anthropic 推出强大的 Claude Mythos 预览版，可找出企业和公部门的安全漏洞，使得担忧加剧。专家指出，如果 Claude Mythos 落入不法分子手中，可能扩大精密的网路攻击，特别像是金融业这类仰赖架构复杂、相互连结且有数十年历史的系统，恐被找出漏洞加以攻击。
+
+（首图来源：Flickr/Gage SkidmoreCC BY 2.0）]]></description>
+  </item>
   <item>
     <title>AI 分析 41 万则 Reddit 贴文，揭减肥针潜在未知副作用</title>
     <link>https://technews.tw/2026/06/07/ai-uses-reddit-posts-to-spot-potential-weight-loss-drug-side-effects/</link>
@@ -328,23 +351,6 @@ AI或许无法改变晶片业的景气循环本质，却能把循环拉得更长
 另外，台电近年持续推动微电网建设，希望透过分散式供电架构降低主电网负担，同时在天然灾害或紧急状况发生时，仍能维持社区及关键设施的基本供电需求。
 
 值得注意的是，吴进忠强调，面对地缘政治风险与网路攻击等多重挑战，台电未来将持续推动多元能源布局、储能系统建设、微电网发展及关键基础设施防护，进一步提升台湾电力系统韧性与能源安全。]]></description>
-  </item>
-  <item>
-    <title>55 岁以上玩家急增 64%，游戏业界仍未准备好迎接「退休一代」</title>
-    <link>https://technews.tw/2026/06/06/gaming-industry-still-unprepared-for-retiree-gamers/</link>
-    <guid>https://technews.tw/2026/06/06/gaming-industry-still-unprepared-for-retiree-gamers/</guid>
-    <pubDate>Sat, 06 Jun 2026 07:00:38 +0000</pubDate>
-    <description><![CDATA[游戏早已不再是年轻人的专利，但针对高龄玩家的游戏开发却几乎是零。市场分析公司 Newzoo 的代表 Emmanuel Rosier 在北欧最大游戏业界开发大会 Nordic Game 2026 上指出，高龄玩家既有时间又有金钱，是理想的目标客群，但整个游戏业界至今仍普遍漠视这个庞大市场。
-
-据 Newzoo 数据，2024 年英国 55 岁以上玩家多达 653 万人，预计到 2031 年将增至 732 万人。以英国 55 岁以上人口约 2,200 万计算，即每 3 名长者当中便有至少 1 名热爱游戏。2025 年 1 月 Statista 报告也显示，过去 10 年间 55~64 岁英国玩家数量增长达 64%，目前约 41% 同龄成年人会定期玩游戏。调查同时发现，55 岁以上玩家每周平均花超过 8 小时在游戏上。
-
-虽然数字持续上升，却没看到游戏业对此有何明显应对。目前市场上针对高龄玩家的作品极为稀缺，高龄玩家普遍面对反应力下降、难以长时间持续游玩的问题，让他们难以享受愈来愈讲求即时反应的现代游戏。
-
-英国游戏业协会 Ukie 行政总裁 Nick Poole 也表示，业界即将迎来「史上第一代退休玩家」，这批伴随游戏成长的人，渴望更创新、更成熟的游戏体验。
-
-BCG 报告指出，40% 的婴儿潮世代玩家及 50% 的 X 世代玩家每周花超过 5 小时玩游戏，消费动力绝不逊色于年轻一代。如何为高龄玩家量身开发节奏较慢、操控友善的游戏内容，将是游戏开发商值得认真投入的新课题，也是业界下一个待开拓的蓝海市场。
-
-（本文由Unwire HK授权转载；首图来源：Unsplash）]]></description>
   </item>
 </channel>
 </rss>
