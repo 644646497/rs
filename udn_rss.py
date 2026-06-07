@@ -9,7 +9,6 @@ import time
 
 cc = OpenCC('t2s')
 
-# 联合报即时新闻
 INDEX_URL = 'https://udn.com/news/breaknews/1/1'
 OUTPUT_FILE = 'udn_feed.xml'
 
@@ -28,8 +27,30 @@ def fetch_with_retry(url, max_retries=3):
                 raise
             time.sleep(2)
 
-def extract_article(html):
+def extract_article_and_date(html):
+    """提取正文和发布日期，返回 (text, date_str)"""
     soup = BeautifulSoup(html, 'html.parser')
+    
+    # 1. 提取发布时间
+    pub_date = None
+    # 尝试找 time 标签
+    time_tag = soup.find('time')
+    if time_tag:
+        pub_date = time_tag.get('datetime') or time_tag.get_text(strip=True)
+    if not pub_date:
+        # 尝试找 meta 标签
+        meta_tag = soup.find('meta', {'name': re.compile(r'date|pubdate|publish', re.I)})
+        if meta_tag:
+            pub_date = meta_tag.get('content')
+    if not pub_date:
+        # 尝试找包含"年"、"月"、"日"的段落（联合报常见格式）
+        for p in soup.find_all(['div', 'span', 'p'], class_=re.compile(r'date|time|publish', re.I)):
+            text = p.get_text(strip=True)
+            if re.search(r'\d{4}[-/年]\d{1,2}[-/月]\d{1,2}', text):
+                pub_date = text
+                break
+    
+    # 2. 清理正文
     for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe']):
         tag.decompose()
     
@@ -39,19 +60,44 @@ def extract_article(html):
     
     paragraphs = article.find_all('p')
     if not paragraphs:
-        return soup.get_text(strip=True)
+        text = soup.get_text(strip=True)
+    else:
+        valid_paragraphs = [p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 30]
+        text = '\n\n'.join(valid_paragraphs)
+        text = re.sub(r'\n\s*\n', '\n\n', text)
     
-    valid_paragraphs = [p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 30]
-    text = '\n\n'.join(valid_paragraphs)
-    text = re.sub(r'\n\s*\n', '\n\n', text)
-    return text
+    # 3. 格式化日期（如果抓到了）
+    if pub_date:
+        # 尝试解析各种日期格式
+        try:
+            # 格式: 2026-06-07T12:34:56+0800 或 2026-06-07 12:34:56
+            match = re.search(r'(\d{4})[-/](\d{1,2})[-/](\d{1,2})', pub_date)
+            if match:
+                year, month, day = match.groups()
+                # 尝试提取时间
+                time_match = re.search(r'(\d{1,2}):(\d{1,2}):?(\d{0,2})', pub_date)
+                if time_match:
+                    hour, minute, second = time_match.groups()
+                    second = second if second else '00'
+                    dt = datetime(int(year), int(month), int(day), int(hour), int(minute), int(second))
+                else:
+                    dt = datetime(int(year), int(month), int(day))
+                pub_date = dt.strftime('%a, %d %b %Y %H:%M:%S +0800')
+            else:
+                # 无法解析，保持原样
+                pass
+        except:
+            pass
+    else:
+        pub_date = datetime.now().strftime('%a, %d %b %Y %H:%M:%S +0800')
+    
+    return text, pub_date
 
 def fetch_and_convert():
     print(f"抓取联合报: {INDEX_URL}")
     resp = fetch_with_retry(INDEX_URL)
     soup = BeautifulSoup(resp.text, 'html.parser')
     
-    # 提取新闻链接
     links = []
     for a in soup.find_all('a', href=re.compile(r'/news/story/\d+/\d+')):
         url = a['href']
@@ -63,7 +109,6 @@ def fetch_and_convert():
         if len(links) >= 20:
             break
     
-    # 去重
     seen = set()
     unique_links = []
     for link in links:
@@ -77,13 +122,13 @@ def fetch_and_convert():
         print(f"[{idx+1}] 处理: {link['title'][:50]}...")
         try:
             article_resp = fetch_with_retry(link['url'])
-            raw_text = extract_article(article_resp.text)
+            raw_text, pub_date = extract_article_and_date(article_resp.text)
             cleaned = cc.convert(raw_text)
             if len(cleaned) < 100:
                 print(f"  ⚠ 正文过短({len(cleaned)}字)")
             else:
                 print(f"  ✓ 正文长度: {len(cleaned)} 字符")
-            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
+            print(f"  📅 发布日期: {pub_date}")
         except Exception as e:
             print(f"  ❌ 出错: {e}")
             cleaned = ""
@@ -97,7 +142,6 @@ def fetch_and_convert():
             'guid': link['url'],
         })
     
-    # 生成 XML
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n<channel>\n'
     xml += '  <title>联合报新闻 RSS（简体/全文）</title>\n'
     xml += '  <link>https://udn.com/</link>\n'
