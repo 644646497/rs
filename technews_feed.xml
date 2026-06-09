@@ -4,171 +4,319 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 08 Jun 2026 21:31:15 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 01:51:30 GMT</lastBuildDate>
   <item>
-    <title>除了 AI，WWDC26 也升级了儿童安全机制</title>
-    <link>https://technews.tw/2026/06/09/apple-child-safety-features/</link>
-    <guid>https://technews.tw/2026/06/09/apple-child-safety-features/</guid>
-    <pubDate>Mon, 08 Jun 2026 19:06:46 +0000</pubDate>
-    <description><![CDATA[苹果 WWDC 2026 的一开头谈论的其实并不是 Siri AI，而是关心家中孩子的身心健康；且还不是简单带过即可，而是慎重地花了一段时间介绍了今年秋天即将更新的全新儿童安全功能。这项更新进一步扩展了既有的「儿童帐户」体系，将原本仅限于下载 App 的「询问购买」机制，全面延伸至网页浏览与陌生联络人管理，同时扩大升级了对敏感有害影音内容的系统级主动过滤。
+    <title>与云端巨头签 15 年长约  APLD 盘后股价飙逾 8%</title>
+    <link>https://technews.tw/2026/06/09/apld-15-year-cloud-giant-contract-after-hours-stock-surges-8/</link>
+    <guid>https://technews.tw/2026/06/09/apld-15-year-cloud-giant-contract-after-hours-stock-surges-8/</guid>
+    <pubDate>Tue, 09 Jun 2026 01:50:00 +0000</pubDate>
+    <description><![CDATA[受惠人工智慧（AI）资料中心需求持续爆发，美国资料中心业者 Applied Digital（APLD.US）宣布，已与美国一家大型云端服务商（Hyperscaler）签署为期 15 年的租赁合约，将在旗下 Delta Forge 2 园区提供 210 兆瓦（MW）运算容量，预计合约期间可挹注 52 亿美元营收，激励盘后股价大涨逾 8%。
 
-在这次系统更新中，苹果提供给家长的控制工具大幅加强了主动管理权限，最显著的改变莫过于引入了全新的「询问浏览」与联络人审查机制。未来当儿童在 Safari 浏览未被家长允许的全新网站时，装置会自动跳出通知，儿童必须向家长发出申请，待家长从远端审查并批准后方可访问该网页。
+Applied Digital 8日公告，该合约采「无条件支付」（Take-or-Pay）模式，客户无论实际使用量多寡，均须依约支付最低保底费用。Applied Digital未揭露客户名称，仅表明这是与同一家投资等级（ Investment-grade）大型云端业者签署的第三份长期租约。
 
-同样的防护也延伸到了社交圈管理，在讯息、FaceTime 与电话应用中，未成年使用者如果要将全新的陌生联络人加入通讯录或与其建立连线，都必须先取得家长同意。此举旨在提供家长分阶段调整孩子社交范围的工具，防止来自未知来源的潜在骚扰。
+随著科技巨头大举加码AI基建投资，市场对高效能运算（HPC）、资料中心及电力资源的需求快速攀升，也为Applied Digital带来稳定订单来源。Applied Digital指出，目前美国投资等级大型云端客户贡献的已签约营收占比达七成，营运基础稳固。
 
-除了社交与浏览权限的缩紧，通讯安全功能在今年也迎来了防护边界的实质扩展。苹果过去推出的通讯安全机制主要用于主动侦测与模糊化含有裸露成分的敏感照片，而在今年的升级中，系统首度将「血腥、严重肢体暴力与残忍画面」纳入主动侦测的范畴。
+Applied Digital表示，若客户全数行使续租选择权，合约期限最长可展延至30年，累计营收规模上看127亿美元。
 
-当系统发现经由内建通讯管道传输的影音包含此类不适当内容时，将会自动进行模糊处理并发出警告，且这项功能对于十八岁以下的儿童帐户将预设为开启，甚至同样适用于 FaceTime 通话画面。
+Delta Forge 2资料中心园区位于美国南部，专为AI工作负载设计，采用零耗水冷却系统，并具备高密度、节能高效等优势，预计2028年第一季投入营运。
 
-更棒的是，过去被部分家长认为不够直觉的「萤幕使用时间」，苹果在今年进行了彻底的介面更新与逻辑优化；新版系统导入了更细致的分组额度管理，家长现在能够针对娱乐、游戏或社群媒体等特定大分类，设定独立的每日时间配额，并能微调排程。
+Yahoo Finance报价显示，6月8日正常盘，Applied Digital股价上涨3.34%、收40.95美元；受租约利多激励，盘后股价再劲扬8.81%至44.55美元。
 
-家长可以设定在学校授课时间内仅维持教育类应用的可用性，而将娱乐应用的解锁时间向后递延。此外，系统在设定介面中亦整合了由美国儿科学会等儿童发展专家团队所建议的年龄指引，提供家长在配置时间时作为中立的参考依据。]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：pixabay）]]></description>
   </item>
   <item>
-    <title>WWDC26 懒人包：今年 Siri 总算要变聪明了?</title>
-    <link>https://technews.tw/2026/06/09/wwdc26-siri-ai/</link>
-    <guid>https://technews.tw/2026/06/09/wwdc26-siri-ai/</guid>
-    <pubDate>Mon, 08 Jun 2026 18:49:51 +0000</pubDate>
-    <description><![CDATA[苹果一年一度开发者大会（WWDC）终于登场，有别于过去以不同作业系统分门别类介绍的方式，今年主力宣传自家的 AI 功能，并且重新强调这次是将 Apple Intelligence 与 Siri 结合，升级成「Siri AI」，但如果仔细查看就会发现，其实有许多核心概念（像是萤幕感知、个人前后文理解、跨 App 操作）都是 2024 年发表「Apple Intelligence」时就承诺过的功能。
+    <title>微软数十个 GitHub 专案遭污染，AI 编码工具成恶意程式藏身地</title>
+    <link>https://infosecu.technews.tw/2026/06/09/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/</link>
+    <guid>https://infosecu.technews.tw/2026/06/09/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/</guid>
+    <pubDate>Tue, 09 Jun 2026 01:40:17 +0000</pubDate>
+    <description><![CDATA[微软多个开放原始码专案于近日被发现遭入侵，攻击者疑似在 GitHub 上植入可窃取密码的恶意程式，导致微软暂时关闭或移除数十个相关储存库。受影响的专案涵盖 Azure 云端服务，以及供开发者搭配 AI 编码工具使用的多项工具，包括 Claude Code、Gemini 的指令列介面与 VS Code 等。
 
-不过苹果并非全然地炒冷饭，在今年新推出的 Siri AI 中，仍加入了几项前两年没有提及的实体功能与规格升级。
+根据资安公司 Cloudsmith 与社群驱动的恶意程式分析网站 OpenSourceMalware 率先通报，这次恶意程式会在开发者开启遭污染的专案时，窃取帐号密码与其他敏感凭证。TechCrunch 报导指出，微软已证实移除（或封锁）受影响的储存库；当尝试存取相关 GitHub 页面时，至少有 70 个微软专案显示为「已被停用」，并出现「Access to this repository has been disabled by GitHub Staff due to a violation of GitHub’s terms of service」的提示讯息。此一报导先前由 404 Media 揭露，并由 TechCrunch 后续确认。
 
-如果你仔细看这次苹果所展示的 Siri AI，就会发现许多被视为核心卖点的功能，其底层逻辑与技术蓝图早在 2024 年的 WWDC 上就已亮相。当时苹果承诺要让 Siri 具备深刻的理解能力，而今年这些经典功能则是以更成熟的姿态被重新强调：
+这起事件被视为近期又一起针对热门开放原始码专案的供应链攻击。此类攻击通常锁定被广泛下载、安装或使用的程式码，以便让恶意内容扩散到大量使用者装置上。由于许多开发者会在云端系统与客户资料环境中使用这些工具，一旦凭证外泄，风险将被放大。
 
-市场期待了两年，上述的功能或许能够透过这次的更新，实际地呈现到你我的眼前。
+值得注意的是，这已是微软短时间内第二起已知的开放原始码专案遭入侵事件。TechCrunch 引述 Ars Technica 报导指出，今年 5 月中旬，微软的开放原始码专案 Durable Task 曾遭入侵；OpenSourceMalware 形容本次事件为对 Durable Task 的「再次入侵」（re-compromise），意指攻击者可能仍保有先前取得的存取权，或已进行新的独立渗透行动。
 
-虽然有许多 AI 核心概念沿袭自两年前，苹果今年依然在 Siri AI 上展现了实质的硬体整合与产品形态的转变，主要聚焦于独立应用程式的推出、多模态视觉整合以及全产品线的覆盖：
-
-除了上述的功能外，苹果软体工程高级副总裁 Craig Federighi 也在这次的 WWDC 大会上再度呼吁了 AI 隐私的重要性；他批评部分 AI 竞业只顾竞争，没有想到 AI 使用者真实的使用体验，AI 应该要与日常生活有所结合，并再度强调隐私的重要性。
-
-另外，在 2024 年 Apple Intelligence 的概念推出后，就有许多使用者关心「何时会支援到我使用的语言？」关于这一点使用者要先弄清楚的是，现在的 Apple Intelligence 已支援英语、丹麦语、荷兰语、法语、德语、义大利语、挪威语、葡萄牙语、西班牙语、瑞典语、土耳其语、越南语、简体中文、繁体中文、日语和韩语。
-
-但今年最新推出的 Siri AI 则将于今年稍后以测试版的形式面向拥有支援设备且语言设定为英语的用户推出，其他语言的支援还需要再等待。
-
-值得注意的是，受限于法规限制，欧盟地区的 Mac、Apple Watch 和 Apple Vision Pro 用户在将 Siri 语言设定为支援的语言后，即可使用 Siri AI。但 Siri AI 最初不会在 iOS 和 iPadOS 系统中于欧盟地区推出。
-
-另外在苹果完成中国的监管要求前，Siri AI 和其他新的 Apple Intelligence 功能也将不会在中国推出。]]></description>
+目前尚不清楚有多少使用者下载或启用了受影响的工具，也无法立即得知是否有大规模凭证外流。微软与相关单位的调查仍在进行中，建议开发者谨慎检查所使用的套件与工具来源，并立即更换可能外泄的凭证。]]></description>
   </item>
   <item>
-    <title>勤诚5月营收25.17 亿元</title>
-    <link>https://finance.technews.tw/2026/06/08/chenbro-8210-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/chenbro-8210-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 14:10:04 +0000</pubDate>
-    <description><![CDATA[勤诚（8210）今（8）日公布 5 月营收，达 25.17 亿元，较 4 月成长 21.8%，较去年同期成长  [&#8230;]]]></description>
+    <title>社群取代约会？研究发现智慧手机普及与生育率下滑时间高度吻合</title>
+    <link>https://technews.tw/2026/06/09/why-are-birthrates-down-two-new-studies-point-to-phones/</link>
+    <guid>https://technews.tw/2026/06/09/why-are-birthrates-down-two-new-studies-point-to-phones/</guid>
+    <pubDate>Tue, 09 Jun 2026 01:20:17 +0000</pubDate>
+    <description><![CDATA[两篇新研究提出，智慧型手机普及可能与全球生育率自 2007 年起的下滑有关，研究者指出这个时间点与 iPhone 问世相互重叠，并认为智慧型手机改变社群互动模式，可能加速了青少年与年轻族群的生育率下降。
+
+研究利用跨国与跨地区的智慧型手机与网路普及资料，将不同地区、不同时间的采用差异当作一种自然实验来分析可能的因果关系。研究团队强调，证明智慧型手机为唯一元凶非常困难，因为同一时期也有其他重大事件（例如经济衰退）、避孕与教育等因素可能同时影响出生率。
+
+在美国的资料中，研究发现青少年与年轻族群的生育率下降趋势较为明显；研究者也利用地区间智慧型手机与网路普及时间差，尝试趋近因果推论。作者们指出，当越来越多年轻人把社群活动转移到线上、面对面互动减少时，意外怀孕的机会可能因而降低，但这些证据并未宣称智慧型手机是唯一原因。
+
+对于全球背景，研究与其他已有文献一起，丰富了对近二十年来生育率下滑成因的理解，但也显示影响出生率的因素相当复杂，需要更多不同面向的研究来加以厘清。
+
+这两篇论文提供了新的研究方法与证据，使得「智慧型手机改变社群模式，进而影响生育行为」成为值得严肃检验的假说之一，但研究者仍呼吁谨慎解读，并进一步考量其他社会经济因素的影响。]]></description>
   </item>
   <item>
-    <title>解密地球生命前驱：月球诞生所引发的大气与潮汐，如何谱写生命演化首部曲</title>
-    <link>https://technews.tw/2026/06/08/how-moon-vapor-atmosphere-created-chemical-conditions-earth-life/</link>
-    <guid>https://technews.tw/2026/06/08/how-moon-vapor-atmosphere-created-chemical-conditions-earth-life/</guid>
-    <pubDate>Mon, 08 Jun 2026 13:55:07 +0000</pubDate>
-    <description><![CDATA[最新研究指出，地球生命形成所需的化学条件，可能源自月球诞生后所形成的高温蒸气大气层。现行主流的「撞击理论」认为，约 45 亿年前，一颗火星大小的原行星撞击原始地球，喷发至轨道上的熔融物质后来凝聚成月球。此次撞击释放极大的能量，使年轻地球表面形成全球性岩浆海，并在其上方建立厚重且高温的蒸气大气层。研究认为，这段剧烈而极端的时期，可能正是生命前驱化学物质形成的重要阶段。
+    <title>伦敦科技周，苏姿丰宣布 AMD 投资英国逾 840 亿元</title>
+    <link>https://technews.tw/2026/06/09/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom/</link>
+    <guid>https://technews.tw/2026/06/09/amd-commits-up-to-2-billion-to-accelerate-ai-innovation-and-research-in-the-united-kingdom/</guid>
+    <pubDate>Tue, 09 Jun 2026 01:10:55 +0000</pubDate>
+    <description><![CDATA[超微半导体（AMD）董事长暨执行长苏姿丰 8 日在伦敦科技周宣布，未来 5 年将投资英国 20 亿英镑（逾新台币 840 亿元），用于建设高效能运算基础设施、研究开发，以及直接投资英国新创企业。
 
-研究团队建立模型模拟撞击后地球大气与岩浆海之间的交互作用，发现炽热的大气环境能促进碳、氮与氢等元素进行快速化学反应，进一步生成氢氰酸（HCN）等前生物化学的重要分子。HCN被视为形成胺基酸、核酸与其他有机分子的关键原料之一，因此在生命起源研究中具有重要地位。模型显示，在高温蒸气大气与熔融地表长时间接触的条件下，这类化学物质可能大量累积，为后续生命化学演化建立基础。
+AMD将分别与剑桥大学和伦敦帝国学院（Imperial College London）在高效能运算基础设施和研发领域开展合作。与帝国学院的合作将侧重电脑科学、健康照护创新和气候研究。
 
-研究亦指出，月球形成初期与地球距离远比今日更近，因此潮汐作用极为强烈。巨大的潮汐力不仅影响早期海洋与地壳运动，也可能促进地表物质循环与化学混合，提高复杂有机化学反应的效率。此外，蒸气大气层中的高压环境有助于保留挥发性气体，使重要化学成分不易逸散至太空。研究者因此提出，月球不仅影响地球自转稳定与潮汐演化，也可能在生命诞生之前的化学准备阶段扮演关键角色。
+苏姿丰说，英国具备优秀人才、卓越的研究能力和充分野心，足以领导下一个人工智慧（AI）时代的发展。AMD很荣幸能与英国政府、学术和产业界深化合作，并针对发展主权AI不可或缺的运算基础设施扩大接触管道和便利性，以加速科学与科技新发现、推进长期经济成长。
 
-不过，研究团队强调，目前结果仍主要来自理论模型与数值模拟，早期地球的实际大气组成、撞击后冷却速率以及海洋形成时间仍存在相当不确定性。未来若能结合月球样本分析、行星形成模拟及对年轻类地行星的观测研究，将有助于进一步验证此理论。]]></description>
+英国财政大臣里夫斯（Rachel Reeves）说，AMD新投资案凸显国际重要企业对英国做为全球AI强权的信心。
+
+AMD近期曾宣布数项英国投资合作案，领域涵盖AI基础设施、超级电脑、融合式AI（fusion AI）、量子运算等。
+
+第13届伦敦科技周（London Tech Week）8日开幕，在西伦敦奥林匹亚会展中心（Olympia London）的主场馆议程订10日傍晚结束，总计超过100场的各项周边活动则将延续至12日。
+
+根据大会提供的资讯，今年伦敦科技周总计有超过600位讲者，吸引约3万人报名出席，有来自约130个国家的科学、科技、政治和投资界高阶代表参与盛会。
+
+英国首相施凯尔（Keir Starmer）8日发表演说，为伦敦科技周揭幕。施凯尔宣布，英国政府拟投入4亿英镑采购AI专用晶片。
+
+这项采购规划是英国政府8日同步发布的AI硬体计划（AI Hardware Plan）一部分。AI硬体计划总额约11亿英镑，将侧重硬体层面、支持英国企业，强化英国发展主权AI必要的晶片、半导体科技、运算能力和基础设施。
+
+8日在伦敦科技周开幕日上午，由英国官方及各国企业和投资人宣布的对英投资案，总额即高达数十亿英镑，其中许多是与运算基础设施有关。
+
+伦敦市长沙迪克汗（Sadiq Khan）也宣布，大伦敦地区政府拟挹注1,200万英镑，协助伦敦中小企业聪明运用AI于各项经营和业务活动。
+
+此外，英国王储威廉王子10日将首度出席伦敦科技周，召集企业领导人讨论如何善用资料与科技，预防民众陷入无家可归困境。这是伦敦科技周首次将相关议题纳入正式议程。
+
+据英国非营利组织Tech Nation估计，英国科技业今年估值可望达1.2兆英镑，且目前仅是在今年上半年，英国AI新创企业即已成功募得总计超过82亿英镑的创业投资资金。
+
+这意味今年以来，整个欧洲科技业吸引的新资金，有将近一半是流向位于英国境内的科技新创企业。各项估计资料显示，以整体生态系规模、估值、产值和投资金额而言，英国是全球第3大科技经济体。]]></description>
   </item>
   <item>
-    <title>旭隼5月营收月增4.8%</title>
-    <link>https://finance.technews.tw/2026/06/08/voltronic-6409-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/voltronic-6409-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:50:04 +0000</pubDate>
-    <description><![CDATA[旭隼（6409）公布 5 月合并营收 18.50 亿元，较上（4）月成长 4.8%，与去年同期相比为年增 0. [&#8230;]]]></description>
+    <title>美控协助中国军方，阿里巴巴百度比亚迪列黑名单</title>
+    <link>https://technews.tw/2026/06/09/us-says-byd-baidu-alibaba-and-other-tech-giants-are-aiding-chinas-military/</link>
+    <guid>https://technews.tw/2026/06/09/us-says-byd-baidu-alibaba-and-other-tech-giants-are-aiding-chinas-military/</guid>
+    <pubDate>Tue, 09 Jun 2026 01:00:39 +0000</pubDate>
+    <description><![CDATA[美国五角大厦今天公布美方认为正在协助中国军方的中国企业新增名单，电子商务集团阿里巴巴、网路搜寻引擎巨擘百度以及汽车制造商比亚迪（BYD）等入列。
+
+路透社报导，五角大厦2月一度公布更新名单，但随后撤下，而今天公布的名单有许多企业曾在2月名单中出现，包括阿里巴巴、百度及比亚迪。彭博（Bloomberg News）报导说，此举可能加剧美中紧张关系。
+
+其他新增公司还包括生技公司药明康德（WuXi AppTec），以及以人工智慧（AI）驱动的机器人公司速腾聚创（RoboSense） 。
+
+这项五角大厦名单未正式对中企施加制裁，但根据新法规，五角大厦未来数年将不得与名单上的公司签署合约或采购。
+
+列入名单也等于向五角大厦供应商和其他美国政府单位传递讯息，显示美国军方对这些企业的看法，其中部分公司曾因被纳入名单而对美国提起诉讼。]]></description>
   </item>
   <item>
-    <title>嘉晶5月营收月增1.7%</title>
-    <link>https://finance.technews.tw/2026/06/08/epi-3016-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/epi-3016-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:30:03 +0000</pubDate>
-    <description><![CDATA[嘉晶（3016）公布 5 月合并营收 4.34 亿元，较上（4）月成长 1.7%，与去年同期相比为年增 37. [&#8230;]]]></description>
+    <title>美晶片股收复部分失地，市场关注 SpaceX 上市吸金力</title>
+    <link>https://finance.technews.tw/2026/06/09/us-chip-stocks-recover-losses-market-eyes-spacex-ipo-attraction/</link>
+    <guid>https://finance.technews.tw/2026/06/09/us-chip-stocks-recover-losses-market-eyes-spacex-ipo-attraction/</guid>
+    <pubDate>Tue, 09 Jun 2026 00:50:53 +0000</pubDate>
+    <description><![CDATA[美国股市晶片股上周收盘暴跌，今天交易收复部分失地，美光、美满与英特尔等科技业者股价大幅反弹。华尔街众所瞩目的 SpaceX 将在 12 日挂牌上市，市场关注 20 多家承销银行与券商的吸金力，是否扭转资金动向。
+
+美股道琼、标普500与那斯达克指数5日大幅下跌后，8日涨跌互见。道琼小跌0.16%，标普500与那斯达克小涨0.30%、0.86%。费城半导体指数上扬5.61%。
+
+苹果（Apple）今天起举行全球开发者大会（WWDC），人工智慧开发的Siri AI与「苹果智慧」（Apple Intelligence）策略是焦点。这是执行长库克（Tim Cook）交棒前最后一次出席大会，期间预计将公布今年系列产品。
+
+全球期待AI出现实际有感成果并创造商业营收，苹果产品成为众所瞩目焦点，「苹果智慧」将与Google人工智慧平台Gemini合作。不过大会首日进行期间，苹果股价一度走高，但欠缺惊喜功能随后走低，收盘下跌1.89%。
+
+5日大幅下挫的晶片股今天收复部分失地，美光（Micron）与美满电子科技（Marvell Technology）大涨9.87%、9.63%，超微（AMD）上涨5.14%。
+
+媒体报导，Google母公司Alphabet将委托英特尔（Intel）2028年生产超过300万件人工智慧晶片，英特尔8日大涨11.19%。微软（Microsoft）与特斯拉（Tesla）也计划下单，显示英特尔代工业务转型已出现进展。
+
+博通（Broadcom）与辉达（Nvidia）分别上涨2.82%、1.73%。
+
+市场同时关注12日将上市的SpaceX招股动态。虽然业绩与展望是上市公司股价动态的依据，但历史数据显示，在投资人期待与业者利多消息下，首次公开募股（IPO）公司上市首日交易收盘价通常高于定价，优先取得上市新股几乎是当冲获利的保证，SpaceX成为华尔街投资人兵家必争之地。
+
+纽约时报（New York Times）报导，华尔街投资银行业者近期透过SpaceX将进行的IPO，推动财富管理业务并吸收新客户。随著财富世代移转趋势，资产管理已是投行重要业务。
+
+主要承销银行之一的摩根大通集团（JPMorgan Chase）近期在曼哈顿总部邀请350位高资产投资人出席承销说明会，与SpaceX创办人马斯克（Elon Musk）面对面沟通，当中包括亿万富翁、美式足球新英格兰爱国者队大股东克拉夫特（Robert Kraft）与家得宝（Home Depot）创办人兰格恩（Kenneth Langone）等，执行长戴蒙（Jamie Dimon）也在场。
+
+美国高资产富豪疯抢新股，SpaceX特别保留较一般IPO更高，约超过200亿美元的3成新股供散户投资。网路券商Robinhood与E*TRADE等未设条件，随机安排认购者，主要券商多设有帐户资金门槛并优先提供长期往来客户认购。]]></description>
   </item>
   <item>
-    <title>讯芯-KY5月营收6.24 亿元</title>
-    <link>https://finance.technews.tw/2026/06/08/shunsin-6451-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/shunsin-6451-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:20:22 +0000</pubDate>
-    <description><![CDATA[讯芯-KY（6451）今（8）日公布 5 月营收，达 6.24 亿元，较 4 月成长 -2.7%，较去年同期成 [&#8230;]]]></description>
+    <title>跟上 Anthropic 脚步，OpenAI 秘密提交 IPO 申请文件</title>
+    <link>https://finance.technews.tw/2026/06/09/openai-recently-submitted-a-confidential-s-1/</link>
+    <guid>https://finance.technews.tw/2026/06/09/openai-recently-submitted-a-confidential-s-1/</guid>
+    <pubDate>Tue, 09 Jun 2026 00:39:14 +0000</pubDate>
+    <description><![CDATA[OpenAI 跟上 Anthropic 脚步，以保密方式向美国证券交易委员会（SEC）提交 IPO 申请文件，并赶在马斯克（Elon Musk）旗下 SpaceX 预定上市之前送交，正式宣告 OpenAI 也将加入资本市场
+
+「我们最近以保密方式提交一份 S-1 文件。」OpenAI 表示，「由于我们预期这项消息将会走漏，因此直接对外公布。我们目前尚未决定具体时程，这可能会花上一段时间，因为某些我们希望进行的事项，以私人公司状态下进行可能比较容易。但这是一项涉及多项取舍的复杂决定，此举让我们保有一旦判断出较早 IPO 为最佳选择时、能更早公开上市的弹性。」
+
+日前公开估值 8,520 亿美元的 OpenAI 一直在为 IPO 做准备，最快今年第四季上市。透过保密方式提交申请文件，能让 OpenAI 在文件公开给社会大众和潜在投资人之前，先将财务资料送交主管机关进行审查。
+
+知情人士透露，OpenAI 同时计划促成一项收购要约，让员工能以 OpenAI 最新估值出售手中持股
+
+OpenAI 自 2022 年推出 ChatGPT 后便迅速进入主流视野，之后一路发展成为高估值的私人公司之一，而 ChatGPT 目前每周活跃用户超过 9 亿人。OpenAI 也面临来自 Anthropic、Google、SpaceX 等对手日益激烈的竞争
+
+一周前，Anthropic 宣布以保密方式提交 IPO 申请文件。在此之前不久，Anthropic 完成一轮估值达 9,650 亿美元的融资，超越 OpenAI 3 月底完成融资时的 8,520 亿美元估值。
+
+依 SpaceX 这次公开发行的市场反应，Anthropic 与 OpenAI 也可能基于彼此试图筹募庞大资金规模而互相较劲，争取早一步进入资本市场。
+
+OpenAI 执行长奥特曼（Sam Altman）在一篇官方部落格文章说明他所称的「OpenAI 第三阶段」。他表示，第一阶段是进行通用人工智慧的相关研究，第二阶段则是成为一家「产品公司」，并从人们如何使用其工具来学习。
+
+「如今我们正进入第三阶段。」，奥特曼表示，「整体经济开始围绕著 AI 进行重塑。眼前的核心问题是：如何让先进的 AI 对每个人与每个组织都能充裕、平价、安全、实用，且易于使用，进而从中受惠。」
+
+近几个月以来，OpenAI 一直试图在内部强调策略聚焦以及纪律，关闭了像是 Sora 等专案，并将大笔投资挹注在企业端业务以及编码工具 Codex 上，接下来还要改版 ChatGPT，打造成「超级 App」产品。
+
+（首图为 OpenAI 执行长 Sam Altman，来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>旺矽5月营收19.07 亿元</title>
-    <link>https://finance.technews.tw/2026/06/08/mpi-6223-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/mpi-6223-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:20:19 +0000</pubDate>
-    <description><![CDATA[旺矽（6223）今（8）日公布 5 月营收，达 19.07 亿元，较 4 月成长 28.4%，较去年同期成长  [&#8230;]]]></description>
+    <title>辉达携手 LG，开发人型机器人和资料中心</title>
+    <link>https://technews.tw/2026/06/09/nvidia-and-lg-group-build-an-ai-factory-to-advance-physical-ai-mobility-and-ai-infrastructure/</link>
+    <guid>https://technews.tw/2026/06/09/nvidia-and-lg-group-build-an-ai-factory-to-advance-physical-ai-mobility-and-ai-infrastructure/</guid>
+    <pubDate>Tue, 09 Jun 2026 00:30:52 +0000</pubDate>
+    <description><![CDATA[人工智慧（AI）晶片巨擘辉达（Nvidia）执行长黄仁勋 8 日表示，辉达将与韩国科技集团乐金（LG）合作，携手开发人型机器人与资料中心。
+
+路透社报导，黄仁勋在与乐金集团会长具光谟会面后告诉媒体：「我们将在马达技术与机械系统方面，和他们合作，如此一来我们就能将人型机器人与机器人的未来结合在一起。」他说：「我们也与乐金合作，共同擘画未来资料中心的架构。」
+
+8日是黄仁勋访韩行程最后一天。黄仁勋与具光谟5日在弘大共进晚餐，当时与会者还有SK集团和Naver会长等人。8日是两人在黄仁勋这趟行程中二度见面。
+
+根据韩国前锋日报（Korea Herald）报导，辉达与韩国企业的伙伴关系扩及半导体之外的领域。
+
+黄仁勋与具光谟讨论了双方在机器人、AI、资料中心与移动性（mobility）等领域的合作。
+
+黄仁勋会后向媒体表示，机器人技术是双方最重要的合作领域，他将此形容为电子、机械系统与AI的融合。他指出，乐金拥有不少对未来许多产业而言至关重要的技术。
+
+在被问及AI需求预期是否过高时，黄仁勋说，他不这么认为。他指出，这是新产业的开端，任何市场波动都是买进的机会。他指出：「韩国目前的AI基础设施规模还很小，因此这个产业的未来必定庞大得多。」他还说，如果股市正折价交易，「那就是买进的好时机」。
+
+具光谟则持较为保守态度。他说两人谈及「未来的方向」，而且加速AI时代「需要更多的合作」。他表示，深入讨论的时间不够，但黄仁勋已邀请他前往加州继续进行会谈。]]></description>
   </item>
   <item>
-    <title>嘉泽5月营收30.41 亿元</title>
-    <link>https://finance.technews.tw/2026/06/08/lotes-3533-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/lotes-3533-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:20:06 +0000</pubDate>
-    <description><![CDATA[嘉泽（3533）今（8）日公布 5 月营收，达 30.41 亿元，较 4 月成长 -10.3%，较去年同期成长 [&#8230;]]]></description>
+    <title>只要微幅改动就能吃得更健康、钱包也轻松！美大学训练 AI 拟减肥菜单成效颇佳</title>
+    <link>https://technews.tw/2026/06/09/ai-reveals-simple-ways-to-make-your-meals-healthier-and-cheaper/</link>
+    <guid>https://technews.tw/2026/06/09/ai-reveals-simple-ways-to-make-your-meals-healthier-and-cheaper/</guid>
+    <pubDate>Tue, 09 Jun 2026 00:20:48 +0000</pubDate>
+    <description><![CDATA[加州大学戴维斯分校开发人工智慧系统，能小幅改变食材，帮助民众不大改原本饮食习惯，饮食也能更健康省钱。论文5 月 28 日发表于开放期刊《PLOS Digital Health》。
+
+团队以美国「What We Eat in America」调查资料为基础，分析 135,491 份餐点与 55,228 名成人饮食纪录，找出常见早餐、午餐与晚餐模式，并训练生成式 AI 模型建立符合这些模式且调整分量的真实餐点。虽然降低糖尿病与心血管疾病风险的饮食建议相当明确，但许多人日常三餐仍难确实执行；现有饮食工具往往要求大幅调整菜单，实际执行不易维持或令人困惑。此次方法旨在将抽象饮食指南转成更具体、可执行且符合预算的调整方式。
+
+研究结果显示：与同类餐点相比，AI 建议菜单风格与风味仍高度相似，但符合美国农业部（USDA）营养目标方面，整体表现「接近度」提高 47%。如果替换一至三项食材，餐点营养品质平均可再提升约 10%，预估成本降低约 22%~34%。最常见建议包括增加蔬菜或豆类，并以较少加工或较低钠食材取代高加工或高钠选项。
+
+团队比较不同 AI 模型表现，发现饮食任务训练的专门模型结果比 GPT-4o 优秀，产生餐点也更接近 USDA 宏量营养素建议。研究者强调，此发现完全基于电脑模拟，尚未经使用者实际验证，因此仍需以人群实测评估实用性与接受度。
+
+作者总结：「健康饮食不必代表完全放弃喜欢的餐点；用 AI 找出少量且精准食材替换，就可能保留喜好，同时让饮食更有利健康与钱包。」团队认为，此技术有望支援公共卫生计划与消费者应用程式，将饮食指南具体化为可执行的餐点调整建议。]]></description>
   </item>
   <item>
-    <title>联钧5月营收月增9.4%</title>
-    <link>https://finance.technews.tw/2026/06/08/elaser-3450-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/elaser-3450-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:10:11 +0000</pubDate>
-    <description><![CDATA[联钧（3450）公布 5 月合并营收 9.60 亿元，较上（4）月成长 9.4%，与去年同期相比为年增 49. [&#8230;]]]></description>
+    <title>中国稀土出口卡关，日本急寻澳洲、印度替代来源</title>
+    <link>https://technews.tw/2026/06/09/china-rare-earth-export-curbs-japan-seeks-australia-india-alternative-sources/</link>
+    <guid>https://technews.tw/2026/06/09/china-rare-earth-export-curbs-japan-seeks-australia-india-alternative-sources/</guid>
+    <pubDate>Tue, 09 Jun 2026 00:10:58 +0000</pubDate>
+    <description><![CDATA[中国将稀土列为战略资源并强化出口管制，受日中关系恶化影响，中国对日稀土出口量近期大幅下滑。《日本经济新闻》分析数据发现，今年 3 月及 4 月中国对日本的稀土出口量，分别较去年同期锐减 88% 及 82%。日本企业正加速转向澳洲、印度等国寻找替代来源。
+
+报导指出，中国自1月起依据军民两用品项出口管制规定，进一步加强对日本的出口审查。中国方面不满日本首相高市早苗去年11月在国会针对「台湾有事」发表的言论，因此利用掌握全球约7成稀土产量的优势，对日本施加更大经济压力。
+
+中国商务部早在2025年4月便针对镝（Dysprosium）、 铽（Terbium）等7种稀土产品实施出口管制。统计显示，今年1月至4月，这7类稀土对日本出口总量较去年同期减少34%，其中3月比去年同期减少88%、4月比去年同期减少82%，降幅甚至超过中国刚祭出出口限制后的2025年5月（减少42%）。
+
+从品项来看，电动车（EV）马达不可或缺的镝与铽，自今年1月起对日本出口已完全归零。
+
+另一种重要稀土元素钇（Yttrium）的出口减少情况也相当严重。钇广泛应用于雷射医疗设备、半导体制造设备、航空及太空产业，被认为难以找到替代品。今年1月至4月，日本进口量较去年同期减少超过9成。
+
+由在中国营运的日商组成的中国日本商会相关人士表示，中国曾在去年10月日中领袖会谈后略微放宽出口限制，但随著2026年起两国政府间交流停滞，出口也再度中断。
+
+除稀土原料外，含有受管制稀土的高性能磁铁出口也变得困难。一名日本企业高层透露，「添加镝等稀土元素的高性能磁铁，目前几乎无法取得出口许可」。
+
+中国不仅掌握全球大部分稀土矿产资源，在稀土冶炼及加工领域的全球市占率更超过9成，使得各国短期内难以完全摆脱对中国供应链的依赖。
+
+日本企业正积极寻找中国以外的替代方案。JX金属已投资澳洲稀土矿区；博迈立铖（Proterial，原日立金属）则评估在印度兴建不使用重稀土的钕磁铁工厂。澳洲目前是全球第3大稀土生产国，印度则排名第6。
+
+回收再利用也是选项之一。三菱综合材料近期决定投资一家拥有稀土回收技术的美国企业，以提升资源循环利用能力。
+
+不过，替代并不容易。一家日本大型制造商驻中国高层警告，「如果目前情况持续下去，日本国内生产将受到影响，甚至可能导致工厂停工。」为了避免这种情况，一些企业已开始改变供应链模式，例如先在中国完成马达等电子零件组装，再出口至日本。
+
+日本政府也密切关注企业是否因原料取得困难而将生产基地转移至中国。原因在于，2010年钓鱼台列屿（日本称尖阁诸岛）争议期间，中国曾暂停对日稀土出口，促使部分日本磁铁制造商被迫赴中国设厂，结果反而促进中国本土磁铁产业崛起。如今，日本政府担心类似情况重演。]]></description>
   </item>
   <item>
-    <title>欣兴5月营收月增0.9%</title>
-    <link>https://finance.technews.tw/2026/06/08/unimicron-3037-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/unimicron-3037-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:10:09 +0000</pubDate>
-    <description><![CDATA[欣兴（3037）公布 5 月合并营收 140.60 亿元，较上（4）月成长 0.9%，与去年同期相比为年增 3 [&#8230;]]]></description>
+    <title>三星晶片主管与黄仁勋会面，讨论次世代晶圆代工合作</title>
+    <link>https://technews.tw/2026/06/09/samsung-elecs-chip-chief-says-he-discussed-next-generation-foundry-with-nvidia-ceo/</link>
+    <guid>https://technews.tw/2026/06/09/samsung-elecs-chip-chief-says-he-discussed-next-generation-foundry-with-nvidia-ceo/</guid>
+    <pubDate>Tue, 09 Jun 2026 00:00:24 +0000</pubDate>
+    <description><![CDATA[韩国三星电子（Samsung Electronics）共同执行长暨晶片事业主管全永铉 8 日表示，他在首尔与辉达（Nvidia）执行长黄仁勋会面期间，讨论了双方在次世代晶圆代工晶片方面的合作。
+
+路透社报导，全永铉（Jun Young-hyun）表示，三星电子与辉达目前在自动驾驶晶片以及Groq AI加速器晶片上进行合作，双方并就未来世代的半导体产品合作进行了讨论。
+
+他还说，双方就长期合作进行了广泛讨论，内容涵盖高频宽记忆体晶片HBM 4E与HBM5。
+
+黄仁勋今年3月展示采用晶片新创公司Groq技术的新AI推论晶片，并表示将由三星负责生产Groq LP30晶片，预计将于今年下半年出货。]]></description>
   </item>
   <item>
-    <title>国巨*5月营收150.58 亿元</title>
-    <link>https://finance.technews.tw/2026/06/08/yageo-2327-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/08/yageo-2327-202605-financial-report/</guid>
-    <pubDate>Mon, 08 Jun 2026 10:10:05 +0000</pubDate>
-    <description><![CDATA[国巨*（2327）今（8）日公布 5 月营收，达 150.58 亿元，较 4 月成长 7.3%，较去年同期成长 [&#8230;]]]></description>
+    <title>川普关税通路对手受创，沃尔玛为何还能成长？</title>
+    <link>https://finance.technews.tw/2026/06/09/how-walmart-keeps-growing-despite-trump-tariffs/</link>
+    <guid>https://finance.technews.tw/2026/06/09/how-walmart-keeps-growing-despite-trump-tariffs/</guid>
+    <pubDate>Mon, 08 Jun 2026 23:50:17 +0000</pubDate>
+    <description><![CDATA[川普关税大战，让仰赖全球贸易的企业与通路都叫苦连天，关税的不确定性，使得定价都不知该怎么定，通路更面临要吸收关税成本还是应该涨价的两难，前者大为损伤获利，后者则吓跑消费者与营收，因此在关税战期间，许多通路业都受到相当大的冲击。然而，当对手们都深受打击时，美国通路龙头沃尔玛却还能成长，趁机拉开与对手的差距，沃尔玛是如何做到的？
+
+川普政府除了关税战以外，2025 年削减联邦「补充营养协助计划」（Supplemental Nutrition Assistance Program，SNAP）经费，以及 2025 年预算无法通过的政府关闭期间，补充营养协助计划经费也受到影响，导致通路的相关食品营收受到冲击，但是其他通路业绩鸦鸦乌的时刻，沃尔玛却逆势成长。
+
+至 2026 年 1 月 31 日止的财务年度，沃尔玛毛营收 7,131.6 亿美元成长 4.7%，相对的，主要竞争对手中，克罗格（Kroger）营收 1,476.4 亿美元，仅成长 0.35%，大体上可说无成长；目标百货（Target）营收 1,047.8 亿美元，则是下跌了 1.68%；只有规模较小的艾伯森（Albertsons）营收 831.7 亿美元，成长 3.46%，也不如沃尔玛的成长幅度。
+
+而且不只营收成长与对手拉开幅度，在关税应会拉高成本的情况下，沃尔玛的毛利率仍维持与往年相当的 4.2% 水准。
+
+沃尔玛如何做到的？首先来自于规模，沃尔玛总营收规模是竞争对手的 6~8 倍，采购规模与仓储能力都远胜过对手，在关税战期间，有更强的谈判筹码，能取得更佳采购条件，逼迫供应商自己吞下关税成本，让对手望之兴叹。不过规模经济是沃尔玛的老优势，只靠这点还不足以产生如此大差距。
+
+沃尔玛近年来积极开创新营收获利管道，小有所成，包括广告收入、会员月费收入，两者相加，占财务年度营业利益的 27%。
+
+另一方面，电子商务也快速成长，在全球新冠疫情期间，沃尔玛被迫加紧打下线上购物的基础，包括送货到家，还是顾客自行取货，当初只是害怕在疫情期间实体营收断炊，以及为了避免顾客遭亚马逊抢食。无心插柳柳成荫，如今成为成长的一大支柱，数位营收含线上订单、广告、第三方物流服务、数据分析服务等，成长高达 24%，占总营收达 21.3%。
+
+相对来说，电子商务的主要竞争对手亚马逊，则成长 9.5%，虽然以亚马逊的体量来说，成长 9.5%，增加幅度是 380 亿美元，相较之下，沃尔玛成长 24% 是增加 296 亿美元，仍然是亚马逊增加的绝对金额较大，但是沃尔玛的追赶速度已经很惊人。
+
+沃尔玛在应用无人物流方面相当积极，包括无人机、无人自动驾驶卡车等，这是能追赶亚马逊的主因，而全美 4,600 家门市都能充当物流中心，也是沃尔玛的优势之一，可达到更快送达，因而有利于线上销售生鲜食品。
+
+不过亚马逊当然也不会坐视沃尔玛赶上，势必强化其物流能力，两大巨头即将在线上购物上有一轮惨烈的厮杀。]]></description>
   </item>
   <item>
-    <title>AI 伺服器动能强劲！国巨 5 月营收飞越 150 亿大关改写历史新高</title>
-    <link>https://finance.technews.tw/2026/06/08/standard-products/</link>
-    <guid>https://finance.technews.tw/2026/06/08/standard-products/</guid>
-    <pubDate>Mon, 08 Jun 2026 09:50:55 +0000</pubDate>
-    <description><![CDATA[被动元件大厂国巨今日公布 5 月份自结合并净营收 150.58 亿元，单月营收较上月增加 7.3%，并较去年同期增加 47.5%，创单月营收历史新高，若以美元换算，单月营收较上月增加 7.7%，较去年同期增加 41.7%，累计今年前 5 月自结合并营收 672.63 亿元，较去年同期增加 27.4%。
+    <title>广告封锁突破浏览器限制，新工具 Filtr 将拦截范围扩至全苹果装置 App</title>
+    <link>https://technews.tw/2026/06/09/filtr-wants-to-wipe-ads-from-almost-every-app-on-your-iphone-and-mac/</link>
+    <guid>https://technews.tw/2026/06/09/filtr-wants-to-wipe-ads-from-almost-every-app-on-your-iphone-and-mac/</guid>
+    <pubDate>Mon, 08 Jun 2026 23:40:41 +0000</pubDate>
+    <description><![CDATA[根据外媒与开发者的最新说法，iPhone、iPad 与 Mac 上的广告与追踪封锁正从浏览器延伸到系统层级，涵盖大多数 App。由 Wipr 开发者 Kaylee Serena Calderolla 推出的新工具Filtr，利用苹果（Apple）在近期系统更新中加入的 URL Filtering 功能，将广告与追踪封锁范围扩大到多数 App，而不再只局限于 Safari。
 
-国巨表示，尽管 5 月受黄金周连假影响，工作天数较少，但 AI 相关应用需求持续强劲，标准品及特殊品呈现稳定成长，带动 5 月份自结合并净营收 150.58 亿元，单月营收较上月增加 7.3%，并较去年同期增加 47.5%。
+Filtr 的定位是隐私导向工具，透过 Apple 原生的网路筛选机制，在连线进入 App 前就拦下不想要的请求。这种做法不同于传统以 VPN 通道拦截流量的方式，强调直接运用系统内建能力，让使用者在几乎所有 Apple 装置上的 App 内，都能减少广告与资料追踪。
 
-展望未来，国巨表示，尽管地缘政治上的重大不确定性依然存在，但客户库存水位目前仍维持健康水准，预计将持续审慎应对未来经济情势，并密切关注关税政策及各国汇率变化所带来的潜在影响。]]></description>
+目前 Filtr 以 Wipr 的加值功能形式提供，并由 Calderolla 维护的封锁清单支撑运作。开发者表示，Filtr 采用了系统的 URL Filtering 框架来比对与封锁网域；系统会透过装置上的预先筛选清单与自动更新机制，持续比对并封锁符合条件的网域。
+
+（Source：Kaylee Serena Calderolla）
+
+不过，Filtr 并非能对所有广告完全拦截。若广告或追踪请求直接由 App 自家网域提供（例如部分社群或内容平台可能会如此），拦截效果可能有限，因为过度封锁有时会影响 App 正常运作。即便如此，对于使用者来说，这类系统级封锁仍可能带来更少的横幅广告、自动播放影片，以及更低的背景资料消耗与电力使用。
+
+Filtr 的推出也凸显 Apple 近年强调隐私保护后，第三方开发者正尝试把这股趋势推向更前线。对依赖广告营收的免费 App 而言，若系统层级拦截逐渐普及，未来可能被迫调整商业模式，转向订阅、付费功能或其他收费方式。
+
+未来的关键在于 Filtr 在大规模使用时的实际效果，以及 Apple 是否会持续在平台上支援与扩展此类筛选能力。若 Filtr 成功，这可能是多年来对 Apple 装置上应用程式隐私管理的一项重要变化，给使用者更多掌控权同时也对现有广告生态带来挑战。]]></description>
   </item>
   <item>
-    <title>迎向光与电革命！义隆电布局 Agent AI PC、无人机与光通讯三大动能</title>
-    <link>https://finance.technews.tw/2026/06/08/agent-ai-pc/</link>
-    <guid>https://finance.technews.tw/2026/06/08/agent-ai-pc/</guid>
-    <pubDate>Mon, 08 Jun 2026 09:30:57 +0000</pubDate>
-    <description><![CDATA[义隆电今日宣布携手美商PETA Optronics，共同进军光通讯晶片市场，董事长叶仪晧表示，这是一场结合光（PIC）与电（EIC）的技术革命，未来将进一步跨足高阶矽光子半导体领域，并积极布局AI伺服器及高速资料中心市场。
+    <title>从「辉达宅」到「辉达区」！AI 热潮烧进房市，北投交易量年增 32.7%</title>
+    <link>https://finance.technews.tw/2026/06/09/transaction-volume-in-beitou-increased-by-32-7-year-on-year/</link>
+    <guid>https://finance.technews.tw/2026/06/09/transaction-volume-in-beitou-increased-by-32-7-year-on-year/</guid>
+    <pubDate>Mon, 08 Jun 2026 23:30:58 +0000</pubDate>
+    <description><![CDATA[AI 教父、辉达（NVIDIA）执行长黄仁勋来台，不仅带动台股突破新高，台北房市新建案更出现「辉达区」广告诉求。台北市地政局最新统计，今年 1~5 月台北市建物买卖移转栋数达 9,987 栋，较去年同期增加 2.8%，整体市场呈现缓步回温态势。
 
-义隆电近年积极推动企业转型，成功将深耕多年的边缘运算技术，从传统笔记型电脑市场延伸至次世代代理式AI PC（Agent AI PC）、无人载具及光通讯晶片等高成长领域，如今更宣布携手美商PETA Optronics共同进军光通讯晶片市场，全面启动新一波成长引擎。
+受惠北士科与辉达的北投区，交易表现明显优于其他行政区，前五月建物买卖移转栋数达983栋，较去年同期741栋成长32.7%，成为台北市房市表现最亮眼区域之一。
 
-义隆电子表示，在2026年台北国际电脑展（COMPUTEX）中，辉达(NVIDIA）宣示新世代AI PC时代正式来临，RTX SPARK平台问世后，全球AI PC生态系加速成形。因应此一趋势，义隆电子已成功跨入次世代Agent AI PC供应链，展现领先业界的布局速度。
+台北市不动产仲介公会理事长苏金城表示，今年以来房市受到多项利多因素支撑，包括股市表现强劲带来财富效应，以及部分购屋贷款条件调整后，市场信心逐步回稳。此外，辉达宣布进驻北士科，也进一步提升市场对北台北科技产业聚落发展的期待，带动区域房市交易热度升温。
 
-Agent AI PC 方面，义隆已将旗下多项关键零组件与解决方案导入新世代AI PC平台，并获得客户采用于未来Agent AI PC产品设计之中，提供更流畅、低延迟且即时回馈的智慧操作体验，同时借由高安全性的指纹辨识模组，进一步强化AI PC的资安防护能力。
+▲ 2026年1~5月台北市建物买卖移转栋数统计。（Source：台北市地政局；台北市不动产仲介公会整理）
 
-光通讯方面，义隆电携手策略伙伴美商PETA Optronics共同投入光通讯整合晶片市场，双方将结合PETA在光子积体电路（PIC, Photonic Integrated Circuit）领域的技术优势，以及义隆在电子积体电路（EIC, Electronic Integrated Circuit）的深厚研发实力，共同开发新世代光电整合解决方案。
+苏金城指出，过去台北市科技产业聚落主要集中内湖科技园区及南港软体园区，而北士科被视为下一阶段的重要科技发展基地。辉达宣布在北士科设立海外总部，市场对于AI产业聚落形成的期待迅速升温，加上这次黄仁勋在COMPUTEX演讲背板上290家关联产业可能带来的综合效应，更进一步带动周边住宅市场提前反映未来价值。
 
-无人机方面，义隆电在COMPUTEX 2026展会中，展现强大的AI与无人载具整合能力，其系统整合高效能ISP影像处理与Edge AI运算能力，可在低功耗、低成本完成高精度物件侦测与影像辨识，并能适应复杂与恶劣环境，目前产品已进入量产阶段，并成功切入国内外无人载具市场。
+从各行政区交易量观察，北投区受惠最为明显。除了北士科核心区域，石牌、唭哩岸及北投旧市区等生活机能成熟区域，也受到自住及置产买盘关注。近期部分新建案甚至以「辉达区」作为行销诉求，显示市场已将科技产业发展与区域房市前景紧密连结。
 
-义隆电子董事长叶仪晧表示，这是一场结合光（PIC）与电（EIC）的技术革命，义隆电将进一步跨足高阶矽光子半导体领域，并积极布局AI伺服器及高速资料中心市场，未来义隆电已不再只是传统PC晶片与模组供应商，而是透过三大新事业布局，打造下一阶段的成长曲线。]]></description>
+辉达宣布在北士科设立海外总部，市场对于AI产业聚落形成的期待迅速升温，更进一步带动周边住宅市场。
+
+相较之下，过去受惠于东区门户计划而备受市场瞩目的南港区，今年前五月建物买卖移转量年减超过三成；信义区同期亦下滑32.1%，市场资金与买盘结构正出现新的变化。
+
+台北市不动产仲介公会分析，北士科横跨士林与北投两行政区，但主要开发区与大型企业总部基地多位于北投区范围内，加上区内部分预售案进入交屋阶段，共同推升区域交易量表现。未来随著北士科开发进程持续推进，以及AI产业聚落逐步成形，北台北房市发展仍具备相当成长动能。
+
+展望下半年市场走势，台北市不动产仲介公会苏金城理事长认为，台北市「北强南弱、西增东减」的趋势可能还会持续一段时间，随著辉达总部开发进度逐步明朗，就业人口与置产资金将持续往北台北的科技廊带集中。这场由AI教父黄仁勋点燃的房市战火，短时间内恐怕还看不到熄灭的迹象。]]></description>
   </item>
   <item>
-    <title>俄罗斯强化网路封锁，限制 Telegram 推广 MAX 引亲俄派民众也愤怒</title>
-    <link>https://technews.tw/2026/06/08/putin-restricted-the-internet-it-has-not-gone-to-plan/</link>
-    <guid>https://technews.tw/2026/06/08/putin-restricted-the-internet-it-has-not-gone-to-plan/</guid>
-    <pubDate>Mon, 08 Jun 2026 09:30:10 +0000</pubDate>
-    <description><![CDATA[俄罗斯截至 6 月的一年内，持续收紧网路管制，从封锁热门通讯与社群平台，到推动国家背书的新通讯软体 MAX，试图把使用者导向可被安全部门监控的网路服务。然而，这套长期「封锁─取代」模式，反而引发更广泛的不满，连原本支持战争的人也开始抱怨。
+    <title>宇宙最热闹的年代长什么样？HETDEX 全面开放 6 亿笔资料让人人可探索早期宇宙</title>
+    <link>https://technews.tw/2026/06/09/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-3/</link>
+    <guid>https://technews.tw/2026/06/09/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-3/</guid>
+    <pubDate>Mon, 08 Jun 2026 23:20:15 +0000</pubDate>
+    <description><![CDATA[德州大学奥斯汀等参与的Hobby-Eberly Telescope Dark Energy Experiment（HETDEX）4 日宣布，已完整开放大型宇宙资料库，让科学家、初学者与人工智慧共同探索这份前所未有的天文资料。此资料库以超过 0.5PB 的原始与处理后资料为基础建立，涵盖宇宙早期星系形成与演化、星系气体与恒星分布，以及宇宙结构等研究主题。
 
-报导指出，俄罗斯政府近年陆续限制多个国际平台：Facebook 与 Instagram 2022 年受限，YouTube 2024 年遭封锁或限速，Telegram 更于 2025 年成为最新受限平台。Telegram 同时承担私人聊天与新闻传播功能，早就是俄罗斯重要资讯管道之一，也受亲战族群与前线士兵广泛使用。政府管制 Telegram 后，直接引起许多不反对克里姆林宫的民众不满，网路封锁不再只是自由派与反对派的议题。
+HETDEX 以光谱观测方式扫描深空，2017~2024 年霍比─埃伯利望远镜（Hobby-Eberly Telescope，HET）在麦克唐纳天文台完成相当于 2,000 个满月面积的夜空调查，建立一张追溯至宇宙诞生约 18 亿年后（约 12 亿年前之前更早时期亦有涵盖）的地图。此次公开资料包括约 6 亿条光谱，聚焦「宇宙正午」（Cosmic Noon）时期，也就是距今约 100 亿至 120 亿年前，恒星形成最活跃的年代。团队表示，这些光谱能让天文学家从化学成分、运动状态到与地球距离等多面向解读天体资讯。
 
-为了填补空缺，官方大力推广 MAX，并用国营媒体持续背书，甚至 Channel One 电视笑话出现嘲讽 MAX 桥段，讽刺平台私讯宛如公开聊天，反映外界对隐私性的疑虑。普丁因年龄与不习惯用智慧手机，部分网友戏称为「老爷爷」，突显数位管制与各世代生活方式的冲突。
+此次释出的资料含 431,000 个 3D 资料立方体（约 43.1 万个），以及 HETDEX 至今巡天目录：超过 100 万个遥远星系、50 万个近距离恒星形成星系、1.8 万个超大质量黑洞与逾 15 万颗恒星。研究员指出，这是首度完整 HETDEX 资料集与巡天目录一并公开，使用者可依天区位置下载客制化资料子集，降低使用门槛。
 
-现有资料显示，网路紧缩措施不只技术或安全问题，也牵动克里姆林宫权力流动。国安部门（如 F.S.B.）视为可接触国家背书平台的讯息，且官方封锁与取代平台手法，长期由亲克里姆林宫的利益相关者推动；但公开来源未证实是普丁本人下达任何时间切断通讯或指定「白名单」网站的命令。
+为了让更多使用者处理如此庞大的资料，团队与德州先进计算中心（TACC）合作，提供云端高效能运算资源与 JupyterHub 平台，并将原本超过半拍位元组的资料处理压缩到约 10TB，搭配教学与工具，方便人类与 AI 分析。HETDEX 研究员也表示，TACC 的 Lonestar6、Stampede2、Stampede3、Wrangler 与 Maverick 等系统，长期支援资料储存、处理与分析工作。
 
-尽管如此，网路中断造成的民众愤怒，已与战争引发生活成本上升、税负增加与收入停滞互相交织。就连曾支持战争的群体，也开始公开表达对封网与监控的不满。看来想要限制网路与强化监控以巩固政权的政府，并未如预期稳定社会，反而侵蚀普丁长期依赖的政治默契。]]></description>
+团队说明，AI 扮演重要角色，如自动移除卫星与流星干扰的软体，以及协助辨识早期星系的自动化方案；超过 24,000 名公民科学家也透过「Dark Energy Explorers」计划协助确认候选星系。虽然核心巡天任务已完成，团队表示观测继续、校准也会持续改善，未来还会释出更多补充资料。欲取得资料与更多资讯，可参见 HETDEX 与 TACC 网站。]]></description>
   </item>
 </channel>
 </rss>
