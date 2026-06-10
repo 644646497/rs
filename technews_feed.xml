@@ -4,241 +4,189 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 10 Jun 2026 07:58:37 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 11:36:35 GMT</lastBuildDate>
   <item>
-    <title>737 MAX 产能续拉升  波音 5 月交机量年增 33%</title>
-    <link>https://technews.tw/2026/06/10/737-max-production-ramp-up-boeing-may-aircraft-deliveries-33-percent-yoy/</link>
-    <guid>https://technews.tw/2026/06/10/737-max-production-ramp-up-boeing-may-aircraft-deliveries-33-percent-yoy/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:50:07 +0000</pubDate>
-    <description><![CDATA[美国飞机制造巨头波音（Boeing）9 日公布最新成绩单，5 月共交付 60 架商用飞机，较去年同期成长 33%，显示生产与交机进度持续改善，后续营运回温可期。
+    <title>云豹能源配息 2 元，看好 AI 电力需求扩大绿电与储能布局</title>
+    <link>https://finance.technews.tw/2026/06/10/shareholder-meeting-6869/</link>
+    <guid>https://finance.technews.tw/2026/06/10/shareholder-meeting-6869/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:30:11 +0000</pubDate>
+    <description><![CDATA[亚洲低碳新能源整合集团云豹能源今（10）日召开股东常会，会中通过 114 年度营业报告书及财务报表，并决议每股配发现金股利 2 元。面对全球 AI、半导体及资料中心带动用电需求持续攀升，云豹能源表示，将持续深化绿电交易、储能及海外市场布局，同时积极切入 AI 能源基础建设领域，打造下一阶段成长动能。
 
-根据波音公布，5月交付的机型中，主力机型737 MAX占51架，创2024年12月恢复生产以来单月新高，另交付1架737-800窄体客机、6架787梦幻客机、1架777货机及1架767货机。
+云豹能源总经理赵书闵表示，AI 带来的不只是算力革命，更是电力革命。随著高效能运算、资料中心及先进制造快速发展，全球对稳定、低碳且具韧性的电力需求持续增加，也为能源产业创造新的成长机会。云豹能源近年积极布局绿电交易、储能、能源管理及海外市场，希望掌握能源转型与 AI 发展所带来的长期商机。
 
-波音表示，随著产能逐步恢复，计划于今年夏季将737系列机型产量由目前每月42架提高至47架。
+在 AI 布局方面，云豹能源今年成立「云豹超算」，正式跨足 AI 算力中心（AIDC）市场，整合集团能源与算力资源，布局 AI 基础设施产业链。公司预期相关业务今年将开始贡献台湾市场营收，明年营运规模有望倍数成长，并朝 2030 年成为集团两位数营收占比的重要事业体迈进。
 
-订单方面，波音5月新增27架飞机订单，其中14架737客机将改装成军机，买家身分并未公开；德国汉莎航空（Lufthansa）则下订10架787梦幻客机。
+旗下事业布局亦持续开花结果。售电子公司天能绿电于今年 5 月正式挂牌上柜，累积绿电转供合约量已突破 341 亿度，稳居国内民营售电市场领先地位；系统级储能子公司台普威能源则于同月登录兴柜，目前累积海内外储能建置实绩已超过 412 MW／1,055 MWh，除持续深耕日本市场外，也正式进军澳洲市场，扩大海外版图。
 
-累计今年1至5月，波音共交付250架飞机，其中737 MAX占198架；累计新增订单324架，扣除取消与机型调整后，净新增订单达295架。
-
-由于飞机制造商须于完成交机义务后，才能认列营收，因此波音交机表现备受投资人关注，被视为预估获利及经营能力的重要指标。
-
-截至5月底，波音在手订单达6,178架，显示全球航空公司的新机需求依旧强劲，可为波音后续营运提供一定程度支撑。]]></description>
+云豹能源表示，将持续结合集团在绿电、储能及能源管理领域的优势，强化能源整合能力，并透过 AI 能源基础建设、海外市场及新事业布局等多元成长引擎，提升整体营运规模与股东价值。]]></description>
   </item>
   <item>
-    <title>台股急跌回档就是买点！凯基投顾董座朱晏民呼吁散户「严控杠杆」</title>
-    <link>https://finance.technews.tw/2026/06/10/stock-price-discount/</link>
-    <guid>https://finance.technews.tw/2026/06/10/stock-price-discount/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:42:26 +0000</pubDate>
-    <description><![CDATA[针对台股创高后迎来剧烈震荡，甚至出现绩优股单日重挫的现象，凯基投顾董事长朱晏民今日表示，四、五月以来的强势上涨是由扎实的获利基本面所驱动，并非单纯的估值膨胀，近期的波动属于「涨多后的健康技术性回调」，若 AI 长期趋势不变，优质个股的回档无异于「股价打折」。
-
-凯基证券今日发布 2026 下半年投资展望，朱晏民以「史诗级行情」为题开场，强调台股 4 月以来展现高度韧性，其核心原因在于 AI 超级循环所带动的产业趋势，预估 2026 年台股企业获利成长达 40%，2027 年仍具约 25% 成长动能，并将指数高点目标设定为明年预估盈余 21 倍本益比。
-
-朱晏民表示，随著指数处于高位，市场接下来将面临国际重量级企业 IPO 的资金排挤效应，以及美国联准会（Fed）新任主席上台的政策不确定性，投资人应严控资金水位，切勿过度使用杠杆，以免在多头市场的正常回调中被迫出场。
-
-短线波动三大元凶是利多出尽、资金排挤与 Fed 变数，朱晏民分析，随著 COMPUTEX 2026 落幕，短线上缺乏新的催化剂，推升 AI 股价的短期力道暂时消退，并因 SpaceX 即将进行 IPO，预期将产生庞大的吸金效应，还有新任 Fed 主席的作风较不透明，预计将直接导致市场波动率放大。
-
-朱晏民表示，投资人应严控资金水位，切勿过度使用杠杆，以免在多头市场的正常回调中被迫出场，但对整体基本面仍抱持高度信心，因为过去几个月 AI Agent（ AI 代理）蓬勃发展，且指标性企业 Anthropic 已开始实现获利，这些具体成果让市场更加确信 AI 资本支出将持续扩张。
-
-面对第二季尾声至第三季的台股行情，朱晏民针对资金控管发出警告，因为观察到近期市场出现「四贷同堂」皆投入股市的过热现象，许多投资人甚至过度使用杠杆，目前大盘指数基期极高，因此出现 5~10% 的回档都很正常，强烈建议避免过度杠杆，并保留安全资金余裕。
-
-凯基香港国际财富管理首席投资总监梁启棠指出，中国经济正处筑底回稳阶段，随著通缩压力缓解，投资聚焦四大主题，一、中美贸易谈判带来波动创造长线布局时点；二、AI 带动高科技与机器人产业成长；三、能源转型推升风能与电池供应链；四、银行体质改善，高股息与防御性提升。
-
-资产配置方面，凯基证券财富管理处主管阮建铭以「乘风破浪、全 LEAD 出击」破题，受到「关税、期中选举与 Fed 新主席」三重变革，2026 年下半年全球市场走入十字路口，其中川普恐再立关税名目、期中选举情势动向、华许的政策变化等因素皆将对金融市场带来扰动。
-
-阮建铭指出，资产配置应采用「LEAD」策略，包含资金挪移（Liquidity Shift）、聚焦获利（Earnings Focused）、加码信用（Adding Credit）及资产分散（Diversified Assets），透过配置美股、日股、新兴亚洲 AI 相关类股及另类资产，把握长线资产成长契机。]]></description>
+    <title>科嘉-KY5月营收2.59 亿元</title>
+    <link>https://finance.technews.tw/2026/06/10/ko-ja-5215-202605-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/06/10/ko-ja-5215-202605-financial-report/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:20:09 +0000</pubDate>
+    <description><![CDATA[科嘉-KY（5215）今（10）日公布 5 月营收，达 2.59 亿元，较 4 月成长 -29.6%，较去年同 [&#8230;]]]></description>
   </item>
   <item>
-    <title>高价 LNG 船订单旺  韩造船厂 5 月抢下全球 44% 订单</title>
-    <link>https://finance.technews.tw/2026/06/10/korean-shipyards-secure-44-of-global-orders-in-may/</link>
-    <guid>https://finance.technews.tw/2026/06/10/korean-shipyards-secure-44-of-global-orders-in-may/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:40:20 +0000</pubDate>
-    <description><![CDATA[最新统计显示，受惠于液化天然气（LNG）运输需求升温，韩国造船业 5 月接单表现明显回温，全球市占率攀升至 44%，与中国平分秋色。
-
-《BusinessKorea》报导，根据航运市场研究机构Clarkson Research 9日公布，2026年5月全球新造船舶订单量为452万CGT（Compensated Gross Tonnage，修正总吨），较2025年同期激增91%。其中，韩厂新获造船订单为199万CGT，占全球总订单量的44%，中国造船厂则拿下211万CGT、占47%，双方差距不大。
-
-韩国造船厂虽然接单数量不及中国，但拿到的订单多为LNG运输船等高附加价值船型，平均每艘船为5.9万CGT，远高于中国平均每艘船2.2万CGT，反映韩国在高阶船舶市场具竞争优势。
-
-截至5月底，韩国造船厂积欠订单为3,706万CGT，占全球积欠订单总量2.002亿CGT的19%；中国业者以1.294亿CGT位居第一，占全球积欠订单量的65%。
-
-反映新船价变化的Clarkson新船价格指数（Newbuilding Price Index），5月为185.01，较2025年同期上涨36%。
-
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+    <title>众达-KY5月营收8,196.30 万元</title>
+    <link>https://finance.technews.tw/2026/06/10/pcl-4977-202605-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/06/10/pcl-4977-202605-financial-report/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:20:07 +0000</pubDate>
+    <description><![CDATA[众达-KY（4977）今（10）日公布 5 月营收，达 8,196.30 万元，较 4 月成长 41.2%，较 [&#8230;]]]></description>
   </item>
   <item>
-    <title>高盛大幅上修 AI 伺服器预估、戴尔成最大赢家</title>
-    <link>https://finance.technews.tw/2026/06/10/ai-servers-likely-to-hit-1-24t-by-2030-traditional-to-surpass-160b/</link>
-    <guid>https://finance.technews.tw/2026/06/10/ai-servers-likely-to-hit-1-24t-by-2030-traditional-to-surpass-160b/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:30:32 +0000</pubDate>
-    <description><![CDATA[受惠于 AI 似无止息的需求，高盛（Goldman Sachs）决定大幅调高 AI 伺服器市场的长期预测。
-
-Seeking Alpha 9日报导，高盛分析师团队发表研究报告出，该证券将2026~2030年间的AI伺服器市场规模平均上调约18%，预期至2030年产值将接近1.24兆美元，明显高于先前在2025年第四季预估的9,610亿美元。其中，出货量预估调升 3%，而产品均价则调高15%。
-
-此外，高盛也将传统伺服器的2026~2030年预测平均调高31%，预估2030年市场规模将接近1,640亿美元（先前预估为1,050亿美元），出货量与平均售价分别调升了19%与10%。高盛全面调高财测，主要是因为戴尔（Dell Technologies）、慧与科技（HPE）近期公布了亮眼财报、还双双调高财测。
-
-高盛解释，戴尔2026年第一季（1-3月）的传统伺服器营收年增85%，出货量、均价分别成长了24%、49%。其中，新兴云端商（neoclouds）相关营收年增102%、企业端年增91%。这让戴尔的传统伺服器市占率从去年同期的20%一举跳升至30%。
-
-另外，戴尔Q1 AI伺服器营收较去年同期暴增113亿美元（年增幅高达622%），出货量大增300%、平均售价飙涨81%。其主要成长动能来自新兴云端商（贡献90亿美元）与企业端（贡献20亿美元）。戴尔在AI伺服器的市占率也从去年同期的5%大增至17%（其中在新兴云端商的市占高达48%、企业端市占达47%）。
-
-相较于戴尔的大获全胜，其他伺服器厂商的处境则显得有些捉襟见肘。
-
-高盛指出，慧与科技虽在传统伺服器市场成功守住既有的市占率，但在利润与成长性最高的AI伺服器战场上，却把部分市占拱手让人。
-
-美超微（Super Micro Computer）Q1可能流失了些许AI伺服器市占率；不过在传统伺服器市场，美超微则成功增加1个百分点的市占率。]]></description>
+    <title>宜特5月营收月增3.9%</title>
+    <link>https://finance.technews.tw/2026/06/10/ist-3289-202605-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/06/10/ist-3289-202605-financial-report/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:20:04 +0000</pubDate>
+    <description><![CDATA[宜特（3289）公布 5 月合并营收 3.86 亿元，较上（4）月成长 3.9%，与去年同期相比为年增 0.2 [&#8230;]]]></description>
   </item>
   <item>
-    <title>NVIDIA 下调 Vera CPU 搭载容量，突显 LPDRAM 供给缺口难弭平与中长期需求上扬趋势</title>
-    <link>https://technews.tw/2026/06/10/nvidia-vera-cpu-capacity-cut-lpdr-am-supply-shortage-long-term-demand-rise/</link>
-    <guid>https://technews.tw/2026/06/10/nvidia-vera-cpu-capacity-cut-lpdr-am-supply-shortage-long-term-demand-rise/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:20:54 +0000</pubDate>
-    <description><![CDATA[根据全球市场研究机构集邦科技 TrendForce 调研结果指出，辉达（NVIDIA）决议将次世代 Vera Rubin Superchip 模组所搭载的 SOCAMM 容量砍半，此一调整并非 NVIDIA 下修记忆体总需求量，而是因应供应端 2027 年初步规划配给 NVIDIA 的产能不足的事实。在此背景下，NVIDIA 选择调降单颗容量、扩大模组出货数量，以强化其市占，同时凸显 LPDDR5X 供给缺口难以被满足与中长期需求上扬的趋势。
+    <title>台湾光罩处分六厂获利 18.24 亿元！落实活化资产以聚焦本业核心制程</title>
+    <link>https://finance.technews.tw/2026/06/10/asset-revitalization/</link>
+    <guid>https://finance.technews.tw/2026/06/10/asset-revitalization/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:10:31 +0000</pubDate>
+    <description><![CDATA[台湾光罩今日召开董事会，通过处分旗下位于竹南的六厂厂房资产，此为台湾光罩落实资产活化与聚焦本业的战略举措，并提升集团资本配置效率、优化资产负债表，有望实质挹注每股盈余，交易金额达 28 亿元，预计处分利益约 18.24 亿元。
 
-尽管目前记忆体原厂对2027年皆有扩产计划，但整体位元增幅仍不及买方市场释出的需求。有鉴于Samsung、SK hynix及Micron初步规划予NVIDIA的LPDRAM供应仅能满足该品牌约60%的需求，且上调空间有限，NVIDIA近期决议调整Vera Rubin Superchip模组搭载的SOCAMM模组容量，以满足更多Vera CPU的出货需求，并提前因应后续货源持续紧张的风险。
+台湾光罩表示，这次资产处分为集团长期财务与策略规划，台湾光罩借由处分目前低稼动的六厂厂房空间，将沉没资产转化为实质现金流，处分所得资金将精准投注核心本业，快速提升产能与良率。
 
-TrendForce强调，此次规格调整属供应端主导的架构妥协，对整体DRAM供需并无实质负面影响，亦不代表NVIDIA下修总体记忆体需求。
-
-NVIDIA新世代AI server产品分为Vera Rubin Rack以及独立型Vera CPU Rack两类，除了Vera Rubin Rack整柜方案外，NVIDIA亦明确表态将大力推广独立型（Standalone）Vera CPU解决方案，同时扩大其在推论型AI市场的市占，也成为拉动LPDRAM需求的主因之一。
-
-LPDRAM凭借优异的功耗与传输速度表现，已跨入AI server、automotive等多元应用场景，加上NVIDIA以外的ASIC晶片业者亦开始评估导入，未来LPDRAM将不再只是智慧手机的专属记忆体。随著AI应用持续扩大，预估整体供需缺口将更趋严峻。TrendForce预估，整体AI server生态系在2028-2030年间有机会成为全球LPDRAM最大单一出海口，超越智慧手机应用。]]></description>
+台湾光罩指出，竹南的六厂厂房原供台湾光罩集团旗下子公司使用，现已全数迁出，并将相关部门集中回新竹总部，精简日常营运与生产成本，台湾光罩已完成现阶段营运与架构重整，处分六厂资金回笼，加上中高阶产能就绪，整体获利结构将迎来实质提升。]]></description>
   </item>
   <item>
-    <title>DigiKey 勇夺 29 项殊荣，揭示数位整合新布局！</title>
-    <link>https://technews.tw/2026/06/10/digikey-eds-awards2026-integration-strategy/</link>
-    <guid>https://technews.tw/2026/06/10/digikey-eds-awards2026-integration-strategy/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:17:15 +0000</pubDate>
-    <description><![CDATA[DigiKey 于 2026 EDS 领袖高峰会荣获供应商伙伴颁发 29 座奖项，肯定其在经销、成长与绩效层面的卓越表现。
+    <title>阿里巴巴前高层反对员工油尽灯枯换增长，引发共鸣</title>
+    <link>https://finance.technews.tw/2026/06/10/former-alibaba-executive-opposes-employee-burnout-for-growth-sparks-resonance/</link>
+    <guid>https://finance.technews.tw/2026/06/10/former-alibaba-executive-opposes-employee-burnout-for-growth-sparks-resonance/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:10:08 +0000</pubDate>
+    <description><![CDATA[阿里巴巴集团旗下行动办公平台「钉钉」的两名前高阶主管，近期先后发表公开信批判公司企业文化。钉钉前副总裁马锐拉直言反对「用全员油尽灯枯换增长」的企业模式，并怀疑自己只是「消耗身体追赶不断前移的节奏」，引起众多中国上班族热议及共鸣。
 
-全球领先的电子元件与自动化产品经销商 DigiKey 今日宣布，在 5 月 18 至 22 日于拉斯维加斯举办的 2026 EDS 领袖高峰会中，荣获供应商伙伴颁发 29 座奖项。
+综合澎湃新闻、南方都市报、三言科技等媒体报导，上周先是前钉钉「ONE项目」核心产品经理滕雅辛在公司内部网站，发表长达7.5万字、题为「置身钉内」的公开信，除详述「ONE项目」从创立、成功到失败的过程，并提及钉钉内部处于高压氛围的企业文化。
 
-DigiKey 全球业务开发副总裁 Mike Slater 表示：「DigiKey 很荣幸从我们宝贵的供应商伙伴获得业界绝佳好评。这些殊荣彰显出，我们的合作伙伴对本公司的业界领先网站、可快速出货的现货产品丰富度、数据驱动的库存与产品决策、本地化以及客户服务深表肯定。透过与这些杰出企业合作，可协助确保工程师、设计人员和创客取得其所需的创新产品与工具，以加速全球产业发展。」
+「置身钉内」发表后，前钉钉副总裁马锐拉6月8日以「置身钉外」为名发表文章，表示自己本来也写了快2万字，但在权衡后，删掉不能说的1万8,000字，只留下可以说的500多字。
 
-DigiKey 在过去一年于绩效、成长、电子商务、合作伙伴关系等层面的卓越表现均备受肯定。DigiKey 荣获的奖项包括：
+马锐拉表示，他已于5月15日办妥离职手续，正式离开钉钉。自己完全能理解「置身钉内」文中所描述的钉钉内部高压氛围：高频汇报、高速迭代（更新），却难见成效，年轻从业人员「耗尽心力却无收获」。
 
-DigiKey 在过去一年内大幅增加可快速出货的现货产品数量，新增超过 100,000 款产品。DigiKey 于 2025 年在其核心业务、商城及 DigiKey 物流计划中，共新增超过 160 万款产品及 364 家供应商。相较其他电子经销商，DigiKey 有更多新产品导入（NPI），协助客户采用市面上最新颖、最创新的产品进行设计。
+马锐拉提到，离职的直接原因是「长期超负荷运转」：一周七天「每天9点上班，凌晨2点回家，只睡5个小时」；他反复思考后，越来越难确认自己「是在创造产品，还是只是在消耗身体，追赶一个不断前移的节奏」。
 
-公司亦于 5 月 21 日（四）举办广受欢迎的 EDS 产业汇报早餐会，吸引将近 1,000 名业界贵宾参与。DigiKey 执行长 Dave Doherty 与全球业务开发副总裁 Mike Slater 更在会中探讨市场动态，并分享公司于过去一年创下历来新高的客户数和订单量，设计需求持续增加，且所有区域均达双位数的营收成长。
+阿里巴巴创办人马云提出的「客户第一，员工第二，股东第三」理念，也被马锐拉质疑。他说，「员工第二」变成了「员工需求永远为业务让步」。
 
-此外，会中亦强调市场动能持续强劲，并突显 DigiKey 对数位整合的持续投资，借此协助合作伙伴加速进展并扩大未来成长规模。Doherty 与 Slater 亦分享了公司对库存投资策略及自由贸易区（FTZ）支援的相关细节。
+马锐拉最后提到，他明确反对「全员油尽灯枯换增长」的模式，而「创造力」比「单纯堆工作时长」更重要。
 
-若要进一步了解与 DigiKey 合作的供应商及经销的产品组合，请造访DigiKey.tw。
+两篇文章在中国网路热传，引起众多上班族热议及共鸣。不少人表示道出自己的处境，「反映牛马的心声」，并指中国许多企业的文化与钉钉不相上下；有人更直言，自己早已油尽灯枯，却换来失业。
 
-DigiKey 总部位于美国明尼苏达州锡夫里弗福尔斯市，是电子元件和自动化产品的全球领导经销商。DigiKey 提供最丰富、最深入的品项，可立即出货至全球，提供来自将近 3,000 家深受信赖的制造商，共超过 1,800 万款元件。工程师、设计人员、建构商与采购专业人士都可享受 DigiKey 的创新数位解决方案、设计工具、流畅的采购体验，借此简化专案的各个阶段。若要进一步探索 DigiKey 的电子经销、自动化解决方案与设计资源，请至digikey.tw。
-
-（首图图说：DigiKey EDS Awards2026；首图来源：DigiKey；资料来源：DigiKey）]]></description>
+阿里巴巴合伙人委员会在公司内网发表题为「有情有义有成长，才是阿里文化」文章，严辞批评钉钉团队的管理方式，直指这「不是阿里文化该有的样子」，宣称「只有充分尊重员工个体价值，才能真正创造客户价值」。]]></description>
   </item>
   <item>
-    <title>市场传 800V HVDC 延后导入，供应链：产品布局不变</title>
-    <link>https://technews.tw/2026/06/10/800v-hvdc-is-going-to-be-postpone/</link>
-    <guid>https://technews.tw/2026/06/10/800v-hvdc-is-going-to-be-postpone/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:12:44 +0000</pubDate>
-    <description><![CDATA[AI 资料中心供电架构发展再度引发市场关注。市场近期传出，原先预期于 2027 年开始大规模导入的 800V 高压直流供电（HVDC）架构，量产与普及时程可能延后至 2028 年以后，也让新一代 AI 资料中心供电方案的发展时程再度成为市场讨论焦点。
-
-针对市场传闻，台达电表示，公司不评论市场消息，目前相关产品开发均依客户需求持续推进。不过台达电也指出，公司已完整布局 800V HVDC、±400V HVDC 及 50V 等不同供电架构，可依客户平台规画提供相对应的电源解决方案。
-
-光宝则表示，不评论市场传闻及特定客户动态，但公司持续投入 AI 伺服器电源、高功率电源供应器及资料中心能源管理产品，并将依客户需求持续推进相关布局。
-
-根据市场消息，目前辉达下一代 Rubin 平台仍采用 50V DC 输入架构，使部分客户认为现阶段导入 800V HVDC 并非必要。若需先将资料中心配电系统中的 350 至 450V DC 电力升压至 800V，再降压至 50V 供应运算模组，将增加额外电力转换环节与系统复杂度，因此部分大型云端业者倾向等待后续平台发展更加成熟后再评估导入。
-
-不过，市场消息也指出，主要应用于大型云端业者自研 ASIC 平台的 ±400V HVDC 架构仍按照既定时程推进，相关 Sidecar 电源柜订单预计于今年底开始落地，并于 2027 年第一季扩大生产。
-
-值得注意的是，目前国内电源厂商仍持续推进高压直流供电产品布局。市场传出，台达电的 ±400V 与 800V HVDC 解决方案预计于第三季开始出货；光宝的 800V DC 相关产品则预计于今年第四季开始小量出货。]]></description>
+    <title>远传5月营收95.02 亿元</title>
+    <link>https://finance.technews.tw/2026/06/10/far-eastone-4904-202605-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/06/10/far-eastone-4904-202605-financial-report/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:10:07 +0000</pubDate>
+    <description><![CDATA[远传（4904）今（10）日公布 5 月营收，达 95.02 亿元，较 4 月成长 -0.4%，较去年同期成长 [&#8230;]]]></description>
   </item>
   <item>
-    <title>SpaceX 不会独占风采？巨量资金坐等 AI 巨头上市</title>
-    <link>https://technews.tw/2026/06/10/spacex-will-not-steal-thunder-massive-capital-awaits-ai-giants-ipos/</link>
-    <guid>https://technews.tw/2026/06/10/spacex-will-not-steal-thunder-massive-capital-awaits-ai-giants-ipos/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:10:16 +0000</pubDate>
-    <description><![CDATA[市场高度关注将于周五（12日）重量级登场的 SpaceX 上市案，但 SpaceX 应不会独占镁光灯，Anthropic 和 OpenAI 登场时预计也将吸引巨量闲置资金追捧。
-
-综合外媒报导，SpaceX将在本周五以股份代号「SPCX」上市，据传IPO定价为135美元，估值初估将达到1.8兆美元。市场对此反应热烈，消息指出，超额认购率已飙升至原定发行规模的3.5~4倍，各界也认为，SpaceX上市可能引发资金虹吸效应。
-
-今年将是美股IPO市场空前盛大的一年，除SpaceX之外，两大知名AI新创Anthropic和OpenAI近期已相继提交上市申请，可望于下半年接力上市。
-
-Anthropic和OpenAI于完成最新一轮募资后的估值分别达9,650亿美元和8,520亿美元，为世界上最具价值的私人企业之一。
-
-专家并不担心SpaceX会抢走Anthropic和OpenAI的风采。Ameriprise首席市场策略师Anthony Saglimbene指出，目前市场上估计约有8兆美元的闲置资金，可望流入这三桩各界瞩目的重量级IPO案。
-
-SuRo Capital合伙人Willy Lee认为，三巨头的IPO案都将大获成功，投资人对AI领域展现极为浓厚的兴趣，OpenAI和Anthropic必然也将吸引大量投资人竞购。不过，专家也认为，若OpenAI和Anthropic上市时间相近，可能互相掣肘、竞争。
-
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+    <title>台湾大5月营收164.41 亿元</title>
+    <link>https://finance.technews.tw/2026/06/10/twm-3045-202605-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/06/10/twm-3045-202605-financial-report/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:10:05 +0000</pubDate>
+    <description><![CDATA[台湾大（3045）今（10）日公布 5 月营收，达 164.41 亿元，较 4 月成长 4.9%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>神盾5月营收9.02 亿元</title>
-    <link>https://finance.technews.tw/2026/06/10/egis-6462-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/10/egis-6462-202605-financial-report/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:10:07 +0000</pubDate>
-    <description><![CDATA[神盾（6462）今（10）日公布 5 月营收，达 9.02 亿元，较 4 月成长 141.9%，较去年同期成长 [&#8230;]]]></description>
+    <title>中华电5月营收月减4.8%</title>
+    <link>https://finance.technews.tw/2026/06/10/cht-2412-202605-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/06/10/cht-2412-202605-financial-report/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:10:03 +0000</pubDate>
+    <description><![CDATA[中华电（2412）公布 5 月合并营收 195.23 亿元，较上（4）月成长 -4.8%，与去年同期相比为年增 5.4%；累计其今年前 5 月营收为 1,000.09 亿元，较去年同期增加 7.1%。]]></description>
   </item>
   <item>
-    <title>良维5月营收月增2.7%</title>
-    <link>https://finance.technews.tw/2026/06/10/longwell-6290-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/10/longwell-6290-202605-financial-report/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:10:05 +0000</pubDate>
-    <description><![CDATA[良维（6290）公布 5 月合并营收 9.37 亿元，较上（4）月成长 2.7%，与去年同期相比为年增 8.6 [&#8230;]]]></description>
+    <title>应材扩大新加坡制造布局，支援 AI 晶片需求</title>
+    <link>https://technews.tw/2026/06/10/applied-materials-tampines-campus/</link>
+    <guid>https://technews.tw/2026/06/10/applied-materials-tampines-campus/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:07:55 +0000</pubDate>
+    <description><![CDATA[应用材料宣布已扩大其于新加坡的制造与研发营运布局，以支援全球AI基础设施持续扩展的需求。全新的淡滨尼园区（Tampines Campus）耗资逾5亿美元（约6亿元新币），使应材在新加坡的先进无尘室产能增加逾一倍，并进一步强化公司遍及美国、欧洲、以色列及台湾等地的全球制造版图，目前新设施已正式投入量产。
+
+应材总裁暨执行长盖瑞．迪克森（Gary Dickerson）表示，AI正重塑各行各业，带动对先进半导体前所未有的需求。应材在新加坡扩展的制造布局，强化了应材提供半导体制造设备的能力，协助晶片制造商加速将新一代晶片推向市场。
+
+淡滨尼园区为应材新加坡2030计划的重要里程碑，旨在强化公司全球制造与研发实力、深化技术生态系合作，并推动在地人才发展。该园区设有大规模制造无尘室与生产产能，并配备研发中心，支援全球及区域客户。随著此次扩建，应材预计未来数年将在当地新增约1,000个就业机会，以支持产业成长与技术商业化。
+
+滨尼园区为永续、智慧化半导体设备生产树立全球新标竿。该设施部署自主移动机器人、自动化组装与测试系统，以及AI辅助品质检测，深化制造、研发与生态系伙伴之间的整合，加速新技术的商业化。此外，扩增实境与虚拟实境（AR/VR）工具进一步支援技术人员培训与精密维护作业。
+
+应用材料集团副总裁暨全球制造处负责人翁佳宗（KC Ong）表示，此次扩建正是对新加坡世界级半导体生态系、基础设施与人才的最佳见证。应材全新AI驱动、智慧自动化的设施，象征进入以速度、精准与品质为核心的先进制造新世代。]]></description>
   </item>
   <item>
-    <title>无人艇首立战功，美军 Corsair 成功救援阿帕契飞官</title>
-    <link>https://technews.tw/2026/06/10/uscentcoms-corsair-usv-rescued-the-pilots-of-downed-apache/</link>
-    <guid>https://technews.tw/2026/06/10/uscentcoms-corsair-usv-rescued-the-pilots-of-downed-apache/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:08:56 +0000</pubDate>
-    <description><![CDATA[美国中央司令部（CENTCOM）近日证实，一艘由国防科技新创 Saronic 研发的「海盗」（Corsair）无人水面载具（USV），在阿曼湾的一场深夜冲突中，成功救出两名遭伊朗军队击落而落海的阿帕契直升机飞官。
+    <title>DeepMind 经济学主管：AI 未掀消灭白领潮，但「跟风裁员」恐适得其反</title>
+    <link>https://finance.technews.tw/2026/06/10/google-deepmind-economist-warns-of-an-ai-cascade-effect-on-jobs/</link>
+    <guid>https://finance.technews.tw/2026/06/10/google-deepmind-economist-warns-of-an-ai-cascade-effect-on-jobs/</guid>
+    <pubDate>Wed, 10 Jun 2026 10:00:10 +0000</pubDate>
+    <description><![CDATA[Google DeepMind AGI 经济学主管、芝加哥大学经济学教授亚历克斯‧伊马斯（Alex Imas）表示，目前还没有证据显示人工智慧（AI）引发大规模白领裁员潮。即便是最易受冲击的软体工程领域，他也没有看到明显就业减少迹象。不过他警告，真正要担心的，可能不是 AI 直接夺走工作，而是企业为了表现「没有落后 AI 趋势」而跟风裁员，形成连锁效应。
 
-First “drone boat” rescue in#Iran!An#Apachehelicopter was shot down & the first-time rescue was by an Autonomous Surface Vessels (ASVs) –@SaronicCorsair/Echelon real-time remote command-and-control!CONGRATULATIONS!!!pic.twitter.com/Lum5BtULGe
+伊马斯接受 Dwarkesh Podcast 访问时表示。他指出，如果市场出现「不裁员就代表 AI 转型不够快」声音，企业可能会因害怕落后他人而裁员，即使裁员后实际营运没有更好。他形容，这种基于错失恐惧症（FOMO）的裁员潮，反而让公司陷入更糟处境。
 
-— Steve Surfaro (@stevesurf)June 10, 2026
+Google DeepMind 发言人之后表示，伊马斯是以个人身分接受节目访问，他描述的是假设情境。发言人重申，目前资料并未显示白领出现所谓「大出血」式冲击，且 DeepMind 执行长德米斯‧哈萨比斯（Demis Hassabis）曾表示，AI 能提升员工生产力并创造新工作机会。
 
-针对这起突发事件，总统川普也发表声明，强烈谴责伊朗并承诺将做出回应。这场深夜救援不仅是军事史上首次由无人艇完成战斗搜救任务，更预示著海上救援模式将迎来根本性的技术变革。
-
-立下大功的 Corsair 无人艇长约 7.3 公尺，采用类似高性能快艇的流线型设计，具备 1,852 公里（1,000 浬）的最大航程与 35 节的最高时速。
-
-该艇配备了光电/红外线相机转塔、导航雷达与多种通讯天线，并拥有极高的自主导航与环境感知能力。在通讯受阻或强烈干扰的拒止环境下，Corsair 能利用被动感知自主识别、追踪并拦截目标，甚至支援多艇联网的「无人蜂群」作战模式，人类操作员仅需透过数据链进行低限度的决策指导。
-
-这次实战不仅检验了无人艇的感测能力，更成功展示了全新「轴辐式」（Hub-and-Spoke）无人救援概念的可行性。当时两名飞官落海受困约两个小时，Corsair 透过自主侦测系统在黑夜中精准寻获两人并接驳上艇，随后航行至威胁较低的特定水域，再由传统载人直升机前来进行吊挂后送。
-
-这种模式让无人艇能低成本、高密度地预先部署在前线，代替人类深入严密防空网的高风险区域，有效避免传统中大型载人资产暴露于敌方火力下，大幅降低搜救部队的伤亡风险。
-
-这次亮眼的表现无疑成为 Saronic 最好的广告。除了 Corsair 之外，该公司近期也推出了长达约 55 公尺、航程与载重能力更强的「掠夺者」（Marauder）无人艇，并已纳入美国海军中型无人水面载具（MUSV）计划的第一阶段评估。
-
-随著美军战略重心加速移向幅员辽阔的太平洋，这类具备高性价比、能大量生产的无人载具，未来在台海及印太战区的侦察、后勤乃至于搜救任务中，势必将扮演重要的关键角色。]]></description>
+各界持续关注 AI 如何改变就业市场之际，部分企业裁员公告有提到 AI 因素，包括杰克‧多西（Jack Dorsey）创立的 Block 与社群软体厂商 Snap（Snapchat 制造商）。也有 AI 业界意见领袖警告，新科技可能消除大量入门级白领职位。但伊马斯认为，至少目前数据不够支撑「白领末日」已到来说法；相反地，AI 更可能自动化部分任务，让劳工精力更集中机器难取代的工作，提升整体生产力。]]></description>
   </item>
   <item>
-    <title>志超5月营收月减4.2%</title>
-    <link>https://finance.technews.tw/2026/06/10/tpt-8213-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/10/tpt-8213-202605-financial-report/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:00:33 +0000</pubDate>
-    <description><![CDATA[志超（8213）公布 5 月合并营收 17.29 亿元，较上（4）月成长 -4.2%，与去年同期相比为年增 1 [&#8230;]]]></description>
+    <title>飞宏与全球三大低轨卫星业者合作进入量产，布局 800 V DC 供电市场</title>
+    <link>https://technews.tw/2026/06/10/ai-power-going-from-low-to-high/</link>
+    <guid>https://technews.tw/2026/06/10/ai-power-going-from-low-to-high/</guid>
+    <pubDate>Wed, 10 Jun 2026 09:11:53 +0000</pubDate>
+    <description><![CDATA[随著 AI 资料中心、低轨卫星及智慧设备需求快速成长，飞宏科技持续推动电源事业转型。公司表示，目前已由过去以手机充电器为主的产品结构，逐步朝向 AI 应用、网通设备、低轨卫星及高压直流供电（HVDC）等高附加价值市场发展。其中，公司已于 Computex 展出 400V 至 650V DC 输入产品，并规划于今年底至明年初进一步优化至 800V DC 架构，瞄准下一代 AI 资料中心供电需求。
+
+飞宏昨举行法人说明会，看好低轨卫星市场发展。总经理林冠宏表示，公司目前已与全球前三大低轨卫星营运商合作并进入量产阶段，相关产品今年开始逐步发酵。随著全球卫星通讯基础建设持续扩张，低轨卫星业务可望成为未来重要成长动能。
+
+飞宏 2026 年第一季营收为 20.95 亿元，年减 7.2%；归属母公司净损 1.45 亿元，每股盈余 0.35 元。不过受惠于产品组合优化及高毛利产品占比提升，第一季毛利率达 21.1%，较去年同期增加 2.1 个百分点。林冠宏表示，随著产品结构持续改善，第 2 季毛利率表现可望优于首季。
+
+在产品布局方面，飞宏近年推动电源事业「2.0 转型」，逐步降低手机充电器业务比重。公司指出，2018 年手机充电器占营收比重约 65%，目前已降至约 11%，未来将聚焦网路与电信基础设施、动力电池充电、智慧工厂及消费性电子等四大应用方向。
+
+其中，网通产品已成为重要成长引擎。飞宏表示，今年网通产品营收占比可望由去年的约 27% 提升至 40%，受惠于资料中心网路升级、边缘运算及 AI 应用需求增加，公司亦持续布局交换器电源、AI PC、AI Box 及相关高功率电源产品。
+
+飞宏预期低轨卫星相关产品营收占比将由目前约 8% 提升至 15%，并成为主要营收来源之一。随著 AI、网通及低轨卫星市场需求持续成长，公司对未来两至三年营运发展维持乐观看法。]]></description>
   </item>
   <item>
-    <title>矽力*-KY5月营收19.11 亿元</title>
-    <link>https://finance.technews.tw/2026/06/10/silergy-6415-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/10/silergy-6415-202605-financial-report/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:00:27 +0000</pubDate>
-    <description><![CDATA[矽力*-KY（6415）今（10）日公布 5 月营收，达 19.11 亿元，较 4 月成长 -5.1%，较去年 [&#8230;]]]></description>
+    <title>联发科5月营收474.34 亿元</title>
+    <link>https://finance.technews.tw/2026/06/10/mtk-2454-202605-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/06/10/mtk-2454-202605-financial-report/</guid>
+    <pubDate>Wed, 10 Jun 2026 09:10:05 +0000</pubDate>
+    <description><![CDATA[联发科（2454）今（10）日公布 5 月营收，达 474.34 亿元，较 4 月成长 1.5%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>世芯-KY5月营收月减9.3%</title>
-    <link>https://finance.technews.tw/2026/06/10/alchip-3661-202605-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/06/10/alchip-3661-202605-financial-report/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:00:10 +0000</pubDate>
-    <description><![CDATA[世芯-KY（3661）公布 5 月合并营收 19.35 亿元，较上（4）月成长 -9.3%，与去年同期相比为年增 -33.5%；累计其今年前 5 月营收为 82.55 亿元，较去年同期增加 -50.0%。]]></description>
+    <title>灭绝恐龙的小行星，可能为地下生命提供 800 万年续命能量</title>
+    <link>https://technews.tw/2026/06/10/asteroid-dinosaur-underground-environment-hydrothermal-system/</link>
+    <guid>https://technews.tw/2026/06/10/asteroid-dinosaur-underground-environment-hydrothermal-system/</guid>
+    <pubDate>Wed, 10 Jun 2026 08:52:06 +0000</pubDate>
+    <description><![CDATA[灾祸与生息总相互依存，6,600 万年前，一颗直径约 10 公里的小行星撞击地球虽然导致地表四分之三物种灭绝，却为地下造出持续长达 800 万年的热液系统，为微生物提供长期稳定生存环境。
+
+6,600 万年前一颗小行星撞击地球，在墨西哥犹加敦半岛形成直径近 200 公里的希克苏鲁伯陨石坑（Chicxulub crater），地球环境因撞击引发的一连串效应变得极度恶劣，称霸地表一时的恐龙物种几乎因此灭绝，然而撞击产生的巨大热能使岩石熔融并与墨西哥湾海水混合，在地下形成具备暖水、化学能量来源、多孔结构特征的热液系统，理论上适合微生物生存。
+
+2000 年代初一项调查指出该热液系统持续时间约 200 万年，但新研究采用更先进电脑模型，结合采自陨石坑富含钾的长石样本与氩氩定年法，建模结果表明地下热液系统持续长达 800 万年，与长石的化学纪录分析结果相符。
+
+早期地球生命起源：早期地球（约 40 亿年前）的热液系统也可能作为类似生命摇篮，即使地表环境恶劣，地下热液环境也能支持微生物生存。
+
+寻找外星生命：火星、金卫二（Europa）等天体曾遭受大量撞击，或许撞击坑内也长期存在热液系统，为生命提供庇护所，有助未来太空任务锁定潜力撞击坑。
+
+生态双面性：撞击虽然造成大规模破坏，却同时在地下创造稳定的长期栖地，暗示撞击事件对生命演化具「破坏」、「创造」双重效果。
+
+大型撞击事件不全然只带来毁灭，可能在其他地方启动全新生命支线，对理解地球、其他行星生命演化路径具关键启发。
+
+新论文发表在《Communications Earth & Environment》期刊。]]></description>
   </item>
   <item>
-    <title>无意再加码打房！杨金龙：选择性信用管制就到这里</title>
-    <link>https://finance.technews.tw/2026/06/10/yang-chin-long-no-further-housing-curbs-selective-credit-controls-stop/</link>
-    <guid>https://finance.technews.tw/2026/06/10/yang-chin-long-no-further-housing-curbs-selective-credit-controls-stop/</guid>
-    <pubDate>Wed, 10 Jun 2026 07:00:02 +0000</pubDate>
-    <description><![CDATA[中央银行将于 6 月 18 日召开第二季理监事会议，外界关注利率决策和房市管制是否会调整。
+    <title>无惧千点震撼弹！大华银揭假摔真洗盘真相「00918 总报酬飙近 200%」</title>
+    <link>https://finance.technews.tw/2026/06/10/a-fake-drop-a-real-wash-out/</link>
+    <guid>https://finance.technews.tw/2026/06/10/a-fake-drop-a-real-wash-out/</guid>
+    <pubDate>Wed, 10 Jun 2026 08:51:47 +0000</pubDate>
+    <description><![CDATA[台股近期走势犹如大云霄飞车，千点大洗盘让不少投资人惊慌失措，大华银投信今日举办 2026 下半年投资展望，执行副总经理张耿豪表示，AI 导向的长线成长趋势毫无扭转，短期的剧烈震荡反而是去芜存菁的「健康修正」，实际是进场捡便宜的「假摔」讯号。
 
-央行总裁杨金龙今日提前表态并指出，「选择性信用管制就到这里」，即央行现阶段没有再加码房市信用管制的规划。
+张耿豪表示，台股以 AI 成长为主调的投资趋势并未扭转，下半年仍乐观看待台股发展。但今年以来涨势强劲，短期震荡难免，建议投资人可强化配置配息纪录良好、具长线成长能力的高股息 ETF，透过息收保护度过短期市场震荡，放眼 AI 长线成长。
 
-杨金龙今日赴立法院报告和备询，央行理监事会即将在下周登场，立委质询时称今年前4月全台建物买卖移转仅8,050栋、年减4.9%，显示房市已经偏冷，央行是否还会进一步加大选择性信用管制的力道？对此，杨金龙首度表态，选择性信用管制目前「就到这里」；至于房市管制是否会进一步松绑，杨金龙则未透露。
+张耿豪指出，今年 5 月底公告配息的大华优利高填息 30 ETF（00918）在近期市场震荡环境中，相当受到投资人青睐，吸引资金进驻，推升规模创新高，正式晋升千亿 ETF 新贵，并具备优利与成长的双重优势，相对具长期投资价值。
 
-立委关切台湾通膨压力升高、台股又热，央行是否可能升息？杨金龙回应，央行持续掌握最新数据，下周在理监事会将讨论利率和选择性信用管制，并于会后公告决议。虽然5月消费者物价指数（CPI）涨幅扩大，但多数国内外机构仍认为台湾物价长期稳定，相较主要经济体，台湾物价仍属平稳、通膨仍相对温和。
+张耿豪分析，00918 挂牌上市以来，报酬与配息持续缴出亮眼表现。根据大华银投信、Bloomberg数据，截至 2026 年 6 月 3 日为止，00918 总报酬率已达 197.6%，相当于双倍成长，但提醒随台股指数走高，近期市场波动加大，投资布局时可综合考量风险承受度以及个人资金水位。
 
-立委关切台湾是否可能预防性升息？杨金龙表示，目前没有输入性通膨，虽然中东战事时间比预期久，央行可能因此上修CPI预测值，但到目前为止，台湾没有通膨预期高涨的情况；主计总处上修今年全年消费者物价指数（CPI）年增率预测值到1.93%，但仍维持在2%警戒线之下，且CPI达2%也不是就要提高利率。
+根据大华银投信官网，统计至 2026 年 6 月 3 日为止，00918 挂牌以来共累积配息达 12 次，累积每单位配息金额已达 7.845 元，以 00918 发行价 15 元换算，配息金额已超过发行买进成本的一半，而 00918 即将在 6 月 18 日除息，投资人若想参与最新配息，最晚要在 6 月 17 日前买进。
 
-至于预防性升息的前提则是，大家可以预期未来半年、一年通膨会持续往上，且通膨预期成形，事先预防性升息才比较有效果，但以目前观察，通膨预期并不严重。若通膨只是短期现象，且预期后续会快速回落，就未必需要提前升息；但若判断通膨压力将持续存在，预防性升息将有助降低未来政策调整成本，但最终仍要视国内外经济金融情势和整体经济前景进行综合评估。
+针对下半年的投资策略，大华银投信指数量化投资部门主管郭修诚表示，台股延续「AI Together」为主调，AI科 技仍是成长核心，今年以来台股本益比虽已达 27~30 倍，但获利率随 AI 应用逐渐成熟持续走高，实质获利成长支撑，目前仍看好台股在下半年的续航力。
 
-（本文由MoneyDJ新闻授权转载；首图来源：pixabay）]]></description>
+针对近期市场明显的回档，郭修诚表示，台股上半年累积惊人涨幅，因此近期的修正，反而有益市场健康、有助于辨识出下一波领涨族群，创造布局机会，短期震荡并不影响台股长多趋势，可强化配置具备息收、成长双优势的高股息 ETF，提升投资组合抗震力。]]></description>
   </item>
 </channel>
 </rss>
