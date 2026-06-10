@@ -9,8 +9,8 @@ import time
 
 cc = OpenCC('t2s')
 
-# RSSHub 早报国际版路由
-RSSHUB_URL = 'https://rsshub.app/zaobao/realtime/world'
+# 联合早报国际版首页
+INDEX_URL = 'https://www.zaobao.com/realtime/world'
 OUTPUT_FILE = 'zaobao_feed.xml'
 
 def fetch_with_retry(url, max_retries=3):
@@ -29,14 +29,11 @@ def fetch_with_retry(url, max_retries=3):
             time.sleep(2)
 
 def extract_article(html):
-    """提取早报文章正文"""
     soup = BeautifulSoup(html, 'html.parser')
     
-    # 移除干扰元素
-    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe', 'div.ad']):
+    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'iframe']):
         tag.decompose()
     
-    # 早报的正文容器
     article = (soup.find('article') or 
                soup.find('div', class_=re.compile(r'article-content|story-content|content-detail')) or
                soup.find('div', {'itemprop': 'articleBody'}))
@@ -44,71 +41,73 @@ def extract_article(html):
     if not article:
         article = soup.body
     
-    # 提取段落
     paragraphs = article.find_all('p')
     if not paragraphs:
         return soup.get_text(strip=True)
     
-    # 过滤太短的段落（可能是导航或广告）
     valid_paragraphs = [p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 30]
-    
     text = '\n\n'.join(valid_paragraphs)
     text = re.sub(r'\n\s*\n', '\n\n', text)
     return text
 
 def fetch_and_convert():
-    print(f"抓取 RSSHub 早报源: {RSSHUB_URL}")
+    print(f"抓取联合早报: {INDEX_URL}")
+    resp = fetch_with_retry(INDEX_URL)
+    soup = BeautifulSoup(resp.text, 'html.parser')
     
-    # 1. 从 RSSHub 获取文章列表
-    resp = fetch_with_retry(RSSHUB_URL)
-    soup = BeautifulSoup(resp.text, 'xml')  # RSSHub 返回的是 XML
+    links = []
+    for a in soup.find_all('a', href=True):
+        href = a['href']
+        # 联合早报的文章链接格式
+        if '/realtime/world/' in href or '/story/' in href:
+            if href.startswith('/'):
+                url = 'https://www.zaobao.com' + href
+            else:
+                url = href
+            title = a.get_text(strip=True)
+            if title and len(title) > 10 and url not in [l['url'] for l in links]:
+                links.append({'url': url, 'title': title})
+            if len(links) >= 20:
+                break
     
-    # 解析 RSS 条目
-    items = soup.find_all('item')
-    print(f"获取到 {len(items)} 篇文章")
+    # 去重
+    seen = set()
+    unique_links = []
+    for link in links:
+        if link['url'] not in seen:
+            seen.add(link['url'])
+            unique_links.append(link)
+    unique_links = unique_links[:15]
+    
+    print(f"找到 {len(unique_links)} 篇新闻")
     
     rss_items = []
-    for idx, item in enumerate(items[:15]):
-        title = item.find('title').get_text(strip=True) if item.find('title') else ''
-        link = item.find('link').get_text(strip=True) if item.find('link') else ''
-        pub_date = item.find('pubDate').get_text(strip=True) if item.find('pubDate') else ''
-        
-        print(f"[{idx+1}] 处理: {title[:50]}...")
-        
+    for idx, link in enumerate(unique_links):
+        print(f"[{idx+1}] 处理: {link['title'][:50]}...")
         try:
-            # 2. 抓取原文完整正文
-            article_resp = fetch_with_retry(link)
+            article_resp = fetch_with_retry(link['url'])
             raw_text = extract_article(article_resp.text)
             cleaned = cc.convert(raw_text)
             
             if len(cleaned) < 100:
-                # 正文太短，使用 RSS 摘要
-                description = item.find('description')
-                summary = description.get_text(strip=True) if description else ''
-                cleaned = cc.convert(summary) if summary else cleaned
-                print(f"  ⚠ 正文过短({len(cleaned)}字)，使用摘要")
+                print(f"  ⚠ 正文过短({len(cleaned)}字)")
             else:
                 print(f"  ✓ 正文长度: {len(cleaned)} 字符")
             
-            # 日期处理
-            if not pub_date:
-                pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
-            
+            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
         except Exception as e:
             print(f"  ❌ 出错: {e}")
             cleaned = ""
-            if not pub_date:
-                pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
+            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
         
         rss_items.append({
-            'title': cc.convert(title),
-            'link': link,
+            'title': cc.convert(link['title']),
+            'link': link['url'],
             'description': cleaned,
             'pubDate': pub_date,
-            'guid': link,
+            'guid': link['url'],
         })
     
-    # 3. 生成新的全文 RSS
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n<channel>\n'
     xml += '  <title>联合早报新闻 RSS（简体/全文）</title>\n'
     xml += '  <link>https://www.zaobao.com/</link>\n'
