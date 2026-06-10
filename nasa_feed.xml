@@ -4,7 +4,121 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 10 Jun 2026 09:43:41 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 14:59:38 GMT</lastBuildDate>
+  <item>
+    <title>美国宇航局韦伯发现“黑洞恒星”的最有力证据</title>
+    <link>https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/</link>
+    <guid>https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/</guid>
+    <pubDate>Wed, 10 Jun 2026 14:00:00 +0000</pubDate>
+    <description><![CDATA[The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces.
+
+A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the lucky dot in question: GLIMPSE-17775. By carefully analyzing the dot’s spectrum captured by Webb — the deepestspectrumto date of a little red dot — the research team has identified multiple lines of evidence, all of which support the interpretation that GLIMPSE-17775 is a supermassive black hole enveloped in a dense cocoon ofpartially ionizedgas, a model referred to as the BH* (black hole star) scenario. A paper describing the results was published today inThe Astrophysical Journal.
+
+“I think part of the scientific community is converging on a singular picture — that little red dots can be explained by black hole star models. But none of the previous little red dots have all of the pieces of evidence in the same place,” said Kokorev, lead author of the study. “With GLIMPSE-17775 we can test these models because of how deep and amazing this source’s spectrum is.”
+
+Soon after Webb first began science operations, it discovered a new, mysterious type of object in the very early universe – abundant red objects that emerged about 600 million years after the big bang. Scientists have exploredmultiple explanationsfor these little red dots, including theblack hole star scenario.
+
+A set of fortunate circumstances brought about this new, elaborate spectrum of a little red dot. The little red dot that would come to be known as GLIMPSE-17775 was fortunately included in Webb’s imaging and spectroscopy efforts for a project that sought to look forPopulation III starsand faint galaxies in galaxy cluster Abell S1063. This little red dot is more distant than the galaxy cluster and magnified bygravitational lensing. (GLIMPSE-17775 has acosmological redshiftof 3.5, meaning it existed about 1.8 billion years after the big bang.)
+
+While Webb provided a 30-hour spectrum of the little red dot, the effect of gravitational lensing made it equivalent to 80 hours of telescope time. This combination of Webb’s infrared sensitivity and nature’s own “magnifying glass” amplified the amount of detail that could be gleaned from GLIMPSE-17775. The result was more than 40spectral linesfrom this small, red source, which is the most detailed little red dot spectrum to date.
+
+“When we saw the spectrum for the first time, it was like having all the pieces of a puzzle scattered on the floor,” said Kokorev. “We picked up each piece of the puzzle, measured the lines, and started combining the different pieces into a mosaic. Maybe a few pieces looked like nothing at first, but then a couple of them came together, and we realized that there was something there.”
+
+The spectroscopic data collected by Webb contains multiple lines of evidence that support the interpretation that little red dot GLIMPSE-17775 is a black hole star: a rapidly accreting, or growing, black hole enveloped in a dense gas cocoon, which is reprocessing the light emitted from near the black hole and producing the features seen in the spectrum.
+
+Among the 40-plus lines that the team detected in GLIMPSE-17775’s spectrum were various independent indicators that all align with the BH* scenario. For example, the team found that many of the spectral lines, such as hydrogen, oxygen, and helium, do not fit a simple model of a rotating gas cloud. Instead, the best fit model includes a broadening effect known as electron scattering, a telltale sign that a dense, layered gas cocoon is enshrouding this source.
+
+The strength and ratios of certain lines to each other, most notably the 16 iron lines that compose what the team has dubbed an “iron forest” and certain oxygen lines, require a high-energy source to produce them, like a rapidly accreting black hole. Additionally, astronomers noted the fluorescence and absorption of helium in the spectrum, both of which individually suggest that there is a dense medium enveloping a powerful source.
+
+The BH* scenario not only fits GLIMPSE-17775; it also accounts for why most little red dots are faint in X-rays, since any such emission is likely absorbed by the dense gas cocoon.
+
+One missing element of the GLIMPSE-17775 puzzle piece is the part of the spectrum that would reveal what’s known as a Balmer break, or a strong dip in the emitted light that’s a signature characteristic of little red dots. To build a more comprehensive understanding of this little red dot, the team incorporated ancillary data from two observing programs that used NASA’s Hubble Space Telescope: the Frontier Fields and BUFFALO (Beyond Ultra-deep Frontier Fields And Legacy Observations) programs.
+
+The Webb and Hubble data together help explain why the Balmer break is weaker than what typically is found in other little red dots: A giant host galaxy is surrounding GLIM]]></description>
+  </item>
+  <item>
+    <title>前陆地卫星项目科学家吉姆·艾恩斯 (Jim Irons) 荣获佩科拉奖</title>
+    <link>https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/</link>
+    <guid>https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/</guid>
+    <pubDate>Wed, 10 Jun 2026 14:00:00 +0000</pubDate>
+    <description><![CDATA[Last month, Landsat’s very own Jim Irons won the prestigiousWilliam T. Pecora Award.
+
+Irons, now an emeritus scientist at NASA Goddard Space Flight Center, played an integral role in shaping the Landsat program into what it is today. He served as deputy project scientist for Landsat 7 before taking over as project scientist for Landsat 8. From the earliest days of Landsat 8—then called the Landsat Data Continuity Mission (LDCM)—all the way through launch and operation, Irons worked across the agency and with colleagues at the USGS to ensure that Landsat continued providing critical data to researchers around the world. He championed rigorous calibration standards and fought to keep the thermal band on Landsat 8. Now, with projects likeOpenETrelying on evapotranspiration data derived from Landsat thermal imagery, the strength of his vision has only become more apparent.
+
+Irons also served as the director of NASA Goddard’s Earth Science Division during the turbulent early days of the COVID-19 pandemic. Contending with global disruption, he prioritized making sure that everyone had the support that they needed to continue doing great work. As a leader and a scientist, Irons left a legacy of collaboration and innovation that lives on today.
+
+We checked in with Irons about his role in Landsat’s history, what it takes to be a good leader, and winning the Pecora award:
+
+One reason I feel so honored is that prior recipients have been my supervisors, mentors, role models, and colleagues whose work I admired and who inspired me. There's a long list of people who have been recipients, and I am very honored to be added to that list.
+
+There are also many people who have not yet been recognized who are very deserving. I've written letters of support for others, and I hope I'm called on again because there are more people who deserve recognition than there are awards to give out.
+
+Data continuity is the backbone of the Landsat program. We are looking for change over time. When we talk about climate change and the impact of humans on the land surface, those changes are multi-decadal. We wouldn't be able to understand, characterize, and monitor those changes without a continuous data record.
+
+And it's really important that the data record is well-calibrated. When we see changes between data from one Landsat sensor relative to another, we need to be confident that it's a change occurring on the Earth, not a change in the performance of the sensors.
+
+Early in my career, I got in trouble over calibration. NASA was flying an airborne sensor called the Thematic Mapper Simulator, intended to anticipate the capabilities of Landsat 4 and 5. But the operators kept changing the radiometric gain in-flight to maximize the dynamic range. I told NASA Headquarters that we couldn't compare that data to the actual Thematic Mappers if they kept changing the gain—it wasn't the same radiometry! The HQ manager got really upset, but I weathered the storm and stuck to my guns.
+
+Later, when Landsat 4 and 5 were returned to the U.S. government from private operation, there had been no real calibration since launch. I advocated for a ground system component at USGS EROS to perform calibration. I didn't build it, but I did advocate for USGS to hire a brilliant guy named Jim Storey, who developed the software for the precise geolocation of pixels in the data.
+
+When I became Landsat 8 Project Scientist, we needed a pre-launch calibration lead. I advocated for Brian Markham. Brian just did a remarkable job ensuring the calibration of the Operational Land Imager (OLI) and its cross-calibration with previous instruments. He was modest, humble, and built a highly effective team across private industry and agencies.
+
+Back when USGS charged for data, the use of thermal data was minimal. Some well-respected papers even claimed it wouldn't be possible to use thermal data to estimate evapotranspiration rates. Based on that, the Director of Earth Sciences at NASA HQ was convinced that the thermal capability wasn't providing a return on investment.
+
+But while this debate was ongoing, people began developing methodologies for estimating evapotranspiration and water consumption using thermal data—prominently Martha Anderson at the USDA, and researchers at the University of Idaho. It became crucial for monitoring agricultural water use in the West, and was even used in adjudicating water rights. It was also useful for cloud detection and fire monitoring.
+
+I felt strongly that dropping the thermal capability was inconsistent with our directive to continue the Landsat data record. However, due to time pressures and budget constraints, the decision was initially made to fly Landsat 8 without a thermal instrument. But then, when our schedule was pushed back by an independent review board, a window opened up. Center Director Ed Weiler, who had moved to HQ, supported putting a thermal sensor on the payload. Kathy Richardson and engineer Fernando Pellerano were assigned to]]></description>
+  </item>
+  <item>
+    <title>GLOBE 使命地球教育者参与土地覆盖实践社区</title>
+    <link>https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/</link>
+    <guid>https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/</guid>
+    <pubDate>Wed, 10 Jun 2026 12:43:01 +0000</pubDate>
+    <description><![CDATA[在 2025-2026 学年，来自 NASA 科学激活计划的 GLOBE（全球学习和观测以造福环境）地球任务项目的教育工作者参加了由 NASA 兰利研究中心领导的专门实践社区，以完善学生与 NASA 土地覆盖数据（MODIS、Landsat 和 Sentinel-2）的交互方式。他们的合作集中在四个关键领域：
+
+通过 GLOBE，社区可以为长期数据记录贡献有意义的环境数据。当参与者通过 GLOBE Observer 进行土地覆盖观测时，NASA 兰利的团队会将他们的观测结果与类似时间和地点的卫星数据进行比较，并发送一封卫星比较电子邮件，其中包括一个数据表，显示他们的 GLOBE 观测结果与相应卫星数据的比较情况。
+
+实践社区的主要发现：实践社区共有 14 名教育工作者，其中 6 名教育工作者使用 GLOBE Observer 应用程序积极与学生一起收集土地覆盖观测数据。这些土地覆盖观测数据与 MODIS、Landsat 和 Sentinel-2 数据进行了搭配，教育工作者收到了卫星比较电子邮件。
+
+在该实践社区的范围内，10 名教育工作者制定了 2026-2027 学年的学生研究计划，重点关注土地覆盖数据，解决以下问题：
+
+教育工作者们非常高兴有机会作为一个社区进行互动和学习，并与 NASA 的主题专家建立联系。根据实践社区的经验教训，该团队更好地了解了如何将 NASA 土地覆盖数据纳入课堂、教育工作者可能向学生提出哪些类型的研究问题，以及可以开发的资源来协助教育工作者实施其研究计划。
+
+在土地覆盖实践社区 (COP) 的范围内，教育工作者被要求为由 NASA 兰利团队开发的 GLOBE Mission Earth GLOBEN Nature Notes Guide 提供反馈，该指南利用了由缅因湾研究所领导的 NASA 科学激活计划的学习生态系统东北 (LENE) 项目创建的 Nature Note 模型。开发与 GLOBE 协议一致的 GLOBE Nature Notes 是为了帮助教育工作者将 Nature Notes 流程与学生的 GLOBE 观察相结合。一名 COP 教育工作者目前正在开发一个土地覆盖 GLOBE Nature Note 示例，一旦完成，将与 GLOBE 和 NASA Science Activation 社区共享。
+
+教育工作者可以加入 GLOBE 计划，通过下载 GLOBE Observer 应用程序并了解有关土地覆盖的更多信息，贡献对土地覆盖和其他环境条件的观察。
+
+GLOBE 地球任务由 NASA 根据合作协议奖励号 NNX16AC54A 提供支持，并且是 NASA 科学激活组合的一部分。详细了解 Science Activation 如何将 NASA 科学专家、真实内容和经验与社区领袖联系起来，以激活思维并促进对我们的世界及其他世界更深入了解的方式开展科学研究：https://science.nasa.gov/learn/about-science-activation/。]]></description>
+  </item>
+  <item>
+    <title>NASA 的 CloudCube 开创了研究云和降水的小型雷达</title>
+    <link>https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/</link>
+    <guid>https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/</guid>
+    <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[CloudCube 是在 NASA 地球科学技术办公室仪器孵化器计划的资助下建造的，可发射和接收 Ka、W 和 G 波段信号，使其成为第一个能够以大约 1 到 10 毫米的波长同时探测气象目标的紧凑型雷达系统。研究人员将能够结合来自三个信号的信息，以了解有关降水的起始和演化以及云微物理和辐射特性的更多信息。
+
+JPL 系统工程师兼 CloudCube 首席研究员 Raquel Rodriguez Monje 表示：“我们正在制造一种低功耗、低质量的仪器，以促进新的经济高效的大气观测任务。构建多频雷达，尤其是 G 波段雷达，是非常新颖的。”
+
+CloudCube 的三个信号中的每一个都观察到云物理的不同元素。 Ka波段雷达信号非常适合收集降水剖面； W 波段雷达信号优选用于测量引起降水的云粒子； G 波段雷达信号从未从天基仪器中收集过，非常适合测量极轻云内的冰和液态水含量（可以在此处找到描述此测量的论文）。
+
+通过三个信号同时探测大气，研究人员可以同时收集所有这些云特征的数据，这对于改进天气预报，尤其是气候建模非常有价值。 CloudCube 利用毫米波硬件的创新将三个雷达模块（每个信号一个）封装在一个紧凑的系统中。
+
+CloudCube 的一项创新涉及从紧凑型低功耗仪器传输 G 波段功率所需的专用组件。云信号的检测需要高发射功率，CloudCube 通过组合多个高效倍频设备的输出来实现这一目标，使仪器能够在 240 GHz 下产生数百毫瓦的功率。 CloudCube的另一项创新是，它被设计为使用尽可能少的射频元件，以减少其质量和功耗，这可以降低未来地球观测轨道仪器的成本。
+
+在太空飞行配备 G 波段雷达的仪器将是一项新功能，将使研究人员在云微物理过程的研究中获得更高的空间分辨率和灵敏度。
+
+JPL 研究员兼 CloudCube 联合研究员马特·莱布索克 (Matt Lebsock) 表示：“基本上，我们使用这些频率组合来衡量云的重量，这是我们在拥有 G 频段之前无法做到的。”
+
+该仪器已经过现场测试。 CloudCube G 波段通道的地面原型在能源部肯纳库克云与降水实验 (CAPE-K) 活动期间连续运行了 11 个月。 CloudCube 还参加了东太平洋云气溶胶降水实验，这是一项由能源部赞助的地面活动。可以在此处找到描述该实验结果的论文。
+
+最近，CloudCube 成功操作了 NASA 湾流 III 飞机的所有三个频段，并收集了首次空中降雪观测数据，这是北美上游特征解析和对流层顶不确定性侦察实验活动的一部分，该活动是由 NASA 资助的，旨在改善对高影响冬季天气的预测。 CloudCube团队目前正在校准和处理数据以供公开发布。
+
+有关更多详细信息，请参阅 NASA TechPort 上该项目的条目。
+
+项目负责人：Dr. Raquel Rodriguez Monje，美国宇航局喷气推进实验室
+
+赞助机构：NASA地球科学技术办公室仪器孵化计划]]></description>
+  </item>
   <item>
     <title>廷德尔的伯格斯踪迹</title>
     <link>https://science.nasa.gov/earth/earth-observatory/tyndalls-trail-of-bergs/</link>
@@ -136,134 +250,6 @@ Artemis III includes launching the world’s most powerful rockets in short orde
 挑战结束后大约一周，我们将在本页顶部发布答案，以及指向地球观测站每日故事图像的链接，该链接更详细地解释了该图像。我们将识别第一个正确猜测位置的人，并且我们还可能会突出显示分享特别深思熟虑或有趣答案的读者。提交回复即表示您承认您的评论可能会被编辑、摘录并发布在此页面上。
 
 在那之前，请放大，仔细观察，并享受挑战。揭晓时见！]]></description>
-  </item>
-  <item>
-    <title>NASA 知道：什么是质量分布？</title>
-    <link>https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/</link>
-    <guid>https://www.nasa.gov/learning-resources/nasa-knows-what-is-mass-distribution/</guid>
-    <pubDate>Tue, 09 Jun 2026 14:26:32 +0000</pubDate>
-    <description><![CDATA[质量分布影响从星系形状到飞机设计再到行星自转的一切。它被用来绘制宇宙中的恒星地图，弄清楚行星是由什么组成的，甚至确定行李如何装载到飞机上。
-
-大规模分发可能是一件很难理解的事情。那么，让我们用一个日常例子来探讨它：足球。
-
-您是否曾踢过一个足球，并想知道为什么它会弯曲、旋转或有时会摇晃？质量分布起了一定作用。
-
-从外面看，足球看起来很简单——一系列几何形状以某种图案编织在一起。但在内部，它们经过精心设计。一个优秀足球的关键是你看不到的东西：球内的质量如何分布。
-
-当工程师制造足球时，他们会尽力确保其质量在各个区域均匀平衡。这是因为球的旋转和飞行方式取决于其质量的排列方式。如果球的某一部分稍微重一点，它的质心就会发生移动。如果球的质心不精确平衡，球就不会平稳移动。
-
-______________________________________________________________________
-
-质量：物体中物质含量的测量
-
-质量分布：质量如何在物体内传播
-
-质心：物体质量完美平衡的唯一点
-
-______________________________________________________________________
-
-科学家和工程师使用精密天平、计算机模型和重复测试等工具来确定物体的质量分布。这些努力帮助他们设计出平衡的飞机、火箭，甚至足球。他们的目标是实现动态平衡，这意味着物体可以平稳移动而不会发生意外运动。
-
-在地球上，重力隐藏了物体运动的一些细节。在微重力下，宇航员可以更清晰地观察运动。 2019年，阿迪达斯与美国宇航局合作，将足球送往国际空间站。
-
-宇航员进行了测试，以帮助工程师确认他们的设计并以地球上无法做到的方式了解球运动背后的物理原理。空间站实验的结果已经帮助提高了现代足球的准确性和一致性。
-
-你不需要去太空探索运动中的球的物理原理。在家里或学校尝试这个实验：
-
-你能说出哪些球平衡得很好吗？或者哪些可能具有不均匀的质量分布？
-
-您对探索大众分发科学与工程的职业感兴趣吗？许多不同的职业可以帮助您达到完美的平衡。以下是一些示例：
-
-计算机辅助设计 (CAD) 技术员/绘图员：这些专家将草图和工程设计转换为技术图纸。他们使用功能强大的计算机软件创建详细的物体 3D 和 2D 绘图。技术或社区学院的两年制副学士学位是这条职业道路的关键。
-
-计算流体动力学工程师：这些工程师使用计算机仿真工具对现实情况下的流体行为进行建模和分析。他们可能会研究运动球设计周围的气流或探索改进飞机机翼的方法。他们需要强大的工程背景和分析复杂问题的能力。
-
-物理学家：这些科学家研究物质和能量。他们开发模型和理论来解释事物如何运作、进行实验并使用数学来更好地了解宇宙。物理学职业需要对数学和解决复杂问题有深刻的理解，并且通常需要高级大学学位。]]></description>
-  </item>
-  <item>
-    <title>旧金山大都会马赛克</title>
-    <link>https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/</link>
-    <guid>https://science.nasa.gov/missions/station/san-franciscos-metropolitan-mosaic/</guid>
-    <pubDate>Tue, 09 Jun 2026 04:00:00 +0000</pubDate>
-    <description><![CDATA[这座北加州城市汇聚了城市发展、绿色空间和海上活动。
-
-2026 年 5 月 27 日，一段不稳定的天气给加州湾区带来了零星阵雨和雷暴。那天下午，云层的破裂让旧金山市中心和附近的社区处于基本无云的天空之下，国际空间站上的一名宇航员得以拍摄这张照片。
-
-该图像捕捉到了该地区的两座标志性桥梁。金门大桥将旧金山半岛北部与北部的马林县连接起来，而旧金山-奥克兰海湾大桥则横跨海湾，向东延伸至奥克兰。
-
-在图像中心附近，金门公园在密集的城市景观中像一条长方形的绿带一样引人注目。该公园占地 1,000 多英亩（400 公顷），拥有草地、花园、林地和湖泊。金门大桥周围向北的额外绿地是国家休闲区的一部分。
-
-最低点（向下看）视角还提供了街道网格拼凑而成的清晰视图，这些街道网格是随着城市连续阶段的发展而布局在旧金山的丘陵地形上的。市场街位于市中心区的中心地带，从西南向东北延伸，是两个不同网格方向之间的显着分隔线：一个与海湾对齐，另一个与街道对齐。
-
-沿着东北部和东部海滨，各种建筑物延伸到海湾。向北，这些设施包括非历史性的码头、海堤和码头，大部分建于 1900 年代初，但有些可以追溯到 1800 年代。邻近水域有繁忙的海上交通，包括货船和集装箱船、游轮和区域渡轮。
-
-在西海岸，包括金门公园附近 3.5 英里长的沙滩——海洋海滩，都可以看到破碎的海浪。 5 月 27 日，国家气象局警告称，由于强北风，该地区的海滩出现危险状况。在拍摄这张图像后的几天里，来自西北方向的长期海浪导致了离岸流和运动鞋波浪的风险增加。
-
-宇航员照片ISS074-E-619284于2026年5月27日获取，使用尼康Z9数码相机，焦距为800毫米。它由国际空间站机组人员地球观测设施和美国宇航局约翰逊航天中心的地球科学与遥感部门提供。这张照片是由 Expedition 74 船员拍摄的。图像经过裁剪和增强以提高对比度，并且镜头伪影已被消除。国际空间站计划支持该实验室作为国际空间站国家实验室的一部分，帮助宇航员拍摄对科学家和公众最有价值的地球照片，并将这些图像在互联网上免费提供。宇航员拍摄的其他图像可以在 NASA/JSCGateway to Astronaut Photography of Earth 上查看。 凯瑟琳·汉森的故事。
-
-当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
-
-沿着马里兰州首都环城公路的东北侧，绿色空间交织在已开发的景观中。
-
-劳伦泰德冰盖从现在的哈德逊湾退缩后，反弹的陆地显露出引人注目的近岸地形。
-
-国际空间站上的一名宇航员惊讶地拍摄到一道划过黑暗的光雨……
-
-订阅地球观测站并将地球放入您的收件箱中。
-
-美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
-
-开放访问 NASA 的地球科学数据档案]]></description>
-  </item>
-  <item>
-    <title>NASA Science 和 Artemis 如何塑造 2026 年 FIFA 世界杯</title>
-    <link>https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/</link>
-    <guid>https://www.nasa.gov/centers-and-facilities/johnson/how-nasa-science-and-artemis-are-shaping-the-2026-fifa-world-cup/</guid>
-    <pubDate>Mon, 08 Jun 2026 19:36:08 +0000</pubDate>
-    <description><![CDATA[约翰逊航天中心通讯办公室
-
-随着 FIFA 世界杯的临近，美国宇航局 (NASA) 正在将空间科学和工程带给全世界的球迷。 2026 年 6 月 11 日至 7 月 19 日，NASA 将在休斯顿 FIFA Fan Festival™ 举办展览，参观者可以了解国际空间站上的研究如何造福地球上的生命，并通过阿尔忒弥斯计划体验近地轨道、月球及更远地区的任务。
-
-6 月 11 日，随着 FIFA 世界杯的开幕，NASA 在休斯顿球迷节上的展览将向公众开放。 该活动免费参加，并在休斯顿东市中心举行的每场比赛中开放。 6 月 20 日，约翰逊航天中心主任凡妮莎·威奇 (Vanessa Wyche) 将介绍执行历史性绕月任务的阿尔忒弥斯二号机组成员。剧组将在休斯顿荷兰与瑞典比赛之前参加世界杯活动，并将出现在休斯顿球迷节主舞台上，与球迷分享他们的经验。
-
-NASA 与世界杯之间的联系超越了展厅，一直延伸到轨道。NASA 的衍生技术是为太空探索而开发的创新技术，这些技术不断影响着商业产品和日常生活，甚至在足球场上也是如此。
-
-25 年来，国际空间站上的研究在科学、技术和人类健康方面取得了突破，同时推进了造福地球人类的创新。这项工作包括提高对足球飞行所涉及的空气动力学和物理学的理解的研究。
-
-2019 年，研究人员与国际空间站国家实验室合作，利用空间站的微重力环境来研究足球的内部质量如何影响其运动、稳定性和旋转。这些发现加深了人们对嵌入式技术（包括比赛球传感器）如何影响比赛过程中表现的理解。 该研究有助于用于开发和评估主要国际赛事（包括国际足联世界杯比赛）足球的研究。
-
-了解物体的质心与其几何中心之间的关系是预测自由飞行物体（包括航天器、卫星和飞机）如何移动的关键。
-
-自 2022 年以来，阿迪达斯已将电子设备嵌入重大赛事中使用的官方比赛用球中。传感器实时跟踪速度、位置和接触，以支持裁判和广播技术。但这些传感器也会增加球内特定位置的质量，并且质量分布不均匀会影响球在空气中的移动方式。
-
-这项天基研究有助于提高人们对内部质量（包括嵌入式传感器）如何影响现实比赛条件下的稳定性和旋转的理解。
-
-这项工作建立在早期对旋转物体在微重力下如何表现的研究的基础上。
-
-位于加利福尼亚州硅谷的 NASA 艾姆斯研究中心的工程师在流体力学实验室的风洞条件下测试了阿迪达斯为 2014 年 FIFA 世界杯开发的 Brazuca 球。 研究人员研究了空气动力学行为，包括低旋转踢球如何产生“指关节”，即由于接缝处气流不稳定，球会发生不可预测的移动。美国宇航局工程师测量了这种效应最明显的速度和流动条件。
-
-面板形状、接缝深度和表面纹理的调整可以影响飞行的一致性，有助于确定球在比赛过程中是否弯曲、倾斜或保持其路线。
-
-现在，美国国家航空航天局 (NASA) 和阿迪达斯正在通过 STEM 演示来展示这一科学成果，该演示比较了足球在微重力下如何以不同的平衡方式旋转和移动。 该实验表明，控制太空运动的物理原理也如何影响了数百万人在地球上观看的游戏。
-
-通过国际空间站上的研究和为探索而开发的技术，美国宇航局继续展示太空发现如何造福地球上的人们，包括参加世界上最受欢迎的运动的运动员和粉丝。
-
-观看足球 STEMonstration 视频：
-
-巴塔哥尼亚南部冰川上的冰块碎裂，漂流到不断扩大的冰川湖上。
-
-这座北加州城市汇聚了城市发展、绿色空间和海上活动。]]></description>
-  </item>
-  <item>
-    <title>超音速！</title>
-    <link>https://www.nasa.gov/image-article/supersonic/</link>
-    <guid>https://www.nasa.gov/image-article/supersonic/</guid>
-    <pubDate>Mon, 08 Jun 2026 15:28:10 +0000</pubDate>
-    <description><![CDATA[2026 年 6 月 5 日，NASA 实验性 X-59 飞机首次以超过音速的速度飞行，为今年晚些时候展示其安静超音速能力奠定了基础。 NASA 试飞员吉姆·“克鲁”·莱斯 (Jim “Clue” Less) 起飞并降落在加利福尼亚州的爱德华兹空军基地，最高速度约为 1.1 马赫（713 英里/小时）。飞行持续了 81 分钟，团队重点关注亚音速和超音速下的飞行质量。
-
-X-59 是 NASA 探索任务的核心，该任务旨在演示安静的超音速飞行，并帮助实现全球陆地上空的商业超音速飞行。 这些进步将帮助旅行者更快地到达他们的首选目的地，并减少在空中的时间。
-
-了解有关里程碑和任务的更多信息。]]></description>
   </item>
 </channel>
 </rss>
