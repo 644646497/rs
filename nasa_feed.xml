@@ -4,6 +4,244 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Thu, 11 Jun 2026 02:52:46 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 10:11:51 GMT</lastBuildDate>
+  <item>
+    <title>东北地区空气污染的每日脉搏</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</guid>
+    <pubDate>Thu, 11 Jun 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.
+
+More than 35 million people live along the New York–Washington corridor and breathe the region’s air. While air quality hasimproved significantlyin recent decades, outbreaks ofground-level ozoneremain common, particularly in the warm summer months, when the chemical reactions that produce the pollutant accelerate and stagnant air allows ozone to accumulate.
+
+A reminder of this seasonal phenomenon came earlier than usual in 2026, when amid-May heat waveprompted the New York State Department of Health and the New York Department of Environmental Conservation to issue ahealth advisoryon May 17 over concerns about ozone. Thecode orangeadvisory warned young people, older adults, and those working or exercising outdoors to limit activity due to ozone's respiratory and cardiovascular health impacts.
+
+As expected, ground-based air-quality sensors operated by state and federal agencies showed ozone reachingunhealthy levelsfor sensitive groups on May 18, something that typically happensseveral times per year. Meanwhile, NASA'sTEMPO(Tropospheric Emissions: Monitoring of Pollution) instrument observed the event fromgeostationary orbit22,000 miles (35,000 kilometers) above the equator, a unique vantage point that allows the sensor to collect frequent observations of air pollution.
+
+TEMPO detectsnitrogen dioxide(NO2), a gas emitted by burning fuels, particularly by motor vehicles, that contributes to ozone formation. "There's often a clear and interesting pattern in TEMPO's nitrogen dioxide data during ozone alert days," said Hazem Mahmoud, an atmospheric scientist at NASA’sAtmospheric Science Data Centerat Langley Research Center. "We see high concentrations of nitrogen dioxide during the early morning commute that drop off sharply in the late afternoon as ozone increases."
+
+The decline occurs as sunlight fuelsphotochemical reactionsinvolving nitrogen dioxide,volatile organic compounds, and oxygen that lead to ozone formation. By late afternoon, these reactions deplete much of the available nitrogen dioxide, slowing ozone production until the cycle begins again the next day.
+
+The pair of images above underscores the pattern. The image on the left was acquired at 7:05 a.m. local time when nitrogen dioxide concentrations were high during the morning commute. By 3:05 p.m. (right), most of the nitrogen dioxide had declined substantially, andsurface ozonelevels were elevated (below). Meanwhile,afternoon sea breezesappear to have transported the remaining nitrogen dioxide slightly to the west. Note that the data shown isprovisional, and processing methods are still being refined.
+
+Sensors on earlier polar-orbiting satellites, such asOMI(Ozone Monitoring Instrument) andTROPOMI(Tropospheric Monitoring Instrument), sampled nitrogen dioxide over New York once per day. After its launch in 2023, TEMPO began providing data every hour, allowing researchers to track the evolution and dispersion of air pollution at much finer time scales.
+
+"TEMPO is helping fill data gaps between ground stations and allowing us to ask new questions," Mahmoud said. The mission provides data that can improve not only air quality forecasts during crisis situations, such as wildfires, but also the atmospheric models used to forecast the daily rhythms of urban pollution. Such models help researchers understand how natural factors such as winds, humidity levels, and air temperatures influence pollution plumes over the course of a day.
+
+TEMPO also detects ozone directly, but determining how much of that ozone is near the surface versus higher in the atmosphere can be challenging. Most of Earth's ozone resides in thestratosphere, well above the troposphere, where people live and breathe. At times, however, stratosphericozone can be transported downwardinto the troposphere. During events known asstratospheric intrusions, it can even descend far enough to affect air quality at the surface and add to the ozone produced at ground level.
+
+By combining TEMPO observations withother sources of information, researchers are studying the processes that influence the distribution of ozone vertically in the atmosphere. On May 18, NASA's ground-basedtropospheric lidar network(TOLNet) in New York City recorded high concentrations of ozone near the surface, indicating that TEMPO was detecting mostly surface-level ozone associated with urban emissions and not ozone aloft, said Mahmoud.
+
+However, on May 19, the same sensor observed a layer of ozone descending from above 5 kilometers (3 miles), he added, a clue that some of the ozone TEMPO detected that day may have originated in the stratosphere. "This is the type of information that leads to better air quality forecast models and more accurate alerts," Mahmoud said. "Alerts can affect tens of millions of people and lead to disruptions in school, sports, and other activities]]></description>
+  </item>
+  <item>
+    <title>好奇心博客：Sols 4913-4919：行星探险家，随心所欲地前往雅丹单位！</title>
+    <link>https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/</link>
+    <guid>https://science.nasa.gov/blog/curiosity-blog-sols-4913-4919-planetary-explorers-freewheeling-to-the-yardang-unit/</guid>
+    <pubDate>Wed, 10 Jun 2026 21:23:02 +0000</pubDate>
+    <description><![CDATA[火星科学实验室任务团队成员
+
+作者：Catherine O’Connell-Cooper，加拿大新不伦瑞克大学 APXS 战略规划师和有效负载上行/下行链路负责人
+
+地球规划日：2026 年 6 月 5 日星期五
+
+从非常广泛的意义上讲，好奇号有两种开展科学研究的模式——一种以明确的科学活动为中心（例如最近的盒子活动），另一种则以我们在活动之间移动为中心。在科学活动期间，有一个非常明确的开始和结束位置，每个图像和每个工作空间都经过精心设计，以确保我们实现该活动的所有科学目标。这压力很大啊！
+
+但在竞选之间，重点转向推动下一场重大竞选。我们的下一个主要站点是 theyardangunit，这是一系列有趣的风雕、浅色山丘，您可以在本博客的封面图片中看到远处的山丘。流动站规划师（RP）有时会尽可能地让我们行驶尽可能长的距离，而我们则尽可能行驶尽可能远的距离，有时我们会稍作停留，边走边观察有趣的工作空间。作为 APXS 团队的一员，我喜欢参与盒子活动并获取我们需要的所有信息……但作为一名地质学家，这种探索有一些非常特别的感觉，即作为一名行星探险家的感觉，漫步看看岩石将向我们展示什么。
+
+因此，我们继续向南，在层压基岩上滚动，这些基岩的颜色从主要是浅色的层压基岩到具有丰富的薄片状、深色、层状和斑块的带状。有些岩石以奇怪的角度突出，这使得规划驾驶变得更具挑战性。过去的一周，工作空间周围的地方和碎片中都出现了丰富的深色层与更占主导地位的浅色岩石的夹层。 APXS 和 MAHLI 表征了一些较暗的材料，例如“Rio Bio Bio”和“Placilla de Caracoles”，以及拉丝目标“La Primavera”和“Los Quemados”的一些较浅的材料。 ChemCam 还分析了沿途的两种类型的岩石。
+
+我们正忙于获取 Mastcam 和 ChemCam LD-RMI（“长距离远程微型成像仪”）图像，其中包括一切有趣的东西，而且这里有很多很多很酷的功能。这里开阔的景观使我们能够从几个不同的角度和距离对特征进行成像，例如“米拉弗洛雷斯”，在这张图像中从远处看到的一个小的侵蚀异常值，在这里近距离观察。另一个很好的例子是“Kimsa Chata”海槽，它显示了一些令人惊叹的沉积结构，这可能有助于我们确定这是沙漠还是湖泊，或者可能是介于两者之间的东西，例如有水流过的沙漠。
+
+环境主题小组继续在每个计划中加入环境监测活动。活动多种多样，从对大风陨石坑的尘暴监测到观察头顶天空中的尘埃水平。周末的驾驶计划将带我们进一步进入封面图片中所示的驾驶距离，到达深色和浅色基岩之间的对比更加明显的区域，再往前，到达看起来非常光滑、没有突出块的区域。从我们今天的位置来看，不可能说出它是什么，但这就是探索的乐趣——谁知道我们会发现什么？请继续关注未来几周的情况。
+
+火星是距太阳第四远的行星，也是第七大行星。这是我们所知道的唯一有人居住的星球……
+
+探索火星图像、视频、资源、PDF 和工具包的集合。发现旨在提供信息、教育和启发的有价值的内容……
+
+每个被派往红色星球的机器人探险家都有其独特的由科学驱动的能力。一个…的许多属性
+
+了解火星过去、现在或未来生命潜力的关键可以在美国宇航局的四个……]]></description>
+  </item>
+  <item>
+    <title>美国宇航局授予加州建筑服务合同</title>
+    <link>https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-awards-contract-for-construction-services-in-california/</guid>
+    <pubDate>Wed, 10 Jun 2026 20:32:25 +0000</pubDate>
+    <description><![CDATA[NASA 已为西部地区多重奖励建设合同选择了多家小型企业，该合同支持位于加利福尼亚州爱德华兹的 NASA 阿姆斯特朗飞行研究中心、位于加利福尼亚州硅谷的 NASA 艾姆斯研究中心以及该地区其他联邦机构的广泛设施增强、现代化和维护工作。
+
+该合同提供一般建设、改造、维护和修理以及拆除服务，以及新建建筑物和设施，其中融合了能源和环境设计实践的领导力和建筑信息模型，以支持高效和可持续的项目执行。
+
+这份无限期交付/无限数量、固定价格的合同是该机构之前区域建设合同的后续合同，五年内的潜在价值为 4.5 亿美元。
+
+有关 NASA 和机构项目的更多信息，请访问：
+
+Jennifer Dooren / Jessica Taveau华盛顿总部202-358-1600jennifer.m.dooren@nasa.gov/jessica.c.taveau@nasa.gov
+
+Dede DiniusArmstrong 飞行研究中心，爱德华兹，加利福尼亚州 661-276-5701darin.l.dinius@nasa.gov]]></description>
+  </item>
+  <item>
+    <title>NASA、NOAA 将在第 23 届运行环境卫星系统研讨会上举行联席会议</title>
+    <link>https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/</link>
+    <guid>https://science.nasa.gov/science-research/earth-science/nasa-noaa-to-hold-joint-session-at-23rd-symposium-on-operational-environmental-satellite-systems/</guid>
+    <pubDate>Wed, 10 Jun 2026 18:09:55 +0000</pubDate>
+    <description><![CDATA[提交“通过 NASA 和 NOAA 商业卫星数据计划推进天气和环境科学”的摘要，这是由 NASA 商业卫星数据采集 (CSDA) 计划与 NOAA 国家环境卫星、数据和信息服务 (NESDIS) 商业数据计划 (CDP) 合作主办的联合会议。
+
+该会议是第 23 届运行环境卫星系统研讨会的一部分，该研讨会将于 1 月 10 日至 14 日在科罗拉多州丹佛市举行的 2027 年美国气象学会 (AMS) 年会上举行。它将考察商业地球观测提供商不断增长的能力，这些提供商正在为推进天气研究、业务预报和环境科学应用创造新的机会。
+
+NASA 的 CSDA 计划和 NESDIS 的 CDP 合作，扩大联邦政府对商业卫星数据的访问，并加速其在研究和运营应用中的使用。
+
+CSDA 计划通过评估和获取各种商业数据集来支持科学界，包括光学、合成孔径雷达、全球导航卫星系统无线电掩星和反射测量、甲烷、降水以及用于建模、灾害监测、气候研究和应用研究的数字高程/地形模型。
+
+同样，CDP 还对商业天基环境数据进行了操作，并通过天气预报和空间天气应用中的同化观测结果证明了其影响。它还开展试点项目并将试点数据转化为运营。
+
+CSDA 和 CDP 通过开展创新研究、缩小观测差距以及将商业数据集成到现实世界的预报和决策支持应用程序中，共同加强国家的天气事业。
+
+要向摘要提交者提交有关摘要提交流程的更多信息，请访问研讨会的网站。]]></description>
+  </item>
+  <item>
+    <title>NASA 为宇航员和工业界配备机器人智能</title>
+    <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/</link>
+    <guid>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-equips-astronauts-industry-with-robotic-intelligence/</guid>
+    <pubDate>Wed, 10 Jun 2026 17:00:02 +0000</pubDate>
+    <description><![CDATA[随着美国宇航局计划在月球上执行长期任务，该机构可以使用机器人来执行日常任务，使宇航员能够将更多时间投入到科学和探索中。然而，机器人运动控制需要复杂的技术以及机器人决策和物体识别等功能的进步。
+
+这些是科罗拉多州博尔德的机器人公司与美国宇航局合作克服的挑战。
+
+PickNik Inc. 最近与肖恩·阿齐米 (Shaun Azimi) 以及其他机构的机器人专家合作，肖恩·阿齐米是美国宇航局休斯顿约翰逊航天中心灵巧机器人团队的领导者。该团队测试了软件，该软件使机械臂能够识别航天器舱门，然后转动门闩，抓住把手，然后打开门。然后，手臂能够在舱口和垃圾箱之间转移货袋。
+
+这项工作是在 NASA 约翰逊新的机器人操作综合移动评估测试台上进行的，并得到了 NASA 小型企业创新研究计划的资助。
+
+PickNik 在早期政府投资的支持下设计并完善了名为 MoveIt Pro 的机器人软件。 MoveIt Pro 于 2023 年投入商业发布，已经拥有了重要的客户群。
+
+汽车公司宝马正在其机器人装配线上使用该软件。一家名为 Lightspeed 的公司正在使用 MoveIt Pro 对巨大的机械臂进行编程，以构建模块化“面板”来建造经济适用房。另一家名为 Hivebotics 的公司使用 MoveIt Pro 来实现其旗舰产品清洁机器人的自动化。
+
+PickNik 首席软件工程师 Ezra Brooks 表示，如果没有 NASA 的早期支持，这家拥有 35 名员工的公司可能不会推出产品。机器人软件需要多年的研究和开发来完善算法并创建商业产品。 NASA 促成了大部分基础工作。
+
+美国宇航局的技术进步解锁了月球及其他地区任务的关键能力，同时使地球上的商业产业受益。 50 年来，NASA 通过该机构的衍生出版物记录了太空技术的日常好处。 要了解有关该项目的更多信息，请访问：https://go.nasa.gov/49CNSi7]]></description>
+  </item>
+  <item>
+    <title>乘坐火车前往 NASA 肯尼迪，获取阿耳忒弥斯 III 助推器部分</title>
+    <link>https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/</link>
+    <guid>https://www.nasa.gov/image-article/train-ride-to-nasa-kennedy-for-artemis-iii-booster-segments/</guid>
+    <pubDate>Wed, 10 Jun 2026 16:05:29 +0000</pubDate>
+    <description><![CDATA[NASA SLS（太空发射系统）火箭的最后助推发动机部件将于 6 月 2 日从犹他州科林诺斯罗普·格鲁曼公司的铁路场运输设施运出，帮助推动 Artemis III 宇航员踏上太空之旅。八个助推发动机部件正在运往 NASA 位于佛罗里达州的肯尼迪航天中心，在那里它们将形成 SLS 火箭的双胞胎、五段固体火箭助推器，产生超过 75% 的总推力在升空时。
+
+关注 Artemis 博客，了解 Artemis III 和未来任务的最新信息。]]></description>
+  </item>
+  <item>
+    <title>美国宇航局韦伯发现“黑洞恒星”的最有力证据</title>
+    <link>https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/</link>
+    <guid>https://science.nasa.gov/missions/webb/nasa-webb-finds-strongest-evidence-yet-for-black-hole-stars/</guid>
+    <pubDate>Wed, 10 Jun 2026 14:00:00 +0000</pubDate>
+    <description><![CDATA[The complex puzzle known as little red dots has become more complete since their initial discovery by NASA’s James Webb Space Telescope in 2022. Now a particular little red dot’s spectrum is helping connect many of the pieces.
+
+A team of astronomers led by Vasily Kokorev at the University of Texas at Austin identified the lucky dot in question: GLIMPSE-17775. By carefully analyzing the dot’s spectrum captured by Webb — the deepestspectrumto date of a little red dot — the research team has identified multiple lines of evidence, all of which support the interpretation that GLIMPSE-17775 is a supermassive black hole enveloped in a dense cocoon ofpartially ionizedgas, a model referred to as the BH* (black hole star) scenario. A paper describing the results was published today inThe Astrophysical Journal.
+
+“I think part of the scientific community is converging on a singular picture — that little red dots can be explained by black hole star models. But none of the previous little red dots have all of the pieces of evidence in the same place,” said Kokorev, lead author of the study. “With GLIMPSE-17775 we can test these models because of how deep and amazing this source’s spectrum is.”
+
+Soon after Webb first began science operations, it discovered a new, mysterious type of object in the very early universe – abundant red objects that emerged about 600 million years after the big bang. Scientists have exploredmultiple explanationsfor these little red dots, including theblack hole star scenario.
+
+A set of fortunate circumstances brought about this new, elaborate spectrum of a little red dot. The little red dot that would come to be known as GLIMPSE-17775 was fortunately included in Webb’s imaging and spectroscopy efforts for a project that sought to look forPopulation III starsand faint galaxies in galaxy cluster Abell S1063. This little red dot is more distant than the galaxy cluster and magnified bygravitational lensing. (GLIMPSE-17775 has acosmological redshiftof 3.5, meaning it existed about 1.8 billion years after the big bang.)
+
+While Webb provided a 30-hour spectrum of the little red dot, the effect of gravitational lensing made it equivalent to 80 hours of telescope time. This combination of Webb’s infrared sensitivity and nature’s own “magnifying glass” amplified the amount of detail that could be gleaned from GLIMPSE-17775. The result was more than 40spectral linesfrom this small, red source, which is the most detailed little red dot spectrum to date.
+
+“When we saw the spectrum for the first time, it was like having all the pieces of a puzzle scattered on the floor,” said Kokorev. “We picked up each piece of the puzzle, measured the lines, and started combining the different pieces into a mosaic. Maybe a few pieces looked like nothing at first, but then a couple of them came together, and we realized that there was something there.”
+
+The spectroscopic data collected by Webb contains multiple lines of evidence that support the interpretation that little red dot GLIMPSE-17775 is a black hole star: a rapidly accreting, or growing, black hole enveloped in a dense gas cocoon, which is reprocessing the light emitted from near the black hole and producing the features seen in the spectrum.
+
+Among the 40-plus lines that the team detected in GLIMPSE-17775’s spectrum were various independent indicators that all align with the BH* scenario. For example, the team found that many of the spectral lines, such as hydrogen, oxygen, and helium, do not fit a simple model of a rotating gas cloud. Instead, the best fit model includes a broadening effect known as electron scattering, a telltale sign that a dense, layered gas cocoon is enshrouding this source.
+
+The strength and ratios of certain lines to each other, most notably the 16 iron lines that compose what the team has dubbed an “iron forest” and certain oxygen lines, require a high-energy source to produce them, like a rapidly accreting black hole. Additionally, astronomers noted the fluorescence and absorption of helium in the spectrum, both of which individually suggest that there is a dense medium enveloping a powerful source.
+
+The BH* scenario not only fits GLIMPSE-17775; it also accounts for why most little red dots are faint in X-rays, since any such emission is likely absorbed by the dense gas cocoon.
+
+One missing element of the GLIMPSE-17775 puzzle piece is the part of the spectrum that would reveal what’s known as a Balmer break, or a strong dip in the emitted light that’s a signature characteristic of little red dots. To build a more comprehensive understanding of this little red dot, the team incorporated ancillary data from two observing programs that used NASA’s Hubble Space Telescope: the Frontier Fields and BUFFALO (Beyond Ultra-deep Frontier Fields And Legacy Observations) programs.
+
+The Webb and Hubble data together help explain why the Balmer break is weaker than what typically is found in other little red dots: A giant host galaxy is surrounding GLIM]]></description>
+  </item>
+  <item>
+    <title>前陆地卫星项目科学家吉姆·艾恩斯 (Jim Irons) 荣获佩科拉奖</title>
+    <link>https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/</link>
+    <guid>https://science.nasa.gov/missions/landsat/jim-irons-former-landsat-project-scientist-wins-pecora-award/</guid>
+    <pubDate>Wed, 10 Jun 2026 14:00:00 +0000</pubDate>
+    <description><![CDATA[Last month, Landsat’s very own Jim Irons won the prestigiousWilliam T. Pecora Award.
+
+Irons, now an emeritus scientist at NASA Goddard Space Flight Center, played an integral role in shaping the Landsat program into what it is today. He served as deputy project scientist for Landsat 7 before taking over as project scientist for Landsat 8. From the earliest days of Landsat 8—then called the Landsat Data Continuity Mission (LDCM)—all the way through launch and operation, Irons worked across the agency and with colleagues at the USGS to ensure that Landsat continued providing critical data to researchers around the world. He championed rigorous calibration standards and fought to keep the thermal band on Landsat 8. Now, with projects likeOpenETrelying on evapotranspiration data derived from Landsat thermal imagery, the strength of his vision has only become more apparent.
+
+Irons also served as the director of NASA Goddard’s Earth Science Division during the turbulent early days of the COVID-19 pandemic. Contending with global disruption, he prioritized making sure that everyone had the support that they needed to continue doing great work. As a leader and a scientist, Irons left a legacy of collaboration and innovation that lives on today.
+
+We checked in with Irons about his role in Landsat’s history, what it takes to be a good leader, and winning the Pecora award:
+
+One reason I feel so honored is that prior recipients have been my supervisors, mentors, role models, and colleagues whose work I admired and who inspired me. There's a long list of people who have been recipients, and I am very honored to be added to that list.
+
+There are also many people who have not yet been recognized who are very deserving. I've written letters of support for others, and I hope I'm called on again because there are more people who deserve recognition than there are awards to give out.
+
+Data continuity is the backbone of the Landsat program. We are looking for change over time. When we talk about climate change and the impact of humans on the land surface, those changes are multi-decadal. We wouldn't be able to understand, characterize, and monitor those changes without a continuous data record.
+
+And it's really important that the data record is well-calibrated. When we see changes between data from one Landsat sensor relative to another, we need to be confident that it's a change occurring on the Earth, not a change in the performance of the sensors.
+
+Early in my career, I got in trouble over calibration. NASA was flying an airborne sensor called the Thematic Mapper Simulator, intended to anticipate the capabilities of Landsat 4 and 5. But the operators kept changing the radiometric gain in-flight to maximize the dynamic range. I told NASA Headquarters that we couldn't compare that data to the actual Thematic Mappers if they kept changing the gain—it wasn't the same radiometry! The HQ manager got really upset, but I weathered the storm and stuck to my guns.
+
+Later, when Landsat 4 and 5 were returned to the U.S. government from private operation, there had been no real calibration since launch. I advocated for a ground system component at USGS EROS to perform calibration. I didn't build it, but I did advocate for USGS to hire a brilliant guy named Jim Storey, who developed the software for the precise geolocation of pixels in the data.
+
+When I became Landsat 8 Project Scientist, we needed a pre-launch calibration lead. I advocated for Brian Markham. Brian just did a remarkable job ensuring the calibration of the Operational Land Imager (OLI) and its cross-calibration with previous instruments. He was modest, humble, and built a highly effective team across private industry and agencies.
+
+Back when USGS charged for data, the use of thermal data was minimal. Some well-respected papers even claimed it wouldn't be possible to use thermal data to estimate evapotranspiration rates. Based on that, the Director of Earth Sciences at NASA HQ was convinced that the thermal capability wasn't providing a return on investment.
+
+But while this debate was ongoing, people began developing methodologies for estimating evapotranspiration and water consumption using thermal data—prominently Martha Anderson at the USDA, and researchers at the University of Idaho. It became crucial for monitoring agricultural water use in the West, and was even used in adjudicating water rights. It was also useful for cloud detection and fire monitoring.
+
+I felt strongly that dropping the thermal capability was inconsistent with our directive to continue the Landsat data record. However, due to time pressures and budget constraints, the decision was initially made to fly Landsat 8 without a thermal instrument. But then, when our schedule was pushed back by an independent review board, a window opened up. Center Director Ed Weiler, who had moved to HQ, supported putting a thermal sensor on the payload. Kathy Richardson and engineer Fernando Pellerano were assigned to]]></description>
+  </item>
+  <item>
+    <title>GLOBE 使命地球教育者参与土地覆盖实践社区</title>
+    <link>https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/</link>
+    <guid>https://science.nasa.gov/learning-resources/science-activation/globe-mission-earth-educators-participate-in-land-cover-community-of-practice/</guid>
+    <pubDate>Wed, 10 Jun 2026 12:43:01 +0000</pubDate>
+    <description><![CDATA[在 2025-2026 学年，来自 NASA 科学激活计划的 GLOBE（全球学习和观测以造福环境）地球任务项目的教育工作者参加了由 NASA 兰利研究中心领导的专门实践社区，以完善学生与 NASA 土地覆盖数据（MODIS、Landsat 和 Sentinel-2）的交互方式。他们的合作集中在四个关键领域：
+
+通过 GLOBE，社区可以为长期数据记录贡献有意义的环境数据。当参与者通过 GLOBE Observer 进行土地覆盖观测时，NASA 兰利的团队会将他们的观测结果与类似时间和地点的卫星数据进行比较，并发送一封卫星比较电子邮件，其中包括一个数据表，显示他们的 GLOBE 观测结果与相应卫星数据的比较情况。
+
+实践社区的主要发现：实践社区共有 14 名教育工作者，其中 6 名教育工作者使用 GLOBE Observer 应用程序积极与学生一起收集土地覆盖观测数据。这些土地覆盖观测数据与 MODIS、Landsat 和 Sentinel-2 数据进行了搭配，教育工作者收到了卫星比较电子邮件。
+
+在该实践社区的范围内，10 名教育工作者制定了 2026-2027 学年的学生研究计划，重点关注土地覆盖数据，解决以下问题：
+
+教育工作者们非常高兴有机会作为一个社区进行互动和学习，并与 NASA 的主题专家建立联系。根据实践社区的经验教训，该团队更好地了解了如何将 NASA 土地覆盖数据纳入课堂、教育工作者可能向学生提出哪些类型的研究问题，以及可以开发的资源来协助教育工作者实施其研究计划。
+
+在土地覆盖实践社区 (COP) 的范围内，教育工作者被要求为由 NASA 兰利团队开发的 GLOBE Mission Earth GLOBEN Nature Notes Guide 提供反馈，该指南利用了由缅因湾研究所领导的 NASA 科学激活计划的学习生态系统东北 (LENE) 项目创建的 Nature Note 模型。开发与 GLOBE 协议一致的 GLOBE Nature Notes 是为了帮助教育工作者将 Nature Notes 流程与学生的 GLOBE 观察相结合。一名 COP 教育工作者目前正在开发一个土地覆盖 GLOBE Nature Note 示例，一旦完成，将与 GLOBE 和 NASA Science Activation 社区共享。
+
+教育工作者可以加入 GLOBE 计划，通过下载 GLOBE Observer 应用程序并了解有关土地覆盖的更多信息，贡献对土地覆盖和其他环境条件的观察。
+
+GLOBE 地球任务由 NASA 根据合作协议奖励号 NNX16AC54A 提供支持，并且是 NASA 科学激活组合的一部分。详细了解 Science Activation 如何将 NASA 科学专家、真实内容和经验与社区领袖联系起来，以激活思维并促进对我们的世界及其他世界更深入了解的方式开展科学研究：https://science.nasa.gov/learn/about-science-activation/。]]></description>
+  </item>
+  <item>
+    <title>NASA 的 CloudCube 开创了研究云和降水的小型雷达</title>
+    <link>https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/</link>
+    <guid>https://science.nasa.gov/science-research/science-enabling-technology/nasas-cloudcube-pioneers-miniaturizedradar-to-study-clouds-precipitation/</guid>
+    <pubDate>Wed, 10 Jun 2026 12:00:00 +0000</pubDate>
+    <description><![CDATA[CloudCube 是在 NASA 地球科学技术办公室仪器孵化器计划的资助下建造的，可发射和接收 Ka、W 和 G 波段信号，使其成为第一个能够以大约 1 到 10 毫米的波长同时探测气象目标的紧凑型雷达系统。研究人员将能够结合来自三个信号的信息，以了解有关降水的起始和演化以及云微物理和辐射特性的更多信息。
+
+JPL 系统工程师兼 CloudCube 首席研究员 Raquel Rodriguez Monje 表示：“我们正在制造一种低功耗、低质量的仪器，以促进新的经济高效的大气观测任务。构建多频雷达，尤其是 G 波段雷达，是非常新颖的。”
+
+CloudCube 的三个信号中的每一个都观察到云物理的不同元素。 Ka波段雷达信号非常适合收集降水剖面； W 波段雷达信号优选用于测量引起降水的云粒子； G 波段雷达信号从未从天基仪器中收集过，非常适合测量极轻云内的冰和液态水含量（可以在此处找到描述此测量的论文）。
+
+通过三个信号同时探测大气，研究人员可以同时收集所有这些云特征的数据，这对于改进天气预报，尤其是气候建模非常有价值。 CloudCube 利用毫米波硬件的创新将三个雷达模块（每个信号一个）封装在一个紧凑的系统中。
+
+CloudCube 的一项创新涉及从紧凑型低功耗仪器传输 G 波段功率所需的专用组件。云信号的检测需要高发射功率，CloudCube 通过组合多个高效倍频设备的输出来实现这一目标，使仪器能够在 240 GHz 下产生数百毫瓦的功率。 CloudCube的另一项创新是，它被设计为使用尽可能少的射频元件，以减少其质量和功耗，这可以降低未来地球观测轨道仪器的成本。
+
+在太空飞行配备 G 波段雷达的仪器将是一项新功能，将使研究人员在云微物理过程的研究中获得更高的空间分辨率和灵敏度。
+
+JPL 研究员兼 CloudCube 联合研究员马特·莱布索克 (Matt Lebsock) 表示：“基本上，我们使用这些频率组合来衡量云的重量，这是我们在拥有 G 频段之前无法做到的。”
+
+该仪器已经过现场测试。 CloudCube G 波段通道的地面原型在能源部肯纳库克云与降水实验 (CAPE-K) 活动期间连续运行了 11 个月。 CloudCube 还参加了东太平洋云气溶胶降水实验，这是一项由能源部赞助的地面活动。可以在此处找到描述该实验结果的论文。
+
+最近，CloudCube 成功操作了 NASA 湾流 III 飞机的所有三个频段，并收集了首次空中降雪观测数据，这是北美上游特征解析和对流层顶不确定性侦察实验活动的一部分，该活动是由 NASA 资助的，旨在改善对高影响冬季天气的预测。 CloudCube团队目前正在校准和处理数据以供公开发布。
+
+有关更多详细信息，请参阅 NASA TechPort 上该项目的条目。
+
+项目负责人：Dr. Raquel Rodriguez Monje，美国宇航局喷气推进实验室
+
+赞助机构：NASA地球科学技术办公室仪器孵化计划]]></description>
+  </item>
 </channel>
 </rss>
