@@ -4,7 +4,33 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 12 Jun 2026 10:00:07 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 12 Jun 2026 14:41:49 GMT</lastBuildDate>
+  <item>
+    <title>黑眼银河</title>
+    <link>https://www.nasa.gov/image-article/black-eye-galaxy/</link>
+    <guid>https://www.nasa.gov/image-article/black-eye-galaxy/</guid>
+    <pubDate>Fri, 12 Jun 2026 13:59:55 +0000</pubDate>
+    <description><![CDATA[2026 年 3 月 20 日，梅西耶 64 或黑眼星系的图像是美国宇航局哈勃太空望远镜和詹姆斯·韦伯太空望远镜的合成图像。它显示了韦伯在近红外和中红外波长处捕获的梅西耶 64，而哈勃的图像则显示了紫外光、可见光和近红外光下的星系。
+
+Messier 64 的特点是其奇异的内部运动。该螺旋星系外部区域的气体与内部区域的气体和恒星以相反的方向旋转。这种奇怪的行为可能是十亿多年前 M64 与卫星星系合并的结果。
+
+图片来源：NASA、CSA、ESA、F. Belfiore（欧洲南方天文台 - 德国）、J. Lee（太空望远镜科学研究所）、A. Leroy（俄亥俄州立大学）和 D. Thilker（约翰霍普金斯大学）；处理：Gladys Koher（美国宇航局/美国天主教大学）]]></description>
+  </item>
+  <item>
+    <title>哈勃看到星系群</title>
+    <link>https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/</link>
+    <guid>https://science.nasa.gov/missions/hubble/hubble-sees-swarm-of-galaxies/</guid>
+    <pubDate>Fri, 12 Jun 2026 11:34:50 +0000</pubDate>
+    <description><![CDATA[这张美国宇航局哈勃太空望远镜的图像看起来有点像一群蜜蜂返回蜂巢，其中包含星系团 MACS0329-0211。像 MACS0329-0211 这样的星系团是宇宙结构如何演化的重要路标，也是终极的望远镜镜头，将宇宙早期阶段的引力透镜星系置于我们的视野中。
+
+放大这个星系群，你会发现巨大的、卵形的椭圆星系，以及从边缘看去的细螺旋星系和透镜状星系。我们还可以看到螺旋星系及其弯曲旋臂的完整正面视图。图像的右上象限有遥远星系的微弱弧线，这些星系被星团的巨大引力透镜化。其中最大的弧出现在巨大椭圆星系的明亮椭圆形上方。仔细观察图像的中心会发现几条亮白色的相交曲线，它们看起来像一个扭曲的八字形。这可能是另一个遥远的星系，其光线被这个巨大星团的引力放大和扭曲。
+
+哈勃望远镜观察了 MACS0329-0211，作为 X 射线明亮星系团观测计划的一部分。研究人员使用哈勃的两个主相机，即高级巡天相机和广角相机 3，从星团收集可见光和红外光数据。哈勃望远镜能够看到如此广泛的光谱，这使其成为了解这些星系团本质的宝贵工具。
+
+克莱尔·安德烈奥利美国宇航局戈达德太空飞行中心，格林贝尔特，MDclaire.andreoli@nasa.gov
+
+自 1990 年发射以来，哈勃太空望远镜改变了我们对宇宙的基本理解。]]></description>
+  </item>
   <item>
     <title>瓜达拉哈拉的世界杯热潮</title>
     <link>https://science.nasa.gov/earth/earth-observatory/world-cup-fever-in-guadalajara/</link>
@@ -246,62 +272,6 @@ By the conclusion of this deployment on June 5, the aircraft had completed 26 fl
 In 2025, the aircraft flew 36 science missions, collecting more than 7 billion measurements over 200 flight hours. The data has contributed to the largest airborne surface mineralogy dataset gathered in a single NASA-USGS campaign.
 
 The GEMx survey is led and funded by the USGSEarth Mapping Resources Initiative. Earth MRI is modernizing mapping the nation’s surface and subsurface to find new, critical, and other minerals. It is a partnership effort with 45 state geological surveys, federal agencies, private industry, tribes, universities, and others. The initiative will capitalize on both the technology developed by NASA for spectroscopic imaging, as well as the USGS expertise in analyzing the datasets, conducting field work, and deriving critical ]]></description>
-  </item>
-  <item>
-    <title>NASA 将预览加速 Swift 航天器轨道的 Katalyst 任务</title>
-    <link>https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-to-preview-katalyst-mission-to-boost-swift-spacecrafts-orbit/</guid>
-    <pubDate>Thu, 11 Jun 2026 13:58:17 +0000</pubDate>
-    <description><![CDATA[NASA 将于美国东部时间 6 月 17 日星期三上午 11 点举办一场纯音频媒体电话会议，预览 Katalyst Space 任务，该任务旨在提升 NASA 尼尔·格尔尔斯·斯威夫特天文台的轨道。
-
-Katalyst 的机器人服务航天器名为 LINK，将尝试与 Swift 交会并提高其高度，延长其科学任务寿命并提升未来太空探索的关键能力。 LINK 航天器将于本月晚些时候由诺斯罗普·格鲁曼公司的 Pegasus XL 火箭从马绍尔群岛的夸贾林环礁发射升空。
-
-有兴趣通过电话参与的媒体必须在通话开始前两小时内回复艾米·巴拉（Amy Barra）：amy.l.barra@nasa.gov。 NASA 的媒体认证政策可在线获取。
-
-媒体电话会议的音频将在该机构的网站上播放：
-
-参加媒体电话会议的人员包括：
-
-2004 年启动的 Swift 任务带领 NASA 的望远镜研究高能宇宙的变化，例如伽马射线暴，这是宇宙中最强大的爆炸。当天空中发生快速、突发的事件时，斯威夫特充当“调度员”，提供关键信息，使其他“第一响应者”任务能够跟进，以了解有关宇宙如何运作的更多信息。
-
-21年后，由于太阳活动的增加，斯威夫特的近地轨道开始迅速衰减。美国宇航局并没有像许多任务在其生命周期结束时那样允许天文台重新进入地球大气层，而是利用这个机会来推进美国航天器维修技术。 2025 年 9 月，NASA 与 Katalyst 签订合同，在不到一年的时间内为 Swift 执行机器人维修任务。该任务将使用 LINK 与 Swift 交会并将其提升到更高的高度，展示未来太空探索的关键能力。该任务计划于六月从马绍尔群岛夸贾林环礁发射。
-
-了解有关提升 Swift 轨道任务的更多信息：
-
-https://science.nasa.gov/mission/swift/swift-boost-mission/
-
-Karen Fox / Alise Fisher总部，华盛顿202-385-1287 / 202-358-2546karen.c.fox@nasa.gov/alise.m.fisher@nasa.gov
-
-Amy BarraWallops 飞行设施，瓦洛普斯岛，弗吉尼亚州.757-824-1579amy.l.barra@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>东北地区空气污染的每日脉搏</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/air-pollutions-daily-pulse-over-the-northeast/</guid>
-    <pubDate>Thu, 11 Jun 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[The TEMPO mission helped scientists track morning nitrogen dioxide that contributed to afternoon ozone along the New York–Washington corridor in May 2026.
-
-More than 35 million people live along the New York–Washington corridor and breathe the region’s air. While air quality hasimproved significantlyin recent decades, outbreaks ofground-level ozoneremain common, particularly in the warm summer months, when the chemical reactions that produce the pollutant accelerate and stagnant air allows ozone to accumulate.
-
-A reminder of this seasonal phenomenon came earlier than usual in 2026, when amid-May heat waveprompted the New York State Department of Health and the New York Department of Environmental Conservation to issue ahealth advisoryon May 17 over concerns about ozone. Thecode orangeadvisory warned young people, older adults, and those working or exercising outdoors to limit activity due to ozone's respiratory and cardiovascular health impacts.
-
-As expected, ground-based air-quality sensors operated by state and federal agencies showed ozone reachingunhealthy levelsfor sensitive groups on May 18, something that typically happensseveral times per year. Meanwhile, NASA'sTEMPO(Tropospheric Emissions: Monitoring of Pollution) instrument observed the event fromgeostationary orbit22,000 miles (35,000 kilometers) above the equator, a unique vantage point that allows the sensor to collect frequent observations of air pollution.
-
-TEMPO detectsnitrogen dioxide(NO2), a gas emitted by burning fuels, particularly by motor vehicles, that contributes to ozone formation. "There's often a clear and interesting pattern in TEMPO's nitrogen dioxide data during ozone alert days," said Hazem Mahmoud, an atmospheric scientist at NASA’sAtmospheric Science Data Centerat Langley Research Center. "We see high concentrations of nitrogen dioxide during the early morning commute that drop off sharply in the late afternoon as ozone increases."
-
-The decline occurs as sunlight fuelsphotochemical reactionsinvolving nitrogen dioxide,volatile organic compounds, and oxygen that lead to ozone formation. By late afternoon, these reactions deplete much of the available nitrogen dioxide, slowing ozone production until the cycle begins again the next day.
-
-The pair of images above underscores the pattern. The image on the left was acquired at 7:05 a.m. local time when nitrogen dioxide concentrations were high during the morning commute. By 3:05 p.m. (right), most of the nitrogen dioxide had declined substantially, andsurface ozonelevels were elevated (below). Meanwhile,afternoon sea breezesappear to have transported the remaining nitrogen dioxide slightly to the west. Note that the data shown isprovisional, and processing methods are still being refined.
-
-Sensors on earlier polar-orbiting satellites, such asOMI(Ozone Monitoring Instrument) andTROPOMI(Tropospheric Monitoring Instrument), sampled nitrogen dioxide over New York once per day. After its launch in 2023, TEMPO began providing data every hour, allowing researchers to track the evolution and dispersion of air pollution at much finer time scales.
-
-"TEMPO is helping fill data gaps between ground stations and allowing us to ask new questions," Mahmoud said. The mission provides data that can improve not only air quality forecasts during crisis situations, such as wildfires, but also the atmospheric models used to forecast the daily rhythms of urban pollution. Such models help researchers understand how natural factors such as winds, humidity levels, and air temperatures influence pollution plumes over the course of a day.
-
-TEMPO also detects ozone directly, but determining how much of that ozone is near the surface versus higher in the atmosphere can be challenging. Most of Earth's ozone resides in thestratosphere, well above the troposphere, where people live and breathe. At times, however, stratosphericozone can be transported downwardinto the troposphere. During events known asstratospheric intrusions, it can even descend far enough to affect air quality at the surface and add to the ozone produced at ground level.
-
-By combining TEMPO observations withother sources of information, researchers are studying the processes that influence the distribution of ozone vertically in the atmosphere. On May 18, NASA's ground-basedtropospheric lidar network(TOLNet) in New York City recorded high concentrations of ozone near the surface, indicating that TEMPO was detecting mostly surface-level ozone associated with urban emissions and not ozone aloft, said Mahmoud.
-
-However, on May 19, the same sensor observed a layer of ozone descending from above 5 kilometers (3 miles), he added, a clue that some of the ozone TEMPO detected that day may have originated in the stratosphere. "This is the type of information that leads to better air quality forecast models and more accurate alerts," Mahmoud said. "Alerts can affect tens of millions of people and lead to disruptions in school, sports, and other activities]]></description>
   </item>
 </channel>
 </rss>
