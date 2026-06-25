@@ -4,285 +4,331 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Thu, 25 Jun 2026 01:59:33 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 07:31:21 GMT</lastBuildDate>
   <item>
-    <title>超过 250 核、时脉破 5GHz！高通首款伺服器 CPU「Dragonfly C1000」正式亮相</title>
-    <link>https://technews.tw/2026/06/25/qualcomm-investor-day-dragonfly-c1000/</link>
-    <guid>https://technews.tw/2026/06/25/qualcomm-investor-day-dragonfly-c1000/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:55:29 +0000</pubDate>
-    <description><![CDATA[高通周三（24日）举办投资者大会（Investor Day），正式发表旗下首款专为资料中心打造的伺服器CPU「Dragonfly C1000」，采用自家Oryon架构。这款晶片专为代理AI（Agentic AI）与一般运算工作负载设计，主打业界领先的能源效率（Power Efficiency）与总持有成本（TCO）。
+    <title>SpaceX、RKLB 喜签约  美太空军力推防御新计划</title>
+    <link>https://technews.tw/2026/06/25/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project/</link>
+    <guid>https://technews.tw/2026/06/25/rocket-lab-lockheed-martin-among-the-partners-in-spacexs-military-space-laser-project/</guid>
+    <pubDate>Thu, 25 Jun 2026 07:30:19 +0000</pubDate>
+    <description><![CDATA[美国政府正在全力推动名为「太空空中移动目标指示」（Space-Based Airborne Moving Target Indicator，简称 SB-AMTI）的太空防御新计划，并邀请全美两大顶尖火箭发射供应商──Rocket Lab（RKLB.US） 与 SpaceX 共同参与。
 
-根据高通说法，Dragonfly C1000采用客制化Oryon核心架构，针对单核心效能进行最佳化，时脉频率可超过5GHz，能在大规模代理AI工作负载下提供优异表现。此外，该晶片将具备业界领先的单执行绪（Single-Threaded）效能。
+MarketWatch 24日报导，根据政府公开的文件，包括Rocket Lab、洛克希德马丁（Lockheed Martin）与L3Harris Technologies在内的八家航太与国防企业，将与SpaceX共同瓜分这个规模数十亿美元的军方供应市场。
 
-规格方面，Dragonfly C1000采用多晶片（Multi-Chiplet）设计，以配合先进封装技术提升效能与I/O扩展能力。高通透露，主要CPU晶粒将配置超过250个核心，并支援PCIe Gen7、CXL（Compute Express Link）及超过2TB/s的PCIe传输频宽，同时可搭配下一代AI加速器，包括高通自家的AI产品系列。
+5月，美国太空军（U.S. Space Force）旗下的太空系统司令部（Space Systems Command），宣布授予SpaceX一项价值41.6亿美元的合约，用以执行SB-AMTI计划。
 
-高通指出，Dragonfly C1000每瓦效能可达现有伺服器CPU的两倍以上，目前尚未公布具体测试数据与比较对象。
+另外，太空领域投资人Jacob Keeton 23日透过社交平台X指出，根据美国总务管理局（GSA）管理的联邦政府采购入口网站纪录，Rocket Lab、York Space Systems、Visto 360 AI、Wildstar，以及Systems & Technology Research，分别依据SB-AMTI计划获得了一笔价值10,000美元的初始合约。
 
-除了硬体规格外，高通也针对不同应用场景规划多种产品方向，包括专为高吞吐量AI代理协调运算与低延迟互动式AI应用设计的Agentic CPU、兼顾最佳效能与总持有成本的通用型CPU，以及作为生成式AI丛集控制节点、升GPU、ASIC等XPU加速器利用率的AI Head Node CPU。
+$RKLB$SPCX$NOC$LHX$YSS$LMTThese are the 9 companies that got into the SB-AMTI program:– SpaceX– Systems & Technology Research LLC– Northrop Grumman– Lockheed Martin– Wildstar LLC– Visto360 AI, Inc– Rocket Lab– L3Harris– York Space Systems
 
-与高通AI加速器产品相同，Dragonfly C1000将提供选配HBC（High Bandwidth Capacity）扩充方案，以提升记忆体容量与频宽表现。在企业级可靠性部分，该产品整合ECC记忆体错误修正、故障隔离、错误恢复以及进阶RAS（Reliability、Availability、Serviceability）机制。首批平台也将同时支援气冷与液冷方案，并符合OCP ORv2开放运算机架标准。高通预计Dragonfly C1000将于2028年正式量产上市。
+Besides SpaceX the other…https://t.co/Fsi0Y87hnepic.twitter.com/szqu274ZOa
 
-随著Dragonfly C1000问世，高通也正式进入竞争激烈的资料中心CPU市场。目前包括AMD、英特尔、辉达与Arm等业者皆已积极布局相关产品。
+— Jacob Keeton 🚀🛰️🧇 (@JacobKeeton20)June 23, 2026
 
-AMD准备推Zen 6架构Venice与专攻AI推论的Verano系列处理器；英特尔规画推Diamond Rapids与Coral Rapids Xeon平台；辉达预计2026年推出Vera CPU，后续还有代号Rosa的下一代产品；Arm也已规划长期AGI CPU发展蓝图。
+诺斯洛普格鲁曼（Northrop Grumman）、洛克希德马丁与L3Harris则各获得6,666美元的合约。这九家供应商的SB-AMTI合约皆是在今年3月23日至25日之间签署，合约期限将一路延伸至2031年3月。
 
-值得注意的是，高通Dragonfly C1000主打超过250核心设计，但竞争对手AMD已开始量产256核心Venice处理器，因此到了2028年Dragonfly C1000正式上市时，竞争格局可能已经出现巨大变化。
+从SpaceX的合约内容可以看出，旨在建立「太空感测层」（space-based sensing layer）以追踪并锁定空中威胁的SB-AMTI计划，其最终规模远超五角大厦最初披露的41.6亿美元，合约价值最高可达93.4亿美元。至于其他八家供应商所获得的10,000美元和6,666美元合约，实际上属于「占位配置」（placeholder allocations），目的是为这些企业确立供应商资格。
 
-但尽管距离上市仍有两年时间，高通已率先取得重要客户支持。公司宣布已与Meta签署多世代合作协议，Meta将在未来资料中心CPU发展上与高通持续合作。
+SB-AMTI预计将在2028年前，于低轨道（LEO）部署一套卫星星座网路，以便全天候监控全球领空，彻底消除作战盲点。这些搭载先进感测器的卫星将扫描整个空域，撷取传统空中雷达无法解读的情报，并透过具备雷射互联的轨道网格网路（orbital mesh network），将数据即时传输回地面，满足前线作战人员的即时需求。
 
-高通预期，待Dragonfly C1000于2028年上市时，将正式进军规模达2,000亿美元 的伺服器CPU市场，并希望透过多世代产品布局，争取大型云端服务商采用。]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：Rocket Lab）]]></description>
   </item>
   <item>
-    <title>推动亚太地区企业级应用，宏碁旗下安图斯携手越南 FPT 签 MOU</title>
-    <link>https://finance.technews.tw/2026/06/25/altos-fpt/</link>
-    <guid>https://finance.technews.tw/2026/06/25/altos-fpt/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:52:33 +0000</pubDate>
-    <description><![CDATA[宏碁旗下子公司安图斯科技稍早宣布与总部位于越南的全球科技与 IT 服务公司 FPT，正式签署合作备忘录（MOU），共同推动企业级 AI 在亚太市场的大规模部署与商业化应用。此次合作结合安图斯科技在 AI 基础架构与高效能运算（HPC）平台领域的优势，以及 FPT 在垂直产业 AI 应用开发与系统整合方面的深厚经验，打造更完整且具扩展性的 AI 生态系。
+    <title>高通吃下三星折叠机版图？传 Galaxy Z Flip 8 弃 Exynos，改拥抱 Snapdragon 平台</title>
+    <link>https://technews.tw/2026/06/25/samsung-snapdragon-8-elite-gen-5/</link>
+    <guid>https://technews.tw/2026/06/25/samsung-snapdragon-8-elite-gen-5/</guid>
+    <pubDate>Thu, 25 Jun 2026 06:45:28 +0000</pubDate>
+    <description><![CDATA[近年三星行动部门持续深化双晶片策略，并进一步扩大与高通的合作。根据市场消息，高通Snapdragon 8 Elite Gen 5将在三星下一代折叠手机Galaxy Z Flip 8产品线中扮演重要角色，后续Galaxy S27系列也可能大量采用下一代Snapdragon 8 Elite Gen 6与Gen 6 Pro处理器。
 
-安图斯科技执行长李占杰表示，安图斯科技长期专注于高效能、安全且具高扩充性的 AI 基础设施，结合FPT Software 深厚的产业应用开发经验，进一步降低企业导入 AI 的技术门槛，提供真正商用就绪（Production-Ready）的端到端 AI 解决方案，将 AI 投资转化为实际营运效益与长期竞争力。此次的策略合作，将是安图斯科技深化全球 AI 生态布局的重要里程碑
+从美国联邦通讯委员会（FCC）文件来看，三星即将推出的Galaxy Z Flip 8将搭载Snapdragon 8 Elite Gen 5处理器（代号SM8850）。这项消息代表三星策略出现重大转变，因为前代Galaxy Z Flip 7采用自家Exynos 2500，甚至美国市场版本也未搭载高通处理器。
 
-FPT Corporation 泰国暨台湾区执行长 Levi Nguyen 表示，AI 正从实验阶段迈向企业策略核心，重新定义组织的决策模式、营运韧性与长期价值创造方式。作为一家 AI 为核心的企业，FPT 相信未来企业领导者的竞争力，将取决于能否以速度、规模与系统化方式，将智慧能力深度融入核心营运流程。我们致力于协助企业提升适应能力与未来竞争力，使 AI 成为推动生产力、成长与永续竞争优势的重要引擎。
+Galaxy Z Flip 8在部分地区仍可能导入Exynos 2600，但据社群平台X知名爆料者Ice Universe则透露，美国与中国市场销售的Galaxy Z Flip 8将确定采用Snapdragon旗舰晶片。
 
-借由这次合作，双方将协助企业解决 AI 规模化部署所面临的核心挑战，提升面对新兴资安威胁的韧性。透过安图斯高效能运算与 AI 基础架构技术，并结合 FPT 在大型主机现代化（Mainframe Modernization）、数据分析及资安领域的专业能力，协助企业从传统封闭系统转型至开放且可扩充的架构环境，有效执行商业智慧分析与风险管理工作负载性，为现代企业应用与 AI 工作负载建立安全且可持续扩展的基础。
+另一份曝光的FCC文件则显示，Galaxy Z Fold 8将搭载高通数据机。三星通常会将自家Exynos晶片与三星数据机搭配使用，因此外界猜测Galaxy Z Fold 8也将同样采用Snapdragon 8 Elite Gen 5。据悉，Galaxy Z Fold 8采用类似护照式折叠设计，市场定位将直接与苹果传闻中的折叠iPhone一较高下。
 
-于甫落幕的台北国际电脑展中，双方亦于现场展出多项代理型 AI 解决方案，聚焦三大关键应用领域：在智慧金融领域，透过 AI 驱动的风险管理与决策分析能力，协助金融机构强化法遵管理、提升风险可视性与决策品质。在智慧医疗领域，借由自动化工作流程优化医疗文件处理、报告生成及营运管理，有效降低行政负担并提升作业效率。在跨产业应用方面，结合 APA（Agent Process Automation）平台的 AI Agent 解决方案，可协助企业实现营运管理、客户服务、知识管理及企业支援等业务流程的智慧化与自动化。
+下一代更高阶的Galaxy Z Fold 8 Ultra，也可能搭载高通旗舰SoC。市场消息甚至传出，三星下一代Watch Ultra 3智慧手表也可能采用高通Snapdragon Wear Elite平台。若消息属实，意味著高通在三星未来多项旗舰产品中占据核心地位，进一步压缩Exynos晶片与三星LSI的发展空间。
 
-安图斯与 FPT也正著手推动智慧医疗专案，安图斯将负责建置地端（On-Premises）AI 运算基础设施，而 FPT 则导入 AI 医疗解决方案，协助医疗机构提升营运效率与智慧化服务能力。未来安图斯与 FPT 将持续深化软硬体整合能力，加速企业 AI 导入，扩大全球 B2B 市场布局，并共同开创智慧运算新时代。]]></description>
+Galaxy S27系列也传将大幅采用高通Snapdragon 8 Elite Gen 6 Pro处理器。据悉，后者已准备两种不同版本，提供三星更多产品配置弹性。至于三星的Exynos 2700，可能仅出现在部分地区贩售Galaxy S27与Galaxy S27+机型上，而Pro与Ultra高阶机型则将全面采用高通平台。
+
+除了处理器配置消息外，Galaxy Z系列新机的机身配色与预设桌布近日也遭曝光，很可能采用大胆且风格更加多元的配色策略。]]></description>
   </item>
   <item>
-    <title>Meta 强制调派 AI 团队引爆员工反弹，紧急松绑让 7,000 人自选去留</title>
-    <link>https://technews.tw/2026/06/25/meta-forced-ai-team-reassignments-spark-employee-backlash-emergency-policy-reversal-7000-staff/</link>
-    <guid>https://technews.tw/2026/06/25/meta-forced-ai-team-reassignments-spark-employee-backlash-emergency-policy-reversal-7000-staff/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:50:50 +0000</pubDate>
-    <description><![CDATA[Meta 在推动人工智慧布局时的内部人事安排再度转向。根据 Business Insider 取得的内部备忘录，这家社群媒体巨头上月稍早曾将数千名工程师调往与 AI 训练相关的团队，如今则开始让部分员工自行决定是否留在该单位。
+    <title>800V HVDC 出货启动，安全规范仍待完善</title>
+    <link>https://technews.tw/2026/06/25/800v-hvdc-safety-law-should-be-establish/</link>
+    <guid>https://technews.tw/2026/06/25/800v-hvdc-safety-law-should-be-establish/</guid>
+    <pubDate>Thu, 25 Jun 2026 06:43:57 +0000</pubDate>
+    <description><![CDATA[随著供应链陆续展开辉达 800V 高压直流供电（HVDC）产品出货，800V 架构也被视为下一代 AI 资料中心的重要发展方向。不过，工研院产科国际所分析师陈俊儒指出，800V HVDC 在提升供电效率的同时，相关安全规范及安规仍有待完善。
 
-讯息指出，Meta 上月把约 7,000 名员工重新分派至包括 Applied AI 在内的团队，协助训练公司未来的 AI 模型。这项安排曾引发员工强烈反弹，部分人甚至将相关工作比做资料标注。与此同时，Meta 也在同一时期裁撤约 10% 员工、共 8,000 人，使内部士气进一步承压。
+陈俊儒在 24 日「AI 伺服器热门次系统及零组件研讨会」表示，目前 AI 资料中心主要由电网提供 13.8 kV 或 34.5 kV 的中压交流电，经变压器降压至 480 VAC，再透过不断电系统（UPS）、配电单元（PDU）及伺服器内的电源供应器（PSU）转换为 50 VDC，最后再经由中间汇流排转换器（IBC）及负载点电源（POL），降压至约 1 VDC 供 AI 晶片使用。
 
-在 6 月 24 日发出的新备忘录中，Meta 表示，对于先前被「徵调」到该团队的员工，未来将「尊重每个人的选择」。备忘录写道，公司希望所有人继续一起推进最先进技术，但仍会支援员工依照自身意愿决定去留。档案同时提到，由于公司其他部门存在人力缺口，这些员工若想转往内部其他职位，将可获得优先安排。
+不过，随著 AI 机柜功率持续提升，以辉达未来规划的 Feynman AI 机柜为例，单柜功率将朝 1 MW 发展，若仍采用现有 50 VDC 架构，单一机柜的铜缆重量恐高达约 200 公斤，不仅增加材料成本，也将提高传输损耗，因此产业开始朝 800V HVDC 架构发展，以降低电流、减少铜材使用并提升供电效率。
 
-这项调整也被部分员工形容为某种「撤回徵调」的做法。另据先前披露，Meta 技术长安德鲁·博斯沃思（Andrew Bosworth）本月曾坦承，公司这波围绕 AI 部门的内部重组做得「很糟」。在外界质疑声浪与员工情绪压力持续升高之际，
+不过，陈俊儒指出，800V HVDC 在提升供电效率的同时，也提高了直流电弧（Arc Flash）风险。若设备故障、绝缘失效或操作不当，可能产生电弧放电现象，并形成高温电浆，不仅可能损坏设备，也可能危及维护人员安全，因此高压直流系统的安全防护将比现行架构更加重要。
 
-Meta 此次松绑安排，显示公司在 AI 人力部署上正面临明显挑战。Meta 对此新闻置评则表示拒绝回应。]]></description>
+他表示，目前美国《NFPA 70E》已针对工作场所电气安全建立相关规范，并依不同风险等级要求配置个人防护装备（PPE）。不过，现行规范主要仍以 600V 以下系统为主，针对 800V 直流系统的电弧能量计算、防护距离及人员安全标准仍待建立，未来仍需透过更多研究及验证，逐步完善相关安规。
+
+随著 AI 资料中心供电架构由传统 50 VDC 迈向 800V HVDC，未来除了供电效率与电力密度外，安全规范、人员防护及设备验证也将成为产业发展的重要课题，相关国际标准建立速度，将影响 800V HVDC 后续商业化与普及时程。]]></description>
   </item>
   <item>
-    <title>HONOR 600 系列预告登台，主打 2 亿像素人像与 AI 图转影片</title>
-    <link>https://technews.tw/2026/06/25/honor-600-series-2/</link>
-    <guid>https://technews.tw/2026/06/25/honor-600-series-2/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:44:37 +0000</pubDate>
-    <description><![CDATA[荣耀（HONOR）稍早在自家粉丝团释出新品预告，以「当科技拥抱了想像，与我们一起，静候这份美好的如期而至」作为贴文开场，搭配「COMING SOON」字样与球场情境图，预告 HONOR 600 系列即将在台亮相。从预告图中的机身外观与先前上市资讯来看，台湾市场接下来可望迎来 HONOR 600 系列新机，不过官方目前尚未公布实际上市时间、建议售价与完整贩售机型。
+    <title>中国审计署：中国银行「凑人头」逃税 110 亿元</title>
+    <link>https://finance.technews.tw/2026/06/25/bank-of-china-evading-11-billion-in-taxes/</link>
+    <guid>https://finance.technews.tw/2026/06/25/bank-of-china-evading-11-billion-in-taxes/</guid>
+    <pubDate>Thu, 25 Jun 2026 06:20:03 +0000</pubDate>
+    <description><![CDATA[中国审计署公布报告披露，中国四大国有银行之一的中国银行，透过「凑人头」方式将私募基金包装成公募基金，逃税 23.67 亿人民币（约新台币 110 亿元）。
 
-HONOR 600 系列先前已确认将于 7 月导入台湾市场，品牌当时强调，新系列将延续全球上市节奏，主打 AI 影像创作与行动影音应用，并锁定 1,000 美元以下中高阶手机市场。新系列产品核心功能之一为「AI 图转影片」，使用者可透过最多三张图片搭配文字指令，生成 3 秒或 5 秒 AI 影片，也能在相簿中透过 AI 按键，自订片头、片尾画面并套用影片模板，降低短影音创作门槛。
+综合香港01、大公文汇网报导，中国国家审计署23日发布「国务院关于2025年度中央预算执行和其他财政收支的审计工作报告」，在金融风险一节中披露了中国银行涉税违规问题。
 
-据资讯显示，HONOR 600 主打 AI 图转影片 2.0、2 亿像素 AI 夜摄超清人像、8,000nits 超高亮度萤幕、7,000mAh 长续航电池，以及新一代 Snapdragon 7 效能晶片；机身也具备 IP68、IP69、IP69K 防水防尘等级，并搭载 AI 魔法修图等功能。
+报告提到，中国银行在2023年4月至2025年8月间，安排2家下属金融机构作为业务通道，以动员该行大量员工出资1元至100元的「凑人头」方式，将11档私募基金包装成公募基金产品，利用公募基金免征所得税的政策优惠累计逃避缴纳税款23.67亿元。
 
-高阶款 HONOR 600 Pro 则进一步升级至 Snapdragon 8 Elite 旗舰处理器，同样搭载 7,000mAh 电池与 8,000nits 萤幕，机身厚度约 7.8mm、重量约 200g，并具备 IP68、IP69、IP69K 防水防尘等级。影像方面，HONOR 600 Pro 采用 2 亿像素 AI 主镜头，搭配 1/1.4 吋感光元件与 OIS 光学防震，另有 5,000 万像素人像自拍镜头、1,200 万像素超广角镜头，以及 5,000 万像素潜望式长焦镜头，支援 3.5 倍光学变焦与 OIS 光学防震。
+中国银行对此回应，诚恳接受审计监督，高度重视审计指出问题，深刻剖析原因，坚持立行立改，细化明确措施，扎实推进整改。
 
-除了硬体规格，HONOR 600 系列也明显将 AI 放在产品定位核心，像是 AI 图转影片 2.0 可支援多图参考与提示词生成影片，亦可透过首尾两张图片生成影片，并提供范本与特效；同时也整合 AI 相片助手、AI 跨品牌传输、AI 安全，以及 Google Gemini 等应用，试图把手机从单纯拍摄工具，推向更完整的行动创作装置。
-
-随著 HONOR Taiwan 释出预告，代表 HONOR 600 系列在台上市时程已进入倒数阶段。不过，台湾版最终引进机型、记忆体容量、颜色配置、电信通路合作与售价仍有待官方公布。]]></description>
+此外，中国审计署的报告中还点名中国农业银行，指其2021年12月至2025年8月贷前审查不严，违规向非高标准农田项目发放贷款110.66亿元，部分资金被挪用于购买理财、偿还债务等。]]></description>
   </item>
   <item>
-    <title>欧盟加入美国主导「矽盛世」倡议，降低依赖中国 AI 供应链</title>
-    <link>https://technews.tw/2026/06/25/eu-joins-us-pact-to-break-reliance-on-chinese-ai-supply-chains/</link>
-    <guid>https://technews.tw/2026/06/25/eu-joins-us-pact-to-break-reliance-on-chinese-ai-supply-chains/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:40:38 +0000</pubDate>
-    <description><![CDATA[《金融时报》报导，欧盟、荷兰、德国与希腊已加入美国主导的「矽盛世」倡议。在西方及其盟友面临中国日益激烈的竞争之际，该倡议旨在强化 AI 相关科技供应链。
+    <title>世足赛商机发酵  亚马逊 Prime Day 首日买气喷发</title>
+    <link>https://technews.tw/2026/06/25/world-cup-business-opportunities-emerge-amazon-prime-day-first-day-sales-surge/</link>
+    <guid>https://technews.tw/2026/06/25/world-cup-business-opportunities-emerge-amazon-prime-day-first-day-sales-surge/</guid>
+    <pubDate>Thu, 25 Jun 2026 06:10:39 +0000</pubDate>
+    <description><![CDATA[全球电商龙头亚马逊（Amazon）年度重头戏「Prime Day」买气开红盘。根据 Adobe Analytics 最新统计，今年 Prime Day 首日当天，全美零售网购额冲上 83 亿美元，较去年同期成长 5.3%，不仅优于市场预期，也刷新今年以来的单日新高纪录。
 
-欧盟圈媒体「欧洲动态」（Euractiv）报导，代表欧盟27国的欧盟执行委员会昨天签署了美国主导的「矽盛世」（Pax Silica）倡议。该倡议为一项不具约束力的声明，旨在把中国排除于具备人工智慧（AI）能力的半导体供应链之外。
+路透社报导，Prime Day是亚马逊每年最重要的促销档期，仅限Prime会员才能享有超优惠折扣，今年提前至6月23日至26日举行，打破过去五年固定7月登场的惯例。亚马逊指出，今年适逢世界杯足球赛（FIFA World Cup）及美国建国250周年等重大活动，希望抢攻民众观赛、聚会及过节的采购商机。
 
-根据《金融时报》（Financial Times），美国政府是在昨天于华府举行的「矽盛世」峰会开幕式宣布这些新增成员。
+Adobe Analytics表示，亚马逊Prime Day首日销售表现优于预期，显示美国消费动能仍具韧性，因此维持Prime Day四天活动期间全美零售网购额达263亿美元的预测不变。
 
-负责「矽盛世」倡议的美国务院经济事务次卿海柏格（Jacob Helberg）受访时指出，阿根廷、智利、哥斯大黎加、哈萨克与巴拿马也将在本周加入，使成员总数达到24个国家。
+从热销品类来看，以3C产品、家电、工具及居家修缮用品卖出最多，而日用消耗品也在限时优惠助攻下，成为消费者下单囤货的目标。
 
-美国于去年发起「矽盛世」倡议，旨在确保AI供应链安全，涵盖晶片、关键矿物乃至能源等领域。海柏格表示，该倡议源自于意识到七大工业国集团（G7）与20国集团（G20）等组织不适合用来建立推动AI创新的网络。
-
-海柏格拒绝透露中国政府是否曾向美国伙伴施压，以阻止它们加入「矽盛世」倡议，但他指出，「矽盛世」与中国的「一带一路」倡议形成强烈对比，「一带一路」由国营机构推动，透明度不足，资本配置效率低，并推动具掠夺性的债务陷阱。]]></description>
+Adobe Digital Insights分析师Vivek Pandya先前指出，今年Prime Day档期提前至6月，可望推升当月电商销售表现，尤其家电、办公用品、居家装修及园艺等品项有望受惠于折扣带动买气成长，并为亚马逊第二季营运增添动能，财报表现可期。]]></description>
   </item>
   <item>
-    <title>日本拟砸 74 兆元投资 17 个领域，押注 AI 与半导体</title>
-    <link>https://technews.tw/2026/06/25/japan-invest-74-trillion-yen-17-sectors-betting-ai-semiconductors/</link>
-    <guid>https://technews.tw/2026/06/25/japan-invest-74-trillion-yen-17-sectors-betting-ai-semiconductors/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:30:35 +0000</pubDate>
-    <description><![CDATA[日本政府 24 日提出「官民投资路线图」，计划在截至 2041 年 3 月的近 15 年间，累计投入逾 370 兆日圆（约新台币 74 兆元），重点投资人工智慧、半导体、造船等 17 个「战略领域」。
+    <title>Nike 低迷、可能遭道琼剔除？波克夏有望入列</title>
+    <link>https://finance.technews.tw/2026/06/25/nike-slump-possible-dow-jones-delisting-berkshire-hathaway-poised-join/</link>
+    <guid>https://finance.technews.tw/2026/06/25/nike-slump-possible-dow-jones-delisting-berkshire-hathaway-poised-join/</guid>
+    <pubDate>Thu, 25 Jun 2026 06:00:55 +0000</pubDate>
+    <description><![CDATA[专家认为，运动用品巨头 Nike 股价长期低迷，可能成为下一档遭到道琼指数剔除的成分股；资管巨头波克夏（Berkshire Hathaway）则有望加入。
 
-《读卖新闻》报导，这是日本首相高市早苗政府主打的政策内容，上述路线图将被纳入7月汇整的「经济财政营运与改革的基本方针」与日本成长战略。
+综合外媒报导，标普道琼指数公司本周宣布，Alphabet将自29日起纳入道琼工业指数，取代电信巨头威瑞森（Verizon）；各界认为，待下次进行调整时，Nike极有可能遭到剔除，而波克夏可望被列入。
 
-高市去年上台后，日本政府内阁会议于去年11月成立「日本成长战略本部」盼推动强而有力的经济成长与「负责的积极财政」，并列出17个重点投资领域。
+道琼指数成分股包含标普500指数中最具代表性的30档蓝筹股，无固定调整频率，而是根据市况发展不定期调整。
 
-高市当时下令订定投资内容、目标金额、投资时间的「官民投资路线图」，如今，日本政府已推出具体内容。
+道琼指数权重采用价格加权法，股价越高的成分股在指数中影响力越大。标普在新闻稿中指出，威瑞森股价偏低，在道琼指数中的权重仅0.5个百分点，影响已变得微乎其微。
 
-日本政府昨天在首相官邸召开经济财政咨询会议与日本成长战略会议。高市在会中表示，「将切断对未来投资不足的趋势」。
+Nike仍是全球运动品牌龙头之一，但近年遭遇营运逆风，股价连年下跌，24日收在41.82美元，比威瑞森还低，也是道琼成分股中最低；市值仅剩600亿美元，因此被认为是下个可能遭剔除的成分股。
 
-日本政府计划从17个「战略领域」之中，选出日本国内企业具有优势的62项制品或技术，并优先提供支援。
+巴隆周刊分析，标普本次剔除威瑞森而非Nike，可能是因考量产业均衡，Alphabet和威瑞森均被视为通讯类股。
 
-而日本官方与民间投资的具体内容与金额，包含透过人工智慧（AI）自律型判断的实体AI（Physical AI）10.5兆日圆；半导体68兆日圆；次世代无线通讯20.5兆日圆等。这些为询问过相关企业与业界团体的设备投资计划，以及预测市场趋势等所计算出的金额。
+各界认为，市值高达兆美元的波克夏被纳入道琼的可能性极高，波克夏B股目前交易价格接近500美元，相当符合道琼成分股标准；若纳入，波克夏的权重将超过5%。
 
-日本政府将在编列2027年度中央政府总预算案时，成立「强大且繁荣的日本」投资框架，并确保挹注给上述17个领域的资金。而投资框架的规模，以及透过2027年度一般会计预算支出的岁出规模，将在之后讨论。
+不过，道琼指数中金融股占比已偏高，波克夏同样被归类为金融公司，可能构成阻力。
 
-17个战略领域包括「AI与半导体」、「数位与网路安全」、「资讯通讯」、「量子」、「防卫产业」、「航太」、「海洋」、「造船」、「材料」、「合成生物学」、「制药与先进医疗」、「资源与能源安全保障与绿色转型（Green Transformation，GX）」、「核融合」、「粮食生产技术」、「防灾与国土强韧化」、「港口物流」、「内容」。
+美股七雄（magnificent 7）之中的辉达、Alphabet、亚马逊、苹果和微软现已加入道琼；博通、Meta和特斯拉也被视为可能纳入的选择。
 
-朝日电视台指出，上述政策的财政可持续性，以及能否获得市场青睐将成为之后的焦点。]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：Unsplash）]]></description>
   </item>
   <item>
-    <title>SK 海力士拟赴美发行 ADR，募资 290 亿美元</title>
-    <link>https://finance.technews.tw/2026/06/25/s-korea-chip-giant-sk-hynix-seeks-29-bn-in-nasdaq-listing/</link>
-    <guid>https://finance.technews.tw/2026/06/25/s-korea-chip-giant-sk-hynix-seeks-29-bn-in-nasdaq-listing/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:20:09 +0000</pubDate>
-    <description><![CDATA[人工智慧（AI）资料中心记忆体晶片制造商 SK 海力士（SK hynix）24 日表示，该公司计划赴美发行美国存托凭证（ADR），以募资 45.45 兆韩圜（约 290 亿美元）。
+    <title>Synology 蜕变地端 AI 智慧平台，提升资料主动性、化解企业转型焦虑</title>
+    <link>https://technews.tw/2026/06/25/synology-transforms-on-premise-ai-smart-platform-enhance-data-proactivity-alleviate-enterprise-transformation-anxiety/</link>
+    <guid>https://technews.tw/2026/06/25/synology-transforms-on-premise-ai-smart-platform-enhance-data-proactivity-alleviate-enterprise-transformation-anxiety/</guid>
+    <pubDate>Thu, 25 Jun 2026 06:00:15 +0000</pubDate>
+    <description><![CDATA[COMPUTEX 2026 甫落幕，让企业看见了 AI 更加庞大的潜力，却也同时放大了一个长期存在的挑战：导入速度愈快，资料治理的漏洞往往愈大。机敏资讯上传公有云、AI 存取行为难以稽核、备份系统遭勒索软体锁定──这些并非假设情境，而是 IT 管理者每天面对的真实压力。
 
-法新社报导，SK海力士在监管文件中表示，该公司决定以发行新股的方式，赴美发行ADR，于7月10日在那斯达克（Nasdaq）挂牌上市。
+Synology 台湾事业处业务暨行销总监高志鹏指出：「许多台湾企业不是不想拥抱 AI，而是因为管理复杂度与合规压力被迫慢下来。当资料无法完全受控，AI 带来的效益就可能抵不过引入的风险。」为此，Synology 将从储存、备份、团队协作到影像监控全面纳入 AI 并深化平台能力，更要确保企业 100% 握有资料自主权。
 
-SK海力士表示，在美发行ADR所募集的资金将用于该公司在韩国龙仁（Yongin）半导体产业聚落的首座晶圆厂、一座位于清州的先进封装厂以及晶片制造设备等投资。
+对许多企业而言，将资料送上公有云进行 AI 推论，是目前门槛最低的路径；但对于有预算压力、合规要求高度重视资料主权的组织来说，这条路存在隐私和成本风险。
 
-SK海力士今年3月向美国证券管理委员会（SEC）递交申请，以启动上市程序。
+未来 DSM 将支援 GPU NAS 与 AI 硬体装置，提供在地端直接处理推论的可行选项：企业可将现有资料转化为私有知识库，交由 AI 代理（AI Agent）分析与执行，无需将资料送出内部环境。预计推出的 DSM Agent 更能横跨系统，主动提供管理建议并设计自动化工作流程，同时透过内建的安全护栏与治理控管机制，让 IT 团队完整掌握 AI 的存取行为与决策逻辑。
 
-SK海力士在首尔挂牌股价今年以来狂飙超过300%，公司市值更于5月首次突破1兆美元大关。
+高志鹏表示：「我们希望让 AI 转型与资料落地，成为可以同时成立的事，而不是相互取舍的选择。」
 
-SK海力士市值22日一度超越竞争对手三星电子（Samsung Electronics），跻身韩国市值最高的上市公司。]]></description>
+当 AI 赋能企业，也同样强化了网路威胁。高志鹏强调，APM 2.0 希望将资料备份的定位，从被动转化为主动，所以在原有基础上，进一步强化主动侦测能力：引入 AI 驱动的异常与恶意程式侦测，以机器学习技术持续比对历史备份，即时辨识资料变动率异常、大量删除等不寻常行为。一旦侦测到受影响的档案，系统会自动隔离，降低遭窜改资料被误还原的风险。
+
+APM 2.0 同时整合第三方防毒软体对备份资料主动扫描，并加入自动回溯（Auto Fallback）功能── 当侦测到异常还原点时，系统会自动切换至上一个确认无漏洞的版本，将人为介入的需求降至最低。
+
+不仅如此，APM 2.0 扩大了保护范围，涵盖 AWS EC2、Azure VM、Proxmox、Nutanix AHV 与 Google Workspace，并支援跨平台还原，确保混合云与虚拟化环境中的资安韧性不因架构复杂度而打折。
+
+Synology 观察到，AI 的潜力不仅在于强化底层 IT 架构，更能重塑企业的日常营运与沟通模式。Synology ChatPlus 与 Meet 便内建 AI 语音转文字与即时翻译功能，让跨语言、跨时区的团队协作更加流畅，而所有沟通资料同样完全落地，从根本降低采用外部 AI 服务可能衍生的资料外泄疑虑。
+
+实体场域的安全防护也持续进化。AI 语意搜寻与人员重识别（Re-identification）追踪功能，让管理者能精准、快速地调阅所需影像，或锁定特定人士的移动路径──在需要的时候，才能高速取得关键资讯。
+
+AI 转型的焦虑，本质上是一种对「失控」的恐惧──不确定资料去了哪里、不确定 AI 做了什么决定、不确定系统在攻击面前能撑多久。Synology 的方向，是以持续深化的产品能力来回应这种不确定性，要让资料受控的承诺，延伸至每一个业务场景。
+
+最后高志鹏总结：「我们不希望企业在『要 AI 还是要安全』之间做选择。Synology 要做的，是让两者同时成立──在100% 掌握资料的前提下，让 AI 真正成为推动成长的动能。」]]></description>
   </item>
   <item>
-    <title>应对先进封装热潮！闳康科技推出 CoWoS  混合电源 Latch-Up 测试解决方案</title>
-    <link>https://technews.tw/2026/06/25/cowos-latch-up-matek-ai/</link>
-    <guid>https://technews.tw/2026/06/25/cowos-latch-up-matek-ai/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:12:40 +0000</pubDate>
-    <description><![CDATA[随著人工智慧（AI）与高效能运算（HPC）的需求爆发式成长，各大半导体厂积极投入高功率晶片的研发，特别是将逻辑晶片与高频宽记忆体（HBM）相互结合的 CoWoS 先进封装产品。这类产品虽然展现出强大的效能，但其功耗往往高达数百瓦，部分规格甚至突破千瓦（kW）等级。此发展趋势为可靠度分析中的「闩锁效应（Latch-Up, LU）测试」带来了前所未有的严苛挑战。
+    <title>人型机器人记忆体需求爆  美光：是 L2+ 自驾车 10 倍</title>
+    <link>https://finance.technews.tw/2026/06/25/humanoid-robot-memory-demand-micron-10x-l2-plus-autonomous-vehicles/</link>
+    <guid>https://finance.technews.tw/2026/06/25/humanoid-robot-memory-demand-micron-10x-l2-plus-autonomous-vehicles/</guid>
+    <pubDate>Thu, 25 Jun 2026 05:50:27 +0000</pubDate>
+    <description><![CDATA[美国记忆体大厂美光（Micron Technology）正在押宝一项听起来像科幻小说、却将对半导体供应链产生真切影响的宏大愿景，预测未来人形机器人、AI 代理（Agentic AI）平台所需的记忆体容量将大爆发。
 
-▲ 闳康科技针对高功率 AI 与高效能运算晶片推出先进的 CoWoS 混合电源 Latch-Up 测试解决方案（Source：闳康科技）
+根据美光24日发布的财报电话会议逐字稿，执行长Sanjay Mehrotra表示，在机器人技术领域，模拟技术、基础模型以及软硬体整合叠构的持续进步，正在加速「实体人工智慧」（Physical AI）的发展。这为高频宽、低功耗的记忆体与储存系统，创造了日益增长且技术内涵丰富的庞大商机，以支援即时感知、推论与控制功能。
 
-先进封装技术飞速进展，使得晶片的复杂度正以几何级数直接反映在物理规格上。以业界先进的 Thermo Fisher Scientific MK4 测试系统为例，其硬体规格已能支援多达 2304 个脚位（Pins）的 ESD 测试。
+Mehrotra并说，单台人形机器人所搭载的记忆体容量，是一般「Level 2+」（L2+）级自动驾驶车的10倍。「我们预期，一场可持续且规模庞大、长达数十年的记忆体需求周期，将在2026～2030年正式揭开序幕。」
 
-然而，当顶尖设备遇上当前最热门的 CoWoS 先进封装时，挑战才真正开始。CoWoS 封装内部的晶片连接与外部脚位数量，往往动辄数千、甚至破万个。在面临数量级的落差，如何在有限的 2304 个硬体脚位资源中，透过精密的测试策略与高弹性的通道配置，完整覆盖 CoWoS 庞大的测试需求，便成了可靠度测试工程师的最大考验。
+Mehrotra同时表示，尽管出货量有所下滑，但PC与智慧型手机的产业营收仍有望成长，这显示在各类终端装置市场中，消费者对高阶、高单价产品的刚性需求依旧强韧。
 
-当前将高功率逻辑晶片堆叠高频宽记忆体（HBM）的 2.5D/3D 封装技术（如 TSMC 的 CoWoS）已成为主流。然而，传统的 Latch-Up 测试设备在面对高功率晶片时，通常会遭遇两大关键瓶颈：
+他说，诸如「OpenClaw」、「NemoClaw」等AI代理平台，推升了边缘端装置（edge devices）的价值，不仅优化了Token的经济效益（tokenomics），也带来更强的隐私保护与更低的延迟性，并实现云端与边缘端之间更为高效的AI协同调度。
 
-为了突破物理限制，闳康科技推出「MK4 + Hybrid Power Supply」（混合电源系统）的整合解决方案。本方案以混合（Hybrid）概念支援高达 2304 脚位（Pins），允许同时调度 MK4 内部的精密电源与强大的外部电源系统，如同为测试机台装上了一颗强大的外部心脏。该外部电源系统具备极为强悍的规格与安全性：
+长远来看，Mehrotra预期装置端AI（on-device AI）的价值，加上换机需求在被压抑一段时间后爆发（pent-up unit replacement demand），将共同带动PC与智慧型手机的记忆体需求强劲成长。
 
-▲ 混合电源系统实体与波形，展现完美同步调度内外部电源与精准程控实力（Source：闳康科技）
+展望未来，Mehrotra预测，DRAM与NAND型快闪记忆体的供需吃紧状态，都将延续至2027年过后。
 
-除了强大的电力支援，MK4 系统还整合了多项进阶分析功能，让可靠度测试进化为深度的精准元件特性分析 ：
-
-随著人工智慧（AI）与高效能运算（HPC）的持续演进，高功率晶片的可靠度测试已不再是单纯的实验室作业，而是需要强大电力基础设施与精密程控支援的系统工程。
-
-闳康科技不仅具备最先进的设备，更拥有无可取代的实战经验。目前已成功协助客户完成多笔 CoWoS 专案的超级高功率 Latch-Up 测试（Super High Power Latch-Up），不仅克服了技术难关，更累积了高达千瓦（kW）等级的成功测试案例。面对次世代高功率晶片的可靠度考验，闳康科技可提供专业的测试与技术支援，协助客户为先进晶片规划合适的评估方案。]]></description>
+在DRAM方面， Mehrotra预期2026年整体产业的DRAM位元出货量年成长率将介于20~25%之间（low- to mid-20s），略高于公司原先预期。NAND方面，预估2026年整体产业的NAND位元出货量将成长约20%，与先前预期相同。]]></description>
   </item>
   <item>
-    <title>SpaceX 卖压涌现，马斯克从全球首位兆元富豪宝座跌落</title>
-    <link>https://finance.technews.tw/2026/06/25/spacex-selling-pressure-elon-musk-drops-worlds-first-trillionaire/</link>
-    <guid>https://finance.technews.tw/2026/06/25/spacex-selling-pressure-elon-musk-drops-worlds-first-trillionaire/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:10:00 +0000</pubDate>
-    <description><![CDATA[英国《独立报》报导，马斯克（Elon Musk）在成为全球首位兆元（美元）富豪写下历史后，不到两周时间，随著 SpaceX 与特斯拉股票卖压涌现，其身家如今已跌回 1 兆美元以下。
+    <title>台湾莱雅携 NVIDIA、OpenAI 用生成式 AI 打造个人化体验</title>
+    <link>https://technews.tw/2026/06/25/loreal-taiwan-nvidia-openai-genai/</link>
+    <guid>https://technews.tw/2026/06/25/loreal-taiwan-nvidia-openai-genai/</guid>
+    <pubDate>Thu, 25 Jun 2026 05:49:50 +0000</pubDate>
+    <description><![CDATA[台湾莱雅迎来在台深耕 35 周年，今日举办「台湾莱雅 35 周年暨美力共创交流日」，邀集客户、供应商与青年学生等产业伙伴，除回顾在台发展历程，也揭示未来美妆产业五大趋势，包括新龄科研、AI 驱动美妆科技、绿色消费、风格潮流与美力仪式。其中，随著生成式 AI、大数据与智慧检测技术加速进入消费场景，美妆产业正从单纯销售产品，转向提供更个人化、更即时的科技服务体验。
 
-根据彭博亿万富翁指数（Bloomberg Billionaires Index），马斯克在短暂成为史上唯一身家达「13位数」的兆元富豪后，如今其净资产已跌至9,570亿美元左右。
+台湾莱雅表示，现代消费者在购买保养、彩妆或发类产品前，平均需接触 6 个以上资讯管道，并花费 7 至 11 天才完成购买决策；同时，2025 年台湾网路上「美妆科技」相关讨论声量较 2024 年大幅成长 198%，显示科技与数据应用已逐渐影响消费者的美妆选择。对品牌而言，如何在碎片化资讯环境中理解个别消费者需求，并提供可信赖的专属建议，成为下一阶段竞争关键。
 
-马斯克旗下太空探索科技公司（SpaceX）在6月12日重量级上市，投资人热情推动该公司估值超过2兆美元，使得马斯克成为全球首位兆元富豪，身家一度达1.1兆美元上下。
+▲ 台湾莱雅总裁师逸桦Eva Leihener-Stefan。
 
-然而，围绕SpaceX上市所形成的狂热情绪，后来迅速消退，在该公司股价大幅回落后，马斯克的身家也随之缩水。
+从集团层面来看，莱雅近年持续推动从传统美妆公司转型为 Beauty-tech Company，继 2025 年宣布与 NVIDIA 合作，让自有生成式 AI 平台 CREAITECH 结合 NVIDIA AI Enterprise 云端运算、扩大行销素材与 3D 数位渲染应用后，莱雅也在 2026 年 VIVATECH 宣布与 OpenAI 展开合作，进一步强化 CREAITECH 的内容生成能力，并透过 AI 协作提升产品广告效益与消费者旅程转型。此外，莱雅也将 OpenAI 针对生命科学开发的 GPT-Rosalind 数据模型，应用于皮肤微生物群落研究，以加速高效保养成分与产品配方开发。
 
-SpaceX的卖压同时也伴随科技股整体走弱，因投资人抛售人工智慧（AI）与半导体相关类股，马斯克财富的重要支柱之一特斯拉（Tesla）22日股价下跌5.8%。
+在台湾市场，AI 驱动美妆科技已从概念进入实际服务；像是 TAKAMI「Skin Truth 角质真相仪」结合近 300 万则肤况数据与 AI 演算法，分析毛孔、细纹、皱纹、肤色均匀与透亮等五大肌肤指标，并依检测结果提供客制化保养建议。
 
-投资公司AJ Bell金融分析主管休森（Danni Hewson）指出，此次卖压反映出一个现实：新上市公司在最初热潮消退后，往往会经历一段剧烈波动期。]]></description>
+契尔氏 Derma Reader AI 肌肤检测系统则透过 AI 成像演算法，将肌肤检测从静态观察推进至动态建模，模拟未来 15 年可能出现的老化轨迹，协助消费者提前掌握纹路、隐形斑点与潜在肌肤变化。
+
+彩妆与发类应用也持续数位化，兰蔻 e-SHADE FINDER 线上选色仪运用脸部辨识与 AI 技术，依据肤色与肤色基调推荐适合粉底色号。
+
+巴黎卡诗 K-SCAN 专业头皮检测则透过 4K 高解析度镜头与全球大数据资料库，分析头皮与发肌状态，提供个人化护理建议。
+
+这些应用显示，美妆科技不再只是线上试妆，而是逐步延伸至肌肤、彩妆、头皮与消费决策全流程。
+
+台湾莱雅也透过「BIG BANG 莱雅美妆科技共创计划」串联在地新创。2025 年计划得主启云科技以「Picbot Beauty AI 美妆智慧贩卖机」脱颖而出，整合虚拟试妆、个人化推荐、AI 互动拍照与即时购买，打造线上线下融合的零售体验。活动现场亦展示与媚比琳合作的「AI 漂浮美照」互动体验，以及与理肤宝水合作的「防晒应援 AI 派样机」，让消费者透过手机生成 AI 影像后，串接实体派样与品牌互动。
+
+台湾莱雅指出，未来将持续结合集团科研资源、AI 技术与在地创新能量，推动美妆科技、永续消费与个人化服务发展。随著生成式 AI 从后端行销内容生产延伸至前端消费体验，美妆产业的竞争焦点，也将从产品功效与品牌形象，进一步扩大到数据、互动与科技服务能力。]]></description>
   </item>
   <item>
-    <title>Taiwan Excellent PV金能奖：引领台湾太阳光电产品品质标竿</title>
-    <link>https://technews.tw/2026/06/25/taiwan-excellent-pv-award-solar-product-quality-benchmark/</link>
-    <guid>https://technews.tw/2026/06/25/taiwan-excellent-pv-award-solar-product-quality-benchmark/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:00:14 +0000</pubDate>
-    <description><![CDATA[2026 年为持续推动我国再生能源发展，经济部规划办理「杰出多元绿能奖」，由经济部能源署主办，再生能源相关公协会共同协办，财团法人工业技术研究院执行，借此鼓励各界投入再生能源建置，提升国内再生能源设置量能及促进产业永续发展。经审慎评估，金能奖并入杰出多元绿能奖统一领奖，以持续提升我国太阳光电产品的品质与国际市场竞争力。由能源署自 102 年起办理「优质太阳光电产品评选活动」，并颁给「金能奖」，以公开表扬具备高效率与高品质的国产太阳光电产品。该评选活动依据国际电工委员会（IEC）最新标准，并因应国内外市场趋势与使用环境需求，滚动式调整评选基准，借由全面且严谨的测试程序与审查机制，选拔出兼具性能表现与耐久性的优质产品，借此导引国内太阳光电产业朝向技术升级与品质优化的方向发展。
+    <title>Intel 想代工苹果先进晶片？分析：恐 2~3 年才问世</title>
+    <link>https://technews.tw/2026/06/25/intel-made-advanced-apple-chips-may-be-2-3-years-away/</link>
+    <guid>https://technews.tw/2026/06/25/intel-made-advanced-apple-chips-may-be-2-3-years-away/</guid>
+    <pubDate>Thu, 25 Jun 2026 05:40:36 +0000</pubDate>
+    <description><![CDATA[美国政府力拚要将半导体制造搬回国内，上周宣布苹果（Apple）将委托英特尔（Intel）代工先进晶片。不过，分析人士警告，由于晶片生产流程漫长且严苛，英特尔代工的先进晶片恐需耗时 2~3 年才能问世，要将其转化为实质获利则需要更长的时间。
 
-115 年度第十四届金能奖类别包含「一般型模组」、「应用型模组」、「太阳能电池」与「变流器」等四大项目。因应国际技术演进，除进一步调升各类产品效率门槛与更新参考标准外，考量 N 型技术已全面普及，模组与电池维持紫外线诱发衰减（UVID）测项，并持续加严机械负荷测试，提高环境耐候性之性能与可靠度；在变流器方面，除强化资安等级外，持续提升对可靠度之性能衰退要求，以确保长期维运之稳定性，筛选出具备国际竞争力之优质产品。透过这些强化措施，金能奖将能更有效地凸显通过评选门槛产品的卓越品质与独特性，进而协助得奖厂商拓展国内外市场商机。
+路透社24日报导，晶片研究机构Future Horizons执行长Malcolm Penn表示，「在最理想的情况下，也需要2~3年才能制出首批晶片。设计一款如此复杂的系统单晶片（SoC）需耗时2年，接著还要4个月的生产周期才能让产能放量。」
 
-此外，模组机械结构强度亦为评选重点之一，并加严「静态机械负荷测试」条件，将测试负荷设定为正负 5400 Pa，以模拟强风压力对模组结构所造成的影响，验证其在极端天候环境中仍能维持安全与性能稳定。在变流器方面以标准局「太阳光电变流器及监视单元资安检测技术规范」参考标准，延续过往评选标准如效率、铜加速醋酸盐雾测试（CASS Test）和湿冷冻循环测试等环境耐受性指标。透过上述加严测试项目，确保金能奖产品不仅具备优异的能源转换效率，同时具备户外长期运作所需的环境适应性。
+Penn表示，2~3年的时间表，还是建立在英特尔技术已完全到位、设计工具足够可靠，能让苹果寄予厚望的前题下。他形容这次合作是场「先上车、后补票的婚礼」（shotgun wedding），直言「在毫无过往实绩的状况下，这无异于一场豪赌，伴随著巨大商业与财务风险。」
 
-杰出多元绿能奖-金能奖评选活动已于 115 年 6 月 1 日开始报名，经报名资格审查后，即进行产品实体测试，并预计于 115 年 10 月 Energy Taiwan 举办「杰出多元绿能奖」举办颁奖典礼，公开表扬得奖厂商与产品。多元绿能奖-金能奖作为国内太阳光电产品品质最高荣耀，除可协助系统建置者与终端用户辨识高性能、高可靠度的产品，建立消费信任基础。同时，该活动亦能促进上下游产业链进行技术升级与创新研发，带动整体绿能产业发展，强化我国于国际市场的能见度与竞争优势。相关评选标准与历年得奖产品资讯，请参考多元绿能奖-金能奖网站连结，https://ea03.moeaea.gov.tw/s0307/。（能源署广告）]]></description>
+分析师对于苹果将选择英特尔哪款制程技术，意见仍然分歧。有人认为，苹果可能会跟进特斯拉（Tesla），采用还有好几年才能量产、基于全球最先进晶片制造设备的次世代14A制程。另一派人士则预期，苹果可能会为了追求稳定而牺牲最尖端的技术效能，倾向选择18A-P制程。
+
+科技研究机构执行长Daniel Newman相信，苹果自研晶片要交由英特尔量产，可能要等到2027年底或2028年初才会实现，早期的合作案应会集中在技术要求较低，用于MacBook Air或部分iPad Pro机型的次要零组件上。
+
+英特尔过去曾多次遭遇时程延宕与晶片品质不稳的问题，未来它必须满足苹果对良率的严苛要求。
+
+Freedom Capital Markets科技研究部主管Paul Meeks表示，「投资人目前给予英特尔的定价，是建立在该公司能完美执行计划的假设上，但这是一家过去20年来执行力屡屡跳票的公司。不可否认，英特尔最新制程看来确实有显著进步，但大家至少应对这个完美愿景，打上一些折扣。」
+
+英特尔执行长陈立武（Lip-Bu Tan） 5月曾对CNBC表示，他预测2026年下半年晶圆代工业务应能争取到多家客户许下承诺。
+
+Counterpoint Research分析师Neil Shah认为，英特尔面临的棘手问题，在于该公司主要是以传统的x86指令集架构来制造晶片，苹果、Google、亚马逊（Amazon.com）等科技巨头目前青睐的客制化晶片，却多是采用竞争对手安谋（Arm）的架构。Shah说，「制造Arm架构晶片是英特尔未曾涉足的领域」，但晶圆代工龙头台积电却「早已掌握了这项核心技术」。]]></description>
   </item>
   <item>
-    <title>苹果折叠 iPhone 量产 7 月底起跑  9 月如期发表</title>
-    <link>https://technews.tw/2026/06/25/apple-to-begin-foldable-iphone-production-in-july-after-resolving-hinge-issues/</link>
-    <guid>https://technews.tw/2026/06/25/apple-to-begin-foldable-iphone-production-in-july-after-resolving-hinge-issues/</guid>
-    <pubDate>Thu, 25 Jun 2026 00:50:02 +0000</pubDate>
-    <description><![CDATA[苹果（Apple）首款折叠 iPhone 问世进入倒数阶段。供应链消息指出，苹果已完成产品规格定案，预计 7 月底启动量产，并按原定计划于 9 月新品发表会正式亮相，上市后可望为全球手机市场注入新一波换机需求。
+    <title>铠侠预计 2027 年第二季赴美发行 ADR，消息刺激股价大涨逾一成</title>
+    <link>https://technews.tw/2026/06/25/kioxia-is-expected-to-launch-its-adrs-in-the-us-in-the-second-quarter-of-2027/</link>
+    <guid>https://technews.tw/2026/06/25/kioxia-is-expected-to-launch-its-adrs-in-the-us-in-the-second-quarter-of-2027/</guid>
+    <pubDate>Thu, 25 Jun 2026 05:30:05 +0000</pubDate>
+    <description><![CDATA[彭博社最新报导指出，受惠于全球人工智慧（AI）技术的爆发性成长与投资热潮，带动了半导体记忆体晶片需求的急遽攀升。为此，日本记忆体制造大厂铠侠（Kioxia）正积极规划并扩展其全球资本市场布局。目前该公司已拟定计划，预计于 2027 年春季在美国市场正式发行存托凭证（ADR），使得能精准把握并吸收国际投资者对于人工智慧相关半导体股票的强劲需求。
 
-韩媒《The Elec》引述台韩供应链消息报导，苹果折叠iPhone目前已进入量产前的最终确认阶段，初期由鸿海负责代工组装，今年4月已完成工程试产（Engineering Production Run），量产线预计7月底正式启动。
+铠侠首席财务长川村义彦在公司近期举办的年度股东大会上，正式向外界发布了这项进军美国市场的重大战略方针。川村义彦进一步说明，公司目前将赴美发行的目标时间表，订定在2027年的4月至6月之间完成，也就是在2027年3月现有财政年度结束后不久即展开行动。他特别强调，此次前进美国发行存托凭证的计划，被公司内部定位为与全球最大资本市场建立直接联系的关键一步，对铠侠未来的全球化发展具有深远的意义。
 
-苹果折叠iPhone将搭载三星显示器（Samsung Display）独家供应的OLED面板，由三星越南厂负责后段制程加工，日前已顺利通过最终量产验证，初期年供货量约300万片。
+在这项极具野心的扩张计划及利多消息刺激下，铠侠在东京股市的表现展现出惊人的爆发力。周四盘中，铠侠的股价一度出现高达15%的大幅上涨。这波强劲的涨势不仅推升了公司的市值，更使得该公司自2026年以来的累计股价涨幅进一步扩大至将近800%的惊人水准。
 
-至于攸关开阖手感、产品耐用度及萤幕折痕的核心零件「铰链（hinge）」，由台湾新日兴与美国安费诺（Amphenol）共同供应，并采用3D列印技术制造，以增加强度与耐用性。
+此外，为了提升股票在交易市场上的流动性，并进一步扩大一般投资者基础，川村义彦亦在会中指出，公司目前正积极计划研究「股份拆分」的相关方案。进行股权拆分的目的在于有效降低投资门槛，使得铠侠在东京上市的股票能够更易于被广大散户投资者所购入与持有。
 
-供应链人士透露，折叠iPhone开发过程中，确实曾出现铰链异音，以及零件公差影响组装良率等问题，不过问题大致上已经解决，目前量产进度未受影响，预料将如期于今年秋季亮相。
+事实上，铠侠此次计划赴美上市的时机点，正值全球资本市场对人工智慧概念股抱持高度狂热之际，大量国际资金正争相涌入与AI相关的记忆体晶片制造商。同为记忆体产业大厂的韩国SK海力士（SK Hynix）才刚于周三对外宣布了其赴美上市的计划，而铠侠如今也正式加入了这一波亚洲半导体大厂前进美国资本市场的行列。
 
-（本文由MoneyDJ新闻授权转载；首图来源：Flickr/MIKI YoshihitoCC BY 2.0）]]></description>
+除此之外，美国记忆体大厂美光科技（Micron）近期交出了优于华尔街预期的第三季财报，此一强劲的财报表现不仅提振了市场信心，更带动了亚洲半导体类股的普遍上扬，为铠侠的赴美扩张营造了极佳的总体经济与产业大环境。
+
+总部位于日本东京的铠侠为全球NAND快闪记忆体的核心供应商之一，无疑已经成为日本在这一波由人工智慧驱动的记忆体晶片热潮当中，获益最为丰厚的指标性企业之一。针对当前的市场需求状况，铠侠执行长太田博雄明确表示，公司目前正持续从人工智慧相关领域获得非常强劲的需求。
+
+尽管就人工智慧复杂的运算工作负载而言，NAND快闪记忆体的重要性或许不及高频宽记忆体（HBM）。但太田博雄与市场分析皆指出，随著全球资料中心的基础建设持续大规模扩张，加上个人电脑（PC）和智慧型手机等消费性电子产品市场需求的大幅回升，不仅为NAND市场的全面复苏提供了强而有力的底层支撑，也使得整体记忆体市场的需求动能得以持续增强并维持稳健成长。铠侠正紧抓此一产业契机，期望透过资本与业务的双轨布局，在未来的AI半导体战局中持续扩大其影响力。]]></description>
   </item>
   <item>
-    <title>全球超级电脑榜单出炉，台湾 11 套系统上榜总算力破 213PF</title>
-    <link>https://technews.tw/2026/06/25/global-supercomputer-list-released-taiwan-ranks-11-systems-total-computing-power-over-213pf/</link>
-    <guid>https://technews.tw/2026/06/25/global-supercomputer-list-released-taiwan-ranks-11-systems-total-computing-power-over-213pf/</guid>
-    <pubDate>Thu, 25 Jun 2026 00:40:48 +0000</pubDate>
-    <description><![CDATA[全球超级电脑排行榜 TOP500公布最新榜单，台湾共有 11 套系统上榜，总算力跨越 200 PetaFLOPS（每秒执行千兆次浮点运算）大关，首度突破 213 PetaFLOPS。
+    <title>黄仁勋定调地缘政治与科技战底线，辉达永远将国家安全放在首位</title>
+    <link>https://technews.tw/2026/06/25/jensen-huang-sets-the-bottom-line-for-geopolitical-and-technological-warfare/</link>
+    <guid>https://technews.tw/2026/06/25/jensen-huang-sets-the-bottom-line-for-geopolitical-and-technological-warfare/</guid>
+    <pubDate>Thu, 25 Jun 2026 05:10:48 +0000</pubDate>
+    <description><![CDATA[美国 AI 晶片大厂辉达（Nvidia）于美国时间 6 月 24 日召开年度股东大会，针对外界担忧先进晶片可能透过走私或间接管道流入受管制国家的事情，辉达执行长黄仁勋明确宣示，当商业机会与美国国家安全发生冲突时，国家安全永远被置于首位。此番言论清晰勾勒出辉达在当前地缘政治与科技战下的战略底线。
 
-电脑品牌厂华硕与集团旗下台智云表现亮眼，双方共同参与规划建置的系统总算力超过165 PetaFLOPS，占台湾TOP500公开算力约78%。
+近年来，美国政府高度关注科技外流，并将先进人工智慧（AI）技术向中国的转移视为重大的国家安全风险。为防堵此风险，美国自2022年起便针对辉达的高阶AI晶片实施了严格的对中出口限制。这项防堵政策在近期进一步升级，美国政府于6月12日宣布针对新创公司Anthropic旗下最先进的AI模型「Claude Mythos 5」与「Claude Fable 5」祭出出口限制，规定仅限美国公民使用。
 
-近年全球人工智慧（AI）基础设施建设竞争进入白热化，在最新公布的TOP500名单中，国家高速网路与计算中心（国网中心）建置的NANO4以81.6 PetaFLOPS的算力，位居全球第33名，持续稳居台湾最强超级电脑。
+在此严格的政策规范下，目前辉达仅有H200晶片仍符合出口至中国的资格要求。黄仁勋强调，辉达完全遵守美国的出口管制法规，并接受适用法律与政府政策所施加的一切限制。为了贯彻合规承诺，辉达不仅多次成功拦截并阻止了试图走私高阶晶片产品的行为，更祭出强硬的售后规范，明文拒绝为任何走私晶片提供技术支援或维修服务，借此从源头断绝非法取得晶片的诱因。
 
-包含NANO4在内，台湾仍维持3套系统位列全球百大、6套系统位列全球前200名，在全球AI基础设施版图中占有一席之地。
+黄仁勋在股东会上重申了企业的在地责任，他表示，做为一家美国公司，我们有义务支持我们的政府，国家安全是我们的最高优先事项。因此，这种对国家安全的重视也直接反映在辉达的全球市场结构变化上。随著美国政府不断加码防堵措施，中国官方也对辉达晶片的进口实施了反制的限制手段。在双边政策的夹击下，辉达在中国市场的业绩受到了明显冲击。根据大会揭露的数据，在2026财政年度中，中国市场仅占辉达总体营收的9%，与过去几年相较呈现大幅缩水。
 
-台智云24日在Facebook官方帐号发文表示，这不只是超级电脑的排名，更代表台湾正在逐步建立属于自己的AI基础建设、AI工厂与主权AI能力。当AI成为国家竞争力的重要基础设施，决胜关键已不只是晶片与模型，而是谁能够长期建设、营运并掌握自主可控的算力、资料与AI能力。
+尽管面临地缘政治的逆风与中国市场版图的缩减，辉达在技术研发与市场竞争力上依然保持著绝对的自信。面对市场上层出不穷的AI专用晶片竞争对手，黄仁勋正面回应指出，辉达的系统在定价上或许不是最便宜的，但若从整体投资报酬率来看，却能为客户带来最低的每词元成本（cost per token）、最高的词元进出量（token throughput），进而创造出最庞大的营收回报。
 
-台智云进一步指出，部分台湾系统虽然排名较前一期略有变动，但实际算力并未下降。这反映的是全球AI工厂与主权AI建设正快速加速，各国正以前所未有的速度投入新一代AI超算与算力基础设施。
+他特别点名备受瞩目的Blackwell架构晶片，强调Blackwell不仅提供了领先业界的每瓦效能（performance per watt），在某些特定的基准测试中，甚至能展现出高达30倍的词元吞吐量提升。这些数据都充分证明了辉达在AI运算领域的技术护城河依然难以撼动。
 
-台智云参与多项台湾代表性超算与AI基础设施专案建设，包括NANO4、NANO5、Ubilink、鸿海AI超算中心等系统。]]></description>
+在巩固技术领先地位的同时，辉达也不忘以实际行动稳固投资人的信心。辉达在股东大会上宣布了最新的资本回馈政策，承诺未来将把超过50%的自由现金流（free cash flow）回馈给广大股东。此外，公司也强调了2026年5月甫获批准的高达800亿美元股票买回（share repurchase）计划。这项巨额的资本运作计划，不仅展现了管理层对公司未来现金流的强大信心，也为辉达在复杂多变的全球战略布局中，提供了强而有力的财务后盾。]]></description>
   </item>
   <item>
-    <title>薪资协商陷僵局，现代汽车工会表决通过罢工行动</title>
-    <link>https://technews.tw/2026/06/25/south-koreas-hyundai-car-workers-vote-to-back-strike-action/</link>
-    <guid>https://technews.tw/2026/06/25/south-koreas-hyundai-car-workers-vote-to-back-strike-action/</guid>
-    <pubDate>Thu, 25 Jun 2026 00:30:09 +0000</pubDate>
-    <description><![CDATA[韩国汽车大厂现代汽车的工会 24 日宣布，因薪资协商陷入僵局，员工已经表决通过罢工行动。多个产业受雇劳工纷纷要求改善劳动条件。
+    <title>Threads 之后是预测市场，专家批 Meta 利用成瘾获利</title>
+    <link>https://technews.tw/2026/06/25/meta-establishing-prediction-platform/</link>
+    <guid>https://technews.tw/2026/06/25/meta-establishing-prediction-platform/</guid>
+    <pubDate>Thu, 25 Jun 2026 05:09:53 +0000</pubDate>
+    <description><![CDATA[预测市场现在很红，日常生活什么事情都能拿来下注。分析师预测，预测市场未来几年内可能会发展成为一个价值1兆美元的产业。Meta不会放弃这块大饼，准备推出他自己的预测市场平台「竞技场」(Arena)。如果你已经觉得「Threads」很有毒，那这个预测 App 可能会让人更容易上瘾。
 
-法新社报导，韩国最大车厂现代汽车（Hyundai Motor）的员工要求发放高额绩效奖金、延后退休年龄并且调薪，原因包括人工智慧（AI）兴起加剧对就业保障的疑虑。
+预测市场已经演变成一种流行文化，2025年，Kalshi和Polymarket两大预测市场线上交易额合计达500亿美元。今年已超过1,300亿美元。愈来愈多公司加入这个市场，除了Kalshi与Polymarket。如DraftKings和FanDuel这样的传统运动博彩网站，已经推出自己的预测市场服务。川普的TruthSocial也宣布预测市场计划。还有70多家公司已经启动预测市场项目或服务。
 
-根据韩联社报导，自从5月以来，劳资双方协商持续进行，但迄未达成协议。
+《纽约时报》揭露，Meta执行长祖克柏已指示一个团队，构建一个预测应用程式名为Arena。用户不能用真钱下注，而是使用有配额的游戏币。虽然目前还不清楚Meta的预测市场涵盖哪些主题，但根据内部文件显示，当中包括主题、结算与个人推荐，都会使用Meta 的大型语言模型 Llama。
 
-韩国金属工人工会（Korean Metal Workers’ Union）现代汽车分会24日表示，近4万名会员中超过8成6同意发动罢工，以达成他们的诉求。
+2020年，Meta发布一款名为Forecast的应用程式，这是一个众包预测市场应用，用户可以在上面猜测世界可能发生的事情，包括对疫情走向的预测。两年后，该应用程式停止运作，据称原因是人工审核问题的营运成本，目前正在开发的新应用是对先前应用的「重建」。
 
-工会告诉法新社，将于25日与国家劳动关系委员会进行调解会议后，决定下一步行动。
+Meta 看准的是愈来愈庞大的赌博市场。美国人热衷于博彩，投注额庞大。根据美国博彩协会统计，去年美国人在体育赛事上的投注额就高达约1,500亿美元，主要透过智慧型手机或笔记型电脑进行。
 
-会员诉求包括发放相当于去年净利30%的绩效奖金，以及将退休年龄上限延后至65岁。他们也要求每月基本薪资调涨14万9,600韩圜（约97美元）。
+博彩业如今已成为摧毁年轻人未来的祸害，西北互惠保险公司年初研究发现，近三分之一的Z世代和近四分之一的千禧世代，正在或考虑将资金投入预测市场或运动博彩。但是过去预测交易平台Polymarket上的大多数交易者都在亏损。分析发现，超过10万个帐户在Polymarket上至少亏损1,000美元，是获利帐户数量的两倍多。
 
-三星电子（Samsung Electronics）最近通过协议，向半导体部门员工发放相当于营业利益10.5%的奖金，成功避免罢工。从生技业到造船业，不同产业的劳工也要求透过奖金分享企业更多盈余。
+他们大多输钱，却沉迷于刺激感，并越来越渴望赚钱。投资公司伯恩斯坦4月发布的报告显示，过去几年美国预测市场呈现爆炸性成长，预计2026年交易量将比前一年增长近四倍，到2030年将达到1兆美元。
 
-（首图来源：Chu,CC BY-SA 3.0, via Wikimedia Commons）]]></description>
+历史学家分析，当一家拥有超过30亿用户的公司开始引导用户参与博彩时，代表赌博将渗透到美国人生活的方方面面。预测市场只是应运而生，虽然两大主流平台Polymarket和Kalshi声称，它们并非在经营赌博业务，而是在提供资讯服务。但无论是赌博还是预测，都是一种押注，都会让人成瘾。心理学家认为，美国史上规模最大、速度最快的赌博热潮正在发展，大众对赌博问题的认识，比其他成瘾问题落后大约十年，这种差距可能会导致意想不到的危害。
+
+美国国会议员表示，Meta的商业模式是从成瘾中获利，Meta模仿吃角子老虎机让孩子们沉迷于Instagram，现在是预测市场。
+
+Gizmodo评论文章从这家公司的起源狠狠批判，称Meta总是揣测用户最坏的一面，放任人们释放最糟糕的冲动，就能最大化用户兴趣和利润。当年祖克柏在简讯中回应为什么Facebook会成功，他只说「我不知道……他们信任我。一群傻瓜」。]]></description>
   </item>
   <item>
-    <title>ChatGPT 安全防护仍可绕过产生危险图片，OpenAI 表示已著手处理</title>
-    <link>https://infosecu.technews.tw/2026/06/25/chatgpt-prompt-generates-disturbing-images/</link>
-    <guid>https://infosecu.technews.tw/2026/06/25/chatgpt-prompt-generates-disturbing-images/</guid>
-    <pubDate>Thu, 25 Jun 2026 00:20:06 +0000</pubDate>
-    <description><![CDATA[BBC 报导，最新公开 ChatGPT 可被研究员以简单提示词诱导，生成性方面（含性暗示或裸体）或血腥暴力图片，显示 OpenAI 影像安全防护虽有加强，但漏洞未完全排除。
+    <title>挥别中二粗鄙旧帐号，教你如何变更 Gmail 电子邮件地址</title>
+    <link>https://technews.tw/2026/06/25/change-your-google-account-username-in-taiwan/</link>
+    <guid>https://technews.tw/2026/06/25/change-your-google-account-username-in-taiwan/</guid>
+    <pubDate>Thu, 25 Jun 2026 05:04:54 +0000</pubDate>
+    <description><![CDATA[注册 Google 帐户所产生的 @gmail.com 电子邮件地址，是登入所有 Google 服务的钥匙。多年来 Google 设下无法更改帐户名称的限制，如果注册之初没有谨慎考虑，用中二甚至粗鄙的字眼作为帐户名称，不得不用上一段时间。但从今年 4 月起，Google 率先在美开放变更电子邮件地址，如今已向台湾使用者开放。
 
-英国 AI 资安新创 Mindgard 表示，只需微调原本想产生搞笑效果、网路流传的提示词，就能让 ChatGPT 产生露骨暴力与性暗示图片。BBC 指出，研究员使用 OpenAI GPT-5.4 模型，为保护研究细节与防止滥用，未公布研究员完整提示词。
+变更 Google 帐户的电子邮件地址，即更改帐户名称，也就是在 @gmail.com 之前的部分。如此一来，旧的电子邮件地址会成为备用、不可删除，其他人也无法使用，你将会收到寄给新旧地址的电子邮件。
 
-Mindgard 创办人彼得‧加拉根（Peter Garraghan）形容，这让他特别担忧，因为提示词表面看起来相当无害，却可能导向很糟糕的影像结果。安全测试研究员吉姆‧奈丁盖尔（Jim Nightingale）则表示，他看到图片后「非常震惊，甚至落泪」。BBC 所见案例包括头部重创的男子、浑身是血的年轻女子，以及被绑住、嘴巴遭堵住、神情惊恐的女子等画面；Mindgard 表示这些 AI 图人物都是成人，但一些特征可能暗示性暴力。
+帐户中储存的资料不会受到影响，包括电子邮件、讯息、照片，并且可以使用新旧地址登入 Google 服务如 Gmail、Google 云端硬碟、Google 地图、Google Play 等等。
 
-研究员表示，5 月已通报 OpenAI 此问题，当时仅收到罐头回复；BBC 联络 OpenAI 后，OpenAI 表示已针对这类提示词新增防护措施，并强调系统设有多层图像安全保护，结合自动化机制与人工审查，以阻止违反政策的内容出现。OpenAI 政策明确禁止性暴力、非自愿亲密内容、儿童性虐待材料，以及试图绕过安全机制的行为。但研究员表示，只要稍微改动提示词，就能绕过部分限制。
+Google 指出，你随时可以改回使用旧的电子邮件地址，但必须等待 12 个月，才能再建立以 @gmail.com 结尾新的电子邮件地址。
 
-这起事件再次突显生成式 AI 内容管控难题。专家指出，模型并不像人类真正理解意图、情境或对错，因此防堵有害输出往往是持续升级的「猫捉老鼠」游戏。英国科学、创新与技术部门则表示，AI 模型的防护机制虽然有在进步，但仍有很多工作要做。]]></description>
+你可以为自己的 Google 帐户最多新设 3 个以 @gmail.com 结尾的电子邮件地址；换句话说，单一帐户最多拥有 4 个电子邮件地址。
+
+举 Android 装置为例，前往myaccount.google.com/google-account-email，系统会要求你登入；接著依序点击【个人资讯】→【电子邮件】→ 在「Google 帐户电子邮件」下方点选【变更 Google 帐户电子邮件】，输入未用于其他 Google 帐户的名称、或先前曾有人使用但已删除的名称，最后按照指示操作即可完成。
+
+而在 iPhone / iPad 或者笔电、桌机上，也能以同样流程更改帐户名称。
+
+Google 提醒在某些情况下，部分 Google 服务和第三方服务（Google 举例智慧住宅或串流音乐等服务）可能采用旧的电子邮件地址，推测届时可能发生无法确认你是原有使用者的状况，导致服务无法正常运作，需要重新设定。Google 也建议你事前备份资料，以防万一。
+
+最后笔者还想提醒，借此机会同时在 Google 帐户设定中，检查如备援电子邮件、安全提示问题或两步骤验证，好好进行安全检查，以保护自己的 Google 帐户。]]></description>
   </item>
   <item>
-    <title>今年全球记忆体市场估飙 3 倍、明年首破 1 兆美元</title>
-    <link>https://technews.tw/2026/06/25/global-memory-market-estimated-triple-this-year-break-1-trillion-next-year-first-time/</link>
-    <guid>https://technews.tw/2026/06/25/global-memory-market-estimated-triple-this-year-break-1-trillion-next-year-first-time/</guid>
-    <pubDate>Thu, 25 Jun 2026 00:10:43 +0000</pubDate>
-    <description><![CDATA[据研调机构指出，随著 AI 基础设施需求攀升，带动今年全球记忆体市场规模预估将飙增逾 3 倍，且预估明年（2027 年）将史上首度冲破 1 兆美元大关。
+    <title>火星想要彻底地球化，工程规模远超人类现有文明程度</title>
+    <link>https://technews.tw/2026/06/25/mars-terraforming-earth-2-0/</link>
+    <guid>https://technews.tw/2026/06/25/mars-terraforming-earth-2-0/</guid>
+    <pubDate>Thu, 25 Jun 2026 04:52:58 +0000</pubDate>
+    <description><![CDATA[理论上火星可以地球化，但 NASA 喷射推进实验室科学家 Slava Turyshev 从质量、温度、氧气、能源四个面向，精确计算火星地球化（terraforming）所需规模──结论是远超人类目前能力范畴，火星短期内不可能变成适合人类大规模居住的 2 号地球。
 
-Counterpoint Research 24日公布调查报告指出，随著AI基础设施需求攀升，预估2026年全球记忆体市场规模将达9,600亿美元，将较2025年（2,300亿美元）飙增逾3倍，且预估2027年市场规模将进一步扩大，将史上首度冲破1兆美元大关，预估达1.4兆美元的规模。
+Slava Turyshev 指出，火星整体环境从当前不可居住到人类可居住，需经历 5 大阶段：
 
-Counterpoint指出，随著厂商对AI基础设施的投资持续扩大，伺服器需求正急速增长。因此，预估2026年伺服器相关产品占记忆体整体营收比重将扩大至56%，远高于2025年的37%。
+难题在第二阶段就已显现。计算表明，火星大气压增加 1 毫巴就得额外添加3.89×10¹⁵ 公斤气体，质量相当于火卫二戴摩斯（Deimos）。
 
-Counterpoint表示，因伺服器用记忆体需求扩大，导致供需吃紧情况更加严重，推升记忆体价格。此种价涨趋势，预估将持续至2027年上半年。
+此外，火星平均需升温 60℃ 才能达到维持稳定液态水温度，Slava Turyshev 评估多种加温方案（注入奈米粒子、释放大量二氧化碳、部署巨型镜面等），发现在火星地表安装镜面集中阳光能量的方法，所需面积高达 7,000 万平方公里，远超人类现有工业能力。
 
-Counterpoint资深分析师Jeongku Choi指出，「记忆体已成为AI基础设施投资的关键要素。随著伺服器需求激增，出现了通用型DRAM每Gb单位价格高于HBM的现象。这暗示著制程更复杂、制造成本更高的HBM价格有可能在2027年进一步上涨。」
+接下来，人类需要可供呼吸的氧气（约 8.2×10¹⁷ 公斤），最直接方法是电解水，换算火星表面每平方公尺需含 6 立方公尺水。这个数字听起来惊人，但火星表面已知可取得的水冰总量足以满足这个需求，或者说所需水量仅占已知易取得的表面水冰约 20%。
 
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+Slava Turyshev 表示，电解水以产生足够氧气的过程需消耗至少 1.2×10²⁵ 焦耳能量，就算将此过程拉长到 1,000 年，功率输出量仍达地球目前全球能源年消耗量 20 倍，Slava Turyshev 明确表示，人类现在没有任何可产生如此庞大能量的技术。
+
+简单来说，我们要认清火星彻底地球化的目标千年内都办不到，但达到第 2、3 阶段尚可行，合理方向应该是专注在火星建造可长期自给自足的高压温室与定居点，而不是期待几百年内就能看见「蓝色火星」。]]></description>
   </item>
 </channel>
 </rss>
