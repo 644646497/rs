@@ -4,7 +4,170 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 26 Jun 2026 14:08:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jun 2026 19:30:06 GMT</lastBuildDate>
+  <item>
+    <title>美国宇航局测试用于未来太空加油任务的新型加油装置</title>
+    <link>https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/cryogenic-fluid-management-cfm/nasa-tests-new-refuel-device-for-future-in-space-refueling-missions/</guid>
+    <pubDate>Fri, 26 Jun 2026 18:44:07 +0000</pubDate>
+    <description><![CDATA[要观看此视频，请启用 JavaScript，并考虑升级到支持 HTML5 视频的网络浏览器
+
+对于美国宇航局的下一代深空探索任务，航天器可能需要在地球轨道上补充燃料，然后再进一步推进太阳系。类似于气泵需要喷嘴来安装燃料箱，未来的航天器可能需要一种特殊的装置才能在出发前加注，称为低温耦合器。
+
+低温耦合器将使航天器能够连接到未来的轨道推进剂库，该库将充当太空加油站。该技术面临着可靠传输低温或超冷流体而不损失推进剂或性能的挑战。液氢和液氧等低温推进剂必须保持在零华氏度以下数百度的温度，这对移动它们的材料、密封件和机制提出了严格的要求。
+
+位于阿拉巴马州亨茨维尔的 NASA 马歇尔太空飞行中心低温耦合器项目经理特拉维斯·贝尔彻 (Travis Belcher) 表示：“两个航天器之间的在轨低温加油尚未完成，这仍然是航天中最艰巨的工程挑战之一。” “这些推进剂传输对于 NASA 未来想要执行的任务至关重要，因此开发一种能够处理超冷推进剂的耦合器是实现这种能力的关键一步。”
+
+地面耦合器（例如用于填充阿耳忒弥斯任务的 SLS（太空发射系统）的耦合器）不适用于轨道推进剂传输。这些耦合器在火箭发射时会快速释放，并且必须在下次飞行时手动重新连接。它们也不是为在恶劣的太空环境中运行而设计的，而且比用于补充轨道航天器燃料箱的燃料大得多。
+
+为了应对这些挑战，NASA 测试了 L3Harris 开发的低温耦合器。
+
+“我们正在研究的低温耦合器可以多次连接和分离，并且是完全自动化的，因此宇航员不必进行太空行走来转移推进剂，”贝尔彻说。 “它们经过严格设计，可以承受预期的储罐设计所需的空间和尺寸。”
+
+NASA 和 L3Harris 联合团队最近在 NASA 马歇尔进行了两种类型的测试。为了确保低温耦合器能够应对其所面临的极冷温度，他们通过多个连接和断开配置运行 -321 华氏度的液氮，以观察耦合器对热收缩、流动以及推进剂和材料之间的显着温差的反应。
+
+该团队还对低温耦合器进行了操作测试，以确定其性能极限。在此设置中，耦合器的一半安装在可以沿任何方向移动和旋转的机器人工作台上，使其能够模拟与另一半未对准的对接，另一半在工作台上方保持静止。低温耦合器的设计可以适应一些未对准的情况，以防航天器和基地在对接时未完全对准。
+
+“这些低温耦合器处于开发早期，因此测试主要集中在基本功能上，”贝尔彻说。 “未来的测试活动将为特定任务设计它们，并根据该任务的要求更仔细地评估它们。”
+
+低温耦合器测试是作为 2022 年合作机会公告的一部分进行的，NASA 中心在该合作伙伴关系中为精选公司免费提供专业知识、设施、硬件和软件。
+
+低温流体管理组合项目是一个位于美国宇航局马歇尔和美国宇航局克利夫兰格伦研究中心的跨机构团队，负责监督低温耦合器的开发。
+
+要了解有关低温流体管理的更多信息，请访问：]]></description>
+  </item>
+  <item>
+    <title>NASA 合作伙伴为 6 月启动 Swift Boost 任务做好准备</title>
+    <link>https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</link>
+    <guid>https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/</guid>
+    <pubDate>Fri, 26 Jun 2026 17:16:22 +0000</pubDate>
+    <description><![CDATA[A mission to raise the orbit of NASA’s Neil Gehrels Swift Observatory is poised for launch no earlier than Tuesday, June 30, 6:23 a.m. EDT (10:23 p.m. UTC+12), from Kwajalein Atoll, part of the Republic of the Marshall Islands in the South Pacific Ocean.
+
+A robotic servicing satellite called LINK, built by Katalyst Space, will blast into orbit on aNorthrop Grumman Pegasus XL rocket. LINK will rendezvous with, grapple, and slowly raise Swift’s altitude over several months, preventing it from re-entering Earth’s atmosphere later this year.
+
+“Swift is NASA’s multitool when it comes to studying the cosmos,” said S. Bradley Cenko, principal investigator,Swift,NASA’s Goddard Space Flight Centerin Greenbelt, Maryland. “It observes the sky using a wide range of light and rapidly points at short-lived outbursts, alerting other facilities in space and on the ground to help coordinate follow-up observations. For the last two decades, Swift has been a key player in NASA’s efforts to understand how the universe works, and we’re looking forward to getting back to that work after the boost is complete.”
+
+Our planet’s atmosphere creates drag on all spacecraft in low Earth orbit, gradually reducing their altitudes if they don’t have propulsion systems to counteract the effect.
+
+Arecent boutof increased solar activity magnified this impact on Swift, whichlaunchedin November 2004.
+
+Rather than allowing Swift to re-enter the atmosphere as many missions do, NASA is using the opportunity to advance the U.S. commercial satellite servicing industry.
+
+In September, the agencycontractedKatalyst to attempt to boost the observatory. The company would have less than one year to design, build, test, and launch a satellite to meet, grab, and lift Swift to nearly its original orbit.
+
+"Swift wasn't designed to be serviced," said Ghonhee Lee, CEO of Katalyst. "By demonstrating we can quickly and cost-effectively extend its lifetime, we're creating a blueprint for servicing spacecraft that were never designed for on-orbit maintenance. If we're going to build an enduring presence beyond Earth, we need the capability to manipulate our environment in space. That means deploying robotic spacecraft that can reposition, repair, refuel, and refit satellites after launch.”
+
+The LINK spacecraft weighs about 880 pounds and stands about 5 feet tall, about a third of Swift’s overall size. Nearly 20 feet of solar panels will power three ion thrusters and a trio of robotic arms.
+
+LINK completedenvironmental testingthat mimicked launch and space-like conditions at NASA Goddard this spring, as well as additional preflight assessments at Katalyst’s facility in Broomfield, Colorado.
+
+For the boost to have its best chance of success, Swift needs to stay above an altitude of about 185 miles.
+
+By the end of last year, however,orbital predictionsgenerated by NASA showed the observatory reaching that threshold as early as July.
+
+To slow Swift’s descent, theoperations teamat Penn State’s Eberly College of Science altered how they managed and oriented the spacecraft.
+
+Unlike during normal operating procedures, where Swift looks at spots on the sky that are scientifically interesting, the team now selects targets that steer Swift into the most streamlined position. They also reduced power consumption as much as possible to place the satellite’s large solar panels in a more aerodynamic orientation.
+
+Recent orbital predictions show these changes will keep Swift above critical altitude until this fall.
+
+The satellite will launch aboard the Pegasus XL.
+
+“We can deploy Pegasus from almost anywhere in the world using ourStargazer, a modified L-1011 aircraft,” said Wes Collier, vice president of launch systems at Northrop Grumman. “That combination of flexibility and responsive access to space will help LINK quickly reach Swift, giving the teams time to complete the boost.”
+
+Earlier this month, engineers loaded LINK into the Pegasus XL and attached the rocket to Stargazer atNASA’s Wallops Flight Facilityin Virginia. The aircraft and its payloaddepartedfor Kwajalein Atoll on Thursday, June 18, where it now awaits launch.
+
+Once in orbit, LINK will undergo several weeks of commissioning as Katalyst evaluates the spacecraft’s propulsion, navigation, and sensor systems. It then will slowly approach and survey Swift before grabbing the observatory with its robotic arms and slowly raising the orbit to nearly 370 miles.
+
+“This is a high-risk, high-reward mission,” said Shawn Domagal-Goldman, division director, Astrophysics,NASA Headquartersin Washington. “Swift plays a notable role in our fleet. We have much to gain by attempting this boost, which is more affordable than trying to replace Swift’s capabilities and allows NASA to advance the nation’s satellite servicing industry, for the benefit of all.”
+
+https://science.nasa.gov/mission/swift/swift-boost-mission/
+
+ByJeanette KazmierczakGoddard Space Flight Center, Greenbelt, Md.
+
+Media contacts:Alise FisherHeadquarters, Washington20]]></description>
+  </item>
+  <item>
+    <title>NASA 确定了 40 多项空间技术进行合作</title>
+    <link>https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-identifies-more-than-40-space-technologies-for-collaboration/</guid>
+    <pubDate>Fri, 26 Jun 2026 15:37:58 +0000</pubDate>
+    <description><![CDATA[NASA 从 37 家公司中选出了 41 项提案，以推进技术发展，以支持该机构的目标，即在月球上建立长期存在并实现人类探索火星。
+
+这些美国公司是从 NASA 2025 年合作机会公告 (ACO) 中挑选出来的，它们将成熟技术，为太空运输、行星表面操作和月球表面基础设施创建解决方案。
+
+美国宇航局华盛顿总部研究与技术任务理事会高级研究与技术部主任格雷格·斯托弗表示：“我们正在帮助美国工业界成为美国宇航局月球、火星及其他太空任务的积极合作伙伴。” “通过利用商业产业，美国宇航局可以快速发展关键能力来支持其最雄心勃勃的任务，同时培育国家强劲的太空经济。”
+
+NASA 的 ACO 在机构和行业之间建立了互惠互利的合作伙伴关系，而无需进行资金交换。通过这个机会，公司可以利用 NASA 的专业设施、软件、硬件和主题专家，使他们能够快速成熟其技术，以适应商业市场和未来的政府任务。
+
+自 2015 年启动第一个 ACO 以来，NASA 已支持了 110 多个项目。支持这些协议的机构资源总价值约为 3000 万美元，其中还利用了 3200 万美元的行业捐款。每份协议的履行期限将协商确定，预计期限为12至24个月。
+
+行业提案者的任务是响应机构技术主题，这些主题将受益于公私伙伴关系的快速发展，包括太空运输发动机元件、制导和导航系统、着陆系统、空间服务组装和制造以及能源管理技术。
+
+完整的选择列表可以在该机构的网站上找到，并且涵盖跨领域功能，包括：
+
+洛克希德·马丁公司将成熟一种模块化、紧凑的能源解决方案，可以支持月球永久阴影区域的持续发电，帮助未来的船员和资源度过漫长的月夜。该公司的无线功率传输系统旨在利用光纤激光器和天基排热系统来推进功率束技术，以提高耐用性。
+
+为了加强轨道任务，Kall Morris Inc. 将开发 Asteria，一种补充有效载荷附件系统。 Asteria 可以使用非破坏性控释粘合剂附着到传统、当前和下一代轨道资产上，无需预先安装基础设施。该技术可实现先进的机动、改进的物体跟踪、资产保护、数据收集和卫星寿命延长。
+
+Moonprint Solutions 是一家小型企业，提出了灵活的隔离盖，以保护关键硬件和系统免受恶劣月球环境中磨料粉尘的影响。柔性外壳可以为各种硬件提供符合复杂形状的保护，从而提供战略优势。这些耐用的盖子可用于漫游车、机器人关节、软管和其他铰接设备，以支持在月球和火星上的长期运行。
+
+选定的项目可能会对商业航天领域产生重大影响，例如扩大现有市场或开辟新市场、降低价格、增加选择或提供全新的功能。
+
+有兴趣与 NASA 一起开发空间技术的组织可以在线探索机会。
+
+有关 NASA 太空技术投资的更多信息，请访问：
+
+Jennifer Dooren / Rob Margetta华盛顿总部202-358-1600jennifer.m.dooren@nasa.gov/robert.j.margetta@nasa.gov]]></description>
+  </item>
+  <item>
+    <title>欧几里得看到银河系的心脏</title>
+    <link>https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/</link>
+    <guid>https://www.nasa.gov/image-article/euclid-sees-heart-of-milky-way/</guid>
+    <pubDate>Fri, 26 Jun 2026 15:21:18 +0000</pubDate>
+    <description><![CDATA[欧洲航天局 (ESA) 的欧几里得任务 (Euclid) 与 NASA 共同参与，对银河系的中心进行了新的观察，如 2026 年 6 月 24 日发布的这张图像所示。这次观测与科学家将用 NASA 的南希·格雷斯·罗马太空望远镜观测的区域重叠，该望远镜将于今年夏天晚些时候发射。这一先睹为快为天文学家的罗马核心调查提供了一个重大的启动机会，帮助科学家们比单独使用任何一台望远镜都能了解更多的信息。
+
+阅读更多关于欧几里得和罗曼将看到的事情。
+
+图片来源：ESA/Euclid/Euclid Consortium/NASA、CFHT，图像处理由 J.-C. Cuillandre 和 E. Bertin（CEA 巴黎萨克雷）]]></description>
+  </item>
+  <item>
+    <title>向 NASA 传送信号</title>
+    <link>https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/kennedy/bringing-signals-to-nasa/</guid>
+    <pubDate>Fri, 26 Jun 2026 14:28:57 +0000</pubDate>
+    <description><![CDATA[Growing up on the central California coast, watching rocket launches with his father was part of Eric Fernandez’s childhood routine. Fernandez had posters of rockets on the wall, but despite being fascinated by them, he never imagined one day this would be his career. Because both of his grandparents had served at Vandenberg Air Force Base (later renamed to Vandenberg Space Force Base), he assumed that the launches from there were for the military. NASA didn’t cross his mind. The space agency seemed very far away from a place like Orcutt, California, a small town situated among rolling hills covered with farms and vineyards.
+
+Fernandez had been part of a painting crew for several years after high school. While it paid the rent, it wasn’t what he wanted to do with his life. However, he found something he enjoyed. He had started at his future father-in-law’s appliance store, working as a technician, repairing and installing appliances. He excelled at the work and planned to stay there with the goal to eventually run the small business.
+
+It was from a friend about an opening for something called telemetry. Fernandez wasn’t sure what that meant. He was happy with his current career path. He nearly declined the offer, but after some persuading, he decided to go for the interview at a NASA building on the military base.
+
+“I walked in the telemetry lab, and I see oscilloscopes, screens with squiggly lines, lots of blinking lights, and things I didn’t know about at the time,” Fernandez recounted. “I was very curious about it, so I was asking a million questions as we toured the lab, and they were asking about me. They really liked my background, especially my electronics experience, my troubleshooting skills, and my ability to solder.”
+
+He received an offer for a technician position from a company that provided support to NASA under the Expendable Launch Vehicle Integrated Support, or ELVIS, contract. Fernandez had to make an important decision about his future.
+
+“I prayed about it and met with my father-in-law,” said Fernandez. “I decided to change career paths and start a new career as a contractor working with NASA, supporting its Launch Services Program.”
+
+That was 17 years ago, and he has been working there ever since, advancing to telemetry engineer in 2019. He has contributed to 27 launches for NASA, supporting scientific and robotic exploration missions. He’s also supported hundreds of launches for the U.S. military and commercial sector, as part of the agency’s efforts to work with its partners to understand the capabilities of the commercial rocket fleet.
+
+While Fernandez wasn’t planning on making additional changes, a new opportunity presented itself earlier this year. The agency decided to strengthen its core capabilities by bringing mission-critical positions into the civil service.
+
+When he had the opportunity to join the civil service at NASA, Fernandez applied. On June 15, he swore in at Vandenberg bringing his knowledge and experience to the agency, ready to become an official part of a group he already considered family.
+
+“Telemetry is the collection of remote measurements that let us know the rocket is healthy when it’s fueling on the pad, when it’s in flight, and when it’s placing a spacecraft into the proper orbit,” said Fernandez. “It’s our job to make sure decision makers have all the right data to make the right calls in real time. We can’t afford to give them bad data.”
+
+Fernandez’s team has multiple ways of getting the data when a rocket is on the launch pad, including ground data streams and radio frequencies link. Each data path is carefully tested beforehand using tools like bit-error-rate tests, called BERTs, that send pseudo-random patterns to help determine the health of the networks. Once the data is received, the team verifies it using frame sync patterns and word counters, sequenced data embedded in the stream. During ascent, they rely on ground tracking stations and dedicated satellites to relay data. All of it is recorded for posterity and post-flight review. The entire process requires extensive planning, coordination, and constant learning as the industry continues to innovate.
+
+“You’re going to be humbled because the technology is always moving forward, and a new challenge is going to arise,” Fernandez said. “But there’s nothing we haven’t conquered, and there’s not a problem we haven’t figured out yet.”
+
+He credits his teammates. He described his team as “iron sharpening iron.”
+
+Today, Fernandez still lives in Orcutt, seven houses down from where he grew up. His children go to the same schools and play in the same parks he did. He still watches rocket launches, but now he does it with his children when he’s not supporting a launch for the agency.
+
+While he spends his days at work looking ahead to the future, as part of a team that explores the Moon, Mars, and beyond, he hasn’t forgotten where he came from.
+
+“I just wish I could go back and tell little boy Eric, you’re going ]]></description>
+  </item>
   <item>
     <title>NASA 的 PACE 任务研究烟雾和火灾</title>
     <link>https://science.nasa.gov/earth/nasas-pace-mission-studies-smoke-fires/</link>
@@ -127,7 +290,7 @@ Crew members completed three spacewalks, installing hardware that supports futur
 
 The ceremony also recognized the workforce whose dedication supported every aspect of Expedition 73, from mission planning and operations to research, training, and crew safety.
 
-“You learned each other’s languages, and often, when we didn’t know the right answers, you partnered with us, and you would come up with the answers and help,” said International Space Station Program Deputy Manager Dina Contella. “You really helped make us successful.”
+“You learned each other’s languages, and often, when we didn’t know the right answers, you partnered with us, and you would come up with the answers and help,” said International Space Station Deputy Manager Dina Contella. “You really helped make us successful.”
 
 She noted that collaboration extended well beyond the crew in orbit, with teams across the program matching that dedication throughout the expedition.
 
@@ -153,7 +316,7 @@ Many crew members said their strongest memories centered on the people around th
 
 Viewing Earth from orbit provided the crew with a powerful reminder of humanity’s shared connection.
 
-“When you look back at Earth, what we have in common is so much more important than what makes us different,” said McClain. “We’re all on this one planet. We’re all on t]]></description>
+“When you look back at Earth, what we have in common is so much more important than what makes us different,” said McClain. “We’re all on this one planet. We’re all on the same ]]></description>
   </item>
   <item>
     <title>NASA 与美国小企业管理局宣布建立合作伙伴关系</title>
@@ -169,121 +332,6 @@ Viewing Earth from orbit provided the crew with a powerful reminder of humanit
 有关 NASA 任务的更多信息，请访问：
 
 卡米尔·加洛 / 谢丽尔·华纳总部，华盛顿202-358-1600camille.m.gallo@nasa.gov/cheryl.m.warner@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>美国宇航局欢迎博茨瓦纳成为第 68 个阿尔忒弥斯协议签署国</title>
-    <link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/</link>
-    <guid>https://www.nasa.gov/organizations/oiir/nasa-welcomes-botswana-as-68th-artemis-accords-signatory/</guid>
-    <pubDate>Thu, 25 Jun 2026 21:09:42 +0000</pubDate>
-    <description><![CDATA[周四，博茨瓦纳共和国在美国宇航局在华盛顿总部主办的仪式上签署了《阿耳忒弥斯协议》，成为加入致力于和平、透明和负责任的太空探索的第六个非洲国家。
-
-“我很荣幸地欢迎博茨瓦纳成为《阿耳忒弥斯协议》的最新签署国，”美国宇航局副局长马特·安德森说。 “今天是我们国际合作伙伴关系和阿尔忒弥斯社区持续发展的一个重要里程碑。博茨瓦纳在一个重要时刻加入。本月初，我们宣布了阿尔忒弥斯三号的船员，就在我们说话的时候，他们的飞船正在组装，准备在人类最伟大的冒险中发挥自己的作用。”
-
-博茨瓦纳通信与创新部部长戴维·采雷（David Tshere）代表博茨瓦纳签署。美国国务院太空高级顾问格雷戈里·奥特里和博茨瓦纳共和国驻美国代理大使马贝迪·恩格文亚也参加了仪式。
-
-采尔表示：“与许多国家一样，博茨瓦纳对太空探索感兴趣，我们发现成为《阿耳忒弥斯协议》的签署国非常重要，以促进安全、透明和可持续的民用太空探索，并推进国际合作和负责任的太空活动的共享框架。”
-
-这一新篇章建立在博茨瓦纳与美国在天基地球观测方面长期合作的历史基础上。 20 世纪 70 年代初，博茨瓦纳参与了后来被称为 Landsat 的卫星计划，与其他数十个国家一起开创了卫星环境观测的先河。博茨瓦纳于 2025 年 3 月搭载 SpaceX Falcon 9 发射了第一颗地球观测卫星博茨瓦纳卫星 1 号，标志着另一个里程碑。
-
-2020 年，在特朗普第一届政府执政期间，美国在 NASA 和国务院的领导下，与其他七个创始国共同制定了《阿耳忒弥斯协议》，以回应政府和私营公司对月球活动日益增长的兴趣。 《阿耳忒弥斯协议》引入了第一套实用原则，旨在加强志同道合的国家在探索月球、火星及其他地方时的安全和协调。
-
-签署《阿尔忒弥斯协议》意味着致力于和平、透明地探索，向有需要的人提供援助，获得全人类都可以学习的科学数据，确保活动不干扰他人的活动，并通过为所有人的利益制定太空探索最佳实践来保护具有历史意义的遗址和文物。
-
-随着美国宇航局继续努力在太空建立安全、和平和繁荣的未来，预计未来数月乃至数年将有更多国家签署《阿耳忒弥斯协议》。]]></description>
-  </item>
-  <item>
-    <title>美国宇航局选择火箭实验室发射太阳、地球科学任务</title>
-    <link>https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/</link>
-    <guid>https://www.nasa.gov/missions/tsis-2/nasa-selects-rocket-lab-to-launch-sun-earth-science-missions/</guid>
-    <pubDate>Thu, 25 Jun 2026 20:06:40 +0000</pubDate>
-    <description><![CDATA[NASA 已选择 Rocket Lab 为其 PolSIR（偏振亚毫米冰云辐射计）和总及光谱太阳辐照度传感器 2 (TSIS-2) 任务提供发射服务。
-
-这两项选择是 NASA 风险级采购专用和共享出行 (VADR) 发射服务合同的一部分。该合同允许该机构在 VADR 的 10 年订购期内授予固定价格、无限期交付/无限数量的发射服务任务订单，合同总价值最高可达 3 亿美元。
-
-PoISIR 任务将有助于更好地了解热带和亚热带地区高海拔地区形成的冰云。 Rocket Lab 将于 2027 年 6 月之前通过其两枚专用 Electron 火箭从新西兰马希亚的 1 号发射场发射 PolSIR。
-
-PoISIR 的两颗 16U 立方体卫星均由两颗小卫星组成，均配有科学仪器，旨在测量特定的电磁辐射频谱，这将确定热带云中的冰量在白天如何上升和下降，以及冰的变化如何与更大的风暴联系起来。这些仪器还将有助于确定冰云如何影响全天的阳光和热辐射。这两颗立方体卫星将在相隔几个小时的轨道上飞行，以观察一天内云冰含量变化的模式。这些信息将帮助研究人员做出更准确的天气预报。
-
-PolSIR 任务的主要研究者是纳什维尔的范德比尔特大学。科学操作将由威斯康星大学麦迪逊分校的空间科学与工程中心进行。这两艘航天器由蓝峡谷技术公司建造。
-
-TSIS-2 任务将测量太阳输入地球的能量。该航天器将为了解地球的洋流、季节和天气提供关键数据。该任务将通过提供只能从太空收集的见解来继续美国宇航局研究和保护我们的家园星球的工作。火箭实验室将于 2027 年初利用电子火箭从马希亚 1 号发射场发射 TSIS-2。
-
-该卫星测量地球的太阳能输入，包括总辐照度（太阳在地球大气层顶部的整体亮度）和光谱辐照度（即能量在紫外线、可见光和红外线波长上的分布情况）。该卫星的两个仪器，即总辐照度监测仪和光谱辐照度监测仪，与 TSIS-1 所使用的仪器类似。它们共同覆盖了包含太阳光谱中 96% 能量的波长范围。 TSIS-1 在国际空间站工作，而 TSIS-2 将在自由飞行的航天器上工作。
-
-TSIS-2 由美国宇航局位于马里兰州格林贝尔特的戈达德太空飞行中心管理，包括由科罗拉多大学博尔德分校大气和空间物理实验室提供的仪器，航天器由通用原子公司电磁系统公司提供。
-
-NASA 的发射服务计划位于佛罗里达州肯尼迪航天中心，负责管理 VADR 合同。
-
-https://www.nasa.gov/vadr-venture-class-acquisition-of-dedicated-and-rideshare-launch-services]]></description>
-  </item>
-  <item>
-    <title>雪茄星系中有数百万颗星星</title>
-    <link>https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/</link>
-    <guid>https://www.nasa.gov/image-article/millions-of-stars-in-cigar-galaxy/</guid>
-    <pubDate>Thu, 25 Jun 2026 16:24:23 +0000</pubDate>
-    <description><![CDATA[美国宇航局的詹姆斯·韦伯太空望远镜最近观测到边缘星暴星系梅西耶 82 (M82)，绰号“雪茄星系”。韦伯对 M82 的新观察，添加到 NASA 哈勃太空望远镜的档案数据中，让我们对这个星暴星系有了更完整的了解。由于韦伯望远镜可以看到红外光，因此它能够透过尘埃和气体云看到这个边缘星系的形状，以及大约 1650 万颗恒星。
-
-M82 的快速恒星形成被认为是其与另一个星系合并的结果，但这只会是其历史上的一个（相对）短暂的时期。具有讽刺意味的是，极端的恒星形成正在导致星系盘上方和下方喷射出羽状物质——这将扰乱未来恒星的诞生。
-
-图片来源：NASA、ESA、CSA、Adam Smercina（STScI、塔夫茨大学）、Thomas Williams（曼彻斯特大学）；图像处理：Alyssa Pagan (STScI)]]></description>
-  </item>
-  <item>
-    <title>黑海的绿松石色</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/a-turquoise-tint-for-the-black-sea/</guid>
-    <pubDate>Thu, 25 Jun 2026 04:00:00 +0000</pubDate>
-    <description><![CDATA[2026 年春夏，浮游植物为黑海及附近水道的海水增添了乳蓝色调。
-
-黑海位于欧洲和亚洲之间的边界，通过一系列水道与地中海相连。它的表面通常呈黑色，但每年春天和夏天，它都会变成一片引人注目的旋转绿松石色。美国宇航局 PACE（浮游生物、气溶胶、云、海洋生态系统）卫星上的 OCI（海洋颜色仪器）于 2026 年 6 月 22 日拍摄到了这张彩色水域的图像（上图）。
-
-绿松石色很可能是由球石藻造成的，球石藻是一种覆盖着碳酸钙板的浮游植物，可以使地表水呈现出乳蓝色的外观。这些类型的浮游植物往往在春末和初夏占主导地位。一年中的其他时间，硅藻（一种具有二氧化硅外壳的微型藻类）会变得更加普遍，它们往往会使水变暗而不是变亮。
-
-博斯普鲁斯海峡是一条穿过伊斯坦布尔、连接黑海和马尔马拉海的狭窄海峡，也变成了绿松石色。国际空间站上的一名宇航员于 2026 年 5 月 27 日（下图）拍摄了该海峡，大约在 PACE 图像发布前一个月，在追踪水道两侧的水流时捕捉到了繁盛的浮游植物。 （请注意，北方向朝向框架的底部。）
-
-尽管颗石藻是微小的，但它们在开花期间变得如此丰富，以至于从太空中都可以看到它们。这使得遥感成为研究人员在直接采样有限的地区研究水华动态的有用工具。除了可见度之外，这些水华还有助于海洋的碳循环。当它们死亡时，它们吸收的一些碳会沉入海底，在那里可以长期储存。
-
-NASA 地球观测站图像，由 Michala Garrison 拍摄，使用来自 NASA EOSDIS LANCE 和 GIBS/Worldview 以及 NASA 海洋生物学分布式主动档案中心 OB.DAAC 的 PACE 数据。宇航员照片ISS074-E-619520于2026年5月27日获取，使用焦距为50毫米的尼康Z9数码相机。它由国际空间站机组人员地球观测设施和美国宇航局约翰逊航天中心的地球科学与遥感部门提供。这张照片是由 Expedition 74 船员拍摄的。图像经过裁剪和增强以提高对比度，并且镜头伪影已被消除。国际空间站计划支持该实验室作为国际空间站国家实验室的一部分，帮助宇航员拍摄对科学家和公众最有价值的地球照片，并将这些图像在互联网上免费提供。宇航员拍摄的其他图像可以在 NASA/JSCGateway to Astronaut Photography of Earth 上查看。凯瑟琳·汉森的故事。
-
-当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
-
-国际空间站上的一名宇航员惊讶地拍摄到一道划过黑暗的光雨……
-
-特拉华州、新泽西州、马里兰州和弗吉尼亚州近海的浅水区正在酝酿着一些变化。
-
-一位宇航员在前往月球途中拍摄的照片，在小说中揭示了我们的星球及其在太空中的位置……
-
-订阅地球观测站并将地球放入您的收件箱中。
-
-美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
-
-开放访问 NASA 的地球科学数据档案]]></description>
-  </item>
-  <item>
-    <title>NASA 的 TESS 任务揭示了迄今为止发现的“最膨胀”的行星</title>
-    <link>https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/</link>
-    <guid>https://science.nasa.gov/missions/tess/nasas-tess-mission-reveals-the-puffiest-planets-ever-found/</guid>
-    <pubDate>Thu, 25 Jun 2026 01:04:16 +0000</pubDate>
-    <description><![CDATA[美国宇航局 TESS（凌日系外行星勘测卫星）任务的数据揭示了两颗新的“超级膨胀”行星，它们是巨大的世界，重量轻到其密度与棉花糖相当。科学家计算出，这些木星大小的行星（被命名为 TOI-791 b 和 TOI-791 c）是迄今为止发现的“最膨胀”的世界。
-
-这些行星围绕一颗名为 TOI-791 的类太阳恒星运行，该恒星距离地球约 1,113 光年。 TESS 任务首先通过观察 TOI-791 亮度的反复下降来探测行星，这是行星正在凌日或从恒星前面经过的明显迹象。进一步的研究揭示了两颗具有不寻常特征的大行星。
-
-TOI-791 b 的大小几乎与木星相同，但质量仅为木星的 3.0%。 TOI-791 c 甚至比木星还要大，但质量仅为木星的 5.9%。
-
-“这些行星研究起来有趣的主要原因是我们根本没想到会看到它们，”加州硅谷 NASA 艾姆斯研究中心科学处理运营中心的科学负责人乔恩·詹金斯 (Jon Jenkins) 说，该中心提供了本研究中分析的来自 TESS 的科学数据。 “它们代表了我们需要解决的一个难题，即像木星和超级膨胀这样的巨型行星是如何形成的。”
-
-新发现的超级膨胀团还具有异常长的轨道，TOI-791 b 需要 139 天，TOI-791 c 需要 232 天才能环绕主星运行。这种长轨道行星很少见，需要长时间的望远镜观测才能捕捉和确认它们的属性。从高地球轨道的有利位置，TESS 在七年的时间里收集了这个行星系统 1,122 天的数据，为研究团队提供了有关该行星系统的丰富数据。
-
-进一步的分析发现，TOI-791 b 和 TOI-791 c 被锁定在一个轨道模式中，使它们能够通过引力相互拉扯。当它们绕主恒星运行时，行星交替相互拉动，影响它们穿越主恒星的时间。科学家利用轨道时间的变化来计算行星的质量，巩固了它们作为低密度超级膨胀行星的地位。
-
-英国牛津大学物理系的主要作者乔治·德兰斯菲尔德（George Dransfield）说：“这些超级膨胀的行星中只有少数是已知的，在同一个系统中发现两颗行星就更罕见了。” “它们极低的密度使它们成为了解行星系统如何形成和演化的迷人目标。”
-
-通过进一步的研究，超级泡芙可能会告诉我们更多关于行星演化的信息。
-
-参与这项研究的 NASA 艾姆斯研究科学家史蒂夫·豪威尔 (S​​teve Howell) 表示：“大型行星的形成被认为会推动行星系统的演化，因此对这些木星大小但质量远小于木星的行星进行进一步研究具有很高的价值。”
-
-科学家希望更多地了解行星大气层的化学组成、它们的自转如何影响它们的形状，以及它们的主恒星的倾斜度与轨道的比较。更深入的研究可以为 TOI-791 b 和 TOI-791 c 在其发展过程中如何在行星系统中迁移、它们的轨道是否是通过与其他行星的相互作用而形成的、以及低密度超级膨胀行星如何形成提供新的见解。
-
-这项研究今天发表在《皇家天文学会月刊》上，由牛津大学领导，与蔚蓝海岸大学/蔚蓝海岸天文台和伯明翰大学合作。]]></description>
   </item>
 </channel>
 </rss>
