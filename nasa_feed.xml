@@ -4,7 +4,50 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 01 Jul 2026 09:33:11 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 01 Jul 2026 14:15:23 GMT</lastBuildDate>
+  <item>
+    <title>NASA 的 TESS 任务以新方式寻找行星系统</title>
+    <link>https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/</link>
+    <guid>https://science.nasa.gov/missions/tess/nasas-tess-mission-finds-planetary-system-in-new-way/</guid>
+    <pubDate>Wed, 01 Jul 2026 12:43:34 +0000</pubDate>
+    <description><![CDATA[For the first time, NASA’s TESS (Transiting Exoplanet Survey Satellite) mission has identified a planet orbiting a distant star thanks to ripples in space-time. Unlike the star-hugging transiting planets TESS regularly reveals, the newfound world is a super-Jupiter orbiting far from its host star.
+
+“When TESS launched, no one expected it to ever be capable of finding this kind of planet,” said Diana Dragomir, a professor at the University of New Mexico in Albuquerque and co-author of a paper describing the results. At 1.6 times Jupiter’s mass and a similar orbital distance, it would be extremely unlikely to find such a planet via the primary detection method TESS was designed for. “The discovery implies that there are probably other so-called microlensing planets hiding in TESS’s data that we hadn’t previously thought to look for.”
+
+Astronomers found the first hint of the planet, called Gaia23bra b, in 2023 using ESA's (European Space Agency) now-retired Gaia space telescope. Gaia’s alert system flagged a star that brightened — something that can happen when a foreground star passes in front of a more distant one and magnifies its light through gravitational microlensing.
+
+Researchers later looked back through archived TESS data and found TESS had caught it too.
+
+“Gaia’s observations were too sparse to pick up on the planet,” said Mallory Harris, a Ph.D. candidate at the University of New Mexico, who led the study. “The TESS spacecraft happened to be monitoring the same area of the sky during the event, and its denser time coverage showed extra features in the light curve caused by a planet.”
+
+The team’s analysis, published July 1 inThe Astrophysical Journal Letters, revealed that Gaia23bra b, which orbits an orange dwarf star that’s about 80 percent of the Sun’s mass, is nearly 40,000 light-years away from Earth, far exceeding TESS’s usual search radius of about 150 light-years.
+
+Out of more than6,000 known exoplanets(worlds outside our solar system), about three-fourths were discovered via the transit method, TESS’s typical planet-hunting technique. Astronomers monitor hordes of stars, watching for ones that periodically dim as orbiting planets cross in front of them — an event called a transit.
+
+Microlensing has revealed less than 5% of known exoplanets. This light-bending phenomenon occurs when two stars align closely from our vantage point. Light from the more distant star curves as it travels through the warped space-time caused by the nearer star’s mass.
+
+If the alignment is especially close, the nearer star acts like a cosmic lens, focusing and magnifying light from the background star. Planets orbiting the foreground star may also modify the distant star’s light, acting as their own tiny lenses. Astronomers see the effect as a spike in the star’s brightness.
+
+The transit method is best at finding large planets orbiting very close to their host stars; large planets block the most starlight, while close-in planets are more likely to pass in front of the host star. These gargantuan, steamy worlds are fascinating to scientists, but astronomers want to find planets like those in our solar system, too. That’s microlensing’s specialty.
+
+Ph.D. candidate at the University of New Mexico
+
+Microlensing isn’t well suited to finding huge, close-in planets because their gravitational signals would just blur together.
+
+“Transits and microlensing are complementary because they each reveal a category of planet the other may not be able to detect,” Dragomir said. “And they offer different details. Transits give us the size of a planet, and in concert with other methods we can determine its mass and density. Microlensing gives us masses and orbital distances for planets we’d otherwise never see.”
+
+But microlensing observations are time-limited opportunities.
+
+Ph.D. candidate at the University of New Mexico
+
+That makes detailed observations of microlensing planets tough. However, the method can serve as a powerful demographics tool that offers broad information about planetary populations.
+
+“This is a bit like a preview of the microlensing NASA’sNancy Grace Roman Space Telescopewill do,” said Michael Fausnaugh, a professor at Texas Tech University in Lubbock and a co-author of the study. On track for launch on August 30, 2026, Roman will observe the center of the Milky Way galaxy forone of its core surveys, revealing an estimated1,000 microlensing planetsand around100,000 transiting planets.
+
+Roman will specifically target the heart of the galaxy because stars are packed so tightly together there, increasing the odds of seeing microlensing events. While that crowding would make many stars blend together in TESS’s larger pixels, TESS looks at nearly the whole sky, where stars are ​more spread out.
+
+“Since TESS looks elsewhere in the galactic plane, it can naturally find microlensing planets in other parts of the galaxy, as demonstrated by this first microlensing planetary system,” Dragomir said. “That means it could hel]]></description>
+  </item>
   <item>
     <title>NASA 钱德拉为美国第 250 周年揭示“红、白、蓝”宇宙</title>
     <link>https://science.nasa.gov/missions/chandra/nasas-chandra-reveals-red-white-blue-universe-for-us-250th/</link>
@@ -245,51 +288,6 @@ SBA 局长 Kelly Loeffler 表示：“为了实现特朗普总统确保美国在
 有关新举措和 NASA 战略资本办公室的详细信息，请访问：
 
 卡米尔·加洛 / 谢丽尔·华纳总部，华盛顿202-358-1600camille.m.gallo@nasa.gov/cheryl.m.warner@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>美国宇航局最新的风洞建立在创新的基础上</title>
-    <link>https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/</link>
-    <guid>https://www.nasa.gov/centers-and-facilities/langley/nasas-newest-wind-tunnel-builds-on-legacy-of-innovation/</guid>
-    <pubDate>Mon, 29 Jun 2026 20:38:23 +0000</pubDate>
-    <description><![CDATA[Public Affairs Officer, NASA Langley Research Center
-
-For more than 100 years, wind tunnels at NASA’s Langley Research Center in Hampton, Virginia, have helped shape the future of flight.
-
-Now, two of NASA’s longest-serving facilities — the 12-Foot Low-Speed Tunnel and the 20-Foot Vertical Spin Tunnel — will pass the torch to the Flight Dynamics Research Facility (FDRF), the first major NASA wind tunnel built in more than 40 years.
-
-“The FDRF has a combination of features found in no other single facility in the world,” said Mike Fremaux, retired chief engineer for the Intelligent Flight Systems division at NASA Langley. “It’s a high-performance vertical wind tunnel with a large test section capable of conducting all manner of tests to assess the dynamics of flight vehicles.”
-
-When the FDRF opens later this year, it will provide enhanced versions of the capabilities offered by the two legacy facilities. The FDRF’s test section will allow researchers to drop models into a rising vertical airflow. This will offer researchers the ability to conduct spin tests of aircraft and free-flight tests of vehicles designed to re-enter Earth’s atmosphere from space.
-
-The FDRF will play an integral role in conducting research that supports NASA’s aeronautics, science, and space exploration missions. Like many NASA facilities, the FDRF’s story is rooted in a history of innovation.
-
-When the 12-Foot Low-Speed Tunnel began operations in 1939, aviation looked very different than it does today.
-
-It was built for NASA’s predecessor agency, the National Advisory Committee for Aeronautics (NACA) to study the controllability of airplanes using free flight. Aircraft models flew unsupported in the wind it generated, instead of being mounted to supports. Multiple operators used rudimentary remote controls to operate the models in the tunnel.
-
-The facility that housed the tunnel boasted a unique design: a 60-foot diameter sphere. The configuration allowed the tunnel to move and adapt to the flight paths of free flying models. “Pilots” could use hydraulic actuators, pivoting the tunnel’s test section to match the models’ movements. The spherical design made it easy for air from the facility’s fan to recirculate through the tunnel, regardless of the pitch angle of the test section.
-
-In 1958, NASA moved the free-flight tests toanother Langley tunnel. The agency deactivated the 12-Foot’s hydraulic actuators, fixing its test section into a horizontal position, and began using it for more conventional testing, looking at how aerodynamic force affected the stability and control of strut-mounted models.
-
-The 12-Foot supported major projects throughout its 86 years of service, from the transition from bi-planes to monoplanes between two world wars, through the development of supersonic aircraft. Revolutionary designs saw testing in the 12-Foot, from the forward-swept-wingX-29and theX-31Enhanced Fighter Maneuverability Demonstrator, to the more recentX-59quiet supersonic research aircraft, and the aeroshell for NASA’sDragonfly, a unique rotorcraft designed to explore Titan, Saturn’s largest moon.
-
-The 12-Foot closed in 2025, but its legacy will be both felt and seen at the FDRF. Six wooden fan blades and the central metal fan hub from the 12-Foot are on display inside the FDRF’s control room.
-
-While the 12-Foot tested new ideas for aircraft and components, the 20-Foot Vertical Spin Tunnel played a critical role in aviation safety.
-
-Opened in 1941, the Vertical Spin Tunnel was designed to study aircraft stall and spin characteristics. Its aim was to prevent deadly accidents in which an aircraft enters an uncontrolled spin. The vertical design allowed models to fall into the rising airflow, simulating how aircraft behave during a spin. Researchers hand-launched models into the tunnel’s vertically rising airstream to evaluate those characteristics.
-
-The tunnel quickly became one of the most important spin-testing facilities in the world. Research supported commercial aviation, parachute design systems, NASA space missions, and the development of nearly every U.S. military aircraft designed since World War II.
-
-Models from many of those tests will be on display in the FDRF’s lobby, a testament to the Vertical Spin Tunnel’s rich history.
-
-“It is great to showcase the legacy of work that started in the NACA days and will continue going forward for decades to come,” Fremaux said.
-
-The FDRF will continue NASA’s commitment to world-class facilities and the unique expertise of the agency’s workforce.
-
-“That’s what kept those other facilities going,” Fremaux said. “Not just the buildings, the fans, and the motors, but also the expertise associated with those facilities. You can’t have one without the other.”
-
-The FDRF will build not only on the history of the 12-Foot tunnel and the Vertical Spin Tunnel, but on their equipment, including many of their major test rigs, instrumentation, and data systems, were repurposed for use in the FDRF, reducing costs an]]></description>
   </item>
 </channel>
 </rss>
