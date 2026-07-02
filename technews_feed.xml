@@ -4,267 +4,271 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Thu, 02 Jul 2026 06:58:23 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 02 Jul 2026 10:26:02 GMT</lastBuildDate>
   <item>
-    <title>OpenAI 传提 5% 股权交美国政府，民众共享 AI 利润</title>
-    <link>https://finance.technews.tw/2026/07/02/openai-proposes-handing-trump-administration-5-percent-stake/</link>
-    <guid>https://finance.technews.tw/2026/07/02/openai-proposes-handing-trump-administration-5-percent-stake/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:54:00 +0000</pubDate>
-    <description><![CDATA[《金融时报》2 日报导，OpenAI 已就 5% 股权交给美国政府的提案进行讨论，不仅与美国民众共享 AI 利润，可能有助于化解政治方面的阻力。
+    <title>日本 LINE 今夏开放绑定 PayPay，未来聊天室可直接转帐</title>
+    <link>https://technews.tw/2026/07/02/line-japan-paypay-linking-summer-direct-money-transfers-chat-rooms/</link>
+    <guid>https://technews.tw/2026/07/02/line-japan-paypay-linking-summer-direct-money-transfers-chat-rooms/</guid>
+    <pubDate>Thu, 02 Jul 2026 10:20:26 +0000</pubDate>
+    <description><![CDATA[日本资讯科技业者 LINE 雅虎与电子支付巨头 PayPay 今天宣布，将于今夏开放 LINE 与 PayPay 帐号绑定。未来用户无需开启 PayPay 应用程式，即可直接在 LINE 聊天室使用 PayPay 转帐。
 
-《金融时报》引述 2 名知情人士消息指出，OpenAI 的执行长奥特曼（Sam Altman）和多名高层曾建议，美国 AI 公司应各自拨出 5% 股权，交由一个类似阿拉斯加永久基金公司（Alaska Permanent Fund Corporation）来持有。阿拉斯加永久基金的财报显示，截至 2026 年 3 月 31 日，基金总价值约为 863 亿美元；基金每年向阿拉斯加州居民发放股息，同时协助该州预算。
+《日本经济新闻》及CNET Japan报导，LINE在日本国内每月活跃用户数（MAU）达1亿，而PayPay注册用户数则有7,400万人。两家公司希望打造「只要有LINE就能使用PayPay」的全新服务体验，同时计划整合LINE Points与PayPay Points，未来可望透过使用LINE服务累积PayPay Points。其他各项功能将在完成整合后陆续推出。
 
-OpenAI 虽建议其他 AI 公司应将类似规模的股权交给政府，但他们是否同意这样的提案，目前还不明朗。
+除了用户的基本资料外，未来双方也将能轻松共享PayPay余额及LINE好友名单等资讯。
 
-奥特曼就这项提案，已与美国总统川普（Donald Trump）、商务部长卢特尼克（Howard Lutnick）、财政部长贝森特（Scott Bessent）讨论，近几周他也与民主党籍参议员桑德斯（Bernie Sanders）谈过此事。
+LINE用户未来将能直接在聊天室画面中完成PayPay的转帐与收款。此外，透过在LINE内运行特定应用程式的MINI App机制，用户也能直接透过LINE查询PayPay余额及交易纪录。LINE MINI App是LINE在2019年推出的一项服务，属于一种轻量化的网页应用程式。
 
-川普上个月曾表示，他希望能让社会大众持有 AI 公司的股权，为此评估各种选项，此举是为回应外界对于美国民众无法享有 AI 产业预期利润的疑虑。
+PayPay的转帐手续也将变得更加便利。PayPay应用程式内将能显示LINE的好友资讯，如此一来，即使不知道对方的电话号码或用户ID，也能轻松找到转帐对象。
 
-OpenAI 曾提议设立一项「公共财富基金」，用于投资 AI 公司并将收益分配给美国民众。Anthropic 则表示，正在评估发放一项「数位股利」是以来自 AI 产业的税收作为财源，发放给美国民众。
+同时，用户也将能直接透过LINE注册PayPay。此举将善用LINE在各年龄层普及的优势，促进对现金依赖度较高的高龄族群使用PayPay。
 
-值得一提的是，OpenAI 和 Anthropic 两家公司皆以保密方式，向美国主管机关提交首次公开发行股票的申请。
+LINE雅虎（LY Corporation）与PayPay均属于软银集团（SoftBank Corp）旗下企业。帐号绑定服务最早是2018年起在PayPay与Yahoo之间逐步推行，而LINE与Yahoo之间也已于2023年绑定。随著LINE与PayPay完成绑定，未来通讯、搜寻、购物及支付等服务将更容易跨平台整合使用。
 
-对于 AI 公司开发的先进模型恐遭滥用，民众是否能享有 AI 产业所带来的利润，有越来越多面向由社会大众检视，这也让美国政府提出各式构想，由川普拍板决定如何执行。]]></description>
+LINE、PayPay与Yahoo三方还计划全面运用大数据。在保护个人隐私及取得用户同意的前提下，三方预计将大数据匿名化并展开分析。借由详细分析用户从产生兴趣到实际购买的消费历程等，来提升服务与人工智慧（AI）的品质。
+
+报导点出，韩国的KakaoTalk和中国的微信（WeChat）等其他国家的通讯App，皆已作为具备支付等多元功能的「超级应用程式」（Super App），深入大众日常生活。LINE也期盼透过与PayPay等服务整合，打造以聊天为核心、能提供各式服务的平台，以寻求进一步成长。]]></description>
   </item>
   <item>
-    <title>韩国忠清尖端产业培育计划，企业将投资 392 兆韩圜</title>
-    <link>https://technews.tw/2026/07/02/companies-invest-392-trillion-won-south-korea-chungcheong-advanced-industry-fostering-plan/</link>
-    <guid>https://technews.tw/2026/07/02/companies-invest-392-trillion-won-south-korea-chungcheong-advanced-industry-fostering-plan/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:50:56 +0000</pubDate>
-    <description><![CDATA[韩国今天公布「忠清圈次世代尖端产业培育战略」，三星、SK 海力士等企业将向忠清圈投资约 392 兆韩圜，总统李在明说，忠清拥有无限的成长潜力，将成为引领 AI 时代的世界核心。
+    <title>菲律宾晋升中高收入国家，台商：调整投资思维转内需</title>
+    <link>https://finance.technews.tw/2026/07/02/philippines-upper-middle-income-nation-taiwanese-businesses-urged-shift-investment-domestic-demand/</link>
+    <guid>https://finance.technews.tw/2026/07/02/philippines-upper-middle-income-nation-taiwanese-businesses-urged-shift-investment-domestic-demand/</guid>
+    <pubDate>Thu, 02 Jul 2026 10:10:49 +0000</pubDate>
+    <description><![CDATA[世界银行最近将菲律宾从「中低收入国家」升级为「中高收入国家」。旅菲台商认为，这意味菲律宾工资与消费力都会同步提高，台商可逐步调整投资思维。
 
-根据韩联社报导，韩国政府今天在忠清南道牙山市举行的「忠清圈尖端产业发展愿景国民报告会」上，宣布「忠清圈次世代尖端产业培育战略」，并将启动全方位政策方案，支援企业的大规模投资。
+世界银行1日在部落格公布最新国家收入类别，菲律宾2025年人均国民收入毛额（GNI per capita）达4,850美元，超越中高收入国家门槛4,636美元，也高于2024年4,470美元。
 
-三星电子、SK海力士、赛特瑞恩（Celltrion）等企业，将以半导体、显示器、二次电池及零组件、生技等领域为核心，向忠清圈投资约392兆韩圜（约新台币8兆元）。这些企业继6月30日宣布西南圈投资计划后，今天再公布忠清圈投资方案。
+菲律宾总统小马可仕（Ferdinand Marcos Jr.）今天在社群媒体发文宣布，经过近40年努力，菲律宾已跻身中高收入国家之林，「这个里程碑体现了菲律宾人民的辛勤付出，以及政府致力推行创造更多就业机会、吸引更多投资、为每个家庭构建更强大经济体的政策。」
 
-韩国总统李在明于国民报告会上表示，「忠清拥有无限的成长潜力，若再加上企业的策略性投资与政府坚定的意志，忠清将不仅成为韩国尖端产业的中心，更将跃升为引领AI时代的世界创新核心。」
+每年7月1日，世界银行会根据上一年度的GNI估计值更新经济体类别，共分为四收入等级：低收入、中低收入、中高收入和高收入，最新年度的评估涵盖218个国家。
 
-李在明指出，忠清承载著国土均衡发展的梦想与希望，打破首都圈过度集中的现象，「重新开启韩国整体成长空间的重大转型，正是从忠清开始」。李在明强调，政府不会错失让均衡发展据点与尖端产业据点合而为一的重大机会，将动用一切可运用的手段，积极支持企业。
+世界银行表示，菲律宾此次获得重新分类，主要得益于广泛基础的经济扩张。「过去五年间，菲律宾国内生产毛额（GDP）平均每年成长5.8%，动能来自各主要产业，并非单一业界带动，而是整体经济层面的提升。」
 
-李在明也向企业表达感谢与鼓励，他表示，三星、SK海力士及赛特瑞恩宣布了培育忠清圈尖端产业的大规模投资计划，「我代表国民，感谢各位做出如此果断的决定」。]]></description>
+世界银行此次共将五个经济体由「中低收入国家」升格为「中高收入国家」，除菲律宾外，还包括越南、约旦、斯里兰卡及密克罗尼西亚（Micronesia）；多哥（Togo）则由低收入国家升级为中低收入国家。
+
+菲律宾自1987年以来长期停留在「中低收入国家」类别，去年距离升级门槛仅差26美元。当时世界银行设定的中高收入门槛为4,496美元。
+
+菲律宾晋升为「中高收入国家」，苏比克湾台商协会会长张哲嘉指出，劳工薪资将持续上涨，但民众消费力也会提升，台商未来投资菲律宾的思维，可从制造基地逐渐转向内需市场。张哲嘉分析，菲律宾民众收入提高，恐削弱劳工出国工作的意愿，台湾工厂未来招聘菲籍移工的难度或将增加，可能需要转向其他东南亚国家寻找劳动力来源。
+
+张哲嘉也提到，菲律宾民众消费力增加，可让更多人有能力出国观光，这对台湾的旅游产业也是利多。]]></description>
   </item>
   <item>
-    <title>美拟制定 AI 模型发表自愿准则，最快下周公布</title>
-    <link>https://infosecu.technews.tw/2026/07/02/us-ai-model-voluntary-guidelines-announcement-next-week/</link>
-    <guid>https://infosecu.technews.tw/2026/07/02/us-ai-model-voluntary-guidelines-announcement-next-week/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:40:59 +0000</pubDate>
-    <description><![CDATA[《金融时报》报导，美国政府正与人工智慧（AI）企业深入协商，拟发表新模型自愿性标准，最快可望下周公布，为先进 AI 模型测试、发表及存取建立准则。
-
-华府近来加强监督先进AI模型发表，主要是担心顶尖模型恐遭中国、俄罗斯等敏感国家的军事或情报单位滥用。《金融时报》（Financial Times）援引知情人士消息，这套新标准将针对前线（frontier）AI模型设立评估基准、订定发表时程，并厘清哪些美国国内及海外对象可取得这些模型。
-
-这项措施将落实美国总统川普（Donald Trump）6月AI行政命令。命令要求政府与领先AI企业合作，模型发表前测试，并建立评估标准，包括制定一套机密评鉴程序，以检视AI模型的高阶资安程度。
-
-知情人士表示，川普政府6月采取一连串介入行动后，政府与企业协商加速展开。
-
-美国人工智慧标准与创新中心（Center for AI Standards and Innovation）及国家安全局（National Security Agency）预料将在制定与监督这套标准的过程扮演重要角色。若协商顺利，白宫最快下周公布标准，但若各方仍未达成共识，时程可能延后。
-
-美国商务部6月12日曾以国安疑虑为由，对Anthropic最先进Fable及Mythos模型实施出口管制，相关限制6月30日解除；OpenAI日前也应政府要求，延后全面公开GPT-5.6的时程，目前仅开放少数审核通过的合作伙伴。
-
-此外，消息人士告诉路透社，Google推出新进阶程式设计模型前，也与美国政府展开协商，并参与产业标准讨论。Anthropic表示，将与政府及亚马逊（Amazon）、微软（Microsoft）及Google等产业伙伴合作，推动前线AI模型的自愿性安全与评估标准。
-
-AI企业包括OpenAI与Anthropic早在2023年就曾承诺，会在模型公开前完成安全测试；川普再次执政后则主张采取较宽松的监管方式，协助美国企业加速创新，以维持对中国的竞争优势。不过AI模型快速提升，具利用资安漏洞甚至冲击关键基础设施的潜力，也使政府如何兼顾创新与安全面临更大挑战。
-
-OpenAI执行长阿特曼（Sam Altman）接受访问时表示，希望建立全球架构，为AI制定共同标准，并提供客观、公正的功能与风险评估，让AI效益更普及。]]></description>
+    <title>仓和6月营收月增12.2%</title>
+    <link>https://finance.technews.tw/2026/07/02/brave-screen-6538-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/02/brave-screen-6538-202606-financial-report/</guid>
+    <pubDate>Thu, 02 Jul 2026 10:10:05 +0000</pubDate>
+    <description><![CDATA[仓和（6538）公布 6 月合并营收 1.36 亿元，较上（5）月成长 12.2%，与去年同期相比为年增 46 [&#8230;]]]></description>
   </item>
   <item>
-    <title>晶豪科6月营收月增8.5%</title>
-    <link>https://finance.technews.tw/2026/07/02/esmt-3006-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/02/esmt-3006-202606-financial-report/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:40:02 +0000</pubDate>
-    <description><![CDATA[晶豪科（3006）公布 6 月合并营收 48.45 亿元，较上（5）月成长 8.5%，与去年同期相比为年增 328.4%；累计其今年前 6 月营收为 212.13 亿元，较去年同期增加 242.6%。]]></description>
+    <title>Claude Sonnet 5 模型新上线，性能接近 Opus 4.8、计费更便宜</title>
+    <link>https://technews.tw/2026/07/02/anthropic-introduces-claude-sonnet-5/</link>
+    <guid>https://technews.tw/2026/07/02/anthropic-introduces-claude-sonnet-5/</guid>
+    <pubDate>Thu, 02 Jul 2026 10:09:11 +0000</pubDate>
+    <description><![CDATA[恢复 Claude Fable 5 模型使用之前，Anthropic 先推出新模型 Claude Sonnet 5，中阶模型之中性能更强、代理式 AI 能力更高的版本。自周二起，Claude Sonnet 5 成为免费版和 Claude Pro 方案的预设模型，并且能在所有订阅方案使用。
+
+Claude Sonnet 5 性能近自家的 Claude Opus 4.8，但计费更便宜。Claude Sonnet 5 在推理、工具使用、编码及知识工作等 Agent 性能方面，Claude Sonnet 5 比其前身 Claude Sonnet 4.6 有了实质改进。
+
+Anthropic 从安全评估发现，Claude Sonnet 5 的不良行为发生率低于 Claude Sonnet 4.6，在代理式 AI 环境中使用通常更安全。
+
+在基准测试中，Claude Sonnet 5 在代理式编码的得分为 63.2%，相较之下，Claude Opus 4.8 是 69.2%、Claude Sonnet 4.6 是 58.1%。另在知识工作的基准测试中，Claude Sonnet 5 表现实际上甚至略胜 Claude Opus 4.8 一筹。
+
+「若要追求更高的准确度，Claude Opus 4.8 仍是首选模型。然而 Claude Sonnet 5 为开发者提供价格较低、且品质远较以往可用选项更高的选择。」Anthropic 在官方部落格文章写到，「在 Claude Sonnet 5 和 Claude Opus 4.8 之间，使用者可调整投入的努力程度，找出性能和成本之间的平衡点。」
+
+即日起，Claude Sonnet 5 可在 Anthropic 所有方案使用，它是免费版和 Claude Pro 方案的预设模型，并且可供 Claude Max / Team / Enterprise 用户使用，还能在 Claude Code 和 Claude 平台上使用。
+
+在 8 月 31 日之前，Claude Sonnet 5 采每百万个输入 token 收费 2 美元、每百万个输出 token 收费 10 美元的优惠价格；之后价格将调整成每百万个输入 token 收费 3 美元、每百万个输出 token 收费 15 美元。开发者则可透过 Claude API，使用 claude-sonnet-5 这一组。]]></description>
   </item>
   <item>
-    <title>台股血崩千点塑化独红！台塑、台化亮灯涨停「南亚靠 AI 再创新天价」</title>
-    <link>https://finance.technews.tw/2026/07/02/butadiene/</link>
-    <guid>https://finance.technews.tw/2026/07/02/butadiene/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:38:58 +0000</pubDate>
-    <description><![CDATA[台股今日受到台积电 ADR 重挫影响，今日开低震荡一度跌逾千点，但受惠石化三大基本原料乙烯、丙烯和丁二烯价格走低，塑化类股指数逆势点火，其中台塑、台化双双亮灯攻涨停板，而南亚涨幅逾 7%，进处置都关不住，终场再创 197 元新天价，至于台塑化涨幅同样超过 7%。
+    <title>八年官司缠斗落幕！欧盟最高法院驳回上诉，Google 须缴 41 亿欧元垄断罚款</title>
+    <link>https://finance.technews.tw/2026/07/02/google-loses-eu-court-appeal-over-e4-1-billion-android-antitrust-fine/</link>
+    <guid>https://finance.technews.tw/2026/07/02/google-loses-eu-court-appeal-over-e4-1-billion-android-antitrust-fine/</guid>
+    <pubDate>Thu, 02 Jul 2026 10:00:07 +0000</pubDate>
+    <description><![CDATA[欧盟最高司法机构欧洲法院（Court of Justice of the European Union）今日宣判，驳回 Google 及母公司 Alphabet 的 41 亿欧元（约 47 亿美元）反垄断罚款上诉，为这场长达八年的法律攻防战画下句点。
 
-本土法人表示，近期因美伊展开和谈，国际油价从高档迅速回落，导致下游客户预期产品将持续跌价，买盘转趋保守观望，中国持续大量新增石化产能，多数塑化产品维持供给过剩的态势不变，下游需求偏弱将导致报价与利差持续承压。
+事件源头为 2018 年，欧盟执委会（European Commission）以 Google 滥用 Android 行动作业系统市场主导地位为由，开罚 43 亿欧元天价罚款，创欧盟史上最高反垄断罚款纪录。执委会指控 Google 要求智慧手机制造商在搭载 Android 系统的装置强制预装 Google 搜寻、Chrome 浏览器及 Google Play 应用程式商店，并禁止制造商使用其他竞争性的 Android 版本，巩固自身搜寻引擎市场的垄断地位。
 
-台塑集团今年第一季整体营运迎来转机，四宝合计税后获利达 441.8 亿元，全数由亏转盈，面对全球地缘政治变化及中国产能持续开出的结构性问题，虽然传统塑化产业长期基本面仍偏弱，但对台塑化、台塑及台化维持「中立」评等。
+Google 立即备战，欧盟普通法院（General Court）2022 年一审判决，虽将罚款金额从 43 亿欧元小幅下调至约 41 亿欧元，但维持执委会对 Google 违反竞争规则的核心认定。
 
-四宝之中，南亚凭借 AI 题材与电子材料的强劲需求，成为唯一获得「买进」评等的亮点，主要受惠 AI 及高效能运算需求扩张，带动记忆体、ABF 载板等需求增加，使超低粗糙度铜箔（HVLP）及高层数基板等产品供不应求，售价持续调涨。
+不服一审结果的 Google 再度上诉至欧洲法院，主张相关制裁是惩罚创新，并强调 Android 用户本可自由下载竞争对手的应用程式，此案并无根据。然而，欧洲法院法官最终站在欧盟执法机构那边，裁定 Google 挑战欧盟执委会罚款应予维持，确定 Google 滥用 Android 市场主导地位。
 
-南亚持股 61% 的子公司南电，因 BT 载板需求旺盛与 CCL 材料紧缺，具备高度转嫁与调价能力，法人预估南亚 2026 年每股盈余（EPS）将飙升至 9.93 元，年增率高达 1642.1%，并将其目标价调升至 200 元。
+此次终审裁决有法律约束力，Google 必须接受并缴纳这笔逾 41 亿欧元罚款，也无法再上诉。
 
-台塑化方面，本土法人表示，虽然第二季因美伊战争带动炼油利差扩大，但因配合国内油价冻涨，台塑化第一季至 5 月内销市场已自行吸收约 50 亿元成本，考量中国烯烃新产能扩张速度远大于全球 GDP 成长，后续炼油及烯烃利润将逐渐缩窄。
-
-本土法人分析，台塑下半年包含 PE、EVA、PP 等产品在中国将有数百万吨新产能开出，预期新产能压力至少要到 2027 年后才会减缓，本业动能将逐渐转弱，至于台化下游客户因价格难以转嫁且担忧跌价，采购心态极度保守，中国 PTA 自给率已达 106%，长期获利恐受压抑。]]></description>
+这项裁决被视为欧盟执委会的重大胜利，不仅为布鲁塞尔追打 Google 多年的纠缠画上句点，更被外界解读为欧洲加强监管大型科技公司的重要里程碑，更鼓励欧盟对其他科技巨头展开更积极的反垄断行动。]]></description>
   </item>
   <item>
-    <title>川普第二任财富暴增，生财手法当代美国总统罕见</title>
-    <link>https://finance.technews.tw/2026/07/02/trump-wealth-surged-second-term-money-making-methods-rare-contemporary-us-presidents/</link>
-    <guid>https://finance.technews.tw/2026/07/02/trump-wealth-surged-second-term-money-making-methods-rare-contemporary-us-presidents/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:30:50 +0000</pubDate>
-    <description><![CDATA[新公布的财务文件揭露，美国总统川普去年收入暴增至超过 22 亿美元，主要由持有加密货币带动。美媒直言川普利用职位谋取利益的方式在当代美国总统里实属罕见，也颇具争议。
+    <title>经部核准台积电增资美子公司 200 亿美元建晶圆厂</title>
+    <link>https://finance.technews.tw/2026/07/02/moea-approves-tsmc-20-billion-capital-injection-us-subsidiary-wafer-fab-construction/</link>
+    <guid>https://finance.technews.tw/2026/07/02/moea-approves-tsmc-20-billion-capital-injection-us-subsidiary-wafer-fab-construction/</guid>
+    <pubDate>Thu, 02 Jul 2026 09:30:47 +0000</pubDate>
+    <description><![CDATA[经济部投资审议司今天召开投资审议会，通过台积电以 200 亿美元增资美国 TSMC Arizona，资金将用于建置 12 吋晶圆厂及先进封装厂。投审司表示，这是第六度核准台积电对美子公司投资案，累计核准对美国厂投资金额达 440 亿美元。
 
-纽约时报与华尔街日报指出，财务文件揭露川普去年透过加密货币相关事业进帐14亿美元，其中8亿美元来自单一项目。川普2024年竞选期间成立名为「世界自由金融」（World Liberty Financial）的加密货币公司，公司目前由川普家族成员营运；此外，川普当时还推出以他为名的迷因币「川普币」（$TRUMP）。
+经济部投资审议司今天召开投资审议会，共核准九件重大投资案，包括两件侨外投资、七件对外投资。对外投资核准金额约230亿5,408万美元，台积电单一案件就占200亿美元；投审司表示，此次增资案的详细资金运用仍以台积电说明为主。
 
-然而川普与家族靠加密货币赚得盆满钵满，但数十万跟著他买相关加密货币的投资人却惨亏。这份财务的揭露也引发利益冲突质疑，也恐复杂化美国国会推动加密货币监管法案。
+投审司新闻稿指出，除通过台积电以200亿美元增资美国TSMC Arizona外，也核准南亚科技公司以10亿美元增资英属维京群岛商NANYA TECHNOLOGY INTERNATIONAL, LTD.，主要投资美元定存，以降低外汇避险成本；广达电脑以6亿美元投资英属开曼群岛商QUANTA INTERNATIONAL LIMITED，并转投资美国QUANTA MANUFACTURING INCORPORATION，从事电脑及周边设备组装加工业务。
 
-华盛顿邮报指出，川普第一任的大部分收入来自房地产，包括饭店、高尔夫球场及其他不动产，如今他更多收入侧重加密货币及政府业管项目，凸显川普的收入结构彻底转变。川普申报去年的资产约24亿美元，高于2019年的14亿美元以上和2024年16亿美元以上。
+此外，光宝科技公司获准以9.19亿美元增资美国LITE-ON, INC.，投入光电产品、伺服器电源解决方案及电源产品的销售与制造；台湾塑胶工业公司以原持有美国FORMOSA INDUSTRIES CORPORATION全部股权作价约2.92亿美元，认购美国FORMOSA PLASTICS CORPORATION, USA增资新股。
 
-财务文件显示，手中股票只是川普第二任期财富大增的一小部分。他去年申报增加的收入超过16亿美元，其中大部分来自他持有的加密货币及政府业管项目，川普政府的行政部门还放宽加密货币市场的监管规定。
+另外，台燿科技公司获准以16亿泰铢（约4,948万美元）增资泰国子公司，从事铜箔基板（CCL）及黏合片（PP）生产；富邦人寿保险公司以1.43亿英镑（约1.93亿美元）增资英属泽西岛子公司，从事不动产租赁业务。
 
-川普今天声称，他收入大增是因金融市场状况改善。他在准备搭乘空军一号时告诉媒体：「你们知道我为什么赚钱吗？因为股市正在涨。」还要美国民众感谢他，因为是他让众人退休积蓄变多。
-
-华邮指出，川普在第二任内替商品代言、为自己偏好的建设计划募款，并收受卡达赠送一架波音客机，川普利用总统职位谋取利益的方式超出许多人所能想像。
-
-另有评论指出，川普的社媒贴文与发言常对美股或国际市场产生立竿见影影响，包括曾于社群平台宣布苹果（Apple）同意与英特尔（Intel）合作于美国制造晶片，消息一出让英特尔股价大涨逾10%；此外，他频繁在国际地缘政治乃至伊朗战争期间释出战、和不一讯息，被戏称为「自画K线」的男人。
-
-曾在欧巴马政府时期担任白宫政府改革与伦理顾问（White House ethics czar）的艾森（Norm Eisen）说：「坦白讲，这种腐败规模就算放到世界历史上都罕逢对手。这是因为过去从无这种组合：一边是愿意将总统职权彻底变现的国家元首，另一边则是世界各国与特殊利益团体，正排队等著奉上大笔财富。」]]></description>
+侨外投资方面，投审会共核准两案，金额约新台币67.48亿元，包括荷兰商Lilly Nederland Holding B.V.增资台湾礼来公司约35.77亿元，从事西药批发业务，以及英商FORMOSA 6 HOLDINGS COMPANY LIMITED以货币债权约31.72亿元增资海广国际公司，从事一般投资业务。]]></description>
   </item>
   <item>
-    <title>Vertiv 启用马来西亚新厂，助攻 AI 电源和散热超高需求</title>
-    <link>https://technews.tw/2026/07/02/vertiv-ai-power-is-going-wild/</link>
-    <guid>https://technews.tw/2026/07/02/vertiv-ai-power-is-going-wild/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:26:48 +0000</pubDate>
-    <description><![CDATA[随著 AI 算力快速成长，资料中心对高功率供电、液冷散热及预制化基础设施需求持续攀升，相关供应链也积极扩充产能、加快拉货。关键数位基础设施供应商 Vertiv 于 1 日宣布，位于马来西亚柔佛州（Johor）的新制造工厂正式启用，进一步扩大 AI 资料中心电力与散热设备的供应能力，服务东南亚、东北亚、澳洲及纽西兰市场。
+    <title>人型机器人客户迈向试量产，信邦扩产迎接 AI 商机</title>
+    <link>https://technews.tw/2026/07/02/robot-is-going-to-commercial/</link>
+    <guid>https://technews.tw/2026/07/02/robot-is-going-to-commercial/</guid>
+    <pubDate>Thu, 02 Jul 2026 09:21:37 +0000</pubDate>
+    <description><![CDATA[AI 与人型机器人应用持续升温，带动高可靠度连接技术需求增加。连接线束厂信邦表示，目前已有多家人型机器人客户产品进入少量至中量出货阶段，相关专案已由开发验证逐步迈向试量产。公司透露，美国客户主要提供整套 Cable 解决方案，中国客户则以部分零组件供应为主。为迎接后续量产需求，信邦已于台湾中部购置新厂，提前布局下一波营运成长动能。
 
-随著 AI 机柜功率持续提升，辉达下一代 Rubin Ultra AI 平台机柜功率预计将达 600 kW，后续 Feynman 架构更将迈向 1 MW，高功率供电、液冷散热及模组化基础设施的重要性也持续提高。Vertiv 表示，新工厂将提供制造、组装及全尺寸测试能力，主要生产 AI 资料中心所需的液冷系统、预制化供电模组及整合式基础设施产品，协助客户缩短建置时间并降低部署风险。
+受惠于绿能及工业应用需求增温，信邦 6 月自结合并营收 30.93 亿元，月增 2.72%、年增 17.59%，续创公司成立以来单月历史新高；第二季合并营收 90.63 亿元，首度突破单季 90 亿元大关，同步改写单季历史新高；累计上半年合并营收 173.87 亿元，年增 8.74%，亦创历年同期新高。信邦表示，依目前客户需求排程，订单仍持续稳定增加，预期第三季营运表现将优于第二季。
 
-Vertiv 执行长 Giordano Albertazzi 表示，亚洲仍是全球 AI 与数位基础设施投资成长最快的市场之一，新工厂将进一步提升公司在品质、交期、产能规模及供应链韧性方面的能力。随著 AI 基础设施持续演进，市场对电力、散热及整合式基础设施解决方案的需求也持续增加，柔佛新厂将协助客户更有效率部署 AI 基础设施。
+6 月营收成长主要受惠于绿能及工业应用需求增加，其中绿能应用较 5 月成长 25.87%，工业应用成长 4.06%。从上半年表现来看，工业应用、汽车及医疗健康分别年增 25.14%、24.06% 及 23.34%，显示高附加价值应用仍是带动营运成长的主要动能。
 
-此外，柔佛工厂也设有测试中心，可模拟客户实际部署环境，预先验证液冷及供电系统性能，以降低建置风险并加快资料中心部署速度。Vertiv 预计，新工厂于 2027 年全面投产后，将为当地创造数百个高技术就业机会。
+随著美国与中国加速布局人型机器人产业，中国业者也持续推动商业化应用。根据京东商城公开售价，优必选新一代仿生机器人定价约人民币 15.9 万元（约新台币 75 万元），反映人型机器人产品正逐步迈向商业化与量产阶段，也带动关节模组、灵巧手、感测器、马达驱动、连接线组及电源管理 IC 等关键零组件需求同步提升。
 
-AI 电源供应链近年也持续扩大东南亚布局，其中台达电、光宝科技等台厂均已在泰国建立重要生产基地。台达电表示，AI 电源产品也会依客户需求配置不同产区，目前泰国主要供应美系云端及 AI 伺服器客户。
-
-随著 Rubin 平台预计于 2026 下半年陆续出货，AI 资料中心也开始提前布局供电与散热设备，带动电源、液冷及相关基础设施需求升温，供应链同步加快备货与扩充产能。]]></description>
+市场也看好相关供应链商机逐步发酵。目前台厂包括久昌布局磁性传感与机器人关节感测，强茂锁定人型机器人灵巧手电源管理 IC 解决方案，而信邦则以 Cable 连接线组及部分零组件切入相关供应链。随著人型机器人由试量产逐步迈向量产，市场预期相关供应链可望迎来新一波成长动能。]]></description>
   </item>
   <item>
-    <title>强化 AI 云端设施，微软携手五公司筹建印星马新海缆</title>
-    <link>https://technews.tw/2026/07/02/microsoft-partners-with-singapores-lightstorm-to-build-india-southeast-asia-undersea-cable/</link>
-    <guid>https://technews.tw/2026/07/02/microsoft-partners-with-singapores-lightstorm-to-build-india-southeast-asia-undersea-cable/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:20:35 +0000</pubDate>
-    <description><![CDATA[微软（Microsoft）与新加坡电信新创 Lightstorm 等 6 家公司合组集团，正筹划兴建一条 3,600 公里长的海底电缆，将连结印度、马来西亚与新加坡。
+    <title>主权 AI 延伸企业层级，APMIC 瞄准金融和政府推 PrivStation 2 方案</title>
+    <link>https://technews.tw/2026/07/02/apmic-privstation-day-2026/</link>
+    <guid>https://technews.tw/2026/07/02/apmic-privstation-day-2026/</guid>
+    <pubDate>Thu, 02 Jul 2026 09:14:58 +0000</pubDate>
+    <description><![CDATA[台湾新创 APMIC（Accelerate Private Machine Intelligence Company）发表新一代企业 AI 平台 PrivStation 2，预计第四季正式释出。
 
-印度被视为全球成长最快的数据市场之一，科技大商竞相在印度扩展AI与云端的基础设施。
+2025 年 9 月推出地端部署 AI 的第一代 PrivStation 之后，APMIC 现阶段瞄准金融业、政府部门的迫切需求，准备将在第四季释出 PrivStation 2。
 
-路透社报导，此一集团成员还包括印度塔塔通讯（ Tata Communications）、新加坡电信（Singapore Telecommunications）、新加坡的ASEAN Cableship，以及日本电气（NEC）。
+PrivStation 2 提供一套打包好的解决方案，能在 30 天内完成安装和部署企业 AI 平台。所运用的 Google 开发工具 ADK（Agent Development Kit）也升级至 2.0 版本，具备 CoT（Chain of Thought）的工作模式，升级为图形化工作流，并支援混合云和纯地端架构。不只如此，PrivStation 2 支援 NVIDIA Blackwell、Vera Rubin 系列晶片，以获得强大算力。
 
-各家公司今天表示，将兴建I-2SEA海底光缆，以支援AI、云端与超大规模的运算需求。但并未透露有关投资规模的进一步细节。
+APMIC 开发出繁体中文主权模型 ACE 系列，也有针对金融业知识和合规要求的金融大语言模型，通过资安认证，均能作为 PrivStation 2 的基础。此外，APMIC 还训练 15 款主权 SLM（Small Language Model）开源释出，互动次数已超过百万次。
 
-这条海底电缆全长3,600公里，将于印度南部安德拉邦（Andhra Pradesh）的马奇利帕特南（Machilipatnam）设立登陆站，目前科技巨商Meta与Alphabet都已宣布在当地设立资料中心。
+经过测试，APMIC ACE-1 模型的落地推理成本，每百万个 token 约台币 83 元，低于相同条件下的 DeepSeek V4 Pro 台币 222 元、GPT-5.5 台币 450 元。与此同时，模型 token 输出是以往的 2 倍。
 
-Lightstorm集团执行长古普塔（Amajit Gupta）接受路透社专访时表示，这条海缆预计于2029年第4季启用。
+PrivStation 2 还有 APMIC 携手算力、SI（System Integration）、应用等 37 家合作伙伴组成的生态系强力支援。值得一提的是，APMIC 将会协助生态伙伴训练出 SLM，与主权模型一同进入 PrivStation 2 的产品组合，并对模型情境微调，满足客户不同需求。
 
-目前海底电缆传输占全球约95%的网际网路流量。依据电信研究机构TeleGeography资料，印度目前有17条现役海底电缆，最大潜在容量达每秒960兆位元，另有至少10条新电缆已公开宣布筹划中。
+APMIC 共同创办人暨执行长吴柏翰谈到，第一代 PrivStation 是做好自家模型产品，并串联 GPU 算力来运作，第二代 PrivStation 则把应用、生态合作伙伴整合进来，他形容「为 AI 大脑加上手脚」。
 
-此外，古普塔表示，Lightstorm计划于2027年中在印度上市，但未透露进一步细节。而根据媒体今年3月的报导，该公司寻求的上市估值最高达15亿美元。]]></description>
+现有的云端语言模型有深不见底的推理过程，容易消耗大量 token，隐形成本无法评估。吴柏翰分析，若采用 APMIC 的地端语言模型处理垂直领域任务，可固定算力和成本，做到「知识分层，成本分流」，使 ROI（Return on Investment）最佳化。
+
+APMIC 将加速海外市场拓展，与精诚资讯和 AgilePoint 展开策略合作。精诚资讯在东南亚、日本等地拥有超过 130 家合作伙伴，AgilePoint 则是全球累积超过 1,000 家企业客户，APMIC 将进一步扩大主权 AI 解决方案在国际市场的应用版图，推动台湾 AI 技术走向全球。
+
+随著生成式 AI 加速进入金融业、政府部门等，企业不仅追求模型效能，更重视资料主权、资安合规和可控性，主权 AI 成为推动产业升级的关键。APMIC 提出的主权 AI 架构，不仅涵盖国家层级的在地模型能力，更延伸至产业和企业层级的应用与治理，企业需要能在不同场景建构专属的模型能力，才能真正将 AI 导入营运流程，创造长期价值。
+
+（首图为 APMIC 共同创办人暨执行长吴柏翰，来源：科技新报摄）]]></description>
   </item>
   <item>
-    <title>宏捷科6月营收4.08 亿元</title>
-    <link>https://finance.technews.tw/2026/07/02/awsc-8086-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/02/awsc-8086-202606-financial-report/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:20:01 +0000</pubDate>
-    <description><![CDATA[宏捷科（8086）今（2）日公布 6 月营收，达 4.08 亿元，较 5 月成长 -7.9%，较去年同期成长  [&#8230;]]]></description>
+    <title>部长也用 AI 写作业引风波！德国经济能源部长遭抓包投稿疑由 AI 代笔</title>
+    <link>https://technews.tw/2026/07/02/germanys-economy-minister-caught-ai-article-politicians-ai-use-discussion-focus/</link>
+    <guid>https://technews.tw/2026/07/02/germanys-economy-minister-caught-ai-article-politicians-ai-use-discussion-focus/</guid>
+    <pubDate>Thu, 02 Jul 2026 09:00:32 +0000</pubDate>
+    <description><![CDATA[德国《明镜周刊》电子版 6 月 30 日报导，经济能源部长卡特琳娜·莱歇（Katherina Reiche）两篇报纸投稿，大部分内容极可能由人工智慧（AI）产生，此消息迅速在德国政界与媒体界引发广泛讨论。
+
+《明镜》调查，使用AI文字侦测分析工具，分析莱歇4月投稿《商报》（Handelsblatt）及《法兰克福汇报》（Frankfurter Allgemeine Zeitung）的两篇社论。结果显示，《商报》文章约三分之一（即开头部分）疑似AI产生；《法兰克福汇报》文章则高达七成判定为AI文。
+
+面对外界质疑，德国经济能源部并未正面回应是否使用AI写稿，仅以一般性立场表示：「政治工作的现场，AI已成为日常工具。」并强调重要的是「以适当的平衡结合AI与人类智慧」。
+
+《明镜》周刊询问两家报社是否删除文章，《法兰克福汇报》未予回应，《商报》则表示不打算删除。其中《法兰克福汇报》6月10日宣布，下架去年8月刊登的德国东部图林根邦州长投稿，原因正是疑似AI产生。
+
+此次事件并非孤例。德国已有政治人物投稿被报社以疑似AI生成为由从电子版下架，而AI使用议论也持续延烧。AI工具在政界、媒体乃至学生群体使用都日益普及，德国社会对AI内容的透明度与伦理规范讨论也在升温。]]></description>
   </item>
   <item>
-    <title>日圆贬至 40 年低点，下半年食品通膨将涨更凶</title>
-    <link>https://technews.tw/2026/07/02/japan-yen-lowest-40-years-push-up-inflation/</link>
-    <guid>https://technews.tw/2026/07/02/japan-yen-lowest-40-years-push-up-inflation/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:14:04 +0000</pubDate>
-    <description><![CDATA[日圆跌势不断，随著美元走高，日圆兑美元汇率暴跌至162以下，创下1986年12月以来最低水准。对游客而言游日更便宜，但代价就是日本人将面临更高的物价。机构预估，下半年日本将有超过两万种商品齐涨。
+    <title>经长：台积电在台湾将建 16 座厂，美国怎么盖都达不到</title>
+    <link>https://technews.tw/2026/07/02/us-unlikely-to-match-tsmcfab-scale-in-taiwan/</link>
+    <guid>https://technews.tw/2026/07/02/us-unlikely-to-match-tsmcfab-scale-in-taiwan/</guid>
+    <pubDate>Thu, 02 Jul 2026 08:50:59 +0000</pubDate>
+    <description><![CDATA[媒体报导美国总统川普指台积电将倍增在亚利桑那州兴建中的晶圆厂规模，美晶片市占率将达 50%。经济部长龚明鑫下午表示，台积电目前已公布在台湾兴建及规划中的晶圆厂，加上 CoWoS 先进封装产能共有 16 座，「美国未来再怎么盖，也不可能是这个数量」。
 
-1985年，美国与主要贸易伙伴达成「广场协议」。广场协议最直接的影响是日圆对美元大幅升值，1985~1987年间，日圆对美元升值超过50%。现在日圆兑美元来到当时的水准。
+美国总统川普7月1日接受媒体访问表示，台湾正将亚利桑那州兴建中的晶圆厂规模扩大一倍，这些新晶圆厂将在未来一年内启用，而且来自台湾的晶片商，例如产业龙头台积电，正加码投资美国，有助于在其任期结束前将美国晶片市占率提高至50%。
 
-▲日圆兑美元来到 40 年低点。(Source：Google)
+对于外界关切美国扩产是否冲击台积电「护国神山」的地位，龚明鑫今天主持业务会报前受访表示，依照台积电目前已公布的规画，国内已建厂及后续规划中的晶圆厂，加上CoWoS先进封装产能，合计共有16座，「美国再怎么盖也不可能是这个数量」。
 
-日本在2022年介入外汇市场以支撑日圆，并在2024年再次采取行动，但这些措施只提供暂时缓解，日圆很快又恢复贬值趋势。部分市场人士认为，即便日本实施外汇干预，也难以扭转日圆贬值趋势。
+媒体追问，若川普要求台积电赴美投资，但公司未依照相关目标进行，是否担心美方未来透过政策施压。龚明鑫强调，他相信台积电董事长魏哲家「非常有智慧」，能够妥善处理相关问题。
 
-日圆走软提振出口型企业利润，并推动日本股市屡创新高，但另一方面，以美元计价的进口商品，持续给日本消费者带来压力，加上中东局势动荡和全球大宗商品价格飙升，加剧日本经济的通膨压力。
+针对电电公会（TEEMA）海外科学园区将落脚波兰米恩基尼亚（Miękinia），且正评估在美国、墨西哥和印度设立据点一事，龚明鑫回应，希望波兰园区年底前可以动土；墨西哥则预计在7月中举行招商大会，届时可望有较完整说明。
 
-感受最深的是食品。2025全年食品涨幅达6.8%，是整体CPI 3.2%的两倍多。今年持续上涨，截至四月整体食品CPI 已比2020年高约三成，下半年将迎来更广泛的物价调涨。
+至于美国部分，龚明鑫指出，经济部5月已赴当地考察，本月也将再派员实地了解，希望年底前决定具体投资地点；印度的进展则相较其他据点稍晚。
 
-根据日本私人研究机构帝国资料库对日本195家主要食品制造商最新调查，今年至今，已有近15,000种食品和饮料价格上涨。
-
-光是7月就有2,566种食品和饮料价格上涨，这是三个月以来月度涨价商品总数首次超过2千种。下半年才是涨价高峰，9月预计将出现今年涨价商品数量最多的一个月，超过3千件，预计全年涨价商品总数将超过2万件。
-
-食品公司正在加速将不断上涨的成本转嫁给消费者，已对一般民众造成沉重打击。一位东京居民表示，「像鸡蛋和蔬菜这类我们日常生活中绝对必需的物品，以前我们经常购买。现在，所有商品的价格都上涨，就连最便宜的也不例外，食品开支大幅增加。」
-
-另一位居民说，「物价上涨得太快了，这对我们家的预算造成巨大打击。我的孩子渐渐长大，饭量也越来越大，所以我真的很担心物价最终会涨到多高。」
-
-食品价格持续上涨也给零售业带来巨大压力。在东京经营超市35年的零售店主指出，商品价格上涨和劳动成本增加的双重压力，严重挤压超市的营运。店主坦言，「整体感觉是很多商品都在涨价，而且涨幅相当大，这种情况越来越明显，受影响的商品也越来越多，包装材料等成本都在上涨。」
-
-食品价格上涨是因为许多原料日本国内没有生产，必须依赖海外进口。受日元贬值的影响，小麦、大豆和玉米的价格上涨，反过来又增加养猪、养鸡、养牛等牲畜的成本。换句话说，日圆疲软推高整体食品价格，已成为不可避免的通膨压力来源。
-
-日本人对物价上涨的恐惧愈来愈深，日本民众指出，「我很好奇日圆对美元还会跌到什么程度，我都快不喝咖啡了。」其他人称，「生活成本飙升，夏季气温开始攀升，今年将会看到多少起为了省钱而导致的热死亡病例。」]]></description>
+此外，经济部地矿中心今年2月曾表示，将在今年下半年规划赴美进行矿源考察，龚明鑫透露，确定将于10月出发前往加州及科罗拉多州，了解当地矿源性质是否符合国内需求。他表示，除美国外，也正与澳洲接洽，过去也曾与加拿大合作，希望透过多元布局，建立稳定矿物来源。]]></description>
   </item>
   <item>
-    <title>晶相光6月营收月减15.9%</title>
-    <link>https://finance.technews.tw/2026/07/02/soi-3530-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/02/soi-3530-202606-financial-report/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:10:12 +0000</pubDate>
-    <description><![CDATA[晶相光（3530）公布 6 月合并营收 1.68 亿元，较上（5）月成长 -15.9%，与去年同期相比为年增  [&#8230;]]]></description>
+    <title>NVIDIA 推营收分润新模式，携云端伙伴扩建 AI 工厂</title>
+    <link>https://finance.technews.tw/2026/07/02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups/</link>
+    <guid>https://finance.technews.tw/2026/07/02/nvidia-offers-revenue-sharing-model-for-aspiring-ai-startups/</guid>
+    <pubDate>Thu, 02 Jul 2026 08:40:55 +0000</pubDate>
+    <description><![CDATA[NVIDIA 1 日宣布全新 AI 基础设施合作模式，将透过营收分润与信用支援机制，与 AI 云端服务业者共同部署大规模、多租户 AI 工厂，协助新创公司、模型开发商、企业与研究机构更快取得 AI 运算资源，同时为 NVIDIA 创造与运算用量连动的经常性收入。
+
+AI 云端业者采用 NVIDIA DSX AI 工厂架构部署设施，对外销售云端运算服务；NVIDIA 除既有产品销售收入外，还可分得受支援容量产生的云端营收。
+
+澳洲业者 Sharon AI 与 Firmus 为首批合作伙伴。Sharon AI 与 NVIDIA 签订六年策略合作，将在澳洲新增 72MW 资料中心容量，部署最多 4 万颗 Grace Blackwell GB300 GPU，AI 工厂总容量随之增至 132MW，102MW 已签约售予终端客户。Firmus 则在印尼巴淡岛兴建 DSX AI 工厂园区，扩展至 360MW、最多 17 万颗 GPU。
+
+分析指出，此模式使 NVIDIA 从晶片供应商进一步深入 AI 基础设施营运，透过分润机制将获利与云端运算需求成长紧密连结。]]></description>
   </item>
   <item>
-    <title>三星出招研发「量子电脑＋AI」微影技术，拚先进制程弯道超车</title>
-    <link>https://technews.tw/2026/07/02/samsung-chases-tsmc-with-quantum-computing-powered-chipmaking-as-ai-reshapes-the-most-critical-step-in-fabrication/</link>
-    <guid>https://technews.tw/2026/07/02/samsung-chases-tsmc-with-quantum-computing-powered-chipmaking-as-ai-reshapes-the-most-critical-step-in-fabrication/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:10:06 +0000</pubDate>
-    <description><![CDATA[韩国三星正开发结合量子电脑与人工智慧的微影（photolithography）模拟技术，目标在缩短微影与蚀刻流程所需时间与成本，并提升晶片密度与良率。据韩国媒体《首尔经济日报》（Seoul Economic Daily）报导，该技术以量子电脑执行微影流程模拟，并再由 AI 侦测与修正模拟与实际制程间的误差，加速最佳化流程。
-
-在半导体制造中，微影是最重要的步骤之一，需仰赖像荷兰 ASML 所制的高阶曝光机，用紫外光将电路蓝图转印到晶圆上。鉴于先进制程对精度的要求持续提升，微影往往决定整个制程的成败，因此三星才以量子模拟辅以 AI 来改善密度与良率。
-
-消息指出，负责数位业务的三星 SDS 主导相关技术开发，公司已取得演算法，并计划在 2027 年透过概念验证（proof of concept）确认可行性；若模拟软体验证成功，预期会与三星电子相关单位分享应用。
-
-业界方面，AI 已被其他晶圆代工厂采用于制程开发，例如台湾厂商在某些节点上采用 NVIDIA 等 AI 工具来协助开发。若三星的「量子＋AI」模拟技术可行，将有助于缩短开发周期、降低成本并提升良率。]]></description>
+    <title>明泰6月营收月增26.1%</title>
+    <link>https://finance.technews.tw/2026/07/02/alpha-3380-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/02/alpha-3380-202606-financial-report/</guid>
+    <pubDate>Thu, 02 Jul 2026 08:40:03 +0000</pubDate>
+    <description><![CDATA[明泰（3380）公布 6 月合并营收 22.71 亿元，较上（5）月成长 26.1%，与去年同期相比为年增 5 [&#8230;]]]></description>
   </item>
   <item>
-    <title>信邦6月营收月增2.7%</title>
-    <link>https://finance.technews.tw/2026/07/02/sinbon-3023-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/02/sinbon-3023-202606-financial-report/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:10:02 +0000</pubDate>
-    <description><![CDATA[信邦（3023）公布 6 月合并营收 30.93 亿元，较上（5）月成长 2.7%，与去年同期相比为年增 17 [&#8230;]]]></description>
+    <title>随身碟藏中国病毒，日本启动全国自治体大调查</title>
+    <link>https://infosecu.technews.tw/2026/07/02/japan-launches-nationwide-survey-of-usb-device-usage/</link>
+    <guid>https://infosecu.technews.tw/2026/07/02/japan-launches-nationwide-survey-of-usb-device-usage/</guid>
+    <pubDate>Thu, 02 Jul 2026 08:30:59 +0000</pubDate>
+    <description><![CDATA[日本陆上自卫队爆出机密系统曾使用感染中国来源病毒的 USB 随身碟，引发日本政府高度警戒。日本政府 2 日宣布，将针对全国地方自治体展开 USB 使用情况全面调查，以检视各机关资讯安全管理是否落实，防堵类似事件再次发生。
+
+TBS报导，官房长官木原稔在记者会表示，总务省正准备针对全国各地方自治体进行USB随身碟使用情况调查，以掌握因USB装置使用所衍生的网路攻击风险。他表示，政府已于6月26日向各地方自治体发出通知，要求确认USB使用现况，并提醒检讨相关管理措施。
+
+木原说：「包括USB随身碟在内，各类资讯系统与设备都必须妥善使用，也必须加强供应链风险的防范措施。」他并强调，政府将提供必要支援，协助各地方自治体采取适当的资安对策。
+
+这项全国调查源于陆上自卫队日前爆出的资安事件。据「日本经济新闻」报导，陆自直到2025年2月为止，曾在处理机密资讯的系统终端上，持续使用感染中国来源病毒的USB随身碟近一年。事件曝光后，防卫省立即展开调查。
+
+防卫大臣小泉进次郎日前表示，经调查确认，该病毒并不具备窃取资料或与外部伺服器通讯的功能，也没有发现病毒扩散至与USB连接的系统，因此目前判定没有对陆上自卫队资讯系统造成实质影响。
+
+不过，小泉也坦承，陆上自卫队人员并未依照内部规定，在使用USB随身碟前先完成病毒扫描确认安全性，这是「相当严重的问题」，防卫省已要求各单位彻底落实USB病毒扫描及资讯安全管理，以防止类似事件重演。
+
+据了解，这批USB随身碟是在能登半岛地震救灾期间登记并投入使用，目前防卫省仍持续追查其采购来源及流通过程。]]></description>
   </item>
   <item>
-    <title>打造欧陆防卫中枢，德国争取美国授权在地生产战斧与爱国者飞弹</title>
-    <link>https://technews.tw/2026/07/02/germany-is-in-talks-with-the-us-for-licensing-local-production-of-tomahawks-and-patriot-missiles/</link>
-    <guid>https://technews.tw/2026/07/02/germany-is-in-talks-with-the-us-for-licensing-local-production-of-tomahawks-and-patriot-missiles/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:07:11 +0000</pubDate>
-    <description><![CDATA[《金融时报》昨日报导披露，德国政府目前正与美国展开深入谈判，争取授权在德国本土生产「战斧」（Tomahawk）巡弋飞弹与「爱国者」PAC-3 MSE 拦截飞弹。
+    <title>TESS 卫星首透过微透镜效应发现系外行星，证实能探测远轨道星球</title>
+    <link>https://technews.tw/2026/07/02/exoplanet-gaia23bra-b-microlensing/</link>
+    <guid>https://technews.tw/2026/07/02/exoplanet-gaia23bra-b-microlensing/</guid>
+    <pubDate>Thu, 02 Jul 2026 08:19:27 +0000</pubDate>
+    <description><![CDATA[NASA 凌日系外行星巡天卫星（TESS）任务首次透过微重力透镜方法发现一颗系外行星，突破原本只能靠凌日法寻找行星的管道。
 
-如果谈判成功，德国将成为第一个国产化这两款美系精准导引武器的欧陆国家。此举不仅配合德国近年因应地缘政治而扩编的千亿欧元特别国防基金，战略核心更旨在缩短交期、分散北约飞弹供应链，以缓解美国本土产线同时供应美军、乌克兰与印太盟友的系统性产能过载。
+2023 年，已退役的盖亚卫星发现一起名为 Gaia23bra b 的重力微透镜事件，后来新墨西哥大学天文学家 Diana Dragomir 团队回顾 TESS 卫星存档数据，发现 TESS 恰好在事件期间监测天空同一区域，并纪录到由行星引起的光变曲线特征，盖亚卫星反而未分辨出行星讯号。
 
-柏林争取这项高度敏感技术授权的本钱，源自其强大的工业实力，德国制造业产出占全欧盟近四分之一，光是汽车产业就拥有逾 77 万名专业人员。
+分析表明 Gaia23bra b 是一颗远离主星的超级木星，质量约木星 1.63 倍，主星为质量约太阳 80% 的橙矮星（K 型主序星），公转轨道与木星绕太阳轨道相近，远远超出 TESS 卫星传统凌日法探测范围。
 
-近年德国政府积极将民间精密切削、先进机器人、特殊冶金与电子零组件等庞大民间产能视为战略资源，引导转向弹药与飞弹制造。
+当前已知系外行星超过 6,000 颗，约四分之三都透过凌日法发现，这也是 TESS 卫星典型的行星搜寻技术，透过重力透镜效应发现的系外行星不到 5%。
 
-加上莱茵金属在当地的 F-35 机身产线，以及现有合资企业负责的爱国者旧款飞弹维修经验，德国已具备成熟的军工生产生态系，无需从零建置即可无缝融入北约供应网络。
+借由微透镜效应，天文学家能找到恒星系统更外侧的遥远行星，确认远轨道行星在银河系普遍程度，绘制不同类型行星形成与演化路径，填补凌日法、径向速度方法偏向寻找「近轨道行星」的统计缺口。
 
-这两款武器能直接补足德国联防军的战力缺口，陆基版战斧巡弋飞弹具备超过 1,600 公里的作战射程，能从德国中部直接威胁敌方纵深目标，其整合地形比对与影像匹配的导引系统，具备极强的抗干扰实时打击力，补足了冷战后德国陆军长年缺乏地面长程精准火力的弱点。
-
-而爱国者 PAC-3 MSE 则采用「碰撞击杀」技术，能有效摧毁高速度的战术弹道飞弹，且单一发射架装载量比旧款多出四倍，大幅提升对抗饱和攻击的防御密度，正好填补目前全球防空飞弹严重供不应求的产能缺口。
-
-然而这项计划的最大挑战不在于德国的工业能力，而是华盛顿的政治审查与核心技术转移。生产这两款飞弹涉及战斧的地形导引演算法、军规加密 GPS，以及 PAC-3 MSE 的主动 Ka 频段雷达导引头与双脉冲固态火箭发动机等高度机密。
-
-此外全球精准导引武器的产能瓶颈往往在于二、三级零组件供应链，包含固态火箭发动机、涡扇发动机与抗辐射微电子元件等，这些关键料件目前同时被多款美军飞弹争夺，德国必须先利用自身特殊化学与冶金优势，扩充这类子系统产能。
-
-因此各界评估这项合作应会采取分阶段模式推进，初期先从结构零组件代工与推进模组制造开始，再逐步导入美制核心元件进行最终总装与测试，随著智慧财产权逐步解锁才迈向完整国产化。
-
-尽管从建厂、工安认证到实弹试射仍需数年时间，但随著美国将战略重心转向印太，欧洲盟友必须承担更多常规威慑责任。
-
-德国在地化生产美制成熟武器，不仅能作为欧洲自主长程武器问世前的即战力，一旦产能全开，更能消化欧陆各国订单，正式奠定其作为北约欧洲飞弹制造中心的战略地位。
-
-（首图来源：US Army, Public domain, via Wikimedia Commons）]]></description>
+该发现也说明，TESS 卫星过去 8 年的存档数据可能隐藏更多尚未辨识的微透镜行星事件，目前 TESS 开始频繁扫描银河盘面与靠近银河中心的区域，虽不如即将发射的罗曼太空望远镜专攻银河中心，但若能在银河盘面搜寻到微透镜行星事件，也有助比较不同环境的行星族群差异。]]></description>
   </item>
   <item>
-    <title>助力矽光子与 CPO 量产，均英精密发表 GTK-OSI1 全自动 FAU 全系列被动光学元件检测机</title>
-    <link>https://technews.tw/2026/07/02/gentk-gtk-osi1-fau/</link>
-    <guid>https://technews.tw/2026/07/02/gentk-gtk-osi1-fau/</guid>
-    <pubDate>Thu, 02 Jul 2026 06:00:39 +0000</pubDate>
-    <description><![CDATA[AI 基础建设带动高速光通讯市场需求攀升，光通讯技术正加速向矽光子 (Silicon Photonics) 与共同封装光学 (CPO) 架构演进。Fiber Array (FA)、V-Groove (VG) 及 MT、MMC Ferrule 等被动光学元件的精度要求与产能需求大幅提升。均英精密发表GTK-OSI1全自动被动光学元件检测机，整合 AOI、AI 影像分析与高精度自动化控制技术，导入智动点设置，并采用独家几何轨迹演算法，协助制造端建立标准化且具效率的量产品质管理机制。
+    <title>永庆观察七都房价「跌不下去」回稳！叶凌棋：逾四成民众考虑卖股转房</title>
+    <link>https://finance.technews.tw/2026/07/02/sell-%e2%80%8b%e2%80%8bstocks-and-buy-a-house/</link>
+    <guid>https://finance.technews.tw/2026/07/02/sell-%e2%80%8b%e2%80%8bstocks-and-buy-a-house/</guid>
+    <pubDate>Thu, 02 Jul 2026 08:02:56 +0000</pubDate>
+    <description><![CDATA[永庆房屋今日召开第三季房市展望，业务总经理叶凌棋表示，受惠台股屡创新高，资本市场财富效果发酵，观察第二季成屋房价已全面回稳且交易量回温，预估第三季将呈量小增价平格局，并调查逾 4 成民众正考虑获利了结「卖股转房」，其中新竹县市、台北市、台中市最愿意转投入房市。
 
-面对矽光子架构对微米级元件的严格公差要求，GTK-OSI1采用1,800万画素双镜头架构，分别进行特征辨识与细部量测。机台影像量测重复性方面，FA及VG可达3σ±0.05 μm，MT、MMC Ferrule则可达3σ±0.1μm。此高规格量测精度，不仅能全面符合现阶段主流光学元件的检测规范，更具备前瞻性，可延伸支援未来6.4T、12.8T等次世代高速光通讯元件的超高密度量测需求，协助客户落实兼具当前效益与未来扩充性的设备投资布局。
+叶凌棋表示，根据「政大永庆即时房价指数」显示，台股屡创新高，目前市场仍以自用、置产为主力，房价呈现回稳态势，而进一步观察七都房价指数变化，季增均在 1% 之内，季增幅介于 0.3% 至 1% 之间。
 
-为了因应市场从高精度制造迈向规模化生产的转型，GTK-OSI1导入应用于半导体设备高精度三轴定位技术与智动点设置功能，自动完成孔位搜寻与量测。机台配备两款专用治具，支援多种主流被动光学元件。产品设计采用独家几何轨迹演算，以MT、MMC Ferrule为例，单次检测可完成20件产品量测，单一孔位或勾槽量测时间小于1秒，大幅最佳化检测效率并降低依赖人工检测。
+叶凌棋指出，根据内政部实价登录资料统计，观察 2020 年至 2026 年预售屋与中古屋的平均单价发现，七年间七都预售屋价格大涨，而中古屋房价涨幅相对和缓，让七大都会区预售屋与中古屋价差幅度出现逐年扩大的趋势，创近七年新高纪录。
 
-均英精密长期深耕光学精密加工、自动化设备及光通讯相关制程开发，累积丰富被动光学元件制造与量测经验。此次推出GTK-OSI1，旨在将丰富的制程经验转化为标准化设备，协助客户在光通讯技术转型期，建构兼具效率与高一致性的量产检测解决方案。
+叶凌棋进一步指出，观察七都 2026 年预售屋与中古屋价差幅度发现，台中价差逾八成最多，较 2020 年有明显增长，显示价差持续拉开差距，而台南、高雄也有约七成左右的价差，桃园差幅不到五成，相对和缓。
 
-均英精密自1992年总部设立于台湾桃园，拥有自有模具厂、自动化厂与射出成形厂。工厂通过ISO 9001认证，为半导体、光学、光通讯、医疗、电子等产业提供关键零组件与自动化系统整合解决方案。均英不仅提供OEM/ODM服务，更凭借深厚产业经验，长期与跨国企业合作，协助客户最佳化全球制程、提升产线良率，持续为合作伙伴实现最高的附加价值。
+叶凌棋分享，观察今年前 4 月预售屋交易量缩近三成，但预售价格却持续走高，主要呈现「量缩价涨」格局，但供给持续累积，累计至今，全台预售建案待售余屋高达 13.7 万户，其中七都待售余屋量就占 11.5 万户，占全台比重达 84%，显示七都成为待售余屋主战场，卖压沉重。
 
-欲了解更多资讯，请造访gentk.com或追踪LinkedIn官方帐号。]]></description>
+叶凌棋说明，这波卖压主要是受到第七波选择性信用管制持续影响，近两年预售屋交易冷清，从七都预售建案待售余屋量来观察，假设去化速度与 2025 年相当，以 2025 年全年预售交易量来换算，台南、高雄的待售余屋量需要 6 年以上的时间才能完全去化。
+
+叶凌棋预估，根据永庆成交数据观察，上半年成屋市场交易量较去年同期量增 5%，但建物买卖移转栋数却量缩，显示成屋市况已出现明显与建物买卖移转栋数脱钩的迹象，并受惠经济稳健成长、出口畅旺及台股高档震荡，预估第三季成屋市场呈现「量小增价平」格局。
+
+叶凌棋强调，观察今年前 5 月全台建物买卖移转栋数年减 5.1%，预估今年上半年建物买卖移转栋数预估年减 4~5%，若依目前市况推估，下半年建物买卖移转栋数仍将受到整体经济情势、新屋交屋与房市政策影响，预估今年建物买卖移转栋数约 25.1 至 26.4 万栋之间，年减 3% 至年增 2%。
+
+股市屡创新高，消费者会考虑将部分资金由股转房吗？永庆房屋业管部协理陈赐杰表示，调查全台有 41% 消费者可能会考虑将股市部分资金转入房市，若进一步观察七大都会区，可以发现新竹县市、台北市及台中市的消费者最愿意将股市部分获利转投入房市。
+
+调查主要会选择哪一类型的不动产？陈赐杰表示，主要有 50% 消费者选择套房或 2 房的小坪数住宅，并有 39% 消费者选择 3 房以上的中大坪数住宅。由此可见，目前房市仍以自住需求当道，且中大坪数的换屋需求也有慢慢浮现。
+
+至于影响下半年房市的因素？陈赐杰指出，调查消费者认为房贷紧缩持续、通膨及新房市政策是影响房市的前三重要因素，其中有 63% 消费者认为房贷紧缩持续是重要因素，因为目前银行房贷资源仍相对有限，因此资金面的紧缩仍是消费者认为影响下半年房市的关键。]]></description>
   </item>
 </channel>
 </rss>
