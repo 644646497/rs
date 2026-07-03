@@ -4,7 +4,46 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Fri, 03 Jul 2026 10:24:10 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 03 Jul 2026 13:28:34 GMT</lastBuildDate>
+  <item>
+    <title>立积6月营收3.30 亿元</title>
+    <link>https://finance.technews.tw/2026/07/03/richwave-4968-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/03/richwave-4968-202606-financial-report/</guid>
+    <pubDate>Fri, 03 Jul 2026 12:10:11 +0000</pubDate>
+    <description><![CDATA[立积（4968）今（3）日公布 6 月营收，达 3.30 亿元，较 5 月成长 0.1%，较去年同期成长 -1 [&#8230;]]]></description>
+  </item>
+  <item>
+    <title>新巨科6月营收1.83 亿元</title>
+    <link>https://finance.technews.tw/2026/07/03/newmax-3630-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/03/newmax-3630-202606-financial-report/</guid>
+    <pubDate>Fri, 03 Jul 2026 12:10:03 +0000</pubDate>
+    <description><![CDATA[新巨科（3630）今（3）日公布 6 月营收，达 1.83 亿元，较 5 月成长 -8.9%，较去年同期成长  [&#8230;]]]></description>
+  </item>
+  <item>
+    <title>群联潘健成：近期 Nor Flash 不佳早知道，AI 云端继续投资记忆体景气仍持续</title>
+    <link>https://finance.technews.tw/2026/07/03/ai-and-cloud-computing-continue-to-invest-and-the-memory-market-remains-bullish/</link>
+    <guid>https://finance.technews.tw/2026/07/03/ai-and-cloud-computing-continue-to-invest-and-the-memory-market-remains-bullish/</guid>
+    <pubDate>Fri, 03 Jul 2026 12:00:59 +0000</pubDate>
+    <description><![CDATA[记忆体产业长久以来受制于残酷的景气循环法则，然而这项铁律即将在人工智慧（AI）与云端运算的浪潮下被彻底打破。群联电子执行长潘健成近日针对记忆体产业周期与云端存储趋势表示，过去记忆体被视为高度周期性的产业，但随著云端巨头在AI推论（Inference）上的庞大布局，未来的记忆体市场将迎来结构性的改变，传统的景气循环法则恐将不复存在。
+
+潘健成在自己的新书发表会上表示，回顾过去的科技产业波动，潘建成坦言，无论是2000年的网路泡沫还是2008年的金融海啸，市场的崩盘往往来得莫名其妙，但复苏也同样迅速。他回忆道，原本市场预期需要一年才能恢复的景气，结果在2009年农历年时，仅花了短短三到四个月就完全回温。
+
+面对记忆体产业固有的景气循环风险，潘健成提出了一套务实的「航海生存哲学」。他强调，如果在海上有风浪，你说你多厉害可以看清风浪，那是骗人的；在大浪之中，你只要确保自己不会被淹下去，就活著了。这种不盲目预测市场，而是厚植企业抗压底气的策略，成为群联能够在多次景气寒冬中屹立不摇的关键。
+
+针对日前中国有厂商释出NOR Flash市况不佳的讯息，导致市场恐慌并引发杀盘，但潘健成直言，他早在半年前就已经预见NOR Flash的衰退。他分析背后的连动逻辑，就是NOR Flash主要用于物联网（IoT）等小型设备的开机程序，当市场上买不到DRAM与NAND Flash时，厂商根本无法生产IoT产品，这将导致作为开机用途的NOR Flash首当其冲面临死局。
+
+而在DRAM方面，潘健成回顾了产业最惨烈的一段历史。从2007年底一路延续到2013年，DRAM市场经历了漫长的寒冬，期间包括奇梦达（Qimonda）、茂德、尔必达（Elpida）等知名大厂纷纷倒闭退出，直到SK海力士（SK Hynix）无锡厂发生大火，供应大幅缩减后，市场才迎来转机。然而，撑过这段淘汰赛的幸存者，随后便迎来了极为丰厚的获利期。
+
+相较于DRAM，NAND Flash的市场逻辑更是充满了戏剧性的悖论。潘健成提出了一个颠覆常人的观点，就是在什么情况下NAND需求会不好？需求太好的时候，它一定会不好。他以智慧型手机为例详细拆解这个循环，假设原本128GB的容量成本是100美元，当市场需求过热导致价格暴涨至200美元时，手机制造商为了控制成本，会立刻将规格降至64GB。这一举动会让NAND的整体需求瞬间减半，进而导致市场价格崩盘。
+
+反之，当NAND价格崩盘，128GB的成本从100美元狂跌至20美元时，由于记忆体变得极度便宜，手机厂商会毫不犹豫地将容量大幅升级（例如推升至1TB）。这会让需求瞬间暴增，随后又引发新一轮的市场失衡。潘健成总结道，正是因为这种对价格极度敏感的终端产品特性，导致NAND Flash在历史上从来没有真正达到过供需平衡。
+
+潘健成明确指出，上述的传统供需轮回，即将被AI彻底改写。尤其从今以后，NAND的传统循环法则已经不存在了。他进一步分析这场由云端巨头发起的军备竞赛。过去三年半以来，全球云端大厂豪掷了约7,000亿至9,000亿美元的惊人资金，疯狂采购GPU并建设资料中心，透过消耗庞大电力来训练各式各样的AI模型。当这些模型训练成熟后，云端公司势必需要将其变现，而变现的唯一途径就是提供「推论（Inference）」服务让客户付费使用。
+
+潘健成强调，AI推论的运作建立在两个不可或缺的基础之上，源源不绝的电力，以及源源不绝的产出（Output），也就是所谓的「Token」。而这些生成出来的Token，全部都需要庞大的储存空间来存放。在这样的商业模式下，云端公司的营收将与其电力供应能力及储存空间大小成绝对的正比关系。 既然已经投入了上千亿美元的建置成本，这些云端巨兽在准备收割利润时，绝对不可能去削减储存空间的预算。因此，他铁口直断，未来Token的费用绝对会持续上涨，因为云端服务商必须不断地购买电力与扩充储存设备。
+
+面对这波由AI推论引爆的储存无底洞，上游供应链已经开始出现吃紧的讯号。潘健成透露，近期在与记忆体供应商的交涉中，原厂已经释出2027年供应量将会减少的预警。但他态度坚定地表示，群联2027年的需求不仅不能减少，反而还必须大幅增加，目前双方仍在针对供货配额进行激烈的拉锯与争取。]]></description>
+  </item>
   <item>
     <title>联茂6月营收月增10.8%</title>
     <link>https://finance.technews.tw/2026/07/03/iteq-6213-202606-financial-report/</link>
@@ -228,33 +267,6 @@ Anthropic 今年 2 月曾点名 DeepSeek、月之暗面、MiniMax 三家中国 A
 江宇腾指出，AI 长线趋势明确，但短期市场仍可能受到全球景气、政策方向及地缘政治等因素影响而波动，投资人宜避免追高杀低，并以长期投资及分散配置角度参与AI成长机会，而 00735 不仅参与台湾及韩国两国的成长机会，有助分散单一市场波动风险。
 
 江宇腾强调，00735 投资组合涵盖晶圆代工、HBM、IC 设计、先进封装、AI 伺服器等完整 AI 供应链，前十大成分股包括台积电、三星电子、SK 海力士、联发科、日月光投控、三星电机、国巨、联电、鸿海、台达电，完整布局两大科技核心市场。]]></description>
-  </item>
-  <item>
-    <title>年月双成长！南亚科 6 月营收 293.88 亿元，上半年累计营收年增 643%</title>
-    <link>https://technews.tw/2026/07/03/nanya-technology-corporation-2026-july-revenue/</link>
-    <guid>https://technews.tw/2026/07/03/nanya-technology-corporation-2026-july-revenue/</guid>
-    <pubDate>Fri, 03 Jul 2026 08:15:40 +0000</pubDate>
-    <description><![CDATA[南亚科今（3日）公布2026年6月份自结合并营收为293.88亿元，较上月增加6.21%、较去年同期增加621.34%，延续5月好表现；累计合并营收为1,316.36亿元，较去年同期增加643.12%。
-
-南亚科5月自结合并营收为276.7亿元，较上月增加8.55%、较去年同期增加730.14%；累计合并营收1,022.48亿元，较去年同期增加649.62%。
-
-南亚科即将于10号举办第二季法说会，市场关注该公司对记忆体后市的看法。
-
-根据研调机构TrendForce最新记忆体价格调查，2026年第三季整体DRAM格局持续极度短缺，惟因消费性应用需求下修及高基期作用，合约价涨幅收敛，预计将季增13-18%。NAND Flash主要需求仍由AI推论与大型资料中心建置支撑，但因合约价格已达历史高点，消费型客户在需求放缓的情况下，对价格承受力已达极限，预估整体NAND Flash合约价将季增10-15%，幅度较前几季明显缩减。]]></description>
-  </item>
-  <item>
-    <title>信骅6月营收月增2.2%</title>
-    <link>https://finance.technews.tw/2026/07/03/aspeed-5274-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/03/aspeed-5274-202606-financial-report/</guid>
-    <pubDate>Fri, 03 Jul 2026 08:10:08 +0000</pubDate>
-    <description><![CDATA[信骅（5274）公布 6 月合并营收 13.10 亿元，较上（5）月成长 2.2%，与去年同期相比为年增 67 [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>亚光6月营收月增11.1%</title>
-    <link>https://finance.technews.tw/2026/07/03/asia-3019-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/03/asia-3019-202606-financial-report/</guid>
-    <pubDate>Fri, 03 Jul 2026 08:10:06 +0000</pubDate>
-    <description><![CDATA[亚光（3019）公布 6 月合并营收 29.14 亿元，较上（5）月成长 11.1%，与去年同期相比为年增 1 [&#8230;]]]></description>
   </item>
 </channel>
 </rss>
