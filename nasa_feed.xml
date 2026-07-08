@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 08 Jul 2026 13:47:10 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 19:12:12 GMT</lastBuildDate>
+  <item>
+    <title>哈勃望远镜捕捉到星光灿烂的星团</title>
+    <link>https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/</link>
+    <guid>https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/</guid>
+    <pubDate>Wed, 08 Jul 2026 14:13:53 +0000</pubDate>
+    <description><![CDATA[这张来自美国宇航局哈勃太空望远镜的图像展示了梅西耶 3 (M3)，它是银河系最大质量的球状星团，或者说是受引力束缚的恒星的球形集合。球状星团由古代恒星组成，这些恒星大致在同一时间从同一气体云中形成，因此这些恒星的年龄相似。大约 150 个已知的球状星团散布在银河系的外围区域。
+
+图片来源：NASA、ESA 和 A. Sarajedini（佛罗里达大西洋大学）；处理：Gladys Koher（美国宇航局/美国天主教大学）]]></description>
+  </item>
   <item>
     <title>犹他州卡顿伍德火炭队</title>
     <link>https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/</link>
@@ -57,7 +66,7 @@ T]]></description>
 
 NASA 戈达德从 20 世纪 60 年代开始就使用 400 区进行推进剂研究。自那以后，这项工作大部分转移到了其他州的美国宇航局设施或商业提供商，而该财产长期以来一直是撤资的候选者。 NASA 和该部门开始讨论 2021 年的潜在转移。
 
-在转移之前，除了有 11 座小型建筑的两英亩半空地外，400 区几乎仍然完全是树木丛生。跨机构转移于 2 月 23 日生效，NASA 最近完成了该地产的最后收尾活动，拆除了建筑物、道路和公用设施服务。
+在转移之前，除了有 11 座小型建筑的两英亩半空地外，400 区几乎仍然全是树木。跨机构转移于 2 月 23 日生效，NASA 最近完成了该地产的最后收尾活动，拆除了建筑物、道路和公用设施服务。
 
 美国鱼类和野生动物管理局局长布莱恩·内斯维克 (Brian Nesvik) 表示：“通过与合作伙伴合作，以最佳方式利用土地，正如此次土地转让所体现的那样，我们可以继续保护美国的自然美景，并为子孙后代扩大户外休闲机会。”
 
@@ -219,43 +228,6 @@ In one demonstration, engineers began transmitting data from CAPSTONE to Earth, 
 “You can imagine an astronaut walking behind a lunar hill or descending into a crater and temporarily losing connectivity,” said Ben Anderson, a systems engineer for the Near Space Network at NASA’s Goddard Space Flight Center in Greenbelt, Maryland. “This technology allows that data to be automatically retransmitted once communications are restored.”
 
 In addition to its primary achievements, CAPSTONE’s second life as a software-defined testing platform demonstrated ]]></description>
-  </item>
-  <item>
-    <title>美国宇航局韦伯发现了由宇宙碰撞形成的不寻常星系</title>
-    <link>https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/</link>
-    <guid>https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/</guid>
-    <pubDate>Mon, 06 Jul 2026 14:00:00 +0000</pubDate>
-    <description><![CDATA[In new images from NASA’s James Webb Space Telescope to celebrate its fourth science anniversary, a familiar galaxy transforms into something far richer, and far more complex, than ever seen before. Webb’s unprecedented sensitivity across near- and mid-infrared wavelengths cuts through the thick lanes of dust that obscure Centaurus A’s center in visible light, showing a densely packed tapestry of individual stars and an active, everchanging galaxy. These images mark four years of better-than-anticipated performance and successful science operations for the most powerful space telescope in history.
-
-Centaurus A is 11 million light-years away from Earth, relatively close in cosmic terms. Yet, unlike most nearby galaxies, it is very active, making it a powerful laboratory for understanding how galaxies and black holes grow and evolve together.
-
-At its core sits a supermassive black hole actively feeding on surrounding material. As it does, the black hole launchespowerful jetsand releases enormous amounts of energy, shaping the galaxy around it. At the same time, Centaurus A bears the scars of a dramatic past: a major collision with another galaxy roughly two billion years ago. The aftermath of that merger is still visible today in its unusual structure and ongoing star formation.
-
-Visible light observations from NASA’sHubble Space Telescopecould not reveal the central region where dust blocked the view, while NASA’s retiredSpitzer Space Telescoperevealed large scale structures in the infrared without resolving individual stars. Now, Webb brings both clarity and depth, exposing the galaxy’s inner workings star by star.
-
-“No single telescope tells the whole story,” said Shawn Domagal-Goldman, division director, Astrophysics, NASA Headquarters in Washington. “Discoveries build over time and new observatories expand on the foundations laid by earlier missions. Webb represents the most powerful step forward yet, opening a window into wavelengths and details never before accessible. This allows astronomers to examine structures and processes that other telescopes could not see.”
-
-Webb’s mid-infrared vision highlights the galaxy’s rich dust structures, which glow in intricate shapes that surprise and even perplex astronomers. A warped, parallelogram-like band cuts across the galaxy’s center, while wisps of material stretch outward like cosmic clouds.
-
-An “S” shaped feature, most notable in the image from Webb’s MIRI (Mid-Infrared Instrument), is also unusual and invites questions that need further study to answer. What created this shape? How does the black hole influence it? Is it influenced by merger-induced star formation?
-
-Many of the glowing red points in the MIRI image are dust-rich stars or stellar nurseries, where aging stars are shedding material back into space or new stars are forming. This dust is the raw ingredient for future generations of stars and planets, making it central to the ongoing life cycle of the galaxy.
-
-With Webb’s high resolution, astronomers can now study Centaurus A star by star, even in its long-obscured central region. What looks “grainy” in the image from Webb, most obvious in the combined MIRI and NIRCam (Near-Infrared Camera) view, is actually a densely packed field of individual stars, together carrying information about the galaxy’s past.
-
-With Webb’s view of Centaurus A, it becomes a case of galactic archaeology. Each star revealed helps to reconstruct when different events happened: when older stars first formed, when activity slowed down, a burst of star formation during the collision, and stars born from gas stirred in its aftermath. Together, they form a timeline of the galaxy’s evolution.
-
-Webb’s capabilities go beyond imaging. By analyzing light withspectroscopy, astronomers can measure how gas moves within the galaxy.
-
-Early findingsfrom Webb show fast-moving ionized gas flowing outward, likely driven by the black hole’s activity, and warmer molecular hydrogen in a warped rotating disk near the center. These observations help explore one of astronomy’s biggest questions: How does a black hole influence an entire galaxy?
-
-The answer appears to be complex. The black hole can trigger star formation by compressing gas, but also limit it by pushing material away. Centaurus A offers a rare, nearby view of this cosmic interplay.
-
-By tracing dust in never-before-seen detail, resolving millions of stars, and revealing the motion of gas near a supermassive black hole, Webb transforms Centaurus A into a vivid record of cosmic history.
-
-The James Webb Space Telescope is the world’s premier space science observatory. Webb is solving mysteries in our solar system, looking beyond to distant worlds around other stars, and probing the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and CSA (Canadian Space Agency).
-
-The following sections contain links to download this article]]></description>
   </item>
 </channel>
 </rss>
