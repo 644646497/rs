@@ -4,307 +4,211 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 08 Jul 2026 06:19:57 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 10:03:44 GMT</lastBuildDate>
   <item>
-    <title>美日韩签备忘录  打造 SMR 国家队强化印太核能安全</title>
-    <link>https://technews.tw/2026/07/08/the-united-states-japan-and-the-republic-of-korea-sign-a-trilateral-memorandum-of-cooperation-on-small-modular-reactor-deployments-in-other-countries/</link>
-    <guid>https://technews.tw/2026/07/08/the-united-states-japan-and-the-republic-of-korea-sign-a-trilateral-memorandum-of-cooperation-on-small-modular-reactor-deployments-in-other-countries/</guid>
-    <pubDate>Wed, 08 Jul 2026 06:10:57 +0000</pubDate>
-    <description><![CDATA[美、日、韩三国在核能外交与供应链结盟上取得重大突破，将携手建立外交与技术框架，共同把「小型模组化反应炉」（SMR）加快部署至印太地区等海外国家。
+    <title>打破晶片孤岛！法国 AI 新创 ZML 推出跨平台推论伺服器，挑战硬体供应商垄断</title>
+    <link>https://technews.tw/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
+    <guid>https://technews.tw/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</guid>
+    <pubDate>Wed, 08 Jul 2026 10:00:57 +0000</pubDate>
+    <description><![CDATA[人工智慧（AI）深入日常工作与生活，AI 推论（Inference，即处理提示词的过程）最佳化逐渐超越模型训练，成为业界关注的焦点。然而，硬体与架构的壁垒往往导致企业面临「供应商锁定」（vendor lock-in）困境，为了解决痛点，备受瞩目的法国 AI 新创 ZML 近日推出全新 LLM 推论伺服器「ZML/LLMD」，旨在打破晶片间的藩篱。
 
-路透社、韩联社（Yonhap）等外电报导，美国国务院7日宣布，美国国务卿鲁比欧（Marco Rubio）、南韩外交部长赵显（Cho Hyun）以及日本外务大臣茂木敏充（Toshimitsu Motegi）7月7日正式签署了历史性的三边合作备忘录（Memorandum of Cooperation，MOC）。
+全新产品允许各种开源大语言模型（LLM）可以不同晶片运行，包括辉达（Nvidia）、超微（AMD）、Google 的 TPU、苹果 Metal 及 Intel Arc。ZML 创办人 Steeve Morin 表示，公司野心在打破硬体孤岛，让不同晶片处理 AI 任务时都能发挥最大可用速度，有时甚至更快。
 
-为支持这项国际倡议，美国政府已率先提拨专款资金，而美、日、韩三国最具代表性的工业巨头也宣布共组产业联盟，借由官民合作强化全球能源供应安全。
+AI 营运成本居高不下，能用各种晶片达到顶级效能，不仅是技术突破，更可能颠覆市场格局。ZML 希望为企业和云端服务商提供更多选择，能混合使用成本较低或能耗较低的晶片。Morin 表示：「这个想法是为了让用户重新获得建立自己系统的主导权，并实现真正的效率提升，推动 AI 普及。」Morin 观察到，软体辅助有助新兴 AI 晶片制造商（许多来自欧洲，如 Axelera、Fractile、Kalray、OLIX、Q.ANT、SiPearl、SpiNNcloud 和 VSORA）在国际舞台展露头角。但比起晶片商所在地，他更看重 ZML 能与之合作完成「全球前所未有」尝试。
 
-美国承诺投入超过1,000万美元，直接挹注国务院主导的「基础设施负责任使用小型模组化反应炉技术」（Foundational Infrastructure for Responsible Use of Small Modular Reactor Technology，简称FIRST）计划，一开始会专注于向印太地区的伙伴国家提供核心技术支援，协助这些国家部署安全、具备防护性且可靠的商用核能。
+这并不代表 Morin 看空辉达。部分原因在辉达供应量不够，且 ZML 与辉达关系良好，辉达也在积极回应推论市场崛起。
 
-根据新闻稿，这笔款项将用来推进SMR专案的开发活动，并设立一个「SMR区域培训中心」（SMR Regional Training Hub），全力培养及训练核能专业劳动力。
+AI 推论已成投资热点，被誉为「推论淘金热」。ZML 面临不少竞争对手，包括近期估值达 130 亿美元的 Baseten、开源专案 vLLM 团队创立的 Inferact，以及 SGLang 背后的商业公司 RadixArk。虽然 vLLM 和 SGLang 与 LLMD 有部分竞争关系，但 Morin 对 ZML 的愿景宏大，他透露甚至已进入「共同设计晶片」阶段。他将 ZML 快速发展与后续计划归功于仅 20 人的精简团队。
 
-美国国务院也在周二同步公布了一项由美、日、韩、欧多国顶尖企业共同议定的核能产业倡议（industry initiative），参与者有美国电力设备制造商GE Vernova、日立（Hitachi）、南韩营建巨头三星物产（Samsung C&T）以及欧洲SMR开发暨投资商SGE，全面推进「BWRX-300」型号SMR在欧洲的部署行动。
+ZML 总部位于巴黎，虽然规模精简，但研发与扩张速度惊人，这得益于 Morin 成功的背景：曾任 Zenly 工程副总裁（2017 年被 Snapchat 以九位数美元收购），获得与公司规模相称的充足资金。Morin 已成功为 ZML 筹资达 2,000 万美元，投资方有 Harry Stebbings 的 20VC、>commit、AALVC、Drysdale Ventures、Xavier Niel 的 Kima Ventures、Kindred Capital、LocalGlobe 和 Puzzle Ventures 等创投机构。
 
-（本文由MoneyDJ新闻授权转载；首图来源：pixabay）]]></description>
+与 ZML 首个公开专案（2024 年推出今年 3 月更新）不同，此次 ZML/LLMD 并非开源软体，但目前「免费」推出。Morin 解释，这是为了先衡量用户的使用习惯，并在最有效的地方商业化，避免因急功近利而阻碍初期成长。尚无法确定 ZML/LLMD 何时会转为付费产品。
+
+ZML 投资人阵容也极具分量，除了获图灵奖得主现职 AMI Labs 的杨立昆背书，还包括 Dagger 与 Docker 创办人 Solomon Hykes，以及 Hugging Face 创办人 Clément Delangue 和 Julien Chaumond。这再次证明欧洲 AI 新创完全能在本土生根茁壮。Morin 骄傲表示：「除了巴黎，我无法在任何地方创立 ZML。」]]></description>
   </item>
   <item>
-    <title>谱瑞-KY6月营收16.72 亿元</title>
-    <link>https://finance.technews.tw/2026/07/08/parade-4966-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/parade-4966-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 06:10:03 +0000</pubDate>
-    <description><![CDATA[谱瑞-KY（4966）今（8）日公布 6 月营收，达 16.72 亿元，较 5 月成长 27.9%，较去年同期 [&#8230;]]]></description>
+    <title>DRAM 涨势旺至 2027 年！大和看好南亚科，目标价一口气喊上 650 元</title>
+    <link>https://technews.tw/2026/07/08/daiwa-see-nanya-technology-price/</link>
+    <guid>https://technews.tw/2026/07/08/daiwa-see-nanya-technology-price/</guid>
+    <pubDate>Wed, 08 Jul 2026 09:59:01 +0000</pubDate>
+    <description><![CDATA[南亚科本周五（10 日）将举办召开线上法说会，根据日系外资大和最新报告，随著DDR4相较DDR5维持溢价、主要DRAM厂持续缩减供给，料供给吃紧状况将持续，价格涨势亦持续至2027年，重申南亚科买进，目标价由292元大幅调升至650元。
+
+南亚科6月份自结合并营收为293.88亿元，较上月增加6.21%、较去年同期增加621.34%；累计合并营收为1,316.36亿元，较去年同期增加643.12%。大和认为，南亚科6月营收表现优于预期，预期第二季营收达825亿元、营业利益可达490亿元，季增101%，并由去年同期亏损转为获利，同样高于市场共识。
+
+大和也看好在需求强劲下，DRAM平均售价（ASP）季增约68%，成为推升南亚科获利大幅成长的主要动能，预期第三季仍可望受惠于DRAM涨价趋势，带动获利进一步提升。
+
+展望下半年，大和表示，DDR4涨价动能可望延续至2027年。此外，不仅DDR4，DDR3、DDR2价格也同步大幅上涨。
+
+根据研调机构TrendForce最新记忆体价格调查，2026年第三季整体DRAM格局持续极度紧缺，因消费性应用需求下修及高基期作用，合约价涨幅收敛，预计将季增13-18%。NAND Flash主要需求仍由AI推论与大型资料中心建置支撑，但合约价格已达历史高点，消费类客户在需求放缓的情况下，对价格承受力已达极限，预估整体NAND Flash合约价将季增10-15%，幅度较前几季明显缩减。
+
+目前三星、SK海力士及美光等主要DRAM厂商，都将资源优先投入HBM与伺服器DRAM，导致传统DRAM供给持续收缩，使DDR4等成熟产品价格持续受到支撑。
+
+另一方面，随著AI推论需求快速成长，企业级SSD需求同步提升，也带动缓冲记忆体（Buffer DRAM）需求持续增加。大和表示，在长期供货协议支撑下，Buffer DRAM需求可望一路延续至2027年以后。对此，大和重申南亚科「买进」评等，目标价由292元 大幅调升至650元。]]></description>
   </item>
   <item>
-    <title>暖化、野火肆虐下的反思，美国人开始杜绝国庆烟火</title>
-    <link>https://technews.tw/2026/07/08/drone-to-replace-fireworks/</link>
-    <guid>https://technews.tw/2026/07/08/drone-to-replace-fireworks/</guid>
-    <pubDate>Wed, 08 Jul 2026 06:09:14 +0000</pubDate>
-    <description><![CDATA[现在放烟火已不再是国庆的活动，各地方政府还有各大小风景区，都尝试放烟火来帮商家揽客，烟火或许能带来一时的商业效应，但最新研究发现，烟火留下的不只是烟雾，不只会留下化学物质污染环境，美国国庆期间因为烟火造成的野火风险急遽升高。在环境灾害不断的当下，许多美国城镇改以无人机取代烟火，作为一种更安静、干净的替代方案。
+    <title>联合再生能源布局欧亚，泰国案场今年下半年开工</title>
+    <link>https://technews.tw/2026/07/08/solar-panel-and-storage-total-solution/</link>
+    <guid>https://technews.tw/2026/07/08/solar-panel-and-storage-total-solution/</guid>
+    <pubDate>Wed, 08 Jul 2026 09:54:07 +0000</pubDate>
+    <description><![CDATA[全球能源转型持续推进，再生能源与储能市场商机同步扩大。联合再生能源积极布局海外市场，瞄准欧洲及东南亚绿能需求。联合再生执行长张为策表示，公司正由太阳能制造商逐步转型为全方位绿能解决方案供应商，希望透过从模组制造、案场建置、储能到售电的 Total Solution 一站式服务，拓展更多国际合作机会。
 
-今年美国为了庆祝建国250年，首都华盛顿特区举办一场格外盛大国庆活动，其中包括主办单位宣称的华盛顿特区有史以来规模最大的烟火表演。这场烟火表演于美国时间周六晚上施放，施放85万发，持续40分钟。隔天，华盛顿地区发布「紫色」空气品质警报。IQAir周日全球污染城市排名，华盛顿特区竟然排名全球第六。研究人员认为与周六晚间国庆烟火有关。
+为深化海外布局，联合再生近日接连参与德国智慧能源展 The smarter E Europe 与泰国 ASIA Sustainable Energy Week 两大国际能源展，展示太阳能模组、储能系统及能源管理等整合方案。
 
-据美国国家公园管理局文件，国庆烟火表演预期每立方公尺中PM2.5浓度为600~1200微克，最坏情况下达到2000微克。当局建议人们在户外时佩戴N95口罩，并且在演出期间和演出结束后尽可能待在室内，看烟火要带著N95口罩，可见烟火造成的污染有多严重。
+其中，今年德国 The smarter E Europe 聚焦「Renewables 24 / 7」，强调透过太阳能、风电、储能及智慧电网整合，打造全天候稳定供电能力，提升能源系统韧性。
 
-近期发表在美国化学学会(ACS)期刊上的三项研究，都直指烟火污染不是暂时的。研究考察烟火燃放后留下的各种物质，包括废弃碎片、空气中的颗粒物，以及释放到大气中的化学物质，更清晰的展现烟火的持久危害。
+联合再生表示，公司可依大型地面型案场、住宅、商办、车棚及农业等不同应用场域，提供客制化能源方案，参展期间也吸引德国、荷兰及北欧等地能源开发商与系统整合商洽询合作。
 
-烟火也大幅提高野火灾害。现在美国西部和大平原大部分地区，正遭受极端或异常干旱，在炎热干燥的环境下，容易引发火灾，2026 年上半年，美国发生的野火数量，已经超过过去10 年上半年的任何一年。烟火每年都会在美国引发大量火灾，光是2023年就发生32,000起。而且每年7月4日，人为造成的火灾数量都会出现明显大增。
+除欧洲市场外，联合再生能源也加速布局东南亚。联合再生也参与曼谷举办的 ASIA Sustainable Energy Week，展示太阳能、储能及能源管理等整合方案。东南亚市场正加速推动再生能源、储能及智慧能源系统发展，希望借由展会深化在地合作，持续拓展泰国及周边市场商机。
 
-烟火残留的不只是可见的烟雾，这场美国国庆号称规模破纪录的烟火，另一方面也带来愈来愈大的反对声浪，在许多州和干旱地区，为了社区安全，烟火已被禁止燃放。很多地方都在思考无人机与一次性烟火相比，在环境影响、可重复性和益处方面的优势，一些城镇转向使用无人机表现庆祝国庆，作为更干净、更安静的替代方案。
-
-烟火只带来短暂的激情，或许能促进短暂的商业活动，满足了政治人物的虚荣心，但实际上人们是付出更大代价。美国亚利桑那州图森市今年就以无人机替代烟火，当地人称改变这项延续几十年的传统，是令人欣喜的现代化改革。
-
-(首图来源：Flickr/Paulius MalinovsCC BY2.0)]]></description>
+联合再生看好泰国绿电需求持续升温，加上当地太阳能建置成本相较台湾更具优势，目前已规划投资泰国工业区屋顶型太阳能案场，并采自持模式开发，预计今年下半年开工，最快明年第二季起陆续并网，未来除供应绿电外，也将结合储能及能源管理服务，提升供电稳定性与能源使用效率。]]></description>
   </item>
   <item>
-    <title>Ozelle 将于 ADLM 2026 首次展出 O-Cyte 1，加速 AI 形态学智慧分析</title>
-    <link>https://technews.tw/2026/07/08/ozelle-debut-o-cyte-1-adlm-2026-accelerating-ai-morphological-intelligent-analysis/</link>
-    <guid>https://technews.tw/2026/07/08/ozelle-debut-o-cyte-1-adlm-2026-accelerating-ai-morphological-intelligent-analysis/</guid>
-    <pubDate>Wed, 08 Jul 2026 06:00:00 +0000</pubDate>
-    <description><![CDATA[Ozelle 将在加州举办的 ADLM 2026 上发布其最新自动化血液分析仪 O-Cyte 1。做为诊断与检验医学领域顶尖的国际盛会，ADLM 将成为 O-Cyte 1 的全球首秀舞台，这标志著 Ozelle 透过 AI×CBM（全血细胞形态学）推动第四代血液学分析进步过程中的又一重要里程碑。
+    <title>中联油脂案下架名单增至 401 项，卜蜂鸡胸肉、味王泡面、超商快煮餐入列</title>
+    <link>https://technews.tw/2026/07/08/cuoc-401/</link>
+    <guid>https://technews.tw/2026/07/08/cuoc-401/</guid>
+    <pubDate>Wed, 08 Jul 2026 09:40:46 +0000</pubDate>
+    <description><![CDATA[中联油脂致癌物超标案，食药署今天公布最新预防性下架清单、新增 169 项，受影响产品从 232 项增至 401 项，包括金色三麦、卜蜂鸡胸肉、味王泡面、超商快煮餐等，食安风暴越演越烈。
 
-数十年来，细胞形态学一直是血液学最有价值的资讯来源之一。但如何在不影响工作效率的前提下，将形态学无缝融入常规血液学流程，始终是一项挑战。人工显微镜检查高度仰赖专业人员的经验；而基于影像的方法虽拓展了实验室的观察能力，却未必能顺利与常规的高检测量工作流程结合。
+中联「大豆沙拉油」致癌物苯骈芘超标，共1,300公吨流向泰山、福寿及福懋等，共18项受影响产品、共计30批号，受害业者为360家，卫生福利部食品药物管理署昨天公布，已掌握331家、追踪中29家。
 
-O-Cyte 1 专为解决此一产业痛点而打造，将形态学智慧分析、可扩充的检测量与简易操作性能，整合于一体化的小型设备中。该分析仪搭载 Ozelle 的 AI×CBM 技术，可将细胞影像转化为结构化的形态学资讯，支援一种能突破传统数值指标局限、仰赖影像数据出具统一判读结果的全新工作流程。
+食药署于官方网站设置中联油脂案专区，每天更新最新处理情形。继昨天公布首波232项产品明细，包括名称、有效日期或保存期限及其他可供辨识资讯等，回收43.278公吨。
 
-O-Cyte 1 围绕著高效的临床检测流程而设计，单机模式下每小时可完成 60 组检测，透过串联扩充后，每小时最高检测量可达 360 组。设备体积小巧并采用模组化架构，搭配低维护需求的检测流程与便捷的维运设计，将大幅协助医疗机构及实验室操作人员提升检测效率、简化营运流程。
+今天公布最新预防性下架产品清单，统计预防性下架产品清单截至7月8日下午2时，亦新增包括产品包装、效期等资讯。
 
-Ozelle 北美区负责人 Raymond 表示：「O-Cyte 1 体现了我们的愿景，即让先进的形态学智慧技术更实用、更容易扩充，并且更适用于日常的血液检测工作。我们期待在 ADLM 展会上，向全球合作伙伴展示 AI 形态学如何融入更高效的血液学工作流程中。」
+新增169项产品名单有多家知名品牌，包括金色三麦的巧达浓汤、海鲜锅等6项；老协珍的「TOMMI汤米-白酱鳕鱼排米汉堡」及「TOMMI汤米-海鲜虾排米汉堡」2项；路易莎的打抛猪、凯萨酱等33项；卜蜂的义式经典嫩鸡胸等45项；味王的金味王红烧牛肉面、熏香素鸡汤面等8项。
 
-在 ADLM 2026 上，Ozelle 将同步展出 O-Cyte 1 及其临床血液学产品组合。随著北美、欧洲、中东、东南亚、印度及其他地区对高效、可扩充血液学解决方案的需求不断成长，Ozelle 将针对各类临床情境，推出适用于日常诊疗的 AI 驱动型诊断系统。
-
-诚挚邀请参观者及合作伙伴于 ADLM 2026 展会期间（7 月 28 日至 30 日）莅临安那翰会议中心 (Anaheim Convention Center) 2517 号摊位，亲身体验 O-Cyte 1。无法亲临现场的合作伙伴也欢迎索取产品简报，并与我们探讨区域合作的机会。]]></description>
+另外，还有帮超商代工的屏荣食品新丰厂的（快煮餐）红烧狮子头（116/4/24~4/30）、（快煮餐）糖醋鸡丁（116/4/24~4/30）及铁板滑蛋炸猪排丼（116/4/24~5/1）等14项。]]></description>
   </item>
   <item>
-    <title>SpaceX 向 FCC 申请许可，发射 10 万颗 Gen3「胖版」星链卫星</title>
-    <link>https://technews.tw/2026/07/08/gen3-satellite-spacex-starlink-v3/</link>
-    <guid>https://technews.tw/2026/07/08/gen3-satellite-spacex-starlink-v3/</guid>
-    <pubDate>Wed, 08 Jul 2026 05:36:44 +0000</pubDate>
-    <description><![CDATA[SpaceX 正利用充裕资金大幅加快 Gen3 星链卫星群发射节奏，该公司最近向 FCC 提交文件请求 10 万颗 Gen3 卫星发射许可，准备从「轻量化低轨卫星」转向「重型化极低轨道卫星」的新世代架构。
+    <title>记忆体短缺延至 2027 年底！调研谈涨势下「2 大真正赢家」</title>
+    <link>https://technews.tw/2026/07/08/trendforce-and-idc-see-2026-memory/</link>
+    <guid>https://technews.tw/2026/07/08/trendforce-and-idc-see-2026-memory/</guid>
+    <pubDate>Wed, 08 Jul 2026 09:40:40 +0000</pubDate>
+    <description><![CDATA[市场研究公司TrendForce和IDC近期陆续发布针对记忆体价格和供需状况。谈到近期记忆体后市，IDC副总裁Soo-kyoum Kim认为，记忆体市场紧绷状况预计将延续至 2027 年第四季，从长期来看，在这一波记忆体缺货潮下，真正市场赢家是签署长期采购合约（LTA）的客户，以及记忆体公司。
 
-已发射的 SpaceX 星链卫星包含 V1、V1.5、V2、V2 Mini 系列，对应到用户端天线碟硬体则分为 Gen1、Gen2、Gen3；未来即将发射的星链卫星为 V3 系列，对应到用户端硬体为 Gen3。
+根据研调机构TrendForce最新记忆体价格调查，2026年第三季整体DRAM格局持续极度紧缺，惟因消费性应用需求下修及高基期作用，合约价涨幅收敛，预计将季增13-18%。NAND Flash主要需求仍由AI推论与大型资料中心建置支撑，但因合约价格已达历史高点，消费类客户在需求放缓的情况下，对价格承受力已达极限，预估整体NAND Flash合约价将季增10-15%，幅度较前几季明显缩减。
 
-V1（Gen 1）是于 2019～2022 年部署的初代卫星，到 2026 年星链星座将由第三代卫星主导，目前轨道数量最多的主力卫星为 V2 Mini 系列，光学雷射星间链路已成为标准配置，卫星可直接与邻近卫星通讯，不再需要每次都把讯号传回地面站，这也是自 2022 年以来卫星网路延迟大幅下降最主要因素。
+另一方面，Soo-kyoum Kim则引述IDC最新预测显示，今年DRAM市场规模约达5,000亿美元，明年可望逼近1兆美元，甚至有机会在2028年正式突破1兆美元。他认为，这意味原预期要到2029年整体半导体市场才会达到1兆美元，如今光是DRAM单一市场就可能提前达成，凸显AI带动记忆体需求爆发，已彻底改变产业发展节奏。
 
-2026 年 5 月 22 日，SpaceX 宣布已开始在改装太空船测试 V3 卫星硬体，2 颗暱称「Dodger Dogs」的卫星正于轨道评估太空热环境与辐射条件下的 V3 元件表现。
+Soo-kyoum Kim认为，在这波趋势下，最大的赢家无疑是记忆体厂商，而提前透过长期采购协议锁定供货的AI客户，也将因取得稳定供应而受惠。相对之下，手机品牌与OEM厂商成为主要承压者，即使终端市场需求未同步成长，仍必须支付更高价格取得所需的记忆体供应，企业级客户同样需要吸收大幅上涨的DRAM成本。
 
-近日，SpaceX 正式请求美国监管机构 FCC 批准发射、营运多达 10 万颗 Gen3 卫星。
+Soo-kyoum Kim表示，记忆体如今已经真正成为核心基础设施，其重要性如同能源、电力、电信与交通等基础建设。他也强调，景气循环仍然存在，但最大不同在于，现在的循环比过去更加持久，也更具策略性。他原预期记忆体业转折点会出现在2027年，如今已延后至2028年；即便记忆体市场进入修正阶段，也是呈现温和调整，而非过去剧烈下跌。
 
-STARLINK: SpaceX filed FCC application SAT-LOA-20260630-00264 seeking authority to launch and operate up to 100,000 Gen3 NGSO satellites in two very-low Earth orbit shells at nominal altitudes of 323–327.5 km and 473–477.5 km with inclinations from 26° to 96.9°.
+Soo-kyoum Kim认为，地缘政治因素如美国禁令，仍会影响买家取得记忆体供应来源的能力。此外，市场分化将愈来愈明显，如先进制程与成熟制程、AI与消费性市场，都将形成明显区隔。
 
-The system uses…pic.twitter.com/VaXcXYtBtp
+至于价格走势，未来记忆体价格虽然仍将维持相对高档，但涨势预料将逐步放缓，不会无限制上升。Soo-kyoum Kim表示，记忆体厂商也清楚价格终究存在上限，未来更可能透过供应配置与产品组合管理来维持市场平衡，而非持续依赖涨价。
 
-— S.E. Robinson, Jr. (@SERobinsonJr)July 7, 2026
-
-硬体架构上，V3 卫星并非放大版 V2 Mini，而是全面更新。与前几代相比，Gen3 世代性能飞跃幅度相当惊人，卫星下行容量预计提升 10 倍达 1 Tbps，上行容量提升 22 倍达 160～200 Gbps，简单说 Gen3 不只「更快」，还能将星链星座推向支撑企业、AI 资料中心、甚至大规模 Direct-to-Cell 服务的等级。
-
-其次，Gen3 卫星采用大量新设计，包括新一代机载电脑及数据机、更大更先进的相位阵列天线、更长的太阳能板，改用氩气霍尔推进器作为轨道维持推进系统，支援 Ku、Ka、V、E、W、D 等多频段，包括 10.7～13.4 GHz、17.3～21.2 GHz、37.5～42.5 GHz 下行链路频段，以及 231.5～275 GHz 多个上行链路频段。
-
-其次，单颗 Gen3 卫星重达 2,000 公斤，而 Gen2 卫星仅 575 公斤，由于 Gen3 几乎是「胖版」星链，只能透过开发中的星舰（Starship）火箭发射。
-
-根据目前文件内容，Gen3 卫星将部署在极低轨道（VLEO），离地高度仅约 323～477 公里（比 Gen2 还要再低一些），目的是进一步降低延迟。
-
-也由于 Gen3 卫星使用频段与波形大幅改变，用户端当前天线终端设备无法完整吃到新世代卫星效能，SpaceX 已暗示若想完全「吸收」Gen3 卫星威力，用户端可能需升级至新一代终端设备。
-
-（首图来源：Flickr/Official SpaceX PhotosCC BY 2.0）]]></description>
+谈到市场担心的超额下单（over-booking）问题，Soo-kyoum Kim认为目前几乎所有客户都存在提前下单情况，但市场结构已不同于过去。许多HPC与伺服器OEM已将原本下半年的采购需求提前至上半年完成，因此下半年采购动能势必放缓。然而，真正影响市场平衡的是CSP，目前CSP供应充足率仅60%，仍有约四成需求未被满足，即使HPC客户后续释出部分供给，仍可由CSP市场完全吸收，不至于造成市场供过于求。]]></description>
   </item>
   <item>
-    <title>GPT-5.6 三款模型周四上线，Claude Fable 5 推广活动延至 7/12</title>
-    <link>https://technews.tw/2026/07/08/openai-gpt-5-6-and-anthropic-claude-fable-5/</link>
-    <guid>https://technews.tw/2026/07/08/openai-gpt-5-6-and-anthropic-claude-fable-5/</guid>
-    <pubDate>Wed, 08 Jul 2026 04:44:37 +0000</pubDate>
-    <description><![CDATA[OpenAI、Anthropic 竞争日趋激烈，纷纷以最强大的模型投入市场，提供日常使用和开发应用。
+    <title>AI 资料中心需求攀升，美国今、明年用电量将再创新高</title>
+    <link>https://technews.tw/2026/07/08/ai-demand-push-us-electricity-consumption-to-another-record-high/</link>
+    <guid>https://technews.tw/2026/07/08/ai-demand-push-us-electricity-consumption-to-another-record-high/</guid>
+    <pubDate>Wed, 08 Jul 2026 09:10:49 +0000</pubDate>
+    <description><![CDATA[美国当局 7 日表示，用电量继去年连 2 年创新高后，预计今、明年将再创新高，主因人工智慧（AI）资料中心电力需求飙及愈来愈多住宅、商业场所与运输工具改以电力的电气化过程。
 
-OpenAI 新一代模型 GPT-5.6 系列，分别以拉丁文的太阳 Sol、地球 Terra、月亮 Luna 命名，其中 Sol 为旗舰模型、Terra 是适合日常工作的模型、Luna 则是主打快速且平价的模型。OpenAI 8 日透过 X 贴文，宣布 GPT-5.6 Sol / Terra / Luna 三款模型推出时程。
+路透社报导，美国能源情报署（Energy Information Administration，EIA）今天发布「短期能源展望报告」（Short-Term Energy Outlook），预测美国用电需求将从2025年创纪录的4.195兆度（kWh），增至2026年的4.269兆度及2027年的4.399兆度。
 
-「GPT-5.6 Sol 将与 Terra、Luna 一同在本周四正式推出，我们目前正将预览存取权限扩大至全球」，OpenAI 表示。至于台湾使用者能够使用的确切时间，则待 OpenAI 公布，或从 ChatGPT、Codex 等产品中得知。
+用电需求大幅增加，主要因为AI及加密货币资料中心，以及住宅和商业场所在供暖和交通方面逐渐以电力取代化石燃料。
 
-GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday.
+能源情报署指出，用电需求成长是由商业部门带动，预计2026年商业用电量将首次超越住宅用电量，创下历史纪录。
 
-We’re expanding preview access globally now.pic.twitter.com/Uk5HcfSc2e
+能源情报署预测，2026年住宅用电量将略降至1.508兆度，商业用电量则会上升至1.550兆度。工业用电量则预估为1.065兆度。
 
-GPT-5.6 Terra 性能媲美 GPT-5.5，但价格便宜一半，GPT-5.6 Luna 则以史无前例的超低成本带来强劲实力。旗舰级 GPT-5.6 Sol 具备 OpenAI 至今最牢固的安全技术，针对高风险活动、敏感网路请求及反复滥用强化了保护措施，花费数周寻找系统弱点、进行压力测试，强化其抵御真实世界攻击的能力。
+至于历史最高纪录，住宅用电量为2025年的1.515兆度，商业用电量为2025年的1.493兆度，工业用电量则为2000年的1.064兆度。
 
-Anthropic 上周已让 Claude Fable 5 模型重新上线，为世界各地 Claude 使用者恢复存取，台湾使用者也能使用 Claude Fable 5。
+能源情报署表示，随著再生能源发电增加，煤炭发电占比将由2025年的17%降至2026年及2027年的15%；天然气发电占比则维持40%，与2025年相同。
 
-原先针对 Claude Pro、Claude Max、Claude Team 及部分 Claude Enterprise 订阅方案提出的推广活动，在 7 月 7 日前，可免费使用 Claude Fable 5 达到 50% 的每周限制。达到上限后，使用用量点数可继续使用 Claude Fable 5，或切换其他模型并在剩余限制内继续工作。
-
-Anthropic 8 日宣布，这项推广活动延长至太平洋时间 7 月 12 日晚上 11:59:59，台湾时间则是 7 月 13 日 下午 2:59:59，同样能在 Fable 5 上使用达到 50% 的每周限制。
-
-需要注意的是，推广活动结束后，Claude Fable 5 不包含在订阅方案的每周用量限制中，必须透过用量点数才能使用 Claude Fable 5。
-
-As before, you can use up to 50% of your weekly usage limit on Claude Fable 5. After that, you can keep using Fable 5 with usage credits, or switch to another model to keep working within your remaining limits.
-
-Read more:https://t.co/aNtorRFPnV
-
-— Claude (@claudeai)July 7, 2026]]></description>
+根据短期能源展望报告，再生能源发电占比将从2025年约24%，上升至2026年的25%及2027年的27%，核能发电占比在2026年和2027年维持18%，与2025年相同。]]></description>
   </item>
   <item>
-    <title>比热浪更严重的是干旱，法国人怪 AI 资料中心</title>
-    <link>https://technews.tw/2026/07/08/water-shortage-in-france/</link>
-    <guid>https://technews.tw/2026/07/08/water-shortage-in-france/</guid>
-    <pubDate>Wed, 08 Jul 2026 04:41:14 +0000</pubDate>
-    <description><![CDATA[6月创纪录的高温在法国造成超过2千人死亡，7月热浪加剧还伴随干旱。本周法国迎来第三波热浪，预计西南部部分地区最高气温将达到40°C，同时因为持续少雨，多个地方政府发布限水令，当地民众怒火指向农业、水管漏水，以及资料中心撷取他们的生命之水。
+    <title>电网跟不上 AI，表后发电、独立供电成新解方</title>
+    <link>https://technews.tw/2026/07/08/grid-is-going-to-not-the-main/</link>
+    <guid>https://technews.tw/2026/07/08/grid-is-going-to-not-the-main/</guid>
+    <pubDate>Wed, 08 Jul 2026 09:00:11 +0000</pubDate>
+    <description><![CDATA[AI 算力持续攀升，也让资料中心供电模式逐渐改变。随著美国电网新增容量逐渐跟不上 AI 资料中心建设速度，市场预期 2028 年后可用电网容量将趋近饱和，未来新增大型 AI 资料中心将加速采用表后发电（Behind-the-Meter，BTM）架构，带动现场发电与 SOFC 需求快速成长。
 
-科学家指出，如果发生在1976年的气候条件下，类似的热浪气温会低3.5°C左右，凸显极端高温在短短几十年内已经急剧加剧，干枯的植被已成为野火的燃料，自夏季开始以来，法国已发生近7,000起火灾，燃烧面积约8,700公顷。法国西南部已有1万人被迫撤离，强风助长的大火已烧毁4,600公顷土地。
+目前美国电网仍面临并网审查流程冗长、天然气电厂建设速度不足，以及燃气涡轮机、变压器等关键设备交期拉长等挑战，使新增供电能力难以跟上 AI 资料中心快速成长的用电需求。
 
-热浪、野火，最新威胁是缺水。高温干旱已经冲击农作物，玉米是法国夏季需水量最大的作物之一，在炎热干燥的时期，尤其是在开花期，通常需要灌溉。农业部预测，法国今年的玉米收成预计将是数十年来最糟糕的，约有三分之一的玉米因高温而欠收。
+未来随著供需缺口持续扩大，大型资料中心可望逐步转向表后发电，甚至采用独立孤岛发电（Islanded Microgrid）架构，由现场发电设备直接供应资料中心全天候运作，降低对公共电网的依赖。
 
-影响的还有葡萄酒。7月中之前预计法国主要葡萄酒产区几乎没有降雨，许多地区的旱期已持续超过三周。在波尔多和勃艮地，热浪更严重，生产商警告产量将明显下降。香槟产区被迫史上最早时间采收，同时预告葡萄产量将比去年减少约10%。
+随著 AI 资料中心供电模式转变，SOFC 的定位也正在改变，从过去等待电网接入期间的桥接电源（Bridge Power），逐渐成为资料中心的主要基载电力来源。
 
-法国的水危机并非个案，而是几十年来一直稳步下降。1990~2001年和2002~2018年期间下降14%。原因是冬季更加干燥温暖，积雪融化提前，再加上夏季气温升高导致蒸发量增加，共同导致这种趋势，农业用水需求高、家庭用水和法国核电厂的冷却需求增加，使得情况更加恶化。
+今年 4 月，甲骨文宣布于美国新墨西哥州建置 2.45 GW 的 AI Factory「Project Jupiter」，原先规划采用西门子天然气涡轮机作为供电方案，最终改为全面采用 Bloom Energy 的 SOFC 燃料电池。
 
-今年情况更加恶化，法国经历自1900年有史以来最温暖的春天，今夏又迎来极端高温天气。据法国气象局称，气温比往年同期平均高出1.7°C，降雨量比平均值低约30%。地下水监测机构地质与矿业研究局估计，法国77%的地下水位目前正在下降。
+Bloom Energy 与 Brookfield 于 6 月宣布扩大策略合作，将 AI 基础设施电力专案的合作规模由原先 50 亿美元大幅提高至 250 亿美元，加速推动全球 AI 资料中心燃料电池部署。
 
-由于高温和低降雨量的双重影响，水资源储备也已接近极限。根据政府平台，截至7月1日，法国96个省份中有84个省份，至少有一个市镇受到某种形式的自来水限制，十几个省份至少有一个市镇处于自来水最高「危机」级别，居民被限制浇花、洗车和注满私人游泳池。
+市场认为，随著 AI 用电需求持续攀升，在公共电网建设速度有限的情况下，现场发电、表后发电与独立孤岛发电将逐渐成为大型 AI 资料中心的重要供电模式，SOFC 也有望成为未来 AI 基础设施的关键电力技术。
 
-法国在核电优势与政府支持下，支持AI资料中心在法国大举建设。法国人纷纷在社群媒体上表达不满，许多人敌意指向耗水量巨大的资料中心。表示，「在告诉我们浇灌菜园、花卉等用水要节制之前，先削减那些贪婪的资料中心用水量吧。」
+所谓表后发电（Behind-the-Meter，BTM），是指发电设备建置于用户电表后端，由资料中心自行发电并直接供应用电，而非完全依赖公共电网。
 
-破纪录的热浪与干旱持续发生，已经不只是环境问题，逐渐蔓延到社会冲突与对政府的不信任。民众要看到的是政府如何面对一个更热、更干、更容易淹水与野火的气候新现实，而不是在我家后院盖几座AI资料中心。]]></description>
+与过去多以表后储能作为削峰、备援不同，AI 资料中心开始导入 SOFC 燃料电池、天然气发电等现场发电设备，不仅可缩短等待电网接电时间，也能降低对公共电网的依赖，满足全天候、高可靠度的供电需求。]]></description>
   </item>
   <item>
-    <title>传苹果开始测试长鑫存储 DRAM，现实是扩产也难压下记忆体价格</title>
-    <link>https://technews.tw/2026/07/08/apple-test-cxmt-dram/</link>
-    <guid>https://technews.tw/2026/07/08/apple-test-cxmt-dram/</guid>
-    <pubDate>Wed, 08 Jul 2026 04:33:41 +0000</pubDate>
-    <description><![CDATA[外媒《金融时报》（FT）引述两位知情人士的话透露，苹果已开始测试长鑫存储DRAM晶片，计划应用于中国市场销售的装置。此外，苹果也带头游说美国政府，希望允许美国科技公司更广泛采用长鑫存储的产品。
-
-苹果过去曾评估采用中国记忆体供应商，当时已遭美国政界强烈反对。针对是否正在测试长鑫存储晶片一事，苹果拒绝回应。
-
-台湾DSET科技、民主与社会研究中心研究员Emory Tsai-Yi Wang指出，中国对长鑫存储抱有极高期待，它是中国建立自主AI供应链国家战略中不可或缺的一环。
-
-近年全球记忆体供应吃紧，也彻底改变长鑫存储的财务表现。根据其IPO招股书，公司今年第一季净利达330亿人民币，相较过去10年累计亏损370亿人民币，可说出现戏剧性逆转。
-
-目前长鑫存储已成为全球第四大DRAM制造商，仅次SK海力士、三星与美光，产品广泛应用于智慧型手机、伺服器等各类电子设备。根据SemiAnalysis统计，长鑫存储去年约占全球DRAM晶圆产能11%，随著合肥、上海与北京的新产线陆续投产，预估到2028年将提升至15%。
-
-虽然长鑫存储持续快速扩产，但业界普遍认为新增的产能短期内仍难以压低记忆体价格，原因在于目前几乎所有产能都已被客户预订，而市场需求仍持续增加。
-
-SemiAnalysis记忆体分析师Ray Wang表示，外界普遍误以为中国记忆体价格非常便宜，但实际是目前产能仍极度吃紧，即使长鑫存储持续扩产，未来至少两年仍将面临供不应求的局面。
-
-但若中国切入供应链，也可能重演太阳能与电动车产业的发展模式，即在政府大力补贴下快速扩充产能，最终导致价格大幅下滑，进而挤压海外竞争者的获利空间。对此，长鑫存储拒绝回应。
-
-虽然DRAM业务已让长鑫存储开始获利，但能否成功打入HBM市场是更大考验。根据分析师与知情人士的说法，长鑫存储已将部分新建产线（包括上海新厂）配置用于HBM，但目前HBM在中国市场的实际应用仍相当有限。此外，在美国于2024年祭出出口限制前，中国AI业者已提前大量囤积韩制HBM，且禁令实施后，该记忆体仍透过走私流入中国。
-
-由于无法获得最先进EUV设备，长鑫存储生产HBM成本也高于海外竞争对手。DSET研究员Emory Tsai-Yi Wang认为，长鑫存储目前良率仍偏低，必须不断试产与修正来改善制程，这也提高中国企业导入相关技术的门槛。
-
-不过市场普遍预期，长鑫存储将利用传统DRAM业务带来的获利，加上即将完成IPO募资，来支撑未来数年HBM技术研发与产能布局。]]></description>
+    <title>元太6月营收月增23.2%</title>
+    <link>https://finance.technews.tw/2026/07/08/eih-8069-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/08/eih-8069-202606-financial-report/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:50:04 +0000</pubDate>
+    <description><![CDATA[元太（8069）公布 6 月合并营收 40.41 亿元，较上（5）月成长 23.2%，与去年同期相比为年增 - [&#8230;]]]></description>
   </item>
   <item>
-    <title>卢特尼克陷风暴、稀土投资案遭扩大调查  USAR 摔</title>
-    <link>https://finance.technews.tw/2026/07/08/democratic-lawmakers-probe-lutnicks-possible-ties-to-cantor-fitzgerald-deal/</link>
-    <guid>https://finance.technews.tw/2026/07/08/democratic-lawmakers-probe-lutnicks-possible-ties-to-cantor-fitzgerald-deal/</guid>
-    <pubDate>Wed, 08 Jul 2026 04:20:55 +0000</pubDate>
-    <description><![CDATA[市场传出，民主党议员开始扩大调查川普政府的 160 亿美元稀土投资案，美国稀土新创商 USA Rare Earth（USAR.US）等概念股应声下杀。
-
-华尔街日报7日披露的信函副本显示，民主党国会议员向金融服务商Cantor Fitzgerald索取资料，调查该机构是否因跟商务部长卢特尼克（Howard Lutnick）关系深厚，而从投资案获益。
-
-根据报导，国会议员在寄给Cantor董事长Brandon Lutnick（即卢特尼克之子）的信函中，质疑美国政府对USA Rare Earth高达16亿美元的投资案，可能违反利益冲突法。
-
-Cantor过去由卢特尼克掌舵超过30年，他之后将公司所有权移交给子女。该公司先前曾与USA Rare Earth有过合作，并在这次与政府投资相关的私募发行中，担任主办配售代理人（lead placement agent）。
-
-这封信函要求Cantor说明当初是如何被选中承接此项业务，以及所收取的任何相关费用。该信由参议员Elizabeth Warren（麻州民主党籍）、Ron Wyden（奥勒冈州民主党籍）、Chris Van Hollen（马里兰州民主党籍）以及众议员Zoe Lofgren（加州民主党籍）共同签署。
-
-今年稍早，民主党议员也曾向卢特尼克及USA Rare Earth执行长Barbara Humpton索取资料，以寻求交易的详细资讯。这次寄给Cantor的信函中指出，由于商务部长先前「拒绝提供解答」，促使他们扩大调查范围，将该公司也纳入其中。
-
-USA Rare Earth 7日闻讯重挫8.11%、收17.78美元，创4月14日以来收盘新低。
-
-其他稀土概念股同步走软。美国稀土开采商Critical Metals Corp.、稀土商MP Materials、美国铀矿与稀土元素开采商Energy Fuels分别下挫5.51%、4.75%、6.61%。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Daniel Torok, Public domain, via Wikimedia Commons）]]></description>
+    <title>金像电6月营收月减5.9%</title>
+    <link>https://finance.technews.tw/2026/07/08/gce-2368-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/08/gce-2368-202606-financial-report/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:50:02 +0000</pubDate>
+    <description><![CDATA[金像电（2368）公布 6 月合并营收 82.55 亿元，较上（5）月成长 -5.9%，与去年同期相比为年增  [&#8230;]]]></description>
   </item>
   <item>
-    <title>叫阵三星 400 层！铠侠、Sandisk 发表全球最高储存密度 3D NAND</title>
-    <link>https://technews.tw/2026/07/08/kioxia-and-sandisk-new-332-3d-nand/</link>
-    <guid>https://technews.tw/2026/07/08/kioxia-and-sandisk-new-332-3d-nand/</guid>
-    <pubDate>Wed, 08 Jul 2026 04:04:49 +0000</pubDate>
-    <description><![CDATA[铠侠（Kioxia）与Sandisk上周宣布，已开始提供最新332层3D NAND Flash记忆体样品。新一代产品BiCS10（第10代BiCS）3D TLC NAND主要锁定资料中心储存应用，不仅兼顾高密度与高效能，储存密度方面更有望超越三星最新V10世代400层3D NAND。
+    <title>受惠 AI 伺服器 BBU 需求带动！三集瑞 6 月营收月增 29.02%</title>
+    <link>https://finance.technews.tw/2026/07/08/bbu-inductor/</link>
+    <guid>https://finance.technews.tw/2026/07/08/bbu-inductor/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:40:32 +0000</pubDate>
+    <description><![CDATA[被动元件电感大厂三集瑞今日公告 6 月合并营收 1.68 亿元，月增 29.02%，主要受惠 AI 伺服器相关 BBU 备货需求增温挹注，累计上半年营收 9.12 亿元，年减 27.61%，即便第二季整体营运仍受到全球记忆体供应吃紧影响，但下游 NB/PC 仍维持一定库存回补需求，拉货时程递延陆续出货。
 
-与前几代不同，BiCS10锁定资料中心等企业级储存市场，因为在这类应用中，位元密度与效能的重要性高于制造成本。BiCS10采用332层堆叠，面积储存密度超过29 Gb/mm²、提升59%，效能比前代提升约 33%，资料传输速度达4,800 MT/s，可支援采用PCIe 5.0与PCIe 6.0介面。
+随著 AI 伺服器运算能力快速提升，单机功耗持续攀升，BBU 功率需求已由过去 5.5kW、8kW 大幅提升至 13kW 以上，对高功率磁性元件的技术门槛同步提高，由于不少传统供应商难以因应新一代高功率规格，三集瑞已顺利切入国际客户供应链，并取得批量订单，带动 BBU 进入稳定放量阶段。
 
-至于消费性市场，铠侠与Sandisk则计划持续提供BiCS9 NAND，BiCS10是否用于高效能消费性SSD，仍将取决于市场供需情况。
+三集瑞持续深化 AI 电源领域布局，其中大功率电源供应器磁性元件采用高性能磁性材料，开发高功率密度客制化产品，主要应用于次世代高压直流（HVDC）及固态变压器（SST）等新世代电源架构，可满足高绝缘、高耐压及高效率等需求，可望成为未来 AI 基础建设的重要关键零组件。
 
-铠侠表示，新产品可将读取延迟降低约4微秒（约降低10%）、读取能耗也降低约25%，由每GB约100 mJ降至75 mJ。这些改善来自全新设计的读取机制，改变连续读取时未被选取字线（Word Line）的运作方式。
+为因应 AI 伺服器持续朝高功率密度、小型化方向演进，三集瑞积极布局整合式电源模块市场，改变过往合作模式，直接与 IC/ASIC 方案商共同开发第一级及第二级 DC/DC 电源模块，目前已依不同客户需求完成 14 款不同尺寸电源模块电感产品开发，并陆续进入试产及送样阶段。
 
-铠侠与Sandisk将分别在不同工厂生产BiCS9与BiCS10。在日本岩手县北上市的最新Fab 2晶圆厂负责生产旗舰级332层BiCS10；位于三重县四日市生产基地，则持续负责218层BiCS9的量产。
+展望后市，全球云端服务供应商持续扩大 AI 基础建设投资，美国市场需求稳健成长，中国 AI 资料中心建设与通用型伺服器持续升温，三集瑞凭借已切入美系 AI 供应链，并拥有苏州、东莞、台湾等地生产研发布局优势，预期将同步掌握两大市场成长契机。
 
-据悉，Fab 2配备铠侠最先进的制造设备，更适合生产最高密度的BiCS10；至于技术成熟的四日市工厂，则更适合量产面向消费市场的BiCS9。此外，四日市厂大部分设备已完成折旧，可用较低成本生产主流NAND，并将最新产能保留给Fab 2，以生产最先进NAND产品。]]></description>
+随著高功率 BBU、HVDC 电源、固态变压器及整合式电源模组等高阶产品陆续放量，以及泰国新厂最快在今年底前落成启用，三集瑞对 2026 年下半年营运维持审慎乐观看法，并看好 2027 年在 AI 基础建设持续扩张带动，营收与获利将迎来新一波成长动能。]]></description>
   </item>
   <item>
-    <title>飞雅特迷你电车 Topolino 在美预购  只卖 1.4 万美元</title>
-    <link>https://technews.tw/2026/07/08/fiat-topolino-opens-for-preorders-in-the-us/</link>
-    <guid>https://technews.tw/2026/07/08/fiat-topolino-opens-for-preorders-in-the-us/</guid>
-    <pubDate>Wed, 08 Jul 2026 04:00:23 +0000</pubDate>
-    <description><![CDATA[义大利车厂飞雅特（Fiat）7 日宣布，旗下超迷你纯电动车 Topolino 正式在美国开放预购，官方定价 13,995 美元，主打日常代步需求，锁定社区、度假村及高尔夫球场等短程移动场景，进一步扩大北美电动车布局。
-
-CNBC等外媒报导，Topolino采双人座设计，车长2.4公尺、车重仅450公斤，搭载5.4kWh锂电池，充电约5小时即可充满，最高续航里程达74公里，标准版车型最高时速可至每小时31公里。
-
-飞雅特表示，今年夏末将提供免费升级套件，车主完成改装后，Topolino时速可以提高至40公里，符合美国低速车辆（Low-Speed Vehicle，LSV）规范，能够于速限56公里以下的特定区域或路段行驶，进一步提升实用性。
-
-Topolino于2023年率先在欧洲上市，名称源自飞雅特1930年代经典车款，义大利文意为「小老鼠」，也是迪士尼经典角色米奇的义大利文暱称。Topolino提供硬顶版及敞篷版两种车型，首年将以限量方式在美国市场贩售。
-
-去年底，美国总统川普曾公开称赞日本轻型车（K Car）设计轻巧可爱，引发市场关注微型车在美国市场的发展潜力。不过，飞雅特强调，引进Topolino与川普言论无关，而是经过多年市场调查所制定的产品布局。]]></description>
+    <title>讯芯-KY6月营收7.50 亿元</title>
+    <link>https://finance.technews.tw/2026/07/08/shunsin-6451-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/08/shunsin-6451-202606-financial-report/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:40:15 +0000</pubDate>
+    <description><![CDATA[讯芯-KY（6451）今（8）日公布 6 月营收，达 7.50 亿元，较 5 月成长 20.2%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>没有个人网站也能看 SEO，Google Search Console 新功能让创作者可直接追踪社群与 YouTube 搜寻流量</title>
-    <link>https://technews.tw/2026/07/08/google-search-lets-creators-know-more-about-their-reach/</link>
-    <guid>https://technews.tw/2026/07/08/google-search-lets-creators-know-more-about-their-reach/</guid>
-    <pubDate>Wed, 08 Jul 2026 03:50:51 +0000</pubDate>
-    <description><![CDATA[Google 于 7 月 7 日宣布，将在 Google Search Console 推出名为「平台属性」（platform properties）的新功能，让内容创作者与网站经营者更清楚掌握使用者如何透过 Google 搜寻找到其社群媒体个人档案与 YouTube 内容。透过这项更新，创作者将能追踪哪些搜寻字词把使用者引导至其 Instagram、TikTok、X 与 YouTube 内容，并观察受众与贴文的互动情况。
-
-根据 Google 说明，许多创作者与出版者如今不只依赖自有网站接触受众，而是同时经营多个外部平台。随著使用者愈来愈偏好第一手观点与多元内容形式，Google 希望让站长与创作者──即使没有自己的网站──也能更集中地了解各类内容在搜寻中的曝光与被发现方式。
-
-这项新功能也延续 Google 近期把搜寻服务打造为创作者内容枢纽的方向。就在 6 月，Google 才开始让大型创作者与出版者在搜寻中认领专属个人档案，并可加入其他平台连结，甚至钉选来自 TikTok 与 Instagram 的影片。如今再加入「平台属性」，意味著创作者除了能在搜寻结果中建立更完整的展示入口，也能进一步取得内容被搜寻发现的资料。
-
-Google 表示，「平台属性」功能将在未来几周内逐步推出。随著功能上线，创作者与出版者可望更具体掌握搜寻如何把流量导向其社群与 YouTube 内容，并据此调整内容发布与经营策略。]]></description>
+    <title>统新6月营收7,073.40 万元</title>
+    <link>https://finance.technews.tw/2026/07/08/apogee-6426-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/08/apogee-6426-202606-financial-report/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:40:11 +0000</pubDate>
+    <description><![CDATA[统新（6426）今（8）日公布 6 月营收，达 7,073.40 万元，较 5 月成长 5.2%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>台股零股 9 点开盘交易拚年底上路！金管会证实「延长交易」暂不实施</title>
-    <link>https://finance.technews.tw/2026/07/08/odd-lot-trading/</link>
-    <guid>https://finance.technews.tw/2026/07/08/odd-lot-trading/</guid>
-    <pubDate>Wed, 08 Jul 2026 03:42:14 +0000</pubDate>
-    <description><![CDATA[立法院财政委员会今日讨论台股交易制度改革，证交所董事长林修铭答询证实，零股 9 点开盘交易将在年底前上路，并规划撮合自 5 秒缩短至 1 秒，最快明年 7 月上路，至于台股交易时间延长至 15：30 一事，金管会主委彭金隆明确回应「暂不实施」。
-
-林修铭表示，目前台股交易自 9 点正式开盘，但零股交易需等到 9：10 开始进行首次撮合，但随著 AI 带动高价股飙涨，为提升小资族投资零股交易的效率，预计年底前就会实施零股 9 点开盘交易新制。
-
-林修铭指出，现行台股交易为每 5 秒撮合一次，使得不少投资人抱怨存在价差、成交效率较低等问题，目前考量券商 IT 系统稳定问题，为配合券商改善系统，预计 2027 年 7 月规划将撮合时间自 5 秒缩短至 1 秒。
-
-至于台股交易时间延长至 15：30 一事，彭金隆表示，这个议题涉及交易制度重大改革，影响层面广泛，目前在未达成社会共识前绝不推动，因为这类制度变更皆需经过漫长的社会共识过程，目前台股的首要优先次序并非这项变革。
-
-针对零股 9 点开盘交易的具体执行规划，彭金隆表示，尽管行政机关愿意加速改革，但交易所的制度变更攸关众多市场参与者，其中只要漏掉一个环节，势必就会产生很大的问题，所以金管会将十分谨慎，能快不会慢。]]></description>
+    <title>瑞仪6月营收月增0.4%</title>
+    <link>https://finance.technews.tw/2026/07/08/roec-6176-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/08/roec-6176-202606-financial-report/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:40:08 +0000</pubDate>
+    <description><![CDATA[瑞仪（6176）公布 6 月合并营收 36.94 亿元，较上（5）月成长 0.4%，与去年同期相比为年增 -1 [&#8230;]]]></description>
   </item>
   <item>
-    <title>微软 Xbox 认赔「游戏界 Netflix」梦想，裁员 3,200 人并放弃五家工作室</title>
-    <link>https://finance.technews.tw/2026/07/08/microsofts-xbox-layoffs-failing-streaming-strategy-led-to-big-job-cuts/</link>
-    <guid>https://finance.technews.tw/2026/07/08/microsofts-xbox-layoffs-failing-streaming-strategy-led-to-big-job-cuts/</guid>
-    <pubDate>Wed, 08 Jul 2026 03:40:02 +0000</pubDate>
-    <description><![CDATA[微软公司（Microsoft Corp.）7 日宣布重大组织改革，全球裁减约 4,800 个职位，约占全球员工总数 2.1%。Xbox 游戏部门为重灾区，裁减 3,200 名员工，占 20% 员工，并放弃五家游戏工作室。微软此举等于公开承认，过去十年耗资近 800 亿美元、试图将 Xbox 打造成「游戏界 Netflix」的串流与订阅制策略宣告失败。
-
-十年来微软为了与索尼（Sony）PlayStation和任天堂（Nintendo）Switch竞争，展开大规模收购潮。最受瞩目莫过于近三年前以690亿美元收购游戏巨头动视暴雪（Activision Blizzard），以及收购拥有《上古卷轴》（Skyrim）等知名IP的ZeniMax Media。微软原寄望以庞大游戏阵容推动主机销售，并吸引玩家订阅Game Pass，但Xbox Series X / S主机销量未达预期，Game Pass增长速度也大不如前。
-
-Xbox执行长阿莎·夏尔马（Asha Sharma）给员工的信坦言，收购与订阅制策略「并未以预期速度成长」，导致核心业务走弱。微软执行长萨蒂亚·纳德拉（Satya Nadella）日前也在Podcast节目指出，必须将部门转型视为可持续发展的业务，并自嘲在YouTube直播Xbox内容的创作者，赚得都比微软还多。
-
-夏尔马直言：「我们今天的业务并不健康。」她指Xbox利润率比同类平台和发行商低3~10倍，Xbox每投入1美元会亏损64美分。此外，游戏产业也遭遇「史上最严重的硬体危机」，由于主机零组件（特别是记忆体晶片）成本飙升，导致硬体成本居高不下。Xbox已计划8月1日起，主机价格调涨100~150美元（视机型而定）。
-
-为了扭转颓势，Xbox将进行「Xbox史上最大重组」。3,200名裁减Xbox员工，1,600人已于6日立即离职，其余1,600人将在2027财政年度内陆续裁减。Xbox也会大幅扁平化管理架构，将14管理层级缩减至不超过五层，理想目标是三层。
-
-工作室方面，微软放弃五家游戏工作室，四家已确认剥离：Compulsion Games和Double Fine Productions恢复独立公司，Ninja Theory和Undead Labs移交给新管理层。Xbox将缩减战线，停止无法赚到平台级报酬的扩张性创意投资，专注《当个创世神》（Minecraft）系列开发商Mojang和《Candy Crush》系列开发商King等核心战略支柱。
-
-此次裁员4,800人，除了Xbox部门，也波及销售AI产品的销售团队。微软人力资源长艾米·科尔曼（Amy Coleman）表示，是为了因应客户需求变化而重组，并澄清AI没有直接取代员工。裁员前微软已于5月提供约8,750名员工自愿退休方案，超过30%合资格员工接受方案。微软重心与资金大举转向人工智慧（AI）基础设施建设，传统游戏业务不得不面临痛苦的「重开机」。]]></description>
+    <title>嘉泽6月营收月增1.8%</title>
+    <link>https://finance.technews.tw/2026/07/08/lotes-3533-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/08/lotes-3533-202606-financial-report/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:30:31 +0000</pubDate>
+    <description><![CDATA[嘉泽（3533）公布 6 月合并营收 30.94 亿元，较上（5）月成长 1.8%，与去年同期相比为年增 17 [&#8230;]]]></description>
   </item>
   <item>
-    <title>日本缺工相关破产数创新高、「工资高涨」飙 1.4 倍</title>
-    <link>https://finance.technews.tw/2026/07/08/japan-labor-shortage-related-bankruptcies-hit-record-high/</link>
-    <guid>https://finance.technews.tw/2026/07/08/japan-labor-shortage-related-bankruptcies-hit-record-high/</guid>
-    <pubDate>Wed, 08 Jul 2026 03:30:41 +0000</pubDate>
-    <description><![CDATA[日本企业缺工严重，2026 年上半年（1-6 月）日本缺工相关破产数大增近四成，创下历史新高纪录，其中「工资高涨型」最多，飙增 1.4 倍。
-
-日本民间信用调查机构东京商工研究（TSR）公布调查报告指出，日本企业缺工严重，2026年上半年（1-6月）日本起因于缺工的企业破产件数（缺工相关破产件数）达237件，较去年同期大增37.7%，就历年上半年情况来看，为2013年开始进行调查以来首度冲破200件大关，连续第三年创下历史新高纪录。
-
-就缺工相关破产的类别来看，1-6月「工资高涨型」（因工资等人事成本增加、导致收益恶化）最多，较去年同期飙增1.4倍（飙增140%）至120件。
-
-TSR表示，1-6月缺工相关破产数中，资本额低于1,000万日圆的小型 / 微型企业大增41%至154件，占整体比重达65%。就产业别来看，服务业最多，较去年同期大增45%至94件，其次为营建业（41件）、运输业（33件），劳力密集型产业的破产情况尤为显著。
-
-TSR指出，在成本持续攀升下，无论是BtoB还是BtoC，议价能力较弱的小型 / 微型企业价格转嫁脚步往往较为缓慢。在大企业和中小企业之间的薪资差距扩大背景下，「加薪」逐渐成为企业重担。
-
-日本劳动组合总连合会（连合）7月3日公布2026年春斗第七次（最终回）汇整结果，日本企业的薪资调升幅度平均为5.01%，低于第六次汇整结果（5.02%），和去年同期（2025年春斗第七次汇整结果、5.25%）相比下滑0.24个百分点，不过已连续第三年高于5%。日本企业加薪幅度连三年高于5%，为泡沫经济时期以来（1991年以来）首见。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Unsplash）]]></description>
+    <title>优群6月营收月增5.8%</title>
+    <link>https://finance.technews.tw/2026/07/08/argosy-3217-202606-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/07/08/argosy-3217-202606-financial-report/</guid>
+    <pubDate>Wed, 08 Jul 2026 08:30:24 +0000</pubDate>
+    <description><![CDATA[优群（3217）公布 6 月合并营收 3.24 亿元，较上（5）月成长 5.8%，与去年同期相比为年增 2.4 [&#8230;]]]></description>
   </item>
 </channel>
 </rss>
