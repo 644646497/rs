@@ -4,189 +4,355 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 08 Jul 2026 20:53:02 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 01:28:56 GMT</lastBuildDate>
   <item>
-    <title>太空牛仔出任务，老旧卫星「雨燕天文台」将实施在轨延寿首例</title>
-    <link>https://technews.tw/2026/07/08/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/</link>
-    <guid>https://technews.tw/2026/07/08/link-spacecraft-set-for-mission-to-boost-nasas-swift-observatory/</guid>
-    <pubDate>Wed, 08 Jul 2026 14:32:13 +0000</pubDate>
-    <description><![CDATA[美国国家航空暨太空总署（NASA）近日展开一场罕见的太空救援行动。一艘由民间商业太空公司 Katalyst Space 打造的「连结号」（LINK）机器人服务太空船，在经历天气因素延期后，已于台湾时间 7 月 3 日下午 4 时 36 分发射升空。这项任务不仅要挽救即将失控坠落的功勋卫星──「雨燕天文台」（Swift Observatory），更创历史纪录：它是美国老牌「飞马座 XL」（Pegasus XL）空中发射火箭的最后一次谢幕任务。这项行动若成功，不仅能为雨燕天文台争取更多观测时间，更将为未来挽救「哈伯太空望远镜」奠定关键技术基础。
+    <title>苹果喊停平价版 Vision Pro  三星面板开发告吹</title>
+    <link>https://technews.tw/2026/07/09/apple-halts-development-of-affordable-xr-display-for-vision-pro-successor/</link>
+    <guid>https://technews.tw/2026/07/09/apple-halts-development-of-affordable-xr-display-for-vision-pro-successor/</guid>
+    <pubDate>Thu, 09 Jul 2026 01:20:26 +0000</pubDate>
+    <description><![CDATA[苹果（Apple）传出调整 XR 产品策略，已取消原本规划的平价版 XR 装置上市计划，转而将资源投入 AI 智慧眼镜，连带使三星显示器（Samsung Display）提前终止相关显示器开发案。
 
-2004年发射的雨燕天文台是观测伽马射线暴与恒星爆炸的跨波段老将，曾拍摄著名的仙女座星系最高解析度紫外线影像。然而，这架服役超过20年的卫星，近期却以远超预期的速度向地球坠落。科学家指出，罪魁祸首是近期处于极大期的强烈太阳风暴，导致地球上层大气受热膨胀，对运行在低轨道的雨燕天文台产生庞大阻力。由于雨燕本身没有推进系统，高度急遽流失，若无外力介入，最快今年10月就会坠入大气层焚毁。
+韩媒《The Elec》报导，据面板产业人士8日透露，三星显示器原本正在为苹果下一代平价XR装置开发玻璃基Micro OLED显示面板，专案代号「G-VR」，原定2028年后量产，但随著苹果调整产品布局，该专案已确定胎死腹中。
 
-面对迫在眉睫的危机，NASA于2025年9月打破常规，与Katalyst Space签署价值3,000万美元的紧急合约，该公司在不到一年的极短时间内便完成太空船的设计与测试。发射前，地面团队也持续操控雨燕天文台，将其维持在离地300公里以上的安全高度以利对接。根据计划，连结号升空后将花费约一个月靠近雨燕，随后利用特殊设计的三只机械臂紧紧抓住卫星，展开为期数月的轨道提升工作。
+苹果Vision Pro采用矽基OLED显示技术，而G-VR改以玻璃基板取代矽基板，可大幅降低制造成本，因此被视为苹果推出平价、轻量化XR装置的关键，解析度约1,600至1,700 PPI，是Vision Pro萤幕3,386 PPI的一半，以兼顾成本与显示品质。
 
-▲ 这枚任务标志的设计融入「高风险、高回报」太空救援的灵魂，顶端拉丁文格言「Audentes fortuna iuvat」是流传超过两千年的经典名言，中文意思为「命运眷顾勇者」。（Source：维基百科）
+业界人士指出，G-VR专案其实今年初已进入收尾阶段，三星显示器预计9月正式结案。然而，随著苹果将产品重心由XR头戴装置转向AI智慧眼镜，玻璃基板XR显示器的开发需求也随之消失。
 
-这场由官方与民间联手的救援，是人类迈向「太空资产延寿时代」的全面测试，事实上，名满天下的哈伯太空望远镜同样正受到太阳活动引起的大气阻力影响，轨道高度不断流失。NASA 强调，相较于重新建造并发发射全新望远镜，用机器人进行轨道提升更具经济效益。随著连结号成功迈出第一步，这套「官方出资、民间抓捕」的模式未来将可直接复制到哈伯望远镜，或许将彻底改写人类轨道维护太空仪器的历史。
-
-（本文由台北天文馆授权转载；首图为艺术家绘制连结号与雨燕天文台对接示意图，来源：See page for author, Public domain, via Wikimedia Commons）]]></description>
+苹果于2024年初开卖Vision Pro，售价高达3,499美元，但受限于缺乏杀手级应用、重量太重配戴不适等败笔，销量明显不如预期。市场原预期，苹果将推出价格更亲民、机身更轻巧的后继机种，如今开发计划喊卡，也显示苹果正重新调整XR产品策略，将发展重心转向AI智慧眼镜，与Meta展开新一波竞争。]]></description>
   </item>
   <item>
-    <title>群联 6 月营收年增逾 300% 创新高，潘健成指 NAND 需求仍高度成长</title>
-    <link>https://finance.technews.tw/2026/07/08/phisons-june-revenue-increased-by-over-300-year-on-year-setting-a-new-record/</link>
-    <guid>https://finance.technews.tw/2026/07/08/phisons-june-revenue-increased-by-over-300-year-on-year-setting-a-new-record/</guid>
-    <pubDate>Wed, 08 Jul 2026 12:20:01 +0000</pubDate>
-    <description><![CDATA[NAND 控制晶片暨 NAND 储存解决方案整合服务大厂群联电子 (Phison; 8299TT) 公布了 2026 年 6 月份营运结果。合并营收为新台币 248.53 亿元，月成长 9% ，年成长超过 300% ，刷新历史单月新高。年度累计至 6 月份营收达新台币 1088.55 亿元，年成长超过 240%，同样刷新历史同期新高，且为群联合并营收首度突破新台币千亿元。
+    <title>美媒：美监管机构未尽责，数千高阶晶片恐流向北京</title>
+    <link>https://technews.tw/2026/07/09/china-hardliners-take-aim-at-commerce-department-official/</link>
+    <guid>https://technews.tw/2026/07/09/china-hardliners-take-aim-at-commerce-department-official/</guid>
+    <pubDate>Thu, 09 Jul 2026 01:10:11 +0000</pubDate>
+    <description><![CDATA[美国政治网站 Politico 今天报导，商务部旗下的工业暨安全局未善尽职责，可能让北京取得数千个美国高阶晶片。报导引述多名前官员说法，指控政府决策延迟、机构运作停滞。白宫认为前官员匿名爆料，反证明负责官员，是有决策能力，更是重要资产。
 
-群联电子执行长潘健成表示，随著 AI 基础建设持续扩充，以及生成式 AI 逐步由模型训练走向大规模 AI 推论(AI Inference)应用，全球对 NAND 储存的需求仍维持高度成长,，市场供需依旧相当紧俏，尚未看到明显舒缓迹象。
+Politico报导，华府对中鹰派示警，川普（Donald Trump）政府机构，在处理中国取得美国先进科技上未善尽职责。Politico分析美国联邦公报资讯指出，由于政府疏忽，北京可能在去年5月取得数千个美国高阶晶片，官方已数月未更新禁止取得美国科技的外国业者名单。
 
-潘健成指出，我们观察到,潘健成来自云端服务供应商(CSP)及 AI 相关客户的订单需求依然稳健，部分专案的订单能见度甚至已延伸至 2027 年上半年，也再次印证 AI 时代下，资料量的持续累积正带动储存需求长期成长，而高效能、高可靠度的企业级储存基础建设，将成为支撑 AI 生态系发展的重要关键。
+美国商务部旗下的工业暨安全局（Bureau of Industry and Security，BIS）位于美中人工智慧竞争最前线，负责规范把关先进半导体与人工智慧模型对外输出。Politico访问6名工业暨安全局前官员及6名亲近白宫人士，12人均指出决策延迟导致机构核心运作停滞。
 
-潘健成接著补充，另一方面,群联持续透过技术创新与长期 Design-in 策略深化各项高附加价值市场布局。2026 年 6 月份 Mobile Controller 出货量，较2025年同期大幅成长 47%。即使全球智慧型手机市场整体出货预估仍呈现下滑，我们在行动装置市场的市占率仍持续提升。同时，PCIe SSD Boot Drive(开机碟) 产品年增率更达 5,600%，反映通用伺服器、AI 伺服器及 AI Networking 等市场需求持续强劲。
+爆料前官员与对中强硬人士，把矛头指向负责BIS的商务部次长凯斯勒（Jeffrey Kessler）与部长卢特尼克（Howard Lutnick），指责两人不当领导员额超过400人的机构。
 
-相较之下，以价格竞争为主的 Retail 储存市场已非群联长期发展重心，未来 Retail 相关产品营收占比预期将持续下降至 5%以下。而受惠于 AI 基础建设快速扩张，企业级 SSD 及各项高附加价值 AI储存解决方案的营收贡献可望持续提升，也将成为推动群联未来成长的重要动能。]]></description>
+由于川普与中国国家主席习近平进行经贸协商，政府部门因此欠缺行动，这反映出在高科技出口上，鹰派与川普政府看法不同。
+
+资讯科技暨创新基金会、全球创新政策部门副总裁埃泽尔（Stephen Ezell）指出，美方没有统合计划及设定标准，造成倒退的后果。
+
+工业暨安全局对报导声明，指控为虚假陈述，工业暨安全局在川普第2任期不再处理涉及这些科技的申请许可。去年平均申请核可时间为62天，较前一政府时间更为缓慢。
+
+白宫发言人德赛（Kush Desai）回应，不满与欠缺能力的前官员匿名爆料，反证明凯斯勒重建工业暨安全局的决策能力，他是川普与卢特尼克的重要资产。]]></description>
   </item>
   <item>
-    <title>维护公司信用及股东权益，威盛董事会决议第五次买回库藏股</title>
-    <link>https://finance.technews.tw/2026/07/08/via-technologies-board-of-directors-resolved-to-repurchase-treasury-shares-for-the-fifth-time/</link>
-    <guid>https://finance.technews.tw/2026/07/08/via-technologies-board-of-directors-resolved-to-repurchase-treasury-shares-for-the-fifth-time/</guid>
-    <pubDate>Wed, 08 Jul 2026 12:10:59 +0000</pubDate>
-    <description><![CDATA[威盛电子重讯公告表示，为维护公司信用及股东权益，经董事会决议将实施第五次买回库藏股计划。公司预计自民国115年7月9日起至9月8日期间，于集中交易市场买回2,000万股（即2万张）普通股。
+    <title>辉达超便宜？CPO 需求夯、H200 传喜讯  P/E 再探底</title>
+    <link>https://finance.technews.tw/2026/07/09/nvidia-cheap-cpo-demand-h200-news-p-e-new-lows/</link>
+    <guid>https://finance.technews.tw/2026/07/09/nvidia-cheap-cpo-demand-h200-news-p-e-new-lows/</guid>
+    <pubDate>Thu, 09 Jul 2026 01:00:16 +0000</pubDate>
+    <description><![CDATA[市场传出，中国打算允许国内顶尖 AI 公司采购有限数量的 H200 晶片，消息传来激励辉达（Nvidia Corp.）股价跳高。分析显示，尽管辉达营收成长大爆发，但前瞻本益比（P/E）却回落至 AI 热潮爆发前的水位。
 
-公告内容表示，本次库藏股买回的区间价格设定为每股新台币48.65元至90.00元之间。威盛特别指出，若未来公司股价低于所定的区间价格下限时，将授权董事长继续执行买回股份。本次买回计划预计所需金额上限为新台币18亿元，而依法令规范的公司买回总金额上限则可达新台币139.05亿元。
+路透社、Seeking Alpha引述The Information 8日报导，未具名消息人士透露，中国官员近几周向阿里巴巴、字节跳动（ByteDance）及DeepSeek表示，他们可能很快就会获准购买部分H200晶片。
 
-威盛本次预计买回的2,000万股，约占公司已发行股份总数的约3.60%。针对资金动用事宜，威盛董事会已出具声明书强调，本次买回股份所需金额上限仅占公司流动资产的6.6594%，在充分考量公司财务状况后，确认此买回行动并不会影响公司的资本维持。此外，群益金鼎证券亦针对此案出具评估意见，认定威盛所订定的买回区间价格落于法定上下限内，定价具备合理性。
+辉达8日闻讯劲扬3.65%、收204.12美元，创6月22日以来收盘新高。
 
-由威盛董事长兼总经理陈文琦发布的公告中进一步说明，本次买回的库藏股将依据证券交易法规定，预定于买回日起的六个月内办理销除股份之变更登记。透过注销股本，将有助于提升每股盈余（EPS）与维护整体股东权益。]]></description>
+Yahoo Finance AlphaSpace资料显示，辉达以未来12个月每股盈余预估值计算的前瞻本益比已下滑至22.22倍，创2019年6月以来新低（当时的前瞻本益比为22.47倍）。
+
+相较之下，超微（AMD）、英特尔（Intel Corp.）目前的前瞻本益比分别高达73.53倍、136.99倍。
+
+值得注意的是，科技媒体资深记者Tae Kim 8日透过社交平台X指出，花旗（Citi）与辉达投资者关系团队进行了对谈，针对下一代「Kyber Rubin Ultra」伺服器机柜恐延迟一年多的传闻，辉达明确表示其产品蓝图「完全未变」（fully intact），且先前在台北国际电脑展（Computex）上展示的NVLink架构域也「没有任何变动」。
+
+Citi just sent out a note on Nvidia.
+
+Citi spoke with Nvidia’s investor relations team, here’s what they learned:
+
+-When asked about Kyber Rubin Ultra delay, Nvidia stated its roadmap is “fully intact" and the NVLink domains they showed at Computex “have not changed either."…
+
+— tae kim (@firstadopter)July 8, 2026
+
+辉达重申，用于水平扩充（scale-out）的「共同封装光学」（CPO）技术已投入生产，公司将于今年稍晚公布更多关于客户导入的细节。目前客户对CPO水平扩充的采用意愿「相当高」。
+
+根据花旗报告，辉达自2028年推出Feynman平台起，客户将可自由选择要采用CPO、抑或是传统铜缆来搭配NVLink的方案。辉达并强调，目前市场对其产品依旧展现出「非常强劲的需求」。
+
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>旭隼6月营收月增4.8%</title>
-    <link>https://finance.technews.tw/2026/07/08/voltronic-6409-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/voltronic-6409-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 11:00:03 +0000</pubDate>
-    <description><![CDATA[旭隼（6409）公布 6 月合并营收 19.40 亿元，较上（5）月成长 4.8%，与去年同期相比为年增 5. [&#8230;]]]></description>
+    <title>台股高档震荡资金转进 ETF 撑场！公股法人狂敲「这几档」一次看</title>
+    <link>https://finance.technews.tw/2026/07/09/publicly-owned-legal-entities/</link>
+    <guid>https://finance.technews.tw/2026/07/09/publicly-owned-legal-entities/</guid>
+    <pubDate>Thu, 09 Jul 2026 00:51:09 +0000</pubDate>
+    <description><![CDATA[台股高档震荡加剧，受到类股轮动与国际变数，资金转向以 ETF 做为布局主轴，台股买盘承接力道仍在，反映投资人对台积电法说、6 月进出口数据及 AI 需求验证抱持正面期待，盘点公股法人「两手策略」买超的台股 ETF 一次看。
+
+法人指出，近期盘势虽受美国利率政策、科技股拉回与国际油价波动影响，但台股在 AI 伺服器、先进制程、高阶封装等题材支撑，指数回档空间相对有限，整体受到类股轮动与国际变数，资金转向以 ETF 作为布局主轴。
+
+资金面观察，法人指出，台股 ETF 成为投资人面对震荡行情时的重要工具，尤其台股原型 ETF 与高配息 ETF 同步吸引买盘，上周台股型 ETF 净流入达 419.4 亿元，其中市值型与高息型分别净流入 247.9 亿元及 116.8 亿元，显示市场资金追求大盘核心成长，并偏好稳定现金流。
+
+观察公股法人近期买超标的，凯基台湾 TOP50（009816）近一个月获公股法人买超 127,747 张，近一周买超 16,340 张，居近期买超前列；元大台湾5 0（0050）近一个月买超 88,832 张，近一周买超 12,332 张，反映大型权值股仍是资金布局重心。
+
+法人指出，高股息 ETF 也成为盘面焦点，群益半导体收益（00927）近一个月获买超 44,756 张，元大高股息（0056）近一个月买超 12,325 张，同时搭配 7 月配息题材发酵，吸引追求收益型资金进场。
+
+值得注意的是，高配息 ETF 买盘热度升温，部分规模较新、配息率具话题性的标的开始浮上台面。法人圈指出，FT 台湾永续高息（00961）近期虽非最大量能焦点，但以年化配息率达 18% 的表现，已悄悄吸引收益型投资人目光，并获得公股法人买进 14,192 张，具备后续观察价值。
+
+市场观点认为，台股高档震荡关键在于内资与 ETF 资金支撑力道仍强，反映投资人对台积电法说、6 月进出口数据及 AI 需求验证抱持正面期待，但指数位处高档，短线仍需留意 FOMC 会议纪要、长天期美债殖利率及美股科技股波动对评价面的影响。]]></description>
   </item>
   <item>
-    <title>合晶6月营收9.66 亿元</title>
-    <link>https://finance.technews.tw/2026/07/08/wafer-works-6182-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/wafer-works-6182-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:50:03 +0000</pubDate>
-    <description><![CDATA[合晶（6182）今（8）日公布 6 月营收，达 9.66 亿元，较 5 月成长 8.7%，较去年同期成长 14 [&#8230;]]]></description>
+    <title>日本进口服装中国占比跌破 5 成，31 年来首次</title>
+    <link>https://technews.tw/2026/07/09/japans-clothing-imports-from-china-hit-31-year-low-in-southeast-asia-shift/</link>
+    <guid>https://technews.tw/2026/07/09/japans-clothing-imports-from-china-hit-31-year-low-in-southeast-asia-shift/</guid>
+    <pubDate>Thu, 09 Jul 2026 00:30:14 +0000</pubDate>
+    <description><![CDATA[受中国薪资上涨及地缘政治风险加剧影响，日本服装产业正加速摆脱对中国的依赖，2025 年日本进口的服装和纺织品中，中国产品所占比例降至 5 成以下，为 31 年来首次。
+
+日经中文网6日报导，受中日关系恶化以及全球地缘政治风险加剧影响，日本企业有意分散生产网络。在日本进口的服装和纺织品中，中国产品所占比例（按金额计算）在2025年降至49.8%。此次是自1994年（49.4%）以来，时隔31年首次跌破5成。
+
+日本服装制造商从1980年代开始进入中国，在2009年高峰时，从中国的进口比例达到8成。此后占比逐渐下降，2015年为65.3%，在过去10年内下降15.5个百分点。
+
+另一方面，来自东南亚和南亚的比例正在增加。越南在最近10年内上升了7.7个百分点，达到17.4%；孟加拉上升2个百分点，达到4.3%。
+
+报导指出，由于服装是劳动密集型产业，生产成本大部分是工人薪资，随著中国薪资上涨，许多日本的服装企业将目光转向薪资较低的东协（ASEAN），例如UNIQLO的代工厂松冈（MATSUOKA），以及日本大型服装企业WORLD。
+
+报导说，也有不少企业希望分散地缘政治风险。在去年11月日本首相高市早苗发表「台湾有事」说之后，中日关系恶化。日本纺织品进口商协会（JTIA）指出，「虽然原因不明，但有多份报告称纺织品商社从中国进口产品时的检验和通关审查变得严格」。]]></description>
   </item>
   <item>
-    <title>Grab 董事会异动！Uber 执行长推出，收购 foodpanda 案续推进</title>
-    <link>https://finance.technews.tw/2026/07/08/grab-has-announced-that-dara-khosrowshahi-has-stepped-down-from-its-board-of-directors/</link>
-    <guid>https://finance.technews.tw/2026/07/08/grab-has-announced-that-dara-khosrowshahi-has-stepped-down-from-its-board-of-directors/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:29:02 +0000</pubDate>
-    <description><![CDATA[来自东南亚的 Grab 以 6 亿美元估价现金，计划收购 foodpanda 台湾外送事业。主管机关公平交易委员会已在 6 月中旬正式受理 Grab 的收购申请，若未延长审议，最终结果可望 7 月底公布。
+    <title>2025 年美国新药价格下降，主因高价新基因治疗减少</title>
+    <link>https://technews.tw/2026/07/09/us-new-drug-prices-fall-in-2025-on-fewer-gene-therapies/</link>
+    <guid>https://technews.tw/2026/07/09/us-new-drug-prices-fall-in-2025-on-fewer-gene-therapies/</guid>
+    <pubDate>Thu, 09 Jul 2026 00:20:52 +0000</pubDate>
+    <description><![CDATA[美国医药价格持续高速飙涨，成为重要政治议题，更使得川普直接施压关切各大药厂，其中，新药价格不断创新高，是拉升整体医药价格的原因之一，这个趋势在 2025 年似乎有所减缓，因为 2025 年新药的中位数价格较 2024 年有明显减少，不过，这比较是因为超高价的新基因治疗减少。
 
-Grab 8 日宣布，Uber 执行长 Dara Khosrowshahi 已在 2026 年 7 月 6 日正式辞去 Grab 董事职务。这次调整后，Grab 董事会由 6 名董事组成，其中 4 名为独立董事。
+美国每年 FDA 核准上市的新药年用药中位数价格，于 2022 年时为 22.2 万美元，2023 年时涨至 30 万美元，2024 年时更进一步飙升至 37 万美元，2025 年却一口气回到 2022 年以前水准，仅 21.6 万美元。
 
-Dara Khosrowshahi 在 2018 年 Uber 将其东南亚业务出售给 Grab 后加入 Grab 董事会。作为非执行董事，他负责履行董事会监督职责，未参与 Grab 日常管理或营运。
+不过这并不代表药价有显著下跌，其实是因为高价新药减少，针对罕见疾病的基因治疗与细胞治疗经常是惊人的天价，可达数百万美元，而在 2023、2024 年，美国 FDA 分别核准 7 款基因治疗与细胞治疗，2025 年只核准 5 款。
 
-Grab 一直以来维持严格且独立的公司治理架构，在此架构下，Dara Khosrowshahi 过去主动回避所有与台湾事务相关的董事会讨论和决策。这次董事会调整，进一步彰显 Grab 致力于研拟收购 foodpanda 台湾业务案中，维持健全且独立公司治理架构的承诺。
+相对的，美国 FDA 于 2025 年核准的药物中，有 67% 为小分子药物，大多为化学制程大量生产的成本与价格较低的药品。2023 年时仅 57%，2024 年时则为 62%。
 
-Grab 始终强调，这是一家由创办人主导的公司，在双重股权结构（dual-class share structure），集团执行长暨共同创办人陈炳耀（Anthony Tan）持有过半数投票权，所有决策均由 Grab 于新加坡的管理团队独立制定。
+以 2025 年为例，高价罕病药物如 Mighty Therapeutics 推出的巴氏症候群（Barth Syndrome，BTHS）标靶新药 Forzinity 年用药价格为 80 万美元，而相对的，LENZ Therapeutics 的眼药水则为 1,050 美元，LIB Therapeutics 的降胆固醇药物 Lerochol 为 5,400 美元。
 
-值得关注还有，全国外送产业工会同日发表声明，就 Grab 收购 foodpanda 台湾业务结合案已完成陈述意见书送交，主张公平会应依《公平交易法》第十三条第一项规定否准案件结合。
+大众用的比例提升，是 2025 年不仅新药价格下降的一大原因，不过在超高价药物拉抬下，2025 年新药上市价平均值还是达 41.6 万美元。2025 年最贵新药是 Abeona Therapeutics 的「泡泡龙」病基因疗法新药 Zevaskyn，要价 310 万美元。「泡泡龙」病全名为隐性失养型大疱性表皮松解症（recessive dystrophic epidermolysis bullosa，RDEB）。
 
-全国外送产业工会提出四大疑虑：一是勿陷入持股数字迷思，应审查 Uber 和 Grab 实质控制力和经济诱因；二是两大平台短期间密集股权操作，已现垄断风险，应直接依法否准；三是 Grab 在台缺乏在地实体，恐造成严重监理落差和执法成本；是跨境资料治理涉及国安风险，攸关重大公共利益不应贸然放行，以这四大面向作为公平会审议 Grab 收购 foodpanda 台湾业务的参考。]]></description>
+2025 年核准新药总数为 51 款，2024 年为 57 款，2023 年为 55 款。癌症用药在 2025 年占了新药之中约三分之一，另一方面，由于政策鼓励，近年来药厂大举开发罕病用药，每年半数以上新药都是只适用于不到 20 万美国人的罕病用药，虽然这扭转了过去罕病药物无人开发的困境，但也造成另一个问题，那就是，药厂都专注于开发罕病用药，那大多数人的需求就相对遭忽略了。]]></description>
   </item>
   <item>
-    <title>群联6月营收月增8.9%</title>
-    <link>https://finance.technews.tw/2026/07/08/phison-8299-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/phison-8299-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:20:08 +0000</pubDate>
-    <description><![CDATA[群联（8299）公布 6 月合并营收 248.53 亿元，较上（5）月成长 8.9%，与去年同期相比为年增 301.0%；累计其今年前 6 月营收为 1,088.55 亿元，较去年同期增加 243.1%。]]></description>
+    <title>AI 吞噬全球记忆体产能，低阶平价手机市场陷史上最大萎缩</title>
+    <link>https://ccc.technews.tw/2026/07/09/budget-smartphone-ai-memory-shortage/</link>
+    <guid>https://ccc.technews.tw/2026/07/09/budget-smartphone-ai-memory-shortage/</guid>
+    <pubDate>Thu, 09 Jul 2026 00:17:54 +0000</pubDate>
+    <description><![CDATA[AI 正到处吸走全球记忆体产能，而平价低阶智慧型手机因毛利最薄、成本结构最脆弱，也开始成为这场记忆体荒牺牲者。根据 Omdia 新报告，2026 年售价低于 400 美元的智慧型手机出货量预计年减超过 22%，消费者购机选择短期内将被迫接受规格降低的「伪中阶机」或高阶机型。
+
+三星、SK hynix、美光为供应高毛利的高频宽记忆体（HBM）给 AI 资料中心，将大量产能从一般消费级记忆体转移，导致平价低阶手机能用到的普通 DRAM/NAND 记忆体供不应求。
+
+对低阶手机来说，三分之二制造成本都来自 RAM 和记忆体晶片，随著记忆体价格飙涨，根本没有多余空间分给处理器、萤幕、电池、相机配置，这导致定价 99 美元以下的入门级智慧型手机几乎无法生存，2026 年售价低于 400 美元的智慧型手机出货量预计年减超过 22%，连带拖累全球手机市场下滑 12%。
+
+不过 Omdia 预测价格高于 400 美元的智慧型手机市场表现弹性，今年将成长 5.7%。
+
+然而既不大幅降低记忆体成本又要维持中阶价格实惠，厂商正悄悄降级其他硬体，定价 400～600 美元的中阶智慧型手机可能面临「偷工减料」，改回旧款萤幕或上一代处理器以节省 30～40% 记忆体晶片成本，比如放弃先进 LTPO OLED 萤幕，转而使用较旧 LTPS OLED 面板。
+
+其次，中阶手机可能失去微距或超广角镜头功能，或改用更小的感光元件。
+
+只有高阶旗舰（如 iPhone 17 Pro、Galaxy S26 Ultra）机种比较不受影响，因为它们的 BOM 记忆体占比相对较低，成本压力主要落在钛金属机身、自研晶片、潜望式镜头。然而成本最终还是会转嫁到消费者身上，全产业高阶硬体零售价上涨已成为新常态。
+
+分析师表示，平价手机市场面临有史以来最严重萎缩，消费者短期内购机选择将被迫转向「伪中阶」机型或高阶机型，而记忆体扩产计划的解药可能要等到 2027 年中或 2028 年才见效。]]></description>
   </item>
   <item>
-    <title>M316月营收月减2.0%</title>
-    <link>https://finance.technews.tw/2026/07/08/m31-6643-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/m31-6643-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:20:07 +0000</pubDate>
-    <description><![CDATA[M31（6643）公布 6 月合并营收 1.25 亿元，较上（5）月成长 -2.0%，与去年同期相比为年增 - [&#8230;]]]></description>
+    <title>懂名词却不懂你的真实人生，听起来越专业的 AI 理财建议可能越危险</title>
+    <link>https://finance.technews.tw/2026/07/09/ai-financial-advisor/</link>
+    <guid>https://finance.technews.tw/2026/07/09/ai-financial-advisor/</guid>
+    <pubDate>Thu, 09 Jul 2026 00:10:28 +0000</pubDate>
+    <description><![CDATA[生成式人工智慧（AI）快速走入日常生活，越来越多人把聊天机器人当成理财资讯来源。但最新观点指出，这类工具对金钱决策最危险的地方，往往不是明显出错，而是用流畅肯定的语气，说出看似专业，实际不可行的答案。
+
+2025 年皮尤研究中心（Pew Research Center）调查，34% 美国成年人曾使用 ChatGPT，30 岁以下族群的使用率更达 58%，约为两年前两倍。也越来越多使用者问 AI 投资、税务与退休规划等问题。
+
+然而，Pearl.com 在 2025 年调查 2,000 名美国成年人显示：19% 受访者表示，曾因采纳 AI 聊天机器人的财务建议损失超过 100 美元；Z 世代投资人比例更攀升至 27%。
+
+AI 聊天机器人往往能将答案说得条理分明，甚至主动展示推理过程，这很容易让人误以为其建议绝对可靠。然而，税务规划、退休金提领、社会安全给付等问题，高度依赖个人的特殊背景。如果系统没有问到关键条件，得出的结论就可能发生严重偏差。
+
+报导举例，一名 63 岁刚退休的女性若单凭 AI 来决定何时请领社会安全福利及转换退休帐户，AI 的数学模型可能会忽略她配偶的年龄与健康状况，也可能未提醒这项转换会导致她在两年后必须支付更高额的医疗保险（Medicare）保费。
+
+这类 AI 工具通常擅长解释一般性的金融概念，例如「什么是 Roth IRA（个人退休帐户）」、「复利如何运作」，或是「股票与债券的差异」。
+
+但真实的财务生活充满了少见、复杂且不可逆的重大决策，例如：股票选择权行使、401（k）最低提领策略、夫妻合并申报与请领策略、离婚财产分配等。研究者将 AI 这种「对常见情境表现优异，对特殊情境却极度不可靠」的现象称为「锯齿状边界」（jagged frontier）。在残酷的金融领域中，最昂贵的代价往往就出现在这些不寻常的案例里。
+
+财务建议属于经济学上的「信任财」，就像医生的诊断一样，很难立刻验证对错。错误的税务安排，可能要等到几年后被查税时才会曝光；不当的退休金提领策略，也可能要等到股市大跌时才显现毁灭性的后果。
+
+由于缺乏即时的回馈机制，使用者即使得到错误的答案也无从察觉。更糟的是，AI 笃定的语气会给予使用者虚假的安全感，让他们认为「我已经搞定了，不需要再找专业人士」，进而错失了寻求人类专家协助的黄金时机。
+
+整体而言，相关观点并非主张完全避免使用 AI 处理金钱问题，而是强调应把它视为学习与准备的工具，而不是最终裁决者。AI 非常适合用来理解基本概念、整理问题，以及为与专家会谈做准备；然而，一旦涉及大额资金、税务后果、不可逆决策，或高度依赖个人条件的安排（例如遗产规划、退休资产提领、社会安全福利策略、企业架构与重大一次性交易），就必须寻求真人专业顾问的协助。
+
+AI 越来越像「会说话的顾问」之际，这波警讯所指向的核心并不是它完全不能用，而是使用者必须学会分辨：听起来很有把握，并不代表真的适合自己的财务处境。]]></description>
   </item>
   <item>
-    <title>挑战欧盟《数位市场法》失败，苹果 App Store、iOS 续受严管</title>
-    <link>https://finance.technews.tw/2026/07/08/apple-loses-spat-with-eu-over-app-store-and-iphone-rules/</link>
-    <guid>https://finance.technews.tw/2026/07/08/apple-loses-spat-with-eu-over-app-store-and-iphone-rules/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:10:42 +0000</pubDate>
-    <description><![CDATA[欧盟普通法院（General Court）今日裁决，驳回苹果公司（Apple Inc.）试图阻止 App Store 及 iPhone 作业系统 iOS 受欧盟《数位市场法》（Digital Markets Act，DMA）全面规范的法律挑战，苹果与欧盟反垄断监管大战遭遇大挫败。
+    <title>日本车厂反击软体定义汽车！本田、日产与三菱联手推动核心零组件标准化</title>
+    <link>https://technews.tw/2026/07/09/honda-nissan-and-mitsubishi-join-forces-on-ecu-standardization/</link>
+    <guid>https://technews.tw/2026/07/09/honda-nissan-and-mitsubishi-join-forces-on-ecu-standardization/</guid>
+    <pubDate>Thu, 09 Jul 2026 00:00:45 +0000</pubDate>
+    <description><![CDATA[面对全球汽车产业加速迈向软体定义汽车（SDV）新赛局，日本三大车厂本田（Honda）、日产（Nissan）与三菱（Mitsubishi）近期进入关键对话，计划共同标准化次世代车款的电子控制单元（ECU）。这项零组件是掌控自动驾驶、车载资讯系统等软体功能的关键核心。
 
-法院法官认为，欧盟监管机构将上述两项服务纳入 DMA 规范范畴的决定完全正确。
+三大车厂 2025 财年的全球总销量高达 730 万辆，以联合采购与硬体标准化，希望扩大规模经济来降低开发成本，对抗软体定义汽车领域保持领先的中国车厂与美国特斯拉（Tesla），这也是日本汽车工业从单打独斗转向全面性的战略抱团。
 
-事件起源于欧盟执行委员会（European Commission）依据《数位市场法》，将苹果 App Store 及 iOS 作业系统列为规范对象，并施加严格义务。苹果同时对 iOS 作业系统被列为企业触及用户的重要门户一事提出异议，认为不应强制要求开放系统与竞争对手互通。
+智慧化汽车时代，车辆的核心竞争力已从传统的引擎马力转变为软体系统升级。电子控制单元为运行这些核心软体的硬体载体，研发与生产成本极高。
 
-苹果于卢森堡普通法院上诉，要求推翻欧盟执行委员会认定。但此次法院裁决代表苹果必须全面遵守 DMA 各项规定义务，欧盟对大型科技平台的反垄断监管程度将更严格。]]></description>
+本田、日产与三菱目前正处于协商的最后阶段，虽然本田与日产仍有部分细节待敲定，但三方目标是几周内达成基本协议。这套标准化的次世代电子控制单元，最快2029或2030年搭载新车上市。值得注意的是，三方并未局限纯电动车（EV），也计划用于市场需求庞大的油电混合动力车（HEV）。三菱汽车也将出资参与，共同分摊沉重的开发与采购财务压力。
+
+笔者认为这种横向合作能有效精简研发流程，避免日本车厂在重复硬体基础建设上各自耗费资源。
+
+除了硬体端电子控制单元标准化，本田与日产也正同步探讨车载作业系统（OS）的标准化合作。作业系统是软体定义汽车的灵魂，若能实现软硬体基础架构的全面统一，三大车厂将能以更高的效率推出数位化车款。其实本田与日产早在2024年3月就对基础软体展开共同研究。虽然两家公司2024年底全面合并案2025年2月宣告破局，但双方立即转成务实的个案合作模式。
+
+除了软硬体开发，三方也正积极研拟在北美市场的联合生产计划，日产考虑向本田与三菱供应皮卡车车型，并共同开发更大型车款。这种从核心软体、硬体零组件到整车代工的全面结盟，显示日本车厂尝试打破过往门户之见，试图在北美这个关键获利市场重组更具抗压性的产业阵线。
+
+三大车厂之所以此时大动作走向深度结盟，背后承载著极其严峻的财务赤字与转型挫折。最新财报数据，本田截至2026年3月的财年录得4,239亿日圆亏损，是公司上市以来首次出现年度赤字；而日产汽车也交出亏损5,330亿日圆的成绩单，面临连续两年面临严重亏损的窘境。两大车厂同时陷入困境，主因皆来自前期电动车战略的挫败与研发效率低落。
+
+当企业面临公开市场的短期获利压力与巨额财务减损时，单凭一己之力已无法负担软体定义汽车高昂的长周期投资。笔者认为这次三方联手，本质上是为了生存而不得不做出的结构性修正。透过共享基础软硬体平台，车厂能将省下来的资金挪去最佳化终端用户的软体体验，这也是日本汽车业在经历转型阵痛后，为了挽回市场失土的体质重整。
+
+本田、日产与三菱的联手，正式宣告日本汽车产业进入资源共享的新共生时代。
+
+全球汽车业向数位化与电气化转型的深水区，规模与成本控制能力决定企业的生存率。过去日本车厂习惯各自开发独家系统的封闭思维，面对软体定义汽车的高速产业变动时，已被证实容易造成浪费研发资源。这次三大车厂选择标准化核心控制单元，是日本制造业向务实主义靠拢的重要一步。
+
+这场由亏损压力逼出的核心技术大结盟，将成为观察日本汽车工业能否2030年前成功抵御外部强权、守住全球市占率的关键。]]></description>
   </item>
   <item>
-    <title>系微6月营收月增52.4%</title>
-    <link>https://finance.technews.tw/2026/07/08/insyde-6231-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/insyde-6231-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:10:12 +0000</pubDate>
-    <description><![CDATA[系微（6231）公布 6 月合并营收 2.06 亿元，较上（5）月成长 52.4%，与去年同期相比为年增 16 [&#8230;]]]></description>
+    <title>马斯克不做「类 iPhone」装置，但他想让这台像手机的东东帮你赚钱</title>
+    <link>https://technews.tw/2026/07/09/elon-musk-not-iphone-wants-phones-earn-money/</link>
+    <guid>https://technews.tw/2026/07/09/elon-musk-not-iphone-wants-phones-earn-money/</guid>
+    <pubDate>Wed, 08 Jul 2026 23:50:04 +0000</pubDate>
+    <description><![CDATA[那个遭戏称「网友怂恿买了 Twitter」的男人，马斯克总能不断冒出新花样，还一直持续到如今 SpaceX 和 xAI 时代。
+
+SpaceX 向投资者展示「很像手机」的 AI 终端原型机（a handset-like AI device prototype），采自研系统和高通骁龙晶片，支援各种 xAI 功能，但还在专案早期阶段，不一定会量产。
+
+虽然《华尔街日报》用词很严谨，但消息很快在网路发酵，变成「SpaceX 打算进军手机业」。马斯克马上开启网路废人模式，迅速回应「Utterly false」，澄清 SpaceX 不打算做手机。但照以往经验，马斯克否认就是承认。
+
+Elon on the new WSJ report that SpaceX has developed a prototype for a handset-like device designed to reshape how humans interact with AI:https://t.co/pO9C5Sf9qc
+
+— Sawyer Merritt (@SawyerMerritt)July 1, 2026
+
+6 月底《金融时报》报导，SpaceX 刚对投资者说，提供美国民众基于星链的手机卫星网路服务，与传统手机商竞争。尽管马斯克光速否认，但很难不让人联想他其实偷偷规划「手机类」产品。或更精准地说：此「AI 终端」定义不算手机，但能用星链上网。
+
+从已知资讯看来，SpaceX 传闻设备一定不是普通智慧手机，既然称为「手持 AI 设备」，更可能是以 Grok / xAI、终端推理、卫星蜂巢式混合网路为基础，再加上一堆 X App 生态为核心的 AI 终端。但让这件事发酵，不只 SpaceX 成功上市、估值最高冲到约 2.25 兆美元，还有部分功劳要归给马斯克。
+
+身为向来想到什么就说出来的企业家，马斯克嚷嚷要做手机已不只一两年，而是「行之有年」了。2022 年底，Twitter 还叫「Twitter」时，马斯克对内容审核、内购分成和分发权等与苹果意见分歧，有网友问马斯克「如果 App Store 下架 Twitter，你会考虑做手机吗？」
+
+马斯克回答：我当然不希望事情走到那步，但你说的没错，如果没有别的选择，我会做出替代性手机。
+
+当年 11 月底，马斯克与库克会面，App Store 风波迅速降温，Twitter 手机也就没了下文。这间接显示，马斯克宣称的「要做替代品」只是打嘴砲，称不上产品规划。
+
+2023 年《纽约时报》交易录峰会（DealBook Summit），马斯克又表示他不认为需要做手机：传统手机的「黑色方块」很难再有改进空间，更看好 Neuralink 发展。
+
+2024 年马斯克对「做手机」态度又变了，这次原因是 AI。6 月苹果公布初版 Apple Intelligence 并宣布与 OpenAI 合作，马斯克就开始批评合作安全风险太大。网友又向马斯克许愿要「Grok phone」后，马斯克只四处放话：
+
+…… 我希望所有业务场合都把 iPhone 锁进法拉第笼…… 如果苹果真的把 AI 间谍软体（AI spyware）整合至系统，我真的可能需要考虑（做手机）了。
+
+2025 年，马斯克对「X 手机」已不是「除非万不得已否则不做」，接受知名 Podcast「The Joe Rogan Experience」访问时，马斯克说基于 AI 应用场景他评价很乐观：未来不会有传统意义的手机，也不会有传统操作系统和 App，手机本身会成为 AI 推理边缘节点，与伺服器端 AI 合作，并尽可能终端运行 AI 以降低频宽。
+
+这观点与马斯克之后对「手持星链终端」态度一致，也与 Starlink 与 T-Mobile 合作的卫星网路业务方向一致。不过那次节目亮点不是马斯克对网路多有贡献或远见，而是在录音间「吸嗨」的截图。
+
+从马斯克历年态度看来，他对手机业没有太大兴趣，只是将「做手机」当成流量话题或潜在业务。不过他现在拥有 SpaceX、Starlink 和 xAI，即使撇开手机，「手持 AI 硬体」也是马斯克生意版图躲不开的下一步。故传闻「SpaceX 手持设备」虽然不大可能是手机，但的确某项业务很有适用潜力──Robotaxi 模式。
+
+Robotaxi 是特斯拉的自驾计程车业务，正在美国几个城市试点运行，是 Waymo 自驾计程车的主要对手。和 Robotaxi「小心翼翼」展开自动驾驶模式不同，2016 年自驾车兴起时，马斯克提过相当狂野的点子：
+
+特斯拉车主平时正常开车，若有参加 Tesla Shared Fleet，就能让爱车闲置时「自动驾驶出门载客」，特斯拉提供抽成叫车平台、车队协调和保险等服务。
+
+虽然现在的 Robotaxi 还是「特斯拉提供车队」阶段，还没到征招一般车主爱车，但业务模式对「SpaceX 手机」却完全可行。如基于马斯克宣称「手机会成为 AI 推理边缘节点」，SpaceX 可能以 Robotaxi 模式销售 AI 终端：
+
+SpaceX 将 AI 终端卖给你，并有星链上网、SuperGrok、X Premium 和智慧体 OS，使用者平时能当成「手机伴侣」使用，闲置时又可当成 xAI 计算网路的节点之一，提供邻近设备或其他时区使用者算力，SpaceX 或 xAI 再付给使用者报酬。
+
+这样你买的「SpaceX 手机」就像 Robotaxi，平时自己用，闲置时还能帮主人赚钱。且手机形态和使用方式，当边缘计算节点只需提供硬体，做好软体隔离的隐私和资产风险都比车子小多了，「SpaceX 手机类似物」商业化就更加可行。
+
+假设有 1 亿人买这种 AI 伴侣，有星链网路跑云端 AI，又能终端跑 AI，xAI 很可能就组成了世界最大的行动 AI 集群。当然，这种分散不连续的算力只能当成大规模 AI 计算中心的辅助，但「寸晶寸金」的 AI 时代，还是能省下不少成本。
+
+所以说 SpaceX 真的会做手机吗？不太可能，但 SpaceX、星链和 xAI 合作打造全球化边缘计算网路，为将来 AI 算力找寻新思路，听起来就很像马斯克会做的事。]]></description>
   </item>
   <item>
-    <title>旺矽6月营收月减3.9%</title>
-    <link>https://finance.technews.tw/2026/07/08/mpi-6223-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/mpi-6223-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:10:06 +0000</pubDate>
-    <description><![CDATA[旺矽（6223）公布 6 月合并营收 18.33 亿元，较上（5）月成长 -3.9%，与去年同期相比为年增 6 [&#8230;]]]></description>
+    <title>热门 AI 浏览器爆重大资安漏洞，专家授三招自保</title>
+    <link>https://infosecu.technews.tw/2026/07/09/security-vulnerabilities-popular-ai-browsers/</link>
+    <guid>https://infosecu.technews.tw/2026/07/09/security-vulnerabilities-popular-ai-browsers/</guid>
+    <pubDate>Wed, 08 Jul 2026 23:40:24 +0000</pubDate>
+    <description><![CDATA[AI 浏览器近年来被视为下一代网路应用的重大突破，主打能够自动摘要网页、预订行程，甚至能代替用户完成线上购物。然而，近期接连曝光的两项重量级安全研究，狠狠戳破这股热潮背后的安全神话。
+
+美国华盛顿大学（University of Washington）最新研究针对市面上 7 款最受欢迎的 AI 浏览器与扩充功能进行测试，结果发现其中 4 款──ChatGPT Atlas、Chrome with Gemini、Claude for Chrome，以及 Perplexity Comet 存在严重安全漏洞，足以让恶意网站窃取用户在其他分页中开启的敏感资料。研究更点出一个讽刺的现实：浏览器的 AI 功能越强大，潜在的资安风险反而越高。
+
+问题的根源在于，全球网路自 1995 年以来便严格沿用「同源政策」（Same-Origin Policy）。这项规则原本是为了防止不同网站之间互相读取资料，确保用户在一个分页开启网路银行时，另一个分页的恶意网站绝对无法存取其帐户资讯。
+
+然而，AI 浏览器为了实现「跨分页执行复杂任务」的智慧功能，必须绕过此限制。这项大开方便之门的设计，正好成了攻击者的致命切入点。研究人员识别出两种主要的攻击手法：
+
+此外，扩充功能「Claude for Chrome」因其架构设计允许直接向网页注入程式码，被研究团队评为风险特别高的产品。
+
+相较之下，Microsoft Edge with Copilot、Brave Leo及Firefox AI Mode在安全性方面表现较佳，但Firefox的功能也是七款中最为有限的。
+
+就在华盛顿大学的研究发布前夕，资安公司 LayerX 披露了另一项更为隐蔽的攻击技术──「BioShocking」（名称源自 2007 年经典电玩中角色认知遭操控的情节）。项手法更为隐蔽，攻击者不正面破解防御，而是透过设计谜题网页让 AI 浏览器「玩游戏」，利用扭曲的逻辑（例如强迫 AI 接受 2+2=5 的错误前提）来颠覆 AI 的认知框架。一旦 AI 掉入陷阱，其底层的安全限制便会随之失效，此时骇客就能指示 AI 执行窃取密码管理器或复制 SSH 登入凭证等恶意操作。在 LayerX 的测试中，受测的 AI 助理全数未能识别出此行为已构成资安违规。
+
+以下为两大资安研究机构针对市面热门 AI 浏览器的测试结果总结：
+
+面对接连曝光的资安漏洞，各家厂商的修补态度出现了明显的两极化落差。
+
+在积极合作与修补方面，Google、微软（Microsoft）与 Brave 展现出负责的态度，目前已与华盛顿大学研究人员展开建设性合作。同时，OpenAI 据报也已在 ChatGPT Atlas 中实施了针对 BioShocking 攻击的必要防御措施。
+
+然而，部分厂商则选择消极应对或不予回应。针对华盛顿大学揭露的漏洞，Perplexity 与 OpenAI 皆以研究团队未能展示完整的端对端（end-to-end）攻击示范为由，拒绝采取修正行动。更甚者，Perplexity 在面对 BioShocking 漏洞时，竟在未提供任何解决方案的情况下，直接关闭了问题回报。另一方面，Anthropic 虽然为 Claude 外挂发布了修补程式，但仍未能完全解决问题，且对于华盛顿大学的研究未予理会。至于 Firefox 则是对此保持沉默，至今尚未做出任何官方声明。
+
+这两项研究共同指向了 AI 浏览器与生俱来的矛盾：传统浏览器历经数十年的发展，建立了同源政策、沙盒隔离等严密高墙来防止资料互通；但 AI 浏览器为了实现「跨网页智慧操作」，却刻意赋予 AI 阅读用户一切隐私的权限。在这类新型系统中，任何文字都可能成为骇客指令，任何恶意评论都可能构成攻击。
+
+目前的种种研究显示，AI 浏览器的技术狂奔速度，显然已经远远把底层的安全防护能力抛在后头。消费者在享受便利的同时，必须提高资安警觉。]]></description>
   </item>
   <item>
-    <title>国巨*6月营收月增2.0%</title>
-    <link>https://finance.technews.tw/2026/07/08/yageo-2327-202606-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/07/08/yageo-2327-202606-financial-report/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:10:05 +0000</pubDate>
-    <description><![CDATA[国巨*（2327）公布 6 月合并营收 153.59 亿元，较上（5）月成长 2.0%，与去年同期相比为年增  [&#8230;]]]></description>
+    <title>日本首创导管注射，尝试以 iPS 细胞让受损心脏重获「心」生</title>
+    <link>https://technews.tw/2026/07/09/japan-first-catheter-injection-ips-cells-regenerate-damaged-hearts/</link>
+    <guid>https://technews.tw/2026/07/09/japan-first-catheter-injection-ips-cells-regenerate-damaged-hearts/</guid>
+    <pubDate>Wed, 08 Jul 2026 23:31:43 +0000</pubDate>
+    <description><![CDATA[心脏一旦受损，几乎无法自行再生心肌细胞，因此严重心衰竭患者往往只能依靠药物控制病情，甚至需要接受心脏移植。最近，日本再生医疗新创公司 Heartseed 与信州大学合作，首度尝试利用导管，将由诱导性多能干细胞（Induced pluripotent stem cells，iPS cells）分化而成的心肌细胞直接注入患者体内受损的心肌区域。这项试验象征著心脏再生治疗正从传统外科手术，逐渐迈向微创介入的新阶段，也为心脏衰竭治疗带来新的可能性。
+
+过去 iPS 心肌细胞疗法，需要透过开胸手术，将心肌细胞团块（cardiomyocyte spheroids）贴附于心脏表面。已有研究显示，这种疗程可能有助改善患者心脏功能，但毕竟是大型手术，对高龄患者或心脏功能已经十分脆弱的人来说，风险不小。如果能利用特殊导管从血管进入心脏内部，直接将心肌细胞注射到受损的心肌区域，患者不必开胸，手术时间缩短，恢复期可能大幅减少。这对于原本无法承受大型手术的患者而言，等于多了一种新的治疗选择。
+
+这项技术的核心是 iPS 细胞。研究人员先将皮肤或血液等体细胞重新编程，使其回到接近胚胎干细胞的状态，再诱导分化成心肌细胞，最后培养成小型细胞团块。这些细胞除了有机会补充受损的心肌组织，也可能透过释放各种生长因子，协助周围组织修复。过去研究曾发现，部分重度心衰竭患者接受 iPS 心肌细胞治疗后，心脏收缩能力有所提升，原本走几分钟就容易喘，治疗后可以走得更久、更远。
+
+不过，目前这项试验仍属早期阶段，首要目标是确认安全性，而非证明疗效。初步结果显示，患者术后恢复良好，尚未出现重大并发症。然而，移植进去的细胞能存活多久？能否与原有心肌建立稳定的电生理连结？会不会引发心律不整？甚至是否存在异常增生的风险？都需要数年的追踪才能确定。因此，这项技术距离成为成熟且普及的治疗方式，还有相当的距离。
+
+另一方面，日本近年正积极建立有利于再生医疗发展的环境，让部分疗法能在累积更多临床数据的同时，加速进入医疗体系。这也显示，再生医疗的竞争已经从「能不能培养出细胞」，进一步转变成「能不能成为一项医疗服务」。未来的挑战，将不只是科学突破，而是如何大量生产细胞、确保品质一致，并证明患者能从中获得实质帮助。
+
+或许在未来，修复受损心脏不再必须接受开胸手术，而是只要透过导管便能将新的心肌细胞送到需要的位置。虽然愿景尚未成真，但日本这次的尝试，已经替未来医疗描绘出新的蓝图。从药物治疗、人工辅助装置，到如今利用细胞重建受损组织，心脏病治疗正逐步跨入再生医学的时代。未来还需要更多时间验证疗效与安全性，但至少我们已经看见，一条全新的治疗道路正在慢慢成形。]]></description>
   </item>
   <item>
-    <title>打破晶片孤岛！法国 AI 新创 ZML 推出跨平台推论伺服器，挑战硬体供应商垄断</title>
-    <link>https://technews.tw/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
-    <guid>https://technews.tw/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</guid>
-    <pubDate>Wed, 08 Jul 2026 10:00:57 +0000</pubDate>
-    <description><![CDATA[人工智慧（AI）深入日常工作与生活，AI 推论（Inference，即处理提示词的过程）最佳化逐渐超越模型训练，成为业界关注的焦点。然而，硬体与架构的壁垒往往导致企业面临「供应商锁定」（vendor lock-in）困境，为了解决痛点，备受瞩目的法国 AI 新创 ZML 近日推出全新 LLM 推论伺服器「ZML/LLMD」，旨在打破晶片间的藩篱。
+    <title>非红供应链效益发酵！友讯打入 SpaceX 供应链预计 9 月开始出货</title>
+    <link>https://technews.tw/2026/07/09/d-link-enters-spacexs-supply-chain-shipments-expected-to-begin-in-september/</link>
+    <guid>https://technews.tw/2026/07/09/d-link-enters-spacexs-supply-chain-shipments-expected-to-begin-in-september/</guid>
+    <pubDate>Wed, 08 Jul 2026 23:30:58 +0000</pubDate>
+    <description><![CDATA[国内网通大厂友讯科技 (D-Link) 宣布，面对全球地缘政治与供应链资安防护需求升温，公司成功凭借「强韧、安全、安心」的网通设备供应商优势，正式打入美国顶尖航太制造商 SpaceX 的关键供应链。友讯科技预计将自 2026 年 9 月起正式启动出货，为其 Starlink 星链计划提供专用网路交换机，预估一年出货量将达 20,000 台，成功抢下国际高阶关键基础设施商机。
 
-全新产品允许各种开源大语言模型（LLM）可以不同晶片运行，包括辉达（Nvidia）、超微（AMD）、Google 的 TPU、苹果 Metal 及 Intel Arc。ZML 创办人 Steeve Morin 表示，公司野心在打破硬体孤岛，让不同晶片处理 AI 任务时都能发挥最大可用速度，有时甚至更快。
+在本次 SpaceX 的合作案中，友讯科技将为 Starlink 低轨卫星网路服务，全面供应数据交换节点专用之网路交换机。因应航太级通讯对于资讯安全与地缘政治风险的极致要求，该计划所有产品皆坚持「台湾制造」（MIT），并完美符合美国采购法规中最高规格的 NDAA（国防授权法案）及 TAA（贸易协定法案）规范。这项指标性专案不仅象征友讯科技在极端高稳定度需求的通讯环境下具备技术优势，更是台湾干净供应链跨足全球顶尖低轨卫星领域的重要里程碑。
 
-AI 营运成本居高不下，能用各种晶片达到顶级效能，不仅是技术突破，更可能颠覆市场格局。ZML 希望为企业和云端服务商提供更多选择，能混合使用成本较低或能耗较低的晶片。Morin 表示：「这个想法是为了让用户重新获得建立自己系统的主导权，并实现真正的效率提升，推动 AI 普及。」Morin 观察到，软体辅助有助新兴 AI 晶片制造商（许多来自欧洲，如 Axelera、Fractile、Kalray、OLIX、Q.ANT、SiPearl、SpiNNcloud 和 VSORA）在国际舞台展露头角。但比起晶片商所在地，他更看重 ZML 能与之合作完成「全球前所未有」尝试。
+除了在美国航太供应链取得辉煌战果外，友讯科技同步在欧洲电信核心市场取得重大突破。友讯成功携手德国顶尖宽频与电信网路营运商，提供专为市区高密度通讯环境设计的 4G FWA（固定无线接入）设备，以供无 SIM 模组笔记型电脑用户行动上网，并作为固网开通前的临时替代方案。该设备同样主打「台湾制造」，预计将自 2026 年底展开出货，总数量达 50,000 台，助力客户推动都会区网路布建。
 
-这并不代表 Morin 看空辉达。部分原因在辉达供应量不够，且 ZML 与辉达关系良好，辉达也在积极回应推论市场崛起。
-
-AI 推论已成投资热点，被誉为「推论淘金热」。ZML 面临不少竞争对手，包括近期估值达 130 亿美元的 Baseten、开源专案 vLLM 团队创立的 Inferact，以及 SGLang 背后的商业公司 RadixArk。虽然 vLLM 和 SGLang 与 LLMD 有部分竞争关系，但 Morin 对 ZML 的愿景宏大，他透露甚至已进入「共同设计晶片」阶段。他将 ZML 快速发展与后续计划归功于仅 20 人的精简团队。
-
-ZML 总部位于巴黎，虽然规模精简，但研发与扩张速度惊人，这得益于 Morin 成功的背景：曾任 Zenly 工程副总裁（2017 年被 Snapchat 以九位数美元收购），获得与公司规模相称的充足资金。Morin 已成功为 ZML 筹资达 2,000 万美元，投资方有 Harry Stebbings 的 20VC、>commit、AALVC、Drysdale Ventures、Xavier Niel 的 Kima Ventures、Kindred Capital、LocalGlobe 和 Puzzle Ventures 等创投机构。
-
-与 ZML 首个公开专案（2024 年推出今年 3 月更新）不同，此次 ZML/LLMD 并非开源软体，但目前「免费」推出。Morin 解释，这是为了先衡量用户的使用习惯，并在最有效的地方商业化，避免因急功近利而阻碍初期成长。尚无法确定 ZML/LLMD 何时会转为付费产品。
-
-ZML 投资人阵容也极具分量，除了获图灵奖得主现职 AMI Labs 的杨立昆背书，还包括 Dagger 与 Docker 创办人 Solomon Hykes，以及 Hugging Face 创办人 Clément Delangue 和 Julien Chaumond。这再次证明欧洲 AI 新创完全能在本土生根茁壮。Morin 骄傲表示：「除了巴黎，我无法在任何地方创立 ZML。」]]></description>
+针对欧美市场的双重捷报，友讯科技执行长张家瑞表示，在变动的全球局势中，「安全、安心」是企业永续发展的最强后盾。他还强调，面对市场价格战，友讯坚持核心价值并以高标准打造网通设备，此次能接连获得欧美国际大厂青睐，证明其技术与品质已达世界水准。这两大欧美指标计划为友讯科技布局全球关键基础设施打下了坚实的底座。未来，友讯科技将持续以高阶研发实力与全球营运网络，积极扩大跨国市占版图，做为全球客户最坚实的通讯后盾。]]></description>
   </item>
   <item>
-    <title>DRAM 涨势旺至 2027 年！大和看好南亚科，目标价一口气喊上 650 元</title>
-    <link>https://technews.tw/2026/07/08/daiwa-see-nanya-technology-price/</link>
-    <guid>https://technews.tw/2026/07/08/daiwa-see-nanya-technology-price/</guid>
-    <pubDate>Wed, 08 Jul 2026 09:59:01 +0000</pubDate>
-    <description><![CDATA[南亚科本周五（10 日）将举办召开线上法说会，根据日系外资大和最新报告，随著DDR4相较DDR5维持溢价、主要DRAM厂持续缩减供给，料供给吃紧状况将持续，价格涨势亦持续至2027年，重申南亚科买进，目标价由292元大幅调升至650元。
+    <title>中国拟有条件放宽辉达 AI 晶片采购禁令，实际数量可能不及市场需求一半</title>
+    <link>https://technews.tw/2026/07/09/china-plans-to-conditionally-ease-the-ban-on-nvidias-ai-chip-procurement/</link>
+    <guid>https://technews.tw/2026/07/09/china-plans-to-conditionally-ease-the-ban-on-nvidias-ai-chip-procurement/</guid>
+    <pubDate>Wed, 08 Jul 2026 23:30:57 +0000</pubDate>
+    <description><![CDATA[在中美地缘政治持续紧张的局势下，全球人工智慧（AI）晶片市场的板块正发生微妙变化。根据The Information的最新报导指出，中国政府正考虑放宽禁令，允许本土企业在「限量」的条件下，采购辉达（NVIDIA）专为中国市场开发的 H200 GPU 晶片。这项政策的松绑，预期将使阿里巴巴（Alibaba）、字节跳动（ByteDance）以及 DeepSeek 等中国科技巨头受惠。
 
-南亚科6月份自结合并营收为293.88亿元，较上月增加6.21%、较去年同期增加621.34%；累计合并营收为1,316.36亿元，较去年同期增加643.12%。大和认为，南亚科6月营收表现优于预期，预期第二季营收达825亿元、营业利益可达490亿元，季增101%，并由去年同期亏损转为获利，同样高于市场共识。
+报导指出，先前由于美国实施严格的晶片出口管制，大幅限制了中国制造尖端晶片的能力。为了符合美国法规，辉达特别为中国市场量身打造了降规版的 H200 晶片。然而，作为对美国制裁的反制，中国政府先前曾下达禁令，限制中国企业采购这些特供版晶片，此举不仅进一步影响了辉达的产品销量，更严重削弱了北京当局获取运行最新 AI 技术所需硬体的能力。
 
-大和也看好在需求强劲下，DRAM平均售价（ASP）季增约68%，成为推升南亚科获利大幅成长的主要动能，预期第三季仍可望受惠于DRAM涨价趋势，带动获利进一步提升。
+但是，如今政策似乎出现转圜余地。报导引述消息人士指出，中国政府目前仍在审慎评估允许中国本土企业采购辉达晶片的具体数量。报导推测，最终放行的神奇数字可能落在 20 万颗左右，而这个数量还不到中国企业实际提出需求量的一半。若政策正式上路，字节跳动、DeepSeek 与阿里巴巴将有望成为首批取得中国官方采购许可的企业。
 
-展望下半年，大和表示，DDR4涨价动能可望延续至2027年。此外，不仅DDR4，DDR3、DDR2价格也同步大幅上涨。
+针对这项市场传闻，辉达执行长黄仁勋日前在接受CNBC采访时已亲口证实，其公司确实已经获得了中国官方的批准，得以向当地企业出售晶片。事实上，黄仁勋在2026年三月的 GTC 大会上就曾向媒体透露，公司正积极准备为中国企业提供晶片。不过，考量到地缘政治的极端不确定性，他在五月的一场访谈中也强调，辉达并未将来自中国市场的预期销售金额纳入公司的财务预测之中。
 
-根据研调机构TrendForce最新记忆体价格调查，2026年第三季整体DRAM格局持续极度紧缺，因消费性应用需求下修及高基期作用，合约价涨幅收敛，预计将季增13-18%。NAND Flash主要需求仍由AI推论与大型资料中心建置支撑，但合约价格已达历史高点，消费类客户在需求放缓的情况下，对价格承受力已达极限，预估整体NAND Flash合约价将季增10-15%，幅度较前几季明显缩减。
+另一方面，在考虑放宽硬体采购的同时，中国政府对 AI 发展的安全防线并未松懈。路透社先前的报导就指出，中国正研拟针对国内的先进 AI 模型实施更严格的限制与规范。消息人士透露，中国当局的焦虑主要来自于外部威胁，例如美国 AI 新创公司 Anthropic 所推出的 Mythos 模型及其强悍的网路安全能力，便让北京深感担忧。基于这类国家安全考量，中国政府近期的审查行动越发频繁，甚至出手阻挡了社群媒体巨头 Meta Platforms 对一家中国本土企业的收购案。
 
-目前三星、SK海力士及美光等主要DRAM厂商，都将资源优先投入HBM与伺服器DRAM，导致传统DRAM供给持续收缩，使DDR4等成熟产品价格持续受到支撑。
+值得注意的是，尽管中国企业有望获准采购 H200 晶片，但这批硬体仍属于辉达较旧的「Hopper」架构世代。在技术迭代上，辉达的最新产品线实际上已经领先了两个世代。根据辉达的产品发展，全新一代的 Rubin 晶片计划于2026年秋季开始出货，而更先进的下一代 Rubin Ultra GPU 则预计在 2027 年问世。不过也有市场报告指出，受到生产量能与瓶颈的限制，部分 Rubin Ultra 晶片的推出时间可能将被迫推迟至 2028 年，尽管辉达已经否认。
 
-另一方面，随著AI推论需求快速成长，企业级SSD需求同步提升，也带动缓冲记忆体（Buffer DRAM）需求持续增加。大和表示，在长期供货协议支撑下，Buffer DRAM需求可望一路延续至2027年以后。对此，大和重申南亚科「买进」评等，目标价由292元 大幅调升至650元。]]></description>
+整体来说，中国政府在维持技术自主与弥补AI算力缺口之间正进行微妙的妥协。放宽辉达 H200 晶片的限量采购，固然能暂解燃眉之急，但在数量严格管控以及难以跨越的世代技术落差下，中国科技产业在未来的全球 AI 竞局中，仍将面临严峻的挑战。]]></description>
   </item>
   <item>
-    <title>联合再生能源布局欧亚，泰国案场今年下半年开工</title>
-    <link>https://technews.tw/2026/07/08/solar-panel-and-storage-total-solution/</link>
-    <guid>https://technews.tw/2026/07/08/solar-panel-and-storage-total-solution/</guid>
-    <pubDate>Wed, 08 Jul 2026 09:54:07 +0000</pubDate>
-    <description><![CDATA[全球能源转型持续推进，再生能源与储能市场商机同步扩大。联合再生能源积极布局海外市场，瞄准欧洲及东南亚绿能需求。联合再生执行长张为策表示，公司正由太阳能制造商逐步转型为全方位绿能解决方案供应商，希望透过从模组制造、案场建置、储能到售电的 Total Solution 一站式服务，拓展更多国际合作机会。
+    <title>「iPod 之父」预言 AI 助理是胜负关键：掌握「装置联邦」者将主宰未来</title>
+    <link>https://technews.tw/2026/07/09/our-choice-of-ai-assistant-really-matters-says-tony-fadell/</link>
+    <guid>https://technews.tw/2026/07/09/our-choice-of-ai-assistant-really-matters-says-tony-fadell/</guid>
+    <pubDate>Wed, 08 Jul 2026 23:20:00 +0000</pubDate>
+    <description><![CDATA[被誉为「iPod 之父」的托尼·法戴尔（Tony Fadell）近日撰写长篇专栏指出，人们选择哪种 AI 助理将有深远影响，同时也引发必须正视的重大问题。他认为，从 Mac、iPod 到 iPhone，这些产品之所以能历久不衰，关键不只技术进步，更在打造者是否理解它们使人们行为转变；AI 助理也遵循同样逻辑。
 
-为深化海外布局，联合再生近日接连参与德国智慧能源展 The smarter E Europe 与泰国 ASIA Sustainable Energy Week 两大国际能源展，展示太阳能模组、储能系统及能源管理等整合方案。
+法戴尔提出「装置联邦」（Federation of Devices）概念。他指出，没有任何云端服务能看见一人生活全貌，但彼此连结的装置生态系就做得到。手机知道使用者的位置，手表掌握心率，笔电记录行事历，眼镜知道正与谁交谈。这些讯号单独看各自有用，结合后就形成更完整有力的个人轮廓，让 AI 助理更理解使用者需求。
 
-其中，今年德国 The smarter E Europe 聚焦「Renewables 24 / 7」，强调透过太阳能、风电、储能及智慧电网整合，打造全天候稳定供电能力，提升能源系统韧性。
+故谁能掌控「装置联邦」，谁就拥有打造最值得信赖、最有价值 AI 助理的基础。就目前竞争趋势看，法戴尔认为苹果（Apple）就是条件最有利的公司。
 
-联合再生表示，公司可依大型地面型案场、住宅、商办、车棚及农业等不同应用场域，提供客制化能源方案，参展期间也吸引德国、荷兰及北欧等地能源开发商与系统整合商洽询合作。
+但法戴尔也提出业界不愿面对的问题：我们正在打造的工具，会否太强大？他形容，比多数人更了解你、永远可用、极有耐心且从不批评的 AI 助理，会是非常强大的工具，甚至强大到令人上瘾，这种风险人类至今仍未充分理解。
 
-除欧洲市场外，联合再生能源也加速布局东南亚。联合再生也参与曼谷举办的 ASIA Sustainable Energy Week，展示太阳能、储能及能源管理等整合方案。东南亚市场正加速推动再生能源、储能及智慧能源系统发展，希望借由展会深化在地合作，持续拓展泰国及周边市场商机。
+他将这种风险与 iPhone 影响相比。iPhone 许多方面改善生活，但也助长智慧手机成瘾与社交孤立问题。法戴尔强调，这次人类必须一开始就思考后果，因众人将要选择的是能理解人类如何思考、工作与生活的系统。
 
-联合再生看好泰国绿电需求持续升温，加上当地太阳能建置成本相较台湾更具优势，目前已规划投资泰国工业区屋顶型太阳能案场，并采自持模式开发，预计今年下半年开工，最快明年第二季起陆续并网，未来除供应绿电外，也将结合储能及能源管理服务，提升供电稳定性与能源使用效率。]]></description>
+法戴尔呼吁，这场 AI 平台转变，人类始终处于核心位置，因此必须以非常慎重态度打造新技术。
+
+（首图来源：Flickr/OFFICIAL LEWEB PHOTOSCC BY 2.0）]]></description>
   </item>
 </channel>
 </rss>
