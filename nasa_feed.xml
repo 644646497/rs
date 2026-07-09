@@ -4,6 +4,252 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Thu, 09 Jul 2026 14:38:09 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 19:26:27 GMT</lastBuildDate>
+  <item>
+    <title>首席研究员和质量评估报告评估 Umbra 合成孔径雷达数据</title>
+    <link>https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/</link>
+    <guid>https://science.nasa.gov/science-research/earth-science/principal-investigator-and-quality-assessment-reports-evaluate-umbra-synthetic-aperture-radar-data/</guid>
+    <pubDate>Thu, 09 Jul 2026 18:14:21 +0000</pubDate>
+    <description><![CDATA[NASA 商业卫星数据采集 (CSDA) 计划的两份新报告为 NASA 地球科学研究和应用社区评估了来自 Umbra X 波段合成孔径雷达 (SAR) 卫星星座的数据。这些评估的结果有助于向 NASA 项目管理层和用户社区通报用于 NASA 科学的这些商业数据的质量。
+
+CSDAUmbra 合成孔径雷达 Umbra SAR 首席研究员评估摘要记录了评估团队的调查结果。  这些团队有权访问 Umbra 档案，并能够向 Umbra 星座分配新的收购任务。任务分配功能使评估团队能够测试 Umbra 数据在时间敏感的工作流程中的效用，并监测经历快速变化和/或紧急环境条件（例如有害藻华）的区域。
+
+尽管首席研究员评估摘要支持将 Umbra SAR 数据用于 NASA 地球科学研究和总体应用，但它指出了 Umbra X 波段数据的一些优点和缺点。优势包括使用非常高空间分辨率的 X 波段 SAR 卫星星座；通过快速周转，可任务性地获得高时间重复机会；具有一系列方位角和入射角的成像灵活性；以及公司的开放数据计划。相反，PI 团队报告了一些弱点，包括 Umbra 地理定位问题（指出大大小小的地理定位错误）、有限的软件兼容性、元数据以及一些缺失的技术文档。
+
+此外，CSDAUmbra 合成孔径雷达 Umbra SAR 质量评估报告记录了 NASA 主题专家 (SME) 根据 NASA/欧洲航天局 (ESA) 联合评估指南（ESA-NASA，2024）评估 Umbra 数据基本质量所进行的辐射和几何分析的结果。
+
+CSDA SME 主要对传感器独立复杂数据 (SICD) 格式的单视复杂 (SLC) 1 级数据产品以及评估团队在科学可用性评估中使用的一些附加 2 级产品进行测试，发现数据的空间分辨率符合 Umbra 的规范。然而，地理定位精度的质量分析结果并不普遍符合公司的规格。鉴于这些结果，SME 的结论是“Umbra 数据的整体定位性能未达到预期的精度。
+
+关于数据的辐射性能，从绝对精度、稳定性和灵敏度方面进行评估，中小企业发现数据“相对于经过良好校准的参考SAR系统来说表现不佳”。
+
+CSDA 计划旨在识别、评估和获取商业来源的数据，以支持 NASA 地球科学研究和应用目标。美国宇航局地球科学部门认识到商业卫星星座在鼓励/启用有效方法来推进地球系统科学和应用开发以造福社会方面可能产生的潜在影响。商业获取的数据还可以提供一种经济高效的方式来增强和/或补充 NASA、其他美国政府机构和国际合作伙伴获取的地球观测套件。
+
+要阅读完整报告，请参阅 CSDA 的 Umbra 商业供应商网页上“评估”标题下的链接。]]></description>
+  </item>
+  <item>
+    <title>好奇号近距离观察火星硫磺</title>
+    <link>https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/</link>
+    <guid>https://www.nasa.gov/image-article/curiosity-sees-martian-sulfur-up-close/</guid>
+    <pubDate>Thu, 09 Jul 2026 16:33:50 +0000</pubDate>
+    <description><![CDATA[这张特写照片显示了硫晶体的碎片——这是在这颗红色星球上首次发现的。这些晶体是在 2024 年 5 月 30 日美国宇航局的好奇号火星探测器碰巧驶过一块岩石并将其压碎后发现的。几天后，好奇号使用其机械臂末端的相机拍摄了这张照片。
+
+《科学》杂志最近发表的一篇论文表明，大约 30 亿年前，地表深处的岩浆释放出液体或气体，将硫沉积在这颗红色星球的表面上，从而形成了硫。]]></description>
+  </item>
+  <item>
+    <title>美国宇航局科学家前往空中和太空研究北极海冰</title>
+    <link>https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/</link>
+    <guid>https://www.nasa.gov/missions/airborne-science/nasa-scientists-take-to-air-and-space-to-study-arctic-sea-ice/</guid>
+    <pubDate>Thu, 09 Jul 2026 15:42:58 +0000</pubDate>
+    <description><![CDATA[This month, engineers at NASA’s Jet Propulsion Laboratory in Southern California are testing a spacecraft sensor that will help measure how quickly Arctic sea ice is disappearing. And while that instrument won’t launch for another year, scientists started preparing for its use during a recent field campaign in the Canadian wilderness.
+
+Researchers spent two weeks in April flying above the Arctic Ocean, often watching sunrise from an altitude of 1,500 feet (457 meters) in a World War II-era plane. A variety of cutting-edge sensors used to measure the thickness of sea ice and snow were aboard the plane, including a stand-in for the microwave radiometer now undergoing testing at JPL. Measuring sea ice thickness is tricky, requiring a number of precise figures, including how high the sea ice rises above water, the depth of snow on top of that ice, and microwave emissions from the surface.
+
+Flights were timed to the passage of satellites overhead so coordinated observations could be taken of the same features. Combining the airborne and satellite data will improve scientists’ ability to measure sea ice and understand how climate conditions are evolving across the Arctic.
+
+In recent decades, the extent and thickness of Arctic sea ice have changed. Improving measurements of those changes helps scientists better understand the Arctic system while supporting navigation, weather and ocean research, and future satellite observations. As Arctic shipping activity increases, the region is also becoming strategically and economically more significant.
+
+According to Sahra Kacimi of JPL, who served as the field campaign’s science lead, ongoing warming in the Arctic could potentially impact public safety and economic interests.
+
+Kacimi has spent years studying sea ice using satellite data, but the top-down view she gets from space is different than peering out a plane’s window.
+
+The bewildering diversity of sea ice creates otherworldly landscapes. The ice can be attached to land or adrift in the ocean; it can be rough or smooth. Driven by winds and ocean currents, the ice is constantly shifting, breaking apart, and deforming. Cracks can open into long stretches of exposed ocean, and collisions between floes can push ice rubble into massive ridges that extend for miles.
+
+Some sea ice lasts only one season, while thicker ice can survive for several years (though multiyear sea ice is becoming less common in many parts of the Arctic). Entire ecosystems are affected by these changes, down to the arctic foxes and hares the scientists spotted throughout the trip.
+
+Improving estimates of sea ice thickness helps scientists better understand how the region is changing and supports long-term observations of the Arctic environment. The NASA team logged about 50 hours in the air over the two-week campaign, conducting flights over drifting ice near the town of Inuvik before studying ice fixed to the shore of another location, a hamlet called Cambridge Bay.
+
+For the Inuvik portion of the campaign, the team coordinated with the Surface Water and Ocean Topography (SWOT) mission, a satellite jointly developed by NASA and the French space agency, CNES (Centre National d’Études Spatiales), with JPL leading the United States component of the mission. Though it was designed to map the height of the globe’s sea and fresh water, SWOT can also measure the amount of sea ice above the waterline.
+
+In Cambridge Bay, the NASA team joined researchers from ESA (European Space Agency), Germany’s Alfred Wegener Institute, and Canada’s University of Calgary. During this part of the campaign, coordinated flights soared over a field camp and under the tracks of satellite missions such as NASA’s Ice, Cloud, and Land Elevation Satellite-2 (ICESat-2) and ESA’s CryoSat-2.
+
+To improve sea ice thickness estimates, ESA is developing, with cooperation from NASA, a new polar mission called Copernicus Polar Ice and Snow Topography Altimeter (CRISTAL). During the April airborne campaign, scientists flew instruments similar to what CRISTAL will carry, including the microwave radiometer now being tested at JPL.
+
+“Combining observations from space, air, and ground surface instruments is essential for developing and validating algorithms for current and future missions,” Kacimi said.
+
+For the scientists, it was also a chance to meet locals who see the Arctic’s changes up close. Kacimi spoke to community leaders and students at a STEM camp about how disappearing ice is affecting their communities.
+
+“I’m used to looking at sea ice from space and thinking about its role in the global climate, but for people living in the Arctic, it carries a much deeper meaning,” Kacimi said.
+
+Andrew GoodJet Propulsion Laboratory, Pasadena, Calif.818-393-2433andrew.c.good@jpl.nasa.gov
+
+Liz VlockNASA Headquarters, Washington202-358-1600elizabeth.a.vlock@nasa.gov
+
+For the second consecutive year, winter sea ice in the Arctic reached a level that…
+
+Explore how rivers move, change, and sustain life ]]></description>
+  </item>
+  <item>
+    <title>超强台风巴威</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/super-typhoon-bavi/</guid>
+    <pubDate>Thu, 09 Jul 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[2026 年第三个 5 级热带气旋穿过美国北马里亚纳群岛和关岛，然后继续向亚洲移动。
+
+2026年7月上旬，三个月内第二次强台风横扫北太平洋的美国北马里亚纳群岛和关岛。 7 月 5 日夜间，超强台风巴威接近岛屿时强度达到峰值，带来每小时 290 公里（180 英里）的风速，并伴有暴雨和危险的风暴潮。
+
+这张夜间图像由 NOAA-20 卫星上的 VIIRS（可见红外成像辐射计套件）拍摄，显示了巴维的眼睛，时间为世界时间 7 月 5 日 15:30 左右（当地时间 7 月 6 日凌晨 1:30）。处于亏凸相的月亮发出的光照亮了眼壁的西侧。拍摄图像几小时后，视线掠过关岛北部的罗塔。
+
+当地时间7月4日凌晨，巴威在温暖的海洋上向西移动时成为超级台风。卫星观测表明，该地区海面温度约为 30 摄氏度（86 华氏度）。巴威是 2026 年第三个达到萨菲尔-辛普森风级强度 5 级的热带气旋。
+
+据新闻报道，台风对关岛、罗塔和塞班岛造成了广泛破坏，电线杆和电线被吹倒；道路被淹没并散落碎片；并损坏建筑物，包括罗塔的一个配水站。据报道，美国海岸警卫队人员努力清除关岛和北马里亚纳群岛周围水道的航行危险，并在危险的海洋状况消退后重新开放港口。此次破坏是在四月中旬横扫群岛的超级台风“辛拉库”造成的破坏性大风和洪水的基础上造成的。
+
+7月8日，巴威在菲律宾海向西移动时仍然是强台风。下午早些时候，拍摄上述图像时，国家气象局报告最大持续风速为每小时 250 公里（155 英里）。预测显示，台风路径可能向西北方向弯曲，移向台湾、日本南部的琉球群岛和中国大陆，并在未来几天内减弱。
+
+气象学家杰夫·马斯特斯在《耶鲁气候连线》上撰文称，巴威是一种在强烈厄尔尼诺事件正在形成时可能会出现的风暴，目前的情况就是如此。马斯特斯解释说，厄尔尼诺年的台风可能会在更远的东部形成，使它们在转向亚洲之前有更多的时间在温水上增强，“从而更有可能达到五级强度。”
+
+Michala Garrison 拍摄的 NASA 地球观测站图像，使用了来自 NASAEOSDIS LANCE、GIBS/Worldview 和联合极地卫星系统 (JPSS) 的数据，以及来自美国的飓风轨迹数据。海军研究实验室。林赛·杜尔曼的故事。
+
+当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
+
+2026年4月中旬，这场猛烈风暴袭击了美国北马里亚纳群岛和关岛。
+
+这场蔓延的风暴有望给日本南部大片地区带来倾盆大雨。
+
+卫星观测到由增强的热带气旋产生的惊人的高层大气现象。
+
+订阅地球观测站并将地球放入您的收件箱中。
+
+美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
+
+开放访问 NASA 的地球科学数据档案]]></description>
+  </item>
+  <item>
+    <title>学生将美国宇航局科学与土著知识联系起来研究海岸侵蚀</title>
+    <link>https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/</link>
+    <guid>https://science.nasa.gov/learning-resources/science-activation/students-connect-nasa-science-with-indigenous-knowledge-to-study-coastal-erosion/</guid>
+    <pubDate>Wed, 08 Jul 2026 21:04:14 +0000</pubDate>
+    <description><![CDATA[故事作者：Keri Moskowitz，缅因湾研究所
+
+对于帕萨马科迪宜人保护区（Sipayik）来说，海洋一直是一位老师。位于被称为缅因州东北部的帕萨马科迪湾沿岸，世世代代的原住民沿着海岸生活，向潮汐、土地和长辈学习。但如今，海岸线变化得更快。海岸侵蚀正在慢慢地夺走土地。已经有流失历史的土地。
+
+2023 年夏天，受前往阿拉斯加州费尔班克斯参加我的社区中的气候变化（由 NASA 科学激活 (SciAct) 计划的北极和地球标志项目组织的研讨会）的启发，SciAct 的东北学习生态系统 (LENE) 团队开始与包括原住民领袖和科学家在内的合作伙伴合作，提出一个重要问题：海岸侵蚀对已经失去土地的人们意味着什么？
+
+到 2024 年 11 月，Sipayik 小学的规划工作正在进行中。目标是将西方科学和土著知识结合起来，以便学生能够了解自己社区正在发生的变化。
+
+这些课程于 2025 年 3 月开始。在五周的时间里，九名五年级学生以多种方式探索了侵蚀。他们参观了当地的实地考察，聆听长辈讲述海岸线过去的样子。学习者使用这些账户来测量海岸上的变化以及通过课堂上的地图来测量变化。他们用简单的材料建造了侵蚀托盘，以测试波浪如何塑造土地。他们测量了当前的高潮线并将其与历史高潮线进行比较。他们研究了 1942 年至 2023 年的旧照片和航拍图像，以了解海岸线移动了多少。他们甚至将 300 年前的部落地图与未来洪水预测进行了比较。
+
+学生们了解到科学不仅仅存在于教科书中。正如一位观察家所分享的那样，“我们的人民都是科学家，无需上学。”
+
+学生们好奇、投入、自豪。他们发现韧性是他们的一部分。他们总是在坚持文化的同时进行适应。
+
+2026 年 6 月，学生们受邀前往缅因湾研究所向科学家、工作人员和 REU（本科生研究经验）实习生展示他们的工作。为了这个机会，他们花了3.5个小时，事实证明这段路程是值得的。在幻灯片放映后的问答部分，有人问学习阅读各种地图是否困难。一名学生提醒道：这些不仅仅是地图，而且是美国宇航局的卫星图像。
+
+该项目的未来目标包括邀请更多的长者并在工作中增加更多的实地地点，加强语言和文化联系，与其他土著青年分享学生的学习成果，以及与部落领导层协调制定沼泽恢复等恢复战略。当被问到课堂结束后是否打算继续学业和从事这项事业时，学生们都斩钉截铁地回答“是”。
+
+在西帕耶克，侵蚀的故事不仅仅是土地被冲走。它关乎记忆、知识、身份以及不断从海岸学习的社区的力量。
+
+在 2025-2026 学年期间，来自 NASA 科学激活计划 GLOBE（全球学习）的教育工作者...
+
+2026 年 5 月上旬，NASA 员工、承包商和志愿者帮助女孩们了解太阳物理学……
+
+韦伯是未来十年最重要的天文台，为全球数千名天文学家提供服务。它研究……的每个阶段。
+
+这辆火星车及其空中伙伴被指派研究火星地质并寻找古代微生物的迹象……
+
+在“接触太阳”的任务中，美国宇航局的帕克太阳探测器成为第一个飞越日冕的航天器......
+
+美国宇航局的朱诺号宇宙飞船于 2016 年进入木星轨道，成为第一个在木星稠密云层下方进行观测的探测器……]]></description>
+  </item>
+  <item>
+    <title>哈勃望远镜捕捉到星光灿烂的星团</title>
+    <link>https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/</link>
+    <guid>https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/</guid>
+    <pubDate>Wed, 08 Jul 2026 14:13:53 +0000</pubDate>
+    <description><![CDATA[这张来自美国宇航局哈勃太空望远镜的图像展示了梅西耶 3 (M3)，它是银河系最大质量的球状星团，或者说是受引力束缚的恒星的球形集合。球状星团由古代恒星组成，这些恒星大致在同一时间从同一气体云中形成，因此这些恒星的年龄相似。大约 150 个已知的球状星团散布在银河系的外围区域。
+
+图片来源：NASA、ESA 和 A. Sarajedini（佛罗里达大西洋大学）；处理：Gladys Koher（美国宇航局/美国天主教大学）]]></description>
+  </item>
+  <item>
+    <title>犹他州卡顿伍德火炭队</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/cottonwood-fire-chars-utah/</guid>
+    <pubDate>Wed, 08 Jul 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[The blaze burned more than 150 square miles and swept through parts of a ski resort.
+
+After a winter ofbelow-average snowpackand an unusually warm and dry start to summer, the National Interagency Fire Centerwarnedthat the Great Basin and parts of the Rockies faced an elevated risk of wildfires in July 2026.
+
+The warning proved accurate. By July 7, firefighters labored to contain nearly three dozen large, early-season wildland fires that raced through forests in several parts of the western U.S.Utahwas among the most active states, with fires having charred 558 square miles (1,445 square kilometers) andfour major firesthat were not fully contained still burning.
+
+TheCottonwood fireranked as one of Utah's—and the country's—largest and most destructive fires of the year so far. As of July 7, it had burned 150 square miles (390 square kilometers), just shy of theBabylon firein eastern Utah.Landsat 9captured thefalse-colorimage (bands7-5-4) above (right) on June 29, 2026, when blackened vegetation spanned a large patch of rugged terrain along the Beaver River. The image on the left shows the same area on June 5, a few weeks before the fire ignited. In this band combination of shortwave infrared, near infrared, and visible light, unburned vegetation appears bright green, snow is blue, and clouds are white.
+
+Ponderosa pine, oak, sagebrush, and grasses were among the vegetation types that burned. Officials with the state's forestry division told news media that the Cottonwood fire had destroyed up to150 structures. Eagle Point Ski Resort, which lost more than100 condos and 30 cabins, alsoreported damageto four of its five chairlifts.
+
+The damage to forests was extensive, though isolated patches survived largely unscathed, remaining as green oases within the broader burned area. Among them were the forests around Tushar Campground, the site of a 4-H summer camp. Beaver County officialscreditedyears of forest treatments, such as clearing brush and trimming branches, with helping save the campground and surrounding forests.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser thatsupports HTML5 video
+
+As the fire spread, NASA’sFire Events Data Suite(FEDS) tracked its progression and rate of growth. The visualization above, based on the FEDS system, shows the firesurgingon June 23 and tripling in size over 12 hours that day as it spread to the north, east, and south. It also grew rapidly on June 26, when it made a run to the north. FEDS draws on data from theVIIRS(Visible Infrared Imaging Radiometer Suite) sensors aboard the Suomi NPP, NOAA-20, and NOAA-21 satellites, which detect active fires day and night by theirthermal infrared signature.
+
+FEDS is one of several tools available to firefighters and emergency management officials when responding to fires. First responders often rely on higher-resolution airborne imagers or on firefighters walking fire edges to map perimeters. FEDS offers a different advantage: consistent, easily accessible data that do not need to be specially requested, according to Tempest McCabe, a University of Maryland scientist based at NASA's Goddard Space Flight Center who helped develop the tool. As a result, FEDS often detects a fire's start earlier than other sources and tracks blazes for their full duration. To capitalize on strengths like these, the FEDS team is working closely with operationalfire behavior analysts, with support from NASA’sFireSense program, to better understand and anticipate periods of rapid fire spread.
+
+A total of 1,289 firefighters have been deployed to the Cottonwood fire, according toInciWeb, a website managed by theNational Interagency Fire Center. As of July 7, the fire was 56 percent contained, but forecasters expect a hot, dry weather pattern to persist in the coming days, with fire behavior likely to be "very active to extreme" over the next 72 hours.
+
+Government satellite data are part of a global system of observations used to track fire behavior and analyze emerging trends. Among the real-time wildfire monitoring tools that NASA makes available areFIRMS(Fire Information for Resource Management System), theWorldviewbrowser, and theFire Event Explorer.
+
+As of July 7, 2026, fires had burned 5,265 square miles (13,636 square kilometers) across the United States, according to theNational Interagency Fire Center. That's 46 percent more than the 10-year average (2016-2025) for that point in the season.
+
+NASA Earth Observatory images by Michala Garrison, using Landsat data from theU.S. Geological Surveyand fire perimeter data from theFire Events Data Suite. Story by Adam Voiland.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+Dry, warm, and windy conditions across the U.S. Great Plains led to extreme fire activity in March 2026.
+
+A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the…
+
+T]]></description>
+  </item>
+  <item>
+    <title>美国宇航局将“百英亩森林”转移到帕塔克森特研究保护区</title>
+    <link>https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/</guid>
+    <pubDate>Tue, 07 Jul 2026 18:00:00 +0000</pubDate>
+    <description><![CDATA[周二，美国国家航空航天局 (NASA) 隆重地将戈达德太空飞行中心马里兰州格林贝尔特校区约 105 英亩林地的所有权转让给毗邻的帕图森特研究保护区，由美国鱼类和野生动物管理局管理。
+
+该地产以前称为 NASA 戈达德 400 区，现在是华盛顿和巴尔的摩之间最大的未破碎森林的一部分。这片近 13,000 英亩的林地是美国唯一专门为支持野生动物研究而建立的保护区。该保护区还支持休闲用途，例如步行、骑自行车、骑马、钓鱼和狩猎。
+
+“六十多年来，美国宇航局戈达德中心一直帮助人类了解地球，”美国宇航局戈达德中心主任杰米·邓恩说。 “我们很高兴向鱼类和野生动物管理局的同事介绍这片土地，他们的保护和研究有助于为子孙后代保护我们的蓝色大理石进行真正的跑腿工作。”
+
+NASA 戈达德从 20 世纪 60 年代开始就使用 400 区进行推进剂研究。自那以后，这项工作大部分转移到了其他州的美国宇航局设施或商业提供商，而该财产长期以来一直是撤资的候选者。 NASA 和该部门开始讨论 2021 年的潜在转移。
+
+在转移之前，除了有 11 座小型建筑的两英亩半空地外，400 区几乎仍然全是树木。跨机构转移于 2 月 23 日生效，NASA 最近完成了该地产的最后收尾活动，拆除了建筑物、道路和公用设施服务。
+
+美国鱼类和野生动物管理局局长布莱恩·内斯维克 (Brian Nesvik) 表示：“通过与合作伙伴合作，以最佳方式利用土地，正如此次土地转让所体现的那样，我们可以继续保护美国的自然美景，并为子孙后代扩大户外休闲机会。”
+
+罗伯·加纳 (Rob Garner) 新闻通讯办公室主任美国宇航局戈达德太空飞行中心
+
+Keith Shannon美国鱼类和野生动物管理局东北地区区域通讯主管内政部]]></description>
+  </item>
+  <item>
+    <title>美国宇航局的新视野号航天器从冬眠中醒来，状态良好</title>
+    <link>https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/</link>
+    <guid>https://science.nasa.gov/missions/new-horizons/nasas-new-horizons-spacecraft-wakes-from-hibernation-in-good-health/</guid>
+    <pubDate>Tue, 07 Jul 2026 17:48:49 +0000</pubDate>
+    <description><![CDATA[在经历了近一年以来最长的冬眠期后，美国宇航局的新视野号航天器已恢复健康，并准备好开始传输在冥王星以外遥远的柯伊伯带收集的科学数据。
+
+6 月 23 日，位于马里兰州劳雷尔的约翰·霍普金斯大学应用物理实验室 (APL) 的飞行控制人员确认，新视野号按照去年 7 月上传至其主计算机的存储命令，已从 8 月 7 日开始的 321 天休眠期中安全苏醒。该航天器目前距离地球约 59 亿英里（95 亿公里），携带确认信息的无线电信号需要大约 8 小时 52 分钟才能通过 APL 任务操作中心到达。美国宇航局在西班牙马德里附近的深空网络站。
+
+在长时间巡航期间，任务团队通常会将新视野号置于节省资源的休眠模式。当航天器处于休眠状态时，操作员不会发送命令或检索数据，但航天器会继续全天候从其日光层等离子体传感器、冥王星太阳风和冥王星高能粒子光谱仪科学调查以及其太空尘埃探测器、Venetia Burney学生尘埃计数器收集和存储数据。
+
+APL 的新视野号任务运营经理爱丽丝·鲍曼 (Alice Bowman) 表示，该航天器通过深空网络每周向地球报告状态信标。 “整个冬眠期间的每一份状态报告都是‘绿色’，这意味着新视野号每周都一切顺利，”她说。
+
+鲍曼指出，随着新视野号恢复活跃运行，该团队将开始下行传输航天器的健康和安全数据，然后是来自三个科学仪器的数据。大约三周后，航天器上的爱丽丝紫外光谱仪将观察日光层外层的氢气分布，而冥王星的太阳风、冥王星高能粒子光谱仪科学调查和威尼斯伯尼学生尘埃计数器仪器将继续进行测量，地面团队将进行一系列航天器和仪器检查。
+
+该团队还正在完成地面系统软件的升级，这将使维护航天器的运行变得更加容易。测试已经在进行中，预计将持续到今年。
+
+新视野号正在更新的自主逻辑上运行，该逻辑专为远离太阳的操作而设计，并适应预期的功率减少和无线电信号传播时间的自然增加。
+
+NASA 航天器对太阳系这一遥远区域的探索标志着 2006 年 1 月开始的旅程的最新一步，这是有记录以来最快的发射； 2007 年 2 月飞越木星，欣赏到这颗气态巨行星及其卫星的壮丽景色； 2015 年 7 月首次探索冥王星系统； 2019 年 1 月首次探索柯伊伯带天体 Arrokoth，此后对太阳外层日光层和数十个其他柯伊伯带天体进行了独特的研究。
+
+有关 NASA 新视野号任务的更多信息，请访问：
+
+https://science.nasa.gov/mission/new-horizons/]]></description>
+  </item>
+  <item>
+    <title>阿耳忒弥斯二号船员和阿波罗 14 号月亮树</title>
+    <link>https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/</link>
+    <guid>https://www.nasa.gov/image-article/artemis-ii-crew-and-apollo-14-moon-tree/</guid>
+    <pubDate>Tue, 07 Jul 2026 16:16:50 +0000</pubDate>
+    <description><![CDATA[在这张照片中，阿耳忒弥斯二号宇航员于 2026 年 6 月 25 日在美国宇航局约翰逊航天中心的月球接收公园参加阿波罗 14 号月球树的落成仪式。这棵树是火炬松树种的第二代阿波罗月树。最初的阿波罗月亮树是由美国宇航局宇航员斯图尔特·鲁萨（Stuart Roosa）在阿波罗 14 号上携带的种子种植的，他是前美国林务局救火员。返回地球后，林务局将这些种子发芽，并将所得的幼苗种植在美国和世界各地。]]></description>
+  </item>
 </channel>
 </rss>
