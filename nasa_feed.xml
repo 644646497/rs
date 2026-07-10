@@ -4,7 +4,46 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 10 Jul 2026 02:11:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 09:21:59 GMT</lastBuildDate>
+  <item>
+    <title>委内瑞拉地震改变了地面</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/where-venezuelas-earthquakes-shifted-the-ground/</guid>
+    <pubDate>Fri, 10 Jul 2026 04:00:00 +0000</pubDate>
+    <description><![CDATA[NISAR 卫星的雷达数据显示，拉瓜伊拉和附近地区因 2026 年 6 月的地震而经历了显着的地面位移。
+
+2026 年 6 月 24 日，委内瑞拉北部发生了 7.2 级地震，不到一分钟后又发生了 7.5 级主震。这些地震给整个地区造成了巨大的破坏和人员伤亡。在接下来的几天里，基于卫星的地面位移地图揭示了陆地表面的移动情况，从而深入了解拉瓜伊拉和拉瓜伊拉州其他沿海城市等地区严重破坏背后的力量。
+
+该地图是使用 NISAR（NASA-ISRO 合成孔径雷达）卫星的数据制作的，并由 NASA 喷气推进实验室 (JPL) 的 NISAR 科学团队进行处理。科学家们使用了一种名为 InSAR 的技术，该技术可以比较重复通过的数据，以检测卫星与地面之间距离的细微变化。将地震后6月25日和6月30日获取的图像与地震前6月13日和6月18日的图像进行了比较。
+
+NISAR 以垂直向下约 40 度的角度观察地球，使其能够捕获水平和垂直位移的混合。在此地图中，红色区域显示地面向东和向上移动的位置；蓝色区域向西和向下移动。然而，由于地震发生在走滑断层上，因此该图中显示的大部分位移是水平的（东和西）。
+
+白色区域表明几乎没有陆地位移，包括场景中左翼附近靠近莫龙的一条细带，大致标记了断层在深处破裂的位置。该断层是沿着加勒比板块北部和南美板块之间边界的断裂网络的一部分。科学家表示，沿着板块边界的断层，包括可能发生这些地震的圣塞巴斯蒂安断层系统（也可能是博科诺系统的一部分），长期以来一直在积累应变。
+
+断层破裂向近海向东传播，然后返回加拉加斯以北国际机场附近的陆上，其标志是在向西和向东的位移之间可见狭窄的白色带。就在该断层段以南，深蓝色表明沿该断层部分向西的地表位移远大于其他地方，达到60厘米（24英寸）之多。
+
+提供这些地图的喷气推进实验室地球物理学家埃里克·菲尔丁说：“这就是加拉加斯和拉瓜伊拉瓦遭受如此严重破坏的原因。” “InSAR 告诉我们很多关于这次地震期间发生的事情。”
+
+美国地质调查局利用 NISAR 数据改进了断层滑动模型，即“有限断层模型”，以更好地限制断层在深度（包括沿着断裂东段）的滑动方式。菲尔丁说：“这对于那些需要了解为什么该地区损失如此严重的人们来说非常有帮助。”
+
+此次事件的位移图是通过 NISAR 的紧急响应 (UR) 系统提供的，该系统是一个快速流程，可以在 12 至 24 小时内提供数据以支持灾难响应。快速处理依赖于预测的轨道信息，因此 UR 地图是初步的，直到后来用精确的轨道信息重新处理，通常在一两天内。这标志着 NISAR UR 系统首次用于绘制大地震引起的地表位移图。
+
+NASA 地球观测站地图由 Lauren Dauphin 绘制，使用了 Eric Fielding 提供的数据并由 NASA 喷气推进实验室 (JPL) 的 NISAR 科学团队处理。凯瑟琳·汉森的故事。
+
+当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
+
+一位宇航员在前往月球途中拍摄的照片，在小说中揭示了我们的星球及其在太空中的位置……
+
+卫星记录的南极冰山 A-23A 在经历了 40 年的寿命后，其旅程最终在南大西洋破碎。
+
+多年来，国际空间站上的宇航员拍摄了多个举办 2026 年 FIFA 世界杯的城市……
+
+订阅地球观测站并将地球放入您的收件箱中。
+
+美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
+
+开放访问 NASA 的地球科学数据档案]]></description>
+  </item>
   <item>
     <title>美国宇航局为宇航员阿尼尔·梅农发射到空间站设置了覆盖范围</title>
     <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-astronaut-anil-menon-launch-to-space-station/</link>
@@ -275,27 +314,6 @@ Dry, warm, and windy conditions across the U.S. Great Plains led to extreme fire
 A wildland fire charred grassland, coastal sage scrub, and chaparral across one-third of the island, the second largest of the…
 
 T]]></description>
-  </item>
-  <item>
-    <title>美国宇航局将“百英亩森林”转移到帕塔克森特研究保护区</title>
-    <link>https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/</link>
-    <guid>https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/</guid>
-    <pubDate>Tue, 07 Jul 2026 18:00:00 +0000</pubDate>
-    <description><![CDATA[周二，美国国家航空航天局 (NASA) 隆重地将戈达德太空飞行中心马里兰州格林贝尔特校区约 105 英亩林地的所有权转让给毗邻的帕图森特研究保护区，由美国鱼类和野生动物管理局管理。
-
-该地产以前称为 NASA 戈达德 400 区，现在是华盛顿和巴尔的摩之间最大的未破碎森林的一部分。这片近 13,000 英亩的林地是美国唯一专门为支持野生动物研究而建立的保护区。该保护区还支持休闲用途，例如步行、骑自行车、骑马、钓鱼和狩猎。
-
-“六十多年来，美国宇航局戈达德中心一直帮助人类了解地球，”美国宇航局戈达德中心主任杰米·邓恩说。 “我们很高兴向鱼类和野生动物管理局的同事介绍这片土地，他们的保护和研究有助于为子孙后代保护我们的蓝色大理石进行真正的跑腿工作。”
-
-NASA 戈达德从 20 世纪 60 年代开始就使用 400 区进行推进剂研究。自那以后，这项工作大部分转移到了其他州的美国宇航局设施或商业提供商，而该财产长期以来一直是撤资的候选者。 NASA 和该部门开始讨论 2021 年的潜在转移。
-
-在转移之前，除了有 11 座小型建筑的两英亩半空地外，400 区几乎仍然全是树木。跨机构转移于 2 月 23 日生效，NASA 最近完成了该地产的最后收尾活动，拆除了建筑物、道路和公用设施服务。
-
-美国鱼类和野生动物管理局局长布莱恩·内斯维克 (Brian Nesvik) 表示：“通过与合作伙伴合作，以最佳方式利用土地，正如此次土地转让所体现的那样，我们可以继续保护美国的自然美景，并为子孙后代扩大户外休闲机会。”
-
-罗伯·加纳 (Rob Garner) 新闻通讯办公室主任美国宇航局戈达德太空飞行中心
-
-Keith Shannon美国鱼类和野生动物管理局东北地区区域通讯主管内政部]]></description>
   </item>
 </channel>
 </rss>
