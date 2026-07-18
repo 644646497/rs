@@ -9,12 +9,10 @@ import time
 
 cc = OpenCC('t2s')
 
-# 日经中文网
 BASE_URL = 'https://cn.nikkei.com'
 OUTPUT_FILE = 'nikkei_feed.xml'
 
 def fetch_with_retry(url, max_retries=3):
-    """带重试的请求"""
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -30,6 +28,7 @@ def fetch_with_retry(url, max_retries=3):
             if i == max_retries - 1:
                 raise
             time.sleep(2)
+    return None
 
 def extract_articles_from_page(url):
     """从页面提取文章列表"""
@@ -39,29 +38,60 @@ def extract_articles_from_page(url):
         
         articles = []
         
-        # 查找所有文章链接
+        # 调试：保存页面内容看看
+        # print(f"页面长度: {len(resp.text)}")
+        
+        # 方法1: 查找所有 a 标签，过滤文章链接
         for a in soup.find_all('a', href=True):
             href = a.get('href', '')
             title = a.get_text(strip=True)
             
-            # 过滤日经文章链接
-            if href.startswith('/article/') or href.startswith('/news/') or href.startswith('/columnviewpoint/'):
+            # 日经中文网文章链接格式
+            if href and ('/article/' in href or '/news/' in href or '/columnviewpoint/' in href):
                 # 过滤无效标题
                 if not title or len(title) < 10:
                     continue
-                if any(k in title for k in ['首页', '新闻', '专栏', '搜索', '登录', '注册', '更多', 'RSS']):
+                if any(k in title for k in ['首页', '新闻', '专栏', '搜索', '登录', '注册', '更多', 'RSS', '评论', '专题']):
                     continue
                 
-                # 构建完整URL
+                # 去重
                 if href.startswith('/'):
                     full_url = BASE_URL + href
                 else:
                     full_url = href
                 
-                articles.append({
-                    'title': title,
-                    'url': full_url
-                })
+                # 检查是否已存在
+                exists = False
+                for a in articles:
+                    if a['url'] == full_url:
+                        exists = True
+                        break
+                if not exists:
+                    articles.append({
+                        'title': title,
+                        'url': full_url
+                    })
+                    print(f"    找到: {title[:40]}...")
+        
+        # 如果没有找到，尝试方法2: 查找 div.article-list 或类似容器
+        if len(articles) == 0:
+            print("  尝试备用解析方式...")
+            for div in soup.find_all('div'):
+                # 查找包含文章链接的div
+                links = div.find_all('a')
+                for a in links:
+                    href = a.get('href', '')
+                    title = a.get_text(strip=True)
+                    if href and ('/article/' in href or '/news/' in href) and len(title) > 10:
+                        if href.startswith('/'):
+                            full_url = BASE_URL + href
+                        else:
+                            full_url = href
+                        articles.append({
+                            'title': title,
+                            'url': full_url
+                        })
+                        print(f"    找到(备用): {title[:40]}...")
         
         return articles
     except Exception as e:
@@ -73,26 +103,59 @@ def extract_full_text(html):
     soup = BeautifulSoup(html, 'html.parser')
     
     # 移除干扰元素
-    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'iframe']):
+    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'iframe', 'noscript']):
         tag.decompose()
     
-    # 日经文章主体
+    # 尝试多个选择器
     article = None
-    for selector in ['article', '.content', '.article-content', '.post-content', '#main']:
+    selectors = [
+        'article',
+        '.article-body',
+        '.article-content',
+        '.content',
+        '.post-content',
+        '#article-body',
+        '#content',
+        '.entry-content',
+        '.main-content'
+    ]
+    
+    for selector in selectors:
         article = soup.select_one(selector)
         if article:
+            print(f"    使用选择器: {selector}")
             break
     
     if not article:
-        article = soup.body
+        # 尝试找所有段落
+        paragraphs = soup.find_all('p')
+        if paragraphs and len(paragraphs) > 3:
+            # 构建一个包含所有段落的容器
+            article = soup.new_tag('div')
+            for p in paragraphs:
+                if len(p.get_text(strip=True)) > 30:
+                    article.append(p)
+        else:
+            article = soup.body
     
     # 提取段落
     paragraphs = article.find_all('p') if article else []
     if not paragraphs:
-        return soup.get_text(strip=True)
+        # 如果没找到段落，获取所有文本
+        text = soup.get_text(strip=True)
+        # 清理多余空白
+        text = re.sub(r'\s+', ' ', text)
+        return text[:5000]  # 限制长度
     
     # 过滤太短的段落
-    valid_paragraphs = [p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 30]
+    valid_paragraphs = []
+    for p in paragraphs:
+        text = p.get_text(strip=True)
+        if len(text) > 30:
+            valid_paragraphs.append(text)
+    
+    if not valid_paragraphs:
+        return soup.get_text(strip=True)[:5000]
     
     text = '\n\n'.join(valid_paragraphs)
     text = re.sub(r'\n\s*\n', '\n\n', text)
@@ -122,12 +185,30 @@ def fetch_and_convert():
                 seen_urls.add(article['url'])
                 all_articles.append(article)
         
+        print(f"  当前共找到 {len(all_articles)} 篇文章")
+        
         if len(all_articles) >= 30:
             break
         
         time.sleep(1)
     
-    print(f"找到 {len(all_articles)} 篇文章")
+    print(f"\n总共找到 {len(all_articles)} 篇文章")
+    
+    if not all_articles:
+        print("❌ 没有找到任何文章！")
+        # 生成一个空的但有效的RSS
+        xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+        xml += '<rss version="2.0">\n'
+        xml += '<channel>\n'
+        xml += '  <title>日经中文网 全文 RSS（简体）</title>\n'
+        xml += '  <link>https://cn.nikkei.com/</link>\n'
+        xml += '  <description>暂无文章</description>\n'
+        xml += f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")}</lastBuildDate>\n'
+        xml += '</channel>\n'
+        xml += '</rss>'
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            f.write(xml)
+        return
     
     rss_items = []
     for idx, article in enumerate(all_articles[:30]):
@@ -138,14 +219,17 @@ def fetch_and_convert():
         
         try:
             resp = fetch_with_retry(article_url)
-            raw_text = extract_full_text(resp.text)
-            cleaned = cc.convert(raw_text)
-            
-            if len(cleaned) < 100:
-                print(f"  ⚠ 正文过短({len(cleaned)}字)，使用摘要")
-                cleaned = cc.convert(f"原文链接：{article_url}")
+            if resp:
+                raw_text = extract_full_text(resp.text)
+                cleaned = cc.convert(raw_text)
+                
+                if len(cleaned) < 100:
+                    print(f"  ⚠ 正文过短({len(cleaned)}字)")
+                else:
+                    print(f"  ✓ 正文长度: {len(cleaned)} 字符")
             else:
-                print(f"  ✓ 正文长度: {len(cleaned)} 字符")
+                cleaned = cc.convert(f"原文链接：{article_url}")
+                print(f"  ❌ 请求失败")
             
             pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
         except Exception as e:
@@ -160,6 +244,8 @@ def fetch_and_convert():
             'pubDate': pub_date,
             'guid': article_url,
         })
+        
+        time.sleep(0.5)  # 避免请求过快
     
     # 生成 XML
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
