@@ -1,318 +1,256 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-import re
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timezone
-from opencc import OpenCC
-import time
+import feedgenerator
+import datetime
+import re
+import json
+import os
+from typing import List, Dict, Optional
 
-cc = OpenCC('t2s')
-
-BASE_URL = 'https://cn.nikkei.com'
-OUTPUT_FILE = 'nikkei_feed.xml'
-
-def fetch_with_retry(url, max_retries=3):
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        'Referer': 'https://cn.nikkei.com/',
-    }
-    for i in range(max_retries):
+class NikkeiRSSGenerator:
+    def __init__(self):
+        self.base_url = "https://cn.nikkei.com"
+        self.headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+        self.session = requests.Session()
+        self.session.headers.update(self.headers)
+        
+    def fetch_article_list(self, category: str = "trend", page: int = 1) -> List[Dict]:
+        """
+        获取文章列表
+        category: politics, economy, industry, trend, column, opinion
+        """
+        url = f"{self.base_url}/more/{category}"
+        params = {"page": page}
+        
         try:
-            resp = requests.get(url, headers=headers, timeout=30)
-            resp.raise_for_status()
-            return resp
-        except Exception as e:
-            if i == max_retries - 1:
-                raise
-            time.sleep(2)
-    return None
-
-def extract_articles_from_page(url):
-    """从页面提取文章列表 - 改进版"""
-    try:
-        resp = fetch_with_retry(url)
-        soup = BeautifulSoup(resp.text, 'html.parser')
-        
-        articles = []
-        
-        # 方法1: 查找所有链接，过滤日经文章
-        for a in soup.find_all('a', href=True):
-            href = a.get('href', '')
-            title = a.get_text(strip=True)
+            response = self.session.get(url, params=params, timeout=30)
+            response.encoding = 'utf-8'
+            response.raise_for_status()
             
-            # 检查是否是日经文章链接 (多种格式)
-            is_article = False
+            soup = BeautifulSoup(response.text, 'html.parser')
+            articles = []
             
-            # 各种可能的文章链接格式
-            article_patterns = [
-                '/article/',
-                '/news/',
-                '/columnviewpoint/',
-                '/politicsaeconomy/',
-                '/industry/',
-                '/china/',
-                '/world/',
-                '/tech/',
-                '/economy/',
-                '/opinion/',
-                '.html'  # 包含.html的链接
+            # 根据实际HTML结构调整选择器
+            article_items = soup.select('div.news-list ul li, div.newslist ul li, .item-list li')
+            
+            for item in article_items:
+                link_tag = item.find('a')
+                if not link_tag:
+                    continue
+                    
+                title = link_tag.get_text(strip=True)
+                href = link_tag.get('href', '')
+                
+                # 获取日期
+                date_tag = item.find('span', class_='date') or item.find('time')
+                pub_date = date_tag.get_text(strip=True) if date_tag else ""
+                
+                # 获取摘要
+                summary_tag = item.find('p', class_='summary') or item.find('div', class_='summary')
+                summary = summary_tag.get_text(strip=True) if summary_tag else ""
+                
+                if href and title:
+                    if not href.startswith('http'):
+                        href = self.base_url + href
+                    articles.append({
+                        'title': title,
+                        'link': href,
+                        'pub_date': pub_date,
+                        'summary': summary
+                    })
+            
+            return articles
+            
+        except requests.RequestException as e:
+            print(f"获取文章列表失败: {e}")
+            return []
+    
+    def fetch_article_content(self, url: str) -> Optional[str]:
+        """获取文章全文内容"""
+        try:
+            response = self.session.get(url, timeout=30)
+            response.encoding = 'utf-8'
+            response.raise_for_status()
+            
+            soup = BeautifulSoup(response.text, 'html.parser')
+            
+            # 查找文章内容
+            content_selectors = [
+                'div.article-main',
+                'div.article-content',
+                'div.main-content',
+                'div.body-content',
+                'div.article-body',
+                '.article_detail',
+                '.article-text'
             ]
             
-            for pattern in article_patterns:
-                if pattern in href:
-                    is_article = True
+            content_div = None
+            for selector in content_selectors:
+                content_div = soup.select_one(selector)
+                if content_div:
                     break
             
-            if not is_article:
-                continue
+            if not content_div:
+                # 尝试获取所有段落
+                paragraphs = soup.select('p')
+                if paragraphs:
+                    content = '\n\n'.join([p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 20])
+                    return content
+                return None
             
-            # 过滤无效标题
-            if not title or len(title) < 8:
-                continue
+            # 移除不需要的元素
+            for tag in content_div.find_all(['script', 'style', 'iframe', 'ins', 'figure', '.advertisement']):
+                tag.decompose()
             
-            # 过滤导航和广告
-            if any(k in title for k in ['首页', '新闻', '专栏', '搜索', '登录', '注册', '更多', 'RSS', '评论', '专题', '菜单', '返回']):
-                continue
+            # 获取文本内容
+            content = content_div.get_text(strip=True)
+            # 清理多余空白
+            content = re.sub(r'\s+', ' ', content).strip()
             
-            # 构建完整URL
-            if href.startswith('/'):
-                full_url = BASE_URL + href
-            elif href.startswith('http'):
-                full_url = href
-            else:
-                continue
+            # 如果内容太少，尝试获取更多
+            if len(content) < 100:
+                all_paragraphs = content_div.find_all('p')
+                if all_paragraphs:
+                    content = '\n\n'.join([p.get_text(strip=True) for p in all_paragraphs])
             
-            # 去重
-            exists = False
-            for a in articles:
-                if a['url'] == full_url:
-                    exists = True
-                    break
-            if not exists:
-                articles.append({
-                    'title': title,
-                    'url': full_url
-                })
-                print(f"    找到: {title[:40]}...")
+            return content if len(content) > 50 else None
+            
+        except requests.RequestException as e:
+            print(f"获取文章内容失败 {url}: {e}")
+            return None
+    
+    def generate_rss(self, category: str = "trend", max_articles: int = 20) -> str:
+        """生成RSS feed"""
+        feed = feedgenerator.Rss201rev2Feed(
+            title=f"日经中文网 - {category}",
+            link=self.base_url,
+            description=f"日经中文网 {category} 栏目最新文章",
+            language="zh-CN",
+            feed_url=f"{self.base_url}/rss/{category}"
+        )
         
-        # 如果还没找到，尝试查找包含文章标题的div
-        if len(articles) == 0:
-            print("  尝试备用解析方式...")
-            # 查找所有包含多个链接的div
-            for div in soup.find_all(['div', 'section', 'ul']):
-                links = div.find_all('a', href=True)
-                for a in links:
-                    href = a.get('href', '')
-                    title = a.get_text(strip=True)
-                    if href and len(title) > 10:
-                        if href.startswith('/') and not href.startswith('//'):
-                            full_url = BASE_URL + href
-                            # 检查是否像文章URL
-                            if any(k in href for k in ['article', 'news', 'column', 'politics', 'industry']):
-                                articles.append({
-                                    'title': title,
-                                    'url': full_url
-                                })
-                                print(f"    找到(备用): {title[:40]}...")
+        articles = self.fetch_article_list(category, page=1)
         
-        return articles
-    except Exception as e:
-        print(f"  ❌ 抓取列表失败: {e}")
-        return []
-
-def extract_full_text(html):
-    """提取正文"""
-    soup = BeautifulSoup(html, 'html.parser')
-    
-    # 移除干扰元素
-    for tag in soup(['script', 'style', 'nav', 'header', 'footer', 'aside', 'form', 'iframe', 'noscript']):
-        tag.decompose()
-    
-    # 尝试多个选择器
-    article = None
-    selectors = [
-        'article',
-        '.article-body',
-        '.article-content',
-        '.content',
-        '.post-content',
-        '#article-body',
-        '#content',
-        '.entry-content',
-        '.main-content',
-        '.detail-body',
-        '.story-body'
-    ]
-    
-    for selector in selectors:
-        article = soup.select_one(selector)
-        if article:
-            print(f"    使用选择器: {selector}")
-            break
-    
-    if not article:
-        # 尝试找所有段落
-        paragraphs = soup.find_all('p')
-        if paragraphs and len(paragraphs) > 3:
-            article = soup.new_tag('div')
-            for p in paragraphs:
-                text = p.get_text(strip=True)
-                if len(text) > 30:
-                    article.append(p)
-        else:
-            article = soup.body
-    
-    # 提取段落
-    paragraphs = article.find_all('p') if article else []
-    if not paragraphs:
-        text = soup.get_text(strip=True)
-        text = re.sub(r'\s+', ' ', text)
-        return text[:5000]
-    
-    valid_paragraphs = []
-    for p in paragraphs:
-        text = p.get_text(strip=True)
-        if len(text) > 30:
-            valid_paragraphs.append(text)
-    
-    if not valid_paragraphs:
-        return soup.get_text(strip=True)[:5000]
-    
-    text = '\n\n'.join(valid_paragraphs)
-    text = re.sub(r'\n\s*\n', '\n\n', text)
-    return text
-
-def fetch_and_convert():
-    print(f"抓取日经中文网...")
-    
-    # 抓取多个栏目 - 使用更具体的URL
-    urls = [
-        'https://cn.nikkei.com/',
-        'https://cn.nikkei.com/china/',
-        'https://cn.nikkei.com/politicsaeconomy/',
-        'https://cn.nikkei.com/industry/',
-        'https://cn.nikkei.com/columnviewpoint/',
-        'https://cn.nikkei.com/world/',
-        'https://cn.nikkei.com/tech/',
-        'https://cn.nikkei.com/economy/',
-    ]
-    
-    all_articles = []
-    seen_urls = set()
-    
-    for url in urls:
-        print(f"  抓取栏目: {url}")
-        articles = extract_articles_from_page(url)
+        # 如果第一页不够，获取第二页
+        if len(articles) < max_articles:
+            more_articles = self.fetch_article_list(category, page=2)
+            articles.extend(more_articles)
+        
+        articles = articles[:max_articles]
         
         for article in articles:
-            if article['url'] not in seen_urls:
-                seen_urls.add(article['url'])
+            print(f"处理: {article['title']}")
+            
+            # 获取文章内容
+            content = self.fetch_article_content(article['link'])
+            
+            # 解析日期
+            pub_date = None
+            if article['pub_date']:
+                try:
+                    # 尝试解析常见日期格式
+                    date_str = article['pub_date']
+                    if '/' in date_str:
+                        pub_date = datetime.datetime.strptime(date_str, '%Y/%m/%d')
+                    elif '-' in date_str:
+                        pub_date = datetime.datetime.strptime(date_str, '%Y-%m-%d')
+                except ValueError:
+                    pass
+            
+            if not pub_date:
+                pub_date = datetime.datetime.now()
+            
+            feed.add_item(
+                title=article['title'],
+                link=article['link'],
+                description=content or article['summary'] or "原文请点击链接查看",
+                content=content,
+                pubdate=pub_date,
+                unique_id=article['link'],
+                categories=[category]
+            )
+        
+        return feed.writeString('utf-8')
+    
+    def generate_multi_category_rss(self, categories: List[str] = None) -> str:
+        """生成多个分类的RSS"""
+        if categories is None:
+            categories = ['politics', 'economy', 'industry', 'trend', 'column']
+        
+        feed = feedgenerator.Rss201rev2Feed(
+            title="日经中文网综合",
+            link=self.base_url,
+            description="日经中文网综合RSS订阅",
+            language="zh-CN",
+            feed_url=f"{self.base_url}/rss/all"
+        )
+        
+        all_articles = []
+        for category in categories:
+            articles = self.fetch_article_list(category, page=1)
+            for article in articles:
+                article['category'] = category
                 all_articles.append(article)
         
-        print(f"  当前共找到 {len(all_articles)} 篇文章")
+        # 去重并排序
+        seen_links = set()
+        unique_articles = []
+        for article in all_articles:
+            if article['link'] not in seen_links:
+                seen_links.add(article['link'])
+                unique_articles.append(article)
         
-        if len(all_articles) >= 30:
-            break
+        unique_articles = unique_articles[:50]
         
-        time.sleep(1)
-    
-    print(f"\n总共找到 {len(all_articles)} 篇文章")
-    
-    if not all_articles:
-        print("❌ 没有找到任何文章！")
-        # 保存页面内容用于调试
-        try:
-            resp = fetch_with_retry('https://cn.nikkei.com/')
-            with open('debug_page.html', 'w', encoding='utf-8') as f:
-                f.write(resp.text)
-            print("已保存首页到 debug_page.html 用于调试")
-        except:
-            pass
-        
-        # 生成空RSS
-        xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
-        xml += '<rss version="2.0">\n'
-        xml += '<channel>\n'
-        xml += '  <title>日经中文网 全文 RSS（简体）</title>\n'
-        xml += '  <link>https://cn.nikkei.com/</link>\n'
-        xml += '  <description>暂无文章</description>\n'
-        xml += f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")}</lastBuildDate>\n'
-        xml += '</channel>\n'
-        xml += '</rss>'
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            f.write(xml)
-        return
-    
-    rss_items = []
-    for idx, article in enumerate(all_articles[:30]):
-        article_url = article['url']
-        title = article['title']
-        
-        print(f"[{idx+1}] 处理: {title[:50]}...")
-        
-        try:
-            resp = fetch_with_retry(article_url)
-            if resp:
-                raw_text = extract_full_text(resp.text)
-                cleaned = cc.convert(raw_text)
-                
-                if len(cleaned) < 100:
-                    print(f"  ⚠ 正文过短({len(cleaned)}字)")
-                else:
-                    print(f"  ✓ 正文长度: {len(cleaned)} 字符")
-            else:
-                cleaned = cc.convert(f"原文链接：{article_url}")
-                print(f"  ❌ 请求失败")
+        for article in unique_articles:
+            content = self.fetch_article_content(article['link'])
             
-            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
-        except Exception as e:
-            print(f"  ❌ 出错: {e}")
-            cleaned = cc.convert(f"原文链接：{article_url}")
-            pub_date = datetime.now(timezone.utc).strftime('%a, %d %b %Y %H:%M:%S GMT')
+            pub_date = None
+            if article['pub_date']:
+                try:
+                    date_str = article['pub_date']
+                    if '/' in date_str:
+                        pub_date = datetime.datetime.strptime(date_str, '%Y/%m/%d')
+                    elif '-' in date_str:
+                        pub_date = datetime.datetime.strptime(date_str, '%Y-%m-%d')
+                except ValueError:
+                    pass
+            
+            if not pub_date:
+                pub_date = datetime.datetime.now()
+            
+            feed.add_item(
+                title=f"[{article['category']}] {article['title']}",
+                link=article['link'],
+                description=content or article['summary'] or "原文请点击链接查看",
+                content=content,
+                pubdate=pub_date,
+                unique_id=article['link'],
+                categories=[article['category']]
+            )
         
-        rss_items.append({
-            'title': cc.convert(title),
-            'link': article_url,
-            'description': cleaned,
-            'pubDate': pub_date,
-            'guid': article_url,
-        })
-        
-        time.sleep(0.5)
-    
-    # 生成 XML
-    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    xml += '<rss version="2.0">\n'
-    xml += '<channel>\n'
-    xml += '  <title>日经中文网 全文 RSS（简体）</title>\n'
-    xml += '  <link>https://cn.nikkei.com/</link>\n'
-    xml += '  <description>全文抓取、繁转简</description>\n'
-    xml += f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")}</lastBuildDate>\n'
-    
-    for item in rss_items:
-        xml += '  <item>\n'
-        xml += f'    <title>{escape_xml(item["title"])}</title>\n'
-        xml += f'    <link>{item["link"]}</link>\n'
-        xml += f'    <guid>{item["guid"]}</guid>\n'
-        xml += f'    <pubDate>{item["pubDate"]}</pubDate>\n'
-        xml += f'    <description><![CDATA[{item["description"]}]]></description>\n'
-        xml += '  </item>\n'
-    
-    xml += '</channel>\n'
-    xml += '</rss>'
-    
-    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-        f.write(xml)
-    
-    print(f"\n✅ 完成！已生成 {len(rss_items)} 篇 -> {OUTPUT_FILE}")
+        return feed.writeString('utf-8')
 
-def escape_xml(text):
-    if not text:
-        return ''
-    return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+def main():
+    generator = NikkeiRSSGenerator()
+    
+    # 获取环境变量中的分类
+    categories = os.getenv('NIKKEI_CATEGORIES', 'trend').split(',')
+    
+    if len(categories) == 1:
+        rss_content = generator.generate_rss(categories[0].strip())
+    else:
+        rss_content = generator.generate_multi_category_rss([c.strip() for c in categories])
+    
+    # 保存到文件
+    with open('rss.xml', 'w', encoding='utf-8') as f:
+        f.write(rss_content)
+    
+    print("RSS生成成功！")
+    return rss_content
 
-if __name__ == '__main__':
-    fetch_and_convert()
+if __name__ == "__main__":
+    main()
