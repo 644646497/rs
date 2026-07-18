@@ -1,0 +1,33 @@
+name: Update Nikkei RSS
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 opencc-python-reimplemented
+      
+      - name: Run script
+        run: python nikkei_rss.py
+      
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add nikkei_feed.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "update nikkei rss feed (simplified)"
+          git push
