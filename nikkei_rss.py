@@ -162,4 +162,5 @@ def fetch_and_convert():
         })
     
     # 生成 XML
-    xml = '<?xml version="1.0" encoding="UTF-8"?>\n<rs
+    xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
+ 
