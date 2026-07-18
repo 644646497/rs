@@ -31,67 +31,92 @@ def fetch_with_retry(url, max_retries=3):
     return None
 
 def extract_articles_from_page(url):
-    """从页面提取文章列表"""
+    """从页面提取文章列表 - 改进版"""
     try:
         resp = fetch_with_retry(url)
         soup = BeautifulSoup(resp.text, 'html.parser')
         
         articles = []
         
-        # 调试：保存页面内容看看
-        # print(f"页面长度: {len(resp.text)}")
-        
-        # 方法1: 查找所有 a 标签，过滤文章链接
+        # 方法1: 查找所有链接，过滤日经文章
         for a in soup.find_all('a', href=True):
             href = a.get('href', '')
             title = a.get_text(strip=True)
             
-            # 日经中文网文章链接格式
-            if href and ('/article/' in href or '/news/' in href or '/columnviewpoint/' in href):
-                # 过滤无效标题
-                if not title or len(title) < 10:
-                    continue
-                if any(k in title for k in ['首页', '新闻', '专栏', '搜索', '登录', '注册', '更多', 'RSS', '评论', '专题']):
-                    continue
-                
-                # 去重
-                if href.startswith('/'):
-                    full_url = BASE_URL + href
-                else:
-                    full_url = href
-                
-                # 检查是否已存在
-                exists = False
-                for a in articles:
-                    if a['url'] == full_url:
-                        exists = True
-                        break
-                if not exists:
-                    articles.append({
-                        'title': title,
-                        'url': full_url
-                    })
-                    print(f"    找到: {title[:40]}...")
+            # 检查是否是日经文章链接 (多种格式)
+            is_article = False
+            
+            # 各种可能的文章链接格式
+            article_patterns = [
+                '/article/',
+                '/news/',
+                '/columnviewpoint/',
+                '/politicsaeconomy/',
+                '/industry/',
+                '/china/',
+                '/world/',
+                '/tech/',
+                '/economy/',
+                '/opinion/',
+                '.html'  # 包含.html的链接
+            ]
+            
+            for pattern in article_patterns:
+                if pattern in href:
+                    is_article = True
+                    break
+            
+            if not is_article:
+                continue
+            
+            # 过滤无效标题
+            if not title or len(title) < 8:
+                continue
+            
+            # 过滤导航和广告
+            if any(k in title for k in ['首页', '新闻', '专栏', '搜索', '登录', '注册', '更多', 'RSS', '评论', '专题', '菜单', '返回']):
+                continue
+            
+            # 构建完整URL
+            if href.startswith('/'):
+                full_url = BASE_URL + href
+            elif href.startswith('http'):
+                full_url = href
+            else:
+                continue
+            
+            # 去重
+            exists = False
+            for a in articles:
+                if a['url'] == full_url:
+                    exists = True
+                    break
+            if not exists:
+                articles.append({
+                    'title': title,
+                    'url': full_url
+                })
+                print(f"    找到: {title[:40]}...")
         
-        # 如果没有找到，尝试方法2: 查找 div.article-list 或类似容器
+        # 如果还没找到，尝试查找包含文章标题的div
         if len(articles) == 0:
             print("  尝试备用解析方式...")
-            for div in soup.find_all('div'):
-                # 查找包含文章链接的div
-                links = div.find_all('a')
+            # 查找所有包含多个链接的div
+            for div in soup.find_all(['div', 'section', 'ul']):
+                links = div.find_all('a', href=True)
                 for a in links:
                     href = a.get('href', '')
                     title = a.get_text(strip=True)
-                    if href and ('/article/' in href or '/news/' in href) and len(title) > 10:
-                        if href.startswith('/'):
+                    if href and len(title) > 10:
+                        if href.startswith('/') and not href.startswith('//'):
                             full_url = BASE_URL + href
-                        else:
-                            full_url = href
-                        articles.append({
-                            'title': title,
-                            'url': full_url
-                        })
-                        print(f"    找到(备用): {title[:40]}...")
+                            # 检查是否像文章URL
+                            if any(k in href for k in ['article', 'news', 'column', 'politics', 'industry']):
+                                articles.append({
+                                    'title': title,
+                                    'url': full_url
+                                })
+                                print(f"    找到(备用): {title[:40]}...")
         
         return articles
     except Exception as e:
@@ -117,7 +142,9 @@ def extract_full_text(html):
         '#article-body',
         '#content',
         '.entry-content',
-        '.main-content'
+        '.main-content',
+        '.detail-body',
+        '.story-body'
     ]
     
     for selector in selectors:
@@ -130,10 +157,10 @@ def extract_full_text(html):
         # 尝试找所有段落
         paragraphs = soup.find_all('p')
         if paragraphs and len(paragraphs) > 3:
-            # 构建一个包含所有段落的容器
             article = soup.new_tag('div')
             for p in paragraphs:
-                if len(p.get_text(strip=True)) > 30:
+                text = p.get_text(strip=True)
+                if len(text) > 30:
                     article.append(p)
         else:
             article = soup.body
@@ -141,13 +168,10 @@ def extract_full_text(html):
     # 提取段落
     paragraphs = article.find_all('p') if article else []
     if not paragraphs:
-        # 如果没找到段落，获取所有文本
         text = soup.get_text(strip=True)
-        # 清理多余空白
         text = re.sub(r'\s+', ' ', text)
-        return text[:5000]  # 限制长度
+        return text[:5000]
     
-    # 过滤太短的段落
     valid_paragraphs = []
     for p in paragraphs:
         text = p.get_text(strip=True)
@@ -164,13 +188,16 @@ def extract_full_text(html):
 def fetch_and_convert():
     print(f"抓取日经中文网...")
     
-    # 抓取多个栏目
+    # 抓取多个栏目 - 使用更具体的URL
     urls = [
         'https://cn.nikkei.com/',
         'https://cn.nikkei.com/china/',
         'https://cn.nikkei.com/politicsaeconomy/',
         'https://cn.nikkei.com/industry/',
         'https://cn.nikkei.com/columnviewpoint/',
+        'https://cn.nikkei.com/world/',
+        'https://cn.nikkei.com/tech/',
+        'https://cn.nikkei.com/economy/',
     ]
     
     all_articles = []
@@ -196,7 +223,16 @@ def fetch_and_convert():
     
     if not all_articles:
         print("❌ 没有找到任何文章！")
-        # 生成一个空的但有效的RSS
+        # 保存页面内容用于调试
+        try:
+            resp = fetch_with_retry('https://cn.nikkei.com/')
+            with open('debug_page.html', 'w', encoding='utf-8') as f:
+                f.write(resp.text)
+            print("已保存首页到 debug_page.html 用于调试")
+        except:
+            pass
+        
+        # 生成空RSS
         xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
         xml += '<rss version="2.0">\n'
         xml += '<channel>\n'
@@ -245,7 +281,7 @@ def fetch_and_convert():
             'guid': article_url,
         })
         
-        time.sleep(0.5)  # 避免请求过快
+        time.sleep(0.5)
     
     # 生成 XML
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
