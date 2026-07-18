@@ -163,4 +163,34 @@ def fetch_and_convert():
     
     # 生成 XML
     xml = '<?xml version="1.0" encoding="UTF-8"?>\n'
- 
+    xml += '<rss version="2.0">\n'
+    xml += '<channel>\n'
+    xml += '  <title>日经中文网 全文 RSS（简体）</title>\n'
+    xml += '  <link>https://cn.nikkei.com/</link>\n'
+    xml += '  <description>全文抓取、繁转简</description>\n'
+    xml += f'  <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")}</lastBuildDate>\n'
+    
+    for item in rss_items:
+        xml += '  <item>\n'
+        xml += f'    <title>{escape_xml(item["title"])}</title>\n'
+        xml += f'    <link>{item["link"]}</link>\n'
+        xml += f'    <guid>{item["guid"]}</guid>\n'
+        xml += f'    <pubDate>{item["pubDate"]}</pubDate>\n'
+        xml += f'    <description><![CDATA[{item["description"]}]]></description>\n'
+        xml += '  </item>\n'
+    
+    xml += '</channel>\n'
+    xml += '</rss>'
+    
+    with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+        f.write(xml)
+    
+    print(f"\n✅ 完成！已生成 {len(rss_items)} 篇 -> {OUTPUT_FILE}")
+
+def escape_xml(text):
+    if not text:
+        return ''
+    return text.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
+
+if __name__ == '__main__':
+    fetch_and_convert()
