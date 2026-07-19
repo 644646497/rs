@@ -19,7 +19,7 @@ jobs:
           python-version: '3.10'
       
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 opencc-python-reimplemented
+        run: pip install -r requirements.txt
       
       - name: Run script
         run: python nikkei_rss.py
