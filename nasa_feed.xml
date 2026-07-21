@@ -4,284 +4,186 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Tue, 21 Jul 2026 13:21:44 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 19:07:24 GMT</lastBuildDate>
   <item>
-    <title>新型紧凑型仪器可对立方体卫星上的高能粒子进行高保真测量</title>
-    <link>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/</link>
-    <guid>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/</guid>
-    <pubDate>Tue, 21 Jul 2026 13:00:00 +0000</pubDate>
-    <description><![CDATA[A team of NASA-sponsored scientists and engineers has developed a novel approach to observing high-energy particles in the near-Earth space environment, incorporating miniaturized sensors into a compact, multi-view particle detection instrument unlike any before it. Built for NASA’s Relativistic Electron Atmospheric Loss (REAL) CubeSat mission, the innovative instrument (also called REAL) enables more complete measurements of how energetic particles are transported and lost in Earth’s radiation environment, opening the door to improved understanding of space weather effects in low Earth orbit (LEO) while also making these unparalleled observations accessible to future small, low-cost spacecraft.
+    <title>美印卫星提供数据，发现南极洲有“蜂鸟”</title>
+    <link>https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/</link>
+    <guid>https://www.nasa.gov/missions/nisar/us-india-satellite-delivers-data-reveals-hummingbird-in-antarctica/</guid>
+    <pubDate>Tue, 21 Jul 2026 18:14:52 +0000</pubDate>
+    <description><![CDATA[As of July 20, the public can access data from the two powerful radar instruments aboard the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite. Teams in the United States and India will release files processed from the satellite’s L-band and S-band radars on an ongoing basis, helping researchers and other users track the movement of Earth’s land and ice masses, monitor changes in ecosystems like forests and wetlands, and respond to natural hazards such as landslides and earthquakes.
 
-Billions of high-energy charged particles are magnetically trapped around Earth in doughnut-shaped regions called the Van Allen radiation belts. These belts typically form two distinct zones: an inner belt dominated by high-energy protons and an outer belt composed primarily of energetic electrons. Together, they pose a persistent hazard to satellites throughout Earth orbit that modern society depends on, including GPS satellites, and satellites that provide telephone and internet services. The outer belt, in particular, contains so-called killer electrons — particles energetic enough to penetrate satellite shielding and trigger damaging electrical discharges or operational anomalies.
+The release comes as NASA and ISRO (Indian Space Research Organisation) prepare to celebrate the first anniversary of NISAR’sJuly 30, 2025, launch from India’s Satish Dhawan Space Centre. Since that time, the mission engineering and science teams have been busy calibrating instrumentation, refining algorithms, and monitoring nearly all the planet’s land- and ice-covered surfaces twice every 12 days. Along the way, the team has captured scenes from around the globe —urban street grids,agricultural fields,landslides,earthquakes, andsinking land in Mexico City.
 
-Because of these risks, scientists have spent decades working to better understand and predict how the radiation belts behave. But complicating that effort is how dynamic they can be, particularly the outer belt, where populations of energetic electrons can build up and then rapidly drop off. At times, these electrons are lost from the belts, sometimes plunging into Earth’s atmosphere in microbursts lasting just 100 milliseconds, and other times in longer events that unfold over minutes to hours.
+An early image released Tuesday revealed the fractured, barren surface of an Antarctic landscape in stark detail. In a merging of science and serendipity, it also resembles something else entirely: a hummingbird.
 
-“Radiation particles can be trapped in the Van Allen belts for long periods, going back and forth along magnetic field lines, but if some interaction directs them more closely along Earth’s magnetic field lines, they plunge into the atmosphere,” explained Thomas Sotirelis, a physicist at the Johns Hopkins Applied Physics Laboratory, where the REAL instrument was developed. Sotirelis is the originator of the REAL instrument’s sensor concept and serves as instrument scientist for the REAL mission.
+Despite its otherworldly quality, the Antarctic image shows a very real geographical feature called Nunatak Zaterjavshijsja, a mountaintop in East Antarctica, poking out amid a stream of ice flowing northeast to the ocean. As the moving glacier passes the obstruction, the mountain’s topography causes stresses in the ice, heavily fracturing the surrounding surfaces with deep cracks, called crevasses, which show as sharp green lines in the image.
 
-These loss events, known as energetic electron precipitation (EEP), represent one of the primary ways electrons are lost from the radiation belts and play an important role in their dynamics. But while researchers have identified plasma waves as likely drivers of these events, the underlying physics — e.g., whether electron scattering occurs gradually through diffusive processes or rapidly through nonlinear interactions — is still uncertain.
+“First, it’s a beautiful image, with rich details of features that provide insights to how the glacier is moving. Then, because radar can often see through snow and deep into the ice, NISAR can observe fundamentally different properties of Antarctic ice than can be seen in optical imagery,” said Seongsu Jeong, the signal analysis engineer who produced the image at NASA’s Jet Propulsion Laboratory in Southern California. “With NISAR we’re seeing what’s hidden beneath the surface.”
 
-Successfully launched on July 23, 2025, the REAL instrument can distinguish between these potential modes, making it possible to investigate their relative importance and determine which, if any, waves are responsible for electron fallout. Leveraging recent advancements in sensor miniaturization, the instrument includes three sensor heads — a low-, medium-, and high-energy head with two, five, and four simultaneous look directions, respectively — integrated with four electronic boards. Together, they occupy only about half of the REAL CubeSat and use a time resolution sufficient to resolve microbursts of electrons with energies ranging from 40 keV up to 2 MeV. As its parent 3U CubeSat flies in LEO, REAL points along Earth’s magnetic field and can simultaneously measure the quantity, energy, and angle of the particles as they fall into the atmosphere — a first-of-its-kind capability.
+Generated with measurements that NISAR’s L-band instrument gathered in August 2025, as U.S. and Indian mission teams tested the satellite’s systems, the “hummingbird” exemplifies one of the young mission’s hallmarks: intricately detailed imagery that is both informative and eye-catching.
 
-“Most CubeSats can observe particles from only a single direction, so they have to spin in order to build up a full picture — and that takes a few seconds, too slow to capture microbursts,” said space physicist Robyn Millan of Dartmouth College, who serves as the REAL mission principal investigator. “With REAL, we’ve managed to squeeze three sensors, each with multiple look directions, into the top of this 100-by-100-millimeter head, allowing us to capture those measurements all at once. We’re really proud of that.”
+The colors show differences in the way polarized microwave signals, which vibrate in different directions, interact with and reflect from the ice. Over Antarctica, NISAR transmits radar waves toward Earth with a horizontal polarization. The orientation of the signals that return — either horizontal, vertical, or both — provide clues about the object or surface that reflected them.
 
-The high-energy head consists of a 30-millimeter-thick aluminum collimator with four apertures, each spanning 20 degrees of pitch angle. Each aperture connects to an active area on a solid-state detector (SSD) at the base. The medium-energy head similarly uses an SSD base but instead employs five active areas that connect to a 22-millimeter-thick aluminum collimator with five apertures, each spanning 20 degrees of pitch angle. The low-energy head, on the other hand, is a miniature electrostatic analyzer (ESA) consisting of titanium electrodes sandwiched between etched silicon selector slits. These lie on top of a microchannel plate (MCP). The low-energy head uses 36 apertures, two look directions (±40 degrees), and 15]]></description>
+Signals that come back with a horizontal polarization likely bounced off a more regular surface, such as smooth ice. Those signals appear magenta in the image. Signals that return with vertical polarization may have refracted as they partially penetrated the snow and ice or scattered at different angles as they reflected off irregular surfaces, such as the faces of crevasses. Called volume scattering, these observations are displayed in green.
+
+The white represents areas in which magenta and green signals scatter back strongly, a possible indication that there is an equal blend of surface and volume scattering.
+
+The same scene viewed in optical light is almost entirely white with ice and snow. Slight shadows and rippling indicate the presence of the mountaintop, and textures in the surrounding area suggest the ice is not completely smooth.
+
+The NISAR satellite is the first free-flying space mission to feature two radar instruments: an L-band system and an S-band system. The systems are complementary due to their differing wavelengths. For example, the longer-wave L-band can pass through tree canopies, imaging the ground beneath. Meanwhile, depending on leaf sizes, S-band can collect observations of those canopies.
+
+The Indian science team, based at ISRO’s Space Applications Centre in Ahmedabad, recently started releasing S-band data via theBhoonidhi portal.
+
+On July 20, the U.S. side of the mission started releasing calibrated products continuously for all L-band measurements collected since June 17. By the end of the year, the team expects to have released all data acquired earlier during science operations. The NISAR project science team previously had two limited releases of L-band data, the first inJanuaryof about 25 sample products and a release inFebruaryof thousands of pre-calibrated products.
+
+As with the earlier releases, data users will be able to download the latest files at theAlaska Satellite Facility Distributed Active Archive Centerin Fairbanks, which hosts and distributes all NASA synthetic aperture radar data.
+
+The NISAR mission’s science data output is vast, on t]]></description>
   </item>
   <item>
-    <title>为什么缅因州的沙滩海岸线变得锯齿状</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/why-maines-sandy-shorelines-turn-jagged/</guid>
-    <pubDate>Tue, 21 Jul 2026 04:00:00 +0000</pubDate>
-    <description><![CDATA[底层基岩和河流沉积物分布方式的差异使波特兰西部的海岸线看起来与城市东北部的海岸线不同。
+    <title>NASA 兰利通过“星空交响曲”活动通过音乐庆祝社区</title>
+    <link>https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/</link>
+    <guid>https://www.nasa.gov/general/nasa-langley-celebrates-community-through-music-with-symphony-under-the-stars-event/</guid>
+    <pubDate>Tue, 21 Jul 2026 18:00:43 +0000</pubDate>
+    <description><![CDATA[要观看此视频，请启用 JavaScript，并考虑升级到支持 HTML5 视频的网络浏览器
 
-瓦巴纳基人有着丰富的创世神话，解释了芬迪湾、缅因州东南部和阿卡迪亚国家公园的岩石海岸线。 许多作品都涉及格鲁斯卡普——据说这是一个神奇的人物，乘坐石独木舟沿着芬迪湾漂流而下，在与原始海狸、青蛙、驼鹿、鲸鱼和其他巨型动物的战斗中，通过划船划过大地并撒下巨大的巨石来塑造海岸特征。
+NASA 兰利的“星条旗和超新星 – 星空下的交响曲”活动将员工、家庭和社区成员聚集在一起，度过了一个充满音乐、联系和庆祝活动的夜晚。
 
-很少有土著创世神话能够解释缅因州南部的沙质和沼泽海岸线以及该州中部海岸地区的岩石、锯齿状海岸线的起源。但波特兰南部的沙洲和海滩与东部岬角、岬角和狭窄半岛的岩石海岸线之间的鲜明对比（在上面的陆地卫星图像中可见）长期以来引起了沿海地质学家的注意，他们对其起源的科学解释比比皆是。
+组织者计划于 7 月 16 日举行这次活动，以纪念美利坚合众国成立 250 周年。
 
-沿海地质学家说，沿海转变反映了下伏基岩的差异以及末次盛冰期留下的沉积物分布的差异。缅因州南部蕴藏着广泛的沙子，其中大部分来自河流。例如，萨科湾的沙滩是缅因州最长的连续海滩和该州最大的盐沼的所在地，它吸收了怀特山脉风化和分解产生的沉积物，这些物质主要通过萨科河输送到海岸，缅因州地质调查局的地质学家彼得·斯洛文斯基解释说。随着时间的推移，波浪和潮汐重新加工了这些柔软的沉积物，将它们雕刻成拱形的内湾海滩以及萨科湾和更广阔地区周围的广阔盐沼。
+当晚，包括 NASA 兰利员工和威廉斯堡青年管弦乐团成员在内的管弦乐队进行了充满活力的表演，还有员工和特邀艺术家 Karl Werne 进行的小团体表演。
 
-虽然抗侵蚀花岗岩从缅因州南部的沙质海岸线突出，形成岩石岬角，但变质基岩成为波特兰东部的主要地表特征。在那里，整个山脊和山谷由暴露在高压和高温下的岩石层组成，定义了景观。在上一个冰河时代，冰川冲刷并拓宽了许多沿海山谷，后来随着劳伦泰冰盖融化和海平面上升而洪水泛滥。
+NASA 兰利研究局副主任 Jennifer Kibler 表示：“将人们聚集在一起，分享他们不同的才能，从而创造出一些有意义的东西，这很有趣，而且在这种情况下，一些东西也非常美丽。”
 
-在卡斯科湾周围，这些山脊和山谷系统与海岸线的淹没相结合，形成了锯齿状、高度锯齿状的海岸线和许多今天看到的狭长岛屿。缅因州地质调查局的地质学家尼古拉斯·怀特曼 (Nicholas Whiteman) 表示：“这些古老景观的扭曲褶皱也对侵蚀利用产生了强烈的方向性偏好。” “这导致卡斯科湾的岛屿和颈部的方向与东北部的岛屿和颈部存在明显的差异。”
+管弦乐队演奏了一系列精选的爱国歌曲和受太空启发的作品，凸显了社区内的创造力和才华。他们表演的歌曲包括古斯塔夫·霍尔斯特管弦组曲《行星》中的《美丽的美国》、《上帝保佑美国》和《欢乐带来的朱庇特》。
 
-海岸线的各种形式令地质学家着迷，但它们也对缅因州沿海社区的经济产生了日常影响。当游客涌向萨科和肯纳邦克波特等社区的沙滩时，该州标志性的龙虾渔业却集中在缅因州中部海岸。甲壳类动物在该地区许多岩石、受保护的水湾的寒冷水域中繁衍生息，使哈普斯韦等社区成为龙虾登陆的领先者。
+该活动也是在 NASA 兰利诞辰 109 周年的前一天举行，它提醒人们该中心的精神——科学家、工程师、传播者和工作人员聚集在一起，不仅庆祝 NASA 的使命，而且庆祝使这一使命成为可能的人们。
 
-该州的牡蛎养殖场也集中在该地区。卡斯科湾和达马里斯科塔河口不受风浪影响，农民无需大型船只即可轻松进入水域。缅因大学研究员汤姆·基夫尼解释说，这些水域提供了一系列的温度、盐度和其他特征，创造了众多的小气候，牡蛎可以在这些小气候中快速生长并呈现出多种味道，即所谓的“merroir”。基夫尼是一个研究小组的成员，该小组利用陆地卫星和其他卫星观测来预测牡蛎生长率，并根据水温和水质帮助确定缅因州新牡蛎养殖场最有前景的地点。
-
-NASA 地球观测站图像，由 Michala Garrison 拍摄，使用美国陆地卫星数据地质调查。亚当·沃伊兰的故事。
-
-当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
-
-劳伦泰德冰盖从现在的哈德逊湾退缩后，反弹的土地显露出了引人注目的近岸地形。
-
-比热戈斯群岛广阔的泥滩、沙滩和红树林为大量迁徙的滨鸟和大型鸟类提供了栖息地。
-
-这个沿海省份拥有引人注目的热带喀斯特地貌和沙滩，以及自然土地覆盖和发达的……
-
-订阅地球观测站并将地球放入您的收件箱中。
-
-美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
-
-开放访问 NASA 的地球科学数据档案]]></description>
+“这是一项巨大的团队努力，”研究局行政管理专家妮可·阿曼 (Nicole Oman) 说。 “如果没有每个人的贡献，就不可能取得成功。”]]></description>
   </item>
   <item>
-    <title>NASA 为 SpaceX Crew-13 太空站任务举行简报</title>
-    <link>https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-sets-briefings-for-spacex-crew-13-mission-to-space-station/</guid>
-    <pubDate>Mon, 20 Jul 2026 20:00:52 +0000</pubDate>
-    <description><![CDATA[NASA 及其合作伙伴将于 8 月 3 日星期一在休斯敦约翰逊航天中心举行的两次新闻发布会上讨论即将到来的国际空间站乘员轮换任务。
+    <title>NIAC 2026 选择</title>
+    <link>https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/niac/niac-studies/niac-2026-selections/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:30:15 +0000</pubDate>
+    <description><![CDATA[SaptarshiBandyopadhyay 使用可控尘埃云调暗太阳 (DimSun) 以减少日照NASA 喷气推进实验室帕萨迪纳，加利福尼亚州 91109-80012026 第一阶段
 
-任务领导层将于中午 12 点概述 NASA 的 SpaceX Crew-13 任务。美东时间。接下来，机组人员将在下午 2 点讨论他们的训练和任务准备工作。这是 Crew-13 在前往该机构位于佛罗里达州的肯尼迪航天中心发射之前的最后一次媒体报道。
+David Bugby 组合架构提供新移动性、金星适应性和生存能力 (CANVAS)NASA 喷气推进实验室帕萨迪纳，加利福尼亚州 91109-80012026 第一阶段
 
-美国宇航局将现场直播这些活动。了解在哪里在线观看：
+AnishDamodaranPS21：利用光子技术改造亚毫米空间干涉测量中佛罗里达大学佛罗里达州奥兰多 32826-29332026 第一阶段
 
-Crew-13 任务将把 NASA 宇航员杰西卡·沃特金斯和卢克·德莱尼、CSA（加拿大航天局）宇航员约书亚·库特里克和俄罗斯航天局宇航员谢尔盖·泰捷里亚特尼科夫带到轨道实验室。宇航员们将于不早于 9 月中旬从佛罗里达州卡纳维拉尔角太空部队站的 40 号航天发射场发射 SpaceX Dragon 飞船，搭载该公司的猎鹰 9 号火箭进行发射。
+ArturDavoyan 用于极高 delta-V 任务的可卷绕堆叠式太阳能帆加州大学洛杉矶，加利福尼亚州 90024-00012026 第一阶段
 
-亲自出席的国际媒体必须在 7 月 21 日星期二下午 5 点之前向 NASA Johnson 新闻编辑部发送电子邮件至 jsccommu@mail.nasa.gov。亲自出席的美国媒体必须在 7 月 30 日星期四下午 5 点之前回复。以虚拟方式参加的媒体必须在活动当天上午 10 点之前回复。 NASA 的媒体认证政策可在线获取。
+A.C. CharaniaEARENDIL：夜间和深空冰冷景观中的扩展宇航员放射性同位素-EVAZeno Power Systems, Inc.华盛顿特区 20001-37012026 第一阶段
 
-简报参与者如下（均为东部时间，并可能根据实时操作而变化）：
+DanielDrew 用于岩溶自主侦察的固态推进器 (SPARK) 夏威夷大学檀香山，HI 96822-23032026 第一阶段
 
-中午 12 点：任务概览新闻发布会
+Gilly Elor 光纤供电支持月球地下探索者 (LUX)Stone Aerospace, Inc.Del Valle, TX 78617-30172026 第一阶段
 
-新闻发布会结束后，机组人员将接受有限的媒体采访。所有面试请求必须在下午 5 点之前提交。 7 月 30 日，发送至 NASA Johnson 新闻编辑室：jsccommu@mail.nasa.gov。
+刘兆彦量子测风激光雷达在行星和地球科学任务中的应用NASA艾姆斯研究中心Moffett Field, CA 94034-00012026 第一阶段
 
-这将是沃特金斯第二次飞往空间站，沃特金斯于 2017 年被选为美国宇航局宇航员。沃特金斯在科罗拉多州拉斐特长大，在斯坦福大学获得地质和环境科学学士学位，在加州大学洛杉矶分校获得地质学博士学位。作为一名地质学家，她研究了火星表面，并且是美国宇航局南加州喷气推进实验室好奇号漫游车科学团队的成员。沃特金斯首次作为宇航员在 NASA 的 SpaceX Crew-4 任务中发射到空间站，并在 2022 年的空间站探险 67/68 中总共在太空中度过了 170 天。她将成为第一位两次乘坐 SpaceX Dragon 飞船发射的 NASA 宇航员。
+JeffNosanovOBLIVIAN：通过强度相关轨道速度观测黑洞光，LLCDecatur, GA 30033-41512026 第一阶段
 
-德莱尼于 2021 年被选为美国宇航局宇航员，在北佛罗里达大学获得机械工程学士学位，在海军研究生院获得航空航天工程硕士学位。这位佛罗里达人是一位杰出的海军飞行员，参加了整个亚太地区的演习，并执行了支持持久自由行动的任务。作为一名试飞员，德莱尼评估了正在开发的飞机系统并担任试飞员教练。他还曾在弗吉尼亚州汉普顿的美国宇航局兰利研究中心担任研究飞行员，支持机载科学任务。这是德莱尼的第一次太空飞行。
+KeunhanPark 用于星际任务的等离激元增强放射性同位素热光伏 (PRTPV) 发电犹他大学盐湖城 84112-11092026 第一阶段
 
-Crew-13 任务也是 Kutryk 的首次太空飞行。在 2017 年被选为 CSA 宇航员之前，他曾担任 CF-18 战斗机飞行员，执行飞行任务以支持加拿大北约、联合国和北美航空航天防御司令部的承诺。库特里克出生于艾伯塔省萨斯喀彻温堡，还在艾伯塔省冷湖航空航天工程测试中心担任实验和操作试飞员。库特里克在安大略省金斯顿的加拿大皇家军事学院获得机械工程学士学位，并且是加利福尼亚州爱德华兹的美国空军试飞员学校的杰出毕业生。他拥有空间研究、飞行测试工程和国防研究硕士学位。
+AustinPhoenixECLIPSE – 用于被动测量环境控制的高效可变电导率月球绝缘体弗吉尼亚理工学院和州立大学，布莱克斯堡，弗吉尼亚州 24060-56052026 第一阶段
 
-这次任务将是捷捷利亚特尼科夫首次前往轨道实验室。他于 2011 年毕业于俄罗斯圣彼得堡海军学院，担任船舶动力装置运营专业工程师。在被选为测试宇航员之前，捷捷里亚特尼科夫曾担任过各种海军工程职务，包括海底船只和专门的发动机室操作。他于2021年入选加加林研究和测试宇航员训练中心宇航员军团，并自2023年起担任测试宇航员。
+MarcoQuadrelliPRAXIS：行星环原位采样自主探索NASA 喷气推进实验室帕萨迪纳，CA 91109-80012026 第一阶段
 
-有关该任务的更多信息，请访问：
+迈克尔·鲁宾斯坦用于土星环、大气层和磁圈原位探索的主动可控 Femtosat 星座西北大学芝加哥埃文斯顿，伊利诺伊州 60208-00012026 第一阶段
 
-https://www.nasa.gov/mission/nasas-spacex-crew-13
+BenjaminSchafer 用于 30-100 公里高度近空间遥感的光致示踪剂加州大学洛杉矶，加利福尼亚州 90024-00012026 第一阶段
 
-约书亚·芬奇 / 吉米·拉塞尔总部，华盛顿202-358-1100joshua.a.finch@nasa.gov/james.j.russell@nasa.gov
+DavidSmith 机器人组装电磁超材料用于远程空间态势感知杜克大学北卡罗来纳州达勒姆 27708-99762026 第一阶段
 
-Leah Cheshier / Anna Schneider 休斯顿约翰逊航天中心281-483-5111leah.d.cheshier@nasa.gov/anna.c.schneider@nasa.gov]]></description>
+Pablo Sobron SanchezInterworld Slingshot 资源调查SETI InstituteMountain View, CA 94043-52032026 第一阶段
+
+PaulStankus 绘制外星大陆图：实现系外行星成像的光学 VLBIBrookhaven Science AssociatesUpton NY 11973-00012026 第一阶段
+
+PaulStankus使用光学独立航天器进行引力波探测的精密天体测量Brookhaven Science AssociatesUpton, NY 11973-00012026 第一阶段]]></description>
   </item>
   <item>
-    <title>NASA 与 GE 航空航天合作实现混合电动飞行演示</title>
-    <link>https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/</link>
-    <guid>https://www.nasa.gov/directorates/rtmd/nasa-ge-hybrid-electric-flight/</guid>
-    <pubDate>Mon, 20 Jul 2026 18:54:44 +0000</pubDate>
-    <description><![CDATA[一架由与 NASA 合作开发、由 GE 航空航天公司制造的兆瓦级混合动力发动机提供动力的飞机，展示了一项创新的飞行，该创新可以为新一代节油飞机动力系统提供信息。
-
-该发动机安装在萨博 340B 飞机上，在英国范堡罗国际航空展上进行了飞行。这是该系统的首次公开亮相，该系统在最近几个月进行了历史性的试飞，成为第一架飞行高度超过 30,000 英尺的混合动力飞机。
-
-“这一成就反映了 NASA 在航空领域最擅长的领域：我们探索大胆的可能性，通过严格的研究和测试验证它们，并与工业界合作，将突破性的想法转化为为美国人民带来真正价值的技术，”华盛顿 NASA 总部研究与技术任务理事会航空部主任劳里·格林德尔 (Laurie Grindle) 说。
-
-此次测试利用了美国宇航局前电气化动力系统飞行演示项目和该机构正在进行的亚音速飞行器技术和工具项目——多年的合作研究，其中包括在美国宇航局测试设施进行的关键测试。
-
-该发动机集成了电动机、燃气轮机和储能功能。它的设计目的是展示为支线级喷气式飞机大小的飞机提供动力的能力，在不牺牲性能的情况下减少燃油消耗和成本。该部门的技术和设计预计将用于帮助开发未来的混合动力系统，从而降低航空公司的运营成本。
-
-这次演示飞行是在该技术多年快速发展之后进行的。对于美国宇航局来说，它还验证了可以追溯到混合航空推进力几乎超出可能性的时代的工作。
-
-该机构研究与技术任务理事会航空部主任
-
-NASA 克利夫兰格伦研究中心的航空航天工程师拉尔夫·詹森 (Ralph Jansen) 表示：“这是超过 15 年工作的结晶，我们这样做是因为它将对飞机产生影响，有助于减少能源使用并帮助美国公司和公众。” “这是关于拥有一个没人相信会发生的愿景，然后努力定义和执行实现它所需的研究和开发。”
-
-这一成就的实现得益于 NASA 各中心数百名从事电动动力系统飞行演示和亚音速飞行器技术和工具项目的人员与 GE 航空航天及其合作伙伴公司的共同努力。
-
-近年来，由电池供电的电气系统驱动的小型飞机和无人机在航空业蓬勃发展。但大型客机和货机需要能够提供大量动力的复杂发动机。因此，十多年前，当美国宇航局开始考虑混合动力系统时，仅使用电动机补充部分能量的可能性就是一项艰巨的工程挑战。
-
-美国宇航局花了大约七年的时间进行初步研究，与小企业和其他合作伙伴合作，考虑混合系统的技术障碍和潜在的商业可行性。在此期间，该机构解决了实施过程中的几个障碍，包括电力、热力和电池技术，以及电力系统、发动机和飞机的集成。
-
-通过该机构的电气化动力系统飞行演示奖，通用电气航空航天公司和美国宇航局与研究人员合作开发更轻、更高效的动力系统，并缩小关键部件的尺寸——有时甚至是大幅缩小。
-
-美国宇航局和通用电气航空航天公司还利用机构设施和资源来进一步研究。 2022 年，GE 航空航天公司在美国宇航局位于俄亥俄州桑达斯基的尼尔·A·阿姆斯特朗测试设施的电动飞机测试台上测试了其推进系统的集成版本。测试允许系统在模拟 45,000 英尺高度（商用单通道飞机的飞行范围）的条件下运行。
-
-该团队添加了一些组件，包括电动机、功率转换器、螺旋桨和通用电气航空航天商用发动机，随后进行了更多的地面测试和最终的飞行测试。对于花了数年时间研究这一概念的研究人员来说，看到发动机为飞行中的飞机提供动力是漫长旅程中的重要一步。
-
-“我不得不说，看到它飞翔我很感动。这真是太棒了，”詹森说。  “它就像一架普通飞机，这可能是最好的事情。”
-
-美国宇航局目前通过其研究和技术任务理事会的航空部门对这项研究提供支持。]]></description>
+    <title>使用光学独立航天器进行引力波探测的精密天体测量</title>
+    <link>https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/niac/niac-studies/precision-astrometry-using-optically-independent-spacecraft-for-graviational-wave-detection/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:23:54 +0000</pubDate>
+    <description><![CDATA[科学目标是基于天体引力波特征，实现一种观测低频引力波的新方法——经过地球的引力波将引起所有天空物体的（非常小的）协调视运动。我们的创新是利用量子力学双光子干涉部署一种新的精密天体测量方法，该方法最近发表。该方法的一大优点是两个独立的干涉航天器站可以独立运行，即它们之间没有光学连接，与标准的天基干涉设计相比，大大简化了航天器的要求。有了这种能力，我们建议能够以天文学上感兴趣的水平的灵敏度检测低频（微赫兹到纳赫兹范围内）经过的引力波（请注意，目前基本上没有其他方法可用于该频段的引力波检测）。我们展示了如何使用自由落体轨道上的两个中等大小的航天器通过简单的任务来实现这一目标；探测此类引力波将对星系形成和 SM 黑洞物理学产生极大的兴趣，并激发公众的想象力。]]></description>
   </item>
   <item>
-    <title>美国宇航局新地球任务准备启动科学飞行</title>
-    <link>https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/</link>
-    <guid>https://science.nasa.gov/earth/new-nasa-earth-missions-gear-up-to-start-science-flights/</guid>
-    <pubDate>Mon, 20 Jul 2026 18:25:11 +0000</pubDate>
-    <description><![CDATA[Landslides in Alaska. Air quality in Atlanta. Fire clouds out West. From the Arctic fringes to farm country, NASA’s newest class of suborbital Earth Venture missions is gearing up to deliver science that will benefit communities in the United States and beyond.
-
-The six projects will mobilize hundreds of scientists and pilots from NASA, the U.S. Navy, universities, and other institutions over the next several years. While the investigations range across topics, a defining feature of suborbital missions is the use of sensors mounted on aircraft.
-
-Airborne remote sensing serves as a bridge between ground-based instruments and satellites. Data collected via planes, helicopters, drones, and balloons can fill in gaps in computer models used by weather forecasters, city planners, and others.
-
-The first project to take wing this summer is Injected Smoke and PYRocumulonimbus Experiment (INSPYRE), led by the Naval Research Laboratory. From mission headquarters in Colorado, the team will chase one of the least understood forms of severe weather on Earth: towering “fire clouds” generated when extreme wildfires burn hot enough to brew their own thunderstorms.
-
-To view this video please enable JavaScript, and consider upgrading to a web browser thatsupports HTML5 video
-
-Smoky and crackling with lightning, these unique storms can create blind spots for aviators above and spark new blazes below. Measuring and mapping the dangerous storms as they develop in real-time will help scientists forecast them in the future. Several aircraft, including NASA’s high-altitude ER-2, flying out of Montana, will carry a large suite of instruments over wildfire-generated storm systems. Among them will be two state-of-the-art infrared wildfire trackers, which were developed at NASA’s Jet Propulsion Laboratory (JPL) in Southern California and will be flying as part of the agency’sFireSenseprogram.
-
-Agricultural emissions represent an important and understudied part of Earth’s land and atmosphere systems. TheFarmFluxmission, which kicks off this year, will deploy more than a dozen sensors to measure ozone, methane, ammonia, particulates, and other pollutants rising from agricultural lands and animal farms stretching from the Midwest to California’s Central Valley. These emissions affect human health, global climate, and stratospheric ozone. The mission is led by NASA’s Goddard Space Flight Center in Greenbelt, Maryland, along with Colorado State University, and Boston University.
-
-Two North American cities with air quality concerns are Atlanta and Mexico City. But the causes differ, with weather and terrain playing a role. To explore these differences, the Hemispheric Airborne Measurements of Air Quality (HAMAQ) mission will investigate areas of poor air in the two capitals and test how satellite information can help forecasting and mitigation efforts. The team will deploy two aircraft at different altitudes: NASA’s P-3B will fly close to the surface, directly measuring fine particle and gaseous pollutants, while the recently acquired777 science jetwill soar high above, mapping pollution with remote sensors.  NASA’s Langley Research Center in Hampton, Virginia, is leading the mission.
-
-As the Arctic warms at least twice as fast as the rest of Earth, data collected today can help guide communities on the front lines of change.
-
-TheSnow4Flowcampaign, led by the University of Arizona, seeks to measure and model how far and fast glaciers are retreating in the far north. Traversing remote icescapes across Alaska, the Yukon, Arctic Canada, Greenland, and Svalbard, Norway, they’ll sound both the near-surface and frozen depths of hundreds of glaciers while flying over in a modernized WWII-era aircraft outfitted with a scanning laser altimeter and two custom radars. Their observations, combined with satellite data and advanced models of snowfall and glacier flow, will advance our understanding of how glaciers behave in different regions of the Arctic. The mission seeks to uncover not just what these glaciers look like beneath the surface today, but the processes that will drive changes in the future.
-
-As permafrost thaws, rivers on the doorstep of the Arctic becomeconveyor beltsof carbon and sediment. NASA Goddard, and the City College of New York lead a multidisciplinary team studying how rivers, lagoons, and estuaries across Alaska’s North Slope interact with the Arctic Ocean. The project, called Frontlines of Rapidly Transforming Ecosystems (FORTE) will combine optical and radar measurements from satellites, planes, high-tech research vessels, drones, and underwater autonomous systems to track microscopic marine life, water flow, and chemistry. The team will collaborate with local and tribal communities to sustain observations over time and apply NASA assets to address emerging local needs and decision-making priorities.
-
-When a slow-moving landslide in California suddenly collapsed and buried a section of coastal highway in 2017, scientists at NA]]></description>
+    <title>绘制外星大陆地图：实现系外行星成像的光学 VLBI</title>
+    <link>https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/mapping-alien-continents-achieving-optical-vlbi-for-exoplanet-imaging/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:23:51 +0000</pubDate>
+    <description><![CDATA[这项工作的科学目标是重建图像，即解析可见光下附近恒星周围类地系外行星的表面特征。创新分两个阶段。首先，设计了一种新型调零干涉仪——“动态分层调零”——结合了多个孔径的输入，能够将星光与行星光分开，可见光对比度达到 10^10 或更好。其次，将距离约 100 公里的航天器上两个此类调零器的输出光束组合起来，使用迈克尔逊干涉成像来实现所需的角分辨率；请注意，分层调零器将恒星的光线保留在单独的光束中，然后可以将其用作干涉相位参考。调查类地系外行星特征的能力与美国宇航局的优先事项完全一致，并且肯定会激发公众的兴趣。]]></description>
   </item>
   <item>
-    <title>从汉普顿到火星：美国宇航局兰利如何帮助登陆这颗红色星球</title>
-    <link>https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/</link>
-    <guid>https://www.nasa.gov/general/from-hampton-to-mars-how-nasa-langley-helped-land-on-the-red-planet/</guid>
-    <pubDate>Mon, 20 Jul 2026 15:47:15 +0000</pubDate>
-    <description><![CDATA[美国宇航局兰利研究中心公共事务官员
+    <title>世界间弹弓资源调查</title>
+    <link>https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/niac/niac-studies/interworld-slingshot-resource-surveys/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:23:49 +0000</pubDate>
+    <description><![CDATA[该提案探索了一种新型侦察航天器，可在高速飞越期间使用拉曼光谱绘制轨道上的矿物图，无需着陆、返回样本或延长停留时间。如果可行，这一概念将使 NASA 能够通过一艘 300 公斤重的航天器评估月球上的冰和钛铁矿、小行星上的矿石含量以及火星卫星上的挥发性矿物。该功能通过回答一个关键的操作问题来解决 NASA 在可持续月球存在、小行星资源评估和火星物流方面的长期目标：这种材料到底是什么？
 
-美国宇航局兰利研究中心科学公共事务官员
+核心目标是确定拉曼光谱（一种通过分子指纹识别矿物的技术）是否可以在飞越或轨道弧期间在数十公里外运行。迄今为止，行星拉曼仅在漫游车上几米外使用。从 30-50 公里对峙处进行拉曼分析将为行星科学和空间资源测绘开辟新的体制，提供被动反射或中子方法无法提供的成分特异性。
 
-五十年前，美国宇航局的维京一号和维京二号着陆器首次成功登陆火星，开启了行星探索的新时代。这一成就的背后是位于弗吉尼亚州汉普顿的美国宇航局兰利研究中心的一个团队，他们稳定的领导力和技术专长帮助将一个雄心勃勃的想法变成了一项任务，重塑了我们探索其他世界的方式。
+参考任务概念使用单个太阳能电力推进航天器进行三个侦察任务：（1）50公里月球极地轨道，绘制冰和钛铁矿地图； (2) 飞越一颗近地小行星 30 公里，以识别硅酸盐、金属和有机物； (3) 火卫一或火卫二的 30-50 公里轨道，用于检测富含挥发物的相，为火星任务后勤提供信息。
 
-1968 年，美国宇航局选择兰利来领导大规模的维京项目，这是美国第一个旨在安全登陆火星并寻找生命迹象的任务。项目经理 James S. Martin Jr. 从一开始就定下了基调。他想要明确的优先事项、严格的工程审查以及测试每个系统的纪律，直到团队有信心它可以在火星上运行。
+在每条腿上，都有一个高能脉冲激光器、时间选通光子计数探测器和拉德级光束控制系统，将拉曼信号与行星表面隔离。现有的传感器或任务类别都无法执行此功能。
 
-兰利的工程师面临着前所未有的挑战：减缓以每小时 10,000 英里以上的速度坠入火星大气层的航天器的速度。因此，他们依靠自己在大气进入空气动力学、隔热和降落伞技术方面的专业知识。他们的工作生产了防护罩和隔热罩，以及超音速降落伞。这些系统不仅仅来自理论——它们是经过多年的风洞测试、分析和问题解决而形成的。如今，兰利在进入、下降和着陆系统方面仍然表现出色。
+为了确定可行性，NIAC 第一阶段研究回答了三个核心问题：(1) 能否在 50 公里外以足够的信噪比检测关键矿物拉曼线？ (2) 在快速飞越期间能否稳定光束指向和拖尾，以允许在停留时间内进行积分？ (3) 具有真实推进、动力和姿态控制系统的 300 公斤航天器能否封闭所有三个目的地的任务架构？
 
-兰利还帮助创建了一种寻找安全着陆点的新方法。团队将维京号轨道飞行器的图像与地球观测站的雷达数据相结合，以确定在科学价值与工程安全之间取得平衡的区域——这是目前火星任务的标准方法。
+方法包括基于已知拉曼截面的第一原理光子建模、航天器抖动分析以及使用 NASA 标准任务规划工具的轨迹设计。该研究分为三个技术工作包以及综合和报告。内置灵敏度分析和决策门，以确定光子返回或指向控制的变化将如何影响整体任务的可行性。每条航段都探索了替代架构，包括较低的飞越高度和不同的推进方案。
 
-维京人还改变了任务团队的运作方式。工程师和科学家采用了 sol（火星日稍长于 24 小时）来使日常工作与火星当地时间保持一致，这种做法仍然用于表面任务。
+该研究团队结合了拉曼仪器、星载激光雷达和任务设计方面的深厚专业知识。 PI Sobron 领导了 120 米范围的现场拉曼系统，并为火星上的 SuperCam 和 SHERLOC 做出了贡献。来自 NASA 戈达德中心的 Co-I Lee 和合作者 Yu 带来了 ICESat-2 和其他轨道激光系统的直接遗产。 NASA 艾姆斯的 Co-I Casell 负责早期任务设计，并带来了先前的 NIAC 经验。该团队得到了 SETI 和商业合作伙伴 OffWorld 的支持。
 
-维京号诞生于一次关键的计划转变。早期的航行者火星着陆器概念被取消，因为它依赖于单个土星五号火箭上堆叠的两个大型着陆器，成本太高且风险太大。兰利帮助制定了一条更现实的前进道路，将每个着陆器与其自己的轨道飞行器配对，并使用泰坦 IIIE-半人马座火箭。新设计保留了科学雄心，同时使任务得以实现。
-
-维京号为美国宇航局如何探索太阳系提供了一个早期模型：用轨道飞行器进行侦察，用真实数据验证着陆点，并仅在测试远远超出其极限的系统上着陆。这本由兰利精心打造的“行星剧本”为好奇号和毅力号等未来的火星任务提供了指南。
-
-两个着陆器传回了数千张图像和开创性数据，揭示了火星是一个具有天气、地质历史和复杂性的世界，科学家们至今仍在研究这一点。虽然没有人踏上过火星表面，但维京人证明了到达另一个星球并在其上工作是可以实现的。
-
-随着这些登陆 50 周年的到来，兰利的影响力是显而易见的。该中心继续推进新的进入、下降和着陆技术，并探索支持未来人类探险家的概念。指导维京人的精神仍然推动着今天汉普顿的工作——稳定、好奇，并始终展望下一个地平线。]]></description>
+如果成功，这项工作将定义轨道拉曼矿物检测的第一个架构，并证明无需着陆即可进行高分辨率分子测绘。即使是部分成功，也将为遥感物理学建立新的界限，提供经过验证的模型，并支持 NASA 未来在阿尔忒弥斯选址、小行星采矿和火星 ISRU 规划方面的决策。该架构实现了经济高效的发现级模板，最终可以扩展到内太阳系侦察机舰队，将陆地卫星式的矿物智能带入行星探索。]]></description>
   </item>
   <item>
-    <title>我们第一次看到火星表面</title>
-    <link>https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/</link>
-    <guid>https://www.nasa.gov/image-article/our-first-view-of-the-surface-of-mars/</guid>
-    <pubDate>Mon, 20 Jul 2026 15:38:29 +0000</pubDate>
-    <description><![CDATA[“触地得分，我们触地得分！” 1976 年 7 月 20 日太平洋夏令时间凌晨 5 点 12 分，当美国宇航局喷气推进实验室的任务控制人员得知维京 1 号着陆器在稀薄的火星大气层中成功降落时，爆发出欢呼声。四十分钟后，着陆器的第一张图像开始出现在他们的显示器上，从左到右慢慢地形成一行一行。人类第一次能够从火星表面看到火星的岩石地形。
+    <title>机器人组装的电磁超材料用于远程空间态势感知</title>
+    <link>https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/niac/robotically-assembled-electromagnetic-metamaterials-for-long-range-space-situational-awareness/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:23:46 +0000</pubDate>
+    <description><![CDATA[航天器和卫星数量的不断增加推动了空间态势感知（SSA）技术的不断发展。虽然美国太空监视网络 (SSN) 能够使用最新升级的太空围栏等技术来监测尺寸小至约四英寸的物体，但相关要求限制了使用千米级雷达阵列对近地轨道 (LEO) 物体进行地面跟踪的实施。除了近地轨道外，地月交通的前景和所涉及的极端距离使得地面阵列变得不切实际。这种限制对于相干雷达系统至关重要：对于给定的探测性能，所需的阵列尺寸与目标距离成正比。因此，事实上，减少传感距离而不是扩大阵列尺寸变得更加简单，而这只能通过转向天基 SSA 平台来实现。
 
-维京着陆器成像团队的负责人托马斯·马奇博士描述了这一时刻：“我研究了黑屏，等待着那条窄带，它将标志着第一张图片的前几行。然后它出现了。电子魔法的一小条。明亮和黑暗的区域。图片开始充满屏幕。岩石和沙子清晰可见，最后在最右边——航天器的脚垫之一，这是一个象征性的人工制品，用现实的标志来标记我们的成就。我一遍又一遍地重复， ‘这太不可思议了。’”
+尽管空间部署的雷达系统在传感能力方面具有明显的优势，但与地月监视相关的长距离仍然需要极大的孔径才能获得足够的性能。由于现代可展开结构的局限性，这带来了重大的实际挑战，迄今为止，现代可展开结构的尺寸无法始终如一地达到大于 100 米的尺寸。出现这种限制是因为最先进的可展开天线，包括薄膜、网状和充气结构，需要将整个结构容纳在单个发射整流罩内。相比之下，太空组装的前景表明可扩展结构的潜力，这种结构不受发射限制，因此可以满足远程SSA的挑战性要求。
 
-五十年前的今天，维京一号着陆器成为美国宇航局第一个探索火星表面并开始在太阳系中寻找生命迹象的机器人。六周后，维京 1 号的双胞胎着陆器维京 2 号也加入其中，探索了火星的不同区域，而将着陆器运送到这颗红色星球的两个任务轨道器则继续从太空收集数据，并帮助将通信中继到地球。
+我们提出了一种星载雷达系统，它将机器人组装的机械稳定结构的演示性能与可重构的体积电磁超材料结合起来。前一种技术能够实现任意体积结构的模块化和精确构造，而后者则提供了复杂且易于兼容的设计平台，以实现远程 SSA 的挑战性要求。这两种方法都利用单元驱动的模块化设计程序，可以实现机械和电磁鲁棒天线平台的几乎任意缩放。通过这种方式可靠地组装和控制体积天线结构的能力提供了新的强大功能，包括在宽视场 (FOV) 上进行转向，而无需缓慢的机械旋转天线。
 
-了解更多有关维京号的发现以及 NASA 在火星上的发现遗产的信息，请访问维京号：火星 50 年。]]></description>
+拟议的工作将展示可重构体积 S 波段超材料的可行性和可扩展性，以实现各种波束控制功能。这项工作将包括改进用于全向电磁波束形成的超材料设计策略，以及与机器人装配兼容的可重构单元的初步评估/设计。超材料设计程序的开发将利用先前已在较小尺度上验证过的数值高效偶极子模型，而超材料元件设计将通过已建立的全波数值方法进行。根据自动可重构任务自适应数字装配系统（ARMADAS）项目成功的机器人装配演示，系统设计概念将纳入实际约束。
+
+虽然该项目将针对 SSA 应用，但所涉及的设计考虑因素同样适用于需要大物理孔径的任务，例如用于地球观测和深空通信的低频辐射测量。由于所有波束控制、雷达和观测任务的性能（分辨率、灵敏度）随着孔径尺寸的增加而提高，因此实现减少 CSWaP 的替代电磁策略可以为 NASA 的各种项目提供优势。]]></description>
   </item>
   <item>
-    <title>塑造翡翠城</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/shaping-the-emerald-city/</guid>
-    <pubDate>Mon, 20 Jul 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[华盛顿州西雅图的山丘和盆地经过冰川的雕刻和人类的改造。
+    <title>用于 30-100 公里高度近空间遥感的光泳示踪剂</title>
+    <link>https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/photophoretic-tracers-for-near-space-remote-sensing-at-30-100-km-altitudes/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:23:43 +0000</pubDate>
+    <description><![CDATA[本杰明谢弗瑞瑞德科技公司
 
-2026 年 6 月 16 日，国际空间站上的一名宇航员拍摄了这张照片，华盛顿州西雅图，有时被称为“翡翠城”，在早晨的阳光下闪闪发光。这座城市的公园和绿树成荫的社区为这座大都市增添了郁郁葱葱的绿色外观，市中心的高楼投下长长的阴影，船只在周围的水道上航行。
+我们提出了一种使用光悬浮示踪剂在 30-100 公里高度进行大气传感的新方法。这些轻质结构利用阳光在受控高度上保持悬浮长达数月，并且可以通过基于卫星的激光雷达或雷达进行远程跟踪。与天然气溶胶不同，这些示踪剂的设计目的是在标准遥感波长下提供强大且可调谐的反向散射，从而能够在现有系统严重测量不足的区域对风、温度和压力进行被动、持久和高度选择性的测量。
 
-城市景观的广阔轮廓和周围水域的形状归因于上一个冰河时期冰川的进退。大约 18,000 至 16,000 年前，科迪勒拉冰盖的普吉特波瓣覆盖了该地区，厚达 3,300 英尺（1,000 米）的冰块覆盖了该地区。冰川冲刷了现在普吉特海湾和该地区湖泊所占据的盆地。
+这一概念解决了电流传感能力的主要差距。中间层和平流层上层在大气动力学、空间域感知、空间天气和高空平台导航中发挥着关键作用。尽管该地区很重要，但数据收集仍然是一个挑战。近太空对于气球持续飞行来说太高，而对于卫星轨道来说又太低。现有大气物质的浓度对于激光雷达和雷达等遥感技术来说也太低。光电泳示踪剂提供了一种新的解决方案：由无毒、惰性反向散射点组成的持久、分层传感器层，不需要板载电源、推进或控制。这些示踪剂可以通过高空气球或火箭部署，并根据其几何形状和涂层自动到达目标高度。
 
-冰川也在水面上留下了痕迹。西雅图的几座臭名昭著的山丘（其中有七座或更多，具体取决于谁在数）。这些细长的冰川碎片堆呈南北走向，与冰运动的方向平行。城市中东西向的旅行者面临着充满挑战的起伏，可能证明了这种地形趋势。
+在一次代表性任务中，数千个示踪剂从约 30 公里处的轻型气球中释放。示踪剂上升到 90-100 公里的目标高度，即较低的电离层。基于卫星的激光雷达在长达一个月的生命周期内跟踪它们的运动。示踪剂轨迹能够以亚公里分辨率和每小时节奏连续绘制风切变、热梯度和压力剖面图。收集的实时数据用于校准电离层空间天气模型的边界条件。随着收集的数据越来越多，这些模型的预测能力不断提高，从而增强近太空和近地轨道的态势感知和通信弹性。例如，其他早期部署可以支持热带地区天气模型的改进并监测太空港的大气状况。
 
-这些冰还从更北的地方运送了被称为冰川飘浮物的巨石，并将它们沉积在该地区周围。韦奇伍德岩石是一块特别大的不稳定岩石，高约 20 英尺（6 米），因其所在的北西雅图社区而得名。
-
-最近，人类开展了改造地形的项目。值得注意的改造包括平整市中心以北的丹尼山 (Denny Hill) 以及填平市中心以南杜瓦米什河 (Duwamish River) 河口的潮滩，从而创造了约 1,300 英亩的新土地。西雅图的专业体育场馆就坐落在这片土地上。
-
-这张照片是在 2010 年启动的几个更新市中心海滨基础设施的开发项目完成后拍摄的。其中包括一个新的渡轮码头和码头、新建的海堤和隧道，以取代地上高速公路，并为通往海滨的公众提供更有吸引力的通道。
-
-从宇航员的角度来看，该地区水道的一些重新铺设也很明显。 1910 年代，陆军工程兵团在联合湖两侧修建了运河，将普吉特湾（太平洋入口）与华盛顿湖连接起来。从 1916 年开始，蒙特莱克切口将华盛顿湖与联合湖连接起来，联合湖西北部的巴拉德水闸开始在淡水湖和潮汐普吉特湾之间升降船只。由于该项目，华盛顿湖的水位下降了约 9 英尺（3 米），并停止从其南端的自然出口排水。
-
-如今，西雅图及其周边水域有多种用途：集装箱船、游轮、汽车和客运渡轮、水上飞机以及往返于海湾和湖泊的休闲船只。至于西雅图的翡翠绰号，城市范围内仍然存在一些古老的森林，其中有数百年历史的树木，如花旗松、西部红雪松和西部铁杉。西雅图人经常在城市的各个栖息地发现秃鹰、郊狼和海狮等野生动物。
-
-宇航员照片ISS074-E-723719于2026年6月16日获取，使用尼康Z9数码相机，焦距为560毫米。它由国际空间站机组人员地球观测设施和美国宇航局约翰逊航天中心的地球科学与遥感部门提供。这张照片是由 Expedition 74 船员拍摄的。图像经过裁剪和增强以提高对比度，并且镜头伪影已被消除。国际空间站计划支持该实验室作为国际空间站国家实验室的一部分，帮助宇航员拍摄对科学家和公众最有价值的地球照片，并将这些图像在互联网上免费提供。宇航员拍摄的其他图像可以在 NASA/JSCGateway to Astronaut Photography of Earth 上查看。林赛·杜尔曼的故事。
-
-当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
-
-冰川湖在曼尼托巴省东南部留下了一层淤泥和粘土，形成了肥沃的农田，这些农田在……
-
-南极洲的 Unter-See 湖被厚厚的冰层封闭，具有不寻常的水化学和类似于地球上一些的锥形微生物结构……
-
-巴塔哥尼亚南部冰川上的冰块碎裂，漂流到不断扩大的冰川湖上。
-
-订阅地球观测站并将地球放入您的收件箱中。
-
-美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
-
-开放访问 NASA 的地球科学数据档案]]></description>
+这项工作建立在光泳飞行的新兴实验结果的基础上，对近太空条件下的悬浮进行了实验室验证，并对示踪剂色散和能见度进行了初步模拟。反向散射模型证实了使用商用激光雷达系统进行轨道探测的可行性。示踪剂设计为在使用寿命结束时安全分解，并与可扩展的制造技术兼容。通过设计散射介质本身，这个概念颠覆了传统的大气遥感。它为国家安全、气象学、太阳物理学和行星探索提供了较低 SWaP-C 卫星传感系统和全新类型的持久测量工具。]]></description>
   </item>
   <item>
-    <title>NASA 推出新机翼设计以寻找结构极限</title>
-    <link>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/</link>
-    <guid>https://www.nasa.gov/centers-and-facilities/armstrong/nasa-pushes-new-wing-design-to-find-structural-limits/</guid>
-    <pubDate>Fri, 17 Jul 2026 23:08:33 +0000</pubDate>
-    <description><![CDATA[美国宇航局研究人员最近提出了一种新的机翼设计，外观又长又薄，结构设计轻巧，通过一系列艰苦的测试来找到其结构极限。他们的发现让他们对机翼的潜力感到鼓舞，即使他们将其推到了预期的极限。
+    <title>用于土星环、大气层和磁层原位探索的主动可控飞卫星星座</title>
+    <link>https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/niac/actively-steerable-femtosat-constellations-for-in-situ-exploration-of-saturns-rings-atmosphere-and-magnetosphere/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:23:41 +0000</pubDate>
+    <description><![CDATA[迈克尔·鲁宾斯坦西北大学，芝加哥
 
-15 英尺结构机翼实验评估桁架支撑 (SWEET-15) 测试品是 NASA 开发未来超高效飞机研究的一部分。该设计采用了由空气动力学支柱支撑的长机翼，基于 NASA 早期的跨音速桁架支撑机翼概念。
-
-研究团队正在努力了解 SWEET-15 的设计及其新的轻量化结构设计是否可以帮助商用客机节省燃油。但首先，他们需要了解它在飞行中所经历的各种力翼下的表现。
-
-SWEET-15 的设计源于结合五种不同的先进复合材料制造和组装技术，从而实现了新颖的结构设计。然后，这个 15 英尺长的测试品在位于弗吉尼亚州汉普顿的 NASA 兰利研究中心设计和制造，然后前往位于加利福尼亚州爱德华兹的 NASA 阿姆斯特朗飞行研究中心进行测试。
-
-几个月来，美国宇航局工程师在美国宇航局阿姆斯特朗飞行载荷实验室故意弯曲测试机翼。许多应变和负载传感器，包括光纤应变传感器，被放置在整个结构中，以跟踪机翼随着力增加的反应。
-
-来自传感器的数据证实了美国宇航局计算机模型的预测。根据初步调查结果，机翼毫无问题地承受了预期的飞行力量。结果使团队对 SWEET-15 中使用的连接机翼部件的新制造方法和方法充满信心，这可以支持未来高效的飞机设计。美国宇航局兰利开发的制造方法使用先进复合材料机器人的集成结构组装，旨在为航空航天器生产更轻、更强的复合结构。
-
-测试以故意的故障测试结束，工程师将负载增加到机翼设计极限之外，以确定其发生故障的方式和位置。该结构最终在达到其设计极限载荷的约 127% 时失效，机翼后缘附近和上机翼盖处出现明显损坏。这一测试要素为了解连接机翼与其主支柱和辅助支柱（称为辅助支柱）的接头在超出预期飞行包线的力下的表现提供了宝贵的见解。
-
-这标志着具有代表性的复合材料桁架支撑机翼配置首次接受此类结构评估。  这只有通过美国宇航局跨中心和项目的合作才能实现，研究人员利用机构资源，例如用于收集飞机和航天器数据的光纤传感系统。
-
-为了准备测试，美国宇航局兰利的工程师设计、分析和制造了机翼，并完成了安全准备和实验室设置。
-
-研究人员现在将分析测试期间收集的数据，为未来的机身设计提供信息，并支持美国宇航局持续努力开发更高效的航空技术。
-
-这项工作是通过美国宇航局研究技术任务理事会的亚音速飞行演示器项目进行的。多个创新部件的成功测试标志着 NASA 航空研究的一个里程碑。]]></description>
+我们提出了一项任务，即使用约 10,000 个主动可控飞卫星来绘制土星环的成分、大气成分和密度以及磁场分布图。通过单一旗舰任务（例如卡西尼号）对土星环进行现场调查，会因粒子碰撞而导致任务失败的风险高得令人无法接受。然而，拟议任务的分布式性质意味着它可以接受可能摧毁星座中许多飞卫星的风险，从而使对环的现场勘测成为可能。]]></description>
   </item>
   <item>
-    <title>随着美国宇航局“心灵”任务的临近，火星的新月越来越大</title>
-    <link>https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/</link>
-    <guid>https://science.nasa.gov/photojournal/the-growing-crescent-of-mars-as-nasas-psyche-mission-approaches/</guid>
-    <pubDate>Fri, 17 Jul 2026 22:32:27 +0000</pubDate>
-    <description><![CDATA[这张由 NASA 的 Psyche 任务拍摄的合成图像显示了 2026 年 5 月 2 日至 5 月 15 日，当航天器接近火星寻求重力辅助时，火星生长的新月。该系列图像开始时，图像中心的最小新月是因为火星距离航天器最远，随着航天器越来越近，新月逐渐变大。在航天器的多光谱成像仪捕捉到这些图像后，随着普赛克接近火星并捕捉到一系列火星表面的高分辨率图像，火星开始充满视野。
+    <title>PRAXIS：行星环自主探索与原位采样</title>
+    <link>https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/niac/praxis-planetary-rings-autonomous-exploration-with-in-situ-sampling/</guid>
+    <pubDate>Tue, 21 Jul 2026 15:23:38 +0000</pubDate>
+    <description><![CDATA[MarcoQuadrelliNASA 喷气推进实验室
 
-由于普赛克以高相位角接近火星，因此在接近火星的几天里，这颗行星看起来像一弯细长的新月，被其表面反射的阳光照亮。利用这些接近、近距离接近和离开火星的视图，Psyche 团队编制了整个火星遭遇的令人惊叹的延时摄影。
-
-有关 NASA Psyche 任务的更多信息，请访问：]]></description>
+人类从未接触过行星环的粒子，但如果我们能够足够接近并采样它们，它将改变对土星（致密）、天王星和海王星（稀薄）的环结构和起源、半人马座查里克洛和凯龙星等其他天体环，甚至早期原行星盘和星周盘的理解。尽管卡西尼号取得了突破性的发现，但有关行星环的形成、动力学和演化的基本问题仍未得到解答。在卡西尼号之后，有一个非常有力的科学案例可以让我们更多地了解土星环的微观物理相互作用，这就需要对它们进行采样。许多环结构和特征，如自重力尾流、“螺旋桨”、密度波和间隙边缘仍有待以高分辨率探索。土星环从微米大小的颗粒到房屋大小的巨石，始终处于运动状态。它们主要由水冰构成，成堆的碎石聚集在一起又分裂。 PRAXIS 通过首次直接观测毫米级至厘米级环形粒子，解决了十年间的一个关键优先事项，而卡西尼号缺乏这种能力。行星环是高度动态的环境，其中持续的粒子运动需要先进的机器人自主性来避免碰撞、精确采样和原位分析。我们的系统采用了从运动铸造到捕获自由漂浮颗粒的创新，以及用于实时分析的仪器小型化。人工智能集成首次实现了环颗粒的自主收集，直接测量颗粒尺寸、孔隙率和成分等科学重点。 PRAXIS 开发并测试了一种新颖的人工智能驱动、仿生机器人探索器，以执行原位环形采样，这是以前从未尝试过的功能。这项工作直接支持行星环科学中的十年调查优先事项，同时引领下一代行星机器人探索，并为环系统的起源和演化提供变革性的见解。 PRAXIS的可行性已经有了坚实的基础，因为它利用了土星环观察者任务研究的关键要素，该研究考虑了一个掠过土星环并悬停在土星环上方的轨道，以直接对运动中的环粒子进行成像。在选择环形粒子的初始成像和表征阶段之后，航天器使用长而柔软的可展开吊杆对粒子表面进行触摸即走采样事件。由于粒子总是在环内运动，因此航天器有充分理由远离以避免碰撞，因此使用长吊杆进行敏捷采样是合理的。一旦样本被取回，PRAXIS探索系统就会移动到环的另一个部分（或间隙），从而对许多不同的区域进行采样。 PRAXIS 的可行性将在第一阶段通过仿真和完善的系统设计进行论证，从而在第二阶段推动固体系统设计和物理原型的开发。该系统的多功能性使其在行星形成任务中具有价值，使其能够融入即将到来的天王星探测器任务。]]></description>
   </item>
 </channel>
 </rss>
