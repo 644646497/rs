@@ -1,0 +1,36 @@
+# .github/workflows/nikkei_cn.yml
+name: Update Nikkei CN RSS
+
+on:
+  schedule:
+    # 每天 UTC 时间 0:00 和 12:00 运行 (北京时间 8:00 和 20:00)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml
+          
+      - name: Run scraper script
+        run: python nikkei_cn_rss.py
+        
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add nikkei_feed.xml
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update Nikkei CN feed [skip ci]"
+          git push
