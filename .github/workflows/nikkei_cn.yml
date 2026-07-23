@@ -1,13 +1,11 @@
-name: Update Nikkei CN RSS
+name: Update Nikkei RSS Feed
 
 on:
   schedule:
-    # 每天 UTC 时间 00:00 运行 (北京时间早上 8:00)
-    # 你可以根据需要修改 cron 表达式
-    - cron: '0 0 * * *'
-  
-  # 允许手动触发
-  workflow_dispatch:
+    # 每4小时运行一次 (GitHub Actions 使用 UTC 时间，+8小时即北京时间)
+    # 0 */4 * * * 表示每4小时的整点
+    - cron: '0 */4 * * *'
+  workflow_dispatch: # 允许手动触发测试
 
 jobs:
   build:
@@ -16,7 +14,7 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        
+      
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
@@ -32,8 +30,9 @@ jobs:
           
       - name: Commit and Push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add nikkei_feed.xml
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update Nikkei CN RSS feed"
+          # 只有当文件有变化时才提交
+          git diff --staged --quiet || git commit -m "Update Nikkei RSS Feed $(date '+%Y-%m-%d %H:%M:%S')"
           git push
