@@ -26,93 +26,77 @@ def fetch_nikkei_news():
     try:
         response = requests.get(url, headers=headers, timeout=15)
         response.raise_for_status()
-        response.encoding = 'utf-8'
+        response.encoding = 'utf-8' # 强制指定编码
         
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # 尝试查找新闻列表项 (基于移动版常见结构)
-        # 注意：网站结构可能会变，这里使用了比较通用的选择器策略
-        items = soup.find_all('div', class_='news-item') or soup.find_all('article') or soup.find_all('li', class_='item')
+        # 查找文章列表容器 (针对移动版结构优化)
+        # 通常移动版的文章链接在 .article-list 或类似的 class 中，或者是直接的 a 标签列表
+        # 这里我们尝试寻找包含 /article/ 的链接
+        links = soup.find_all('a', href=True)
         
-        if not items:
-            # 如果上面的类名找不到，尝试找所有包含链接的列表项作为兜底
-            print("[!] 未找到特定类名的新闻块，尝试通用解析...")
-            items = soup.find_all('a', href=True)[:20] 
-
-        count = 0
-        for item in items:
-            try:
-                # 提取标题和链接
-                a_tag = item.find('a') if item.name != 'a' else item
-                
-                if not a_tag or not a_tag.get('href'):
-                    continue
-                    
-                title = a_tag.get_text(strip=True)
-                link = a_tag['href']
-                
-                # 补全链接（如果是相对路径）
-                if link.startswith('/'):
-                    link = f"https://m.cn.nikkei.com{link}"
-                elif not link.startswith('http'):
-                    continue # 跳过非文章链接
-
-                # 简单过滤，确保是文章页
-                if 'story' not in link and 'article' not in link and len(title) < 5:
-                    continue
-
-                # 提取摘要或时间（可选）
-                desc_tag = item.find('p') or item.find('span', class_='time')
-                description = desc_tag.get_text(strip=True) if desc_tag else "日经中文网最新资讯"
-
-                articles.append({
-                    'title': title,
-                    'link': link,
-                    'description': description,
-                    'pubDate': datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
-                })
-                
-                count += 1
-                if count >= 15: # 限制数量，避免文件过大
-                    break
-                    
-            except Exception as e:
-                continue
-
-        print(f"[+] 成功抓取到 {len(articles)} 篇文章")
+        seen_urls = set()
         
+        for link in links:
+            href = link['href']
+            title_tag = link.find('h3') or link.find('h4') or link
+            
+            # 过滤条件：必须是文章页，且不能重复
+            if '/article/' in href and href not in seen_urls:
+                # 补全相对路径
+                if href.startswith('/'):
+                    full_url = f"https://m.cn.nikkei.com{href}"
+                else:
+                    full_url = href
+                
+                # 获取标题，清理空白字符
+                title = title_tag.get_text(strip=True)
+                
+                if title and len(title) > 5: # 简单过滤无效标题
+                    seen_urls.add(href)
+                    articles.append({
+                        'title': title,
+                        'link': full_url,
+                        'description': f"查看最新日经新闻: {title}"
+                    })
+                    
+            # 限制抓取数量，避免过多
+            if len(articles) >= 10:
+                break
+
     except Exception as e:
-        print(f"[ERROR] 抓取失败: {str(e)}")
-        
+        print(f"[!] 抓取失败: {e}", file=sys.stderr)
+        return []
+
+    print(f"[+] 成功抓取到 {len(articles)} 篇文章")
     return articles
 
-def generate_rss(articles):
+def generate_rss(articles, output_file='nikkei_feed.xml'):
     """
     生成 RSS XML 文件
     """
-    root = ET.Element("rss", version="2.0")
-    channel = ET.SubElement(root, "channel")
+    rss = ET.Element('rss', version="2.0")
+    channel = ET.SubElement(rss, 'channel')
     
-    ET.SubElement(channel, "title").text = "日经中文网 - 最新资讯"
-    ET.SubElement(channel, "link").text = "https://cn.nikkei.com/"
-    ET.SubElement(channel, "description").text = "日经中文网免费文章 RSS 订阅源"
-    ET.SubElement(channel, "lastBuildDate").text = datetime.now().strftime("%a, %d %b %Y %H:%M:%S GMT")
+    # RSS 头部信息
+    ET.SubElement(channel, 'title').text = '日经中文网 - 最新资讯'
+    ET.SubElement(channel, 'link').text = 'https://cn.nikkei.com/'
+    ET.SubElement(channel, 'description').text = '日经中文网免费文章 RSS 订阅源'
+    ET.SubElement(channel, 'lastBuildDate').text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
     
+    # 添加文章条目
     for article in articles:
-        item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = article['title']
-        ET.SubElement(item, "link").text = article['link']
-        ET.SubElement(item, "description").text = article['description']
-        ET.SubElement(item, "pubDate").text = article['pubDate']
-        ET.SubElement(item, "guid", isPermaLink="true").text = article['link']
+        item = ET.SubElement(channel, 'item')
+        ET.SubElement(item, 'title').text = article['title']
+        ET.SubElement(item, 'link').text = article['link']
+        ET.SubElement(item, 'description').text = article['description']
+        ET.SubElement(item, 'pubDate').text = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
+        ET.SubElement(item, 'guid', isPermaLink="true").text = article['link']
 
-    tree = ET.ElementTree(root)
-    output_file = "nikkei_feed.xml"
-    
     # 写入文件
-    with open(output_file, "wb") as f:
-        tree.write(f, encoding="utf-8", xml_declaration=True)
-        
+    tree = ET.ElementTree(rss)
+    ET.indent(tree, space="\t") # Python 3.9+ 支持美化输出
+    tree.write(output_file, encoding='utf-8', xml_declaration=True)
     print(f"[*] RSS 文件已生成: {output_file}")
 
 if __name__ == "__main__":
@@ -120,6 +104,4 @@ if __name__ == "__main__":
     if news_list:
         generate_rss(news_list)
     else:
-        print("[WARNING] 没有获取到内容，XML 将保持为空或仅包含头部。")
-        # 即使没内容也生成一个空壳，防止 GitHub Actions 报错
-        generate_rss([])
+        print("[!] 未获取到任何文章，请检查网络或网站结构是否变更。")
