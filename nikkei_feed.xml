@@ -1,9 +1,2 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss version="2.0">
-	<channel>
-		<title>日经中文网 - 最新资讯</title>
-		<link>https://cn.nikkei.com/</link>
-		<description>日经中文网免费文章 RSS 订阅源</description>
-		<lastBuildDate>Thu, 23 Jul 2026 20:30:37 GMT</lastBuildDate>
-	</channel>
-</rss>
+<rss version="2.0"><channel><title>日经中文网 - 最新资讯</title><link>https://cn.nikkei.com/</link><description>日经中文网免费文章 RSS 订阅源</description><lastBuildDate>Thu, 23 Jul 2026 20:37:22 GMT</lastBuildDate></channel></rss>
