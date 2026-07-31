@@ -4,6 +4,232 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 31 Jul 2026 13:45:55 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 19:12:27 GMT</lastBuildDate>
+  <item>
+    <title>TB 26-04 用于高氧环境的织带</title>
+    <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-webbings-for-use-in-elevated-oxygen-environments/</guid>
+    <pubDate>Fri, 31 Jul 2026 19:05:25 +0000</pubDate>
+    <description><![CDATA[报告了符合 NASA 可燃性要求的商用现成织带的可燃性测试结果，可用于未来月球和火星任务预期的高氧环境。测试表明，Sturges Manufacturing Company, Inc. 生产的由 60% Kevlar®/40% 聚苯并咪唑 (PBI) 组成的织带（特别是天然版本）通过了 NASA-STD-6001B 测试 1 的可燃性测试，在 37% 氧气和 8.2 psia 下使用 J 型配置的表面点火。还提供了金色天然织带的排气数据。这些发现支持它们作为适合纺织品应用的织带的潜在用途，尽管最终性能和磨损特性必须在完整配置中进行验证。
+
+背景计划为未来的月球和火星载人飞行任务提供高氧环境，以减少舱外活动前的预呼吸时间。在这项研究中，正在评估材料在 37% 氧气和 8.2 psia 下的使用情况。富氧环境增加了可燃性风险以及对改进耐火材料的需求。 NASA 工程与安全中心 (NESC) 制定了一项战略，以确保航空航天界可以使用在这种环境下满足 NASA 可燃性要求的纺织材料，作为纺织品飞行硬件的构建模块。该战略由火星运动办公室和约翰逊航天中心在 NESC 的支持下实施。第一阶段是测试具有满足可燃性要求的潜力的商用现货 (COTS) 纺织品。
+
+问题/议题描述窄幅机织物（通常称为织带或机织带）用于多种纺织品应用，包括机组人员移动辅助设备、约束网和储物袋手柄。标准间位芳纶或尼龙织带不满足高氧条件下的可燃性要求。
+
+测试方法/数据收集NASA-STD-6001B 测试 1 在白沙测试设施 (WSTF) 对候选织带进行，以确定 8.2 psia 压力下的最大氧气浓度 (MOC)。该测试在非屏蔽 J 配置中进行，其中织带的切割边缘未暴露于火焰，并且点火器撞击材料的前表面，其中包括织带的横向自由边缘。未评估磨损后的可燃性性能。 MOC测试是指在固定压力下至少有五个测试样品通过NASA-STD-6001B标准时的最大氧气浓度。对一英寸宽的天然色和黑色织带进行了测试，该织带由 Sturges Manufacturing 生产的 60% Kevlar 和 40% PBI 组成（见图 1）。可用的织带宽度范围为 1/4 至 8 英寸。
+
+分析和结果表 1 总结了织带性能和测试结果。在 8.2 psia 下，天然织带和黑色织带的 MOC 分别为 37% 和 35%。此外，根据 NASA-STD-6001B 测试，对天然织带进行了废气测试。详细的测试结果可以在参考部分列出的 MAPTIS 链接中找到。这些结果应用于选择要纳入最终软商品产品的材料。最终的可燃性结果将取决于最终产品的其他组件，并且必须在配置中进行测试，以确保最终产品满足要求。单独的纺织品结果并不能保证成品组件的性能。该织带的变化（即，包括但不限于尺寸、编织类型和纱线尺寸、密度、处理、颜色、纤维混合、边缘处理技术、添加钩环紧固件等功能以及磨损）可能会影响可燃性特性，应在使用前进行评估。]]></description>
+  </item>
+  <item>
+    <title>NASA 和 SpaceX 推进星舰火箭风洞测试</title>
+    <link>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/</link>
+    <guid>https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/</guid>
+    <pubDate>Fri, 31 Jul 2026 18:39:47 +0000</pubDate>
+    <description><![CDATA[NASA 及其行业合作伙伴正在为明年的 Artemis III 演示任务做准备，即将完成 SpaceX Super Heavy Version 3 火箭助推器的新风洞测试。这些测试是在美国宇航局位于加利福尼亚州硅谷的艾姆斯研究中心进行的，重点是更好地了解火箭在重返大气层期间可能经历的极端空气动力。最近的测试系列建立在 2024 年在 NASA 艾姆斯完成的先前测试的基础上。
+
+NASA 正在与 SpaceX 合作开发该公司的星舰人类着陆系统 (HLS)，以安全地将宇航员从月球轨道运送到月球表面并返回。升级后的超重型火箭助推器是 SpaceX 星舰发射系统的一部分。星舰和超重型的第 3 版预计将成为 2027 年阿耳忒弥斯 III 号星舰 HLS 以及随后 2028 年载人登月的星舰 HLS 的基础。
+
+尽管 Starship HLS 是由 SpaceX 设计和建造的月球着陆器，但 NASA 与商业公司合作，提供专门的测试设施，例如 NASA 艾姆斯的风洞，以及技术专业知识，例如建立风洞测试并帮助分析结果的团队。
+
+“NASA 在非定常空气动力学方面拥有丰富的经验，”位于阿拉巴马州亨茨维尔的 NASA 马歇尔太空飞行中心 HLS 羽流和航空环境团队学科首席工程师 Manish Mehta 说道。 “我们利用该机构对航天飞机、SLS（太空发射系统）火箭和猎户座飞船进行风洞测试的广泛经验基础，有效地设置和分析了超重型第 3 版的风洞测试。事实上，在艾姆斯统一计划风洞进行的类似测试导致为阿尔忒弥斯 II 的 SLS 增加了边条，因此我们从阿尔忒弥斯 II 中学到的知识正在帮助我们到达阿尔忒弥斯 III 及更远的地方。”
+
+SpaceX 的 Starship 由 33 引擎的第一级超重型火箭或助推器和第二级 Starship 组成。 Super Heavy 的第 3 版包含许多新的和升级的系统，包括：
+
+随着超重型火箭的重大变化，NASA 和 SpaceX 的工程师希望获得更多有关火箭在返回发射场进行翻新和再利用时重返大气层期间将经历的稳定和不稳定空气动力的信息。
+
+“当火箭或飞机在空气中高速飞行时，它会受到稳定的空气动力和力矩，以及不稳定的空气动力和力矩，”美国宇航局艾姆斯分校不稳定空气动力学主题专家、人类着陆系统羽流和航空环境团队成员 Jayanta Panda 解释道。 “稳定空气动力的一个例子是当空气在火箭上升时平稳地流过火箭表面时。不稳定空气动力是空气在难以预测的时间‘冲击’或撞击火箭的某些区域，并可能引起振动。”
+
+NASA 和 SpaceX 在 NASA 艾姆斯的跨音速风洞和超音速风洞中使用了 1.2% 比例的超重型版本 3 模型进行测试。跨音速隧道用空气以 0.2 马赫至 1.4 马赫的速度爆炸火箭或飞机的比例模型（1 马赫是音速，约每小时 761 英里）。较小的超音速风道以更高的速度发射风，从 1.55 马赫到 2.5 马赫。 2025 年末对 Super Heavy 第 3 版进行了风洞测试，使用两个风洞测量 Super Heavy 表面的稳定和不稳定气流。
+
+梅塔说：“由此产生的关于稳定力和力矩的风洞数据有助于预测火箭在重返大气层期间将如何对大气中的力做出反应，因此飞行软件可以在飞行过程中有效地引导火箭。” “不稳定的压力数据可以帮助工程师了解火箭重新进入地球大气层时周围的环境。工程师使用该信息作为分析火箭负载的软件的输入之一。”
+
+通过阿耳忒弥斯计划，美国宇航局正在将人类送回月球，以进行科学发现、经济机会、在月球表面建立人类的持久存在，并为首次载人火星任务奠定基础——造福所有人。]]></description>
+  </item>
+  <item>
+    <title>美国宇航局在弗吉尼亚州开设新的飞行动力学研究设施</title>
+    <link>https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-opens-new-flight-dynamics-research-facility-in-virginia/</guid>
+    <pubDate>Fri, 31 Jul 2026 17:11:14 +0000</pubDate>
+    <description><![CDATA[NASA opened its newest wind tunnel, the Flight Dynamics Research Facility, Friday, providing a critical resource for the agency and its partners to test the safety and performance of future generations of aircraft, rockets, and space exploration vehicles.
+
+Located at NASA’s Langley Research Center in Hampton, Virginia, the Flight Dynamics Research Facility will support advances in aircraft safety, X‑plane development, drone research, and spacecraft technology. The facility will enable both free‑flight and mounted testing of a wide range of scale-model vehicles designed to travel through an atmosphere, from airplanes to space capsules returning to Earth.
+
+“The Flight Dynamics Research Facility is NASA’s first major new wind tunnel in more than 40 years and gives us a powerful new platform to test the ideas and technologies that will shape the future of aviation and exploration,” said NASA Administrator Jared Isaacman. “America has led in air and space because we were willing to take on hard problems, challenge assumptions, and build what didn’t exist before. This facility gives the talented team at Langley, and our partners across government, industry, and universities, the tools to keep pushing the boundaries of what’s possible and ensure America remains the world leader in air and space.”
+
+A ribbon-cutting ceremony at NASA Langley marked the start of a new chapter in flight research. Agency leaders, partners, and Virginia officials emphasized how the Flight Dynamics Research Facility’s state-of-the-art capabilities will shape the future of flight and exploration.
+
+“The opening of the Flight Dynamics Research Facility represents a significant advancement for NASA and for the nation,” said Dr. Trina Dyal, NASA Langley center director. “By bringing modernized testing capabilities under one roof, we are enabling transformative research that will ensure the United States remains at the forefront of aeronautics and exploration.”
+
+Built through a partnership with the U.S. General Services Administration (GSA), the facility replaces aging infrastructure with an energy-efficient facility that reduces maintenance costs and provides the flexibility needed for future research. The Flight Dynamics Research Facility is part of a broader, long-term collaboration between the agencies, representing the fourth new building GSA has delivered to NASA under Langley’s 20-year campus revitalization plan.
+
+“GSA is proud to partner with NASA in delivering the Flight Dynamics Research Facility, a state-of-the-art asset that will power the next generation of American dominance in aeronautics and space exploration,” said Edward C. Forst, GSA administrator. “This facility reflects what we do best: provide the advanced, expertly designed installations that federal agencies need to carry out their missions. With these new capabilities, NASA will be better equipped to test bold ideas, validate new designs, and advance technologies that will serve the nation for decades to come.”
+
+The Flight Dynamics Research Facility combines and improves upon the capabilities oftwo historic NASA Langley wind tunnels– the 20-Foot Vertical Spin Tunnel and the 12-Foot Low-Speed Tunnel. The 25,000-square-foot building features a vertical wind tunnel with improved airflow, modern digital systems, and flexible testing capabilities that will allow researchers to study how aircraft, spacecraft, parachutes, and other vehicles behave during flight.
+
+The facility’s 20-foot diameter test chamber is much larger than those of its NASA Langley predecessors, allowing for more air to pass around test models and improving data accuracy. Its increased size also allows for the use of larger, more detailed models during testing.
+
+The Flight Dynamics Research Facility’s top airspeed of 117 miles per hour is twice as fast as the old  facilities, enabling free-flight tests of heavier scale models. This will allow simulations of full-scale vehicles flying at higher altitudes – a critical capability for operations such as studying the stability of aircraft or reentry capsules coming back from space.
+
+The facility’s wind power comes from four 750-horsepower motors, each with an integrated, 14-foot diameter, eight-bladed fan. The fan blades are made of lightweight carbon fiber, enabling rapid, precise airspeed adjustments during free‑flight tests.
+
+The Flight Dynamics Research Facility illustrates the powerful synergy between NASA’s aeronautics and space exploration efforts, with each driving innovation in the other. The facility will drive experimental research across a wide range of flight systems, advancing the development of autonomous flight vehicles, drones, commercial and military aircraft, and X‑planes.
+
+As NASA prepares for a sustained human presence on the lunar surface through the Artemis program and the development of a Moon Base, the facility will play a key role in testing vehicle designs for entry, descent, and landing that will help reduce mission risk and support ]]></description>
+  </item>
+  <item>
+    <title>好奇心博客，Sols 4961-4967：接近打破摇滚记录？</title>
+    <link>https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/</link>
+    <guid>https://science.nasa.gov/blog/curiosity-blog-sols-4961-4967-approaching-a-break-in-the-rock-record/</guid>
+    <pubDate>Fri, 31 Jul 2026 14:41:02 +0000</pubDate>
+    <description><![CDATA[火星科学实验室任务团队成员
+
+作者：Abigail Fraeman，加州理工学院喷气推进实验室副项目科学家
+
+地球规划日期：2026 年 7 月 24 日星期五
+
+好奇号花了一周的时间继续攀登夏普山的层层，探索火星历史的沉积岩带状图。火星车已经到达了一个层，科学团队通过分析轨道数据以及我们上方山丘中各层的图像，发现了可能的“侵蚀超表面”。 “侵蚀超表面”是一个地质术语，描述了区域范围内沉积物层被风或水剥离的地方，然后新的沉积层沉积在其上。这些表面在风积沙（风积）沉积物中很常见，它们标志着岩石记录的突破。在过去几个月观察夏普山这个不寻常的部分后，终于如此接近这个特征真是令人兴奋。好奇号的科学仪器将为我们提供该地区地质学家的视角，我们需要真正了解这一特征，包括其组成和厘米级几何形状。
+
+我们本周的两个计划重点是从几个不同的位置对可能的超表面进行成像。上周末，我们离开了该特征，以便从流动站的角度更好地观察该特征，这为我们在周一收集整个层上的两个巨大的桅杆摄像头马赛克做好了准备。 ChemCam 通过收集一些超表面最有趣区域的远距离 RMI 图像来提供额外的支持。我们还花时间使用名为“Monte Darwin”的 MAHLI 和 APXS 目标以及名为“Patacamaya”、“Tarucachi”和“Mojoncasa”的 ChemCam LIBS 目标来测量该表面底部的岩石成分。
+
+周一的驾驶让我们更接近超表面，同时沿途拍摄了我们车轮的一些 MAHLI 和 Mastcam 图像，而我们今天计划的驾驶将带我们直接到达该层的底部。科学团队能够利用周一的图像来选择最有科学意义的地点来穿越这个表面，同时还要兼顾我们可以驾驶相当大的漫游车的现实所带来的限制——这里有一些漂亮的沙地和陡峭的地形，所以我们还发现了一个看起来将是更容易穿越的区域之一的地点。希望下周我们能够登上超表面——敬请期待。
+
+火星是距太阳第四远的行星，也是第七大行星。这是我们所知道的唯一有人居住的星球……
+
+探索火星图像、视频、资源、PDF 和工具包的集合。发现旨在提供信息、教育和启发的有价值的内容……
+
+每个被派往红色星球的机器人探险家都有其独特的由科学驱动的能力。一个…的许多属性
+
+了解火星过去、现在或未来生命潜力的关键可以在美国宇航局的四个……]]></description>
+  </item>
+  <item>
+    <title>NASA 罗马望远镜将携带 135 万个名字前往深空</title>
+    <link>https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/</link>
+    <guid>https://www.nasa.gov/image-article/nasas-roman-telescope-to-carry-1-35-million-names-to-deep-space/</guid>
+    <pubDate>Fri, 31 Jul 2026 14:11:34 +0000</pubDate>
+    <description><![CDATA[7 月 27 日，美国宇航局佛罗里达州肯尼迪航天中心的技术人员安装了一张包含 1,350,144 个名字的存储卡，作为南希·格雷斯·罗马太空望远镜纪念牌的一部分。这些名字是由全球各地的人们提交的，其中包括阿耳忒弥斯二号和阿耳忒弥斯三号的宇航员。存储卡将随罗马天文台前往日地拉格朗日点 2（L2），距地球约 100 万英里，太阳和地球的引力在此达到平衡。
+
+罗曼以美国宇航局第一位首席天文学家、该机构现代科学计划的设计师之一南希·格雷斯·罗曼博士的名字命名。罗马倡导建立太空天文台，这些天文台可以从地球朦胧的大气层上空研究宇宙，同时将其数据广泛提供给科学界。
+
+NASA 和 SpaceX 的目标是在美国东部时间 8 月 30 日（星期日）上午 7 点 26 分之前使用 SpaceX Falcon Heavy 从肯尼迪的 39A 发射场发射。
+
+要了解有关罗马使命的更多信息，请访问：]]></description>
+  </item>
+  <item>
+    <title>APOD：2026 年 7 月 31 日 – NGC 4372 和黑暗小玩意</title>
+    <link>https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/</link>
+    <guid>https://science.nasa.gov/image-article/apod/apod-2026-july-31-ngc-4372-and-the-dark-doodad/</guid>
+    <pubDate>Fri, 31 Jul 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[探索宇宙！每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。
+
+说明：暗杜达德星云飘过南方天空，是双筒望远镜瞄准蝇座小星座的诱人目标。这是一片尘土飞扬的星际云，在煤袋星云和南十字星以南的丰富星场中可见。在这个望远镜视野中延伸约 3 度，黑暗杜达迪斯在其南端附近（右上）被黄色球状星团 NGC 4372 打断。当然，NGC 4372 在我们银河系的光环中漫游，这是一个距离约 20,000 光年的背景天体，只是偶然沿着我们的视线看到黑暗杜达迪斯。黑暗杜达距离约 700 光年，长超过 30 光年，其清晰的轮廓属于潜在的恒星形成蝇蝇分子云。尘土飞扬的黑暗杜达这个令人愉快的头韵绰号是由天文成像师兼作家丹尼斯·迪西科于 1986 年在澳大利亚内陆观察哈雷彗星时首次创造的。明天的图片：巴克和皮带]]></description>
+  </item>
+  <item>
+    <title>破坏性火灾烧毁西欧</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/destructive-fires-char-western-europe/</guid>
+    <pubDate>Fri, 31 Jul 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[由于酷热的热浪和长期的干旱，肆虐的野火扰乱了西班牙和法国的夏季。
+
+欧洲各地每年夏天都会发生荒地火灾，但 2026 年 7 月在西班牙和法国爆发的火灾是这两个国家几十年来面临的规模最大、最具破坏性的火灾之一。 7月中旬，法国西南部的吉伦特省和西班牙的阿维拉省和马德里省发生了一些影响最严重的火灾，大火迫使数十万人撤离，并摧毁了数百所房屋。
+
+西班牙政府官员表示，阿维拉发生的火灾烧焦了约 50,000 公顷（124,000 英亩）的土地，是有记录以来规模最大的火灾，超过了 2025 年在拉鲁科、基罗加和奥恩西亚发生的火灾。NASA 卫星于 7 月 22 日和 7 月 23 日首次观察到阿维拉火灾在布尔戈洪多附近燃烧的迹象。到 7 月 24 日，火灾已与邻近省份发生火灾，烧毁总面积达到77,000公顷，相当于纽约市的面积。
+
+上图由 Landsat 9 拍摄，显示了 2026 年 7 月 29 日布尔戈洪多周围被烧焦的景观。在假彩色图像中，未燃烧的植被呈浅绿色，烧毁的区域呈棕色。图像中心的两个水库受到严重影响。据新闻报道，大火烧毁了水库周围的房屋、餐馆、露营地、码头和其他基础设施。
+
+法国西南部、波尔多以西也发生了类似的危机。法国近十年来发生的最大火灾之一，烧毁了超过 42,000 公顷土地，导致大规模疏散，并摧毁了 Le Porge 村。根据欧洲森林火灾信息系统的数据，截至 7 月底，法国各地的火灾面积已超过 90,000 公顷，超过几十年来任何其他季节的面积。
+
+根据野火状况项目研究人员进行的分析，火灾发生前几个月的环境条件使西班牙和法国的景观特别容易燃烧。异常潮湿的冬季天气促进了草原、灌木丛和森林林下植被的生长，然后一系列闷热的热浪和一段时期的干旱使植被变得干燥并引发燃烧。研究人员发现，连续几天时速达到 65 公里（40 英里）的强风有时会成为最后的触发因素，煽动火焰并促进迅速蔓延。
+
+7 月 25 日，法国西南部的火灾情况变得如此严重，以至于法国消防队员报告称形成了热积雨云——一种高耸的“火云”，它从火灾的热量中吸收对流能量。一个由大气科学家和火灾专家组成的国际小组追踪不寻常的云层，记录了近几十年来西班牙和葡萄牙偶尔形成的云层，但该小组成员指出，这是法国发生火灾的第一份报告。
+
+两国都有数千名消防员和军事人员与火灾作斗争。工作人员使用飞机用水和阻燃剂扑灭大火，而地面团队则使用推土机和手动工具等工具建造防火带。消防队员在七月下旬取得了优势，允许当局开始解除疏散命令。然而，预报员警告说，由于持续炎热干燥的天气，未来几天发生火灾的风险仍然很高。
+
+政府卫星数据是用于跟踪火灾行为和分析新趋势的全球观测系统的一部分。 NASA 提供的实时野火监测工具包括 FIRMS（火灾信息资源管理系统）和 Worldview 浏览器。
+
+NASA 地球观测站图像由 Lauren Dauphin 使用来自美国的陆地卫星数据拍摄地质调查。亚当·沃伊兰的故事。
+
+当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
+
+由于干旱席卷美国东南部，消防队员正在该州南部扑灭两场破坏性大火。
+
+2026 年 3 月，美国大平原干燥、温暖和多风的天气导致了极端的火灾活动。
+
+大火烧毁了150多平方英里，席卷了滑雪胜地的部分地区。
+
+订阅地球观测站并将地球放入您的收件箱中。
+
+美国宇航局地球观测站每天为您带来地球的深入故事和令人惊叹的图像。
+
+开放访问 NASA 的地球科学数据档案]]></description>
+  </item>
+  <item>
+    <title>学生与 NASA 一起进行机载实地研究</title>
+    <link>https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/</link>
+    <guid>https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/</guid>
+    <pubDate>Thu, 30 Jul 2026 20:36:56 +0000</pubDate>
+    <description><![CDATA[这么大的气球，狂风并不容易抓住。这个气球是一种名为臭氧探空仪的科学仪器，即将由美国宇航局 SARP（学生机载研究计划）的学生释放到德克萨斯州墨西哥湾沿岸上空的大气中，该计划于 7 月 27 日结束了夏季会议。气球的工作是测量上升穿过大气层时的臭氧浓度。
+
+48名本科生中有12名参加了大气场研究。在仪器科学家、大学教授和研究生的指导下，SARP 学生为臭氧探空仪做好起飞准备。他们对附着在传感器上的仪器电池进行了化学处理，在充气过程中使气球发生扭动，最后将它们释放到天空中。当气球飞行时，学生们监控数据。
+
+“这个研究项目对学生来说是一次独特的体验，他们有机会看到与地球系统科学相关的不同职业，”位于华盛顿 NASA 总部的 NASA 早期职业研究项目项目经理 Yaitza Luna-Cruz 说。
+
+每个学生都被分配到四个学科之一：大气科学、海洋、陆地生态学或水文学。他们收集了现场数据，设计了单独的研究项目，并在项目结束时展示了他们的发现。如果可能的话，他们会与美国宇航局卫星任务交叉检查他们的测量结果。
+
+“这是一次非常棒的经历，”科罗拉多大学科罗拉多斯普林斯分校的化学系学生马林·史蒂文斯在将臭氧探空仪释放到大气中几分钟后说道。 “这远远超出了我的预期。”
+
+机载科学是该计划的一大亮点。今年有五架科学飞机支持了该计划，包括 NASA 的湾流 G-III、GV 和 C-20A、Dynamic Aviation 的 B200 以及美国国家海洋和大气管理局的 P-III。学生们与操作各种仪器的科学家一起工作，例如用于收集大气中颗粒物测量值的激光器。
+
+对于许多学生来说，他们在休斯顿的时光是他们第一次涉足实地研究，就像释放气球的学生一样，他们渴望继续学习和体验实践科学。前两周后，这群学生分成两部分，一半学生前往加利福尼亚州，另一半前往弗吉尼亚州继续他们的研究。
+
+NASA 总部 SARP 项目经理 Joelle Hopkins 表示：“SARP 最酷的部分是每个人都充满热情。” “与对科学充满热情、与学生分享科学并培养下一代科学家的科学家、教师和研究生导师一起工作真是太愉快了。”
+
+一年一度的为期八周的课程通过为学生提供实践经验来增强他们在课堂上学习的内容。它旨在成为进入实地研究或其他 STEM 领域职业生涯的踏脚石。学生参与科学活动的各个方面，包括数据收集、数据分析和研究。他们参加科学讲座和研讨会，参加研究飞行，并陪同科学家进入该领域。
+
+要了解有关 NASA 机载科学计划的更多信息，请访问：
+
+美国宇航局戈达德太空飞行中心，马里兰州格林贝尔特
+
+飞越并穿越东海岸的水景，与 NASA 科学家一起工作，……
+
+从海洋到天空再到轨道，一系列有利位置让美国宇航局地球科学家……
+
+六项新空降活动中的第一期将于今年夏天登陆天空。]]></description>
+  </item>
+  <item>
+    <title>美国宇航局指派宇航员德尼兹·伯纳姆执行首次空间站任务</title>
+    <link>https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-assigns-astronaut-deniz-burnham-to-first-space-station-mission/</guid>
+    <pubDate>Thu, 30 Jul 2026 16:11:41 +0000</pubDate>
+    <description><![CDATA[NASA 宇航员德尼兹·伯纳姆 (Deniz Burnham) 将担任 Expedition 76 飞行工程师，开始她的首次国际空间站任务。
+
+伯纳姆将与宇航员德米特里·佩特林（Dmitri Petelin）和康斯坦丁·鲍里索夫（Konstantin Borisov）一起搭乘 Roscosmos Soyuz MS-30 宇宙飞船发射升空。发射计划于 2027 年 3 月从哈萨克斯坦拜科努尔航天发射场发射，三人将在轨道实验室停留大约七个月。
+
+在探险期间，伯纳姆将进行科学研究和技术演示，帮助人类为未来的月球和火星探索任务做好准备，造福地球上的人们。
+
+伯纳姆于 2021 年被选为 NASA 宇航员，并于 2024 年随该机构第 23 届宇航员毕业。伯纳姆出生于土耳其阿达纳的因吉尔利克空军基地，在一个军人家庭长大，经常搬家。在她被选中时，她住在阿拉斯加的瓦西拉。
+
+伯纳姆曾在加州硅谷的美国宇航局艾姆斯研究中心实习，获得了加州大学圣地亚哥分校的化学工程学士学位和洛杉矶南加州大学的机械工程硕士学位。作为能源行业经验丰富的领导者，她花了十多年的时间管理北美石油钻井平台的现场钻井作业。伯纳姆还曾在美国海军预备役部队担任工程值班军官。她是一名持有执照的私人飞行员，拥有单引擎陆地和海上飞机、仪表飞机和旋翼直升机的评级。
+
+25 年多来，人们在国际空间站上持续生活和工作，推进科学知识进步，取得地球上不可能的研究突破。该空间站帮助美国宇航局了解和克服载人航天的挑战，扩大近地轨道的商业机会，并为长期月球任务（作为阿耳忒弥斯计划的一部分）和火星任务奠定基础。
+
+要了解有关国际空间站研究、运营及其机组人员的更多信息，请访问：
+
+约书亚·芬奇华盛顿总部202-358-1100joshua.a.finch@nasa.gov
+
+安娜·施奈德·约翰逊航天中心，休斯顿281-483-5111anna.c.schneider@nasa.gov]]></description>
+  </item>
+  <item>
+    <title>星爆星系半人马座 A</title>
+    <link>https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/</link>
+    <guid>https://www.nasa.gov/image-article/starburst-galaxy-centaurus-a/</guid>
+    <pubDate>Thu, 30 Jul 2026 14:24:08 +0000</pubDate>
+    <description><![CDATA[在这张 2026 年 7 月 6 日的图像中，美国宇航局詹姆斯·韦伯太空望远镜的中红外仪器 (MIRI) 揭示了附近的半人马座 A 星系，暴露了塑造这个不寻常系统的尘埃结构和隐藏的活动。
+
+半人马座 A 距地球 1100 万光年，从宇宙角度来看相对较近。然而，与大多数附近的星系不同，它非常活跃，使其成为了解星系和黑洞如何一起生长和演化的强大实验室。
+
+通过交互式地图探索银河系。
+
+图片来源：NASA、ESA、CSA、STScI；图像处理：Alyssa Pagan (STScI)、Joseph DePasquale (STScI)、Macarena Garcia Marin（ESA 办公室 STScI）]]></description>
+  </item>
 </channel>
 </rss>
