@@ -4,7 +4,22 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 03 Aug 2026 14:09:25 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 17:38:25 GMT</lastBuildDate>
+  <item>
+    <title>月球地壳可放大重力波讯号，有助开启月球重力波天文学</title>
+    <link>https://technews.tw/2026/08/03/lunar-crust-could-amplify-gravitational-wave-signals/</link>
+    <guid>https://technews.tw/2026/08/03/lunar-crust-could-amplify-gravitational-wave-signals/</guid>
+    <pubDate>Mon, 03 Aug 2026 14:43:08 +0000</pubDate>
+    <description><![CDATA[自 LIGO 科学合作组织（LIGO Scientific Collaboration）于 2015 年首次直接探测到重力波以来，重力波天文学已成为研究黑洞、中子星及宇宙演化的重要工具。然而，目前地面与太空重力波探测器在约 0.1 Hz 的「分赫兹频段」（deci-hertz band）仍存在观测空缺。最新研究提出，月球本身可视为一座天然的重力波共振天线，而月球地壳厚度的不均匀分布，不仅不会削弱重力波引发的月震讯号，反而可能产生显著放大效果，为未来月球重力波探测计划提供新的理论依据。
+
+▲ 重力波如何扰动地壳厚度不均匀的月球。（Source：张磊/中国科学院）。
+
+研究团队以数值模拟分析重力波穿越月球时所激发的月震反应。结果显示，月球背面的高地因地壳较厚，可使重力波诱发的震动讯号平均增强约10%；在部分狭窄频段，共振效应甚至可使讯号放大超过10倍。
+
+模拟也显示，讯号增强具有明显的空间与频率依赖性，其中月球背面高地及南极─艾特肯盆地（South Pole–Aitken Basin）周围厚地壳区域，是最有利的重力波探测地点；相反地，月球正面的玄武岩月海因地壳较薄，整体讯号相对较弱。不过研究也发现，在部分约0.06 Hz的窄频范围内，盆地地形可能造成波动聚焦，即使位于较薄地壳区域，仍可能出现局部讯号放大现象。因此，未来月震仪的部署不能仅依据地壳厚度，而必须结合高解析度地形模型与不同频段的数值模拟，才能选择最佳观测位置。
+
+研究团队认为，本研究建立了月球内部结构与重力波可探测性之间的直接关联，也为未来月球重力波天线（Lunar Gravitational-Wave Antenna）及月球雷射干涉重力波天线（Laser Interferometer Lunar Antenna）等概念任务提供重要理论基础。未来若能在月球长时间布设高灵敏度月震仪，除有望填补现有重力波观测频谱的空白外，还可利用重力波激发的月球自由振荡反向推算月球三维内部结构，使月球同时成为重力波探测器与研究月球内部构造的天然实验室，开启重力波天文学与月球科学结合的新方向。]]></description>
+  </item>
   <item>
     <title>Google Earth 卫星影像结合 AI 生成，忧成假图工具紧急下架</title>
     <link>https://infosecu.technews.tw/2026/08/03/google-rolls-back-ai-image-generation-in-google-earth-over-policy-concerns/</link>
@@ -58,7 +73,7 @@ Google Earth 的影像未必是最新的，却对我们所居住的这颗星球�
     <link>https://technews.tw/2026/08/03/goethite-mantle-water-mineral-diamond/</link>
     <guid>https://technews.tw/2026/08/03/goethite-mantle-water-mineral-diamond/</guid>
     <pubDate>Mon, 03 Aug 2026 10:12:35 +0000</pubDate>
-    <description><![CDATA[来自地底超深处的钻石内部充满黑色杂质对珠宝商来说价值不大，在地质学家眼中却是完美时光胶囊。最近科学家利用 X 射线衍射技术，从产自巴西地底的一个微小钻石样本鉴定出针铁矿、赤铁矿磁铁矿，证明地表水分能一路被运送至深达 900～1,250 公里的下部地函。
+    <description><![CDATA[来自地底超深处的钻石内部充满黑色杂质，对珠宝商来说价值不大，在地质学家眼中却是完美时光胶囊。最近科学家利用 X 射线衍射技术，从产自巴西地底的一个微小钻石样本鉴定出针铁矿、赤铁矿磁铁矿，证明地表水分能一路被运送至深达 900～1,250 公里的下部地函。
 
 针铁矿（goethite）是富含铁与水分子的矿物，形成过程会将水分子「锁」进晶体结构，常见于地表土壤（会让泥土呈现棕色）或海底。
 
@@ -286,21 +301,6 @@ Dacombe表示，自上一轮募资完成以来，公司已大幅加速晶片研�
 除了速度是优势外，Olix在技术上是采用光子互连技术，透过雷射在大规模晶片丛集之间传输资料，相较传统电气互连，不仅速度更快，也具备更高的能源效率。
 
 除了创办Olix外，Dacombe同时也是脑部监测新创CoMind的执行长。该公司是他青少年时期创立，至今已募得约1亿美元资金。]]></description>
-  </item>
-  <item>
-    <title>日月光揭示 AI 先进封装蓝图，VIPack、面板级封装与矽光子成突围关键</title>
-    <link>https://technews.tw/2026/08/03/ase-technology-holding-co-ltd-unveils-its-advanced-packaging-blueprint-for-ai/</link>
-    <guid>https://technews.tw/2026/08/03/ase-technology-holding-co-ltd-unveils-its-advanced-packaging-blueprint-for-ai/</guid>
-    <pubDate>Mon, 03 Aug 2026 08:40:45 +0000</pubDate>
-    <description><![CDATA[在 2026 台日半导体科技论坛中，日月光半导体前瞻工程开发处资深处长黄敏龙发表「AI 趋势下的先进封装发展与演进」专题演讲，深入剖析 AI 时代下半导体封装面临的挑战与技术突破。他指出，随著生成式 AI 爆发性成长以及自驾车、机器人与智慧城市等多元应用对算力的庞大需求，硬体功耗与先进封装产能已成为当前 AI 发展的两大核心瓶颈。
-
-为突破AI硬体的发展限制，日月光推出了VIPack（Very Important Package / Vertical Interconnection）先进封装平台。该平台全面涵盖了六大核心封装架构，包含FOSiP、FOPoP、2.5D/3D、FOCoS、FOCoS-B以及共同封装光学元件（CPO）。其中，FOCoS（扇出型基板晶片封装）与FOCoS-Bridge技术，透过多层RDL（重布线层）与次微米级的超高密度晶片互连，能有效实现高频宽、低延迟的Chiplet（小晶片）异质整合，精准满足AI与高效能运算（HPC）领域的严苛要求。
-
-黄敏龙表示，随著AI加速器与处理器整合的元件越来越多，晶片与中介层尺寸不断放大，传统晶圆级封装在产能吞吐量与扩充性上逐渐面临物理极限。对此，黄敏龙特别强调面板级封装的产业转型。日月光已建置业界首条自动化310mm x 310mm面板级封装生产线，并积极推动该尺寸成为SEMI的工业标准。面板级封装不仅能支援更大尺寸的封装体，还能将材料使用率大幅提升至85%，在扩大经济规模、解决成本痛点的同时，亦兼顾了环境永续。
-
-此外，针对未来AI系统高频宽与低耗能的双重需求，矽光子与共同封装光学元件（CPO）技术，将逐步取代传统的电信号传输，成为提升能源效率的关键。同时，为了应对超大封装体所带来的严重翘曲（Warpage）与讯号耗损挑战，下一代先进封装正积极投入「玻璃基板」（Glass Core）的开发，期望利用其更平整、低热膨胀系数（CTE）与低讯号损失等材料特性，来克服当前的结构极限。
-
-黄敏龙在总结时呼吁，未来的先进封装挑战并非单一企业所能克服，必须仰赖全球半导体生态系在材料、设备、制程（如混合键合 Hybrid bonding）与智慧工厂等领域展开跨界协同合作。未来日月光的AI封装主轴将紧扣「6+1+1」布局，包括 6 大VIPack架构、向下扩张的面板级封装（Panel Level），以及矽光子技术，持续在高速运算与低功耗的市场驱动力下，引领半导体产业跨越AI硬体新门槛。]]></description>
   </item>
 </channel>
 </rss>
