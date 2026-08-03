@@ -4,7 +4,32 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 03 Aug 2026 11:09:57 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 14:09:25 GMT</lastBuildDate>
+  <item>
+    <title>Google Earth 卫星影像结合 AI 生成，忧成假图工具紧急下架</title>
+    <link>https://infosecu.technews.tw/2026/08/03/google-rolls-back-ai-image-generation-in-google-earth-over-policy-concerns/</link>
+    <guid>https://infosecu.technews.tw/2026/08/03/google-rolls-back-ai-image-generation-in-google-earth-over-policy-concerns/</guid>
+    <pubDate>Mon, 03 Aug 2026 11:09:41 +0000</pubDate>
+    <description><![CDATA[Google 上周宣布一项 Google 地球（Google Earth）新功能，结合 Nano Banana 生成能力，让使用者能在 Google Earth 指定位置以 AI 生成影像，却在宣布隔日紧急撤下功能，究竟发生什么事？
+
+Google 提出 Google Earth 新功能，让所有人能够结合 Google Earth 的卫星影像、空拍影像及 3D 影像，搭配 Nano Banana 来生成自订图片，让 AI 生成的内容能够以真实世界为基础。使用者只要在网页版 Google Earth 放大至任意地点，点选「create image」按键，再输入想看到的内容即可。
+
+Google 举例，输入「以超现实的方式展示庞贝遗址在公元 78 年的样子」，现代废墟立即转变成罗马帝国熙熙攘攘、色彩缤纷的街景；或是输入「将东京这片空地重新想像成充满活力的购物和零售区，拥有开放空间」，贫瘠未开发的土地立刻被明亮的城市绿洲取代。
+
+这么做原本是配合使用者的想像力而设计，但对于仰赖 Google Earth 影像查证突发事件、不法行为的专家和分析人士而言，只需要按一个按钮便能制造出深伪（deepfake）影像，实在令人不寒而栗，因此迅速引爆争议。
+
+NPR（National Public Radio，全美公共广播电台）报导测试了 Google Earth 新功能，轻易地生成伊朗哈尔克岛（Kharg Island，这座岛承载伊朗 90% 原油出口，被视为伊朗经济命脉）陷入火海、以及美国国会大厦遭洪水淹没的影像，这两起事件皆未发生，但若成真，必定是重大新闻。
+
+「我试过了：墨西哥边境的难民、伊朗的一座核电厂、阿姆斯特丹的一场空难、加萨一间被炸出弹坑的医院，没有任何一次刻意测试遭到系统拒绝」，Henk van Ess 也告诉 NPR，他是率先撰文谈论 Google Earth 新功能可能造成严重后果的调查人员。
+
+网路上，各家记者和调查人员质疑 Google 这项决定。「我非常好奇这个构想在 Google 内部究竟是如何进行红队测试，又或者根本就没有进行过。」《华盛顿邮报》视觉鉴识调查记者 Evan Hill 认为，这项功能太容易被用来做坏事，而且几乎没有上限。
+
+「我们看到地理空间领域的专业人士，将这项功能运用于一系列实用的用途上。」Google 声明表示，「但我们同时看到有人分享生成影像的萤幕截图，那些内容看来已违反我们的相关政策。因此，我们暂停 Google Earth 中的这项功能，同时努力完善安全防护措施。」
+
+随著网路世界充斥著 AI 生成的深伪影像和各种粗制滥造的垃圾内容，卫星影像一直是理解何者是真、何者是假的重要工具。调查人员一直运用卫星影像来查证地面上所发生的事件，并作为理解网路上分享影片和图片的参照依据。
+
+Google Earth 的影像未必是最新的，却对我们所居住的这颗星球提供广泛、高解析度的影像，这些重要的参考素材。若在 Google Earth 让人只要按一下便能生成卫星影像，想必大幅加速 AI 伪造内容产出和扩散，加深错误资讯传播、造成社会混乱，这让 Google 不得不紧急下架功能，防止争议进一步扩大。]]></description>
+  </item>
   <item>
     <title>驳 AI 供应链瓶颈疑虑！蔡司强调产能充足、与 ASML 技术蓝图规画至 2040 年</title>
     <link>https://technews.tw/2026/08/03/zeiss-talk-about-ai-demand/</link>
@@ -276,21 +301,6 @@ Dacombe表示，自上一轮募资完成以来，公司已大幅加速晶片研�
 此外，针对未来AI系统高频宽与低耗能的双重需求，矽光子与共同封装光学元件（CPO）技术，将逐步取代传统的电信号传输，成为提升能源效率的关键。同时，为了应对超大封装体所带来的严重翘曲（Warpage）与讯号耗损挑战，下一代先进封装正积极投入「玻璃基板」（Glass Core）的开发，期望利用其更平整、低热膨胀系数（CTE）与低讯号损失等材料特性，来克服当前的结构极限。
 
 黄敏龙在总结时呼吁，未来的先进封装挑战并非单一企业所能克服，必须仰赖全球半导体生态系在材料、设备、制程（如混合键合 Hybrid bonding）与智慧工厂等领域展开跨界协同合作。未来日月光的AI封装主轴将紧扣「6+1+1」布局，包括 6 大VIPack架构、向下扩张的面板级封装（Panel Level），以及矽光子技术，持续在高速运算与低功耗的市场驱动力下，引领半导体产业跨越AI硬体新门槛。]]></description>
-  </item>
-  <item>
-    <title>CoCoB 异质整合平台发表，TSRI 开创感测器与晶片协同新局</title>
-    <link>https://technews.tw/2026/08/03/cocob-heterogeneous-integration-platform-announced/</link>
-    <guid>https://technews.tw/2026/08/03/cocob-heterogeneous-integration-platform-announced/</guid>
-    <pubDate>Mon, 03 Aug 2026 08:30:54 +0000</pubDate>
-    <description><![CDATA[在备受瞩目的「2026 台日半导体科技论坛」中，国家实验研究院台湾半导体研究中心（TSRI）副主任蔡瀚辉发表专题演讲，深入探讨「跨技术协同优化的机会与挑战」。尤其，在 AI 技术的强力推动下，从 AI 伺服器到电动车、人形机器人与智慧眼镜等新兴应用，均高度依赖先进封装技术来将运算（XPU/AI）、控制器（MCU）、感测器、电源管理与连接传输等多元元件进行高度整合。
-
-蔡瀚辉指出，目前晶圆代工龙头台积电（TSMC）在先进封装领域主力聚焦于提升强大运算能力，积极发展如 3D 堆叠与矽光子等 HPC/AI 技术平台。然而，在高度复杂的系统整合中，「感测器」的微型化与整合往往是当前业界较缺乏的一环。为此，TSRI 提出了具备高度弹性的解决方案，形成了「台积电驱动运算，TSRI连结感测」的互补格局。
-
-面对学术界与新创公司难以取得昂贵晶圆及晶圆级封装技术（如台积电 CoWoS-L 或 Intel EMIB）的困境，TSRI 创新推出了晶粒级（Die-level）异质整合平台「CoCoB (Chip on Chip on Board)」。相较于晶圆级平台，CoCoB 具备低成本与快速整合的绝对优势，更首创让生物、环境等各类感测器能直接整合至 CMOS 主动中介层（Active Interposer）与晶片模组中。此平台不仅提供完整的 EDA 系统验证工具支援，让学界能提早在学校阶段进行晶片堆叠验证，其快速认证的潜力，近期甚至吸引了台积电的客户与 NVIDIA 积极询问使用意愿。
-
-根据统计，CoCoB 平台的应用范畴相当广泛，其中有 39% 用于高速与射频领域（已验证达 180GHz 传输）、28% 用于感测器、22% 聚焦于 AI 与矽光子整合，另有 11% 为电源管理。TSRI 更于现场展示了结合软硬体的系统整合实例，例如内建酒精感测器的智慧手表，展现跨领域整合的具体成果。此外，为加速 AI 终端应用创新，TSRI 亦建构了 16奈米与7奈米 AI SoC 设计平台，主动将 MCU、记忆体等周边环境整合完善，让学界与新创团队能专注于 AI 加速器或无人机飞控等核心创新电路的开发，大幅降低研发门槛。
-
-展望未来，蔡瀚辉副主任强调，随著摩尔定律推进，半导体发展的下一波重大挑战在于「跨领域的系统整合」，如何结合不同物理量特性，并克服不同领域专家间的沟通壁垒将是致胜关键。做为产学研的关键桥梁，创立于 1988 年的 TSRI 除了提供先进平台，更致力于半导体人才培育。中心目前正积极深化国际交流，尤其与日本的产学研机构（如 AIST、Science Tokyo、熊本大学等）互动最为密切，透过自 2023 年起轮流举办的双边研讨会，台日双方将持续携手推进先进技术研发，共创半导体产业新局。]]></description>
   </item>
 </channel>
 </rss>
