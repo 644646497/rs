@@ -4,7 +4,33 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 05 Aug 2026 10:21:00 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 13:29:40 GMT</lastBuildDate>
+  <item>
+    <title>Power Integrations 发表首款 2200 V 氮化镓技术，抢攻资料中心、电动车与再生能源市场</title>
+    <link>https://finance.technews.tw/2026/08/05/power-integrations-unveils-its-first-2200-v-gallium-nitride-technology/</link>
+    <guid>https://finance.technews.tw/2026/08/05/power-integrations-unveils-its-first-2200-v-gallium-nitride-technology/</guid>
+    <pubDate>Wed, 05 Aug 2026 13:15:17 +0000</pubDate>
+    <description><![CDATA[高压能效电源转换整合晶片厂商 Power Integrations 宣布，其独家 PowiGaN 氮化镓  (GaN)  技术额定电压正式提升至 2200 V，大幅超越目前所有商用 GaN 技术的电压等级。这项里程碑突破，使 GaN 成功跨足过去由碳化矽 (SiC) 主导的高电压领域，为高压 AI 资料中心、电动车、再生能源及高压直流输电 (HVDC) 等新一代高压电力系统，提供兼具高效率与高频切换的全新技术方案。
+
+Power Integrations 总裁暨执行长 Jennifer Lloyd 先前表示，下一代 AI 资料中心已朝向 1500 V 配电架构迈进，电动车电池系统与辅助电源的电压也持续提升。2200 V PowiGaN 技术不仅提供充足的安全余裕，更支援高功率密度所需的高切换频率。Power Integrations强调，力压 SiC 关键在于1 MHz 超高频与尺寸减半。
+
+另外，长期以来，2 kV 以上的高压应用皆由 SiC 独占。然而，与同等导通电阻的 SiC 元件相比，PowiGaN 拥有更小的输出电容 (COSS ) 与极低的闸极驱动电荷 (Qg)，大幅降低切换损耗。相较于 SiC 目前量产应用受限于约 250 kHz 的切换频率，PowiGaN 已证实可在高达 1 MHz 的超高频率下持续运作。高频化能显著缩减电感、变压器等磁性元件体积，将电源模组尺寸缩小 25% 至 50%，极大化系统功率密度。
+
+PowiGaN 采用独特的 Cascode 结构，将高压 D-mode 氮化镓 HEMT 与成熟的低压矽 MOSFET 串联封装，使整体开关状态完全由矽 MOSFET 决定。这不仅简化驱动电路、降低设计复杂度，更带来极高可靠性。在半桥电路运作的「第三象限」中，传统增强型 (E-mode) GaN 开关的顺向导通压降高达约 5 V，而 PowiGaN Cascode 仅有约 0.7 V，大幅降低死区时间 (dead time) 的损耗，显著提升转换效率。
+
+此外，PowiGaN 采用专利「蓝宝石上氮化镓」(GaN-on-sapphire) 技术。相较于传统导电矽衬底，不导电的蓝宝石能避免热膨胀系数差异导致的制程裂纹，大幅强化过压耐受力。自 2018 年推出 750 V 产品以来，PowiGaN 晶片已累计出货超 2 亿颗，实际量产验证的失效率 (FIT) 小于 1。
+
+Power Integrations 指出，根据测试数据显示，2200 V PowiGaN 开关的实际崩溃电压超过 4000 V (4 kV)，为 2200 V 额定电压提供高达 2000 V 的宽裕安全防护。若遭遇瞬时过压，只要未超过 4000 V 限度，电压回落后元件即可自行恢复正常运作，免于传统矽元件的永久破坏。在动态切换测试中，研发团队于反驰式 (Flyback) 电路进行连续 20 小时监控，在 1760 V 高压、1.5 A 电流负载下，导通电阻 (RDS(ON)) 表现极其稳定，完全无电阻飘移，创下业界首度在大于 1500 Vpk 高压下连续切换的成功示范。
+
+市场分析师表示，AI 资料中心往更高压汇流排发展正重塑功率半导体市场，预估至 2031 年，全球 GaN 功率元件市场规模将达 35 亿美元。2200 V 的推出不仅解决了多颗低压元件堆叠所造成的电路复杂性，也为高压单级式电源设计注入全新动能。目前，Power Integrations 首批搭载 2200 V PowiGaN 技术的新产品已在积极研发中。其全球供应链布局亦十分完善，磊晶与晶圆生产主要于日本、德国等精密制造地区进行，研发中心位于美国，后端封装测试则部署于马来西亚及中国等亚洲地区，可提供无上限的产能支持。]]></description>
+  </item>
+  <item>
+    <title>瑞耘7月营收月增44.1%</title>
+    <link>https://finance.technews.tw/2026/08/05/ct-6532-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/05/ct-6532-202607-financial-report/</guid>
+    <pubDate>Wed, 05 Aug 2026 12:10:05 +0000</pubDate>
+    <description><![CDATA[瑞耘（6532）公布 7 月合并营收 8,797.50 万元，较上（6）月成长 44.1%，与去年同期相比为年 [&#8230;]]]></description>
+  </item>
   <item>
     <title>创惟7月营收3.38 亿元</title>
     <link>https://finance.technews.tw/2026/08/05/gli-6104-202607-financial-report/</link>
@@ -155,20 +181,6 @@ SLRC 原本打算开发射程超过 1,600 公里的超级巨砲，取消后美�
     <guid>https://finance.technews.tw/2026/08/05/sigurd-6257-202607-financial-report/</guid>
     <pubDate>Wed, 05 Aug 2026 09:10:08 +0000</pubDate>
     <description><![CDATA[矽格（6257）今（5）日公布 7 月营收，达 20.14 亿元，较 6 月成长 2.8%，较去年同期成长 2 [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>义隆7月营收月减17.1%</title>
-    <link>https://finance.technews.tw/2026/08/05/elan-2458-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/05/elan-2458-202607-financial-report/</guid>
-    <pubDate>Wed, 05 Aug 2026 09:10:05 +0000</pubDate>
-    <description><![CDATA[义隆（2458）公布 7 月合并营收 8.78 亿元，较上（6）月成长 -17.1%，与去年同期相比为年增 - [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>钰太7月营收月减2.3%</title>
-    <link>https://finance.technews.tw/2026/08/05/zilltek-6679-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/05/zilltek-6679-202607-financial-report/</guid>
-    <pubDate>Wed, 05 Aug 2026 09:00:13 +0000</pubDate>
-    <description><![CDATA[钰太（6679）公布 7 月合并营收 1.75 亿元，较上（6）月成长 -2.3%，与去年同期相比为年增 8. [&#8230;]]]></description>
   </item>
 </channel>
 </rss>
