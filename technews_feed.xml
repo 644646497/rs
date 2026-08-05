@@ -4,7 +4,34 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 05 Aug 2026 17:15:45 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 20:53:37 GMT</lastBuildDate>
+  <item>
+    <title>Google AI 高层重大异动，哈萨比斯卸任执行长专注 AGI 研究</title>
+    <link>https://technews.tw/2026/08/06/demis-hassabis-to-step-down-as-google-deepmind-ceo/</link>
+    <guid>https://technews.tw/2026/08/06/demis-hassabis-to-step-down-as-google-deepmind-ceo/</guid>
+    <pubDate>Wed, 05 Aug 2026 18:14:26 +0000</pubDate>
+    <description><![CDATA[主导 Gemini 系列模型开发并推动 AI 应用的 Google DeepMind 团队迎来重大人事异动，哈萨比斯（Demis Hassabis）卸下执行长一职，专心投入通用人工智慧（AGI）和科学探索。
+
+Alphabet 和 Google 执行长皮查伊（Sundar Pichai）公开信，宣布 Google DeepMind 团队迎来全新篇章。
+
+哈萨比斯转任 Google DeepMind 主席暨 Alphabet 首席科学家，同时继续领导投入 AI 设计药物领域的 Isomorphic Labs。他将能够投入时间和心力，专注于塑造通用人工智慧和科学探索的未来。「这项工作对 Alphabet 和全人类都相当重要，哈萨比斯无疑是最佳人选」，皮查伊表示。
+
+哈萨比斯将与卡武库格鲁（Koray Kavukcuoglu，原为 Google DeepMind 技术长暨 AI 架构师）、伍德沃德（Josh Woodward，为 Google Labs、Gemini 应用程式、Google AI Studio 的负责人）及 Google DeepMind 团队保持密切联系，为模型和研究提供建议
+
+哈萨比斯不仅在 Google DeepMind 领导如 AlphaGo、Gemini 等 AI 研发，他主导开发突破性的 AlphaFold 预测蛋白质结构技术，与琼柏（John M. Jumper）一同荣获 2024 年诺贝尔化学奖。
+
+I’ve been working towards AGI my whole life, and as we enter this pivotal moment, I’m stepping into a new role as Chair of Google DeepMind & Chief Scientist of Alphabet. This will allow me to focus on long-term strategy, and accelerating scientific breakthroughs, including…
+
+— Demis Hassabis (@demishassabis)August 5, 2026
+
+哈萨比斯卸下执行长一职的同时，卡武库格鲁将出任 Google DeepMind 资深副总裁，接下哈萨比斯大部分工作，掌管模型开发、先进 AI 研究、Gemini 应用程式和开发团队的所有工作。他在 Google DeepMind 工作超过 13 年，早已是全球知名专家，他在内部建立深度学习团队，并推动 WaveNet、DQN 等突破性进展。
+
+除哈萨比斯外，Google DeepMind 首席科学家迪恩（Jeff Dean）也将离开公司，与格马瓦特（Sanjay Ghemawat，为 Google Senior Fellow）等人创立一家独立的公共利益公司（Public Benefit Corporation⁠，PBC）Discovery Loop，以加速机器学习、科学与工程领域中的各项发现。
+
+皮查伊宣布 Google DeepMind 高层重大异动后，投资人对 Google 重要 AI 技术功臣出走似乎感到忧心，母公司 Alphabet 5 日股价下跌，一度跌近 4%。
+
+（首图图中为 Demis Hassabis，首图来源：Demis Hassabis）]]></description>
+  </item>
   <item>
     <title>爱普*7月营收月增36.1%</title>
     <link>https://finance.technews.tw/2026/08/05/ap-memory-6531-202607-financial-report/</link>
@@ -174,13 +201,6 @@ SLRC 原本打算开发射程超过 1,600 公里的超级巨砲，取消后美�
 根据最新产业研究，美系 CSP 大厂 2026 年资本支出预估达 7,800 亿美元，年增 87%， TrendForce 预估全球九大 CSP 资本支出将达 8,867 亿美元，显示 AI 资料中心、先进封装及高频宽记忆体等相关投资仍持续扩大。
 
 009820 目前核心部位聚焦 AI 运算、客制化晶片及记忆体需求，并搭配先进制程设备投资、AI 平台及数位广告变现等面向进行布局，资金集中于较具成长特征的企业，近期科技股回稳后，并受惠财报利多，有望持续向上。]]></description>
-  </item>
-  <item>
-    <title>雍智科技7月营收月减0.5%</title>
-    <link>https://finance.technews.tw/2026/08/05/ksmt-6683-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/05/ksmt-6683-202607-financial-report/</guid>
-    <pubDate>Wed, 05 Aug 2026 09:10:09 +0000</pubDate>
-    <description><![CDATA[雍智科技（6683）公布 7 月合并营收 2.30 亿元，较上（6）月成长 -0.5%，与去年同期相比为年增  [&#8230;]]]></description>
   </item>
 </channel>
 </rss>
