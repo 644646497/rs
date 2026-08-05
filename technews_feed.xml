@@ -4,7 +4,14 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 05 Aug 2026 13:29:40 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 17:15:45 GMT</lastBuildDate>
+  <item>
+    <title>爱普*7月营收月增36.1%</title>
+    <link>https://finance.technews.tw/2026/08/05/ap-memory-6531-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/05/ap-memory-6531-202607-financial-report/</guid>
+    <pubDate>Wed, 05 Aug 2026 14:10:02 +0000</pubDate>
+    <description><![CDATA[爱普*（6531）公布 7 月合并营收 11.04 亿元，较上（6）月成长 36.1%，与去年同期相比为年增 144.6%；累计其今年前 7 月营收为 55.69 亿元，较去年同期增加 102.9%。]]></description>
+  </item>
   <item>
     <title>Power Integrations 发表首款 2200 V 氮化镓技术，抢攻资料中心、电动车与再生能源市场</title>
     <link>https://finance.technews.tw/2026/08/05/power-integrations-unveils-its-first-2200-v-gallium-nitride-technology/</link>
@@ -174,13 +181,6 @@ SLRC 原本打算开发射程超过 1,600 公里的超级巨砲，取消后美�
     <guid>https://finance.technews.tw/2026/08/05/ksmt-6683-202607-financial-report/</guid>
     <pubDate>Wed, 05 Aug 2026 09:10:09 +0000</pubDate>
     <description><![CDATA[雍智科技（6683）公布 7 月合并营收 2.30 亿元，较上（6）月成长 -0.5%，与去年同期相比为年增  [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>矽格7月营收20.14 亿元</title>
-    <link>https://finance.technews.tw/2026/08/05/sigurd-6257-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/05/sigurd-6257-202607-financial-report/</guid>
-    <pubDate>Wed, 05 Aug 2026 09:10:08 +0000</pubDate>
-    <description><![CDATA[矽格（6257）今（5）日公布 7 月营收，达 20.14 亿元，较 6 月成长 2.8%，较去年同期成长 2 [&#8230;]]]></description>
   </item>
 </channel>
 </rss>
