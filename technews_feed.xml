@@ -4,187 +4,163 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Fri, 07 Aug 2026 08:43:25 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 16:38:31 GMT</lastBuildDate>
   <item>
-    <title>助商家抢攻 AI 搜寻新战场！绿界科技携手蜘蛛网路推 GEO 服务</title>
-    <link>https://finance.technews.tw/2026/08/07/geo-ai/</link>
-    <guid>https://finance.technews.tw/2026/08/07/geo-ai/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:42:25 +0000</pubDate>
-    <description><![CDATA[绿界科技今日召开董事会，通过上半年合并营收达 9.35 亿元，年增 12.85%；税后净利 2 亿元，每股税后盈余（EPS）1.08 元，并与技术伙伴蜘蛛网路（Spiderweb）推出全新「GEO 网站分析服务」，有别于传统 SEO 著重搜寻引擎排名，协助商家抢攻 AI 搜寻新战场。
+    <title>干细胞技术突破，给予帕金森氏症疗法新希望</title>
+    <link>https://technews.tw/2026/08/08/human-embryonic-stem-cell-derived-dopaminergic-cells-for-parkinsons-disease-a-phase-12-open-label-trial/</link>
+    <guid>https://technews.tw/2026/08/08/human-embryonic-stem-cell-derived-dopaminergic-cells-for-parkinsons-disease-a-phase-12-open-label-trial/</guid>
+    <pubDate>Fri, 07 Aug 2026 16:00:41 +0000</pubDate>
+    <description><![CDATA[帕金森氏症患者常因脑部制造多巴胺（dopamine）的神经细胞逐渐死亡，而出现手抖、动作迟缓、肌肉僵硬等症状，治疗方式如左旋多巴（Levodopa）等药物或深部脑刺激（Deep Brain Stimulation，DBS），虽可改善症状，但无法阻止神经细胞流失。最近瑞典隆德大学（Lund University）与英国剑桥大学（University of Cambridge）团队尝试以干细胞培养的神经前驱细胞治疗帕金森氏症，论文近日刊登于《Nature Medicine》期刊，为帕金森氏症的神经修复治疗跨出重要一步。
 
-绿界科技观察到生成式 AI 正在改变消费者的搜寻与购物行为，当消费者不再逐一浏览网站，而是直接问 ChatGPT 或 Gemini「推荐哪个品牌?」，品牌商家能否被 AI 看见，已成为消费者下单的重要关键。
+帕金森氏症最棘手的问题，是大脑负责分泌多巴胺的神经元会逐渐退化与丧失。目前药物治疗主要为补充或模拟多巴胺作用改善症状，但无法阻止神经细胞持续流失。团队尝试从「补充讯号」再走向「修复神经」。他们利用人类胚胎干细胞，实验室培养多巴胺神经前驱细胞，再将这些细胞植入患者大脑负责运动控制的重要区域「壳核」（putamen）。团队希望移植后的细胞能继续成熟，形成新神经连结，并逐渐恢复多巴胺供应，有机会从根本改善病情。
 
-绿界科技 7 月底携手技术伙伴蜘蛛网路（Spiderweb），全新推出「GEO 网站分析服务」，有别于传统 SEO 著重搜寻引擎排名，GEO（生成式引擎优化）更聚焦让商家能被 ChatGPT、Gemini、Perplexity、Claude 等 AI 工具主动引用与推荐内容，缩短从曝光到下单的转换路径。
+此临床实验共纳入八位中度帕金森氏症患者，分别接受低剂量与高剂量细胞移植，并搭配免疫抑制治疗，以降低排斥反应。一年后，所有受试者都没出现研究员最担心的细胞移植后不自主动作副作用（graft-induced dyskinesia）；核磁共振检查也未发现肿瘤形成或细胞异常增生，显示此疗法初步有不错的安全性。更重要的是，部分患者的动作功能、日常生活能力有改善趋势。虽然这项研究规模小，不足以证明疗效，但至少显示这些移植细胞有机会在患者大脑存活并发挥功能，为后续大型临床试验提供重要依据。
 
-如今绿界科技不断拓展与外部技术伙伴合作，导入真实浏览器技术，像真人一样完整读取整个网站，深入解析动态内容与结构化资料（Schema），再结合「规则评分 × AI 分析」双引擎，从内容结构、E-E-A-T 信任讯号到AI引用潜力等多个面向逐一检测。
+如果未来研究证实疗效稳定，这种治疗最大的特色，是不必完全依赖每天服药，而是细胞移植后，让新神经细胞持续发挥作用。当移植后新细胞能持续分泌多巴胺，就有机会像重新建立小型「多巴胺工厂」，降低药物依赖度，让症状更稳定，但仍有不少挑战需要克服，包括细胞能否长期存活、免疫抑制药物能否再减少、副作用如何控制，以及哪些患者最适合接受治疗等。因此，团队也会继续追踪受试者长达 36 个月，确认细胞能否长时间维持功能与安全性。
 
-对商家来说，只需输入品牌网址，即可取得一份清楚易懂的「AI 能见度健检报告」， 操作出奇简单，却能一眼洞察品牌在 AI 搜寻中的表现与待补强的缺口，并附上可直接套用的优化建议，还能搭配「互动式 AI 顾问」，即使没有技术背景的商家，也能轻松优化品牌网站。
-
-绿界科技表示，从金流、配送物流、电子发票到会员与交易数据管理，绿界早已串联中小企业经营所需的各项环节，如今携手技术合作伙伴，持续打造一站式商业服务生态系，让商家从收款、出货到行销获客，都能在绿界生态系快速落地。]]></description>
+总结而言，帕金森氏症治疗数十年来多著重症状改善，如今科学家开始尝试直接修复受损大脑，象征著治疗思维正逐渐转变。虽然之后仍需更多大型实验验证，但已让人们看到新可能性。对患者而言，这项疗法距离真正普及仍需要时间，但科学家也一步步让「修复受损神经」从概念走向可能。]]></description>
   </item>
   <item>
-    <title>三星宣布年底前开始泰勒二厂兴建，记忆体产能优先供应长约客户</title>
-    <link>https://finance.technews.tw/2026/08/07/samsung-announced-that-construction-of-its-second-plant-in-taylor-texas-will-begin-before-the-end-of-the-year/</link>
-    <guid>https://finance.technews.tw/2026/08/07/samsung-announced-that-construction-of-its-second-plant-in-taylor-texas-will-begin-before-the-end-of-the-year/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:40:22 +0000</pubDate>
-    <description><![CDATA[根据韩国媒体报导，三星电子预计于2026年底前，开始在美国德州泰勒市（Taylor）建造第二座半导体晶圆厂。同时，面对日益成长的AI客户需求，三星计划将60%至70%的记忆体产能分配给长期供应合约（LTA）。
+    <title>打破「蓝色弹珠」迷思，NASA 最新 3D 模型揭露地球「坑疤」真面目</title>
+    <link>https://technews.tw/2026/08/08/nasa-3d-earth-gravity-model/</link>
+    <guid>https://technews.tw/2026/08/08/nasa-3d-earth-gravity-model/</guid>
+    <pubDate>Fri, 07 Aug 2026 16:00:25 +0000</pubDate>
+    <description><![CDATA[NASA 近日公布了一项全新的 3D「大地水准面」（Geoid）模型。与太空中常见那颗平滑完美的「蓝色弹珠」不同，这项新模型呈现的是地球重力场的真实样貌。透过夸张化地放大地表起伏，模型让原本几乎难以察觉的重力差异变得清晰可见，显示出地球并非完美的球体，而是受到内部质量分布不均的影响，呈现出细微的隆起与凹陷。
 
-三星晶圆代工策略行销团队负责人、副总经理Kang Seok-chae表示，德州泰勒一厂（Taylor Fab 1）预计于2026年内正式投产。而就在一厂投产后，三星将逐步扩大2奈米制程产能，并预计于2027年达成全面量产的目标。至于，泰勒二厂的商业化量产目标则设定在2030年。此外，由于客户对1.4奈米制程技术的询问度提高，三星正积极评估追加制造空间的可能性。
+NASA 指出，这项视觉化专案是由戈达德太空飞行中心（Goddard Space Flight Center）的科学视觉化团队操刀制作。该模型并非凭空想像，而是结合了长时间的卫星观测资料与精密模型建立而成。其背后拥有庞大的数据基础，资料集横跨 15 年，汇整了高达约 10 亿笔的观测数据。为了让民众更有参与感，NASA 同时释出了互动式 3D 模型与延伸解说影片，供全球大众上网探索。
 
-另外，在制程资源配置上，三星正持续将产能从成熟制程转移至高毛利的先进制程。目前，8奈米与17奈米制程、CMOS影像感测器（CIS）以及嵌入式非挥发性记忆体（eNVM）需求持续强劲，且8奈米以下制程的产能利用率已接近满载。Kang Seok-chae 指出，随著产能利用率提高、良率改善及价格回升，晶圆代工业务的获利能力将较2025年大幅改善，并有望在近期实现转亏为盈。
+这项重力场资料不仅带来视觉上的新奇体验，更具备实质的科学用途。NASA 与欧洲太空总署（ESA）长期透过卫星监测地球重力场，这些观测数据已被广泛应用于全球气候与环境的变迁追踪：
 
-至于，针对记忆体业务，随著AI基础建设投资加速，长期供应合约（LTA）的重要性显著提升。三星记忆体策略行销负责人Kim Jae-jun指出，三星已与全球五大资料中心客户签署LTA，并正与另外五家大型AI相关客户进行最后谈判。由于长约需求已超过三星目前的供应能力，三星决定将高达60%至70%的长期产能用于履行LTA承诺。
-
-据了解，三星的LTA合约通常为期5年，并设有年度展延的滚动式更新机制。针对标准型记忆体产品，合约中包含最低价格条款，以降低市场低迷时的风险。此外，为加强合约约束力，合约规定了高额的前期预付款，目前三星已收到已签署合约中约四分之一的预付款。(首图来源：官网)]]></description>
+面对日益严峻的气候变迁，这些精密的重力观测数据，将对全球缺水地区的「水资源管理」与灾害预防，提供极具价值的关键参考。]]></description>
   </item>
   <item>
-    <title>尼克森7月营收月减4.9%</title>
-    <link>https://finance.technews.tw/2026/08/07/niko-sem-3317-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/niko-sem-3317-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:40:06 +0000</pubDate>
-    <description><![CDATA[尼克森（3317）公布 7 月合并营收 2.35 亿元，较上（6）月成长 -4.9%，与去年同期相比为年增 7 [&#8230;]]]></description>
+    <title>鲁宾天文台 LSST 相机首发，32 亿画素震撼捕捉 COSMOS 天区 50 万星系</title>
+    <link>https://technews.tw/2026/08/08/nsf-doe-rubin-observatory-opens-deep-window-on-famous-cosmic-field/</link>
+    <guid>https://technews.tw/2026/08/08/nsf-doe-rubin-observatory-opens-deep-window-on-famous-cosmic-field/</guid>
+    <pubDate>Fri, 07 Aug 2026 16:00:07 +0000</pubDate>
+    <description><![CDATA[薇拉‧鲁宾天文台（Vera C. Rubin Observatory）正式发布时域与深空巡天相机（Legacy Survey of Space and Time，简称 LSST）首批科学资料中的代表性影像，首次呈现著名的 COSMOS 天区深空景象，也象征鲁宾天文台正式迈入科学运作的新阶段。
+
+COSMOS 天区位于六分仪座，是人类研究宇宙最深的天空区域之一。这张影像由安装于口径 8.4 公尺望远镜上的 32 亿画素 LSST 相机拍摄，并将数百次观测影像堆叠而成，是目前世界最大数位相机的重要成果。整张影像收录了超过 50 万个星系与 5 万多颗恒星，包括螺旋星系、椭圆星系、正在碰撞合并的星系，以及来自遥远宇宙、呈现红色的微弱星系。由于前景仅有少数银河系恒星，因此得以清楚看见远方密布的星系，其中许多星系发出的光已在宇宙中旅行数十亿年才抵达地球。
+
+▲ 鲁宾天文台以 LSST 相机拍摄的 COSMOS 天区深空影像，画面中可见大量不同距离的星系与星系团，前景仅有少数属于银河系的恒星。图中并标示部分精选区域。
+
+COSMOS 天区之所以具有极高的科学价值，在于它避开了银河系盘面的方向，几乎没有大量恒星与星际尘埃遮蔽，因此能观测到数量庞大的遥远星系。由于光速有限，望向越遥远的宇宙，也等于回望越久远的过去，使天文学家得以研究不同时代星系的形成与演化。自 2003 年哈伯太空望远镜率先展开大型观测计划以来，全球许多重要天文设施，包括无线电波、红外线、可见光及 X 射线望远镜，都曾观测这片天区，使 COSMOS 成为天文学最完整的多波段资料库之一，也是验证新望远镜观测成果、比较不同仪器测量结果，以及整合多座天文台资料的重要基准天区。
+
+▲ 本影片带领观众放大欣赏鲁宾天文台拍摄的 COSMOS 天区深空影像。画面中可见大量不同距离、不同年代的星系与星系团，前景仅有少数属于银河系的恒星。
+
+▲ 本影片横向展示鲁宾天文台拍摄的 COSMOS 天区深空影像。画面中可见大量不同距离、不同年代的星系与星系团，前景仅有少数属于银河系的恒星。
+
+鲁宾天文台带来的新突破，不仅在于观测得更深、更广，更重要的是能持续重复拍摄同一片天空。未来十年间，将反复观测 COSMOS 天区，不仅记录星系的外观，更能追踪天空中随时间发生的各种变化，例如超新星爆发、各类瞬变天体以及亮度变化天体，让天文学家从静态影像进一步建立宇宙演化的「缩时纪录」。随著观测次数持续增加，鲁宾天文台将建构更深、更精细的宇宙影像，看见更多微弱星系及更细致的结构。
+
+此次公开的影像属于第一阶段资料预览，也是首次以 LSST 相机观测资料建立的科学资料集，收录了 2025 年 4 月至 2026 年 1 月间完成的科学验证观测成果，涵盖约 3,000 平方度夜空，约占整个南半球可见天空的六分之一。第二阶段预计于 2026 年底前发布，将新增单次观测影像、差分影像及范本影像等产品。未来十年间，鲁宾天文台将持续扫描南天，建立史上最完整、解析度最高且具时间维度的宇宙巡天资料库，为暗物质、暗能量、星系演化及瞬变天文等研究开启新的篇章。]]></description>
   </item>
   <item>
-    <title>优群7月营收3.41 亿元</title>
-    <link>https://finance.technews.tw/2026/08/07/argosy-3217-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/argosy-3217-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:40:05 +0000</pubDate>
-    <description><![CDATA[优群（3217）今（7）日公布 7 月营收，达 3.41 亿元，较 6 月成长 5.1%，较去年同期成长 -4 [&#8230;]]]></description>
+    <title>久元7月营收3.74 亿元</title>
+    <link>https://finance.technews.tw/2026/08/07/ytec-6261-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/ytec-6261-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 12:10:03 +0000</pubDate>
+    <description><![CDATA[久元（6261）今（7）日公布 7 月营收，达 3.74 亿元，较 6 月成长 -4.1%，较去年同期成长 - [&#8230;]]]></description>
   </item>
   <item>
-    <title>欣兴7月营收162.54 亿元</title>
-    <link>https://finance.technews.tw/2026/08/07/unimicron-3037-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/unimicron-3037-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:40:03 +0000</pubDate>
-    <description><![CDATA[欣兴（3037）今（7）日公布 7 月营收，达 162.54 亿元，较 6 月成长 9.1%，较去年同期成长  [&#8230;]]]></description>
+    <title>中美晶第二季营收创同期新高，受惠多事业同步成长上半年赚逾半个股本</title>
+    <link>https://finance.technews.tw/2026/08/07/sass-second-quarter-revenue-hit-a-record-high-for-the-same-period/</link>
+    <guid>https://finance.technews.tw/2026/08/07/sass-second-quarter-revenue-hit-a-record-high-for-the-same-period/</guid>
+    <pubDate>Fri, 07 Aug 2026 12:00:34 +0000</pubDate>
+    <description><![CDATA[矽晶材料大厂中美晶公布2026年最新营运成果，受惠于半导体、车用元件与再生能源等多元事业的协同成长，中美晶展现了强劲的经营韧性，在部分具挑战性的总体经济环境下，依然透过跨事业综效使第二季营收创下历年同期新高，获利亦显著回升。
+
+中美晶 2026年第二季合并营收达新台币211.19亿元，较第一季成长9.0%，季增8.96%，亦比2025年同期成长4.4%，创下单季营收历年同期新高。累计，2026年上半年合并营收为新台币405.01亿元，年增2.26%，写下历年同期次高的佳绩。
+
+第二季营业毛利率为22.7%，上半年平均营业毛利率则达22.9%。随著市场环境改善，中美晶第二季获利表现亮眼，单季本期净利攀升至新台币44.53亿元，季增高达70.6%、年增更达157.7%，创下历年同期次高纪录。累计，上半年本期净利达新台币70.63亿元，相较2025年同期的35.26亿元大幅成长100.3%，写下历年同期第三高的成果。第二季单季EPS为3.19元。累计上半年每股盈余则达到5.02元，创下历年同期第三高的表现。
+
+面对全球净零转型、AI资料中心以及电力需求攀升的趋势，中美晶持续发挥其在再生能源领域的「制造」与「服务」双轨策略布局。其中，在国际制造与技术升级方面，为强化在美国当地的供应能力，并掌握AI电力需求增长的市场机会，中美晶宣布与联合再生能源（URECO）成立合资公司，规划于美国建置1GW规模的太阳能模组厂。
+
+此外，旗下聚焦高规格应用市场的宜兰全资子公司「续日（SUN）」，研发出转换效率高达26%的高规格客制化太阳能电池，目前已成功切入低轨道（LEO）卫星及零能耗建筑（ZEB）太阳能屋顶等高门槛特殊应用市场。至于，在再生能源服务与投资领域，中美晶旗下再生能源销售与服务子公司「续升绿能」已于 2026 年 6 月 29 日正式登录兴柜，成为中美晶再生能源布局实现投资价值的重要里程碑。
+
+展望未来，中美晶表示，将继续透过其稳健的财务基石与技术领先优势，进一步扩大在全球市场的营运动能。]]></description>
   </item>
   <item>
-    <title>川普大砍离岸风电！数十亿美元补偿开发商</title>
-    <link>https://technews.tw/2026/08/07/trump-slashes-offshore-wind-4-billion-compensation-developers/</link>
-    <guid>https://technews.tw/2026/08/07/trump-slashes-offshore-wind-4-billion-compensation-developers/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:30:16 +0000</pubDate>
-    <description><![CDATA[综合外电报导，美国总统川普政府今年已同意支付约 40 亿美元，向开发商买回尚未开发的离岸风电租约，最新一笔为德国能源公司 RWE 达成 12.2 亿美元协议。加上先前与 TotalEnergies、Invenergy 等企业完成协议，川普政府正透过补偿机制，要求业者放弃离岸风电开发，并将投资转向化石燃料。
+    <title>能源管理迈入新时代！郑平：台达电推微电网整体解方</title>
+    <link>https://technews.tw/2026/08/07/energy-management-new-era-zheng-ping-delta-comprehensive-microgrid-solutions/</link>
+    <guid>https://technews.tw/2026/08/07/energy-management-new-era-zheng-ping-delta-comprehensive-microgrid-solutions/</guid>
+    <pubDate>Fri, 07 Aug 2026 11:29:40 +0000</pubDate>
+    <description><![CDATA[AI 资料中心快速发展，除了带动算力需求，也让能源管理成为下一波产业竞争焦点。台达电今（7）日举办 55 周年系列活动「永续 AI 峰会」，董事长郑平表示，公司今年特别提出微电网整体解决方案，希望整合发电、输电、配电、用电及储能等各个环节，透过智慧能源管理提升整体能效，在 AI 与能源转型浪潮下兼顾效率与永续。
 
-拜登政府曾提出 2030 年建置 30 GW 离岸风电目标，并大规模释出东、西岸海域租约，希望建立美国本土离岸风电供应链，吸引 RWE、TotalEnergies、沃旭能源、Equinor 等国际能源业者投入。不过，川普重返白宫后，不仅冻结新的离岸风电租约及联邦审查，更透过「租约回购」加速终止尚未动工的风场计划。
+郑平表示，台达早期以提升产品能效为主，近年逐步走向整体系统能效，将节能方案延伸至建筑、工厂及 AI 资料中心等应用场域。他指出，随著再生能源占比持续提高，未来能源系统不能只是增加发电，更需要将发电、输电、配电、用电及储能完整串联，透过智慧调度提升整体能源效率，进一步达到节能减碳目标。
 
-目前已有 RWE、TotalEnergies、Invenergy、Golden State Wind、Bluepoint Wind 及 Ocean Winds 等业者退出美国离岸风电市场。其中，RWE 放弃纽约、加州及路易斯安那州外海租约，改投入天然气发电及 LNG 基础建设；TotalEnergies 也放弃纽约、新泽西及北卡罗来纳州外海风场，转向美国石油与天然气投资。至于 Empire Wind、Vineyard Wind、Sunrise Wind 及 Coastal Virginia Offshore Wind（CVOW）等已动工案场，目前仍持续建设。
+随著 AI 资料中心功率持续攀升，加上再生能源具有间歇性，全球能源产业面临新的挑战。过去重点在于提供足够电力，如今则更重视如何降低电网负载、提升供电韧性，以及整合绿电、储能与能源管理。近期美国 PJM 电网也多次示警，大型资料中心快速接入及用电需求增加，将持续对区域电网容量与供电可靠度带来压力。
 
-根据 BloombergNEF 预估，目前已开工的离岸风电案场完工后，美国短期内恐不再新增新的离岸风电专案。分析人士认为，即使未来政策再次转向，受到供应链、施工船队及专业人才流失影响，美国重建离岸风电产业仍需多年时间。
+因应 AI 带来的新需求，台达此次也展示完整 AI 基础设施，包括 AI 液冷验证中心、AI 货柜型资料中心及能源基础设施。其中，AI 液冷验证中心占地千坪，具备 7 MW 验证能力，可针对液对液（LTL）及液对气（LTA）架构进行散热测试。
 
-反观全球市场仍持续成长，中国累计离岸风电装置容量已突破 47 GW，位居全球第一；英国、德国、荷兰及波兰等欧洲国家也持续推动新一轮离岸风电建设，全球投资重心逐渐回到欧洲与亚洲。
+（▲ 热泵型式水对水 CDU 验证系统， Source：科技新报，同下）
 
-台湾则持续推动离岸风电发展。经济部先前公布「2026 年至 2039 年离岸风电中长程推动计划」，规划新增 15 至 18 GW 可开发容量，目标 2035 年累计装置容量达 18.3 至 19.9 GW，2039 年提升至 24.7 至 27.9 GW，以满足 AI、半导体等高科技产业快速成长带动的绿电需求。]]></description>
+AI 货柜型资料中心采一体化设计，在单一车位空间即可支援满载 60 kW 运算效能，PUE（Power Usage Effectiveness）可降至 1.19，兼顾快速部署与节能效益。
+
+除了散热与资料中心建置外，台达也同步整合储能、能源管理及微电网等解决方案。公司表示，储能系统除了提供备援能力，也能在用电快速变化时扮演电力缓冲角色，降低大型 AI 资料中心对外部电网的冲击；搭配再生能源、智慧能源管理及 24 小时战情室监控，可提高供电韧性与整体能源使用效率，打造更完整的 AI 能源生态系。
+
+峰会也邀请前白宫国家经济委员会顾问 William D. Kissinger、AI 创投专家林家振、SEMI 国际半导体产业协会全球行销长暨台湾区总裁曹世纶等产业代表，共同探讨 AI 资料中心电力、能源韧性及永续发展等议题，希望透过跨领域合作，加速推动 AI 与能源转型。]]></description>
   </item>
   <item>
-    <title>禾伸堂7月营收月增8.9%</title>
-    <link>https://finance.technews.tw/2026/08/07/holy-stone-3026-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/holy-stone-3026-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:30:09 +0000</pubDate>
-    <description><![CDATA[禾伸堂（3026）公布 7 月合并营收 15.01 亿元，较上（6）月成长 8.9%，与去年同期相比为年增 3 [&#8230;]]]></description>
+    <title>环球晶7月营收49.78 亿元</title>
+    <link>https://finance.technews.tw/2026/08/07/gwc-6488-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/gwc-6488-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:50:06 +0000</pubDate>
+    <description><![CDATA[环球晶（6488）今（7）日公布 7 月营收，达 49.78 亿元，较 6 月成长 -11.5%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>联阳7月营收6.42 亿元</title>
-    <link>https://finance.technews.tw/2026/08/07/ite-3014-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/ite-3014-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:30:08 +0000</pubDate>
-    <description><![CDATA[联阳（3014）今（7）日公布 7 月营收，达 6.42 亿元，较 6 月成长 4.8%，较去年同期成长 8. [&#8230;]]]></description>
+    <title>讯芯-KY7月营收7.77 亿元</title>
+    <link>https://finance.technews.tw/2026/08/07/shunsin-6451-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/shunsin-6451-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:50:04 +0000</pubDate>
+    <description><![CDATA[讯芯-KY（6451）今（7）日公布 7 月营收，达 7.77 亿元，较 6 月成长 3.6%，较去年同期成长 [&#8230;]]]></description>
   </item>
   <item>
-    <title>京元电子7月营收月增10.2%</title>
-    <link>https://finance.technews.tw/2026/08/07/kyec-2449-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/kyec-2449-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:30:06 +0000</pubDate>
-    <description><![CDATA[京元电子（2449）公布 7 月合并营收 39.91 亿元，较上（6）月成长 10.2%，与去年同期相比为年增 36.8%；累计其今年前 7 月营收为 253.24 亿元，较去年同期增加 36.2%。]]></description>
+    <title>台郡7月营收月增19.2%</title>
+    <link>https://finance.technews.tw/2026/08/07/flexium-6269-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/flexium-6269-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:50:03 +0000</pubDate>
+    <description><![CDATA[台郡（6269）公布 7 月合并营收 20.45 亿元，较上（6）月成长 19.2%，与去年同期相比为年增 4 [&#8230;]]]></description>
   </item>
   <item>
-    <title>拒绝盲从欧美数据！汉康结盟台湾癌症登月计划破解不抽烟女性肺癌密码</title>
-    <link>https://finance.technews.tw/2026/08/07/prospective-collection/</link>
-    <guid>https://finance.technews.tw/2026/08/07/prospective-collection/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:23:28 +0000</pubDate>
-    <description><![CDATA[汉康-KY 今日宣布旗下全资子公司汉康生技与台湾癌症登月计划（中央研究院及国立台湾大学）的俞松良教授研究团队正式签署合作备忘录，针对台湾特有的癌症病理特征，运用庞大多体学数据，转化为实际的临床药物与检测试剂，真正落实「国病国人自医」的愿景。
-
-俞松良表示，长期以来，台湾许多癌症药物与检测标准皆依循欧美数据，但台湾的癌症成因与欧美国家有著显著差异。以肺癌为例，欧美患者多与抽烟相关，但在台湾有超过一半的肺癌患者为女性，其中高达 94% 以上没有抽烟史，并呈现出多发性原发肿瘤与家族病史等特征。
-
-俞松良指出，为解决此医疗痛点，癌症登月计划著眼于建立专属台湾人的癌症数据库，并透过台湾傲视全球的医疗环境与临床医师亲力亲为的严格「前瞻式收案（Prospective collection）」，让台湾团队在国际癌症登月计划中脱颖而出，成为少数全程采用高品质即时检体的国家代表。
-
-俞松良说明，此举大幅降低生技公司与研究机构的开发成本与时间，让研究人员无须重新耗资收集检体，即可直接利用数据进行标靶药物与伴随性诊断标记的研发，而学研团队的强项在于前期的科学深度挖掘与系统建置。
-
-俞松良补充，主要是检测流程标准化，建立世界顶规的基因与蛋白检体处理流程，并坐跨域整合与验证，以作为临床医师与基础科学的桥梁，进行细胞与动物模型的实证，更将优化免疫微环境，解析不同肿瘤对药物反应的差异，试图重塑微环境，让原本对药物无反应的患者也能获益。
-
-俞松良强调，后续交由汉康生技接手制程优化、临床试验与商业化推广，有助于把这些研究发现放入明确的治疗机制与实际药物开发计划中进行验证，缩短科学研究转化为生物标记、病人筛选策略及潜在临床应用的路径。
-
-汉康-KY 创办人暨董事长刘世高表示，台湾癌症登月计划在癌症蛋白基因体、多体学及亚洲癌症族群研究方面，已累积具国际影响力的研究成果，这次合作的重要意义，在于将这些研究能力更直接导入新药开发流程，并与汉康生技的临床阶段产品及 FBDB 平台相互结合。
-
-刘世高进一步表示，双方希望透过合作回答药物开发中的关键问题，包括哪些病人较可能从治疗中受益、哪些生物机制影响治疗反应与抗药性，以及如何透过生物标记提升临床试验与病人筛选的精准度。
-
-刘世高指出，研究将涵盖肿瘤本身的生物特性、巨噬细胞介导的免疫调控，以及 T 细胞等适应性免疫反应与疗效持久性之间的关联，希望将病人来源的分子资讯转化为更有效率的开发策略，并进一步支持更精准的新一代治疗方案。
-
-刘世高强调，双方合作将研究巨噬细胞介导的免疫调控、T 细胞功能状态与治疗结果之间的关联，支持次世代免疫疗法的机制研究，并将病人来源的分子与免疫资讯导入汉康生技产品线的临床开发策略，协助优化临床试验设计、转译研究及病人筛选方向。]]></description>
+    <title>系微7月营收月减50.9%</title>
+    <link>https://finance.technews.tw/2026/08/07/insyde-6231-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/insyde-6231-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:40:09 +0000</pubDate>
+    <description><![CDATA[系微（6231）公布 7 月合并营收 1.01 亿元，较上（6）月成长 -50.9%，与去年同期相比为年增 - [&#8230;]]]></description>
   </item>
   <item>
-    <title>AI 伺服器需求强劲，纬创 7 月营收站稳 3,000 亿元、前七月超去年全年</title>
-    <link>https://finance.technews.tw/2026/08/07/ai-server-wistron-jul/</link>
-    <guid>https://finance.technews.tw/2026/08/07/ai-server-wistron-jul/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:23:06 +0000</pubDate>
-    <description><![CDATA[受惠 AI 伺服器出货持续放量，纬创今日公告 7 月合并营收达新台币 3,082.19 亿元，虽较 6 月小幅下滑 4.23%，但较去年同期大幅成长 60.76%，创历年同期新高；累计今年前七月营收达 2.05 兆元，年增 88.16%，更已提前超越去年全年营收规模，反映 AI 基础建设需求仍维持强劲。
-
-从单月表现来看，7 月营收虽较前月略为回落，但仍连续第二个月站稳 3,000 亿元大关，显示在 AI 伺服器带动下，整体出货动能依旧维持高档。相较去年同期约 1,917 亿元，今年 7 月增加逾 1,160 亿元，年增幅超过六成，成长力道仍相当突出。
-
-若观察累计营收，今年前七月合并营收达 2.0499 兆元，较去年同期增加约 9,604 亿元，年增率达 88.16%。由于累计营收已超越 2025 年全年水准，也凸显今年 AI 伺服器需求快速扩张，带动该公司营运规模明显提升。
-
-纬创近年积极布局 AI 伺服器与高效能运算（HPC）领域，在大型云端服务业者（CSP）持续扩大资本支出的带动下，AI 相关产品已成为推升营运成长的主要引擎。除了伺服器产品之外，笔电等传统业务需求也逐步回稳，共同支撑整体营收表现。
-
-值得注意的是，虽然 7 月营收较 6 月略减，但市场多认为，单月营收变化仍可能受到工作天数、产品出货时点及客户拉货节奏影响，并未改变 AI 需求持续升温的趋势。以目前表现来看，纬创已连续两个月维持逾 3,000 亿元营收水准，显示 AI 产品出货规模已逐渐成为新常态。
-
-展望后市，纬创日前表示，AI 伺服器需求仍相当强劲，预期 8 月出货动能将优于 7 月，下半年 AI 伺服器业务可望呈现逐季成长，带动全年营运持续向上。随著全球云端业者持续投入 AI 基础建设，以及新一代 AI 平台陆续放量，法人普遍看好纬创今年营收及获利仍有机会续创新高。]]></description>
+    <title>旺矽7月营收18.05 亿元</title>
+    <link>https://finance.technews.tw/2026/08/07/mpi-6223-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/mpi-6223-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:40:07 +0000</pubDate>
+    <description><![CDATA[旺矽（6223）今（7）日公布 7 月营收，达 18.05 亿元，较 6 月成长 -1.5%，较去年同期成长  [&#8230;]]]></description>
   </item>
   <item>
-    <title>台韩出口首度超越日本，AI 半导体需求成关键推手</title>
-    <link>https://technews.tw/2026/08/07/taiwan-south-korea-exports-surpass-japan-ai-semiconductor-demand-key-driver/</link>
-    <guid>https://technews.tw/2026/08/07/taiwan-south-korea-exports-surpass-japan-ai-semiconductor-demand-key-driver/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:20:24 +0000</pubDate>
-    <description><![CDATA[受惠人工智慧（AI）带动先进半导体需求大增，台湾、韩国今年上半年出口额双双首度超越日本。相较之下，日本的优势主要局限于半导体相关材料及制造设备，因此从这波需求中获得的效益出现明显差距。
-
-日本经济新闻报导，根据日韩台贸易统计，并综合日本贸易振兴机构（JETRO）及联合国资料库UN Comtrade资料，以美元换算后显示，2026年1至6月韩国出口额达4,963亿美元、台湾4,166亿美元，日本则为3,844亿美元，韩台出口额首度双双超越日本。
-
-与去年同期相比，日本出口额增加近1成，但韩国、台湾均大增近5成，成长幅度明显高于日本。
-
-背后最主要的原因，是AI用半导体需求呈现爆发性扩张。台湾有台积电（TSMC），韩国则有三星电子及SK海力士，负责生产先进半导体。
-
-2026年上半年，韩国积体电路出口额达1,490亿美元，台湾则达1,332亿美元。积体电路占整体出口的比重，韩国与台湾均约为3成。韩国仅2026年上半年的出口额，就已超越2025年全年。相较下，日本积体电路出口额为212亿美元，占整体出口仅约5%。
-
-日本则在半导体制造设备及材料领域具有竞争优势。东京威力科创（Tokyo Electron）、爱德万测试（Advantest）、雷泰光电（Lasertec）等企业在全球拥有高市占率，并透过各国及地区扩充半导体生产体系，间接承接AI需求带来的商机。
-
-2026年上半年，日本半导体制造设备出口额达150亿美元，高于韩国的52亿美元，以及台湾的35亿美元。然而，与韩国、台湾掌握高附加价值且市场快速扩大的先进半导体终端产品相比，日本仅靠制造设备的优势，仍无法弥补与台湾、韩国的差距。
-
-三菱UFJ研究与顾问公司的丸山健太指出，「即使各国及地区的半导体出口持续增加，相关零组件、材料及制造设备的出口额，也很难以同样速度快速扩张。」若以汇率来看，日圆目前处于历史性低档，确实使日本出口额换算成美元后受到压缩。不过，韩元及新台币兑美元汇率同样面临贬值压力，因此韩台超越日本并不能单纯以汇率因素解释。
-
-更值得注意的是，日本出口竞争力走弱并非AI热潮下才出现的短期现象。JETRO资料显示，日本2025年出口额已降至全球第6。1970至90年代，日本长期仅次于美国及德国，排名全球第3；2000年代随中国崛起降至第4，近年，日本又陆续被做为国际贸易枢纽的荷兰与香港超越。
-
-日本战后曾先后依靠纺织、钢铁、汽车及电子产品等产业崛起，透过持续供应全球需求快速增加的产品，建立贸易立国模式。然而在AI时代，全球需求重心快速转向先进半导体，台湾及韩国凭借晶圆代工、记忆体等产业优势掌握新一波成长机会，日本则仍以材料及设备等上游产业为主要强项。
-
-未来日本能否在既有半导体设备及材料优势之外，培养符合数位及AI时代的新成长产业，将成为能否扭转出口竞争力下滑的重要关键。]]></description>
+    <title>中美晶7月营收月减9.2%</title>
+    <link>https://finance.technews.tw/2026/08/07/sas-5483-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/sas-5483-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:40:06 +0000</pubDate>
+    <description><![CDATA[中美晶（5483）公布 7 月合并营收 69.98 亿元，较上（6）月成长 -9.2%，与去年同期相比为年增  [&#8230;]]]></description>
   </item>
   <item>
-    <title>凯美7月营收6.21 亿元</title>
-    <link>https://finance.technews.tw/2026/08/07/teapo-2375-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/teapo-2375-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:20:08 +0000</pubDate>
-    <description><![CDATA[凯美（2375）今（7）日公布 7 月营收，达 6.21 亿元，较 6 月成长 14.3%，较去年同期成长 3 [&#8230;]]]></description>
+    <title>嘉泽7月营收33.69 亿元</title>
+    <link>https://finance.technews.tw/2026/08/07/lotes-3533-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/lotes-3533-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:30:11 +0000</pubDate>
+    <description><![CDATA[嘉泽（3533）今（7）日公布 7 月营收，达 33.69 亿元，较 6 月成长 8.9%，较去年同期成长 1 [&#8230;]]]></description>
   </item>
   <item>
-    <title>金像电7月营收月增21.3%</title>
-    <link>https://finance.technews.tw/2026/08/07/gce-2368-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/gce-2368-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:20:08 +0000</pubDate>
-    <description><![CDATA[金像电（2368）公布 7 月合并营收 100.15 亿元，较上（6）月成长 21.3%，与去年同期相比为年增 77.4%；累计其今年前 7 月营收为 536.75 亿元，较去年同期增加 70.3%。]]></description>
+    <title>联钧7月营收月增7.0%</title>
+    <link>https://finance.technews.tw/2026/08/07/elaser-3450-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/elaser-3450-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:30:08 +0000</pubDate>
+    <description><![CDATA[联钧（3450）公布 7 月合并营收 12.19 亿元，较上（6）月成长 7.0%，与去年同期相比为年增 98 [&#8230;]]]></description>
   </item>
   <item>
-    <title>光罩7月营收月减0.7%</title>
-    <link>https://finance.technews.tw/2026/08/07/tmc-2338-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/07/tmc-2338-202607-financial-report/</guid>
-    <pubDate>Fri, 07 Aug 2026 08:20:05 +0000</pubDate>
-    <description><![CDATA[光罩（2338）公布 7 月合并营收 5.05 亿元，较上（6）月成长 -0.7%，与去年同期相比为年增 4. [&#8230;]]]></description>
+    <title>新日兴7月营收月减12.0%</title>
+    <link>https://finance.technews.tw/2026/08/07/szs-3376-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/07/szs-3376-202607-financial-report/</guid>
+    <pubDate>Fri, 07 Aug 2026 10:30:06 +0000</pubDate>
+    <description><![CDATA[新日兴（3376）公布 7 月合并营收 8.11 亿元，较上（6）月成长 -12.0%，与去年同期相比为年增 -10.3%；累计其今年前 7 月营收为 57.95 亿元，较去年同期增加 -12.8%。]]></description>
   </item>
 </channel>
 </rss>
