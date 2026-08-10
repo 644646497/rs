@@ -4,299 +4,187 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 10 Aug 2026 05:13:07 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 09:03:53 GMT</lastBuildDate>
   <item>
-    <title>日经：台积电 Sony 砸 63 亿美元，2029 量产影像晶片</title>
-    <link>https://technews.tw/2026/08/10/sony-tsmc-to-invest-6-3bn-in-advanced-image-sensor-plant-in-kumamoto/</link>
-    <guid>https://technews.tw/2026/08/10/sony-tsmc-to-invest-6-3bn-in-advanced-image-sensor-plant-in-kumamoto/</guid>
-    <pubDate>Mon, 10 Aug 2026 05:00:47 +0000</pubDate>
-    <description><![CDATA[日本经济新闻（Nikkei）今天报导，日本索尼集团（Sony Group）与台湾台积电计划共同投入约 1 兆日圆（约合 63.2 亿美元），生产下一代影像感测器用微晶片。
+    <title>隐藏在核爆沙粒中的秘密，广岛石内挖出实验室无法复制的未知合金</title>
+    <link>https://technews.tw/2026/08/10/the-hiroshima-atomic-blast-created-a-never-before-seen-material/</link>
+    <guid>https://technews.tw/2026/08/10/the-hiroshima-atomic-blast-created-a-never-before-seen-material/</guid>
+    <pubDate>Mon, 10 Aug 2026 09:00:27 +0000</pubDate>
+    <description><![CDATA[1945 年 8 月 6 日上午，日本广岛遭遇原子弹轰炸，造成毁灭性灾难，爆炸中心超过 7,000°C 的高温与极端压力瞬间气化了城市的建筑、金属与土壤。然而，这种极端的非平衡条件，却也意外成为锻造奇异新材料的天然熔炉。
 
-日经指出，这家由索尼持股约6成、台积电持股约4成的合资公司，最快预计2029年在日本南部熊本县开始商业生产。
+近年，佛罗伦斯大学（University of Florence）矿物学家卢卡·宾迪（Luca Bindi）领导的研究团队，在广岛湾沙粒中收集到名为「广岛石」（hiroshimaite）的玻璃状辐射落尘残骸。透过高功率电子显微镜与X射线绕射技术，团队在其中发现了一颗仅10微米大、前所未见的合金晶粒。
 
-路透社报导，两大科技巨擘今年5月宣布，计划在日本成立合资企业，开发并生产新一代影像感测器，结合索尼的感测器设计专长以及台积电在制造与制程上的技术优势。
+这是一种富含矽的合金，含有铁、铬、镍、锰、钼与铝等六种金属，呈现独特的AlAu₄型结构，且处于成为「准晶体」的边缘。它是由气化的城市物质在火球中迅速凝结冷却而成。过去，科学家也曾在人类首枚原子弹「三位一体」核试爆所留下的玻璃碎片中，发现过类似由爆炸合成的准晶体。
 
-当时索尼与台积电也表示，这项合作将探索汽车、机器人等实体人工智慧（AI）应用的相关发展机会。
+这项发表于《科学进展》（Science Advances）的发现深具科学价值。专家指出，这类多成分合金可能具备极佳的机械强度与稳定性，但其极端的形成条件目前在实验室中根本无法重现。核爆就像一场大型平行实验，随机将城市元素重组。
 
-索尼目前是全球最大影像感测器制造商，产品广泛应用于智慧型手机与汽车领域；台积电则是全球最大规模的半导体代工厂。
+这些合金宛如「时间胶囊」，不仅是核子鉴识的重要证据，能帮助还原爆炸瞬间的历史，更为未来设计新型功能性合金提供灵感。虽然要在实验室复制它极具挑战，但正如学者所言：「如果我们根本不知道它的存在，我们甚至不会尝试去合成它。」
 
-对于日经的相关报导，索尼表示不予置评，台积电则尚未立即回应路透社的置评请求。]]></description>
+（首图左为来自日本广岛原子弹爆炸的残骸。研究人员在该颗粒内的一个金属晶粒中，发现一种新型合金；右侧的反射光影像显示了该颗粒中的金属成分，图片来源：Science Advances）]]></description>
   </item>
   <item>
-    <title>三井金属增产 AI 资料中心用铜箔、在台湾盖新厂</title>
-    <link>https://technews.tw/2026/08/10/mitsui-kinzoku-boosts-copper-foil-production-ai-data-centers-new-taiwan-plant/</link>
-    <guid>https://technews.tw/2026/08/10/mitsui-kinzoku-boosts-copper-foil-production-ai-data-centers-new-taiwan-plant/</guid>
-    <pubDate>Mon, 10 Aug 2026 04:50:38 +0000</pubDate>
-    <description><![CDATA[需求增加，日本三井金属鉱业（Mitsui Mining & Smelting、通称 Mitsui Kinzoku）将扩增 AI 资料中心用铜箔产能，其中，三井金属计划在台湾兴建电容材料「FaradFlex」新厂。
-
-三井金属上周五（7日）宣布，为了因应需求增加，计划在2030年度结束前合计投资420亿日圆，扩增使用于AI资料中心等用途的多种铜箔产能，增产对象包含高频基板用电解铜箔「VSP」、半导体用极薄铜箔「MicroThin」以及「FaradFlex」，投资金额分别为70亿日圆、300亿日圆、50亿日圆。
-
-三井金属指出，目前利用台湾工厂（台湾铜箔股份有限公司）和马来西亚工厂（Mitsui Copper Foil（Malaysia）Sdn Bhd）生产「VSP」，之前（2025年11月11日）已宣布将追加扩增台/马工厂「VSP」产能，目标在2028年9月底之前将月产能扩增至1,200吨（台湾860吨、马国340吨），此次计划追加投资70亿日圆，在2030年度将月产能进一步扩增200吨至1,400吨（台湾960吨、马国440吨），届时产能将达现行（2025年度、720吨）的2倍水准。「VSP」主要使用于伺服器、路由器、交换器等高性能通讯基础设施。
-
-在「MicroThin」的部分，三井金属自2025年以来就逐步扩增日本上尾事业所及马来西亚工厂产能，之前在2025年1月7日表示，计划在2030年将月产能提高70万平方公尺（m2）至560万平方公尺，此次借由提前完成上述增产计划，目标在2028年度建构600万平方公尺的月产能体制，之后将进行追加投资，在2030年度将月产能进一步扩增至800万平方公尺。「MicroThin」主要使用于IC基板（IC载板）及智慧手机用主板（HDI PCB）。
-
-另外，三井金属目前利用日本上尾事业所和马来西亚工厂生产「FaradFlex」，而三井金属除计划扩增现有工厂产能外，还计划在台湾兴建新工厂，目标在2030年度将「FaradFlex」月产能扩增至35.5万平方公尺（马国13.5万平方公尺、日本8.5万平方公尺、台湾13.5万平方公尺）、将达2025年度（7.5万平方公尺）的约5倍水准。]]></description>
+    <title>信昌电7月营收月增6.6%</title>
+    <link>https://finance.technews.tw/2026/08/10/p-d-c-6173-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/p-d-c-6173-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 09:00:08 +0000</pubDate>
+    <description><![CDATA[信昌电（6173）公布 7 月合并营收 5.37 亿元，较上（6）月成长 6.6%，与去年同期相比为年增 47 [&#8230;]]]></description>
   </item>
   <item>
-    <title>自住客回归永和抢稀缺地段！友座建设董座陈坤地：七成买盘全是在地人</title>
-    <link>https://finance.technews.tw/2026/08/10/extremely-scarce/</link>
-    <guid>https://finance.technews.tw/2026/08/10/extremely-scarce/</guid>
-    <pubDate>Mon, 10 Aug 2026 04:38:57 +0000</pubDate>
-    <description><![CDATA[新北市永和区市中心指标都市更新案「友座丰禾」今日举办开工动土典礼，友座建设董事长陈坤地表示，都更危老历经 18 年艰辛整合，凭借永和市心极度稀缺的地段优势，全案自开盘以来销售已突破七成，投资客都已不见，全都是在地自住客回归，展现永和强劲的换屋与置产买盘。
-
-陈坤地表示，随著双北市中心土地日益稀缺，都市更新逐渐成为永和未来城市发展的重要方向，尤其永和与台北市仅一桥之隔，邻近捷运且生活机能成熟，但能在市中心取得大面积基地的机会相当有限，因此大型都更案更显珍贵。
-
-陈坤地指出，都更案历经多手建商与股东更迭，团队接手后，耗费 13 年时间，进行沟通与产权整合，过程中不仅需排解地主间的产权争议，更因应法规变迁与市场趋势，从早年规划的大坪数与高比例机械车位，重新变更设计为现今符合市场主流的中小坪数产品。
-
-陈坤地说明，「友座丰禾」基地面积约 545.49 坪，规划地上 28 层、地下 6 层 SRC 钢骨钢筋混凝土住宅大楼，全案总户数 190 户，可售户数约 110 户，总销金额近 40 亿元，锁定换屋族，因为现在投资客都已不见，全都是在地自住客回归。
-
-根据内政部实价登录资料，目前已揭露 64 户成交纪录，全案目前成交近 80 户，实际销售进度突破七成，太扬行销董事长郑博文分析，关键在于永和市中心多年来土地供给有限，大型基地取得不易，尤其中山路沿线精华地段更是稀缺，具备都更条件的新案在市场上相对少见。
-
-郑博文指出，从目前成交结构来看，主要买盘来自在地需求，约七成购屋者来自永和，其余包括中和、新店及台北市客群，以自住及换屋需求为主，相较于新北外围重划区供给多，永和市心具备无可替代的生活机能与捷运利多，买方一旦看到这种「一辈子仅一次」的指标案，出手极为果断。
-
-郑博文分享，近年包括上市建商、大型建商等开发商陆续布局永和，反映市场对区域更新潜力的看好，未来随著老旧街廓逐步改善，住宅环境、城市景观及生活品质可望同步提升，让原本熟悉永和生活圈的居民，不必离开家乡，也能选择符合新世代需求的新住宅。
-
-针对友座建筑双北都市更新的布局规划，陈坤地表示，目前手握六大都更指标案，总销金额突破 200 亿元大关，涵盖双北精华地段，包括永和二期都更案、大同有乐町、新店明明德、大安大学之道、南港区重磅案、内湖金湖案，为未来几年挹注稳健的营收动能。
-
-陈坤地强调，随著双北市中心素地一地难求，都更与危老已成为不动产开发商的主要案源，友座建筑凭借长期深耕协议合建与权利变换的实务经验，正逐步收割多年的整合红利，未来在双北精华区的推案表现值得市场持续关注。]]></description>
+    <title>撼讯7月营收4.79 亿元</title>
+    <link>https://finance.technews.tw/2026/08/10/tul-6150-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/tul-6150-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 09:00:06 +0000</pubDate>
+    <description><![CDATA[撼讯（6150）今（10）日公布 7 月营收，达 4.79 亿元，较 6 月成长 8.0%，较去年同期成长 1 [&#8230;]]]></description>
   </item>
   <item>
-    <title>日本企业高层吁稳定汇率，日圆疲弱加剧进口成本压力</title>
-    <link>https://finance.technews.tw/2026/08/10/japanese-execs-urge-currency-stability-weak-yen-fuels-import-cost-pressure/</link>
-    <guid>https://finance.technews.tw/2026/08/10/japanese-execs-urge-currency-stability-weak-yen-fuels-import-cost-pressure/</guid>
-    <pubDate>Mon, 10 Aug 2026 04:10:20 +0000</pubDate>
-    <description><![CDATA[日本企业高层近日频频警告，汇率剧烈波动及日圆持续疲弱恐对经济构成风险，凸显市场对日圆贬值的担忧，这也是日本与美国上周联手干预汇市、支撑日圆的原因。
-
-日圆疲弱推升进口成本，让仰赖进口的日本经济承受更大压力，就连过去受惠于日圆贬值的出口商也有同感。
-
-日圆7月触及近164日圆兑1美元的40年低点，促使日本与美国联手干预汇市，日圆因此回升约5%。
-
-三菱电机（Mitsubishi Electric）财务长藤本健一郎（Kenichiro Fujimoto）上周接受路透社访问时表示，「影响日本整体经济的问题也会影响我们。日圆疲弱不见得代表一切顺利」。
-
-能源、原物料及食品成本上升，压抑国内需求，也可能阻碍日本逐步走出长达数十年的通货紧缩。
-
-日本贸易振兴机构（JETRO）理事长石黑宪彦（Norihiko Ishiguro）7月在记者会上表示，「虽然日圆走弱对出口有实质好处，但日本企业几乎所有原物料都仰赖进口。（日圆）汇率跌到某个程度，成本反而会上升，因此不能说出口商总是能从日圆疲弱中获益。」
-
-汇率剧烈波动也会打乱企业获利预测，并使投资决策更加复杂。对拥有全球业务的企业而言，即使日圆走弱最终可能提高获利，情况仍是如此。
-
-综合商社三井物产（Mitsui & Co）财务长田中诚（Makoto Tanaka）表示，「我最希望市场稳定、波动程度降低」。三井物产本周公布第1季获利创新高，受惠于日圆疲弱推升海外收入。
-
-另一家综合商社三菱商事（Mitsubishi Corp）的财务长嶋津吉裕（Yoshihiro Shimazu）也表示，「我们确实感受到汇率剧烈波动带来的影响，必要时将调整目前假设的150日圆兑1美元汇率。」
-
-JETRO今年3月公布的1项调查发现，近2成企业认为120至124日圆兑1美元是最理想的汇率区间；只有11%的企业偏好150日圆以上兑1美元的汇率。
-
-然而，日圆升值至上述水准的希望可能正在减弱。三菱电机的藤本健一郎表示，「考量到日本的经济基本面以及贸易收支尚未恢复，我们可能再也看不到120至130日圆兑1美元的汇率。」]]></description>
+    <title>科嘉-KY7月营收月增36.7%</title>
+    <link>https://finance.technews.tw/2026/08/10/ko-ja-5215-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/ko-ja-5215-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 09:00:05 +0000</pubDate>
+    <description><![CDATA[科嘉-KY（5215）公布 7 月合并营收 2.92 亿元，较上（6）月成长 36.7%，与去年同期相比为年增 [&#8230;]]]></description>
   </item>
   <item>
-    <title>AI 算力需求升，寒武纪 H1 获利年增 1.2 倍</title>
-    <link>https://finance.technews.tw/2026/08/10/cambricon-h1-profit-more-than-doubles-year-on-year/</link>
-    <guid>https://finance.technews.tw/2026/08/10/cambricon-h1-profit-more-than-doubles-year-on-year/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:50:18 +0000</pubDate>
-    <description><![CDATA[综合中媒报导，中国人工智慧（AI）晶片设计商寒武纪公布 2026 年上半年营收 59.96 亿元（人民币，下同）、年增 108.13%；毛利率 55%，归属于上市公司股东净利润 23.11 亿元、年增 122.61%。依季度看，第一季净利润 10.13 亿元，第二季净利润进一步攀升至 12.98 亿元、季增 28%，连续两季站稳十亿级水准。寒武纪股价 7 日上涨 2.72%，收于 1,199.93 元，市值 7,539 亿元。
+    <title>中华电携产业伙伴打造无人机物流商业化验证场域</title>
+    <link>https://finance.technews.tw/2026/08/10/cht-drone-2/</link>
+    <guid>https://finance.technews.tw/2026/08/10/cht-drone-2/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:59:51 +0000</pubDate>
+    <description><![CDATA[中华电信携手点点全球、财团法人金属工业研究发展中心、新乐飞无人机及中华系统整合等产业伙伴，共同推动「嘉义亚创无人机物流计划」，在嘉义县打造全台首例于非偏乡地区进行常态化商业运行的无人机物流示范场域。
 
-寒武纪指出，今年上半年人工智慧（AI）算力市场需求稳步攀升，公司依托AI晶片的核心竞争力，持续加强与金融、互联网领域领头企业的深度合作；依托公司的产品能力及务实开放的合作模式，以技术赋能场景落地，以规模化应用带动市场拓展，营收增长显著。
+中华电信指出，透过整合 5G 通讯、智慧物流平台、空中廊道管理及 AI 应用等关键技术，成功建构完整的无人机物流服务模式，为台湾低空智慧物流及无人机商业化发展奠定重要基础。
 
-寒武纪续指，上半年市场对公司产品认可度稳步提升，在金融领域，持续深化与核心金融机构的合作，以稳定可扩展的算力底座支撑大模型在经营优化、服务提效等场景规模化部署，助力客户AI应用落地见效并兑现业务价值。在互联网领域，聚焦大模型、多模态、搜寻推荐等核心应用方向，围绕运算性能优化、通信效率提升与框架能力升级等迭代产品技术，实现对主流AI应用的深度适配，显著提升了互联网典型场景下的产品综合性能；并积极与客户合作，实现规模化训练技术的场景拓展，进一步强化了公司产品和技术的核心竞争力。
+不同于过去无人机物流多以偏乡物资配送、展示活动或单次飞行测试为主，这次的计划透过每日固定配送及持续营运，成功验证无人机物流服务于真实生活情境中的可行性，建立国内低空智慧物流的重要示范案例。
 
-寒武纪今年上半年研发投入逾7亿元、年增29.63%，公司拥有上千人的研发团队，超过员工总人数的80%。寒武纪表示，上半年公司持续加大研发投入，在硬体方面，公司新一代智慧处理器微架构和指令集等正在研发中；在软体方面，公司对基础系统软体平台也进行了优化和迭代。]]></description>
+中华电信表示，无人机物流的关键不只是完成一次飞行任务，而是建构一套能够长期、安全且稳定运作的物流服务模式。透过持续性的配送作业、飞航管理及营运机制，本计划逐步累积低空物流所需的营运经验与关键数据，为未来商业模式推广、低空通讯建设及智慧物流服务发展建立重要基础。
+
+截至目前，这项计划已完成近 1,200 件配送任务，累积约 120 小时飞行时数及 1,100 公里飞行里程，展现无人机物流于真实营运环境中的稳定性与商业应用潜力。同时，也完成 5G 空中廊道、物流配送流程、空域管理机制及消费者使用体验等多项关键应用验证，未来可进一步作为配送效率、营运成本及服务模式优化的重要依据，加速推动无人机物流产业发展。
+
+为提升无人机物流营运效率，中华电信建置全台首条 5G 空中廊道，提供无人机飞行过程中稳定的即时影像传输、飞航控制及远端监管能力，打造安全可靠的低空通讯环境。此外，中华电信研究院自主研发多项无人机创新技术，成功实现多机协同运行模式，可由单一操作人员同时监控多架物流无人机执行配送任务，有效提升整体营运效率。计划亦导入代理式 AI（Agentic AI）技术，应用于任务派遣、飞行监控、异常告警及营运管理等作业，强化物流调度自动化与智慧化管理能力，提升飞行安全与服务品质，为未来大规模商业营运奠定关键技术基础。
+
+中华电信表示，未来将持续携手政府及产业伙伴，拓展园区物流、商圈配送、医疗物资运送、大型活动及公共服务等多元应用场域，加速无人机物流技术落地，推动低空经济产业发展，打造更安全、高效且智慧的物流新未来。]]></description>
   </item>
   <item>
-    <title>AI 让新创「人均产值」创新高，YC 执行长陈嘉兴呼吁工作者打造专属「个人 AGI」</title>
-    <link>https://technews.tw/2026/08/10/y-combinator-ceo-startup-ai-agents/</link>
-    <guid>https://technews.tw/2026/08/10/y-combinator-ceo-startup-ai-agents/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:40:27 +0000</pubDate>
-    <description><![CDATA[Y Combinator 执行长陈嘉兴（Garry Tan）在 Startup School 2026 论坛上指出，AI 正在彻底颠覆企业的运作与成长速度，让新创团队有机会在短短数月内实现惊人的获利。他特别提出「个人 AGI」（通用人工智慧）的概念，呼吁创业者与专业人士将 AI 代理人 (AI Agents) 部署在专属的基础设施中，不仅能跨专案、跨职务重复使用，更能让知识与工作流程产生强大的复利效应。
+    <title>抢课抢到变骇客，AI 自行对健身房预约系统发动网攻</title>
+    <link>https://technews.tw/2026/08/10/ai-agent-go-rogue/</link>
+    <guid>https://technews.tw/2026/08/10/ai-agent-go-rogue/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:51:18 +0000</pubDate>
+    <description><![CDATA[有想过请个生活助理帮你预订健身房课程，结果预约不成，助理就砸了健身房招牌的可能性吗？现在失控的 AI Agent（AI 代理）真的这么做了。
 
-陈嘉兴观察到，最新一期的 YC 团队中，超过四分之一的新创公司已将 AI 代理深度融入开发流程，部分团队甚至有高达 95% 的程式码完全由 AI 生成。他举出了两个极具代表性的案例：
+近年 AI Agent 的自主能力持续提升，但也开始带来超出使用者预期的风险。澳洲近日出现首起已知案例，一名使用者原本只是请 AI 助理代订健身房热门课程，没想到 AI 不仅自行发现预约系统漏洞，还绕过限制完成预约，甚至将排在前面的候补会员移出名单，引发 AI Agent 安全与责任归属的讨论。
 
-陈嘉兴直言，这类惊人的人均产值与成长速度，在过去的软体、石油或铁路产业中根本难以想像。
+据《ABC》报导，事件主角 Andrew 使用热门 AI Agent 软体 OpenClaw（小龙虾），搭配 Anthropic 的 Claude 模型，希望 AI 帮忙预约健身课程；任务交办几分钟后，AI 回报自己找到系统漏洞，不仅突破原本的预约期限限制，还成功提前数周甚至数个月完成预约。
 
-陈嘉兴也大方分享自身经验，表示在引进 AI 代理后，他的个人生产力比 13 年前创业时暴增约 400 倍，且应用范围不仅限于写程式，更涵盖了设计、产品管理与成长骇客等领域。针对想开始实践的创业者，Tan 建议了具体的操作步骤：
+之后，Andrew 询问 AI 是否有办法提高自己在候补名单上的顺位，AI 竟自行取消另一名会员的候补资格，让 Andrew 的排名往前推进。AI 还表示，预约系统 API 缺乏权限验证，因此能直接取消其他人的预约；Andrew 发现后立刻要求 AI 复原，但 AI 回复「无法把对方加回去」。
 
-尽管 AI 代理潜力无穷，陈嘉兴也对在企业体制内的工作者提出严厉警告：「技能档案」的控制权将是未来的最大风险。
+这起事件凸显 AI Agent 与传统聊天机器人的差异，AI Agent 不仅能回答问题，还能透过浏览器、API 等工具自主规划并执行多步骤任务，但也可能自行决定完成目标的方法，而不完全遵循使用者原本的意图。
 
-如果员工将这些心血存放在公司的资料库中，或受制于企业 IT 政策，当离职时可能什么都带不走；留下的，将是公司持续无痛运作的自动化流程与判断力。
+澳洲 AI 安全研究机构 Gradient Institute 执行长 Bill Simpson-Young 指出，这正是 AI 研究领域所称的「对齐问题」（Alignment），使用者设定的是目标，但 AI 则是「不择手段」地选择未经授权甚至违反规范的手段达成目的。
 
-陈嘉兴强调，最关键的核心在于「让 AI 代理运行在个人拥有的基础设施与记忆系统上」。唯有彻底掌握控制权，个人的 AI 数位劳动力才会随著每日的使用与累积，变得越来越强大。
+类似案例近来已不只一起，OpenAI 日前表示，最新 AI 模型在安全测试中曾自主突破隔离环境并存取其他公司的资料；Anthropic 随后也透露，自家模型在测试期间曾成功入侵三个真实组织。随著 AI Agent 能力快速提升，澳洲讯号局（ASD）今年稍早也警告企业与政府，AI Agent 可能误解指令、自行采取非预期行动，并使责任归属变得更加复杂。
 
-（首图来源：Flickr/Web SummitCC BY 2.0）]]></description>
+目前最大的法律问题，在于 AI Agent 若造成损害，究竟应由谁负责。澳洲律师 Hayden Delaney 指出，AI 并非法律上的主体，因此责任可能落在使用者、AI Agent 软体开发商、AI 模型供应商，甚至是存在漏洞的系统营运者，仍须依个案判断。
+
+事件发生后，Andrew 并未停止使用 AI，而是要求 AI 撰写一封电子邮件，通知健身房预约系统供应商存在这项安全漏洞，并在确认内容后寄出，希望协助业者完成修补。]]></description>
   </item>
   <item>
-    <title>美国中西部大旱，连蚊子都没了</title>
-    <link>https://technews.tw/2026/08/10/a-severe-drought-in-the-u-s-midwest-has-wiped-out-even-the-mosquitoes/</link>
-    <guid>https://technews.tw/2026/08/10/a-severe-drought-in-the-u-s-midwest-has-wiped-out-even-the-mosquitoes/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:40:04 +0000</pubDate>
-    <description><![CDATA[夏天似乎少不了恼人的蚊子，但今年美国部分地区却出现反常景象。美国西部和中西部多州蚊子数量下降约50%，科罗拉多州部分专家甚至估计减少高达70%。然而科学家警告，蚊子变少未必值得高兴，背后反映的可能是日益严重的干旱与气候异常，蚊媒疾病风险也不一定跟著下降。
+    <title>避传统海运要道，中企推「冰上丝路」北极货柜新航线</title>
+    <link>https://technews.tw/2026/08/10/chinese-firms-launch-new-arctic-ice-silk-road-container-route-bypassing-traditional-shipping-lanes/</link>
+    <guid>https://technews.tw/2026/08/10/chinese-firms-launch-new-arctic-ice-silk-road-container-route-bypassing-traditional-shipping-lanes/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:50:29 +0000</pubDate>
+    <description><![CDATA[中国货柜航运公司「海杰航运」将启用首条北极定期货柜航线「冰上丝路」，趁夏季融冰无须破冰船，有望将原需 40 天的欧亚航程缩短一半，成为规避地缘政治危机的航运新选择。
 
-一名四年前从加州搬到明尼苏达州的居民表示，当地蚊子原本多得超乎想像，但今年夏天至今甚至完全没有使用过驱蚊剂。
+英国《金融时报》（Financial Times）报导，随著极地冰层融化缩短欧亚之间的航程，加上船只亟欲绕开传统海运要道，北极正逐渐成为全球传统航线的可行替代选择。
 
-主要原因是干旱。今年美国西部与中西部多地降雨不足，冬季积雪偏少，不仅加剧缺水，也助长野火。7月初，明尼苏达只有约四分之一土地未受到异常干燥或干旱影响，其中18%处于中度干旱、11%达严重干旱。科罗拉多情况更加极端，今年冬季积雪量创近数十年低点，积雪高峰比正常提早约一个月，州政府6月宣布全州进入干旱紧急状态。
+这条每周一班的新航线，将沿俄罗斯北部海岸行驶，往来于中国东海岸宁波和英国费利克斯托（Felixstowe）之间，并命名为「冰上丝路」（Ice Silk Road），呼应昔日连结中国与欧洲的丝绸贸易路线。
 
-明尼苏达都会区蚊虫防治单位指出，2026年冬末积雪偏少，春季融雪未形成大量积水，加上5月至6月初持续干燥，使当地常见的「洪水型蚊子」大量虫卵无法孵化，诱蚊器捕获量一度甚至只有过去10年同期平均的约十五分之一。
+若按以往航线，两港之间航行时间长达40天，而新航线则可节省约一半时间，但仍得视北极圈内的气候条件而定。得益于夏季海冰融化，船只无需具破冰能力也能通行。
 
-洪水型蚊子的卵可以在土壤中休眠很长时间，直到降雨或融雪淹没低洼地才大量孵化。干旱使水坑、湿地边缘及暂时性积水减少，幼虫失去生长环境，数周后成蚊数量自然骤降。
+尽管北极地区控制权仍存在地缘政治竞争，航运公司对这条航线的兴趣仍日益浓厚，认为这是绕过曼德海峡（Bab el-Mandeb）等海运要道的途径。
 
-干旱引发的野火也可能局部影响蚊子。火灾烧毁植被，改变湿地及林间小水域，加上高温与烟雾，使部分成蚊死亡或离开，幼虫栖地也可能消失。不过专家认为，今年大范围蚊量下降的主要原因仍是缺水，而非野火本身。
+这条连结欧亚的「北方海路」（Northern Sea Route）共分为28个区段，由俄罗斯国营核子企业（Rosatom）旗下的北方海路管理局管控，根据北极冰况制定不同通行指引，并核发通行许可。
 
-蚊子变少不代表蚊媒疾病一定下降，科学家尤其关注西尼罗河病毒。干旱期间，可利用的水源愈来愈少，蚊子与鸟类被迫集中在少数残存水体附近，而鸟类正是西尼罗河病毒的重要宿主，两者接触更加频繁，反而可能提高病毒在鸟类与蚊子之间传播的机会，再由受感染蚊子传给人类。
+尽管丹麦航运巨头马士基（Maersk）早在2018年就派出首艘货柜船穿越北极航线，往来海参崴和圣彼得堡，但马士基和许多欧洲企业随后承诺不再走这条航线，以防破坏脆弱的北极生态系统。
 
-而且低蚊量可能只是暂时的，尚未孵化的蚊卵仍留在土壤中，一场大雨就可能重新制造大量积水，让蚊子迅速反弹。长期来看，暖化也正在延长蚊子的活动季节。非营利研究机构气候中心指出，美国目前每年适合蚊子活动与繁殖的气温条件，比50年前平均增加约18天。
+曾任加拿大环境部长的吉尔伯（Steven Guilbeault）指出：「全球暖化对北极的冲击相当惊人。气候变迁将加剧北极的安全风险，尤其当愈来愈多不属于北极国家的船只进入北极地区。」
 
-因此科学家认为，今年少见的「无蚊夏天」，未必是好消息。蚊子暂时消失的背后，反映的可能是干旱、野火与极端降雨交替出现的新气候环境，而只要大雨重新到来，牠们也可能很快卷土重来。]]></description>
+业界对北极航运的需求，也带动破冰等级船舶订单增加。海事数据公司Veson Nautical资料显示，去年共有167艘破冰级船只建成，创下10多年来最多，今年预计再建164艘。
+
+然而，北极对海员而言仍存在严峻挑战，他们需要拥有在冰区航行的经验，因为GPS在如此高纬度地区可能无法正常运作，他们得在没有GPS的环境下穿越冰原。]]></description>
   </item>
   <item>
-    <title>信用市场敲警钟！甲骨文 CDS 保费创新高，博通、辉达信用风险亦攀升</title>
-    <link>https://finance.technews.tw/2026/08/10/investors-are-worried-about-big-techs-debt/</link>
-    <guid>https://finance.technews.tw/2026/08/10/investors-are-worried-about-big-techs-debt/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:30:01 +0000</pubDate>
-    <description><![CDATA[随著大型科技公司持续加码AI基础建设，市场对其债务与融资成本的疑虑升温。根据财经机构The Kobeissi Letter在社群平台X贴文指出，甲骨文5年期信用违约交换（CDS）保费于今年大幅升高，甚至创历史新高，其次则为博通。
-
-该机构指出，甲骨文5年期CDS今年以来大幅上升70个基点，来到约215个基点，创下历史新高，也是大型科技公司中升幅最大的企业；其次为博通，5年期CDS同期上升约48个基点；Meta的5年期CDS则上升约39个基点至95个基点，创下自2025年10月交易来新高。
-
-辉达5年期CDS年初至今也上升约32个基点，目前约82个基点，同样创下自2025年11月开始交易以来的新高。此外，亚马逊与Google母公司Alphabet 5年期CDS分别上升约30个基点与29个基点，显示市场对科技巨头的信用风险态度正转向保守。
-
-信用违约交换（Credit Default Swap，简称CDS）是市场衡量企业信用风险的重要指标，主要是投资者用来规避发行人的信用风险（违约风险），CDS报价数值越高，代表发生信用违约的机率越高，卖家要求支付更多保费。虽然CDS上升不代表企业即将出现违约，但在大型科技公司大举扩张资本支出下，市场更关注企业的负债规模与未来融资能力。
-
-该机构指出，大型科技公司今年已发行约2,000亿美元公司债，几乎是2025年全年发债总额的两倍。随著科技巨头持续投入庞大资金抢攻AI市场，信用市场的态度似乎更担心这场AI军备竞赛所需的融资成本。
-
-与此同时，美国四大云端服务供应商Google、亚马逊、微软与Meta自2023年AI热潮兴起以来，累计资本支出已突破1兆美元，市场预估，四家公司今年全年资本支出将进一步攀升至约7,450亿美元，其中Google与亚马逊本季更双双上调全年投资计划，显示AI基础建设竞赛仍持续升温。
-
-RBC Capital分析师Rishi Jaluria表示，目前看不到大型科技公司资本支出成长的终点，市场关注的不再只是企业是否持续投资AI，而是如何在大举投资的同时，维持既有业务的获利能力与股东报酬。
-
-Investors are worried about Big Tech’s debt.
-
-Oracle’s,$ORCL, 5-year credit default swap (CDS) has surged +70 basis points year-to-date, to a record ~215 basis points, the largest increase among Big Tech companies.
-
-This is followed by Broadcom,$AVGO, whose 5-year CDS has risen…pic.twitter.com/2lt0eAfWrz
-
-— The Kobeissi Letter (@KobeissiLetter)August 8, 2026]]></description>
+    <title>圣晖*7月营收月减18.6%</title>
+    <link>https://finance.technews.tw/2026/08/10/acter-5536-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/acter-5536-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:50:14 +0000</pubDate>
+    <description><![CDATA[圣晖*（5536）公布 7 月合并营收 38.85 亿元，较上（6）月成长 -18.6%，与去年同期相比为年增 [&#8230;]]]></description>
   </item>
   <item>
-    <title>特斯拉日本卖太好，要扩增交车据点</title>
-    <link>https://technews.tw/2026/08/10/tesla-japan-expanding/</link>
-    <guid>https://technews.tw/2026/08/10/tesla-japan-expanding/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:22:52 +0000</pubDate>
-    <description><![CDATA[特斯拉在日本的需求快速增加，最新消息指出他们将大幅扩充交车中心，才能赶得上这波买气。
-
-目前特斯拉在日本一共有 7 处交车中心，他们预计在本月于横滨、神户各启用一座新交车据点，年底前还要在东京都范围内，以及名古屋再各开一座，让交车中心数量从 7 处直接暴增到 11 处。
-
-特斯拉在日本的营运模式跟传统车厂不同，他们的展售门市不提供交车服务，只做展示跟客户沟通，签约跟付款都在线上进行，交车则要到专门的交车中心，或是选择「到府交车」，借此节省空间成本，不存在门市交车的选项。
-
-2022 年时，特斯拉日本年销量达到 5,900 辆，是当时的最高纪录，但 2026 上半年特斯拉在日本的销售数字已经突破 12,000 辆，超越去年全年销量，今年可能会是三年前的 3 倍。
-
-▲ 日本政府补贴 127 万日圆，东京都还有加码 70 万日圆，让特斯拉销售大增。
-
-推升销售的两个主要动力，当然还是跟钱有关。日本政府提供了高额度的电动车补贴，同时特斯拉日本推出 6 月底前交车，赠送三年免费超充的优惠，如此高的诱因，使得今年光是 6 月，日本特斯拉销量就冲到 4 千辆。
-
-也因为订单过多，特斯拉日本只好将免费超充的交车期延后到 9 月，让新的交车中心来帮忙分摊压力。
-
-除了交车中心要扩充，特斯拉甚至也不得不追加两个港口来帮忙进口车辆，让全年最大进口量倍增到 4.8 万辆。
-
-还记得几年前曾经报导过，特斯拉在日本的困境之一，是因为车辆太宽，日本的道路、停车格都偏小，让特斯拉比较难行驶。在停售 Model S、Model X 之后，现在销售主力全放在 Model 3、Model Y 上，车身尺寸稍微小一些，价位低很多，搭配补助与优惠，似乎足以弥补消费者的心理，而冲出亮眼成绩。]]></description>
+    <title>瀚宇博7月营收65.90 亿元</title>
+    <link>https://finance.technews.tw/2026/08/10/hsb-5469-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/hsb-5469-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:50:11 +0000</pubDate>
+    <description><![CDATA[瀚宇博（5469）今（10）日公布 7 月营收，达 65.90 亿元，较 6 月成长 12.7%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>USB-C 之前 NASA 就统一过充电器，改造 ISS 笔电没用数据机孔变成充电孔</title>
-    <link>https://technews.tw/2026/08/10/nasa-modded-space-stations-laptops-so-everyone-could-use-the-same-charger/</link>
-    <guid>https://technews.tw/2026/08/10/nasa-modded-space-stations-laptops-so-everyone-could-use-the-same-charger/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:20:28 +0000</pubDate>
-    <description><![CDATA[近日外媒报导 NASA 一段鲜为人知的太空电脑改装史：为了让国际太空站（ISS）笔电能共同充电方式，工程团队将原本无用的数据机埠改成统一电源接头，避免携带多种充电器，也减少额外重量与潜在故障点。
-
-工程师 George Roush 说，这项设计核心是把笔电统一为单一「cannon plug」电源规格，让访客与太空人都能直接插太空舱的直流电源。由于 ISS 并不需要传统电话数据机埠，NASA 便将这些接口移除，改装成新供电端口。这类改装据称由洛克希德‧马丁负责，对象包括 ThinkPad 等送上太空的机型；而 ISS 通讯与网路则靠 MIL-STD-1553 系统，而非乙太网路。
-
-NASA drilled a cannon plug into their laptop for ethernet instead of using the stock port.
-
-Does anyone know why?pic.twitter.com/Li0ByK2tAX
-
-— George Roush (@GeorgeRoush)August 2, 2026
-
-这段历史也反映 ISS 建造年代的技术背景。由于太空站是 1990 年代末期建造，当时数据机仍是个人电脑常见配备，首批太空人 2000 年进驻。Roush 参观 NASA Stennis 旅客中心时拍到照片，但他也注意到，现场对这些笔电与改装细节的说明相当有限；他查找旧资料时发现不少网页也消失了，感叹早期网路历史还是随著网站关闭而流失。
-
-不过，ISS 电脑设备已有更新。4 月有超过 100 台 HP Z Workstations 送上太空，搭载 Core Ultra 9 处理器与 RTX Pro Blackwell 显示晶片。HP 表示，这些设备部署前经过两年严格测试，并同样采用通用 AC / DC 电源转接器，以便 ISS 与地球都能用。]]></description>
+    <title>宣德7月营收月增15.5%</title>
+    <link>https://finance.technews.tw/2026/08/10/speed-tech-5457-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/speed-tech-5457-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:50:06 +0000</pubDate>
+    <description><![CDATA[宣德（5457）公布 7 月合并营收 20.16 亿元，较上（6）月成长 15.5%，与去年同期相比为年增 - [&#8230;]]]></description>
   </item>
   <item>
-    <title>Google 更改骇客组织命名规则，「随机名＋国别」取代传统 APT 编号</title>
-    <link>https://infosecu.technews.tw/2026/08/10/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/</link>
-    <guid>https://infosecu.technews.tw/2026/08/10/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:20:23 +0000</pubDate>
-    <description><![CDATA[Google 近期调整旗下对骇客组织的命名方式，改以更容易辨识的「随机名字＋国别代号」取代过去常见的 APT 编号系统。Google Threat Intelligence Group 技术长 Shane Huntley 表示，这项改版是为了让公司内外的安全研究人员更清楚地辨识不同威胁群组，也方便在事件发生时更快掌握攻击者的行为模式。
+    <title>韩总统李在明要求「闪电般速度」推动 AI 与半导体投资，利益全民共享</title>
+    <link>https://finance.technews.tw/2026/08/10/lead-lee-urges-earliest-possible-implementation-of-ai-related-investment-projects/</link>
+    <guid>https://finance.technews.tw/2026/08/10/lead-lee-urges-earliest-possible-implementation-of-ai-related-investment-projects/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:40:42 +0000</pubDate>
+    <description><![CDATA[韩国总统李在明今日主持第二次「三大超级计划」进度检讨会，要求政府以「闪电般速度」推动人工智慧（AI）相关大型投资案，并透过松绑管制、同步办理行政程序，尽快落实半导体产业聚落、实体 AI 与 AI 资料中心等布局。
 
-过去十多年来，资安产业一直替各类骇客团体取名，但不同公司往往各自采用不同标准，导致即使是业内人士也不容易追踪谁是谁。Google 指出，随著其追踪的「活动丛集」已超过 5,000 个，原本以数字为主的命名方式已不敷使用。新制度下，群组名称会由一个容易记住的随机字词，加上一个代表来源国的第二字组成，例如中国对应 Castle、伊朗对应 Ion、北韩对应 Neptune、俄罗斯对应 Relic。
+李在明表示，政府必须动员一切可行手段，加速推进6月底公布的三项重大投资计划，核心目标是把成长动能分散到全国各地，让地方成为未来产业的新中心。他强调，相关成果不应只集中少数企业或特定地区，而应让整体社会共享发展利益。
 
-Huntley 强调，替骇客命名并非单纯的分类工作，而是为了建立共同基准，让组织能更快辨识威胁、提前防范，并在遭遇入侵后迅速调查与应对。他也提到，若能掌握某个攻击者过去的手法、目标与行动模式，对防御与事件处理都至关重要。相较之下，国家支持的骇客通常较容易追踪，因为其目标与活动较一致；网路犯罪集团、受雇骇客与间谍软体业者则因成员流动与客户分散而更难掌握。
+半导体聚落部分，三星电子与SK海力士已承诺合计投资800兆韩圜，成为光州及湖南地区迄今规模最大单一投资案。政府已将光州军用机场划为预定基地，李在明并指示，应在2028年前把军用机场功能移转至其他临时设施，以利当地机场加速转型为半导体生产枢纽。
 
-对于外界常问「为何不同公司不直接共用同一套代号」，Huntley 认为这在现实中难以做到，因为每家机构掌握的资料与监测范围不同，不可能拥有完全相同的视角。随著 Google 将原本的 Threat Analysis Group 与 Mandiant 的命名系统整合，外界至少少记一套规则，但资安圈要面对的骇客群组数量，显然仍在持续增加。]]></description>
+这场会议也是李在明自上任后，针对三大超级计划主持的第二次进度检讨。与会官员与企业代表将就电力、用水、许可程序与法规调整等关键瓶颈交换意见，并研议如何缩短整体建设时程。李在明并表示，明年将是决定韩国能否迎向全新局面的「黄金时刻」，呼吁政府全力以赴，避免行政延宕拖慢投资落地。
+
+（首图来源：Flickr/Republic of KoreaCC BY 2.0）]]></description>
   </item>
   <item>
-    <title>美网安企业称 Kimi K3 安全测试中突破沙盒，未发动攻击</title>
-    <link>https://infosecu.technews.tw/2026/08/10/us-cybersecurity-firm-kimi-k3-sandbox-breach-security-test-no-attack/</link>
-    <guid>https://infosecu.technews.tw/2026/08/10/us-cybersecurity-firm-kimi-k3-sandbox-breach-security-test-no-attack/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:15:37 +0000</pubDate>
-    <description><![CDATA[综合中媒及港媒报导，据美国《连线》杂志报导，美国网路安全新创企业 Frontier Security 表示，公司测试月之暗面 Kimi K3 模型网路安全能力时，发现该模型离开了约束它的「沙盒」（隔离测试环境）。
-
-据悉，本次AI逃逸事件与OpenAI、Anthropic类似，直接原因也是用于隔离模型的沙盒配置有误。Frontier Security认为，Kimi相较其他前瞻AI模型缺少网路防护机制，使这款模型能够在未经明确授权的情况下访问网路。
-
-Frontier Security首席执行长Yaron Singer对此表示，有发现沙盒存在漏洞，但Kimi也利用了这个漏洞，这表明它可能没有其他同级模型的内部安全机制；不过，Kimi K3在突破沙盒后并没有尝试入侵外部网站，而是在GitHub上寻找一个问题的答案。
-
-最近越来越频发的AI逃逸事件表明，AI能力越强，人类越难控制它们。OpenAI曾在上月披露指出，公司内部未公开的模型曾在测试过程突破隔离环境，随后攻击了Hugging Face平台。后续Anthropic也表示，旗下多个模型曾在安全测试期间获得了网路存取权限，并攻击了外部系统。
-
-部分网路安全专家对此表示，本次发现表明人类需要为前瞻AI模型重新配置沙盒环境，并且使用OpenClaw（龙虾）等智慧体的用户们需要谨慎配置环境，防止AI越界。]]></description>
+    <title>康控-KY7月营收2.04 亿元</title>
+    <link>https://finance.technews.tw/2026/08/10/concraft-4943-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/concraft-4943-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:40:09 +0000</pubDate>
+    <description><![CDATA[康控-KY（4943）今（10）日公布 7 月营收，达 2.04 亿元，较 6 月成长 7.3%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>引入矽谷「逃逸速度」，美军加速开放国防新创公司使用飞弹试射靶场</title>
-    <link>https://technews.tw/2026/08/10/us-army-speeds-up-applications-for-defense-start-ups-to-use-missile-ranges/</link>
-    <guid>https://technews.tw/2026/08/10/us-army-speeds-up-applications-for-defense-start-ups-to-use-missile-ranges/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:15:35 +0000</pubDate>
-    <description><![CDATA[为了加快将具潜力的民间军工科技纳入采购供应链，美国陆军正式宣布开放 4 座本土试验场与 1 座海外测试场，允许业者使用自筹的「内部研究与开发」（Internal Research and Development, IRAD）资金，在其靶场进行自主研发的拦截飞弹实弹发射测试。
-
-这项新政策旨在打破军方长达数十年的行政藩篱，将过去动辄长达一年以上的测试等待期，大幅压缩至 30 天以内。
-
-美国陆军部长德瑞斯科（Dan Driscoll）表示，目前国防企业，特别是规模较小、非传统的国防新创公司（Nontraditional Vendors），往往需要等待 12 至 18 个月，才能在白沙飞弹靶场（White Sands Missile Range）等热门试验场抢到测试排程。
-
-德瑞斯科直言这样的效率绝对不符合时宜，若观察乌克兰在战场上展现的「迫于需要的创新」，其速度几乎已经追上商业科技领域，因此美国陆军现在要做的，就是打破过去几十年来自己设下的每一道障碍。
-
-为了解决这项缺点，美陆军推出了全新的测试申请网站，提供「管家式服务（Concierge Access）」，目标是在业者提出申请后的 30 天内安排进入靶场测试。
-
-根据美国陆军测试与评估司令部司令盖登少将（Patrick Gaydon）说明，本次开放 IRAD 测试的 4 座本土靶场，分别位于密西根州的葛雷林营（Camp Grayling）、密西西比州的谢尔比营（Camp Shelby）、犹他州的达格威试验场（Dugway Proving Ground），以及亚利桑那州犹马试验场内未充分利用的西希博拉分区（West Cibola, Yuma Proving Ground）。
-
-至于唯一的海外靶场，则是位于摩洛哥的「多领域训练区」（Multidomain Training Area）。该设施是美军非洲司令部与摩洛哥皇家武装部队上个月签署合作备忘录后成立的「非洲多领域训练与实验中心」核心项目之一。
-
-德瑞斯科透露，美国国防新创公司 Covenant Industries 刚于上周四在摩洛哥靶场成功试射旗下的 Anthem 拦截飞弹。Covenant 高层丹伯格（Abby Denburg）表示，公司正准备在 2027 年初启动量产线并交付成品，将 Anthem 飞弹交到第一线作战人员手中。
-
-虽然开放飞弹试射场地，但美国陆军这项计划并不会对企业提供差旅或住宿补助，德瑞斯科直言，这项机制并非要帮资金不足或技术尚不成熟的构想拔苗助长，而是要引进矽谷新创圈所谓的「逃逸速度」（Escape Velocity）概念。
-
-「逃逸速度」借用自物理学，指创业公司、产品或技术在经历早期缓慢且烧钱的挣扎后，突破市场引力、实现指数级自我增长与甩开竞争对手的关键爆发点。
-
-当一款产品切入正确市场时，积压的庞大需求会瞬间爆发，即便产品还处于最简可行产品（MVP）阶段，销量也会直线飙升。美陆军希望透过这套机制释放市场积压已久的研发能量，并在未来将开放靶场数量倍增，不仅开放给美国本土业者，也欢迎全球盟国的国防企业共同参与，借此在军事科技上持续超越潜在威胁。
-
-（首图来源：Darrell Ames, Public domain, via Wikimedia Commons）]]></description>
+    <title>和硕7月营收月减5.8%</title>
+    <link>https://finance.technews.tw/2026/08/10/pegatron-4938-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/pegatron-4938-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:40:08 +0000</pubDate>
+    <description><![CDATA[和硕（4938）公布 7 月合并营收 860.15 亿元，较上（6）月成长 -5.8%，与去年同期相比为年增 11.6%；累计其今年前 7 月营收为 6,045.68 亿元，较去年同期增加 -2.0%。]]></description>
   </item>
   <item>
-    <title>亚马逊 AI 资料中心采用私有电网，7.65 GW 燃气电力上阵</title>
-    <link>https://technews.tw/2026/08/10/amazon-7-65gw-natural-gas-power-us-largest-ai-data-center-project/</link>
-    <guid>https://technews.tw/2026/08/10/amazon-7-65gw-natural-gas-power-us-largest-ai-data-center-project/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:12:30 +0000</pubDate>
-    <description><![CDATA[AI 资料中心用电需求持续攀升，科技巨头开始直接寻找大型独立电源。亚马逊正在美国德州佩科斯郡（Pecos County）推动大型 AI 资料中心计划，并为园区导入 GW Ranch 私有电力系统，天然气发电规模最高可达 7.65 GW。
-
-GW Ranch 由 Pacifico Energy 开发，今年 1 月已取得德州环境品质委员会（TCEQ）核发的空污许可，允许兴建及营运最高 7.65 GW 天然气发电设施。Pacifico 规划第一期先建置约 1 GW 发电容量，预计 2027 年上半年开始供电，后续可逐步扩大至 5 GW 以上，以支应大型 AI 与超大规模资料中心用电。
-
-除了天然气发电，GW Ranch 整体能源规划还包括 1.8 GW 电池储能系统及 750 MW 太阳能，园区占地超过 8,000 英亩。天然气供应方面，Pacifico 规划多条供气管线，其中包括一条约 15 英里长、每日输送能力达 10 亿立方英尺的天然气管线，直接连接西德州重要天然气枢纽 Waha，以确保大型资料中心长时间稳定供电。
-
-与传统资料中心向公共电网申请接电不同，GW Ranch 采取私有电网模式，透过场内天然气发电、太阳能及储能直接供应资料中心，不依赖德州公共电网。
-
-随著大型 AI 资料中心动辄需要数百 MW、甚至 GW 级电力，电网接入与输电基础设施建设时间逐渐成为开发瓶颈，自建电源则可让业者更快取得所需电力。亚马逊也表示，园区不会将相关电力成本转嫁给德州一般用户。
-
-不过，大规模采用天然气发电，也让亚马逊的减碳承诺再次受到检视。根据德州主管机关核发的空污许可，GW Ranch 全面运转后，每年二氧化碳排放许可上限可达约 3,300 万吨，虽然不代表未来实际排放量一定会达到上限，但如此庞大的规模仍引发外界关注。
-
-亚马逊目前仍维持 2040 年达成净零碳排的承诺，随著 AI 算力与资料中心持续扩张，如何在快速取得稳定电力与减碳目标之间取得平衡，也成为这项大型计划受到关注的焦点。
-
-（首图来源：Flickr/Web SummitCC BY 2.0）]]></description>
+    <title>日月光投控7月营收月增12.2%</title>
+    <link>https://finance.technews.tw/2026/08/10/aseh-3711-202607-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/08/10/aseh-3711-202607-financial-report/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:40:05 +0000</pubDate>
+    <description><![CDATA[日月光投控（3711）公布 7 月合并营收 737.84 亿元，较上（6）月成长 12.2%，与去年同期相比为年增 43.2%；累计其今年前 7 月营收为 4,385.09 亿元，较去年同期增加 25.1%。]]></description>
   </item>
   <item>
-    <title>海韵电7月营收1.49 亿元</title>
-    <link>https://finance.technews.tw/2026/08/10/sea-sonic-6203-202607-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/08/10/sea-sonic-6203-202607-financial-report/</guid>
-    <pubDate>Mon, 10 Aug 2026 03:10:05 +0000</pubDate>
-    <description><![CDATA[海韵电（6203）今（10）日公布 7 月营收，达 1.49 亿元，较 6 月成长 6.1%，较去年同期成长  [&#8230;]]]></description>
+    <title>AI 电源需求旺！台达电 7 月营收 670.73 亿元再创新高</title>
+    <link>https://finance.technews.tw/2026/08/10/delta-electronics-july-revenue-new-high-power-components-57-share/</link>
+    <guid>https://finance.technews.tw/2026/08/10/delta-electronics-july-revenue-new-high-power-components-57-share/</guid>
+    <pubDate>Mon, 10 Aug 2026 08:37:57 +0000</pubDate>
+    <description><![CDATA[AI 资料中心需求持续升温，带动台达电 7 月营收再创新高。台达电今（10）日公布 7 月合并营收达 670.73 亿元，月增 2.2%、年增 47.7%；累计今年前 7 月营收达 4,096.82 亿元，较去年同期成长 42.1%。其中，电源及零组件营收占比进一步攀升至 57%，较 6 月的 50% 明显提高。
+
+从四大业务来看，台达电 7 月电源及零组件营收占比达 57%，基础设施占 32%，自动化占 7%，交通则占 4%。相较 6 月电源及零组件占比为 50%、基础设施为 37%，7 月营收结构进一步向电源及零组件集中。
+
+AI 资料中心仍是台达今年重要成长引擎。台达董事长郑平日前于第二季法说会表示，目前 AI 资料中心建置需求依旧强劲，短期内看不到停下来的迹象，加上第三季通常进入较高的出货水准，因此看好下半年营运表现将优于上半年。
+
+随著 AI 伺服器机柜功率持续攀升，资料中心供电架构也进入新一轮升级。台达目前 ±400 VDC 及 800 VDC 高压直流供电产品已陆续进入量产阶段，搭配既有伺服器电源、Power Shelf、备援电池（BBU）及散热产品，持续扩大 AI 资料中心产品线。
+
+台达预估，今年 AI 相关产品营收占比可望达 25%，随著 AI 电源及散热产品出货放量，液冷散热营收占比也有望由去年的 10% 提升至 12%。在 AI 晶片功耗与机柜功率持续提高下，电源转换效率与液冷散热需求同步增加，也成为台达下半年营运的重要观察重点。
+
+因应客户中长期需求，台达也同步扩大全球产能。郑平表示，当客户与台达共同开发产品后，公司必须提前准备相应产能，因此目前持续在泰国、中国及美国扩产。其中，泰国明年预计有 3 座新厂完工，既有泰国一厂也正拆除重建，完成后产能可望较原先大幅提升。
+
+除了 AI 资料中心，台达也将能源基础设施视为下一阶段成长方向。郑平指出，公司在部分市场的市占率仍有相当大的提升空间，未来除 AI 资料中心外，也看好能源基础建设、微电网、绿电等领域。随著 AI 客户需求延续，加上新一代高压直流电源逐步量产及全球产能持续扩充，台达下半年营运动能仍值得关注。]]></description>
   </item>
 </channel>
 </rss>
