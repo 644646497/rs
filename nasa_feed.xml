@@ -4,7 +4,39 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 12 Aug 2026 18:51:50 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 01:16:55 GMT</lastBuildDate>
+  <item>
+    <title>美国宇航局数据帮助商业太空计划以月球为生</title>
+    <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/</link>
+    <guid>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-data-helps-commercial-space-plan-living-off-our-moon/</guid>
+    <pubDate>Wed, 12 Aug 2026 20:40:27 +0000</pubDate>
+    <description><![CDATA[贫瘠的月球景观拥有一些重要的资源，例如水和铁、钛等矿物质，但提取和加工它们需要特殊设备。在哪里可以找到这些资源将决定在哪里着陆以及如何开采它们。为了帮助实现这一目标，月球站公司正在多种计算机模型中使用大量 NASA 数据。
+
+月球站首席执行官布莱尔·德威特 (Blair DeWitt) 表示：“凭借 60 年的月球数据，我们可以帮助客户了解月球上任何特定位置的环境因素。”整合来自美国宇航局和其他航天机构使用的不同传感器的不同数据是关键的第一步。这家总部位于马萨诸塞州剑桥的公司用于绘制地形图的 NASA 资源之一是艾姆斯立体管道 (Ames Stereo Pipeline)。开源代码自动处理从卫星、机器人漫游车、历史图像等捕获的图像，以创建显示岩石位置和海拔等特征的 3D 模型。
+
+但美国宇航局休斯顿约翰逊航天中心原位资源利用系统能力负责人格里·桑德斯表示，任何地点的原位月球水资源的可用性在很大程度上都是未知的。为了开始填补这一空白，月球陨石坑观测和传感卫星被设计为在 2009 年将其上部阶段撞入月球南极。对由此产生的羽流的检查发现了水冰的存在。
+
+月球站正在这项工作的基础上进一步帮助商业航天公司进行任务规划，其中包括采矿作业的科学研究。 MoonHacker 计划使用专有的地理空间分析平台和先进算法来融合 NASA 行星数据系统中的所有月球数据，以帮助识别月球水浅坑的指标。
+
+“我们可以找到着陆场地点，为漫游寻找最佳路径，并告知我们的客户有关通信的信息。如果你在极地地区或月球背面等特定位置看不到地球，你就必须制定中继策略，”德威特说。 “我们能够做到这一点部分要归功于美国宇航局的数据。”
+
+在 MoonHacker 的辐射模拟器中，公司流动站或卫星的电子版本（称为数字孪生）可以在途中或在任务地点受到辐射，以确定所需的保护。
+
+这些创新体现了美国宇航局研究和技术任务理事会技术转让计划的目的，该计划利用天基解决方案来改善地球上的生命。 50 年来，NASA 通过该机构的衍生出版物记录了太空技术的日常好处。
+
+什么是行星数据生态系统？行星科学部信息和数据政策 (PDF) NASA 定义了行星数据生态系统……
+
+什么是LCROSS？美国宇航局的月球陨石坑观测和传感卫星（LCROSS）与月球勘测轨道飞行器一起发射，以确定……]]></description>
+  </item>
+  <item>
+    <title>2026 年西班牙日全食</title>
+    <link>https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/</link>
+    <guid>https://www.nasa.gov/image-article/2026-total-solar-eclipse-in-spain/</guid>
+    <pubDate>Wed, 12 Aug 2026 20:08:28 +0000</pubDate>
+    <description><![CDATA[2026 年 8 月 12 日星期三，在西班牙圣米兰德洛斯卡巴列罗斯 (San Millán de los Caballeros) 看到日全食。日全食（月球经过太阳和地球之间，完全挡住了太阳的表面）席卷了格陵兰岛、冰岛、俄罗斯北部、大西洋、西班牙和葡萄牙的一个小角落。美国部分地区、加拿大大部分地区、欧洲大部分地区和非洲西北部都可以看到日偏食。
+
+在 NASA 的 YouTube 频道上重温日食。]]></description>
+  </item>
   <item>
     <title>NASA 升级垂直运动模拟器以满足现代任务需求</title>
     <link>https://www.nasa.gov/centers-and-facilities/ames/nasa-upgrades-vertical-motion-simulator-for-modern-mission-needs/</link>
@@ -224,54 +256,6 @@ The LEMS payload was built to operate through the lunar night, which lasts two E
 These innovations reduce mass and power needs, setting the stage for lighter, energy-efficient instruments that can operate continuously at future Artemis landing sites and the NASA-led Moon Base.
 
 The LEMS payload is led by Univer]]></description>
-  </item>
-  <item>
-    <title>狮子星云在韦伯的视线中咆哮</title>
-    <link>https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/</link>
-    <guid>https://www.nasa.gov/image-article/lion-nebula-roars-in-webbs-sights/</guid>
-    <pubDate>Tue, 11 Aug 2026 17:02:49 +0000</pubDate>
-    <description><![CDATA[美国国家航空航天局 (NASA) 的詹姆斯·韦伯太空望远镜通过观测太空中繁星点点的“平原”，拍摄了绰号为“狮子星云”的 NGC 2392 的新图像。由于韦伯的高分辨率成像，在 2026 年 8 月 10 日发布的这张图像中，星云的“鬃毛”清晰而详细。
-
-查看韦伯提供的更多狮子星云图像。
-
-图片来源：NASA、ESA、CSA、STScI；图像处理：Alyssa Pagan (STScI)]]></description>
-  </item>
-  <item>
-    <title>美国宇航局望远镜从附近的星云创造出色彩缤纷的“工艺品”</title>
-    <link>https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/</link>
-    <guid>https://science.nasa.gov/missions/chandra/nasa-telescopes-create-colorful-craft-from-nearby-nebula/</guid>
-    <pubDate>Tue, 11 Aug 2026 15:19:15 +0000</pubDate>
-    <description><![CDATA[就像一幅由彩色玻璃纸分层制成的拼贴画，一幅充满活力的新图像分层展示了美国宇航局太空望远镜对著名恒星形成星云的观测结果。由此产生的宇宙“工艺”揭示了被称为 30 Doradus 或狼蛛星云的恒星形成区域的新细节。
-
-塔兰图拉毒蛛位于大麦哲伦星云中，这是银河系的一个小邻居星系，距地球约 16 万光年，塔兰图拉毒蛛拥有数千颗年轻恒星，嵌入充满活力的蜂窝状气体和尘埃结构中。
-
-就像一幅由彩色玻璃纸分层制成的拼贴画，一幅充满活力的新图像分层展示了美国宇航局太空望远镜对著名恒星形成星云的观测结果。由此产生的宇宙“工艺”揭示了被称为 30 Doradus 或狼蛛星云的恒星形成区域的新细节。
-
-塔兰图拉毒蛛位于大麦哲伦星云中，这是银河系的一个小邻居星系，距地球约 16 万光年，塔兰图拉毒蛛拥有数千颗年轻恒星，嵌入充满活力的蜂窝状气体和尘埃结构中。
-
-新的合成图像包含来自美国宇航局钱德拉 X 射线天文台的 X 射线，该天文台在其任务过程中反复观察狼蛛星云，位于蓝色层中。 X射线数据揭示了年轻大质量恒星表面的气体被风吹走，并被冲击波加热到数百万度，就像超音速喷气机的音爆一样。
-
-红色代表来自美国宇航局詹姆斯·韦伯太空望远镜的红外数据，显示了数千颗年轻恒星，以及大片冷尘埃，这些尘埃将为形成新恒星和行星提供成分。美国宇航局哈勃太空望远镜绿色层的光学数据发现，氢气的温度比韦伯望远镜观测到的温度还要高，星云中还发现了一些单独的恒星。
-
-合成图像显示了该区域的完整哈勃和韦伯图像，以及钱德拉图像的大部分，所有这些都最近发表在《天体物理学杂志》的一篇研究论文中。在某些地区，蓝色钱德拉层是单独存在的，而在另一些地区，它与红色韦伯数据或绿色哈勃数据结合在一起。在中间区域，所有三个图像重叠以提供红色、橙色、黄色、绿色和蓝色的整体视图。
-
-此前，天文学家研究了狼蛛星云中年轻大质量恒星的风产生的能量的数量和影响。科学家预计，大部分能量会加热气体，从而产生 X 射线。然而，研究论文表明，星云中发射X射线的气体比预期要少得多。这让研究人员不禁要问：这些能量去了哪里？是什么驯服了狼蛛星云？
-
-通过研究钱德拉、哈勃和韦伯的数据，结合美国宇航局退役的斯皮策太空望远镜的数据，研究小组得出结论，狼蛛可能正在从多个来源失去能量。
-
-首先，多达一半的热气体通过气体和尘埃结构的壳壁泄漏并逸出星云。接下来，靠近壳壁的冷气体和一些热气体之间发生搅拌和混合，降低了气体的整体温度。最后，与计算机模拟的比较表明狼蛛可能通过传导损失能量。这涉及热材料和冷材料之间的直接物理接触，就像燃烧器上的煎锅一样，导致热材料和冷材料温度均衡。就狼蛛星云而言，热气体将通过与壳中较冷的气体直接接触来传导热量，特别是在最密集的区域。这种情况不一定涉及混合热气体和冷气体。
-
-这三个损失大量能量的通道的结合导致了美国宇航局望远镜协同工作所揭示的丰富多彩且复杂的显示。
-
-描述这些结果的论文由哥伦布俄亥俄州立大学的 Jennifer Rodriguez 领导。该论文的其他作者包括俄亥俄州立大学的劳拉·洛佩兹 (Laura Lopez)； Lachlan Lancaster，纽约市哥伦比亚大学；安娜·罗森，圣地亚哥州立大学； Omnaraynai Nayak，巴尔的摩太空望远镜科学研究所；塞巴斯蒂安·洛佩兹，俄亥俄州立大学； Tyler Holland-Ashford，美国宇航局位于马里兰州格林贝尔特的戈达德太空飞行中心；和俄亥俄州三一韦伯。
-
-美国宇航局位于阿拉巴马州亨茨维尔的马歇尔太空飞行中心负责管理钱德拉计划。史密森天体物理观测站的钱德拉 X 射线中心控制着马萨诸塞州剑桥的科学业务和马萨诸塞州伯灵顿的飞行业务。
-
-钱德拉 X 射线天文台是世界上最强大的 X 射线望远镜。
-
-自 1990 年发射以来，哈勃太空望远镜改变了我们对宇宙的基本理解。
-
-韦伯是未来十年最重要的天文台，为全球数千名天文学家提供服务。它研究……的每个阶段。]]></description>
   </item>
 </channel>
 </rss>
