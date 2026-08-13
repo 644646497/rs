@@ -4,327 +4,345 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Thu, 13 Aug 2026 00:54:02 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 05:25:13 GMT</lastBuildDate>
   <item>
-    <title>Grok 4.6 登场  SpaceX 股价飙近 10%、空军大撤退</title>
-    <link>https://finance.technews.tw/2026/08/13/grok-4-6-spacex/</link>
-    <guid>https://finance.technews.tw/2026/08/13/grok-4-6-spacex/</guid>
-    <pubDate>Thu, 13 Aug 2026 00:50:47 +0000</pubDate>
-    <description><![CDATA[旗下业务涵盖火箭发射、通讯连网及 AI 的 SpaceX，周三（8 月 12 日）推出最新 AI 模型「Grok 4.6」，距离 Grok 4.5 问世还不到一个月。在 SpaceX 股价应声飙高之际，空军也跟著大举撤退。
+    <title>AI 失业还没发生，但加薪机会消失</title>
+    <link>https://technews.tw/2026/08/13/ai-driven-job-losses-havent-happened-yet-but-opportunities-for-pay-raises-have-vanished/</link>
+    <guid>https://technews.tw/2026/08/13/ai-driven-job-losses-havent-happened-yet-but-opportunities-for-pay-raises-have-vanished/</guid>
+    <pubDate>Thu, 13 Aug 2026 04:53:30 +0000</pubDate>
+    <description><![CDATA[过去几年，人们最担心的是AI会不会抢走工作，但预期中的大规模失业潮至今没有出现。越来越多研究反而发现，AI对整体就业的影响仍然有限，真正率先受到冲击的，可能不是工作本身，而是薪水。换句话说，AI不一定让你失业，却可能让你更难加薪。
 
-综合MarketWatch、The Motley Fool等外电报导，SpaceX 12日在部落格文章中表示，新模型在设计上著重于长时间运作的AI代理及复杂任务。
+AI带来的第一波劳动市场冲击，不是大规模裁员，而是重新决定哪些技能值得付更多钱。现在还没有出现大规模失业的原因，是AI 能让同样数量的员工完成更多工作，企业不必急著裁员，却可能减少新增人力需求，也削弱部分员工要求加薪的筹码，因此消失的未必是现有工作，而是原本可能出现的新职缺与加薪机会。
 
-AI模型评比机构Artificial Analysis指出，Grok 4.6在其「智慧指数」（Intelligence Index）的得分比Grok 4.5高出5分。
+阿波罗全球管理公司(Apollo Global Management)最新白皮书分析美国321种职业，将劳工统计局薪资与就业数据，与美国人工智慧公司Anthropic衡量各职业AI使用程度的资料结合。结果发现，自生成式AI快速普及以来，高AI曝险职业的实质薪资成长，相较低AI曝险职业落后约6.7%，但就业人数并未明显下降。
 
-Artificial Analysis 12日在X发文表示：「这让SpaceXAI重新回到AI智慧的最前沿，与OpenAI并列，仅次于Anthropic。」
+部分高度曝险职业已出现实质薪资下滑。电脑程式设计师约75%的工作任务高度暴露于AI，2022~2024年间实质薪资下降6.1%，统计助理也下降5.4%。
 
-SpaceXAI’s Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, joining the frontier in line with GPT-5.6 Sol, with standout agentic performance at lower cost
+不过，并非所有薪资变化都能归咎于AI。广播播音员与电台DJ的AI曝险程度不高，实质薪资却在两年间暴跌52%；另一方面，个人理财顾问约三分之一工作涉及AI，薪资反而增加8.4%，行政法官、裁决员与听证官约30%的工作任务涉及AI，同期薪资更上升17.5%。这些差异显示，产业景气、劳动供需及其他结构性因素同样会左右薪资。
 
-Grok 4.6 gains 5 points over Grok 4.5 on the Intelligence Index just over one month after its release, or…pic.twitter.com/QeqrKpVUjk
+更值得注意的是，AI带来的薪资冲击并不平均。Apollo研究发现，自2023年以来，收入最低25%劳工的薪资成长下降10.7%，服务业从业人员更下降24.3%；相较之下，收入最高四分之一的劳工并未出现明显影响，代表AI普及可能进一步拉大不同技能与收入阶层之间的差距。
 
-— Artificial Analysis (@ArtificialAnlys)August 12, 2026
+最终人类薪资会下滑。宾州大学经济学家的模型则显示，AI对薪资可能呈现「驼峰型」走势，自动化初期，AI与人类互补、提高生产力，薪资反而上升，但随著AI逐渐接管更多原本由人类完成的认知工作，人类劳动的稀缺性下降，薪资可能触顶并转为下滑。
 
-根据Artificial Analysis评比，Grok 4.6得分与OpenAI的GPT-5.6 Sol相当，但仍略逊于Anthropic的Claude Opus 5与Fable 5。不过，该机构指出，Grok 4.6的使用成本似乎低于竞争对手。
+模型基准情境显示，当约37%的「智慧型任务」被自动化，薪资开始从高点回落。目前Marinescu估计已有超过14%的智慧型任务被自动化，距离模型中的转折点仍有一段距离，她也强调，目前尚未看到整体薪资反转的明确证据。
 
-另外，SpaceX 12日也公布执行长马斯克（Elon Musk）向员工进行简报的内容。他表示，到了9月，AI营收「很有机会超越SpaceX其他所有业务的营收」。其中很大一部分营收可能来自SpaceX向Alphabet及Anthropic等公司提供算力的合作协议。
+AI革命真正值得关注的，或许不只是「机器会不会取代人」，而是当一个人搭配AI就能完成过去需要更多人的工作时，企业还需要雇用多少人，以及还愿意为人类的工作支付多少钱。]]></description>
+  </item>
+  <item>
+    <title>Google Pixel 11 全系列新发表，AI 功能才是亮点、仅大容量涨价</title>
+    <link>https://ccc.technews.tw/2026/08/13/google-unveils-pixel-11-series/</link>
+    <guid>https://ccc.technews.tw/2026/08/13/google-unveils-pixel-11-series/</guid>
+    <pubDate>Thu, 13 Aug 2026 04:24:52 +0000</pubDate>
+    <description><![CDATA[Google 年度新机 Pixel 11 全系列发表，即日起展开预购，将在下周 20 日正式上市。
 
-We made rockets reusable and are rebuilding the internet in space. The next challenge: making life multiplanetary and understanding the true nature of the universe
+先来看看今年 Pixel 11 及 Pixel 11 Pro、Pixel 11 Pro XL 三款新机的 11 项亮点：
 
-Watch@ElonMuskdeliver a company update to@SpaceXemployeespic.twitter.com/5c8rxoCQfu
+Google 称 Tensor G6 是历来速度最快、功能最强大的自研晶片，其 CPU 让应用程式启动速度加快 15%，网页浏览的载入速度也提升 25%。其 TPU 运算能力提升 50%，完美搭配最新 Gemini Nano 模型，使装置端 AI 任务的处理速度提升 3.5 倍，同时最高可减少 3.5 倍电力消耗。Google 硬体副总裁彭昱钧指出，Tensor G6 是采台积电最新改良型 3 奈米制程。
 
-— SpaceX (@SpaceX)August 11, 2026
+Pixel 11 全新 4,800 万像素主镜头感光度提升 56%，低光源环境下也能拍出细节丰富的照片。同时，Pro 系列的 4,800 万像素望远镜头感光度也提升了 30%。
 
-SpaceX 12日闻讯大涨9.65%、收146.15美元，创7月9日以来收盘新高。自8月5日因公布财报而重挫13.61%至历史收盘低（108.27美元）后，股价迄今已强弹近35%。
+Pixel 11 的 5 倍望远镜头支援高达 30 倍的超级变焦；Pro 系列人像模式则首次支援 5 倍变焦，且在 Tensor G6 与最新生成式影像模型的支援下，可提供高达 120 倍的专业变焦。
 
-押注SpaceX股价下跌的放空者正迅速撤出交易。CNBC 12日报导，根据S3 Partners资料，截至周三，SpaceX放空部位占公开流通股的比重已降至约11%，较上周34%的高点大幅下滑。这主要是受到空单回补，以及首波大规模股票禁售期届满后，可交易流通股数显著增加的影响。
+透过 Tensor G6 升级版影像讯号处理器与新感光元件，在 Pro 系列上的夜视拍摄速度加快 4.5 倍，能在低光源下更快速地捕捉清晰画面。
 
-S3 Partners预测分析董事总经理Ihor Dusaniwsky表示：「想放空的人已经没有子弹了。一笔交易能投入的资金终究有限。」
+轻点一下，新机便会透过装置端 AI 和 Gemini 模型即时分析约 400 帧画面，挑选出时间点最完美、画质清晰的 1,200 万像素照片，自动裁切和修复模糊，还能同步获得一段动态影片，一次满足拍照和录影需求。
 
-随著SpaceX股价从财报公布后的抛售潮中强劲反弹，空方也大举撤退。空单平仓时必须买回股票，当股价原本就处于上涨走势时，可能会进一步放大涨幅。
+全系列藉 Tensor G6 强化 Gemini Intelligene 的能力，但这部分先在美国和英语系国家推出。
 
-SpaceX首批股票禁售期于8月6日届满，当时有超过9.11亿股股票可供交易，约占流通在外股数的7%，规模甚至超过该公司创纪录IPO时发行的6.39亿股。
+当手机萤幕朝下放置时，会利用环绕相机闪光灯的彩色 LED 灯以温和微光作为提醒，向 Gemini 发出指令时会闪烁专属灯效，或为重要联络人设定特定光笑以防漏接来电。
 
-未来还会有更多股票解除禁售。根据公开说明书，8月20日可能再有3.19亿股解禁，9月约有7亿股，10月解禁规模也接近7亿股。
+Pro 双机配备峰值亮度高达 3,600 尼特的萤幕，就算在大太阳下画面也能清晰，并且采用全新防刮涂层，使抗刮能力比以往提升 2 倍以上。
+
+延续经典无边框玻璃相机列设计，但厚度减少 40%，当搭配专属保护壳使用时，手机背面几乎能完全平整，放在桌面时也能保持平稳。
+
+Pixel 11 系列机身采用金属缎光边框和抛光玻璃背盖，结合全新防刮涂层与防摔设计，成为历来最坚固耐用的 Pro 系列手机。
+
+全系列具备 Pixelsnap 磁吸技术，更首次支援 Qi2.2 25W 无线充电。此外，Pixel 11 Pro XL 有线快充只需 15 分钟就能提供长达 15 小时的电池续航力。价格有感提升。
+
+今年 Google 取消较便宜的 128GB 版本，Pixel 11 和 Pro 系列的最低入手价格，表面上比前一代贵了（台币，下同）3,500 元，实际上是容量升级带来的价格变化，而非单纯涨价。而在 Pixel 11 Pro XL 价格上，则比前一代贵了 3,000 元。
+
+今年 Pixel 11 Pro Fold 也带有同系列要素如 Tensor G6 晶片、HiLight 灯效、一键抓拍、Qi2.2 无线充电等等，新机变得更轻、更薄，耐用度提升 3 倍。
+
+Pixel 11 Pro Fold 背盖采用全新玻璃纤维复合材质，具备极佳的抗裂防护特性，外萤幕采用超耐用玻璃陶瓷萤幕表面玻璃，并搭配保护内萤幕的全新无齿轮转轴。整体耐用度比前一代大幅提升 3 倍之多，并具备 IP68 防尘防水等级。
+
+相较于前一代，Pixel 11 Pro Fold 减轻将近 10% 重量，机身厚度也减少约 1 毫米，搭配比以往更窄的萤幕边框，使握持和携带更舒适无负担。
+
+Google 也为折叠大萤幕改善「泡泡」多工功能，可将常用应用程式缩小成泡泡，固定在展开萤幕的右下角以便随时快速切换。
+
+Pixel 11 系列硬体设计和规格变化相较前一代未有显著变化，主要是 Tensor 晶片升级采用改良型 3 奈米制程、通讯数据机换上联发科，可望解决过去使用者最在意的效能和通讯痛点，而基础容量直接拉高至 256GB，Pro 系列独家的 HiLight 灯效和 120 倍变焦，也让 Pro 版的定位比前一代更加鲜明。
+
+Pixel 11 全系列已在线上 Google Store 以及台湾的线上线下销售通路展开预购，预计下周 20 日正式上市。
+
+Google 为 Pixel 11 推出冰霜紫、开心果绿、木槿桃、曜石黑 4 款颜色，储存容量从 256GB 起跳，建议售价（台币，下同）29,990 元起。Pixel 11 Pro 和 Pixel 11 Pro XL 推出砂岩粉、橄榄绿、雾面曜石黑、迷雾灰 4 款颜色，售价分别从 36,990 元起、42,990 元起。Pixel 11 Pro Fold 推出橄榄绿、曜石黑 2 款颜色，储存容量提供 256GB、512GB 以及线上 Google Store 独家的 1TB 版本，售价 60,990 元起。
+
+值得一提的是，购买 Pro 系列可获得 6 个月 Google AI Pro 方案、 5TB 云端储存空间、Google Health Premium 订阅。]]></description>
+  </item>
+  <item>
+    <title>Nebius 资料中心改采燃料电池缓民怨  Bloom 股价飙</title>
+    <link>https://finance.technews.tw/2026/08/13/bloom-shares-surge-on-nebius-fuel-cell-order/</link>
+    <guid>https://finance.technews.tw/2026/08/13/bloom-shares-surge-on-nebius-fuel-cell-order/</guid>
+    <pubDate>Thu, 13 Aug 2026 04:20:36 +0000</pubDate>
+    <description><![CDATA[美国燃料电池大厂 Bloom Energy 喜获荷兰 AI 基础建设供应商 Nebius 青睐，股价应声飙高。
+
+Stocktwits、2/7 Wall St.报导，Nebius管理层12日表示，其位于纽泽西州Vineland、规划容量达300兆瓦（MW）的AI资料中心「改采Bloom」（switch to Bloom）后，整体专案获得改善。
+
+Nebius传播长Tom Blackwell在公司第二季（4-6月）财报电话会议上表示，「我们认为，改采Bloom大幅提升了这项专案，从当地社区的角度来看也是如此。」
+
+Nebius产品暨基础设施长Andrey Korolenko补充说，「Bloom燃料电池的部署速度应该会很快。对这项专案来说，改采Bloom是一可行且具正面效果的调整，预料不会对专案时程造成重大影响。」
+
+Nebius正跟泰国系统整合与IT服务领导厂商DataOne合作，在纽泽西州Vineland兴建大型AI资料中心。这座300 MW的设施是Nebius在美国第一座大型资料中心，规模相当于45座足球场，将成为公司的旗舰设施。
+
+Vineland资料中心的第一阶段工程已接近完工，Nebius申请将设施规模扩大数倍。不过，8月5日晚间针对这项扩建计划举行的公听会气氛紧张，现场挤满当地居民，不少人对整个程序缺乏透明表达不满。居民也质疑资料中心可能对生活品质造成影响，包括用水、噪音及空气品质等问题。
+
+Vineland资料中心专案原先计划采用驻点（on-site）天然气发电，因此受到外界严格检视。这项方案可让资料中心不必等待耗时的电网接入程序，但也引发外界对碳排放、用水、雨水排水（stormwater）及其他环境影响的疑虑。
+
+Nebius管理层表示，Bloom的技术将成为「驻点供电解决方案，能以安静、超低排放的方式提供可靠电力」。
+
+Nebius正在对先前获核的专案基地配置计划修正案，寻求最终批准。该修正案是在专案将电力来源改为Bloom之后提出的。
+
+Nebius管理层12日在财报电话会议表示，相关公听会属于正常开发流程的一环，也已纳入专案时程。Nebius并指出，建筑本体已于2026年夏季稍早完工，目前正在进行机电与设备工程。
+
+Bloom Energy 12日闻讯飙涨12.29%、收237.16美元，创7月15日以来收盘新高。
+
+氢能燃料电池商Plug Power Inc.、氢能燃料电池商FuelCell Energy Inc. 12日也同步劲扬3.15%、12.86%。
+
+（本文由MoneyDJ新闻授权转载；首图来源：Bloom Energy）]]></description>
+  </item>
+  <item>
+    <title>韦伯望远镜直击早期宇宙，单一星系竟塞 3 个超大质量黑洞</title>
+    <link>https://technews.tw/2026/08/13/supermassive-hole-j0148-4214-galaxy-early-universe/</link>
+    <guid>https://technews.tw/2026/08/13/supermassive-hole-j0148-4214-galaxy-early-universe/</guid>
+    <pubDate>Thu, 13 Aug 2026 04:15:31 +0000</pubDate>
+    <description><![CDATA[大爆炸后仅 12 亿年，科学家首次在单一星系中同时发现 3 个活跃超大质量黑洞，暗示早期宇宙的黑洞成长方式比想像更加疯狂。
+
+过去我们认为早期宇宙物质弥漫松散，需累积时间吸积大量物质的超大质量黑洞发展缓慢，但韦伯太空望远镜传回的数据逐渐打破认知，早期宇宙的超大质量黑洞往往打破爱丁顿极限疯狂进食、频繁碰撞与合并，短短几亿年内就打造出我们今天看到的巨大星系雏形。
+
+马克斯·普朗克地外物理研究所团队近日更发现一个距离地球超过 125 亿光年、名为 J0148-4214 的早期星系，内部竟同时存在 3 个正积极吸积的超大质量黑洞，其中 2 个位于星系中心，投影上相距仅 620 光年；第 3 个黑洞位于星系外部区域，距离中心约 5,500 光年，可能为前合并星系遗孤，或因重力波反冲被踢出中心、或正缓慢往中心迁移。
+
+分析得出 3 个黑洞质量分别约太阳质量 8,000 万、60 万、200 万倍。有趣的是，太阳质量 60 万倍的黑洞正以超过理论上限（爱丁顿极限）速度吞噬物质，旁边 8,000 万倍太阳质量的黑洞反而吃得较慢，说明早期宇宙黑洞生长方式可能比原本想像更疯狂。
+
+这种「三黑洞同居」现象不仅证明黑洞合并在宇宙早期已很常见，更暗示早期宇宙非常擅长将多个黑洞凑在一起，而非单一黑洞缓慢吸积气体成长。团队表示，这 3 个很可能在未来几亿年内合并，首座太空重力波天文台「雷射干涉太空天线（LISA）」预计 2030 年代升空，将能捕捉这些超大质量黑洞合并发出的低频重力波。
+
+新论文发表在《天文学与天体物理学报》（Astronomy & Astrophysics）。]]></description>
+  </item>
+  <item>
+    <title>中国解放军首度公开直-19与无人机编队，攻击直升机转型「空中指挥节点」</title>
+    <link>https://technews.tw/2026/08/13/pla-unveiled-z-19-paired-with-drones-testing-mum-t/</link>
+    <guid>https://technews.tw/2026/08/13/pla-unveiled-z-19-paired-with-drones-testing-mum-t/</guid>
+    <pubDate>Thu, 13 Aug 2026 04:11:17 +0000</pubDate>
+    <description><![CDATA[中国昨日首度公开人民解放军直-19（Z-19）攻击直升机与 KVD002 察打一体无人机编队飞行的画面，证实解放军正进行「载人与无人机协同作战」（MUM-T）实机演练，试图将攻击直升机转型为空中指挥节点，在防空火网外协调无人机执行前瞻侦察与精准打击。
+
+AFAIR first-ever footage of joint training between a PLA Army Aviation Z-19 attack helicopter and reconnaissance-strike UCAVs – likely a KVD002 (CH-4D) Rainbow UCAV.
+
+(Via @琴石2022)@jesusfromanpic.twitter.com/TqUon4VZ6L
+
+— @Rupprecht_A (@RupprechtDeino)August 11, 2026
+
+直-19 巡航时速约 245 km/h、航程约 700 km、全备重 4.5 吨，搭载光电系统与毫米波雷达，是解放军陆航的侦察与标定核心。
+
+与其编队飞行的 KVD002 为中国航天空气动力技术研究院开发的彩虹四号无人机陆军版本编号，可挂载 AR-1 空对地飞弹，这项展示代表中国已将 2023 年提出的「无人机护航与目标照射」概念，正式推进至实际空中组队训练阶段。
+
+传统无人机由地面站直接操作，易面临通讯频宽暴增与数据链路壅塞，若将攻击直升机升级为空中任务节点，机组人员仅需透过任务授权指派区域，让无人机深入防空高风险区进行前瞻侦察与雷射标定，直升机则留在安全距离掌握战局，兼顾生存率与打击效益。
+
+除了中国外，英美陆军亦加速相关布局。美军 AH-64E 阿帕契 于 2026 年 2 月试射 ALTIUS-700 无人机，7 月安杜里尔（Anduril）亦发表配合载人机的 Thunder 自主旋翼机，英国 Project NYX 则以「指挥而非控制」为核心，预计 2030 年前部署 24 架自主无人机搭配阿帕契作战。
+
+解放军直-19 与 KVD002 的编队飞越，再次印证攻击直升机的战术定位正经历深刻变革，从单纯的武器发射载具，全面转型为掌控多联无人机队的空中战术指挥枢纽。]]></description>
+  </item>
+  <item>
+    <title>英特尔如何藉先进封装挑战台积电 AI 制造龙头，Foveros 3D、EMIB-T 技术曝光</title>
+    <link>https://finance.technews.tw/2026/08/13/intels-foveros-3d-and-emib-t-technologies-were-unveiled/</link>
+    <guid>https://finance.technews.tw/2026/08/13/intels-foveros-3d-and-emib-t-technologies-were-unveiled/</guid>
+    <pubDate>Thu, 13 Aug 2026 04:00:59 +0000</pubDate>
+    <description><![CDATA[随著人工智慧 （AI） 对晶片运算能力的需求达到前所未有的高度，半导体产业正正式告别依赖单一巨大晶片的时代。先进封装已成为将多个小晶片互连，使其如同单一强大单元般高效运作的核心关键技术。日前，半导体大厂英特尔 （Intel） 发表其在美国先进封装领域的最新技术进展。包括透过其位于新墨西哥州 Rio Rancho 的先进封装厂区，英特尔正积极推动 Foveros 3D 堆叠、EMIB 矽桥接，以及最新 2026 年开发的 EMIB-T 技术，全力突破物理极限，抢攻次世代 AI 晶片与资料中心商机。
+
+英特尔表示，公司深耕先进晶片封装多年，其位于美国新墨西哥州 Rio Rancho 的厂区已成为全美先进封装的技术领航者。英特尔新墨西哥州 Fab 9 先进封装厂经理 Katie Prouty 表示，在 1980 年代，这个厂区曾是 6 吋晶圆制造的领导者。40 多年后的今天，情况发生了翻转，这里已成为美国先进封装的领先基地。
+
+该厂区在 1980 年创立之初仅有 25 名员工，如今已壮大至拥有 2,700 名员工与 500 家供应商的规模，成功将关键的先进封装技术推向市场。而面对 AI 带来的极致运算需求，英特尔在此厂区展现了突破物理限制的实力。其先进封装技术成功将封装尺寸扩展至当前业界标准的 8 倍，并预计在 2028 年进一步达到 12 倍以上，大幅拓宽了光罩极限（Reticle Limit）。晶片设计不再局限於单一晶片，而是转向将多个专用晶片互连於单一巨大封装中。
+
+Katie Prouty 指出，已有客户为此技术慕名而来，这将持续深化客户对英特尔代工 （Intel Foundry） 的信任与信心。
+
+在 Fab 9 厂区中，最核心的先进封装工艺之一便是将多个小晶片连接成单一高性能系统的 Foveros 3D 堆叠技术。新墨西哥州 Fab 9 首席工程师 Chris Seibert 以「披萨」的比喻来解释这项高精密技术。
+
+Chris Seibert 指出，在晶圆厂内，晶片贴装工具是 Foveros 的第一步。从机器的一端送入作为 「披萨饼皮」 的矽晶圆中介层，另一端则送入你想要的「披萨配料」，也就是各类专用的小晶片，机器会精准地将这些配料贴装在饼皮上方。然后，经过将小晶片块贴装于矽中介层上，再传送至专用加热工具（烤箱）将整个系统烘烤结合在一起，再经由名为 FOUPs晶圆传送盒的天车系统，将晶圆传送至另一台机器之后，在晶片下方及周围填充环氧树脂（Epoxy），确保整体结构被紧密压实固定。最后，使用水冷刀片将晶圆精确切割成单个独立的封装。
+
+Chris Seibert 强调，这项技术的最大优势在于允许将来自不同设计或不同制程节点的晶片，全部整合在同一个晶圆上。Foveros 技术使晶片运作速度更快、能处理庞大工作，并能透过将耗电电路置于更具能源效率的制程节点上，延长笔记型电脑的电池寿命，使笔电更轻薄、边缘运算设备体积更小，且不牺牲任何效能。
+
+除了垂直堆叠的 Foveros，英特尔代工在水平互连上则仰赖 EMIB（嵌入式多晶片互连桥技术。不同于其他晶圆代工厂可能采用成本高昂的「矽中介层」做为晶片间的连接层，英特尔的 EMIB 技术选择仅在基板中需要连接的部位嵌入微小、高速的矽桥接器。这就像是一条数据通讯的高速捷径，不仅大幅降低了制造成本，更能将多个并排的晶片转化为强大的 AI 运算引擎，非常适合用于资料中心等需要多晶片协同工作的高复杂度产品。
+
+而在 2026 年，英特尔更推出最新技术升级版的 EMIB-T 技术。EMIB-T 在原本的矽桥接器中加入了专用通道，能够将电力「直接」输送至晶片内部，而非绕道而行。这项创新不仅显著提升了整体电源效率，更优化了最新高频宽记忆体（HBM）技术所需的讯号路由。英特尔强调，这项技术不仅仅带来速度，更带来了设计的自由。
+
+英特尔进一步强调，唯有英特尔代工能够将来自不同来源的晶片块，直接混搭到业界尺寸最大的基板上，而这种高度灵活弹性，正是支持次世代资料中心 AI 引擎持续运转的最强基石。
+
+面对生成式 AI 带来的算力大爆发，英特尔强调，透过深根美国本土的先进封装产能，搭配 3D Foveros、2.5D EMIB 以及崭新的 EMIB-T 技术，成功建立起高弹性、高效率且具备成本优势的晶片制造生态系。]]></description>
+  </item>
+  <item>
+    <title>风电产业迎复苏  Vestas 财报超预期、股价飙 2 成</title>
+    <link>https://finance.technews.tw/2026/08/13/vestas-beats-earnings-expectations-shares-surge-20/</link>
+    <guid>https://finance.technews.tw/2026/08/13/vestas-beats-earnings-expectations-shares-surge-20/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:50:45 +0000</pubDate>
+    <description><![CDATA[丹麦风机龙头 Vestas 上季财报超乎预期，并上修全年获利展望，激励股价单日飙涨近 20%，显示先前低迷的风电产业正在强劲复苏。
+
+综合外媒报导，Vestas 12日公布第二季财报，经调整营业利益达4.46亿欧元，大幅高于去年同期的5,700万欧元；扣除特殊项目前的营益率达9.4%，为历年同期最佳表现之一，也进一步接近公司设定的10%营业利润率目标。
+
+Vestas第二季风机订单达3.35GW（价值约34亿欧元），较去年同期的2GW （约22亿欧元）大幅成长；风机积压订单总量已达32.5GW（约360亿欧元）。
+
+Vestas也上修全年获利展望，预估2026年扣除特殊项目前EBIT利润率将达7%至9%，高于原估的6%至8%；全年营收预估则维持200亿至220亿欧元不变；公司同时宣布将在年底前回购约4亿欧元的股份。
+
+Vestas在丹麦挂牌的股票12日飙涨19.66%；从2025年的低谷强弹。
+
+Vestas为按全球总装机容量计算的全球最大风力发电机制造商；风电产业过去深受成本攀升、供应链中断和风场开发商压低成本的压力所苦，但产业景气现已明显好转。
+
+Vestas表示，业绩改善反映市场对风电专案的需求更加强劲，各国政府和开发商愿意为新增产能支付更高的价格，产业在经历2022~2023年的艰难时期后迎来获利复苏。
+
+Vestas竞争对手表现也有改善，德国风机制造商Nordex今年股价已上涨约三成，西门子能源旗下风电事业西门子歌美飒（Siemens Gamesa）也于最新一季转亏为盈。]]></description>
+  </item>
+  <item>
+    <title>高通 Snapdragon C 规格曝光！电池续航、能效大胜 Intel N250</title>
+    <link>https://technews.tw/2026/08/13/qualcomm-snapdragon-c-detail/</link>
+    <guid>https://technews.tw/2026/08/13/qualcomm-snapdragon-c-detail/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:50:23 +0000</pubDate>
+    <description><![CDATA[高通Snapdragon C平台近期出现更多产品细节，该平台作为入门级处理器，主要锁定售价约300美元的笔电市场，消费族群面向学生、家庭用户及消费者。
+
+Snapdragon C搭载8核心Qualcomm Kryo CPU，单核高时脉3GHz、多核最高时脉2GHz，并配备总计2MB快取；GPU部分则采整合式Adreno GPU，最高时脉900MHz，并搭载高通Hexagon NPU，但未公布AI运算效能。
+
+根据高通分享的数据，相较英特尔N250，Snapdragon C电池续航效能高67%、电池能效最高可达2.1倍。
+
+在Geekbench部分，Snapdragon C单执行绪效能最高比Intel N250快44%、多执行绪效能高24%；Cinebench差距最大，单执行绪效能快50%、多执行绪效能更快达67%；在Speedometer 3.1测试中，效能亦提升高达39%。
+
+高通强调Snapdragon C笔电可提供全天候电池续航，但具体的续航时间仍交给OEM厂商自行决定。高通在测试注解中表示，测试使用的参考装置配备16吋萤幕，作为对照组的Acer TravelMate采用11.6吋萤幕，但整体功耗设定与16吋萤幕相匹配。
+
+在串流媒体部分，Snapdragon C也表现不错的电池能源效率。相较Intel N250，Snapdragon C在Microsoft Edge执行Netflix串流播放时能源效率提升106%、Youtube提升86%、网页浏览提升68%、进行Teams视讯通话时则提升74%。
+
+高通指出，Snapdragon C将高性价比运算、全天候电池续航、AI功能与流畅效能整合至低温安静的装置中，为市场提供更多平台选择，合作OEM厂商包括Acer、HP与Lenovo，预计搭载装置于今年稍晚时上市。
+
+在Computex期间，Acer已首度展示搭载Snapdragon C的Aspire Go 15，为Acer首款采用Snapdragon C的笔电。目前已知该机型配备8GB RAM、512GB储存空间，并提供多种连接埠，但Acer尚未公布上市时间与售价。
+
+目前外界关注Snapdragon C笔电能否真正达到约300美元的价格，因为近期记忆体等零组件成本持续上升，要维持这个价钱变得更加困难，实际状况仍待Snapdragon C正式产品上市后才可确定。]]></description>
+  </item>
+  <item>
+    <title>潮水退了谁在裸泳？台股 20 档主动式 ETF 仅 9 档挺过股灾报酬转正</title>
+    <link>https://finance.technews.tw/2026/08/13/stock-crash/</link>
+    <guid>https://finance.technews.tw/2026/08/13/stock-crash/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:42:19 +0000</pubDate>
+    <description><![CDATA[台股历经 7 月剧烈震荡，主动式 ETF 一度被视为市场「重灾区」，并成为检验操盘团队选股与调整能力的最佳时机，随著加权指数近一个月报酬率已翻正，台股主动式 ETF 整体规模也已攀升至约新台币 8,600 亿元，但观察目前成立满一个月的 20 档台股主动式 ETF，截至 8 月 12 日仅 9 档近一个月报酬率转为正值，个别基金绩效差距明显。
+
+观察近一个月绩效排行榜，冠军由主动野村台湾优选（00980A）以 4.99% 夺下，主动野村台湾高息（00999A）以 4.85% 紧追在后，第三名为主动凯基台湾（00407A）报酬率达 3.29%，而主动野村台湾 50（00985A）及主动国泰动能高息（00400A）近一月报酬率也都超过 2%，分别为 2.81% 及 2.67%，至于主动摩根台湾鑫收（00401A），近一月也有 1.49% 的正报酬。
+
+市场法人表示，散户投资人往往容易在台股剧烈震荡期间追高杀低，反而更凸显主动式 ETF 操盘团队的选股与风险控管能力，尤其市场快速轮动之际，真正的主动管理并非单纯追逐短期热门股，而是能提前判断产业趋势、掌握基本面变化，并依市场环境灵活调整持股配置。
+
+市场法人指出，从这次震荡后的绩效差异来看，成为检验操盘团队选股与调整能力的最佳时机，并可视为市场对主动式 ETF 操盘能力的一次实战检验，能否看得比市场更远，或在行情反转前做好布局，将成为后续绩效能否持续领先的关键。]]></description>
+  </item>
+  <item>
+    <title>Google 采用「瑞士起司」多层防御模型，每天成功阻挡 70 亿次 Chrome 恶意通知</title>
+    <link>https://infosecu.technews.tw/2026/08/13/google-blocks-7-billion-malicious-chrome-notifications/</link>
+    <guid>https://infosecu.technews.tw/2026/08/13/google-blocks-7-billion-malicious-chrome-notifications/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:40:27 +0000</pubDate>
+    <description><![CDATA[Google 于 8 月 11 日公布最新资安成果，指出在 2026 年第一季，Chrome 浏览器平均每天在 Android 平台上成功阻挡了超过 70 亿则恶意或滥用的推播通知。这项亮眼成效归功于 Google 近年积极推动的多层防护机制，其核心概念被形容为「瑞士起司模型」（Swiss Cheese Model）。该机制透过多道彼此重叠的防线，致力于在风险内容送达使用者装置前，就从源头将其拦下。
+
+根据 Google 安全团队的说明，单一防御机制难以完全阻绝威胁，因此这套防护做法整合了「使用者互动判断」、「滥用网路侦测」、「伺服器端节流」以及「通知权限管理」等多管齐下的措施，如同层层叠加的瑞士起司，大幅降低恶意通知穿透防线的机率。
+
+Google 表示，实施这些严格措施的终极目标，是在维持推播通知功能实用性的同时，大幅降低网路钓鱼、诈骗、恶意付款要求以及恶意软体连结透过浏览器渗透的机会。
+
+在强化系统防御之余，Google 也确保使用者拥有完整的自主权。若要手动管理通知权限，桌面版用户可前往 Chrome 的「设定」，进入「网站设定与通知」页面进行调整；Android 用户则可直接从装置的「通知设定」中轻松管理，共同打造更安全、清爽的浏览体验。]]></description>
+  </item>
+  <item>
+    <title>Google AI 摘要吃掉太多网路流量，Cloudflare 与英国监管单位联手反击</title>
+    <link>https://technews.tw/2026/08/13/googles-ai-is-killing-the-web-now-the-web-is-fighting-back/</link>
+    <guid>https://technews.tw/2026/08/13/googles-ai-is-killing-the-web-now-the-web-is-fighting-back/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:30:24 +0000</pubDate>
+    <description><![CDATA[Google 昔日靠一项交易称霸搜寻市场：网站开放爬虫（crawler）索引内容，Google 则把读者导回网站。但在生成式 AI 时代，这项交易的天秤明显倾斜。
+
+Google 爬虫 Googlebot 长年抓取网页建立索引，如今搜寻用途与 AI 生成答案的界线日益模糊，同样爬虫同时喂养传统搜寻与 AI 摘要功能。网路安全业者 Cloudflare 执行长 Matthew Prince 指出，Google 爬虫看到的网页量是 OpenAI 的 3.2 倍、微软（Microsoft）的 4.8 倍。他批评，Google 把搜寻与 AI 抓取捆绑在一起，出版商若想阻挡内容被用在 AI 摘要，就得连带失去搜寻流量。
+
+影响已浮现。英国大型报业集团 Reach 表示，来自 Google 的推荐流量已腰斩，AI 摘要是原因之一。Cloudflare 统计，2026 年 AI 代理程式（AI agent）贡献超过 57% 网路流量，人类约 42%，机器活动首度超越人类。Prince 预期落差将持续扩大：「相对于代理程式与机器人，人类在网路将只是误差值。」Meta 执行长祖克柏（Mark Zuckerberg）也宣布，将在 Messenger、WhatsApp 与 Instagram 推出消费者版 AI 代理程式。
+
+若 AI 不断读取、摘要并改写网页却不导回读者，生产原创内容的经济诱因将逐渐消失。美国反托拉斯诉讼揭露的内部简报显示，Google 曾在 2024 年 4 月推出 AI 摘要前，考虑让网站选择不让内容用于 AI 功能、但保留搜寻曝光，最后因这块「正演变为变现空间」而作罢。
+
+反击开始成形。Prince 透露，Cloudflare 已对 Google 下最后通牒：自 9 月 15 日起，将预设替广告收入为主的客户封锁混用型爬虫，Google 恐失去数百万个网站存取权。英国竞争与市场管理局（CMA）也在 6 月要求 Google，须给网站业者明确选项，可拒绝内容用于 AI 搜寻功能、同时保留传统搜寻曝光，且不得藉调降排名报复。
+
+Google 发言人证实，公司正测试新设定，让网站不影响搜寻排名下退出 AI 摘要，英国测试完成后将推向全球。
+
+不过，Google 爬虫技术仍未分家。外界认为，将爬虫彻底拆为「传统搜寻索引」与「AI 搜寻」两种才是更佳解方，网站方能自行封锁，不必仰赖 Google 的承诺。Google 仍握有约九成搜寻市占，是通往网路世界的实质门户。]]></description>
+  </item>
+  <item>
+    <title>传三星策略转弯「可变光圈」不会在 S27 系列复活</title>
+    <link>https://technews.tw/2026/08/13/samsung-variable-aperture-wont-come-to-the-galaxy-s27/</link>
+    <guid>https://technews.tw/2026/08/13/samsung-variable-aperture-wont-come-to-the-galaxy-s27/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:20:29 +0000</pubDate>
+    <description><![CDATA[先前一度盛传「可变光圈」相机技术将在三星 Galaxy S27 系列回归，如今却传出策略急转弯。据韩媒报导，三星虽曾在 S27 系列测试可变光圈镜头模组，但最终决定放弃导入，主因包括成本偏高、镜头模组过厚，以及实际画质提升有限。
+
+《ETNews》报导，三星曾测试由MCNEX与三星电机供应的可变光圈镜头模组，不过内部评估认为，影像品质改善幅度不大，若因此拉高制造成本、甚至让机身明显变厚，效益并不划算，因此最终打消导入计划。
+
+事实上，三星早在2018年推出的Galaxy S9系列时，便曾采用「可变光圈」设计，具备F1.5与F2.4两个光圈值，但受限于结构复杂、机身厚度与成本考量，在后续旗舰系列已遭到移除，转而依赖软体演算法强化拍摄效果。
+
+不过，市场近期盛传苹果计划在2027年推出的旗舰机款iPhone 18 Pro，首度导入可变光圈相机技术，也让外界关注三星若不跟进，是否会在高阶手机相机规格战中承受更大压力。
+
+可变光圈可依照环境光源自动调整至理想的光圈值，提升进光量并加强控制曝光，有助于在低光源场景下拍出更清晰、明亮的照片。
+
+（本文由MoneyDJ新闻授权转载；首图为Galaxy S26 Ultra，来源：Unsplash）]]></description>
+  </item>
+  <item>
+    <title>川普 Truth Social「VIP 抢先看」遭告涉贪、违宪</title>
+    <link>https://finance.technews.tw/2026/08/13/trump-sued-over-truth-social-advance-access-sale/</link>
+    <guid>https://finance.technews.tw/2026/08/13/trump-sued-over-truth-social-advance-access-sale/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:15:06 +0000</pubDate>
+    <description><![CDATA[美国总统川普因 Truth Social 推出「付费抢先看」服务挨告。美国新闻机构 The Intercept 与非营利组织新闻自由基金会（Freedom of the Press Foundation）12 日告上纽约南区联邦地区法院，指控 Truth Social 让付费客户提前掌握利多，涉嫌违反美国宪法第一及第五修正案，要求法院出手禁止。
+
+CNBC等外媒报导，川普自创社群平台Truth Social母公司川普媒体科技集团（TMTG）7月推出付费API服务「Truth API」，让订阅者比一般用户更快取得川普及其他具影响力帐号的贴文。代理执行长Kevin McGurn日前透露，目前已有逾10家客户签约，主要为高频交易公司，月费介于6万至10万美元。
+
+原告主张，川普经常透过Truth Social发布关税、贸易政策和中东局势等重大消息，屡屡牵动股价涨跌，若让付费客户优先取得，等同以高价出售利多消息，也让一般免费用户处于资讯劣势的不利地位。
+
+原告在诉状中直批，此行径不仅违宪，还把贪腐合理化，非常荒谬，并指川普藉TMTG最大股东身分公然贪污，是破坏司法元凶。TMTG则回应，科技公司将平台资料商业化是业界普遍做法，且Truth API提供的内容本来就是公开资讯，只是让付费客户「快一点点」取得。
 
 （本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>荷莫兹海峡续封锁，国际能源总署再下修石油需求预测</title>
-    <link>https://technews.tw/2026/08/13/hormuz-closure-squeezes-global-economy-as-oil-demand-destruction-intensifies/</link>
-    <guid>https://technews.tw/2026/08/13/hormuz-closure-squeezes-global-economy-as-oil-demand-destruction-intensifies/</guid>
-    <pubDate>Thu, 13 Aug 2026 00:40:41 +0000</pubDate>
-    <description><![CDATA[荷莫兹海峡遭到封锁导致供应持续吃紧，加上高油价抑制买气，国际能源总署 12 日大幅下修今年全球石油需求预测。
+    <title>Google 创办人布林亲自督军，重整 AI 团队抢救 Gemini 力拚逆袭强敌</title>
+    <link>https://technews.tw/2026/08/13/brin-ai-teams-all-in-gemini/</link>
+    <guid>https://technews.tw/2026/08/13/brin-ai-teams-all-in-gemini/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:10:06 +0000</pubDate>
+    <description><![CDATA[根据《路透社》报导，Google 共同创办人谢尔盖·布林（Sergey Brin）近期频繁督促内部 AI 团队，要求将核心资源与心力集中于提升旗舰模型 Gemini 的效能。此举凸显出母公司 Alphabet 面对强敌环伺，正急欲加快脚步以扭转竞争劣势。
 
-法新社报导，国际能源总署（International Energy Agency，IEA）预估，今年石油需求每日将减少160万桶。IEA 7月月报预测每日减少100万桶。
+消息人士透露，布林已多次向技术团队精神喊话，呼吁全员全力投入 Gemini 的开发工作。他特别强调，团队应聚焦于探索能让模型持续进化的技术方向，尤其是「递回式自我提升」（Recursive self-improvement），也就是赋予 AI 系统在极少人工干预的情况下，能够自动优化自身程式码与运算表现的能力。
 
-自从美国和以色列2月底对伊朗发动攻击、引发战争以来，油价一直远高于战前水准，数个波斯湾国家的石油设施也在冲突中受损。
+报导进一步指出，随著 OpenAI 与 Anthropic 等竞争对手屡屡祭出技术突破，Google 内部承受的竞争压力剧增，促使高层转向更强势、直接的管理模式。事实上，Google 在部分技术领域已落入「追赶者」的被动局势；内部测试结果便残酷地显示，Gemini 在程式码撰写等关键能力上仍不及对手，这项弱点甚至迫使新版 Gemini 的发布时程硬生生延迟了两个月。
 
-德黑兰以对约全球五分之一石油供应所经的荷莫兹海峡（Strait of Hormuz）进行实质封锁做为反制。
-
-设在巴黎的IEA表示：「荷莫兹海峡持续封锁以及高燃料价格继续压抑石油消费。」IEA指出，全球石油日供应量7月增加240万桶，来到1亿150万桶，但是仍较去年同期减少630万桶。
-
-IEA表示，「7月及8月初战事再起，海上运输中断，削弱复苏努力」。该机构目前预期今年全球平均供应量每日将减少430万桶，预期明年才会回升。在需求方面，IEA预测今年第4季石油需求将恢复成长。
-
-（首图来源：Flickr/Michael GaylardCC BY 2.0）]]></description>
+总结而言，布林此次重返 AI 第一线亲自督军，不仅确立了 Gemini 做为 Google 迎战强敌、缩小技术差距的关键武器地位，更深刻反映出当前生成式 AI 市场的军备竞赛，已迈入前所未有的白热化阶段。]]></description>
   </item>
   <item>
-    <title>Pasqal 携手 Aeponyx 创量子运算里程碑，首度以光子晶片成功捕获单一原子</title>
-    <link>https://technews.tw/2026/08/13/pasqal-aeponyx-single-atom-capture-photonic-chip/</link>
-    <guid>https://technews.tw/2026/08/13/pasqal-aeponyx-single-atom-capture-photonic-chip/</guid>
-    <pubDate>Thu, 13 Aug 2026 00:30:39 +0000</pubDate>
-    <description><![CDATA[量子运算公司 Pasqal 8 月 10 日宣布，已成功利用光子积体电路（PIC）产生的雷射光，将单一原子捕获并控制在量子处理单元中。这项技术突破是与旗下收购不到 18 个月的子公司 Aeponyx 共同缔造，并被业界视为朝向「容错、工业规模」量子电脑迈出的关键一步。
+    <title>麦可贝瑞遭轧空？Nebius 财报报喜、股价飙 34%</title>
+    <link>https://finance.technews.tw/2026/08/13/nebius-surges-34-on-strong-earnings-report/</link>
+    <guid>https://finance.technews.tw/2026/08/13/nebius-surges-34-on-strong-earnings-report/</guid>
+    <pubDate>Thu, 13 Aug 2026 03:00:09 +0000</pubDate>
+    <description><![CDATA[辉达（Nvidia）拥有近 10% 股权的荷兰 AI 基础建设供应商 Nebius Group 最新公布的第二季（4-6 月）营收击败华尔街原先预期，主因 AI 基础建设的强劲需求，让该公司得以赢得大型合约并提高价格。
 
-Pasqal 的中性原子量子电脑高度仰赖极度聚焦的雷射光束（即所谓的「光学镊子」），来捕捉并操控做为量子位元的单一原子。随著公司推进「超过 1 万个原子、100 个逻辑量子位元」的长期目标，光学硬体的复杂度也随之飙升，传统上往往需要极占空间的大型自由空间光学平台。此次将关键的光学功能转移至晶片上，正是为了解决这项扩展瓶颈。
+路透社、MarketWatch等外电报导，Nebius 12日公布Q2财报：营收较去年同期暴增454%至5.823亿美元；经调整的非一般公认会计原则（Non-GAAP）每股亏损为0.68美元。根据LSEG调查，分析师原本预测Q2营收为5.7275亿美元。
 
-Pasqal 执行长 Wasiq Bokhari 表示，将量子位元控制技术转移至光子晶片上，消除了公司认为在扩展规模上最重要的障碍之一，而这项成果是在收购 Aeponyx 后短短 18 个月内便完成。
+Nebius执行长Arkady Volozh表示，公司正将持续成长的需求转化为「已有合约支撑、且具获利能力的成长」。
 
-公司指出，在实际示范中，单一光子晶片成功产生了四个光学陷阱，并在量子处理单元内固定住四个铷原子。Pasqal 认为，这是全球首度利用光子晶片输出的光线，成功在中性原子量子电脑中捕获原子。
+Nebius采用的是辉达晶片，目前已签下4笔AI云端合约，平均每笔金额超过10亿美元，带动合约总值成长近3倍，新客户合约金额更跃增逾9倍。
 
-测试结果显示，这套光子晶片架构的原子捕获表现，已能媲美 Pasqal 现有的传统大型光学系统，原子寿命约为 27.5 秒。Pasqal 强调，这证明了整合式光子技术能成为未来中性原子处理器的可靠基石，且完全不会牺牲量子位元的控制品质。
+Q2期间，Nebius资本支出约达57亿美元，高于Visible ‌Alpha调查的分析师预估值47亿美元，主因该公司持续积极投入GPU采购与资料中心扩建行动。
 
-这套平台是结合 Aeponyx 的氮化矽（Silicon Nitride）光子专业技术共同开发，目标是将未来处理器的光学占用空间最多缩小 50 倍，并为大规模制造提供更具体可行的路径。Pasqal 接下来将持续扩展这项光子架构，朝更紧凑的系统迈进，以支援容错、工业级的量子运算，并坚守超过 1 万个原子与 100 个逻辑量子位元的长期愿景。]]></description>
-  </item>
-  <item>
-    <title>肥胖恐是阿兹海默症帮凶？最新研究揭开「脂肪破坏大脑」的致命机制</title>
-    <link>https://technews.tw/2026/08/13/obesity-may-induce-alzheimers-disease/</link>
-    <guid>https://technews.tw/2026/08/13/obesity-may-induce-alzheimers-disease/</guid>
-    <pubDate>Thu, 13 Aug 2026 00:20:24 +0000</pubDate>
-    <description><![CDATA[长期以来，医学界多认为中年肥胖会显著增加罹患阿兹海默症（Alzheimer’s disease）的风险，甚至可能让失智机率激增 74%。然而，两者之间的生物学机制却一直缺乏确切的解答。近日，一项最新研究终于揭开了这层神秘面纱：科学家发现，一种特定的「脂肪分子」会从身体组织进入大脑，破坏脑部免疫防御并引发神经退化。这项发现不仅颠覆了过去对阿兹海默症的认知，也为未来的预防与治疗开启了全新解方。
+被问及SpaceXAI等新进业者竞争加剧的问题时，Volozh表示，AI算力需求仍远高于供给，而且按照目前的合约条件，Nebius规划的2027年全部产能都能找到买家。
 
-由休士顿卫理学术研究院（Houston Methodist Academic Institute）及威尔康奈尔医学院（Weill Cornell Medicine）的 Stephen Wong 博士与研究员 Li Yang 共同领导的团队在《Molecular Neurodegeneration》期刊公开了这项突破性研究。
+Nebius表示，本季签署的AI云端合约，每兆瓦（MW）年度合约价值超过2,000万美元，预计将于第四季末开始上线。
 
-研究团队发现，肥胖会导致体内一种名为「磷脂醯乙醇胺」（phosphatidylethanolamine，简称 PE）的脂质分子浓度异常升高。这些过剩的脂肪分子会随著血液长途跋涉进入大脑，破坏细胞膜与「脂质恒定」，进而扰乱神经元与大脑免疫细胞间的通讯。在恶劣环境下，大脑免疫防御被削弱，促使有毒的「类淀粉蛋白」大量积聚──这正是阿兹海默症的标志性特征。
+公司将2026年已签约电力容量目标从先前的逾4吉瓦（GW）上调至5吉瓦，并预计自2027年起，每年部署超过1吉瓦的新增容量，相当于约75万户美国家庭的用电量。
 
-好消息是，这个破坏过程似乎是可逆的。研究团队在超过 2,400 种化合物中，筛选出一种名为「依布硒」（ebselen）的候选药物，并在阿兹海默症的小鼠模型中进行测试。
+Nebius预计今年将收到逾90亿美元的客户预付款，并表示目前客户承诺金额已超过400亿美元。
 
-结果显示，给予 ebselen 治疗后，不仅成功恢复了大脑中的 PE 脂质平衡、改善了神经免疫功能，还显著减少了与阿兹海默症相关的病理变化。更重要的是，小鼠在学习、记忆与专注力等「认知表现」上，都有了明显的提升。
+Nebius 12日闻讯跳空暴涨34.14%、收259.20美元，创6月30日以来收盘新高。
 
-这项研究为医学界带来了观念上的震撼：阿兹海默症不应只被视为单纯的「大脑疾病」，大脑健康其实与全身新陈代谢紧密相连。
+Nebius近期这波股价涨势可能也受到空单回补带动。Nebius吸引不少放空者关注，其中包括电影〈大卖空〉（Big Short）主角本尊、2008年全球金融海啸爆发前放空不动产抵押证券的知名对冲基金经理人麦可贝瑞（Michael Burry）。贝瑞上周披露以每股约211.77美元放空Nebius，并形容放空该股就像「瓮中捉鳖」（shooting fish in a barrel）一样容易。
 
-专家指出，未来或许能透过精准医疗，针对脂质平衡开发药物，或是搭配目前广泛用于减重与糖尿病的 GLP-1 药物（俗称瘦瘦针），在患者中年时期及早介入。「与其将阿兹海默症视为一体适用的疾病，不如针对病患的代谢状况量身打造治疗方案，」Wong 博士总结，这将为代谢高风险族群带来更好的预防与治疗前景。]]></description>
-  </item>
-  <item>
-    <title>从 2017 年喊到现在，特斯拉首席设计师松口：Roadster「很快」上市</title>
-    <link>https://technews.tw/2026/08/13/tesla-roadster-very-fast/</link>
-    <guid>https://technews.tw/2026/08/13/tesla-roadster-very-fast/</guid>
-    <pubDate>Thu, 13 Aug 2026 00:10:45 +0000</pubDate>
-    <description><![CDATA[特斯拉（Tesla）发表多年却迟迟未量产的第二代 Roadster 跑车，近期再度成为车迷热议的话题。特斯拉首席设计师弗朗兹·冯·霍尔兹豪森（Franz von Holzhausen）近日作客知名汽车节目《Jay Leno’s Garage》时，针对这款超跑的上市进度，两度给出「很快」（Very soon）的承诺。
+贝瑞并非唯一看空Nebius的投资人。截至7月底，Nebius放空股数达6,020万股，占在外流通股近30%。一般而言，放空比重超过20%即代表市场放空程度相当高。
 
-当主持人杰·雷诺（Jay Leno）打趣追问这款车「是不是发表快十年了？」时，冯·霍尔兹豪森笑著坦言，距离 2017 年 11 月的初次亮相，确实「还差一点就满十年了」。
+与辉达深度合作的新型云端商CoreWeave于8月11日美股盘后公布的第二季（4-6月）营收、每股盈余也都击败分析师原先预估，且2026年营收展望超越预期，12日股价跳空飙涨19.28%、收107.73美元，创6月22日以来收盘新高。
 
-🏎️ “Tesla Roadster coming very soon”@woodhaus2tells@jaylenoon@LenosGarage.
+其他新型云端概念股同步走扬。IREN、Applied Digital分别劲扬9.86%、4.92%。
 
-The highly anticipated car will be released before the 10 year announcement anniversary.https://t.co/415VpL18rZpic.twitter.com/VTzCST9qru
-
-— Matthew Donegan-Ryan (@MatthewDR)August 10, 2026
-
-回顾这款纯电跑车的发展史，第二代 Roadster 最早于 2017 年 11 月风光登场。当时特斯拉不仅承诺将于 2020 年启动量产，更随即开放买家以 5 万至 25 万美元不等的巨额订金进行预购。然而，原订的 2020 年上市目标不仅落空，后续的交车时程也屡屡推迟，至今仍未见到实车下线。
-
-外界普遍分析，Roadster 严重延宕的关键，在于特斯拉近年将营运重心与资源大幅转移。除了全力冲刺高销量的主力车款外，公司也积极布局人工智慧（AI）、自动驾驶与机器人等前瞻领域。
-
-特斯拉执行长马斯克（Elon Musk）在 2024 年 10 月的财报电话会议上也证实了此一说法。他坦言，Roadster 虽然仍在持续推进中，但并非当前的「优先事项」，必须排在其他更重要、影响力更大的工作之后。
-
-尽管非首要任务，但近期 Roadster 的进展似乎悄悄按下了加速键。冯·霍尔兹豪森除了在节目上重申上市「很快」之外，今年 6 月他出席奥地利的 Tesla Takeover Europe 活动时，就曾暗示 Roadster 的相关示范将在「几周内」到来。
-
-此外，外媒报导也指出，特斯拉在去年夏天已重新加快该车款的设计与开发脚步，今年更为其申请了至少三项与车标徽章相关的商标，种种迹象皆暗示新车型已有实质进度。
-
-不过，预购车主们可能还不能高兴得太早，截至目前为止，特斯拉官方依然没有公开宣布正式发表活动，也未提供确切的上市日期。相关报导分析，即便外界盛传的「8 月展示」真的登场，充其量也只会是一次示范活动，而非代表产线正式启动量产。要真正进入交车阶段，恐怕还需要再让车主们等上一段时间。]]></description>
-  </item>
-  <item>
-    <title>美封杀中无人机，配备光达、热成像等五机种全面纳管，雷虎、汉翔、亚光等受惠</title>
-    <link>https://technews.tw/2026/08/13/us-bans-chinese-drones-five-models-lidar-thermal-imaging-regulated-benefiting-thunder-tiger-aidc-asia-optical/</link>
-    <guid>https://technews.tw/2026/08/13/us-bans-chinese-drones-five-models-lidar-thermal-imaging-regulated-benefiting-thunder-tiger-aidc-asia-optical/</guid>
-    <pubDate>Thu, 13 Aug 2026 00:00:56 +0000</pubDate>
-    <description><![CDATA[美国封杀中国无人机再升级，美国联邦通讯委员会（FCC）拟将中国无人机管制范围从「阻挡新机上市」扩大至「追溯封锁旧机」，并将五大类机种全面纳管，这是继中国封锁无人机出口零组件后，美中无人机之争再度出现政策级过招。
-
-业界指出，美中彼此封杀对方无人机系统，台链可望得利。其中，整机与系统的雷虎生、汉翔可望主导台湾无人机联盟带领台链进军美国市场，零组件方面包括光学厂亚光、电池厂格斯科技、精密铸造厂晟田等，都有抢食的利基。
-
-根据外电，美国FCC拟将配备光达（LiDAR）、热成像、农业喷洒、蜂群飞行及自动机库等功能的外国制无人机，纳入「军用级」产品管制，过去已取得FCC设备认证、原本仍可继续进口与销售的既有机种，也可能被迫退出美国货架，形同对中国无人机接近全面封杀。
-
-据美国联邦公告，FCC准备禁止搭载光达感测器的无人机。FCC去年底发布禁令，把所有外国制无人机及其关键零件纳入「管制清单」（Covered List），不准进口，但已获许可机种可以继续输入。
-
-FCC新提案要回头撤销部分机种销售许可，锁定具有「军事级」功能的无人机，如配备光达、热成像感测器或具有机群功能等。
-
-光达以脉冲雷射评估实际距离，并打造精准的3D地图。无人机、运送机器人、自驾车都仰赖这种科技避开障碍物。新提案若生效，表示大疆创新（DJI）配备光达的热门消费无人机，如Air 3S、Mini 5 Pro，将无法在美国出售。
-
-业内指出，这项政策代表美国无人机去中化已从政府采购及军用市场，进一步向商用、农业及消费市场推进。随中国业者新旧产品同步遭到夹击，美国市场庞大替代需求即将浮现，全球无人机供应链也将加速重组，这对台湾无人机供应链而言将是重大产业契机。
-
-此前，FCC于2025年12月将外国制无人机及关键零组件列入管制清单，阻止相关业者为新机型取得FCC设备认证。由于美国贩售的无人机通常须取得FCC认证，这项措施实质封锁中国厂商推出新产品，但在规定生效前已取得认证的旧机种，仍可继续进口及销售，成为中国品牌延续美国市场重要管道。这道窄门如今也恐关上。
-
-（作者：黄淑惠、宋健生、陈昱翔；本文由经济日报授权转载；首图来源：Unsplash）]]></description>
-  </item>
-  <item>
-    <title>从「34 发一失」缩至「14 发一失」，中国火箭近年发射成功率降</title>
-    <link>https://technews.tw/2026/08/13/china-rocket-launch-success-rate-declines-in-recent-years/</link>
-    <guid>https://technews.tw/2026/08/13/china-rocket-launch-success-rate-declines-in-recent-years/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:50:20 +0000</pubDate>
-    <description><![CDATA[中国长征七号甲运载火箭 10 日在升空不到 90 秒后发生爆炸解体，发射任务失败。香港明报12 日报导，中国航太发射规模持续扩张，但近三年发射成功率持续下降。发射失利的平均间隔更从「34 发一失」缩短至「14 发一失」。
-
-长征七号甲发射失败8月10日从文昌发射中心起飞的长征七号甲CZ-7A火箭，起飞后发生爆炸，发射失败。pic.twitter.com/MNySBFbLZ1
-
-— 朝闻 (@xu159411209)August 10, 2026
-
-根据公开资料，中国2026年，截至目前为止，共有56次轨道发射，52次成功、4次失败，成功率约92.86%。相比2024年97.1%（68发2失）及2025年95.9%（74发3失），近三年发射成功率持续下降。航太失利的平均时间间隔显著缩短，由2024年的约每34次发射出现一次故障，降至2025年约25次，今年缩短至约每14次有一发失利。
-
-这波失利潮的背景，是中国航太正迎来高密度发射期。中国财新网指出，2026年上半年，中国航太发射规模已创历史同期新高，公开统计显示上半年完成约44至48次发射，其中商业发射占超过六成。在长征七号甲失败之前，今年1月的长征三号乙、谷神星二号和4月的天龙三号先后惨遭发射失败。
-
-另一方面，明报指出，外界关注，中国计划8月下旬在海南文昌太空发射场利用长征五号火箭发射嫦娥七号探测器，前往月球南极寻找水冰。长五与长征七号甲改属不同型号，但长五的四具液体助推器与长七甲的第一级核心引擎，皆采用YF-100煤油液氧发动机。目前没有任何公开证据指向发动机故障。路透社引述太空与卫星通讯行业分析师柯肖（Blaine Curcio）指出，长七甲的失利「影响似乎有限」，并预计不会对嫦娥七号的发射日程产生重大影响。
-
-大纪元则报导，目前尚不清楚长七甲发射失败将如何影响未来的任务。该火箭的第一级和助推器均使用YF-100煤油/液氧发动机，该发动机也用于长征五号运载火箭。
-
-业内人士猜测，如果此次发射失败与发动机有关，可能会导致北京今年最重要的发射任务之一延期。长征五号运载火箭目前计划于8月24日发射嫦娥七号月球南极著陆任务。
-
-嫦娥七号任务是中国探月计划的重要组成部分，它集轨道器、著陆器、巡视器和小型跳跃器于一体。它的目标是月球南极附近的沙克尔顿环形山区域。这将是迄今为止在国际上首个派往该区域的月球车。
-
-（本文由中央广播电台授权转载；首图为长征五号B运载火箭，来源：CNSA）]]></description>
-  </item>
-  <item>
-    <title>MSCI 最新一季调整出炉，南亚科、华邦电、群联携手载板股高唱凯歌</title>
-    <link>https://finance.technews.tw/2026/08/13/mscis-latest-quarterly-adjustments-have-been-released/</link>
-    <guid>https://finance.technews.tw/2026/08/13/mscis-latest-quarterly-adjustments-have-been-released/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:40:41 +0000</pubDate>
-    <description><![CDATA[MSCI 明晟于 8 月 13 日清晨公布最新一季调整结果，台股成分股出现显著异动。在本次调整中，全球标准指数的台股成分股新增了南亚科、华邦电、群联、景硕、南电、台耀科等6档个股，同时剔除了康霈、力旺、鈊象电、台企银、阳明及台泥等6档。另外，在全球小型指数成分股方面，则新增了波若威等23档，并删除了上品等27档。上述所有调整预计将于 8 月 31 日盘后正式生效。
-
-在此次季度调整登场前，法人机构便已预测看好记忆体指标股有机会成为新科MSCI成分股。最终结果显示，南亚科、华邦电与群联等记忆体大将均顺利入列全球标准指数成分股。其中，贵为台股第12大权值股、市值高达1.4兆元的南亚科，其纳入过程尤为受到市场关注。
-
-事实上，南亚科早在2025年11月就曾被寄予厚望。但过去因股价大涨、数度被列为处置股而影响流动性，导致多次与MSCI成分股擦身而过。随著近期南亚科脱离处置股行列，加上主管机关修改处置分盘相关规定，使其流动性影响淡化，本次终于顺利入列。
-
-法人评估，这将牵动国际资金进驻，对台股大盘具有一定贡献。而外资圈对南亚科的后市也普遍持乐观态度，包括摩根士丹利等外资皆给予正向投资评等。此外，摩根士丹利同样也看好华邦电的DRAM与SLC NAND/NOR价格优势将延续至2026年下半年。
-
-新增23档：包括波若威、康霈、金居、力旺、光红、上诠、环宇-KY、禾伸堂、竑腾、鈊象电、雍智科技、联友金属-创、盟立、南俊、沛尔生技、大量、台企银、台泥、雷虎、尖点、联合再生、合晶科、阳明。
-
-剔除27档：包括上品、明泰、国宾、台湾精锐、正崴、晟铭、欣陆、大华建设、台郡、葡萄王、意腾、奕力-KY、建大、景硕、M31、世纪民生、南电、南亚科、群联、瑞鼎、兴农、志强、台耀科、新光保全、环球水泥、华邦电。
-
-由于MSCI的季度调整除了成分股本身的洗牌外，更会直接影响台股权重，进而牵动全球主动与被动基金在台股市场的资金分配与流向。随著台股市值提升，本次成分股调整显著变多，后续市场押宝风潮与外资法人的资金流向，将是8月底生效前市场关注的焦点。]]></description>
-  </item>
-  <item>
-    <title>恶意 SIM 卡成入侵手机新漏洞，可远端执行程式码与窃取资料</title>
-    <link>https://infosecu.technews.tw/2026/08/13/malicious-sims-can-shut-down-phones-steal-files-and-drag-5g-back-to-2g/</link>
-    <guid>https://infosecu.technews.tw/2026/08/13/malicious-sims-can-shut-down-phones-steal-files-and-drag-5g-back-to-2g/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:40:37 +0000</pubDate>
-    <description><![CDATA[英国伯明翰大学指出，恶意或遭入侵的 SIM 卡不只连网，还可能成为攻击手机与行动通讯设备的入口。研究员在美国巴尔的摩 USENIX WOOT 会议发表成果，展示 SIM 卡可用标准化「Proactive SIM」功能，下指令给装置，要求执行 AT 命令，造成资料外泄、服务中断，甚至远端执行程式。
-
-这项研究由伯明翰大学 Tomasz Piotr Lisowski 与 Marius Muench 联合 Fuzzware 的 Kristian Covic 完成，开发 CATANA 工具测试 SIM 原生 AT 命令风险。团队共检测 26 台装置，包括 18 支智慧手机与八台 IoT 数据机，发现九个装置对 SIM 开放 AT 命令介面；IoT 装置就有七台暴露介面。
-
-团队并揭露四项漏洞，并示范多种攻击手法，包括任意档案读取、拒绝服务、连线降级到 2G，以及特定装置执行程式。研究员强调，这些功能其实都建立在行动通讯技术规格上，属「符合规格」的攻击，但也代表相关风险长期遭低估。
-
-实测时，团队用搭载 Quectel EC25-AFX 行动模组的 Autel 电动车充电器，以 SIM 发送指令，成功利用数据机 Linux 型应用处理器的命令注入漏洞取得执行程式权限。Oppo Reno14 F 5G 则研究员发现 SIM 介面可存取 198 个 AT 命令与变体，部分命令可直接关机、关闭数据机，或强制降回 2G，且即使切换飞航模式、停用 SIM 或修改网路设定，也无法恢复较安全连线。
-
-团队并示范 Quectel EG25-G 数据机档案窃取攻击：攻击者可结合恶意符号连结与来自 SIM 的命令，将指定档案寄送到由攻击者控制的伺服器。部分受影响 Android 版本允许恶意 SIM 在手机锁定时，无需使用者互动就触发标准化 LAUNCH BROWSER 命令，开启攻击者指定的网站；Google 已将此问题列为 CVE-2025-48618，并于 2025 年 12 月修补 Android 13~16 版系统。
-
-研究员表示，这类攻击仍需先取得 SIM 控制权，可能来自 SIM 软体遭入侵、实体窜改、恶意或遭破解的电信业者远端管理滥用，或供应链环节遭动手脚。团队 3 月已通报 Google、Oppo、Quectel、Semtech 与高通，并于 5 月通知 GSMA；高通之后提供预设关闭 SIM AT 介面的强化设定，GSMA 则将整体问题编号 CVD-2026-0122 继续追踪。团队认为，最好方法是淘汰 RUN AT 等高风险的 Proactive SIM 功能。]]></description>
-  </item>
-  <item>
-    <title>台达电扩产不停，重庆二期厂拍板、投资约 26 亿元</title>
-    <link>https://technews.tw/2026/08/13/delta-electronics-continues-production-expansion-chongqing-phase-2-plant-approved-investment-2-3-billion-yuan/</link>
-    <guid>https://technews.tw/2026/08/13/delta-electronics-continues-production-expansion-chongqing-phase-2-plant-approved-investment-2-3-billion-yuan/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:30:49 +0000</pubDate>
-    <description><![CDATA[台达电全球扩产脚步持续，昨（12）日公告，旗下台达电子（重庆）有限公司董事会通过兴建重庆二期厂房，暂估工程总价款约人民币 5.46 亿元，折合新台币约 26.1 亿元，主要因应未来业务发展所需，工程契约相对人及其他相关事宜待确定后另行公告。
-
-随 AI 与资料中心需求持续成长，台达电近年加快全球扩产。董事长郑平日前于法说会表示，今年 AI 产业成长率预估与去年相近，公司仍有进一步扩充产能的需求，目前持续评估印度、中国、泰国及美国等地产能，并预计今年决定新的厂点。
-
-目前台达电全球产能以中国及泰国为主，中国占比约 45%，泰国约占 30%，其余分布于台湾、美国、印度及欧洲斯洛伐克等地。其中，泰国已有 3 座新厂进入验收阶段，泰国一厂也正进行拆除重建，完成后产能将倍增。此外，台湾、中国及美国也同步扩建产能。
-
-值得注意的是，台达电今年资本支出规模也明显增加。今年上半年公司资本支出已达新台币 275 亿元，全年预估朝 700 亿元，相较去年全年 466 亿元大幅增加，大增约 5 成。
-
-至于此次重庆二期厂，台达电目前尚未公布预计完工及投产时间，也未揭露新厂产品项目与新增产能规模，后续工程契约相对人及其他相关细节仍待公司进一步公告。]]></description>
-  </item>
-  <item>
-    <title>科技巨头卖 AI 愿景高喊周休三日制，基层却惨陷「每周 90 小时」爆肝地狱</title>
-    <link>https://technews.tw/2026/08/13/tech-giants-tout-ai-reduces-work-hours-employees-push-back/</link>
-    <guid>https://technews.tw/2026/08/13/tech-giants-tout-ai-reduces-work-hours-employees-push-back/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:20:35 +0000</pubDate>
-    <description><![CDATA[科技业高层多年来不断描绘一幅美好愿景：人工智慧（AI）将大幅缩短人类的工作时间，甚至迎来「周休三日」（四天工作制）的时代。然而，最新报导无情戳破了这层美好的滤镜。多位现任与前任科技业员工出面爆料，指出许多 AI 团队的工时不减反增，在专案「冲刺期」甚至狂飙至每周 90 小时以上，深夜待命与周末加班早已成为甩不掉的常态。
-
-四年前，一名 Google 工程主管曾大胆预言，AI 将在 2025 年前实现四天工作制。今年，OpenAI 也公开呼吁企业界试办「不减薪的四天工作周」，声称 AI 能大幅提升劳动效率，加速人类工作进程。然而，一名前 OpenAI 技术人员却无奈表示，公司在对外呼吁的同时，内部却从未实施过该制度。取而代之的是无止境的「危机处理会议」、周末狂赶进度，以及严苛到随时可能让人无预警卷铺盖走人的绩效考核。
-
-就算不是直接参与 AI 开发的工程师，也深受其害。一名于今年 5 月离职的前 Google 员工透露，由于公司将关键算力与储存资源大幅倾斜至 AI 专案，导致内部常规工程系统频频当机，他经常得在半夜爬起来抢修工作。
-
-他坦言，离职后睡眠与整体健康状况才终于好转，这让他深刻体会到，大型科技公司对 AI 的过度依赖，已经衍生出「压力过大」的恶劣企业文化。
-
-总结来说，科技业高层口中的「AI 乐观叙事」，与基层员工每天面对的「长工时炼狱」，存在著极大的落差。当企业一面宣称 AI 将释放人力，一面却要求员工将效率红利转化为更多的产出时，所谓「更少工作」的美好未来，目前看来仍只是一句空洞的口号。]]></description>
-  </item>
-  <item>
-    <title>说好的节省记忆体呢？Windows 11 天气 App 竟占用 1.6GB RAM</title>
-    <link>https://technews.tw/2026/08/13/windows-11-weather-app-uses-more-than-1gb-of-ram/</link>
-    <guid>https://technews.tw/2026/08/13/windows-11-weather-app-uses-more-than-1gb-of-ram/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:10:19 +0000</pubDate>
-    <description><![CDATA[微软之前承诺让 Windows 11 更节省记忆体资源，但内建「天气」应用程式测试结果反映承诺未见成效。实测发现天气 App 在一般操作下，记忆体占用最高可达约 1.5GB，个别情况更逼近 1.6GB，让针对低记忆体装置改良系统目标大打折扣。
-
-测试显示问题并非只出现在程式启动期间。天气 App 刚开启时会使用约 1GB 记忆体，闲置后下降至约 600MB，最低曾到约 500MB。然而用户只要再次与程式互动，例如进行缩放操作，记忆体用量便迅速回升至约 1.5GB，甚至短暂升至 1.6GB。对配备 32GB RAM 电脑而言，这种用量或许影响轻微，但对只有 8GB RAM 的系统，就可能占用整体记忆体近两成。
-
-Windows Latest 另一次测试更发现，天气 App 即使处于闲置状态，记忆体占用也已超过 1.2GB。研究人员拆解后指出，问题根源在于天气 App 并非原生 Windows 应用程式，而是以 WebView2 技术开发 MSN 天气网页包装版本，「工作管理员」内同时可见多达 9 个 Chromium 相关子行程在背景运作。
-
-值得留意的是，Windows 11 天气 App 本身也大量显示广告。天气 App 与 MSN 广告生态系统有密切整合，用户除了要面对广告，同时也要承受较高资源占用。相比之下，macOS 内建「天气」App 记忆体使用量不到 250MB，与微软天气 App 测得最高约 1.6GB 相比，后者最高用量约为前者 6 倍。
-
-对只有 8GB 或 16GB RAM 电脑来说，这种资源占用可能造成明显延迟。当可用记忆体不足时，Windows 会更积极利用 SSD 作为虚拟记忆体，可能让整体系统操作明显变慢。
-
-微软已将 8GB RAM 机型记忆体改良列为下半年度四大开发重点之一，并提到会持续调校 WinUI 3 及降低 Chromium、WebView2 元件资源消耗，但目前尚未公布天气 App 专属改善计划或时间表。对记忆体容量较有限的用户，现阶段可考虑禁止「天气」App 在背景执行，或直接移除程式，以免单纯查看天气预报时，记忆体用量超过其他的完整应用程式。
-
-Windows 11’s built-in Weather app should not be using over 1GB of RAM just to show me whether it will rain.
-
-I opened Weather during heavy rain because my phone was charging. The forecast itself was good: radar, hourly precipitation, wind, AQI, moon phase, severe alerts, the…pic.twitter.com/XgkuOm68Pt
-
-— Windows Latest (@WindowsLatest)August 9, 2026
-
-（本文由Unwire HK授权转载；首图来源：Microsoft Store）]]></description>
-  </item>
-  <item>
-    <title>【专访】崇越林志豪：20 多年来首次所有客户同步扩产，矽晶圆市场将面临结构性缺料</title>
-    <link>https://finance.technews.tw/2026/08/13/the-silicon-wafer-market-will-face-a-structural-shortage-of-materials/</link>
-    <guid>https://finance.technews.tw/2026/08/13/the-silicon-wafer-market-will-face-a-structural-shortage-of-materials/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:00:36 +0000</pubDate>
-    <description><![CDATA[随著半导体需求在 AI 与先进制程的推动下持续飙升，全球矽晶圆产业正迎来一波罕见的荣景。崇越科技资深总经理林志豪指出，目前全球半导体产能稼动率逼近满载，且产业出现 20 多年来首次所有类别客户同步积极扩产的难得现象。而且，除了终端需求成长之外，包括先进封装技术、背面供电技术等新技术采「多片晶圆合一」 的最新趋势，使矽晶圆的平均消耗量成倍数成长。再加上客户对安全库存的焦虑，供不应求的态势恐将延续，甚至在 2028 年可能爆发结构性的实质缺料危机。
-
-林志豪表示，目前半导体晶圆厂的稼动率极高。尤其在AI晶片需求热潮带领下，先进逻辑制程与先进记忆体厂（如HBM）皆处于满载状态，还有 AI 庞大的周边衍伸 IC 元件（如电源管理元件、主被动元件等）需求更进一步外溢，使得原本的 12 吋与 8 吋成熟制程产线也呈现爆满。在此情况下，全球 12 吋矽晶圆厂的平均稼动率预估高达 95% 至 100% 的高档。
-
-这种强劲的需求推动了晶圆厂极为积极的扩产计划。林志豪指出，这是他进入产业 20 多年来，首次遇到不论是逻辑，还是记忆体制程，所有类别的 12 吋晶圆厂客户都在同时进行扩产。包含国内外的半导体大厂，其扩产产能预计将在 2027 至 2029 年大量开出，这对上游的矽晶圆需求带来显著的成长考验。
-
-在需求端，矽晶圆消耗模式的转变是本次景气循环最根本的变化。林志豪分析，过去生产一个 IC 元件通常仅消耗一片晶圆（1:1）。但近年在先进制程与封装技术推动下，多片晶圆才能产出一个元件的技术趋势越发明显。以目前火热的高频宽记忆体（HBM）为例，需要将 8 到 12 片的 DRAM 晶圆与 1 片逻辑晶圆堆叠。未来甚至会朝 16 片、20 片堆叠的趋势发展，这使得晶圆消耗比急遽放大。
-
-至于，逻辑晶片代工大厂陆续推出的晶背供电技术，同样需要额外贴合一片「承载晶圆」（carrier） 制作电力线的架构，使原先的逻辑晶片消耗量变成「两片变一片」。此外，包括背照式感光元件（BSI CIS）、3D NAND Flash、以及先进封装中的矽中介层（silicon interposer）技术，皆需要额外消耗大量矽晶圆。这种技术性的消耗乘数，正以前所未有的速度拉升全球矽晶圆的总需求量。
-
-至于，面对无法掌控的未来供需，各半导体大厂的「备货焦虑」正逐渐浮现。林志豪提到，为了避免缺料风险，客户现在纷纷希望能提高库存水位。在目前供需平衡极度紧绷、在产能仅有 100% 的情况下，当所有客户同时要求多买一个月的库存，便会凭空产生缺口，并形成类似「抢卫生纸」的过度下单（Overbooking）效应。
-
-此心理效应不仅加剧价格波动，也助长了价格涨势。林志豪透露，因矽晶圆新厂房安装新设备需面临高昂的折旧成本，供应商必定会将这些成本转嫁给客户，因此新开出的产能价格势必往上。而且，在供不应求的环境下，不论是长约（LTA）还是现货价，矽晶圆的整体价格趋势只会持续上扬。
-
-针对未来的市场隐忧，林志豪示警，由于矽晶圆供应商近年在建厂与扩产上的步伐相对保守加上建置设备一般需要 18 个月前置时间。但客户端扩厂需求却非常积极，到了 2028 年，市场恐将面临实质的结构性缺口。届时客户的安全库存可能会被逐渐消耗殆尽，导致部分客户出现买不到足够矽晶圆来投片生产的窘境。
-
-至于，区域市场的影响，中国的成熟制程虽然快速扩张，但各国对中国 12 吋生产晶圆进口均有限制，如台湾禁止大陆12 吋生产用晶圆进口。加上中国本土自给自足需求极强，因此预估 3 至 5 年内不会对全球价格产生破坏的情况。
-
-在海外布局方面，随著客户在美国预估以每年大于一座厂的速度推进，未来产能规模有望显著拉近与台湾的比例，这情况使得崇越科技对此也积极跟进。除了在亚利桑那州、达拉斯设有营业据点，2026 年亦计划于爱达荷州设立据点，并已在美购入土地，未来待产量扩大后将可随时规划建设自有仓库，以在地化服务协助客户在全球供应链中夺得先机。]]></description>
-  </item>
-  <item>
-    <title>天虹科技两项技术第一拚从追随跃升市场领先，订单能见度到明年第一季</title>
-    <link>https://technews.tw/2026/08/13/skytechs-two-technologies-have-propelled-it-from-a-follower-to-a-market-leader/</link>
-    <guid>https://technews.tw/2026/08/13/skytechs-two-technologies-have-propelled-it-from-a-follower-to-a-market-leader/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:00:18 +0000</pubDate>
-    <description><![CDATA[国内关键半导体设备大厂天虹科技（Skytech）表示，要致力打破半导体设备领域由外商主导的格局。执行长易锦良指出，天虹科技凭借天时、地利、人和优势，与台湾在地顶尖客户合作开发多项「世界第一」的设备，正吹响从跟随者转型为「市场领先者」的号角。
-
-易锦良表示，天虹科技的营运表现强劲，订单能见度已达 2027 年第一季，ALD（ 原子层沉积）设备出货比重显著提升，目前在湖口厂设有先进制程开发专区，「代工一区」已被客满，「代工二区」即将有客户进驻，预计 2027 年首季前 「代工三区」也将被预订。此外，天虹科技与客户合作成立的委外实验室近期开始运转，并配备台湾设备业罕见的高规格无尘室，以支持超先进制程开发。天虹科技迄今也已取得 425 件专利，其中约半数为具防御价值的发明专利。
-
-在全球布局上，天虹正加速国际化，下季设备将正式销往美国。集团旗下除持股逾 60% 的辉虹科技外，其他包括新天虹、传金（上海）及新加坡 GTEG 皆为 100% 持股。2025 年底天虹更并购日本已成立十多年的 JTCK（现改名为哲虹科技），该厂邻近联电日本三重县厂，预计未来将做为拓展日本市场的在地重要据点。至于，重点区域熊本，随著客户的发展，未来势必也是要积极摄点耕耘的地区。
-
-易锦良强调，在技术研发方面，天虹科技在 ALD 领域缔造两项「世界第一」。UV ALD（Lumina 腔体）方 面，针对极先进制程，传统热反应或电浆（Plasma）反应易造成元件物理损伤（Plasma damage）或过多热预算。天虹科技首创利用 UV 紫外光的光化学反应取代热与电浆反应，避免过热与损伤，成为受瞩目的产品。
-
-至于在 PLP ALD 设备方面，首创将传统仅用于 12 吋晶圆的 ALD 技术，导入 310mm x 310mm 的面板级封装（PLP）平台，预计 2027 年年初推出。还有在其他先进机台方面，天虹科技将于下个月出货全新开发的 12 吋机械式剥离（Mechanical De-Bond）机台。易锦良表示，当客户采用非透明材质贴合，如矽片贴合矽片以解决热膨胀系数不均时，雷射或 UV 光无法穿透，机械式剥离即成为关键解法。
-
-此外，针对 TSV、TGV 等高深宽比结构，天虹科技也正开发 NEXDA B-HSC PVD 腔体，利用偏压技术提高电浆密度，大幅优化阶梯覆盖率。2026年 底，湖口厂也将装设新型的 Ra 蚀刻腔体，锁定碳相关材料与矽蚀刻商机。
-
-展望未来，天虹科技也精准对焦 AI 与第三代半导体趋势。其中在矽光子与 CPO 部分，用光取代电的传输趋势兴起，天虹科技已切入磷化铟（InP）相关材料设备，带动 2026 年显著营收。而天虹在光波导（Silicon Waveguide）亦有布局，并看好智慧眼镜未来问世带来的 ALD 制程商机。
-
-另外在第三代半导体与资料中心方面，随著 AI 资料中心大量建置，对用电效率要求剧增，带动碳化矽（SiC）与氮化镓（GaN）设备需求。易锦良预估，SiC 产业 2027 年将面临下一波扩产契机，天虹科技设备需求将随之水涨船高。最后在 PLP 平台部分，2025 年初应客户需求开发 310mm x 310mm 规格的 PLP 平台，至 2026 年底将出货第 5 台，除首台为验证机外，其余皆已收费，ROI 极高。
-
-易锦良强调，当前的天虹科技正展现深厚研发能量，以具备世界第一的设备实力，在全世界半导体热潮下，伴随台湾半导体设备业迈向国际舞台。]]></description>
-  </item>
-  <item>
-    <title>AI 代理应用崛起将从端到云带动核心半导体元件需求</title>
-    <link>https://technews.tw/2026/08/13/ai-agent-applications-drive-core-semiconductor-component-demand-edge-cloud/</link>
-    <guid>https://technews.tw/2026/08/13/ai-agent-applications-drive-core-semiconductor-component-demand-edge-cloud/</guid>
-    <pubDate>Wed, 12 Aug 2026 23:00:12 +0000</pubDate>
-    <description><![CDATA[此文与拓墣产业研究院合作，转载内容为部分精华，欲购买完整报告请洽拓墣官网
-
-AI 代理是 AIGC 时代下最高层次的应用解决方案，随著 LLM 的能力越强，AIGC 应用切入的领域越来越广，利用 AI 代理做为 AIGC 应用的管理者、数位化员工、随身助理或单纯的陪伴角色，几乎是必然的发展路径，而这也可能将 AIGC 应用需求推上新的高峰。本篇文章将带你了解 :2030年后AI代理将大举提升个人产出能力、降低企业人力需求AI代理革新运算硬体配置，伺服器CPU需求或成长20～30%]]></description>
+拥有CoreWeave、Nebius股权的辉达同步上涨3.03%、收224.09美元，创6月1日以来收盘新高。]]></description>
   </item>
 </channel>
 </rss>
