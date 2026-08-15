@@ -4,7 +4,7 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sat, 15 Aug 2026 16:09:27 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 20:07:55 GMT</lastBuildDate>
   <item>
     <title>罕见疾病意外揭开抗癌秘密，科学家看见新希望</title>
     <link>https://technews.tw/2026/08/16/how-these-twins-rare-growth-disorder-could-provide-the-key-to-preventing-cancer/</link>
@@ -55,7 +55,7 @@
 （首图来源：Flickr/Teresa TrimmCC BY 2.0）]]></description>
   </item>
   <item>
-    <title>全球最大电池电动飞机仅花 5 美元完成试飞，预计 2031 年投入商用服务</title>
+    <title>全球最大电动飞机仅花 5 美元完成试飞，2031 年投入商用</title>
     <link>https://technews.tw/2026/08/15/the-worlds-largest-battery-powered-electric-aircraft-completed-its-test-flight-for-only-5/</link>
     <guid>https://technews.tw/2026/08/15/the-worlds-largest-battery-powered-electric-aircraft-completed-its-test-flight-for-only-5/</guid>
     <pubDate>Sat, 15 Aug 2026 08:00:01 +0000</pubDate>
@@ -93,23 +93,23 @@ Heart Aerospace 计划于 2028 年在洛杉矶的新试点工厂展开预产飞�
 监管压力也在升高。美国联邦贸易委员会开始关注企业对外宣称的 AI 功能与实际功能是否一致，澳洲则在 12 月以隐私法引入首个 AI 清单申报义务。整体来看，企业关键问题不再是是否有政策，而是是否知道哪些 AI 接触公司资料，以及能否出事时证明风险都在控制中。]]></description>
   </item>
   <item>
-    <title>台积电、矽品、鸿海等供应链加持，辉达宣布 Spectrum-X 以太网路矽光子交换机量产</title>
-    <link>https://finance.technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/</link>
-    <guid>https://finance.technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/</guid>
+    <title>台积电、矽品、鸿海等供应链加持，辉达宣布 Spectrum-X 乙太网路矽光子交换机量产</title>
+    <link>https://technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/</link>
+    <guid>https://technews.tw/2026/08/15/nvidia-announces-mass-production-of-spectrum-x-ethernet-silicon-photonics-switches/</guid>
     <pubDate>Sat, 15 Aug 2026 07:00:23 +0000</pubDate>
-    <description><![CDATA[随著 AI 工厂与 GPU 集群规模持续扩大，伺服器间庞大的资料传输，导致了高功耗与散热问题日益严峻。为了解决传统可插拔光模组在功耗与频宽上的瓶颈，GPU大厂辉达（NVIDIA）正式宣布，其 Spectrum-X 以太网路矽光子交换机已进入全面量产阶段，并被定义为全球首款进入量产的 200G/lane CPO 以太网路交换机系统。
+    <description><![CDATA[随著 AI 工厂与 GPU 集群规模持续扩大，伺服器间庞大的资料传输，导致了高功耗与散热问题日益严峻。为了解决传统可插拔光模组在功耗与频宽上的瓶颈，辉达（NVIDIA）正式宣布，Spectrum-X 乙太网路矽光子交换机已进入全面量产阶段，并被定义为全球首款进入量产的 200G / lane CPO 以太网路交换机系统。
 
-辉达表示，该量产系统的核心在于采用了共封装光学（CPO）技术，将数百个矽光子引擎直接与交换晶片（ASIC）封装在同一个基板上。相较于传统在面板插入独立光模组的设计，CPO 技术大幅缩短了光电信号转换的路径，显著减少能量损耗与热量产生。
+辉达表示，该量产系统的核心在于采用了共封装光学（CPO）技术，将数百个矽光子引擎直接与交换晶片（ASIC）封装在同一个基板。相较于传统在面板插入独立光模组的设计，CPO 技术大幅缩短了光电信号转换的路径，显著减少能量损耗与热量产生。
 
-此外，该架构将雷射光源迁出，改由外部雷射源模组在受控环境下统一提供光源，使雷射器使用量缩减至原来的四分之一。根据 NVIDIA 揭露的数据，与传统方式相较，该交换机可达成 5 倍的网路功耗效率提升、5 倍的 AI 应用不间断运行时间，并将平均故障间隔时间（MTBF）大幅延长达 10 倍。
+雷射光源迁出，改由外部雷射源模组在受控环境下统一提供光源，使雷射器使用量缩减至原来的四分之一。根据 NVIDIA 揭露的数据，与传统方式相较，该交换机可达成 5 倍的网路功耗效率提升、5 倍的 AI 应用不间断运行时间，并将平均故障间隔时间（MTBF）大幅延长达 10 倍。
 
-在硬体规格方面，量产产品展现了极高的频宽密度。其中，SN6810 能在 2U 液冷机箱中挤入 128 个 800 Gb/s 连接埠，传输容量高达 102.4 Tbps。而更大规模的 SN6800 则在 5U 系统中堆叠了 4 颗 ASIC 晶片，提供高达 409.6 Tbps 的超高容量，支援 512 个 800 Gb/s 连接埠，或超过 2000 个 200 Gb/s 连接埠。机箱内部更配备了光纤整合设计，让扩充连接更为扁平，避免因增加交换层级而产生多余的延迟。
+硬体规格方面，量产产品展现了极高的频宽密度。SN6810 能在 2U 液冷机箱挤入 128 个 800 Gb/s 连接埠，传输容量高达 102.4Tbps。而更大规模的 SN6800 则在 5U 系统中堆叠四颗 ASIC 晶片，提供高达 409.6Tbps 的超高容量，支援 512 个 800Gb/s 连接埠，或超过 2 千个 200Gb/s 连接埠。机箱内部更配备了光纤整合设计，让扩充连接更为扁平，避免因增加交换层级而产生多余的延迟。
 
-这款划时代的交换机系统是由多家行业龙头共同打造，展现了深厚的产业链协同能力。其中，晶圆代工龙头台积电负责先进矽光子晶片制造，矽品承担晶圆级与晶片级封装及测试，Lumentum 与天孚通信（TFC）提供雷射晶片与模组子组件组装，而鸿海则负责整套交换机系统的开发与组装。产品在出货前，也会在 NVIDIA 的自家设施进行最后一轮严格测试。
+这款划时代的交换机系统是由多家行业龙头共同打造，展现了深厚的产业链协同能力。晶圆代工龙头台积电负责先进矽光子晶片制造，矽品承担晶圆级与晶片级封装及测试，Lumentum 与天孚通信（TFC）提供雷射晶片与模组子组件组装，而鸿海则负责整套交换机系统的开发与组装。产品在出货前，也会在 NVIDIA 的自家设施进行最后一轮严格测试。
 
-Spectrum-X 平台还整合了自适应路由、瓶颈控制与端到端遥测技术，以确保数千颗 GPU 同时通讯时的流量顺畅。透过多平面（multiplane）系统设计，单一线路故障不会导致整个架构停摆，而 Spectrum-XGS 技术更可将此网路架构扩展至整栋建筑或园区，将多个资料中心融合成单一协调系统。该技术在保持与开源工具（如 SONiC）兼容的同时，将 AI 网路传输速度提升了 1.6 倍。
+Spectrum-X 平台还整合自适应路由、瓶颈控制与端到端遥测技术，以确保数千颗 GPU 同时通讯时的流量顺畅。透过多平面（multiplane）系统设计，单一线路故障不会导致整个架构停摆，而 Spectrum-XGS 技术更可将此网路架构扩展至整栋建筑或园区，将多个资料中心融合成单一协调系统。该技术在保持与开源工具（如 SONiC）兼容的同时，将 AI 网路传输速度提升了 1.6 倍。
 
-市场预估，CPO 交换机的全面量产，代表著矽光子技术正式从实验室验证走向规模化商用，有望为大规模 AI 资料中心提供更高能效、更稳定可靠的基础设施。]]></description>
+市场预估，CPO 交换机的全面量产，代表著矽光子从实验室验证走向规模化商用，有望为大规模 AI 资料中心提供更高能效、更稳定可靠的基础设施。]]></description>
   </item>
   <item>
     <title>IKEA、沃尔玛都在做！摆脱烧钱魔咒，八大企业实战案例证明 AI 真能赚钱</title>
@@ -125,19 +125,19 @@ Spectrum-X 平台还整合了自适应路由、瓶颈控制与端到端遥测技
 这些实战经验一再凸显：AI 投资的成败，关键不在于企业是否「跟风使用了 AI」，而是它能否真正解决可衡量、具体化的商业问题。企业若能先清楚定义痛点、设定明确的成功指标，再审慎评估 AI 是否为最佳工具，方能成功避开「零回报」的专案陷阱，将技术投资转化为真实的商业红利。]]></description>
   </item>
   <item>
-    <title>辉达持有约 1.228 亿股 SpaceX 股权，成为该公司第六大股东促进双方合作</title>
+    <title>辉达持有约 1.228 亿股 SpaceX 股权，成第六大股东促进合作</title>
     <link>https://finance.technews.tw/2026/08/15/nvidia-holds-approximately-122-8-million-shares-of-spacex-equity/</link>
     <guid>https://finance.technews.tw/2026/08/15/nvidia-holds-approximately-122-8-million-shares-of-spacex-equity/</guid>
     <pubDate>Sat, 15 Aug 2026 06:00:44 +0000</pubDate>
-    <description><![CDATA[半导体大厂辉达（Nvidia）于本周五向美国证券交易委员会（SEC）提交的文件中披露，截至 2026 年第二季末，其持有 Elon Musk 旗下航太公司 SpaceX 约 1.228 亿股的 Class A 股份，当时这笔股权价值约为 210 亿美元。不过，随著  SpaceX 股价来到最新的每股 140 美元，这使得辉达持有的 SpaceX 股份价值目前只剩下约 172 亿美元。
+    <description><![CDATA[半导体大厂辉达（Nvidia）13 日提交美国证券交易委员会（SEC）文件披露，截至 2026 年第二季末，持有马斯克旗下航太公司 SpaceX 约 1.228 亿股的 Class A 股份，当时这笔股权价值约为 210 亿美元。不过，随著  SpaceX 股价来到最新的每股 140 美元，这使得辉达持有的 SpaceX 股份价值目前只剩下约 172 亿美元。
 
-根据资料显示，辉达目前已成为 SpaceX 的第六大投资者。在该公司的股权结构中，Elon Musk 本人依然是最大的股东，持股价值高达 8,500 亿美元。另外， Google 母公司 Alphabet  则以约 780 亿美元的持股位居第二。
+根据资料显示，辉达目前已成为 SpaceX 的第六大投资者。在该公司的股权结构中，马斯克本人依然是最大的股东，持股价值高达 8,500 亿美元。另外， Google 母公司 Alphabet  则以约 780 亿美元的持股位居第二。
 
 而对于辉达来说，投资 SpaceX 公司的第二大持股投资，仅次于其对英特尔（Intel）的持股。辉达对英特尔的投资在第二季末时曾高达 300 亿美元，目前价值则约为 220 亿美元，相较于辉达在不到一年前投入的 50 亿美元初始资金，依然实现了极为惊人的投资回报。
 
-辉达之所以取得 SpaceX 的股份，起源于 2026 年 1 月的一笔战略投资。当时辉达在 Elon Musk 旗下的 AI 新创公司 xAI 总额达 200 亿美元的募资中，总计投资了 100 亿美元。随后，SpaceX 于 2026 年 2 月以高达 1.25 兆美元的预估市值收购了 xAI，辉达持有的 xAI 股份也因此转换为 SpaceX 的股权。
+辉达之所以取得 SpaceX 的股份，起源于 2026 年 1 月的一笔战略投资。当时辉达在马斯克旗下的 AI 新创公司 xAI 总额达 200 亿美元的募资中，总计投资了 100 亿美元。随后，SpaceX 于 2026 年 2 月以高达 1.25 兆美元的预估市值收购了 xAI，辉达持有的 xAI 股份也因此转换为 SpaceX 的股权。
 
-除了股权关系，两家大厂在技术上的结盟也更加牢固。Elon Musk 在本月早些的 SpaceX 第二季财报会议上证实，SpaceX 的 AI 资料中心将会「独家使用」辉达的晶片。他强调，在 AI 模型的训练、推论以及相关产品与服务上，辉达的 GPU 具备其最佳架构。Elon Musk 也透露，他预期 SpaceX 将在 2027 年获得辉达最新一代 Vera Rubin GPU 的显著分配数量。这项承诺无疑为辉达未来的晶片出货量提供了强而有力的支撑，也展现出两家公司在尖端人工智慧领域深度绑定的野心。]]></description>
+除了股权关系，两家大厂在技术上的结盟也更加牢固。马斯克稍早 SpaceX 第二季财报会议证实，SpaceX 的 AI 资料中心将会「独家使用」辉达的晶片。他强调，在 AI 模型的训练、推论以及相关产品与服务上，辉达的 GPU 具备其最佳架构。马斯克也透露，他预期 SpaceX 将在 2027 年获得辉达最新一代 Vera Rubin GPU 的显著分配数量。这项承诺无疑为辉达未来的晶片出货量提供了强而有力的支撑，也展现出两家公司在尖端人工智慧领域深度绑定的野心。]]></description>
   </item>
   <item>
     <title>LG ELECTRONICS 推出 2026 LIFE’S GOOD 品牌活动，释放思绪，专注真正重要的人和事</title>
@@ -312,7 +312,7 @@ Clickhole 网站作家杰西‧麦盖瑞（Jessye McGarry）的说法或许最�
 （本文由经理人月刊授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>川湖受惠 AI 市场需求持续畅旺，7 月份惊人赚进 5 个股本</title>
+    <title>川湖受惠 AI 市场需求持续畅旺，7 月惊人赚进五个股本</title>
     <link>https://finance.technews.tw/2026/08/15/chuanhu-made-an-astonishing-profit-of-5-times-its-share-capital-in-july/</link>
     <guid>https://finance.technews.tw/2026/08/15/chuanhu-made-an-astonishing-profit-of-5-times-its-share-capital-in-july/</guid>
     <pubDate>Sat, 15 Aug 2026 03:00:02 +0000</pubDate>
