@@ -4,6 +4,200 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 21 Aug 2026 12:30:39 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 21 Aug 2026 18:25:10 GMT</lastBuildDate>
+  <item>
+    <title>TB 26-04 NASA 化学平衡与应用 (CEA) 代码的更新和现代化</title>
+    <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-04-updates-and-modernization-of-nasas-chemical-equilibrium-with-applications-cea-code/</guid>
+    <pubDate>Fri, 21 Aug 2026 17:41:00 +0000</pubDate>
+    <description><![CDATA[For more information, contact Mark K. Leader, Glenn Research Center,mark.leader@nasa.gov
+
+NASA’s Chemical Equilibrium with Applications (CEA) code is a foundational tool for propulsion system analysis. It provides equilibrium chemistry, rocket performance, shock, and detonation calculations used across NASA and the broader aerospace community. NASA Engineering and Safety Center (NESC) Activity TI-22-01730 modernized the legacy CEA2 Fortran code into CEA v3, a Fortran 2008, object-oriented software package with expanded interface support, updated thermochemical data, improved maintainability, and substantially improved workflow integration. The modernized code preserves backward compatibility with legacy CEA input workflows while enabling direct use from modern analysis environments, including Python, C, MATLAB, and automated design studies.BackgroundCEA2 was released in 2002 and has remained widely used for propulsion and thermochemistry analysis. However, the original procedural Fortran implementation became increasingly difficult to maintain, extend, and integrate into modern engineering workflows due to the lack of a subroutine interface. Current propulsion analysis increasingly requires automated parametric sweeps, integration with other modeling tools and engineering workflows, and support for emerging propellants and fuels, including green propellants and sustainable aviation fuels. These needs motivated a comprehensive modernization effort to preserve CEA’s validated technical basis while improving its maintainability, usability, and integration with modern engineering software.Technical ImprovementsModern Software ArchitectureCEA v3 is implemented in Fortran 2008 using object-oriented data structures, stricter typing, and a thread-safe equilibrium solver architecture. The software supports Fortran, C, Python, MATLAB, and Excel interfaces. These interfaces allow CEA to be used directly in automated analysis pipelines, multidisciplinary design frameworks, and high-volume designof- experiments studies. Backward compatibility is supported through a legacy command-line interface, allowing existing CEA input files and workflows to be carried forward with minimal disruption.Expanded Species and Thermodynamic DataThe thermodynamic database has been expanded to support additional propellants and fuels relevant to current NASA applications, including green propellant constituents such as ADN, HAN, and LMP-103S, and sustainable aviation fuel candidates such as n-Butanol. This expanded species coverage improves the applicability of CEA for next-generation propulsion, green propellant, and sustainable aviation fuel studies.New Modeling CapabilitiesCEA v3 adds or improves support for several modeling capabilities,including:Subroutine interface enabling direct integration and high-volume calculationsNegative reactant amountsInert hydrocarbon fuel representations, including RP-1, Jet-A, and JP-series fuelsAnalytic total derivatives for coupling with optimization and sensitivity analysis workflowsPerformance ImprovementsFor standalone use, individual equilibrium calculations in CEA v3 are moderately slower than comparable CEA2 calculations because the modernized architecture and added robustness introduce additional computational overhead. In representative testing, a single calculation was approximately 40 percent slower, but the absolute difference was only about 0.004 seconds per case. However, the modernized architecture provides substantial performance advantages for multi-case workflows, which are common in design-of-experiments studies, parametric sweeps, optimization, and uncertainty analyses. In one benchmark, a sweep of 108,500 cases completed in approximately 1.11 seconds with CEA v3, compared with approximately 15 minutes using CEA2. This corresponds to an approximately 800-times reduction in runtime for that workflow. These improvements make large-scale propulsion trade studies and automated design-space exploration significantly more practical.Guidance for Engineering UseNASA engineering users should consider the following guidance:Use CEA v3 for new propulsion and thermochemistry analyses when possible to take advantage of the modernized interfaces, expanded database, and improved workflow integration.Use the Python, MATLAB, or C interfaces for automated workflows, including parametric sweeps, optimization studies, and iterative design analyses.Use the updated species database for green propellant and sustainable aviation fuel studies when the relevant species are included and validated for the intended application.Use the classic command-line interface when continuity with legacy CEA workflows or input files is required.Retain appropriate engineering review and validation when transitioning established CEA2 workflows to CEA v3, particularly for mission-critical analyses or cases that depend on legacy assumptions.ReferencesNASA/TM–20260007987CEA documentation:https://nasa.github.io/ceaCEA repository:h]]></description>
+  </item>
+  <item>
+    <title>韦伯打开宝箱</title>
+    <link>https://www.nasa.gov/image-article/webb-opens-treasure-chest/</link>
+    <guid>https://www.nasa.gov/image-article/webb-opens-treasure-chest/</guid>
+    <pubDate>Fri, 21 Aug 2026 17:35:11 +0000</pubDate>
+    <description><![CDATA[美国宇航局的詹姆斯·韦伯太空望远镜于 2026 年 8 月 6 日拍摄到了船底座星云部分的红外图像，船底座星云是一个恒星形成区域，也是宇宙悬崖的所在地。这个特征被称为“宝箱”，是一个被称为彗星球的物体。彗星球是由气体和尘埃组成的孤立云，具有致密、黑色的头部和扫过的尾部。
+
+图片来源：ESA/Webb、NASA 和 CSA、M. Reiter；鸣谢：M. H. Özsaraç]]></description>
+  </item>
+  <item>
+    <title>美国宇航局阿耳忒弥斯二号机组人员将获得国会太空荣誉勋章</title>
+    <link>https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/</link>
+    <guid>https://www.nasa.gov/news-release/nasas-artemis-ii-crew-set-to-receive-congressional-space-medal-of-honor/</guid>
+    <pubDate>Fri, 21 Aug 2026 17:06:36 +0000</pubDate>
+    <description><![CDATA[唐纳德·J·特朗普总统将于美国东部时间 8 月 28 日星期五上午 11 点在该机构位于休斯敦的约翰逊航天中心举行仪式，向每位 NASA 阿尔忒弥斯二号机组成员授予国会太空荣誉勋章。
+
+4 月 10 日，NASA 宇航员里德·怀斯曼 (Reid Wiseman)、维克多·格洛弗 (Victor Glover) 和克里斯蒂娜·科赫 (Christina Koch) 以及加拿大航天局 (CSA) 宇航员杰里米·汉森 (Jeremy Hansen) 完成了为期 10 天的绕月飞行任务。在作为第一批登上 NASA 猎户座飞船的宇航员进行历史性试飞期间，这些宇航员是 50 多年来首次飞越月球，并且比人类以往在太空中的飞行距离更远。
+
+美国宇航局局长贾里德·艾萨克曼将与总统和宇航员一起参加颁奖典礼。
+
+此次活动将在多个平台进行直播。了解如何在线观看：
+
+除了汇集媒体之外，本次活动还提供有限的媒体认证。如需申请，请在下午 5 点之前在线提交您的请求。 CDT 8 月 25 日星期二。
+
+在该机构的网站上了解有关 NASA 阿尔忒弥斯计划的更多信息。
+
+贝瑟尼·史蒂文斯 / 谢丽尔·沃纳总部，华盛顿202-358-1600bethany.c.stevens@nasa.gov/cheryl.m.warner@nasa.gov]]></description>
+  </item>
+  <item>
+    <title>欧洲炎热的夏季</title>
+    <link>https://science.nasa.gov/earth/europes-scorching-summer/</link>
+    <guid>https://science.nasa.gov/earth/europes-scorching-summer/</guid>
+    <pubDate>Fri, 21 Aug 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[A series of heat waves in 2026 is breaking records and taking a toll in Europe.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser thatsupports HTML5 video
+
+Western Europe got its first hint of an unusual summer in May 2026, when a heat dome producedexceptional temperaturesthat shattered records in several countries. Remarkable as it was, that earlyheat waveturned out to be only the opening salvo.
+
+By mid-August, Europeans were sweating through theirfifth heat waveof the season, with the latest onslaught pushing temperatures well above 40 degrees Celsius (104 degrees Fahrenheit) across a broad area. During these bouts of extreme weather, high temperatures were often unrelenting, persisting for several days and sometimes weeks on end, and remaining overnight.
+
+For a region accustomed to relatively mild summers, the heat upended everyday life. Hospitalizations and heat-related deathsspiked. Highways and train tracksbuckled, forcing road closures andservice disruptions. Large and destructive wildfiresragedin areas where they were once rarely seen. The heat also worsened thesevere droughtthat has gripped the region for months, contributing torecord-lowriver water levels and disrupting water and power supplies, transportation routes, and agriculture.
+
+The animation above shows the daily maximum surface air temperature across Western Europe from May 1 to August 19, 2026. It was produced by combining satellite observations with temperatures predicted by a version of NASA’sGEOS(Goddard Earth Observing System) global model, which uses mathematical equations to represent physical processes in the atmosphere. The darkest red areas indicate where temperatures met or exceeded 40°C.The heat broke records at a furious pace, often by wide margins. According to theUK Met Office, temperatures soared as high as 35.1°C (95.2°F) in London on May 26, smashing the previous May record by 2.3°C (4.1°F). In June, Bordeaux, France, broke its maximum-temperature record on three consecutive days, hitting 42.5°C on June 24,Météo-Francereported. Slovakia, meanwhile, set new national records for bothdaytimeandnighttime highsin August. Combined June and July temperatures in Western Europe were the highest on record,accordingto Europe's Copernicus climate monitoring service.
+
+In Europe, extreme temperatures collided with several vulnerabilities, including limited access toair conditioning, high nighttime temperatures, and a lack of green space in some cities. The circumstances triggered not just discomfort butheat exhaustionandheatstrokein some cases. Preliminary reports suggest that heat may have been associated with10,000 excess deaths, including thousands of people in theUK,France,Germany, andBelgium.
+
+"Air conditioning is an especially critical issue in Europe in the short term," said Anamika Shreevastava, a researcher at New York University whostudied urban heat islandsas a postdoc at NASA’s Jet Propulsion Laboratory. One of her goals was to producethermal mapsbased on NASA data from missions likeECOSTRESSthat city planners could use to make cities more resilient to heat waves.
+
+International Energy Agency datashow that 23 percent of homes in Europe have air conditioning, compared to 90 percent of homes in the United States. That difference contributes to the much higher death rates that researchershave documentedin European cities during heat waves than in comparable American cities. "Longer term, cities can also plant trees, expand parks, use reflective roof paint, and transition to building materials less likely to retain heat,” Shreevastava said.
+
+An analysis from theWorld Health Organizationindicates that heat stress is the world’s leading cause of weather-related deaths, noting it exacerbates underlying illnesses, including cardiovascular disease, diabetes, mental health conditions, and asthma. Researchers have calculated that roughly 489,000 heat-related deaths occur each year, with 45 percent of the deaths in Asia and 36 percent in Europe.
+
+"For older adults with physical health problems, temperatures as low as 26.7°C (80°F) can pose significant danger," said Deborah Carr, a Boston University sociologist who specializes in the study of aging. "Nighttime heat is especially harmful for older adults whose homes lack air conditioning."
+
+Carr is part of a research team that used demographic data, along withtemperature and climate dataarchived by NASA,to identifywhich parts of the world are at the greatest risk of current and future heat exposure. Southern Europe was among the areas facing growing heat exposure and an aging population, the researchers found.
+
+Other research, published inLancet Planetary Healthin August 2026, underscores the importance of demographics in assessing the risks posed by heat. This study, led by Stanford researcher Qinqin Kong, mapped where increasing heat is likely to lead to intolerable conditions in the coming decades for young, middle-aged, and older adults, concludin]]></description>
+  </item>
+  <item>
+    <title>小卫星 2026</title>
+    <link>https://science.nasa.gov/earth/smallsat-2026/</link>
+    <guid>https://science.nasa.gov/earth/smallsat-2026/</guid>
+    <pubDate>Thu, 20 Aug 2026 20:05:41 +0000</pubDate>
+    <description><![CDATA[SmallSat 2026 与 NASA 一起在展览厅（展位号 635、835、641 和 940）聆听 NASA 专家的故事讲述。完整议程如下。 8 月 24 日星期一上午 9:00 – 10:00 欢迎何塞·努涅斯布莱斯科技的小卫星数据：2026弗莱彻·富兰克林供应链观测布鲁斯·约斯特技术短缺鲁迪·德·罗西SPARCS相机和早期科学观测凯特琳·阿什克罗夫特JPL：天幕坠落蒂姆·坎纳姆SWIFT LINK ReboostBo NaaszFlight […]]]></description>
+  </item>
+  <item>
+    <title>阿耳忒弥斯任务补丁</title>
+    <link>https://www.nasa.gov/image-article/artemis-mission-patches/</link>
+    <guid>https://www.nasa.gov/image-article/artemis-mission-patches/</guid>
+    <pubDate>Thu, 20 Aug 2026 15:13:51 +0000</pubDate>
+    <description><![CDATA[2026 年 8 月 6 日星期四，在佛罗里达州 NASA 肯尼迪航天中心的罗科·A·佩特龙发射控制中心内，在阿耳忒弥斯 III 任务的最后倒计时模拟中，一件饰有 Artemis I 和 II 任务补丁以及其他 NASA 补丁的夹克挂在椅背上。
+
+NASA 地面探索系统团队进行了终端计数模拟，该模拟贯穿了发射倒计时的最后 5 个小时，包括终端计数——倒计时的剩余 10 分钟。从阿尔忒弥斯 IV 开始，阿尔忒弥斯 III 号将在近地轨道上执行一系列目标，旨在演示未来登月所需的关键系统。
+
+随时了解 NASA 的阿尔忒弥斯计划。]]></description>
+  </item>
+  <item>
+    <title>NASA 选择大学团队来帮助推进航空研究</title>
+    <link>https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/</link>
+    <guid>https://www.nasa.gov/aeronautics/nasa-selects-university-teams-to-help-advance-aviation-research/</guid>
+    <pubDate>Thu, 20 Aug 2026 14:57:01 +0000</pubDate>
+    <description><![CDATA[美国宇航局选择了四个大学团队来帮助该机构通过从高超音速推进系统到小型飞机穿越城市的低噪音航线等项目来改变航空业的未来。
+
+该机构通过其大学领导力计划获奖，该计划为学生团队提供了为现实世界的飞行研究做出贡献的机会，从而推进 NASA 的航空目标。
+
+今年的获奖者正在追求符合 NASA 战略目标的项目，包括商用高速飞机的创新、开发能够实现航空转型突破的新工具、更安全、更高效的空中交通管理，以及将新的航空运输选项整合到国家空域。
+
+“通过这四个新奖项，大学创新项目正在向美国宇航局的航空任务优先事项倾斜，”美国宇航局克利夫兰格伦研究中心项目经理安德鲁·普罗文扎说。 “这些团队将研究用于超音速飞行的新推进概念、能够彻底改变航空航天系统设计和认证的新颖工程方法，以及用于新型先进和城市空中机动飞行器平台的学习型航空电子设备，从而增强空中交通管制的现代化。”
+
+该奖项代表了美国宇航局大学领导力倡议的第九轮资助。
+
+NASA 的奖金总额约为 3000 万美元，将为获奖大学提供多年支持，以建立团队和开展研究。该计划为学生提供实践经验，培养美国航空研究队伍，同时产生有助于推动航空业发展的研究成果。
+
+大学领导力倡议奖颁发给由研究生和本科生组成、由教职员工领导的团队。获奖者与其他大学、社区学院以及行业建立学术合作伙伴关系。来自美国宇航局、美国联邦航空管理局和其他组织的专家提供支持和指导。
+
+该项目由泰伦斯·迈耶 (Terrence Meyer) 领导，将在四年内开发一种燃料灵活的推进系统，该系统在起飞和亚音速飞行时使用传统的喷气涡轮风扇发动机，但在超音速飞行时将过渡到新型冲压喷气发动机。在冲压喷气发动机模式下，该系统将以 4 马赫（即超过 3,000 英里/小时）的速度巡航。该项目旨在实现高效、超音速飞行，包括高超音速飞行。
+
+这个为期四年的项目由 Somil Bansal 领导，旨在开发一种航空电子系统，用于控制飞机的通信、导航和其他包含机器学习的电子设备。该系统将采取一种确保整个运营过程中不断加强安全性的方法。这项研究可以帮助航空部门创建一个框架，将人工智能航空电子设备安全地集成到国家空域。
+
+由胡安·阿隆索领导的通过该奖项创建的中心将在四年内开发一个高保真模拟框架，重点是为未来的小型飞机在城市环境中开发低噪音飞行路径。开发商正在设想城市空中机动飞机作为在人口稠密地区运送人员和货物的方式。该中心将整合声音在城市中传播的真实模型，以实现车辆飞行路径，从而减少新空中交通带来的社区噪音暴露。
+
+这个为期三年的项目由 Darshan Sarojini 领导，旨在改造下一代飞机设计，同时集成强大的新型计算机建模工具：基于模型的系统工程、多学科设计、分析和优化以及高维不确定性量化。目标是安全、更快、更高效的建模，从而减少飞机开发周期后期成本高昂的重新设计。
+
+十多年来，NASA 的大学领导力计划培育了大胆的想法、协作研究和团队主导的解决方案。该计划是美国宇航局研究与技术任务理事会的一部分。]]></description>
+  </item>
+  <item>
+    <title>俯视图：双子座视力实验</title>
+    <link>https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/</link>
+    <guid>https://www.nasa.gov/history/the-view-from-above-the-gemini-visual-acuity-experiments/</guid>
+    <pubDate>Thu, 20 Aug 2026 14:30:00 +0000</pubDate>
+    <description><![CDATA[NASA astronaut L. Gordon Cooper, Jr. took 29 color photographs of the Earth with a 70mm camera as he orbited our planet during theMercury-Atlas 9mission in May 1963. Cooper’s view from the window of his Faith 7 spacecraft was spectacular, and he reported that he could see vehicles motoring on dirt roads, smoke-belching trains, and the tops of houses.
+
+Researchers and members of the public had their doubts. Could Cooper actually see objects on the Earth’s surface in such fine detail while orbiting 100 miles above the planet? Some vision experts assumed that astronauts with 20/20 vision could not clearly see objects with sides less than 150 feet long at orbital altitudes. Although Cooper reportedly had exceptional 20/12 vision, certainly he could not see a white automobile kicking up a dust cloud near the U.S.-Mexico border as he claimed. Cooper, however, was not alone in his assertions. OtherMercury astronautsalso reported seeing objects on the Earth in striking detail.
+
+These claims caused mental health professionals to question the sanity of NASA’s first astronauts. A story inAir Force and Space Digestnoted that some psychiatrists speculated that “weightlessness was causing the astronauts to hallucinate and that the space program was in for serious trouble.” While mental health experts considered the effects of space flight on the brain, visual acuity experts mulled over the Mercury astronauts’ assertions and developed an experiment to determine what they could see on Earth from space.
+
+NASA and its partners developed two visual acuity experiments and conducted them during the crewed Gemini V and Gemini VII missions.  The first experiment involved looking through an optical device reminiscent of binoculars. Test subjects looked through the eyepieces to see an assortment of rectangles in various positions and levels of contrast.  They were then asked to identify the directional orientation of the rectangles.
+
+Another part of the experiment involved creating two enormous terrestrial eye charts composed of gigantic white rectangles. The rectangles, created by the Dow Chemical Corporation, ranged in size from roughly 150 to 600 feet long. The experiment team placed one set of rectangles on dark tilled soil in Laredo, Texas and another near Carnarvon, Australia, and asked Gemini V and VII astronauts to identify their directional orientation from orbit. This visual acuity tool was nicknamed the “Eye-Q” chart.
+
+Cloudy conditions, sunlight scattered by the window of the Gemini spacecraft, and unfavorable orbital orientations during overflight all impacted the astronauts’ views of the ground-based experiments. Nevertheless, during some orbital revolutions, astronauts on both missions were able to see portions of the ground site near Laredo.
+
+Their reports on the Laredo “Eye-Q” site, combined with the results of the binocular-like vision tester experiments conducted before, during, and after the flight, revealed that astronauts could in fact see roads and ships with following wakes from orbit. The experiments also determined that an astronaut’s vision did not deteriorate during a two-week spaceflight.1
+
+Determining what features on Earth astronauts could accurately see from orbit was about much more than sanity checking astronaut reports. Understanding what human eyes could see from space, as well as seeing the photographs taken on NASA’s early crewed missions had huge implications for geologists, geographers, oceanographers, and others studying our planet.
+
+The scientific community’s interest in the recollections and photographs of the Earth’s surface as seen by the Mercury and Gemini astronauts motivated NASA and its partners to advocate for new Earth-observing instruments. NASA, the U.S. Geological Survey, the Office of Naval Research, and the U.S. Department of Agriculture noted that surface images of the Earth captured from above could be used to inventory crops, map geological features, monitor natural disasters, and better understand the ocean’s processes.
+
+The promise of these real-world applicationsmotivated the creationof theEarth Resources Technology Satellite(ERTS), later renamed Landsat 1. Launched by NASA in 1972, the data from Landsat 1’s camera and multi-spectral scanner were used along with data from the agency’s Earth Resources Aircraft Program to monitor the oceans, agricultural fields, natural disaster sites, and more.
+
+In the six decades since America’s first pioneering human spaceflights, NASA has continued to observe the Earth from orbit, aircraft, and even ground level in a continuing quest to help solve problems here on Earth.
+
+[1] In subsequent years, scientists have documented that roughly 70% of astronauts experienceSpaceflight Associated Neuro-ocular Syndrome (SANS)during longer spaceflights.
+
+In the 1960s, NASA was pioneering a new era of human spaceflight—and astronaut photography—that would…
+
+Apollo astronauts previewed their roles as lunar field geologists in Alaska’s Valley of Ten T]]></description>
+  </item>
+  <item>
+    <title>雪旱影响持续存在，美国宇航局数据为河流预测提供信息</title>
+    <link>https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/</link>
+    <guid>https://science.nasa.gov/centers-and-facilities/goddard/nasa-river-forecasts-snow-drought/</guid>
+    <pubDate>Thu, 20 Aug 2026 14:12:09 +0000</pubDate>
+    <description><![CDATA[Writer/Editor (IV), Earth Science Division
+
+As the effects of the 2026 snow drought in the western United States carry into summer, NASA Earth data is feeding machine-learning forecasts that inform decisions about water, power, and public safety in Washington state.
+
+Tacoma Power, a Washington public utility, is using a U.S. technology company’s river-flow forecasts during a year of water extremes on the Cowlitz River. The utility’s largest hydroelectric project uses water stored behind Mayfield and Mossyrock dams to generate enough electricity to serve more than 151,000 homes each year.
+
+Upstream Tech’s HydroForecast combines weather forecasts and river measurements with NASA-produced satellite data on snow cover and vegetation conditions to predict river flow from hours to days ahead. Updated every two hours, the forecasts are used by reservoir managers, hydropower producers, water utilities, and government agencies to prepare for storms, plan reservoir water releases, and navigate dry periods.
+
+“Part of NASA’s mission is to make the view from space useful on the ground,” said Erin Urquhart, manager for NASA’s Water Resources program at the agency’s headquarters in Washington, D.C. “When an American company incorporates NASA’s freely available data into forecasts that help water managers prepare for floods, generate power, and steward water supplies, that’s NASA delivering practical value to the nation.”
+
+During the winter of 2025-26, unusual warmth meant a larger share of precipitation fell as rain instead of snow across much of the West, while below-normal precipitation deepened deficits in some areas. January, February, and March each had the lowest Western snow cover for that month in the NASAMODIS(Moderate Resolution Imaging Spectroradiometer) satellite record since 2001.
+
+On the Cowlitz, those conditions produceda season of extremes. In December 2025, apowerful atmospheric riverbrought a long, narrow band of Pacific moisture into the region, causing one of the largest one-day inflow surges ever recorded at Tacoma Power’s hydroelectric project. Across the season, that rain-heavy pattern sent water downstream quickly instead of building mountain snowpack that would melt and release water steadily into summer. Snowpack remained at just 20% to 50% of normal levels.
+
+As winter became spring, the rain tapered off, and on April 8, Washington state placed every watershed, including the Cowlitz, under adrought emergency. From April through June, peak daily inflow into the project was among the lowest on record, leaving Tacoma Power with less incoming water to replenish its reservoirs ahead of summer demand, said Saul Villarreal, Tacoma Power’s senior hydro operations manager.
+
+NASA turns observations collected by the VIIRS (Visible Infrared Imaging Radiometer Suite) instrument on theSuomi-NPP(Suomi National Polar-orbiting Partnership) satellite into data products that provide information about snow cover and vegetation greenness across entire watersheds, including where ground monitors are sparse.
+
+To train HydroForecast, Upstream Tech collects and archives years of those NASA products alongside weather forecast data and actual river-flow measurements. Using records from hundreds of watersheds, the models learn common patterns in how water moves through the landscape and apply them in new locations.
+
+Tests across multiple basins found that including snow and vegetation observations increased forecast skill, said Dr. Laura Read, director of technical and federal partnerships for HydroForecast at Upstream Tech. “NASA’s data gives us the reliability, global coverage, and consistency we need,” said Read. “Our short-term models run every two hours, so those inputs have to show up when we need them. Though we have stopgaps in place, any interruption to our operational pipeline is a huge deal.”
+
+Tacoma Power uses HydroForecast alongside stream gauges, snow stations, and operator judgment. During the December storm, the NASA-informed, short-term forecast helped the utility anticipate how much water would reach the project and prepare for dynamic river conditions, while meeting operating requirements and keeping public safety at the forefront, Villarreal said.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser thatsupports HTML5 video
+
+As spring approached, the operational challenge reversed. Tacoma Power used HydroForecast’s seasonal model to track the growing risk of weak runoff and began keeping its reservoirs higher than usual to preserve water for summer. That left less space to contain another large storm, so operators continued checking the short-term forecast “to play defense,” and remained ready to adjust operations if another atmospheric river developed.
+
+“The earlier we understand how conditions might change, the more effective planning we can do to manage our reservoir and balance the many demands of our system throughout the season,” said Villarreal.
+
+Tacoma Power enter]]></description>
+  </item>
+  <item>
+    <title>APOD：2026 年 8 月 20 日——仙王座的象鼻</title>
+    <link>https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/</link>
+    <guid>https://science.nasa.gov/image-article/apod/apod-2026-august-20-the-elephants-trunk-in-cepheus/</guid>
+    <pubDate>Thu, 20 Aug 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[探索宇宙！每天都会展示我们迷人的宇宙的不同图像或照片，以及由专业天文学家撰写的简短说明。
+
+说明：就像银河故事中的插图一样，象鼻星云蜿蜒穿过发射区和年轻的星团复合体 IC 1396，位于高而遥远的仙王座。这头宇宙象的鼻子也被称为 vdB 142，超过 20 光年长。详细的望远镜图像显示了明亮的后掠脊以及该地区大量存在的凉爽星际尘埃和气体。但黑暗的卷须状云含有恒星形成的原材料，并在其中隐藏着原恒星。相对微弱的 IC 1396 复合体距离近 3,000 光年，覆盖了天空的一大片区域，跨度超过 5 度。不过，这种类似长鼻动物的表演从上到下跨越了几乎 1 度宽的视野。这比 2 个满月的角尺寸要小一点。明天的图片：时空中的像素]]></description>
+  </item>
 </channel>
 </rss>
