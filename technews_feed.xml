@@ -4,7 +4,38 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sun, 23 Aug 2026 12:13:59 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 16:10:17 GMT</lastBuildDate>
+  <item>
+    <title>蓝牙耳机连线遭占用，阿里电商平台被抓包用 WebAudio 建数位指纹</title>
+    <link>https://infosecu.technews.tw/2026/08/23/aliexpress-reportedly-uses-webaudio-fingerprinting-to-keep-bluetooth-headphones-connected/</link>
+    <guid>https://infosecu.technews.tw/2026/08/23/aliexpress-reportedly-uses-webaudio-fingerprinting-to-keep-bluetooth-headphones-connected/</guid>
+    <pubDate>Sun, 23 Aug 2026 13:29:32 +0000</pubDate>
+    <description><![CDATA[一名使用蓝牙耳机的使用者注意到，自己无法透过手机播放音乐，因为蓝牙耳机遭占用，播放电脑浏览器来自 AliExpress 的无声音讯档案，一种追踪使用者的行为无意间被发现，也让使用网路的隐私疑虑再度被提出来讨论。
+
+阿里巴巴旗下跨境电商平台 AliExpress（全球速买通）被抓到，运用使用者的音讯系统来追踪、建立所谓「数位指纹」。
+
+Laserphile 部落格最新文章指出，近来使用蓝牙耳机遇到一个奇特状况。耳机支援多点蓝牙音讯，能够同时连接 PC 和手机；一般来说，PC 播放音讯有优先权，当 PC 没有任何音讯播放，手机便能播放音讯。使用者是用手机听音乐，同时让通知音效或 YouTube 透过 PC 播放，以自己的习惯做出区隔。
+
+但当使用者在 Firefox 或 Chrome 开启 AliExpress 首页后不久，来自手机的音讯便停止播放。关闭 AliExpress 网页后，又能继续播放手机音讯。
+
+使用者深入挖掘，发现 AliExpress 网页默默执行脚本（分别由 collina.js 和 fireyejs.js 建立），利用 WebAudio 进行浏览器数位指纹辨识。被隐藏的追踪行为透过音讯串流占用使用者的装置，因此蓝牙耳机遭强制保持连线，甚至抢走手机的音讯播放。
+
+浏览器开发商 Brave 指出，AliExpress 并不是在录音，而是播放一段无声的音讯，并侦测使用者各自特定的装置如何处理这段音讯，以建立数位指纹
+
+数位指纹是一种让网站不需要依靠 Cookie、不用在装置上储存任何资料，即使使用无痕模式也能辨识使用者的手法。网站会记下装置使用的各项细节，例如你的萤幕尺寸或已经安装的字型，这些细节会被组合成一份独特且持久的数位指纹，在整个网路上一路追踪使用者。
+
+由于处理器、音效卡、浏览器各方面的差异，当每一台装置播放同一个音讯档案时，都会存在细微的差异。当播放 AliExpress 那段无声音讯时，便侦测出细微差异，进而建立使用者的数位指纹。
+
+Brave 借此强调，其浏览器会阻挡 AliExpress 为执行上述追踪手法所使用的特定脚本。6 年多来，其浏览器以预设方式保护 Brave 使用者，例如将随机资料注入浏览器的输出内容，并在每一次工作阶段之间重新设定，如此一来，对不同的网站便会呈现出不同的数位指纹。
+
+For added protection, we also block the specific scripts used by AliExpress for the tracking method mentioned above.
+
+Again, this is done by default for all Brave users. You don’t have to change any settings to be shielded from this audio fingerprinting.
+
+— Brave (@brave)August 22, 2026
+
+这样的追踪行为之所以被发现，出自于一名使用者无法透过手机播放音乐的意外观察，借此机会也让所有网路使用者了解，数位指纹采集的多在使用者不知情的情况下进行追踪，使用者无法清除和控制，可能衍生隐私疑虑。]]></description>
+  </item>
   <item>
     <title>韩国晶片贸易顺差飙新高，半导体出口受惠 AI 热潮</title>
     <link>https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/</link>
@@ -398,27 +429,6 @@ AI与HPC应用被列为市场成长最大驱动力，预估2030年AI与HPC将占
 除了半导体封装，群创旗下CarUX与Pioneer的布局也受法人关注。CarUX未来美国上市计划，公司表示并购后，CarUX与Pioneer互动相当频繁，公司仍持续进行布局。
 
 群创下阶段真正值得观察的，不只是面板价格何时回升，而是能否把既有面板制程优势，以FOPLP量产经验、RDL与TGV技术，以及继续开发玻璃材料，逐步切入AI时代的半导体新供应链。]]></description>
-  </item>
-  <item>
-    <title>治了癌症却痛了关节，破解免疫疗法副作用谜团：「免疫记忆」竟是发炎加剧元凶</title>
-    <link>https://technews.tw/2026/08/23/immune-memory/</link>
-    <guid>https://technews.tw/2026/08/23/immune-memory/</guid>
-    <pubDate>Sun, 23 Aug 2026 00:30:51 +0000</pubDate>
-    <description><![CDATA[癌症免疫疗法为许多患者带来抗癌的新曙光，但其伴随的副作用却也让部分患者苦不堪言。美国德州大学安德森癌症中心（MD Anderson Cancer Center）最新研究指出，接受「免疫检查点抑制剂」治疗的癌症患者若引发发炎性关节炎，后续复发时可能不是「重新开始」新的免疫反应，而是原本的那批免疫细胞被再次唤醒，甚至变得更具破坏力。
-
-这项重要发现已刊登于权威期刊《Cancer Immunology Research》，有助于解释为何有些患者的关节炎会反复发作，且后续发作往往比初次更为严重。
-
-免疫检查点抑制剂的作用原理，是透过干扰会抑制免疫活性的分子讯号，形同解除免疫系统的「煞车」，让 T 细胞能更积极地辨识并攻击癌细胞。
-
-然而，这种强大的免疫反应也可能波及健康组织，引发「免疫相关不良反应」。关节便是常见的受害部位之一，患者会面临疼痛、肿胀与僵硬。更棘手的是，这些症状不一定会在停药后消失，部分副作用甚至会持续数月到数年之久。
-
-为了找出关节炎持续与复发的原因，研究团队分析了 6 名患者在「首次发炎性关节炎」与「后续复发」时的关节液。研究结果揭露了三个导致症状加剧的关键机制：
-
-安德森癌症中心免疫学教授 Roza I. Nurieva 表示：「癌症免疫治疗虽能建立持久的抗肿瘤免疫反应，但同样的持久性也可能导致反复且令人衰弱的发炎副作用。」她指出，若未来能确认这些细胞是驱动关节炎复发的关键，将有机会发展出更精准的治疗策略──在降低复发风险的同时，尽可能保留抗癌的疗效。
-
-临床数据显示，约有 20% 至 50% 的免疫检查点抑制剂相关发炎性关节炎患者，会经历不只一次发作，且后续症状往往更重。
-
-不过，研究团队也坦言这项研究仍有其局限性。由于样本仅来自 6 名患者，目前还不能将这些细胞视为已被证实的「临床生物标记」。未来仍需进行更大规模的研究，来确认这些免疫细胞是否能准确预测哪些患者更容易出现反复或更严重的病程。]]></description>
   </item>
 </channel>
 </rss>
