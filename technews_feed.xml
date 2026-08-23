@@ -4,7 +4,34 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sun, 23 Aug 2026 08:15:13 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 12:13:59 GMT</lastBuildDate>
+  <item>
+    <title>韩国晶片贸易顺差飙新高，半导体出口受惠 AI 热潮</title>
+    <link>https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/</link>
+    <guid>https://technews.tw/2026/08/23/south-korea-s-chip-boom-is-incredible/</guid>
+    <pubDate>Sun, 23 Aug 2026 08:19:53 +0000</pubDate>
+    <description><![CDATA[总体经济和资本市场分析刊物 The Kobeissi Letter 指出，韩国的晶片贸易顺差在今年 6 月飙升至约 350 亿美元的历史新高纪录，在 12 个月内成长超过 3 倍。相较之下，同一时期非晶片项目的贸易顺差仅约 10 亿美元。
+
+South Korea’s chip boom is incredible.
+
+South Korea’s chip trade surplus surged to a record ~$35 billion in June, more than tripling in 12 months.
+
+By comparison, the non-chip trade surplus was just ~$1 billion over the same period.
+
+Meanwhile, semiconductor exports soared…pic.twitter.com/wtHbpKovxM
+
+— The Kobeissi Letter (@KobeissiLetter)August 22, 2026
+
+而在 8 月 1 日至 8 月 20 日期间的出口额，缔造了韩国历年来第二高纪录，尤其半导体出口创下历史新高。
+
+根据韩国关税厅（Korea Customs Service，KCS）21 日公布的数据显示，8 月 1 日至 8 月 20 日的出口额达 552 亿美元、年增 56%。若以工作日调整后计算，8 月前 20 天的日均出口额达 39.4 亿美元、年增 61.5%，这也是继 7 月的年增率 62.9% 之后，连续第 2 个月出现超过六成的成长幅度。
+
+半导体更带动整体出口表现，8 月前 20 天的半导体出口额达 260 亿美元，创下同期新高，与去年同期相比成长 198.8%，也较前一个月的 221 亿美元有所成长，半导体则占整体出口比例约 47%
+
+此外，随著围绕固态硬碟（SSD）等需求扩大，电脑及其周边设备的出口额同样成长 242.1%、达 22.78 亿美元。
+
+韩国的出口爆发高度集中在半导体，尤其是 AI 资料中心所使用的记忆体。这使得三星和 SK 海力士这些韩国记忆体大厂所创造的 HBM 和 DRAM 景气，成为韩国整体外贸和经济数据的关键变数。]]></description>
+  </item>
   <item>
     <title>动物园里的双向奔赴，科学家发现人类围观或许是亚洲小爪水獭最爱的活动</title>
     <link>https://technews.tw/2026/08/23/otters-enjoy-human-visitors/</link>
@@ -106,6 +133,14 @@ Zoey Xinyi Gong, RD.（@zoeyxinyigong）分享的贴文
 
 「Ox Alpha 是一款推理模型，专为编码、持续代理式工作及正式生产环境的工作负载所设计。它适用于长程软体工程、复杂推理、以及将文字和视觉脉络相互结合的工作流程。」OpenRouter 说明写到，「Ox Alpha 由某家第三方供应商开发并营运，供应商选择在这次预览期间保持匿名，OpenRouter 仅负责将请求路由至供应商。」
 
+Ox Alpha is a frontier model built for efficient coding, sustained agentic work, and real-world production use.
+
+– 1M token context window– Text, image, and video input
+
+Try it now and share feedback to improve the model!https://t.co/tU5lmZrO5z
+
+— OpenRouter (@OpenRouter)August 20, 2026
+
 Ox Alpha 已经引起科技业界人士的兴趣，Stripe 执行长 Patrick Collison 是用这款模型，在一则 X 贴文表示「这非常令人印象深刻」。
 
 这种极为慷慨的免费用量，也让整个开发者社群议论纷纷。有鉴于具备每日处理多达 100 兆 token 的 AI 实验室并不多，开发者社群正在疯狂猜测 Ox Alpha 究竟是由哪一家 AI 实验室推出，从 Ox Alpha 名称本身、模型能力、基准测试分数及运算资源等线索推敲，点名如中国智谱 GLM 系列尚未发表的模型、DeepSeek-V4-Flash 的变体，或是马斯克旗下 SpaceXAI 尚未推出的 Grok 模型。
@@ -113,6 +148,10 @@ Ox Alpha 已经引起科技业界人士的兴趣，Stripe 执行长 Patrick Coll
 值得关注还有，Ox Alpha 可能是微软 MAI 模型尚未推出的版本，即 MAI-2。
 
 根据一则小道消息，考量到 Ox Alpha 采用的是 cl100k_base，来自微软的可能性提高。cl100k_base 是一款由 OpenAI 所开发的 BPE（Byte-Pair Encoding）标记器（tokenizer）。标记器会将输入的文字转换成数字，好让模型得以处理，而中国 AI 实验室的模型不会使用由 OpenAI 开发的标记器。
+
+Based on tokenization, stealth/ox-alpha is a cl100k_base-tokenizer model — which rules out OpenAI, Google, Anthropic, xAI and every Chinese frontier lab and matches only Microsoft’s Phi/MAI lineage (with IBM Granite as the outside bet) — so it is most likely Microsoft’s…https://t.co/DquIx7rGGrpic.twitter.com/1tNZjUfNUz
+
+— Robert Lukoszko (@Karmedge)August 21, 2026
 
 模型竞争杀红眼的时代已然来临，不惜成本提供测试，用匿名方式掀话题炒作。Ox Alpha 疑云未散，相信日后终有一家 AI 实验室会出面说明是他们的产品。]]></description>
   </item>
@@ -380,39 +419,6 @@ AI与HPC应用被列为市场成长最大驱动力，预估2030年AI与HPC将占
 临床数据显示，约有 20% 至 50% 的免疫检查点抑制剂相关发炎性关节炎患者，会经历不只一次发作，且后续症状往往更重。
 
 不过，研究团队也坦言这项研究仍有其局限性。由于样本仅来自 6 名患者，目前还不能将这些细胞视为已被证实的「临床生物标记」。未来仍需进行更大规模的研究，来确认这些免疫细胞是否能准确预测哪些患者更容易出现反复或更严重的病程。]]></description>
-  </item>
-  <item>
-    <title>星云大师、王永庆被收服，40 年老字号钰通营造靠「极限完工」创 24 年营收新高</title>
-    <link>https://finance.technews.tw/2026/08/23/yuh-tong-construction/</link>
-    <guid>https://finance.technews.tw/2026/08/23/yuh-tong-construction/</guid>
-    <pubDate>Sun, 23 Aug 2026 00:00:18 +0000</pubDate>
-    <description><![CDATA[从庙宇、校园到医院、无人机厂，钰通营造什么案子都敢接。40 年来不挑肥拣瘦，靠的是「别人不想做，我把它做好」的硬底子，把冷门案做出口碑，也把斜杠做成竞争力。
-
-民雄航太暨无人机产业园区最近平地起高楼，两栋崭新的白色建筑格外醒目。这两栋楼房身兼园区办公大楼、研发厂房与宿舍之用，负责承揽兴建的，正是嘉义在地知名的老营造厂「钰通营造」。
-
-钰通走小而美路线，年营业规模约莫10亿到15亿元之间，规模不大，却稳健经营40年之久，关键在于其他同业嫌利润不高不想接的案子，钰通都欢喜接下，一旦承揽，就把品质与工期彻底落实，把一件一件「他人嫌」的案子，累积成为长期口碑。
-
-「为了生存，总是什么头路都要接看看！」钰通营造董事长暨总经理黄国芳表示。钰通所建工程横跨住宅、宗教建筑、工业厂房等。来者不拒的精神，让钰通找到经营利基。加上近年加快接案脚步，去年业绩大窜升，营收年增32％，每股盈余5.39元、年增逾1倍，今年上半年营收更是创下24年来新高。
-
-黄国芳是土生土长的嘉义人，联合工专（现联合大学）建筑工程科毕业，退伍后曾在建筑师事务所和建设公司磨练，正式创业前就以嘉义县为中心，东至阿里山、西至布袋都有客户，从为国小校园设计溜滑梯、跷跷板等游戏器材一步一步做起，做到嘉义52所校园生意。
-
-1996年完工的「嘉义朴子皇家天厦」，是钰通第一个指标建案。黄国芳回忆，热爱垒球的他当时带著垒球队，赴嘉义东石高中比赛，注意到附近有个新建案正在开卖，他大胆走进接待中心求见业主，两人相谈甚欢，让他拿到工程。这个案子，也让钰通拿下「优良营造工程」奖，一举打开知名度。
-
-要说钰通最特别之处，莫过于宗教建筑，尤其是佛光山更是超级大客户，合作迄今逾30年。
-
-当年钰通承包南华大学建案，业主原是淡江大学教授黄天中，却因佛光山为赶上当年度（1995年）招生，决定斥资买下南华大学，成了新业主。
-
-当时工期紧迫，期间更是连续一百多天下雨，钰通日夜赶工，最后如期完成，让星云大师满意不已，此后，佛光山旗下十来座道场与分院、南华大学等学校建校以来工程，几乎都由钰通揽下。
-
-「星云大师事必躬亲，三天两头往工地跑，对于细节一雕再雕，设计图来回修改十多次也是常有的事。」黄国芳说。而钰通与佛光山合作中，印象最深刻的当属2016年完工的藏经楼。
-
-位于高雄大树的佛光山藏经楼，由「开放广场」与典藏经书的主殿两栋建物组成。因为基地坐落丘陵台地，造成两栋建筑间15公尺的高低落差，成为施工难题。为此黄国芳与星云大师多次讨论，最后以「顺应自然」概念，用阶梯式花台构造，搭配绿化，克服问题。
-
-钰通的另一大客户则是石化大厂台塑。台塑多个厂房，乃至长庚医院嘉义与高雄院区，都由钰通建造。
-
-缘分来自1998年台塑打算在嘉义县新港盖玻纤四厂，黄国芳决定竞标。当时他认为，若能拿下大型企业厂房，对公司营运会大大加分。台塑对工程品质要求严格，施工期间，内部工程管理人员与顾问几乎天天巡场，连钢筋间距、绑扎平整度等细节都不放过。钰通每月召开技术会议，自己盯品质做检讨顺利过关，从此成为台塑集团工程的班底之一。
-
-黄国芳还记得，钰通负责的嘉义长庚复健大楼与综合大楼的案子，施工期极为压缩，正常施工2年的案子必须在一年半内完工，钰通使命必达，最后顺利完工，当时台塑总裁王永庆还特别发450万元奖金以资奖励。]]></description>
   </item>
 </channel>
 </rss>
