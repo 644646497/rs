@@ -4,65 +4,30 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 26 Aug 2026 00:51:15 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 06:34:55 GMT</lastBuildDate>
   <item>
-    <title>新的下一代天线为美国宇航局的深空网络增添了力量</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-august-26-jwst-images-the-lions-head-nebula/</guid>
+    <pubDate>Wed, 26 Aug 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.]]></description>
+  </item>
+  <item>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/</link>
     <guid>https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/</guid>
     <pubDate>Tue, 25 Aug 2026 22:28:34 +0000</pubDate>
-    <description><![CDATA[NASA 位于加利福尼亚州的深空网络设施标志着该机构的深空通信和导航系统将增加一个全新的 34 米宽（114 英尺宽）射频天线。该网络使用位于全球三个设施的巨型碟形天线来支持 40 多个探索太阳系和星际空间的航天器。
-
-新的深空站 23 (DSS-23) 位于巴斯托附近的戈德斯通深空通信中心，由美国宇航局位于南加州的喷气推进实验室管理。
-
-NASA 领导层、工作人员以及政要聚集在完整的 DSS-23 天线前进行剪彩仪式。它是深空网络孔径增强项目的最新成员，该项目于 2009 年开始，通过添加六个新的 34 米多频波束波导天线来升级和扩展网络。这些多功能天线可以增强在不同无线电频率上运行的许多任务。
-
-美国宇航局华盛顿总部研究与技术任务理事会副局长詹姆斯·凯尼恩表示：“通过扩展深空网络，我们正在加强美国宇航局未来大胆任务所需的通信基础——从比以往任何时候都更深入地探索月球，到更深入地观察太阳系。” “这种新天线将帮助我们实现国家太空探索目标，并超越曾经看似不可能的极限。”
-
-在完成 5 月至 7 月的测试活动以展示其功能后，新的 DSS-23 于 8 月 3 日开始运行，跟踪 NASA 的钱德拉 X 射线天文台。从那时起，它一直与美国宇航局的火星勘测轨道飞行器、普赛克号、朱诺号、航海者一号和其他深空机器人航天器等数十个任务进行通信。
-
-喷气推进实验室主任戴夫·加拉格尔 (Dave Gallagher) 表示：“下一代天线的加入使我们更接近完全现代化的网络，该网络采用先进技术，以确保 NASA 在深空通信方面的领导地位。” “经过 60 多年的持续运行支持后续任务，这些升级为新的探索时代做好了准备。设计、规划和建造 DSS-23 的团队应该感到自豪。”
-
-DSS-23 的建造于 2020 年 2 月开始。2024 年 12 月，将 133 吨重的金属反射器框架放置并用螺栓固定在天线基座上后，工程师将面板安装到框架上，以反射发射到航天器和从航天器接收的射频信号。然后是仔细校准天线的过程，以便它可以与网络的其他部分协同工作。
-
-这是戈德斯通的第五根天线（加入三根 34 米天线和一根 70 米或 230 英尺天线），也是加入该网络的第五根增强项目天线，其中包括 DSN 位于马德里的戈德斯通和澳大利亚堪培拉综合体的天线。多频波束波导天线将信号直接传送到稳定的、气候受控的地下房间，而不是在移动的天线盘上放置笨重、敏感的电子设备。除了提供多功能性之外，这种设计还可以轻松地进行系统维护和升级。
-
-喷气推进实验室深空网络孔径增强项目经理 Germaine Aziz 表示：“最大的挑战实际上并​​不是建造天线。而是将机械、电气、软件、射频和基础设施系统的复杂集合转变为单一的任务就绪资产。” “每个子系统都必须经过集成、校准和验证，才能以非凡的精度和可靠性运行，然后才能支持 NASA 的深空任务。”
-
-当第六个增强项目天线——深空站 33 于 2029 年在堪培拉设施上线时，增强项目将完成，从而使网络中 34 米天线的总数达到 13 个。34 米天线可以排列（组合和一起操作），为每个设施的单个 70 米天线提供等效的通信备份，而在近乎连续运行 50 多年之后，这些天线的成本越来越高进行维护和修理。
-
-JPL 由加州理工学院为 NASA 管理，在 NASA 研究与技术任务理事会的 SCaN（空间通信和导航）计划的监督下管理该机构的深空网络。超过 100 个 NASA 和非 NASA 任务依赖于深空网络和近空网络。其中包括支持国际空间站宇航员的任务和未来的阿尔忒弥斯任务、监测地球、探索月球、探索太阳系及更远的地方。
-
-有关深空网络的更多信息，请访问：
-
-https://www.nasa.gov/communicating-with-missions/dsn]]></description>
+    <description><![CDATA[Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.]]></description>
   </item>
   <item>
-    <title>NASA 邀请媒体参加在阿拉巴马州举行的 LunaRecycle 挑战赛决赛</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/</link>
     <guid>https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/</guid>
     <pubDate>Tue, 25 Aug 2026 20:20:58 +0000</pubDate>
-    <description><![CDATA[NASA 将于 8 月 28 日星期五在位于阿拉巴马州塔斯卡卢萨的阿拉巴马大学 (UA) Lee Styslinger 工程学院宣布 LunaRecycle 挑战赛最后阶段的获胜者。该挑战于 2024 年启动，旨在激励新型回收系统的发明，这些系统可以支持未来月球任务的非代谢废物管理工作。
-
-媒体和公众受邀参加该挑战赛的技术展示和获奖者公布，其中多达 14 个入围团队将展示他们的解决方案，并听取 NASA 和 UA 领导层关于月球创新未来的介绍。开幕致辞将于 8 月 28 日中部夏令时上午 8:30 在 H.M. 1026 室开始。 UA 校园的科默大厅 (Comer Hall)。
-
-有兴趣报道该活动的媒体应在 8 月 27 日星期三下午 3 点之前通过 NASA 马歇尔新闻编辑室确认是否出席，电子邮件：joel.w.wallace@nasa.gov。
-
-LunaRecycle 挑战赛是一项耗资 300 万美元、分两个阶段的竞赛，重点关注回收解决方案的设计和开发，这些解决方案可以减少非代谢废物并提高长期月球任务的可持续性。在第二阶段的最后一轮中，受邀团队的任务是完善他们的原型和数字孪生概念，为本月早些时候在塔斯卡卢萨的 McAbee Construction 进行现场测试做准备。
-
-此次活动结束后，最多 11 个团队将因其原型和数字孪生解决方案而获得 NASA 颁发的 132.5 万美元奖金的一部分。前两名原型将获得 500,000 美元和 225,000 美元，而前两名数字双胞胎将获得 275,000 美元和 125,000 美元。评审团在最终审议中确定的类别中表现出色的团队将获得最多六项技术成就奖。此外，在整个技术展示中获得公众和利益相关者投票最多的团队将获得 25,000 美元的民众选择奖。
-
-获奖者名单将于中午 12 点开始的技术展示闭幕式上现场公布。
-
-LunaRecycle 挑战由 NASA 马歇尔太空飞行中心的 Centennial Challenges 管理，是 NASA 研究与技术任务理事会奖项、挑战和众包计划的一部分。 NASA 的百年挑战已有 20 多年的历史，它吸引公众解决复杂的问题，从而有利于 NASA 更广泛的计划。过去的挑战刺激了机器人、增材制造、电力和能源、纺织、化学和生物学领域的进步。
-
-竞赛的第一阶段受到了全球创新者群体的创纪录的关注。该挑战赛收到了 1,200 多名报名者——比百年挑战赛 20 年历史上的任何比赛都要多——并且由 50 名评委组成的评审团对近 200 份参赛作品进行了评估。 NASA 马歇尔 YouTube 频道通过直播宣布了代表 5 个国家和美国 9 个州的 17 支团队被选为第一阶段获胜者。
-
-LunaRecycle 挑战赛还得到了位于佛罗里达州的 NASA 肯尼迪航天中心和位于加利福尼亚州硅谷的 NASA 艾姆斯研究中心的回收主题专家的支持。  阿拉巴马大学 Lee J. Styslinger Jr. 工程学院与 NASA 合作执行了这项挑战。
-
-要了解有关 LunaRecycle 挑战的更多信息，请访问：]]></description>
+    <description><![CDATA[Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.]]></description>
   </item>
   <item>
-    <title>美国宇航局艾姆斯对罗曼使命的贡献</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/</link>
     <guid>https://www.nasa.gov/general/nasa-ames-contributions-to-romans-mission/</guid>
     <pubDate>Tue, 25 Aug 2026 19:44:55 +0000</pubDate>
@@ -89,24 +54,14 @@ Researchers at NASA Ames are meeting that challenge with an innovative technolog
 The nearest star system to our solar system, Alpha Centauri, is one of the nearest multi-star systems to Earth,  at only four light-years away. This triple-star system contains a binary of Sun-like stars – Alpha Centauri AB – orbited by a much smaller and dimmer star – Proxima Centauri. Although no exoplanets are confirmed around the Sun-like stars in this system, a planet candidate has been identified by NASA’s James Webb Space Telescope in the habitable zone of Alpha Centauri A. Researchers, including the Ames MSWC team, are working to develop the capabilities needed to observe this system.]]></description>
   </item>
   <item>
-    <title>美国宇航局艾姆斯专家接受罗马太空望远镜采访</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/</link>
     <guid>https://www.nasa.gov/news-release/nasa-ames-experts-available-for-roman-space-telescope-interviews/</guid>
     <pubDate>Tue, 25 Aug 2026 18:47:01 +0000</pubDate>
-    <description><![CDATA[美国宇航局位于加利福尼亚州硅谷的艾姆斯研究中心邀请媒体更多地了解美国宇航局的南希·格雷斯·罗马太空望远镜，该望远镜计划于 2026 年 8 月 30 日星期日在佛罗里达州的美国宇航局肯尼迪航天中心发射。罗马望远镜将提供广阔、详细的宇宙视野，帮助科学家研究暗能量、系外行星和宇宙结构。罗曼还将测试旨在直接对附近恒星周围的行星进行成像的先进技术——这是美国宇航局寻找地球以外生命的关键一步。
-
-艾姆斯主题专家将于 2026 年 8 月 26 日星期三上午 10:00 至下午 1:00 接受虚拟采访，讨论 Roman 的目标以及该中心对使命的贡献。 太平洋夏令时。
-
-如需采访，媒体可以联系艾姆斯通讯办公室：arc-dl-newsroom@nasa.gov。 媒体还可以通过填写此在线表格来请求机构在此窗口之外采访有关罗马使命的信息。
-
-有关 NASA 罗马任务的更多信息，请访问：
-
-硅谷珍妮·尼尔艾姆斯研究中心650-604-4789Jeanne.c.neal@nasa.gov
-
-要接收当地 NASA 艾姆斯新闻，请发送电子邮件至 local-reporters-request@lists.arc.nasa.gov，并在主题行中注明“订阅”。要取消订阅，请向同一地址发送电子邮件，并在主题行中注明“取消订阅”。]]></description>
+    <description><![CDATA[Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.]]></description>
   </item>
   <item>
-    <title>美国宇航局潘多拉任务开始研究系外行星和主恒星</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/</link>
     <guid>https://science.nasa.gov/missions/pandora-missions/nasas-pandora-mission-begins-study-of-exoplanets-host-stars/</guid>
     <pubDate>Tue, 25 Aug 2026 17:55:02 +0000</pubDate>
@@ -135,45 +90,21 @@ Pandora’s telescope, jointly developed by Livermore and Corning Specialty Mate
 Pandora is led by NASA’s Goddard Space Flight Center. Lawrence Livermore National Laboratory provides the mission’s project management and engineering. Pandora’s telescope was manufactured by Corning and developed collaboratively with Livermore, which also developed the imaging detector assemblies, the mission’s control electronics, and all supporting thermal and mechanical subsystems. The infrared sensor was provided by NASA Goddard. Blue Canyon Technologies provided the bus, performed spacecraft assembly, integration and environmental testing, and is providing mission operations support. NASA’sAmes Research Centerin California’s Silicon Valley performs the mission’s data processing. Pandora’s science data is available at theNASA Exoplanet Archive, ]]></description>
   </item>
   <item>
-    <title>银河宝石在美国宇航局钱德拉的新画廊中闪闪发光</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/</link>
     <guid>https://science.nasa.gov/missions/chandra/galactic-gems-glisten-in-new-gallery-from-nasas-chandra/</guid>
     <pubDate>Tue, 25 Aug 2026 16:13:49 +0000</pubDate>
-    <description><![CDATA[星系就像宇宙宝石，每个星系都具有使其与众不同的特征，包括大小和形状。美国宇航局钱德拉 X 射线天文台和其他望远镜今天发布的一个新图库展示了一系列星系图像，展示了这种多样性。
-
-天文学家将星系分为三大类：像我们银河系一样的螺旋星系，其旋臂从其核心发出；椭圆星系，年龄较老，可能是合并的结果；以及不规则星系，可以涵盖广泛的星系现象。
-
-正如宝石通过数十亿年的形成过程揭示了地球的历史一样，这些银河宝石也是研究地球在银河系中位置的一种方式。通过向外观察其他星系，我们可以更多地了解我们自己的星系——包括它的过去和未来的线索。
-
-这个银河图库中有 16 张新图像。每一张都包含钱德拉在太空中数十年收集的 X 射线数据。这些高能数据已与来自 NASA 詹姆斯·韦伯太空望远镜和哈勃太空望远镜、IXPE（成像 X 射线偏振测量探测器）、Neil Gehrels Swift 天文台、NuSTAR（核光谱望远镜阵列）以及其他地面和太空望远镜的数据相结合。
-
-X 射线对于星系研究至关重要，它揭示了有关这些宇宙构件的独特而重要的信息。例如，钱德拉暴露了因大质量恒星的风、超大质量黑洞的流出物以及恒星爆炸的碎片而过热至数百万度的气体。这些是我们身体、我们呼吸的空气以及我们赖以生存的星球中元素的关键来源。钱德拉还看到了宇宙中一些最热、最具活力的星系现象，与其他类型的光和望远镜的数据相结合，形成了关于星系如何生存、相互作用和演化的更完整的图景。
-
-像 Messier 33 和 NGC 3938 这样的正面螺旋星系可以清晰地看到充满活力的恒星对和宇宙爆炸沿着旋臂存在的地方。像 NGC 1672 和 NGC 1385 这样的棒状螺旋星系展示了恒星、气体和尘埃的中心棒状集合如何向内输送燃料，从而引发恒星形成的爆发。 NGC 4725 揭示了先前与另一个星系的碰撞如何触发恒星形成。与此同时，NGC 4631（鲸鱼星系）和星暴 Messier 82（雪茄星系）的边缘视图展示了巨大的光环和百万度气体的超级风，这些气体被恒星的强烈爆炸驱动到数千光年之外的太空，丰富了周围的星系间空间的重要元素。
-
-宿主星系核心中强大且不断增长的黑洞（称为活动星系核）以爆发和喷流的方式向外发送能量，从而影响整个星系。在半人马座 A 中，钱德拉和 IXPE 的数据揭示了一股高能粒子射流从其中央发动机喷射到数万光年外的太空。在梅西耶 106 中，来自超大质量黑洞的喷流加热周围的气体，形成与螺旋星系中常见的旋臂不同的旋臂。与此同时，标志性的草帽星系（梅西耶 104）突出显示了一个嵌入巨大恒星核球中的超大质量黑洞，钱德拉的 X 射线在其中绘制了由百万度气体和围绕其扫荡尘埃带的炽热恒星残骸组成的弥漫光环。
-
-该画廊还展示了经历极端引力转变的星系。 Arp 143 中的直接撞击就像宇宙的靶心一样，形成了一个不断扩大的环形星系并引发了恒星诞生的浪潮。 NGC 3256 和尘埃笼罩的星暴 II Zw 096 等剧烈合并揭示了主导早期宇宙的混乱星系碰撞，并提供了银河系与附近仙女座星系遥远未来合并的预览。 NGC 1569 是研究早期宇宙星暴的当地实验室，NGC 660 展示了一个罕见的“极环”星系，其中一圈恒星围绕其两极运行，Messier 90 展示了一个螺旋星系穿过室女座星团，其恒星形成气体被猛烈地剥离。
-
-美国宇航局马歇尔太空飞行中心负责管理钱德拉计划。史密森天体物理观测站的钱德拉 X 射线中心控制着马萨诸塞州剑桥的科学业务和马萨诸塞州伯灵顿的飞行业务。
-
-了解 NASA 钱德拉 X 射线天文台的更多信息
-
-自 1990 年发射以来，哈勃太空望远镜改变了我们对宇宙的基本认识。
-
-韦伯是未来十年最重要的天文台，为全球数千名天文学家提供服务。它研究……的每个阶段。
-
-成像 X 射线偏振探测器 (IXPE) 是 NASA 的第一个研究 X 射线偏振的任务。]]></description>
+    <description><![CDATA[Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.]]></description>
   </item>
   <item>
-    <title>宇航员阿尼尔·梅农和索菲·阿德诺进行太空行走</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/</link>
     <guid>https://www.nasa.gov/image-article/astronauts-anil-menon-and-sophie-adenot-on-spacewalk/</guid>
     <pubDate>Tue, 25 Aug 2026 14:57:26 +0000</pubDate>
-    <description><![CDATA[从左至右，2026 年 8 月 18 日，美国国家航空航天局 (NASA) 的 Expedition 75 飞行工程师阿尼尔·梅农 (部分被遮挡，穿着腿上有红色条纹的宇航服) 和欧洲航天局 (ESA) 的索菲·阿德诺 (Sophie Adenot) 在国际空间站外进行了 6 小时 23 分钟的太空行走。两人将于 2026 年 8 月 25 日完成高速通信天线的安装。]]></description>
+    <description><![CDATA[Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.]]></description>
   </item>
   <item>
-    <title>集成基于模型的系统工程和故障管理以实现自主太空任务</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/</link>
     <guid>https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/integrating-model-based-systems-engineering-and-fault-management-to-enable-autonomous-space-missions/</guid>
     <pubDate>Tue, 25 Aug 2026 13:00:00 +0000</pubDate>
@@ -198,7 +129,7 @@ During this SBIR effort, theQSI toolset was also enhanced to interface with an M
 HelioSwarm will t]]></description>
   </item>
   <item>
-    <title>美国宇航局设定了从佛罗里达州发射的罗马太空望远镜的覆盖范围</title>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/</link>
     <guid>https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/</guid>
     <pubDate>Mon, 24 Aug 2026 20:44:58 +0000</pubDate>
@@ -243,23 +174,6 @@ Members of the public mayregister to attend the Roman launch virtually. NASA’s
 Let people know you’re watching the mission on X, Facebook, and Instagram by following and tagging these accounts:
 
 The Roman telescope is managed at NASA Goddard with participation by the agency’s Jet Propulsion Laboratory in Southern California; Caltech/IPAC in Pasadena, California; the Space Telescope Science Institute in Baltimore; and a team of scientists from various research institutions. The primary industrial partners are BAE Systems Inc., L3Harris Technologies, and Teledyne Scientific & Imaging. Contributions to Roman also are made by ESA (European Space Agency), JAXA (Japan Aerospace Exploration Agency), the French space agency CNES (Centre National d’]]></description>
-  </item>
-  <item>
-    <title>毅力号捕获了另一次火卫一凌日</title>
-    <link>https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/</link>
-    <guid>https://science.nasa.gov/photojournal/perseverance-captures-another-phobos-transit/</guid>
-    <pubDate>Mon, 24 Aug 2026 17:56:49 +0000</pubDate>
-    <description><![CDATA[2026 年 8 月 12 日，即该任务的第 1,948 个火星日（即太阳日），NASA 的“毅力号”火星探测器使用其 Mastcam-Z 相机捕捉到了火卫一（火星两颗卫星之一）的轮廓。
-
-该动画经过着色，以模拟人类通过防护日食眼镜观看火星表面凌日时所看到的景象。
-
-自 2021 年 2 月登陆杰泽罗陨石坑以来，毅力号已经捕捉到了几次火卫一凌日现象。通过比较各种记录，科学家可以加深对马铃薯形状的卫星轨道的理解，了解它是如何变化的。从现在开始，火卫一的轨道预计最终会将月球送向这颗红色行星的表面。
-
-亚利桑那州立大学领导 Mastcam-Z 仪器的运营，与圣地亚哥的 Malin 空间科学系统公司合作进行相机的设计、制造、测试和操作，并与哥本哈根大学尼尔斯玻尔研究所合作进行校准目标的设计、制造和测试。
-
-美国宇航局喷气推进实验室由加利福尼亚州帕萨迪纳市的加州理工学院管理，负责建造毅力号火星车并管理其运行。
-
-有关“毅力”的更多信息：science.nasa.gov/mission/mars-2020-perseverance]]></description>
   </item>
 </channel>
 </rss>
