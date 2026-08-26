@@ -4,7 +4,76 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 26 Aug 2026 16:40:04 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 26 Aug 2026 22:32:49 GMT</lastBuildDate>
+  <item>
+    <title>辉达缴出营收年增 106% 新高财报，第三季还要创新高且 2027 年营收将年增 70% 带动股价翻红上涨</title>
+    <link>https://finance.technews.tw/2026/08/27/nvidia-reports-record-revenue-growth-of-106-year-on-year/</link>
+    <guid>https://finance.technews.tw/2026/08/27/nvidia-reports-record-revenue-growth-of-106-year-on-year/</guid>
+    <pubDate>Wed, 26 Aug 2026 22:01:03 +0000</pubDate>
+    <description><![CDATA[晶片大厂辉达 （NVIDIA） 公布了截至 2026 年 7 月 26 日的 2027 财年第二季财务业绩。受惠于全球 AI 基础设施建设的强劲需求，辉达单季营收达到了惊人的 962.21 亿美元，较 2025 年同期翻倍增长 106%，季增亦达 18%，创下史上新高纪录。不过，在市场此前抱持极高期待，且预期第三季毛利率将由 75% 微幅稀释至 74%，使得辉达财报公布后，美股盘后股价仍微幅下跌了超过 1%。但是，预期 2027 年营收将上涨 70% 利多带动，使股价由黑翻红。
+
+辉达创办人暨执行长黄仁勋在财报中宣告，AI 已迎来拐点，正在发挥实质价值。AI 词元（Tokens）已转化为生产力与利润，如今算力就是营收。因此，分析辉达第二季财报，当中各项关键财务指标均超越市场分析师的预期。在营收与获利方面，单季营收 962.21 亿美元，年增 106%，季增 18%。毛利率：GAAP 与 Non-GAAP 毛利率双双维持在 75% 的极高水准。净利在 GAAP 净利达 596.88 亿美元，年增 126%，Non-GAAP 净利则为 539.54 亿美元，年增 118%。GAAP EPS 为 2.46 美元，年增 128%，Non-GAAP 的 EPS 为 2.22 美元，年增 120%。
+
+在资料中心业务表现依然是推动其爆发性成长的火车头，该业务在第二季贡献了 890 亿美元的营收，占总营收逾九成。该表现较 2025年同期强劲成长 117%，季增达 18%。这项耀眼的成绩反映了全球 AI 基础设施建设已进入全速运转阶段。对此，黄仁勋指出，相较于 2025 年同期仅有单一实验室推动建设，如今已发展成全新 AI 实验室、新创公司、多个前沿实验室并行扩展、繁荣的开源模型生态系统以及物理 AI 全面崛起的黄金时代。
+
+黄仁勋强调，在本季，辉达展现了其从单纯提供 GPU 转变为提供完整 AI 工厂基础设施的强大实力。其中，Vera Rubin 平台进入全面量产，而其机架系统已在 CoreWeave、Google Cloud、Microsoft Azure、Oracle Cloud Infrastructure 以及 Nebius 等云端大厂与合作伙伴中运行。另外，辉达全球首款专为 AI 代理设计的中央处理器 NVIDIA Vera CPU 已获得广泛采用。例如，SpaceXAI 已宣布部署 Vera CPU 来加速其下一代大规模 Agentic AI 应用。
+
+还有，全面量产关键硬体，包括新一代互动式 AI 推理加速器 NVIDIA Groq 3 LPX 与具备晶片级安全防护的 NVIDIA Vera BlueField-4 STX 储存处理器已进入全面量产。而负责网路与基础设施软体的 Spectrum-6 网路交换机系统陆续进驻全球十亿瓦级（Gigascale）的 AI 工厂，而 DSX 平台则为建设与营运大型 AI 工厂提供完整指南。
+
+至于，在全球战略与主权 AI合作方面，辉达与 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 等金融巨头合作，建立 AI 运算基础建设融资平台，计划动员超过 5,000 亿美元 的第三方资金。在主权 AI 方面，辉达与韩国 SK Telecom、NAVER 及 Brookfield 合作，打造国家级 AI 工厂生态系；并与 SK hynix 达成多年度技术合作，共同研发下一代高频宽记忆体。此外，更与日本政府及产业领袖携手打造全球首个国家级 AI 基础设施。而苹果公司的私有云端运中，辉达 GPU 的机密运算技术也已经开始进行机密推理。
+
+边缘运算与物理 AI方面，辉达的边缘运算业务在第二季也取得了不俗的进展，营收达 72 亿美元，季增 13%，年增 27%。辉达将 AI 的触角更深地延伸至个人电脑、自动驾驶、机器人与物理 AI 领域。而辉达与微软合作推出 NVIDIA RTX Spark，这款具备 1-petaflop 运算能力的超强晶片，整合了完整的 CUDA 与 RTX 生态系。
+
+同时发表了桌上型 AI 超级电脑 NVIDIA DGX Station for Windows，方便企业在桌面端开发与运行万亿参数规模的 AI 代理。辉达还推出了 Cosmos 3，这是全球首款完全开源的前沿物理 AI 多模态基础模型。以及发表了基于 Jetson Thor 晶片的 NVIDIA Isaac GR00T 开源人形机器人参考设计，同时推出 Halos for Robotics，为物理 AI 打造了业界首款集成了 AI 算力与功能安全的完整安全系统。
+
+最后，在自驾与 Robotaxi 布局方面，辉达持续扩大其 DRIVE Hyperion 自动驾驶计程车平台的生态系，与鸿海、VinFast、Uber 及 HUMAIN 等达成战略合作，并为自驾车与 Robotaxi 开发者推出先进推理开源模型 Alpamayo 2 Super。
+
+展望 2027 年第三季，辉达提供了极为强势的营收预期。预期营收将达到 1,080 亿美元正负 2%，再度刷新历史纪录。GAAP 与 Non-GAAP 毛利率预计均为 74.0% 正负 50 个基点。虽然较第二季的 75% 略微下修，但仍处于行业巅峰水平，反映了其产品转换期的正常利润率波动。折得注意的是，辉达此财测完全未假设任何来自中国市场的数据中心运算营收。这显示即便面临严格的出口管制，辉达强劲的全球需求依然足以撑起其庞大的成长动能。
+
+尽管辉达缴出了一份无论是营收、获利还是未来展望皆傲视群雄且超越分析师预期的成绩单，但由于市场此前抱持极高期待，且预期第三季毛利率将由 75% 微幅稀释至 74%，辉达股价在财报公布后的盘后交易中仍微幅下跌了超过 1%。然而，财务长 Colette Kress  表示，辉达预计 2027 年 (2028财年) 将营收成长70%，超越分析师先前预期为 44%，带动辉达美股盘后股价由黑翻红。]]></description>
+  </item>
+  <item>
+    <title>北流携手日月光培育新声走向国际！《台北音乐不断电》优胜金赏 9 月韩国表演</title>
+    <link>https://technews.tw/2026/08/27/taipei-music-center-and-ase-group-successfully-matched-taiwans-new-generation-of-musicians/</link>
+    <guid>https://technews.tw/2026/08/27/taipei-music-center-and-ase-group-successfully-matched-taiwans-new-generation-of-musicians/</guid>
+    <pubDate>Wed, 26 Aug 2026 22:00:57 +0000</pubDate>
+    <description><![CDATA[台北流行音乐中心携手日月光成功媒合台湾新世代音乐人走向国际舞台！由台北市政府文化局与台北流行音乐中心（以下简称北流）共同主办的原创音乐征选及人才培育计划《台北音乐不断电》，今年吸引 322组音乐人及乐团报名，历经初审、复赛及决赛后，最终由Marswalk摘下最高荣誉「金赏」，共振效应与蕨鸣子fernoiz并列「银赏」，Bella Cry则获得「优胜」。
+
+四组得主除了将于今年8月底登上「2026 TRENDY TAIPEI 潮台北」系列活动中的 JAM JAM ASIA 亚洲音乐节舞台 ，其中金赏得主Marswalk更将于9月4日至6日前往韩国首尔，登上韩国具指标性的Showcase音乐节 Zandari Festa 演出，另将参与台中市政府新闻局所主办的「2026 摇滚台中」；蕨鸣子fernoiz将登上高雄流行音乐中心主办的「 2026 打狗祭」；Bella Cry则将参与嘉义市政府文化局主办的「诸罗摇滚音乐祭」，让《台北音乐不断电》从人才征选进一步延伸至国内外音乐节舞台，持续为台湾新生代音乐人创造实际展演与国际交流机会。
+
+迈入第十二年的《台北音乐不断电》持续以发掘台湾原创音乐新声、提供舞台展演及产业交流机会为核心。今年共有322组音乐人及乐团报名参赛，经过初审后进入20强，再历经街头复赛，最终由10组团队挺进决赛。7月4日至5日，10组决赛团队于台北流行音乐中心展开最终竞演，角逐本届四强席次。
+
+今年决赛特别邀请来自日本、泰国及菲律宾的音乐产业专业人士加入评审阵容，从国际音乐市场及现场展演的角度，近距离观察台湾新生代创作者的作品与舞台表现，让《台北音乐不断电》的征选机制进一步与亚洲音乐产业接轨。最终由Marswalk以成熟稳健的现场演出与鲜明的声响风格脱颖而出，摘下最高荣誉「金赏」；共振效应与蕨鸣子fernoiz共同获得「银赏」；Bella Cry则获得「优胜」。
+
+Marswalk由鼓手王英任Ren与键盘手郭俊麟Chun组成，是融合 Lo-Fi Beat、UK Jazz与Indie Soul 的双人创作演奏组合。两人著迷于带有弥留感与魔性张力的声音氛围，将Beat Music的律动与爵士演奏的自由度自然交织，在旋律与即兴之间取得平衡，形成具有律动性与梦幻感的独特声响。从〈Human Stack〉、〈Night Journey〉、〈Soul-B〉到〈Phenakisto Scope〉等作品；Marswalk今年在《台北音乐不断电》决赛中，以成熟的现场掌握力及独特创作风格获得评审肯定摘下最高荣誉金赏，此次Marswalk将以《台北音乐不断电》金赏得主身分前往韩国 Zandari Festa 演出。
+
+韩国 Zandari Festa 作为亚洲Showcase音乐节的先驱与指标性平台，自2012年起每年秋天于首尔「弘大」地区，将各大Live House同步联动登场，每年吸引无数国际策展人、音乐人与唱片公司前来挖掘新秀及拓展商务合作，包含韩国庞克与独立音乐元老级乐团Crying Nut（크라잉넛）、南韩顶尖电子摇滚乐团IDIOTAPE等传奇乐团皆曾在此登台演出，是全球最具指标性的音乐交流平台之一。2026 年展演将于 9 月 4 日至 6 日登场，台湾新生代乐团Marswalk将代表台湾登上世界级音乐舞台，展现台湾独立音乐的重磅能量。
+
+过去 Zandari Festa 团队曾参与《台北音乐不断电》评选活动，双方逐步建立合作基础；北流成功媒合，让金赏得主Marswalk顺利登上韩国 Zandari Festa，为音乐人拓展海外舞台创造实质机会。Marswalk表示：「感谢台北市政府文化局与北流于『台北音乐不断电』一路以来的肯定与支持。从六年前Ren以DAW制作Beat开始，在COVID-19疫情期间与Chun透过网路线上练团，再一步步回到实体练团与现场演出，这六年来我们持续摸索、磨练属于Marswalk的声音，也透过比赛让更多人听见我们的音乐。如今能登上Zandari Festa，是我们与国际音乐场景接触的重要一步，很荣幸海外演出的第一站来到首尔，也期待与韩国乐迷见面。」
+
+《台北音乐不断电》不只是音乐竞赛，更是北流与台北市政府文化局共同推动音乐人才培育的重要计划，透过征选、专业评审、舞台演出、产业交流及国内外音乐节媒合，让新生代音乐人从作品被看见。台北市政府文化局局长蔡诗萍表示：「台北拥有丰富多元的音乐创作能量，如何让优秀的新生代音乐人走出台湾，是文化政策持续努力的方向。透过『台北音乐不断电』，我们希望从人才发掘与培育出发，串联国内外音乐场景，让更多台湾原创音乐有机会走向国际舞台。」
+
+除了政府政策与北流的培育推动，民间资源的投入也是支持新生代音乐人持续发展的重要力量。日月光文教基金会吴田玉董事长表示：「看见《台北音乐不断电》孕育出的优秀新声，如金赏得主Marswalk即将代表台湾登上韩国弘大音乐节，我们深感荣幸。作为北流长期的合作伙伴与新生代音乐人的坚实后盾，日月光期许能持续挹注资源，陪伴更多台湾潜力新星在海内外的各大音乐祭中逐渐成长、累积实战经验，让台湾的音乐能量在世界舞台绽放耀眼光芒。」
+
+从322组报名者一路走到四强，再从台湾音乐节走向韩国 Zandari Festa，这条从「征选」到「展演」、从「培育」到「国际交流」的路径，具体展现台北市文化局与北流持续推动台湾原创音乐人才走向国际的成果。北流董事长梁序伦表示：「音乐人的成长，不只需要国内舞台的磨练，更需要与不同音乐文化的地区或国家有交流相互学习的机会。这次从台北走向首尔，是『台北音乐不断电』人才培育与国际交流的重要成果。我们期待透过一次次的跨国合作，让台湾音乐人走得更远，也让亚洲不同城市的音乐能够彼此听见。」
+
+此次金赏得主「Marswalk」登上韩国 Zandari Festa，让活动的国际成效更加具体，也展现《台北音乐不断电》在文化局与北流携手推动与执行下，持续让台湾原创音乐推进国际，「从台北出发，走向世界」，让优秀的音乐创作者有更多机会站上不同城市的舞台。]]></description>
+  </item>
+  <item>
+    <title>苹果发表会 9/10 登场，iPhone 18 Pro、折叠 iPhone 将现身？</title>
+    <link>https://technews.tw/2026/08/27/2026-apple-event/</link>
+    <guid>https://technews.tw/2026/08/27/2026-apple-event/</guid>
+    <pubDate>Wed, 26 Aug 2026 16:41:23 +0000</pubDate>
+    <description><![CDATA[苹果稍早释出了今年秋季新品发表会邀请函，今年以「惊喜耀现，开新篇」为主旨，似乎以「开新篇」暗示将推出新系列机款。当然，「开新篇」也可能是指的是执行长库克退位后，由 John Ternus 接掌，并展开苹果的新气象。
+
+据邀请函内容显示，今年新品发表会将于美国时间 9 月 9 日上午 10 点（台湾时间 9 月 10 日凌晨 1 点）于 Apple Park 的 Steve Jobs Theater 举办特别活动，并同步于官网与 Apple TV App 全程直播。
+
+依照过往惯例，9 月发表会通常聚焦新一代 iPhone 与 Apple Watch，而今年更受到市场高度关注的，莫过于传闻多年的首款折叠 iPhone 有望正式亮相。外界普遍预期，苹果除了更新 iPhone 18 Pro 系列外，也可能首度推出定位更高阶的折叠机种，成为近年来最具代表性的硬体革新之一。
+
+除了新款 iPhone 外，新一代 Apple Watch 系列同样被认为将同步登场，至于 AirPods、智慧家庭产品等是否会在此次发表会现身，仍有待苹果揭晓。
+
+值得注意的是，今年发表会也是苹果管理团队的重要时刻。在执掌公司多年后，库克已将执行长职务交棒给 John Ternus，因此这场秋季发表会也将成为 John Ternus 上任后首场大型新品发表会，格外受到市场瞩目。]]></description>
+  </item>
   <item>
     <title>台达电在台最大储能案场上线，80 MW 系统正式并网</title>
     <link>https://technews.tw/2026/08/26/delta-electronics-taiwan-largest-energy-storage-project-80mw-system-grid-connected/</link>
@@ -224,51 +293,6 @@ What it does:✅ Describe tasks in natural language — the agent does the work 
 — QwenWork (@qwenwork)August 26, 2026
 
 （本文由MoneyDJ新闻授权转载；首图来源：QwenWork）]]></description>
-  </item>
-  <item>
-    <title>抢攻癫痫药市场！SK Biopharm 砸 7.95 亿美元取得 Biohaven 癫痫新药开发权</title>
-    <link>https://finance.technews.tw/2026/08/26/sk-biopharm-buys-license-for-epilepsy-drug-candidate-from-u-s-firm/</link>
-    <guid>https://finance.technews.tw/2026/08/26/sk-biopharm-buys-license-for-epilepsy-drug-candidate-from-u-s-firm/</guid>
-    <pubDate>Wed, 26 Aug 2026 08:40:57 +0000</pubDate>
-    <description><![CDATA[韩国 SK Biopharmaceuticals 26 日宣布，与 Biohaven Bioscience Ireland Limited 签署全球独家授权协议，取得癫痫候选药物 Opakalim（BHV-7000）、其他 Kv7 钾离子通道活化剂化合物，以及相关 Kv7 新药开发平台。这笔交易总额最高达 7.95 亿美元，约 1.1 兆韩圜。
-
-公司公告，这项协议的无条件预付款为 4 亿美元，其中 3.5 亿美元将在交易完成时支付，另 5,000 万美元一年后支付。后续则视开发与核准进度，最多再支付 3.95 亿美元的里程碑款项；与 Opakalim 相关的金额上限为 3.35 亿美元，其他 Kv7 活化剂化合物最多 6,000 万美元。产品上市后，SK Biopharmaceuticals 也将依净销售额支付权利金。
-
-Opakalim 是口服癫痫候选药物，锁定部分发作适应症，以活化 Kv7.2 与 Kv7.3 钾离子通道，调节神经细胞过度兴奋，正在进行 RISE2 与 RISE3 等第二、三期临床实验。为维持开发连续性，现有临床实验仍由 Biohaven 负责，但费用由 SK Biopharmaceuticals 承担。
-
-这项协议也涵盖 Biohaven 的 Kv7 开发平台，代表 SK Biopharmaceuticals 不仅取得单一候选药物，还同步布局后续同机转新药的开发基础。合约期限延续至产品上市后十年，或专利与独占权利到期日中较晚者。交易完成前，仍须满足包括美国反垄断审查等先决条件。]]></description>
-  </item>
-  <item>
-    <title>外资看好辉达将公布最强劲单季财报，将带动台积电 ADR 股价大幅上攻</title>
-    <link>https://finance.technews.tw/2026/08/26/nvidias-upcoming-strong-quarterly-earnings-report-drives-tsmc-adr-share-price-up-sharply/</link>
-    <guid>https://finance.technews.tw/2026/08/26/nvidias-upcoming-strong-quarterly-earnings-report-drives-tsmc-adr-share-price-up-sharply/</guid>
-    <pubDate>Wed, 26 Aug 2026 08:30:52 +0000</pubDate>
-    <description><![CDATA[辉达（Nvidia）即将于台北时间 27 日美股收盘后公布最新一季财报。这场被市场誉为「历史性」的财报披露，不仅将决定辉达自身的股价走向，更被视为其最大晶片制造合作伙伴台积电股价上涨的关键催化剂。
-
-作为台积电的第一大客户，辉达2026年预计将贡献台积电全年营收的 20% 以上。根据外资分析师预测，辉达第二季营收预计将达到创纪录的 910 亿美元，年增率高达 95%，相较于第一季 85% 的增速进一步加快。此外，市场预估辉达第三季营收将达到 1,038 亿美元，年增 82%。
-
-辉达执行长黄仁勋先前透露，公司在 2026 年与 2027 年的 Blackwell 及最新 Vera Rubin 晶片订单量已达惊人的 1 兆美元。随著 Vera Rubin 晶片预计于 2026 年下半年开始出货，加之彭博社报导指出，辉达可能将其 AI 晶片价格调涨 15% 以上，这无疑将直接反映在台积电的晶圆代工订单需求与定价空间上。
-
-台积电2026年前七个月营收已强势成长 37%，然而其 ADR 在 2026 年迄今约 35% 的股价涨幅，却落后于费城半导体指数高达 61% 的涨幅，这代表著台积电股价目前存在极大的补涨空间。随著辉达酝酿涨价，日经亚洲（Nikkei Asia）也报导，台积电计划在 2027 年将晶圆代工服务价格调升 10%。
-
-外资分析师预估，台积电 2026 年 EPS 将大幅成长 59% 至 16.90 美元。若以 2025 年 EPS 10.65 美元为基准，并假设台积电未来五年的年均 EPS 成长率（CAGR）能达到 35%，其 2030 年 EPS 将可望达到 47.75 美元。若届时以 24.1 倍的本益比计算，台积电股价长期有望冲上 1,150 美元，相较于目前水准潜在涨幅高达 182%。
-
-在短期走势方面，外资分析师对台积电的后市也表现出高度共识。目前台积电最新股价约在 410.12 美元至 417.41 美元区间波动。市场分析师给予台积电的平均目标价为 512.69 美元，代表约有 25% 的潜在上涨空间，其中最乐观的分析师甚至上看 650 美元。
-
-总结来说，辉达即将公布的破纪录财报，不仅将验证 AI 晶片需求的强劲，更将为台积电奠定更为坚实的定价与营收成长基础。在基本面无虑、客户订单满载以及华尔街一致看好的背景下，台积电极有可能辉达最新一季财报公布后迎接一波强劲的飙升行情。]]></description>
-  </item>
-  <item>
-    <title>OpenAI 示警：俄罗斯正利用 ChatGPT 建构「认知战基础设施」</title>
-    <link>https://infosecu.technews.tw/2026/08/26/openai-blocks-multiple-russian-chatgpt-accounts/</link>
-    <guid>https://infosecu.technews.tw/2026/08/26/openai-blocks-multiple-russian-chatgpt-accounts/</guid>
-    <pubDate>Wed, 26 Aug 2026 08:30:16 +0000</pubDate>
-    <description><![CDATA[OpenAI 于 25 日宣布，已全面封锁多个涉嫌参与隐蔽网路认知战的俄罗斯 ChatGPT 帐号。这些帐号利用人工智慧（AI）大量生成社群贴文与留言，企图在网路上带风向并操弄国际舆论。
-
-调查发现，该行动的核心是一个自称设于以色列的虚假智库「国际伯克研究所」（International Burke Institute，IBI）。由于 OpenAI 的模型并未对俄罗斯开放，操作者不仅利用 VPN 规避地理限制，更特别下令 AI 在产出内容时必须「消除俄语痕迹」以掩饰真实身分。随后，这些经过伪装的内容被广泛散播至 X、Facebook、LinkedIn、Telegram 及 Substack 等各大社群与内容平台。
-
-为了提升欺骗性，该网军在 IBI 网站上发布了大量抄袭或捏造来源的假学术文章，甚至建立了一个刻意吹捧俄罗斯的「主权指数」。这些 AI 生成的内容主要用来替假智库导流并塑造专业权威的形象，借此散布亲俄言论，同时大肆贬抑乌克兰、欧盟与西方国家。
-
-OpenAI 警告，此事件凸显了 AI 在现代资讯战中的新角色。恶意行为者已不再仅仅依赖 AI 快速生成文字，而是将其做为建立虚假权威、掩盖偏颇讯息来源的强大辅助工具，借此建构出能够长期扩张的认知战基础设施。]]></description>
   </item>
 </channel>
 </rss>
