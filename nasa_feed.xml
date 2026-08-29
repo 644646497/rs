@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 28 Aug 2026 21:37:18 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 29 Aug 2026 05:00:21 GMT</lastBuildDate>
+  <item>
+    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
+    <link>https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/</link>
+    <guid>https://www.nasa.gov/image-article/nasas-artemis-ii-crew-receives-congressional-space-medal-of-honor/</guid>
+    <pubDate>Fri, 28 Aug 2026 22:21:31 +0000</pubDate>
+    <description><![CDATA[从左到右：美国宇航局宇航员维克多·格洛弗和克里斯蒂娜·科赫、加拿大航天局宇航员杰里米·汉森和美国宇航局宇航员里德·怀斯曼于 2026 年 8 月 28 日从唐纳德·J·特朗普总统手中获得国会太空荣誉勋章，以表彰他们在阿耳忒弥斯二号任务中的贡献。
+
+国会太空荣誉勋章于1969年由国会授权，以表彰在履行职责时因异常勇敢和功绩以及对国家和人类福祉做出贡献而表现出色的宇航员。自太空计划开始以来，目前已有 34 名获奖者获得该奖项，其中包括阿波罗 1 号、挑战者号和哥伦比亚号的机组人员，他们死后获得了该奖项。]]></description>
+  </item>
   <item>
     <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
     <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-awards-first-prize-in-phase-2-of-agencys-lunarecycle-challenge/</link>
@@ -107,13 +116,6 @@ The observatory’s Wide Field Instrument is a 300-megapixel infrared camera tha
 Roman will work in tandem with many other NASA-led and international missions to provide the most complete view of our universe yet. Roman’s large panoramas will uncover interesting targets that Hubble could follow up on using infrared, visible, and ultraviolet light to offer a more comprehensive view. NASA’s James Webb Space Telescope can then use its larger mirror and more powerful vision to deliver even more detailed, ultra-sharp observations. And Roman can view regions around objects Hubble or Webb observe to offer context.Euclid, an ESA (European Space Agency) mission with key contributions from NASA, will observe a larger area of the sky than Roman, though with less detail. Since their survey areas will overlap, scientists can use Roman’s higher-quality data to apply corrections to Euclid’s, then extend these refinements over Euclid’s much larger area.Scientists can also pair Roman’s infrared data with visible-light observations from the ground-based Vera C. Rubin Observatory, a National Science Foundation–Department of Energy collaboration. That will allow astronomers to inch closer to achieving Roman-like quality over Rubin’s much greater sky coverage.By showcasing technology to directly photograph Jupiter-like exoplanets, Roman will also provide a crucial stepping stone for NASA’sHabitable Worlds Observatoryconcept, a flagship space telescope that would be designed to photograph Earth-like planets in other solar systems for the first time ever.
 
 NASA will stream this event live thro]]></description>
-  </item>
-  <item>
-    <title>Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.</title>
-    <link>https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-astronaut-jonny-kim-departs-agency-to-continue-military-service/</guid>
-    <pubDate>Thu, 27 Aug 2026 15:10:24 +0000</pubDate>
-    <description><![CDATA[Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.]]></description>
   </item>
 </channel>
 </rss>
