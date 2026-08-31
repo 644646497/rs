@@ -4,7 +4,112 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 31 Aug 2026 10:09:58 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 18:17:23 GMT</lastBuildDate>
+  <item>
+    <title>揭开太阳系时空胶囊面纱，地面望远镜首度成功捕捉「裸体彗核」</title>
+    <link>https://technews.tw/2026/08/31/first-ever-capture-comet-naked/</link>
+    <guid>https://technews.tw/2026/08/31/first-ever-capture-comet-naked/</guid>
+    <pubDate>Mon, 31 Aug 2026 14:35:53 +0000</pubDate>
+    <description><![CDATA[彗星被认为是太阳系形成时留下的古老「时空胶囊」，然而当它接近太阳系内侧时，外头总是被彗发给包复住，让地面望远镜难以直接观察其核心。不过，近期日本国立天文台等机构的天文学家在昴望远镜的资料库中，发现没有彗发的彗星影像，成为地面望远镜首次直接观测彗核的成功案例。
+
+彗星和小行星都是属于太阳系小天体的分类，尽管因为彗星平时待在太阳系外侧，含有大量的冰，但两者之间在本质上是否有差异仍有疑问。而厘清相关疑问，对于了解太阳系天体如何生成，经历什么样的历史非常重要。然而若要以望远镜直接观察彗星的核心，只能在其表面的冰尚未升华成彗发之前，但这时的彗星距离遥远又昏暗。若要争取最佳观测条件，又仅限于彗星来到冲的位置，机会十分罕见。
+
+此次获得彗星影像的是设置于夏威夷的昴望远镜超广视野主焦点相机（HSC），其执行的大型巡天计划HSC-SSP至今累积了丰富的观测资料。来自日本产业医科大学、京都产业大学及国立天文台的研究团队便从资料库中，针对影像中是否拍摄到太阳系小天体进行检验调查，因此发现在2016年的影像中出现了周期彗星28P/Neujmin的身影。彗星在拍摄当下距离太阳10个天文单位以上（比土星更远），不仅尚未长出彗发，位置还很接近冲。
+
+根据研究团队分析的结果，Neujmin彗星的反照率偏低，和含水量较高且带红色的小行星类似。不过若进一步观察冲前后的亮度变化曲线，彗星接近冲时的增亮幅度变化却和反照率高的E、S、M型小行星相似。研究人员认为会造成这样的结果，可能是因为彗星在接近太阳的过程反复历经冰的升华，使其表面岩石颗粒大小、密度改变，进而导致不同阳光角度下光线反射模式产生和小行星不同的变化。
+
+昴望远镜超广视野主焦点相机最初的科学目标是希望收集银河系和遥远星系的资料，借此解答宇宙和星系演化等课题。不过这次透过资料库分析，却意外发现仪器极佳的性能也能用于太阳系小天体的研究。主持这项研究的产业医科大学大坪贵文博士表示：「昴望远镜的公开资料库中还有许多令人感到有趣的太阳系小天体资料沉睡其中。今后针对各式各样的彗星进行同样的观测，将有助于理解彗星表面构造如何形成，太阳系天体又是如何诞生、如何演变成今日样貌等等太阳系历史课题。」
+
+（本文由台北天文馆授权转载；首图为昴望远镜超广视野主焦点相机于2016年3月7日拍摄的影像，右下角是画面白框中的放大图。此画面是该相机的104枚CCD的其中一枚获取的影像，同时画面中也拍下了超过2,000个以上的恒星和星系，来源：NAOJ）]]></description>
+  </item>
+  <item>
+    <title>Google 免费缩图神器 Squoosh：免安装、免上传，画质与大小轻松兼顾</title>
+    <link>https://technews.tw/2026/08/31/google-squoosh/</link>
+    <guid>https://technews.tw/2026/08/31/google-squoosh/</guid>
+    <pubDate>Mon, 31 Aug 2026 13:39:46 +0000</pubDate>
+    <description><![CDATA[太大的图片档案总是让人头痛──不仅会拖慢网页载入速度、塞爆信箱附件，还会快速消耗宝贵的云端空间。为了解决这个问题，Google Chrome Labs 推出了免费的网页版压缩工具Squoosh。它主打直接在浏览器内完成所有作业，并提供直觉的「可拖曳分隔线」，让你能即时比对原图与压缩后的画质差异，在点击存档前就能把关视觉效果。
+
+操作过程极度懒人友善！只需将图片拖曳或贴上至网页中，系统就会自动展开处理。你可以进阶微调图片尺寸与压缩参数，或是将档案无缝转换成 WebP、AVIF 等新世代高效格式。每次调整设定时，预览画面都会即时同步，并明确显示帮你省下了多少容量，大幅降低了压缩过程的盲测不确定性。更棒的是，因为所有运算都在本机浏览器完成，你完全不需要安装任何软体，也不必将私人照片上传到云端伺服器。
+
+无论你是需要频繁最佳化网站素材、寄送大档照片，或是单纯想替云端空间瘦身，Squoosh 都能让你把「缩小档案」与「保留画质」之间的取舍变得具象且直观。即使你只是偶尔才有处理图片的需求，这款高效率的实用工具也绝对值得收进浏览器书签里。]]></description>
+  </item>
+  <item>
+    <title>台积电揭 COUPE 蓝图：光源、调变器、SOA 全整合，进一步挑战「光学中介层」</title>
+    <link>https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/</link>
+    <guid>https://technews.tw/2026/08/31/tsmc-coupe-semicon-taiwan-2026/</guid>
+    <pubDate>Mon, 31 Aug 2026 12:40:22 +0000</pubDate>
+    <description><![CDATA[台积电副专案处长陈明发今（31）日在SEMICON Taiwan 2026矽光子国际论坛表示，会中除了分享近期台积电在COUPE多项关键改良数据，透露技术下一阶段可能将调变器、光源等整合至COUPE平台背面，甚至作为「光学中介层」的存在，提供与会者诸多想像。
+
+根据高盛预期，受代理式AI驱动，全球AI Token用量将快速成长，到2030年将达120 quadrillion（12京），相较于2026年增加24倍。为了支撑这股庞大需求，高效能AI光传输非常重要。
+
+然而，目前产业正面临一项巨大的挑战，即所谓的「I/O墙」（I/O Wall）。陈明发表示，从发展趋势来看，AI运算能力约每两年成长3倍，但I/O效能每两年仅成长约1.4倍，两者之间的差距正逐步扩大，如何持续提升I/O效能，成为AI系统进一步扩展必须解决的关键。
+
+要突破I/O墙限制，必须逐步从传统铜传输转向光传输。陈明发指出，传统铜线在高频率环境下难以支援长距离讯号传输，而光传输则能有效延长讯号传输距离，进一步支援AI资料中心实现Scale-up与Scale-out架构，满足大规模AI运算对频宽与连接性的需求。
+
+目前光学元件整合至系统主要有两种架构，一是CPO（CPO on Substrate），即光引擎整合于基板上；二是OOI（Optical on Interposer，光学中介层），把光引擎整合至XPU上。相较传统铜线，CPO与OOI技术可带来约4~10倍的功耗效率提升、延迟降低约10至20倍。
+
+台积电目前也积极发展光学平台，其中一项代表性技术就是COUPE，采用台积电SoIC-X键合技术，将EIC与PIC透过Bond-to-Bond的方式进行整合，同时搭配台积电自行设计的光路结构。
+
+COUPE同时支援光栅耦合器（grating coupler，简称GC）与边缘耦合器（edge coupler，简称EC）两种耦合方式。其中，在关键结构中，可从COUPE-GC中看到矽透镜（si ulens）、金属反射镜（metal reflector，简称MR）、Si/SiN光栅耦合器；COUPE-EC则有EC facet、Sin Tip等核心结构。
+
+为支援客户进行光子积体电路设计，台积电也提供完整的元件PDK，涵盖光波导（waveguides）、弯曲结构（bends）、耦合器（couplers）、调变器（modulators）以及光侦测器（photodetectors）等关键元件，协助客户更有效率地进行矽光子设计，同时缩短产品开发周期与上市时间。
+
+至于COUPE要如何进一步扩展频宽？陈明发表示，目前主要存在两种频宽扩展策略。第一种是 「Fast and Narrow」 策略，核心是著重提升单一Lane的传输速度，从200 Gbps提升至400 Gbps，未来甚至可能超越400G。同时，台积电也会将Lane数量从64 Lane扩增至128 Lane，甚至更多，让总频宽从3.2 Tbps提升至12.8 Tbps，甚至更高。
+
+第二种则是 「Slow and Wide」 策略，重点不是极度提升单一Lane的传输速度，而是增加WDM波长数量来扩大总频宽。WDM可从单一波长逐步增加至4、8、16个波长、甚至更多，持续扩大整体光传输容量。
+
+台积电不断改善COUPE的效能提升，在下一阶段发展，异质整合这个角色更为重要。陈明发表示，未来可望直接将调变器（modulator）、SOA（半导体光放大器，Semiconductor Optical Amplifier）与光源整合至COUPE平台背面，进一步提高光电元件整合程度，并为后续系统扩展提供更多弹性。
+
+同时，COUPE也可以作为光学中介层（optical interposer）。陈明发解释，如同CoWoS-S一样，COUPE可支援最大达3.3倍reticle size的尺寸，为COUPE未来可能实现的各种应用留下很大的想像空间。
+
+陈明发指出，随著AI与HPC对频宽、传输距离以及功耗效率的需求持续提升，光学I/O将成为值得关注的技术方案；台积电也将持续优化COUPE平台，进一步支援CWDM与DWDM等不同光传输应用；未来COUPE与CoWoS封装将进一步整合，未来可能应用于不同领域。不过，要实现完整的光电整合生态系，除了晶圆代工厂本身的技术发展之外，也需要产业链各方利害关系人，以及OSAT业者之间进行密切合作才能实现。]]></description>
+  </item>
+  <item>
+    <title>OpenClaw 2.0 推出！简化安装设定，共享工作阶段</title>
+    <link>https://technews.tw/2026/08/31/a-push-for-simpler-setup-and-a-first-class-browser-experience-led-to-openclaw-2-0/</link>
+    <guid>https://technews.tw/2026/08/31/a-push-for-simpler-setup-and-a-first-class-browser-experience-led-to-openclaw-2-0/</guid>
+    <pubDate>Mon, 31 Aug 2026 10:44:30 +0000</pubDate>
+    <description><![CDATA[OpenClaw 团队在 31 日推出 OpenClaw 2.0 版本，重新打造其浏览器介面、删减各项设定工作，并新增共享工作阶段的功能，让多人得以在无需舍弃 Agent 既有脉络的情况下共同协作。
+
+OpenClaw 2.0 全新安装流程可自使用者电脑上已经存在的模型著手，包括 ChatGPT 或 Claude 订阅、API 金钥以及本地端模型。OpenClaw 同时也将选用性的设定项目移出初始设定流程，让使用者能透过自然对话方式完成后续设定。这次新版发布，让 OpenClaw 得以触及更多使用者。
+
+OpenClaw 是一款开源的个人 Agent，透过一个本地端的 Gateway，将各项模型和工具连接至各项传讯服务和装置。Gateway 掌管著各工作阶段、凭证及工具存取权，而使用者则可透过包括 WhatsApp、Telegram、Slack、Discord、Signal、iMessage 等服务与 Agent 进行互动。
+
+OpenClaw 2.0 把 Browser App（可说是网页版操作介面）重新设计成使用 OpenClaw 的主要入口 。重新打造的介面会直接进入一段对话，并为使用者提供一个能管理持续进行中的工作、设定项目、档案、核准事项、外挂程式以及多个工作阶段。OpenClaw 的入门说明文件描述，从安装到能在浏览器展开对话，如今仅需要 5 分钟的时间。若要进行模型的身分验证、通讯管道配对及选用外挂程式，则会需要更多时间。
+
+一个由本地端所掌控的 Agent，能持有凭证、读取讯息并执行指令，但每多一道设定步骤，便会将其受众范围进一步限缩至愿意自行管理这些存取权限的使用者。OpenClaw 2.0 试图保留本地端掌控权的同时，让使用者所建立的第一套实用工作流程能贴近一般软体产品的样貌。
+
+OpenClaw 2.0 重大的结构性变革，是多人协作运作模式。共享工作阶段让另一个人得以加入进行中的工作，或接手某一项任务，同时保留 Agent 所累积的脉络。OpenClaw 团队表示，自家贡献者在打造这个版本的过程便曾运用这项功能。
+
+OpenClaw 的云端工作阶段架构，将对话本身与实际执行工作的机器加以分离。一个工作阶段可在 Gateway 主机、一台已配对的装置，或一个临时性的云端工作节点上执行。而 Gateway 依旧负责掌管正本逐字纪录、模型凭证及工作区状态，各项供应商凭证无需复制至远端的执行机器上。
+
+多人协作的支援，并不会让单一一套 OpenClaw 安装环境变成一项通用型的多租户服务。OpenClaw 的资安说明文件将每一个 Gateway 定义成一道信任边界，并建议针对彼此互不信任的参与者，应采用各自独立的 Gateway、凭证，最好使用各自独立的作业系统使用者帐号或主机。
+
+这项限制之所以重要，是因为 OpenClaw 的 Agent 可被授予代为执行浏览、编辑档案、执行指令，并透过已连结的帐号采取行动。Gateway 的权限设定，依旧决定如一道错误指令或一个遭入侵帐号所造成的损害程度。
+
+OpenClaw 这次更新是在一段较长时间的等待后推出，OpenClaw 团队表示，先前曾在 230 天内推出 106 个版本更新，各版本之间通常仅隔 1~2 天，然而 OpenClaw 2.0 版本是将近 7 周未推出任何版本后才问世。
+
+将近 7 周的时间并非开发工作停滞，而是源自于产品开发所累积的复杂度。像是安装流程、讯息传送、记忆、技能、模型支援、自动化机制、原生应用程式、外挂程式及资安，都在这次更新出现变动。
+
+OpenClaw 团队指出，共有 933 位贡献者参与这项更新，其中有 569 位首次参与的贡献者，并横跨超过 16,000 个 pull request，才能有 OpenClaw 2.0 问世。]]></description>
+  </item>
+  <item>
+    <title>正崴切割森崴能源，每股 0.05 元出售持股、9 月完成交割</title>
+    <link>https://finance.technews.tw/2026/08/31/foxlink-cheng-wei-divests-shinfox-energy-sells-shares-0-05-september-settlement/</link>
+    <guid>https://finance.technews.tw/2026/08/31/foxlink-cheng-wei-divests-shinfox-energy-sells-shares-0-05-september-settlement/</guid>
+    <pubDate>Mon, 31 Aug 2026 10:33:42 +0000</pubDate>
+    <description><![CDATA[正崴与旗下永崴投控决定出售森崴能源持股，拟以每股 0.05 元参与公开收购案，预计 9 月 14 日完成交割。受到台电离岸风电二期工程巨额亏损影响，正崴表示，考量后续风险仍可能持续扩大，因此决定处分森崴持股，交易完成后将丧失对森崴能源的控制力。
+
+正崴集团合计持有森崴能源约 1.43 亿股，其中永崴投控持有约 1.21 亿股。森崴能源自 2025 年第二季以来，受到旗下富崴能源承接台电离岸风电二期工程成本大幅追加影响，出现巨额亏损，截至今年 6 月 30 日，每股净值已降至 -15.5 元。
+
+此外，森崴海外子公司新加坡宝崴进入清算程序，森崴也因此认列相关清算损失，部分银行并要求提前还款。由于台电离岸风电二期工程后续仍存在工程款、追加款等协商事项，正崴认为未来风险仍难以控制，因此正崴与永崴投控决定透过参与公开收购、应卖持股的方式，降低后续持续认列亏损、影响股东权益的风险。
+
+依公开收购时程，本次应卖截止日为 9 月 7 日，预计 9 月 14 日完成交割。不过，若最终应卖股数超过预定收购数量，公开收购人将依相同比例向所有应卖人收购，因此正崴与永崴投控最终实际成交股数及交易金额，仍须待公开收购完成后才能确定。
+
+至于森崴能源目前面临的债务问题，正崴协理罗奇玮表示，目前相关借款规模估计约 169 亿元，森崴先前已向银行联贷委员会申请债务协商并获通过，后续仍将持续与银行进行协商。
+
+罗奇玮也说明，正崴与永崴投控处分森崴能源持股，并不代表森崴既有债务随股权交易移转给公开收购人。森崴过去所出具的支援函及相关背书保证，仍须与银行协商处理；至于富崴能源承接的台电离岸风电二期工程，后续工程款及追加款等事项，也仍将持续与台电协商。]]></description>
+  </item>
   <item>
     <title>Temu 豪砸近 10 亿美元投放 Meta 广告，73% 合作创作者更疑为假帐号</title>
     <link>https://infosecu.technews.tw/2026/08/31/temu-spent-962-million-on-ads-financing-fake-creators-on-facebook-and-instagram/</link>
@@ -214,109 +319,6 @@ SB Energy也提醒投资人，能否取得足够资金兴建俄亥俄州资料�
 地球之所以能长期维持适居性，除了拥有磁场及大气层，很大程度也倚赖板块构造带来的地质条件（碳循环、水循环），新发现暗示行星即使没有板块运动，仍可能透过内部岩浆系统演化实现一定程度物质循环，打破系外行星没有板块构造就不适合居住的思维框架。
 
 新论文发表在《自然天文学》（Nature Astronomy）期刊。]]></description>
-  </item>
-  <item>
-    <title>研调：Q2 全球电视出货量年增 3.6%，中国市场减 15%</title>
-    <link>https://technews.tw/2026/08/31/research-q2-global-tv-shipments-grew-3-6-percent-china-market-down-15-percent/</link>
-    <guid>https://technews.tw/2026/08/31/research-q2-global-tv-shipments-grew-3-6-percent-china-market-down-15-percent/</guid>
-    <pubDate>Mon, 31 Aug 2026 07:50:42 +0000</pubDate>
-    <description><![CDATA[综合中媒报导，Omdia 今（31）日发布报告并指出，今年第二季全球电视出货量达 4,880 万台、年增 3.6%，受 FIFA 世界杯及 Amazon Prime 会员日档期拉动，西欧、北美及东欧等市场分别增长 9.5%、4.7% 和 14.5%；而中国仍是全球电视出货量增长面临的最大压力来源，随著本土消费刺激政策结束后，出货量年减 15.1%。该机构指出，记忆体供应趋紧暂未显著影响出货，但或推高年内终端价格。
-
-Omdia表示，第二季记忆体供应限制对电视出货量的影响较为有限，部分原因是各品牌继续推广旧产品线，并动用现有低成本记忆体库存；然而，随著记忆体供应预计将持续紧张且价格继续上涨，今年电视价格可能面临进一步上涨压力。Omdia还预计，随著低容量记忆体面临尤为紧张的供应限制，各品牌将进一步从低解析度电视转向4K机型。
-
-报告指出，第二季Mini LED的采用显著加速，占全球电视出货量的13%；三星和LG Electronics扩充了其Mini LED产品线，同时降低了入门价格，加剧了与市场原有领头厂商TCL和海信之间的竞争。此外，第一季TCL在全球Mini LED电视出货量中占据30.2%的份额，而到第二季，三星已从第三位跃升为市场领导者，出货量份额达到28.2%。
-
-同时，RGB LED市场竞争也在快速升温，第二季出货量达到29.5万台。年初，海信占据主导地位，市场份额达77.2%，由于市场竞争有限，中国占全球RGB LED市场的88.8%；到第二季，随著三星和索尼抢占大量市场份额，海信的份额已回档至42.9%。
-
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
-  </item>
-  <item>
-    <title>拓纬参展 SEMICON Taiwan 2026，展示最新 Relay 技术，布局高阶 Switching Solution 应用</title>
-    <link>https://technews.tw/2026/08/31/toward-semicon-taiwan-2026/</link>
-    <guid>https://technews.tw/2026/08/31/toward-semicon-taiwan-2026/</guid>
-    <pubDate>Mon, 31 Aug 2026 07:49:08 +0000</pubDate>
-    <description><![CDATA[SEMICON Taiwan 2026 将于 9 月 2 日至 4 日于台北南港展览馆 1、2 馆举行，拓纬股份有限公司（Toward Technologies, Inc.）将以「颠覆你对 Relay 的想像」为主题参展（摊位 K3168），展示涵盖 High-Speed、RF、Opto-SiC Relay、Reed Relay、Solid-State Relay 与 Modularized Switching Solutions 的完整技术布局。
-
-面对 AI/HPC、高速运算、先进半导体测试，以及 EV 与高电压电子系统的快速发展，Switching 元件所扮演的角色正持续演变。除了基本的讯号切换，工程师更需要考量高频性能、Signal Integrity、低漏电、高隔离、高电压能力，以及如何将更多 switching channels 整合至有限的系统空间中。
-
-拓纬此次展出从关键元件、Relay 到 Switching Module 的多层次产品组合，聚焦 Semiconductor Testing、ATE、Probe Card / Load Board、AI/HPC、RF Test、EV/BMS 与高电压量测等应用，呈现公司从 Relay 制造商迈向 Advanced Switching Solution Partner 的技术布局。
-
-因应半导体测试与 RF 系统朝向更高频率发展，拓纬将展出自行开发的 Broadband Conical Inductor 宽频锥形电感技术。
-
-不同于一般聚焦单一频段或传统电源应用的电感元件，Broadband Conical Inductor 的核心价值在于能于极宽频率范围内维持所需的 RF 特性，可应用于 Bias Tee、DC Bias Injection、RF Choke 及 Broadband Test Interface 等高频讯号路径设计。目前此技术可支援至 60 GHz，瞄准 RF / Microwave、High-Speed Semiconductor Testing 及先进测试介面等应用。
-
-▲ 拓纬展示多元 Relay 与 Switching Solution，布局高速、SiC、RF 及模组化应用。(Source:拓纬)
-
-对 Probe Card、Load Board、RF Test Fixture 及其他高频测试平台而言，如何在导入 DC Bias 的同时降低对 RF 讯号路径的影响，是高速测试架构中的重要设计课题。透过 Broadband Conical Inductor 与 Switching Technology 的整合，拓纬的产品布局已不再局限于 Relay 本身，而是逐步向 RF Signal Path、Bias Network 与 Switching Architecture 等系统层级延伸。
-
-随著 EV、BMS、Power Semiconductor 与高电压电子系统快速发展，测试设备需要处理的电压与隔离要求也持续提高。拓纬的 Opto-SiC MOSFET Relay 将 Silicon Carbide MOSFET 与光耦合控制架构整合，在保有 Solid-State Relay 无机械接点、长寿命及高速切换等特性的同时，将负载电压能力延伸至 kV 等级。
-
-其应用重点不只是「更高的耐压」，而是让工程师能在高电压系统中进行更灵活、更可靠的讯号与测试路径切换：
-
-透过 Opto-SiC 技术，拓纬希望解决的不只是单一 Relay 的规格需求，而是客户在 High-Voltage Switching、Isolation、Measurement Routing 与 Automated Test 中面临的实际设计问题。
-
-除了 Broadband Conical Inductor 与 Opto-SiC MOSFET Relay，拓纬此次亦展出 Reed Relay、RF MEMS、Solid-State Relay、High-Speed Inductor Solution 及 Modularized Switching Solutions。
-
-不同 switching technologies 各有其不可取代的特性──从 Reed Relay 的低接触电阻与高可靠度、Solid-State Relay 的小型化与低漏电，到 RF MEMS 的高频 switching performance，以及 Opto-SiC MOSFET Relay 的高电压能力，拓纬正将这些技术整合至同一产品与技术平台，使客户能根据真正的 application requirements（frequency、voltage、current、leakage、isolation、switching speed、channel density、form factor）选择最适合的 switching architecture，而非仅止於单一种类的 Relay。
-
-随著 Semiconductor Testing 与 ATE 架构日益复杂，客户需要的不再只是单一 Relay datasheet，而是能共同讨论整体 switching architecture 的技术伙伴。
-
-拓纬透过自身在 Relay Design、RF／High-Speed Technology、SiC、Packaging、Manufacturing、Testing 及 Module Integration 等领域的能力，逐步建立从 component 到 subsystem 的垂直整合平台──从客户初期的 application requirement、component selection、sample verification，到 switching module 与量产导入，拓纬希望更早参与客户的设计流程，协助缩短产品开发与验证时间。此次 SEMICON Taiwan 2026，拓纬诚挚邀请来自 Semiconductor Testing、ATE、Probe Card／Load Board、AI/HPC、RF、EV/BMS、Power Semiconductor 与 High-Voltage Testing 领域的工程、研发及产业伙伴莅临摊位 K3168 交流。
-
-Relay, Redefined. One Portfolio. More Switching Possibilities.
-
-拓纬将持续从 Relay 的核心技术出发,向更高频、更高电压、更高密度以及更完整的 Switching Solution 发展,重新定义 Relay 在下一世代电子与半导体测试系统中的角色。
-
-(首图图说：左起为拓纬股份有限公司业务副总徐祐生、董事长徐志旭及营运副总徐祐翔。资料来源：拓纬）]]></description>
-  </item>
-  <item>
-    <title>从 SOLI 到温度感测器再到「HiLight」，Google Pixel 硬体乐于创新也勇于放弃</title>
-    <link>https://technews.tw/2026/08/31/the-lineage-of-the-innovative-feature-from-soli-to-temperature-sensor-and-the-latest-hilight-feature-included-in-google-pixel-but-later-abandoned/</link>
-    <guid>https://technews.tw/2026/08/31/the-lineage-of-the-innovative-feature-from-soli-to-temperature-sensor-and-the-latest-hilight-feature-included-in-google-pixel-but-later-abandoned/</guid>
-    <pubDate>Mon, 31 Aug 2026 07:40:43 +0000</pubDate>
-    <description><![CDATA[Google Pixel 系列向来不只强调基本规格，也常把尖端技术直接放入手机，尝试改写使用者与装置互动。从早期无接触操作到背面温度量测，再到最新以灯光传递资讯，Pixel 硬体演化之路都带有鲜明的实验色彩。
-
-此路线最早可追溯到 2019 年 Pixel 4。当时 Google 导入 Motion Sense，背后是 Soli 小型雷达，能侦测手势与周遭动作，让使用者不必碰触萤幕就能切换音乐、延后闹钟或来电静音。这套感测也用来加速脸部解锁，手机侦测到使用者接近后，会提前启动相关模组，让解锁几乎拿起手机就完成。而日本市场因 60GHz 频段法规，此功能上市初期并未开放，直到 2020 年 2 月系统更新后才解禁。
-
-到了 2023 年，Pixel 8 Pro 又加入少见硬体：温度感测器。这颗感测器设在背面相机模组附近，搭配「温度计」应用程式即可量测物体表面温度，只要将手机背面对准目标并点选测量即可。官方设计感测距离需尽量 5 公分内，量测范围约 -20°C~150°C，并可依食品、饮料、玻璃、塑胶或木材等材质校正，以提升准确度。这项功能也延续至 Pixel 9 Pro 与 Pixel 10 Pro 等高阶机种。
-
-到了最新 Pixel 11 Pro 系列，温度感测器退场，取而代之的是 HiLight。Google 将相机附近的 LED 灯整合为多色通知灯，让手机即使萤幕朝下放在桌上，也能用灯号传达资讯。当使用 Gemini，灯光会依不同状态呈不同色彩或变化；若是重要联络人来电，也能设定专属颜色，让使用者只看背面灯号就能辨识来电者。根据目前资讯，新功能上市时先支援标准电话来电，之后会更新扩充至其他应用程式。
-
-从 Soli 到温度感测器再到 HiLight，Pixel 系列反复尝试将新技术变成日常功能，也显示 Google 手机设计并不只追求规格堆叠，而是持续寻找新操作与通知方法。但这些功能也证明 Pixel 硬体策略变动率非常高，某些创新即使亮眼，也可能只活了几代产品。]]></description>
-  </item>
-  <item>
-    <title>永丰余 2025 糖经济发威！年砍 8.7 万吨碳排、绿电自给率飙破 67%</title>
-    <link>https://finance.technews.tw/2026/08/31/sugar-economy/</link>
-    <guid>https://finance.technews.tw/2026/08/31/sugar-economy/</guid>
-    <pubDate>Mon, 31 Aug 2026 07:32:18 +0000</pubDate>
-    <description><![CDATA[永丰余今日发布《2025 年永续报告书》，揭示糖经济的基础，投入「低碳低耗能」、「全循环经济」及「非塑材料」的发展成效，执行近 40 项节能减碳行动，年减碳逾 8.7 万吨 CO₂e，促使 2025 年台湾营运据点碳排放量较 2024 年下降 5.1%，较 2021 年碳费基准年减少 19.9%。
-
-永丰余聚焦「能源转型」与「材料创新」双引擎，能源转型运用生质能发展独有的「三态绿电」如固态资源循环燃料、液态木质素、气态沼气，建立具弹性的能源结构低碳化模式，强化自身供电韧性，三大事业群包括工纸、林浆纸、消费品生质能发电量达 2.1 亿度，总自发自用电比例达 67%。
-
-永丰余拥有全台最大木质素与沼气发电机组，生产纸浆与文化用纸的花莲厂，2025 年筹划新建高效率木质素生质能发电设施，装置容量将由 18,000 kW 提升至 43,500 kW，木质素浓度由 65% 提高至 85%，年发电量倍增，预估未来每年减少 10.5 万吨 CO₂e 排放。
-
-永丰余生产工业用纸的新屋厂，独家培育的厌氧菌四小时内可分解 90% 的有机质，产生的碳排仅传统焚化方式的四分之一，并可产出甲烷浓度高达 88% 的沼气，供生质能发电使用。
-
-材料创新领域方面，永丰余开发全纸基可分解结构，依循何寿川的「糖基材料」洞见，让碳持续留存于产品与循环之中，不排放至大气，其中 Barrier Layer（阻隔层）已完成初步开发，应用于纸杯与纸餐盒，盛装热饮、冷饮或食品时均能有效防止渗漏，让包装迈向更高程度的环境友善。]]></description>
-  </item>
-  <item>
-    <title>IMAX 出售只闻楼梯响  为何迟未有买主现身？</title>
-    <link>https://finance.technews.tw/2026/08/31/imax-says-it-is-open-to-a-sale/</link>
-    <guid>https://finance.technews.tw/2026/08/31/imax-says-it-is-open-to-a-sale/</guid>
-    <pubDate>Mon, 31 Aug 2026 07:30:48 +0000</pubDate>
-    <description><![CDATA[加拿大影院技术公司 IMAX 去年 12 月首度表态有意愿出售，但九个月过去，这件事一直只闻楼梯响，不见买家现身。尽管近期 IMAX 影厅票房屡破纪录，带动股价刷新高，但碍于利益冲突问题，加上公司身价水涨船高，最终能否顺利觅得买主，仍有待观察。
-
-CNBC报导，今年初，IMAX曾与潜在买家初步洽谈出售事宜，但对方并未提出正式的收购报价，后续也未有进一步进展，谈判最后无疾而终，迄今迟迟未出现新的明确买家。
-
-值得注意的是，IMAX近期营运动能强劲，主要受惠名导诺兰史诗大片〈奥德赛〉（The Odyssey）全程使用IMAX胶卷拍摄，全球IMAX影厅票房已突破4亿美元，成为IMAX史上首部跨越此门槛的电影。亮眼票房同步推升投资人信心，IMAX股价今年以来劲扬36.31%，市值逼近30亿美元。
-
-不过，IMAX长期扮演片商与戏院之间的协调角色，也成为出售的一大障碍。业界人士指出，迪士尼、环球、派拉蒙及华纳兄弟等大型片商若出手收购，恐引发利益冲突疑虑，因IMAX必须与各大片商及戏院协调上映档期与排片调度，若落入单一片商手中，其他片商恐难以抢到热门档期，将引起垄断市场的争议。
-
-因此，分析师认为，Netflix、苹果、亚马逊、Sony或私募基金反而更可能成为潜在买家。其中，科技巨头同时掌握影视内容与技术平台，与IMAX高度科技化的影院业务具一定综效；私募基金则较能避开片商之间的利益冲突。
-
-然而，IMAX股价持续攀高也同步垫高收购成本。分析师指出，IMAX公司现阶段营运稳健，并无急售压力，若买方无法提出具吸引力的溢价，管理层恐难接受收购提案。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Unsplash）]]></description>
   </item>
 </channel>
 </rss>
