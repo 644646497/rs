@@ -4,7 +4,24 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 02 Sep 2026 19:00:48 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 02 Sep 2026 22:03:32 GMT</lastBuildDate>
+  <item>
+    <title>信邦 8 月营收 32.81 亿元创高，苗栗新厂 2027 年第二季投产</title>
+    <link>https://finance.technews.tw/2026/09/03/sinbon-august-revenue-record-miaoli-plant-q2-2027-production/</link>
+    <guid>https://finance.technews.tw/2026/09/03/sinbon-august-revenue-record-miaoli-plant-q2-2027-production/</guid>
+    <pubDate>Wed, 02 Sep 2026 22:00:38 +0000</pubDate>
+    <description><![CDATA[信邦 8 月自结合并营收达 32.81 亿元，月增 3.58%、年增 32.47%，连续 5 个月改写单月历史新高；累计前 8 月营收 238.35 亿元，年增 13.93%，同步创历年同期新高。另外，信邦同步扩充产能，今年 8 月已购入苗栗中兴工业区厂房，预计 2027 年第二季投产，铜锣科学园区新厂则预计 2029 年初加入营运。
+
+信邦表示，8 月营收续创新高，主要受惠医疗、工业应用、通讯及电子周边需求增温，三大领域营收分别较 7 月成长 0.82%、6.15%及 16.22%，其中通讯及电子周边单月成长幅度最为明显。
+
+信邦前 8 月营收中，工业应用表现最突出，年增 35.24%；医疗及健康照护、汽车相关营收也分别成长 28.01%及 26.94%。至于绿能、通讯与电子周边，前 8 月营收则较去年同期下滑 7.78%及 7.39%。
+
+目前工业应用仍是信邦最大的营收来源，占合并营收 36.61%，其次为通讯及电子周边的 19.73%、绿能 17.08%及汽车 16.79%，医疗及健康照护占 9.79%。以产品来看，连接线组（Cable Assembly）占营收约 78%，连接器及零组件则占约 22%。
+
+值得注意的是，信邦正进一步扩大半导体高阶设备布局。因应 AI 晶片带动高阶半导体设备需求，公司今年 8 月购入苗栗中兴工业区厂房，规画于 2027 年第二季投产；另一方面，铜锣科学园区新厂也持续建置，预计 2029 年初投产，为后续需求预先准备产能。
+
+除半导体高阶设备外，信邦也将人形机器人及商用无人机列为下一阶段重点布局领域。随新应用逐步放量，加上新产能陆续到位，公司未来营运成长动能将进一步由既有工业、医疗及汽车市场，延伸至半导体设备、机器人与无人机等新兴应用。]]></description>
+  </item>
   <item>
     <title>博大 8 月营收再创高、年增 56%，下半年营运续旺</title>
     <link>https://finance.technews.tw/2026/09/02/boda-august-revenue-new-high-56-yoy-second-half-operations-robust/</link>
@@ -240,33 +257,6 @@ VMware 已能在伺服器、储存与网路层提供虚拟化，但主要仍建�
 虽然 VMware 已释出 Arm 伺服器预览，但维拉加最新说法显示，博通不急著商业化。他表示客户对 RISC-V 处理器「完全没有兴趣」，不过若未来有需要，VMware 仍会依策略再评估是否支援。
 
 研发资源分配部分，维拉加称博通软体部门每年约 50 亿美元的研发支出，约 60% 维持 VMware 产品更新，其余才投入新产品开发，包括日前「AI Factory」与 VMware Private AI Cloud。后者定位为企业私有云与私有 AI 基础架构整合的转折点，主打让企业保有资料主权、合规与成本可预测性的前提下，执行生产级推论工作负载与代理式 AI。]]></description>
-  </item>
-  <item>
-    <title>乙太网是 AI 基础设施最佳技术！博通谈 CPO 光源封装挑战、两大光互连路线差异</title>
-    <link>https://technews.tw/2026/09/02/broadcom-semicon-taiwan-asad-khamisy/</link>
-    <guid>https://technews.tw/2026/09/02/broadcom-semicon-taiwan-asad-khamisy/</guid>
-    <pubDate>Wed, 02 Sep 2026 09:46:43 +0000</pubDate>
-    <description><![CDATA[Semicon Taiwan于今（2日）盛大开幕，谈到乙太网在AI基础设施中的角色，博通资深副总裁暨核心交换器部门总经理Asad Khamisy直言「乙太网是建构AI基础设施最佳的技术！」
-
-Khamisy举例，在Scale-up阶段可能采用专利或独家方案，到Scale-out可能又转向另一套专利技术，相较之下，乙太网能为Scale-up、Scale-out以及Scale-across提供统一的解决方案，实现端到端的无缝连接，且已广泛部署于AI基础设施中。
-
-随著AI丛集持续扩大，光互连架构分为Fast and Narrow（高与窄）、Slow and Wide（慢与宽）。Khamisy表示，Slow and Wide其实就是OCI（光学运算互连，Optical Compute Interconnect），至于目前的标准光学方案（如DR4、FR4、ZR optics或ZR+ optics）则依赖Fast and Narrow。
-
-这两者最大的差异，在于设计目标不同。Khamisy表示，Fast and Narrow的核心宗旨是尽可能减少所需的光纤数量，尤其适用于超长距离传输。例如ZR optics等应用，甚至延伸至海底缆线，由于光纤数量受到成本与空间限制，必须让单一连线以极高速度传输。不过，当传输速率大幅提升后，系统复杂度也会随之增加，调变技术必须从NRZ进一步采用PAM4，甚至更高阶的PAM调变，使电路与光路设计更加复杂，同时带来更高的功耗与延迟。因此，Fast and Narrow是以提高单一通道速率，换取更少的光纤数量与更长的传输距离。
-
-相较之下，Slow and Wide则是以降低功耗与延迟为主要目标。Khamisy解释，透过降低单一连线的传输速率，采用相对简单的NRZ调变，而不需要使用PAM4或PAM8等更复杂的调变方式，进而简化电路与光路设计。此外，Slow and Wide也刻意缩短传输距离，目前低速宽广架构的传输距离定义为约500公尺，与Scale-up的OCI标准相符。透过降低速率、缩短距离并增加连线宽度，可以有效降低系统的功耗与延迟。
-
-简单来说，Fast and Narrow以更高的单通道速率，换取更少光纤数量与更长传输距离，但代价是更高的系统复杂度、功耗与延迟；Slow and Wide则反其道而行，透过降低单通道速率、增加连线数量并缩短传输距离，换取更低的功耗与延迟。两者并非谁取代谁，而是针对不同AI网路与互连场景所做的架构取舍。
-
-在光通讯技术持续演进的过程中，「标准化」扮演相当关键的角色。Khamisy指出，博通支持标准化与开放网路，因为这是扩大产业生态系、吸引更多厂商投入的重要基础。当市场由单一供应商走向多家厂商共同参与，若缺乏统一标准，各家产品便难以实现互通。建立共同标准不仅有助于确保多厂商之间的互操作性（interoperability），也能降低生态系发展的门槛，进一步推动更开放、更具规模的产业生态系。
-
-以博通CPO技术为例，包括Tomahawk 5、Tomahawk 6及用于OCI的整合光学技术，目前皆采用ELSFP雷射外接光源，因为雷射对温度相当敏感，若将雷射整合至高功耗的交换器封装中，热管理将成为极大的挑战。
-
-「交换器晶片的功耗可能达到数千瓦等级，与一般仅有10瓦、20瓦的光学模组完全不同。」Khamisy指出，若将雷射直接整合在矽晶圆或封装内部，除了雷射本身对温度高度敏感，也使整体散热设计更加复杂，因此在交换器应用上，如何处理整合雷射所产生的热管理问题，将是CPO发展的重要挑战。
-
-至于未来5年是否能克服相关技术障碍？Khamisy认为，对交换器而言，正确的技术路线仍应是外接雷射而非整合光源，因为交换器本身具有极高的功耗，若进一步将雷射整合至封装内，热管理将变得更加棘手，因此博通仍看好外接雷射的架构。此外，他也认为，对OCI来说，光学中介层（optical interposer）是有意义的。
-
-谈到Thor Ultra进度，Khamisy表示刚完成矽晶圆验证（silicon qualification）及软体GA（通用放行），目前Thor Ultra已进入大规模量产阶段，公司也与超大型资料中心业者、Neocloud等多家客户合作，将Thor Ultra部署到他们的网路中，预期第一批客户将在今年底前完成验证。]]></description>
   </item>
 </channel>
 </rss>
