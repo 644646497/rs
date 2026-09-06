@@ -4,7 +4,76 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sat, 05 Sep 2026 21:45:33 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 01:31:44 GMT</lastBuildDate>
+  <item>
+    <title>AI 设计出人工噬菌体，成功狙击抗药性大肠杆菌</title>
+    <link>https://technews.tw/2026/09/06/scientists-are-using-ai-and-viruses-to-help-defeat-superbugs/</link>
+    <guid>https://technews.tw/2026/09/06/scientists-are-using-ai-and-viruses-to-help-defeat-superbugs/</guid>
+    <pubDate>Sun, 06 Sep 2026 01:30:13 +0000</pubDate>
+    <description><![CDATA[研究人员正将人工智慧与噬菌体技术结合，寻找对抗抗药性细菌的新方法。噬菌体本来就是以细菌为目标的病毒，过去科学家往往得手动测试大量病毒样本，才能找到能精准攻击特定细菌的类型，如今深度学习模型正大幅改变这个流程。
+
+根据相关研究，AI 模型可提升噬菌体与宿主之间互动预测的精准度与可扩充性，让科学家更有效率地筛选出可能有效的噬菌体。更进一步的是，新一代模型不只是在既有病毒库中寻找答案，还能协助研究人员设计客制化、合成式噬菌体，针对特定细菌量身打造。
+
+在最新实验中，研究团队利用生成式 AI 模型，从约 70 万个候选设计中挑选出 285 个序列进行实验室合成，最后有 16 种人工设计的噬菌体成功抑制大肠杆菌生长，并在后续测试中对两株抗药性大肠杆菌展现攻击能力。相较之下，原本的参考病毒与天然噬菌体混合组合，并未在相同测试中达到同样效果。
+
+研究人员也强调安全控管，刻意排除部分基因体资料，避免模型生成可能感染人类、动物、植物或真菌的病毒，并在研究中加入额外的生物安全措施。学者指出，未来若能把不同基因背景的噬菌体搭配使用，或许还能提高治疗效果，降低细菌演化出抗性的机会。]]></description>
+  </item>
+  <item>
+    <title>欣兴董座简山杰揭 AI 供应链隐忧：载板产能告急，携客户十度赴日催料</title>
+    <link>https://technews.tw/2026/09/06/unimicron-visits-suppliers-more-than-10-times-to-expand-capacity/</link>
+    <guid>https://technews.tw/2026/09/06/unimicron-visits-suppliers-more-than-10-times-to-expand-capacity/</guid>
+    <pubDate>Sun, 06 Sep 2026 01:00:38 +0000</pubDate>
+    <description><![CDATA[AI 算力需求狂飙，全球半导体供应链的瓶颈正从晶圆制造、先进封装一路往上游蔓延。欣兴新任董事长简山杰上任后首度参加半导体展出席大师论坛，根据《财讯》双周刊报导，他直言，AI 需求持续演进，IC 载板不仅面临产能短缺，晶片客户还要求更大的载板尺寸、更多晶粒整合及更复杂设计，让供应链压力进一步放大；更值得注意的是，包括关键材料与设备都面临供给压力，「我们过去一年半来，已与客户共同拜访关键供应商超过 10 次，终于看到部分业者提出新的扩产计划。」]]></description>
+  </item>
+  <item>
+    <title>AI 智慧喂食碗「EverBowl」把关毛孩健康，新创 Hoomanely 靠「吃饭数据」揪出隐藏疾病</title>
+    <link>https://technews.tw/2026/09/06/hoomanely-ai-pet-feeder-everbowl/</link>
+    <guid>https://technews.tw/2026/09/06/hoomanely-ai-pet-feeder-everbowl/</guid>
+    <pubDate>Sun, 06 Sep 2026 00:30:05 +0000</pubDate>
+    <description><![CDATA[来自美国加州帕罗奥图（Palo Alto）的新创公司 Hoomanely，近期打造了一套结合智慧喂食装置与 A [&#8230;]]]></description>
+  </item>
+  <item>
+    <title>中国惨赔上亿换来的醒悟，专攻「电商做不到的事」！74 岁老将何汤雄领军特力屋拚 10 月挂牌上市</title>
+    <link>https://finance.technews.tw/2026/09/06/how-tlw-can-return-revenue-and-profit-to-growth/</link>
+    <guid>https://finance.technews.tw/2026/09/06/how-tlw-can-return-revenue-and-profit-to-growth/</guid>
+    <pubDate>Sun, 06 Sep 2026 00:00:37 +0000</pubDate>
+    <description><![CDATA[近年在电商、房市逆风夹击下，让居家装修 30 年的老品牌特力屋面临潜在生存危机。重回前线的总裁何汤雄大力改革，专攻「电商做不到的事」，让营收、获利重返正成长，10 月更将挂牌上市。
+
+2024年，74岁的特力集团总裁何汤雄，以特力屋董事长身分，重返睽违多年的营运第一线。他的目标，是推动特力屋这个拥有高知名度的居家修缮品牌，自集团内独立分拆，走向资本市场。
+
+1995年成立的特力屋，早年凭著千坪规模的大型卖场、种类齐全的商品，成为乐于DIY（自己动手做）改造住宅环境的消费者首选，全盛时期每年都能创造破百亿元营收，是不折不扣的国内居家修缮通路龙头。
+
+然而，近年来，特力屋卖场受到境外电商强势登陆、国内房市交易急冻导致装修需求萎缩等不利因素影响，来客数持续下滑，若无法及时踩住煞车，这个历史悠久的品牌，甚至可能面临生存危机。
+
+尽管大环境逆风，但老将何汤雄回任后，只花了一年时间，就为特力屋营运带来新气象。2025年营收虽较2024年下滑，但每股税后纯益（EPS）却年增四成达2.39元；今年上半年不仅营收恢复增长，EPS 3.06元，更已赚赢2025年全年。
+
+特力屋重返成长轨道之际，走向资本市场的目标也稳步推进，去年10月登录兴柜后，今年10月底将正式转上市。
+
+接受《今周刊》专访、被问起带领特力屋逆势突围的秘诀时，何汤雄用他一贯的爽朗语气回答：「掌握实体店面的珍贵价值，电商做不到的，你尽量去做就对了！」
+
+话虽说得轻松，但这可是何汤雄在中国重重跌了一跤、惨赔人民币上亿元后才领悟到的心法，「我算是付过学费，而且还付得不少」，他笑著回忆。
+
+时间回到2017年，当时特力集团在中国市场的品牌「HOLA和乐」连年亏损，已经退休的何汤雄看不下去，决定重出江湖、亲自坐镇上海，自信满满地宣示，要用过去在台湾的成功经验，让品牌转亏为盈。
+
+但何汤雄被现实狠狠地甩了一记耳光。驻点中国那两年，特力和乐不仅没有获利，还因中国电商与实体业者夹杀导致亏损黑洞愈来愈深。何汤雄认清自己无法力挽狂澜，在2019年决定认栽，将事业全面撤出中国。
+
+当时，台湾的特力屋也正启动转型，尝试开设经营规模较小的社区店，希望更贴近消费者，并派出「社区管家」，在社区大楼主动开发客源。何汤雄意识到早年的成功模式，在电商时代未必管用，因此积极想与集团内部分享中国见闻，「但那时没什么人听得懂」，他无奈地说。
+
+直到2024年，特力集团决定拆分旗下零售事业，重返第一线的何汤雄，才有机会实践在中国所学。]]></description>
+  </item>
+  <item>
+    <title>星等评论失灵，「可验证证据」成AI 时代网购买单关键</title>
+    <link>https://technews.tw/2026/09/06/online-shopping-reviews-evidence/</link>
+    <guid>https://technews.tw/2026/09/06/online-shopping-reviews-evidence/</guid>
+    <pubDate>Sat, 05 Sep 2026 23:30:25 +0000</pubDate>
+    <description><![CDATA[随著生成式 AI 深度介入线上购物流程，网购生态正迎来重大转变。当消费者对「看起来像 AI 写的」或疑似造假的评论愈发警惕，购物的信任重心已正式从「大量意见」转向「可验证的证据」。最新市场观察指出，在 AI 影响商品搜寻、比较与推荐的同时，透明的实测过程、实际数据与清晰可查的产品资讯，正成为消费者判断是否下单的首要依据。
+
+这项变化延续了之前的市场趋势：尽管消费者愈来愈习惯运用 AI 协助挑选商品、比较选项甚至摘要评论，但对生成式 AI 产出内容的信任度依然低于 40%。在这样的背景下，现代购物者的决策模式不再依赖单一来源，而是转向交叉比对 AI 建议、社群内容、商店资讯与真实使用者回馈。然而，随著资讯管道暴增，要分辨哪些内容具备真实参考价值，哪些只是过度包装的行销话术，变得更具挑战性。
+
+对零售商与品牌而言，这意味著线上内容的经营策略必须全面升级。品牌的数位布局不再只能「面向消费者」，同时必须具备极高的「机读性」，也就是让 AI 系统更容易读懂产品规格、常见问题与测试结果，以确保在 AI 搜寻引擎与推荐机制中被精准、完整地引用。与此同时，消费者对评论的要求也大幅提高，单看星等与文字长度已不足以说服他们；是否具备实质的测试纪录、客观比较基准与可重复验证的资讯，才是建立品牌信任的核心。
+
+研究进一步显示，AI 在旅游、美妆与时尚等需要大量事前研究的品类中，应用最为普及。如今，随著消费者对评论真实性的疑虑日益升高，品牌能否提供透明、可核对的实质证据，将直接决定其在 AI 时代的市场曝光度与消费者信任度。]]></description>
+  </item>
   <item>
     <title>韦伯望远镜再立功！宇宙早期捕捉四对「小红点」，揭远古黑洞合并前兆</title>
     <link>https://technews.tw/2026/09/06/four-pairs-red-dots/</link>
@@ -188,125 +257,6 @@ S. Krishnan进一步指出，印度半导体计划最令外资信赖的关键，
 还有北方邦（Uttar Pradesh）方面，人口超过 2.5 亿，紧邻新德里，其诺伊达（Noida）已具备成熟晶片设计生态系，吸引联发科、恩智浦等大厂进驻。北方邦提供高达 50% 的额外补助与 75% 的预付土地补贴。在紧邻吉瓦尔（Jewar）机场的半导体聚落中，特别划出 300 英亩打造「台湾专区」（Taiwanese City），力邀台湾半导体供应链进驻。
 
 S. Krishnan 补充道，台商在印度电子与半导体制造业已具备深度参与，包括力积电提供技术协作、奇景光电深度参与，鸿海与 HCL 的 OSAT 合资案，以及和硕、达方、纬创与联发科等大厂的深耕。随著双边积极推动半导体产业专属聚落（如 TIEMA 园区），目前正是台湾半导体供应链布局印度的黄金时机。接下来，2026年 SEMICON India 将于 9 月 17 日至 19 日在新德里盛大举行，参展企业已大幅攀升至超过 525 家 。印度代表团诚挚邀请台湾半导体先进亲临现场，携手共创下一个半导体奇迹。]]></description>
-  </item>
-  <item>
-    <title>越依赖 AI 越像机器人？研究揭购物代理难以预测还悄悄重塑人类行为</title>
-    <link>https://technews.tw/2026/09/05/ai-agents-shopping-habits-unpredictable/</link>
-    <guid>https://technews.tw/2026/09/05/ai-agents-shopping-habits-unpredictable/</guid>
-    <pubDate>Sat, 05 Sep 2026 06:30:26 +0000</pubDate>
-    <description><![CDATA[最新研究指出，AI 代理在购物情境中的表现远不如外界预期般稳定，反而时常给出难以预测且前后矛盾的结果。随著消费者愈发依赖 AI 进行商品搜寻与比价，零售业正面临一场前所未有的考验：这不仅关乎技术层面的运作效率，更牵动著顾客行为与系统判读逻辑的根本巨变。
-
-研究团队发现，当人类长时间与客服 AI、购物助理或拟人化机器人互动时，沟通模式会悄然发生改变。为了获得更精确、顺畅的服务回馈，消费者往往会根据系统的回应来调整自己的说法。
-
-久而久之，人类开始舍弃个人化的语气与即兴反应，转而采用系统更容易辨识与处理的直白指令。研究者将此现象命名为「robotoid humanness」，点出这是一种双向的形塑过程：当工程师努力让 AI 变得更像人类时，人类却在反复的互动中，无意间将行为内化成机器偏好的模样。
-
-这股行为模式的转变，让零售端的顾客识别与资料整合变得更加棘手。现代消费者习惯在多个接触点之间频繁切换，而这也衍生出两大隐忧：
-
-在返校季或节庆购物等高流量时段，庞大的互动数据会让这些系统判读错误加速累积。学界与业界的观察最终都指向同一个核心结论：AI 购物助理带来的影响远不止于颠覆传统购物流程，它正以超乎预期的深度，彻底改写消费者与品牌、客服及平台之间的互动本质。]]></description>
-  </item>
-  <item>
-    <title>每天一杯咖啡能减脂增肌？研究揭开「黑金」背后的荷尔蒙秘密</title>
-    <link>https://technews.tw/2026/09/05/coffee-drinkers-lower-body-fat-higher-muscle/</link>
-    <guid>https://technews.tw/2026/09/05/coffee-drinkers-lower-body-fat-higher-muscle/</guid>
-    <pubDate>Sat, 05 Sep 2026 06:00:55 +0000</pubDate>
-    <description><![CDATA[每天一杯咖啡不仅能带来早晨的活力，还可能悄悄改变你的体态与荷尔蒙。过去许多研究已指出，喝咖啡与降低第二型糖尿病和心血管疾病风险有关，但背后的生物学机制始终是个谜。近期，芬兰奥卢大学（University of Oulu）的一项最新研究为此提供新线索：习惯性饮用咖啡不仅与较低的体脂和较高的肌肉量有关，还会在男性与女性身上留下截然不同的荷尔蒙印记。
-
-这项发表于《European Journal of Nutrition》的研究，分析了「1966年芬兰北部出生世代研究」中 2,264 名 46 岁受试者的健康数据，深入探讨日常咖啡摄取量与血液代谢物、心血管代谢风险指标及性荷尔蒙之间的关联。
-
-研究团队根据受试者每日的咖啡饮用量分组，发现了一个有趣的现象：尽管各组受试者的身体质量指数（BMI）相近，但咖啡摄取量较高的人，其全身总脂肪和内脏脂肪明显较少，且骨骼肌质量更高。
-
-在代谢指标方面，无论男女，喝较多咖啡的人血液中「支链胺基酸」（BCAAs）浓度都较低。过去医学研究显示，血液中这类生物标记若长期偏高，往往与胰岛素阻抗及第二型糖尿病高风险密切相关。
-
-咖啡带来的影响呈现出高度的性别差异，其中对男性的影响最为显著：
-
-该研究的首席作者、奥卢大学博士研究员 Luca Verroest 指出：「每天有数百万人喝咖啡，但我们对于它如何影响代谢和荷尔蒙却知之甚少。这次最引人注目的发现是，即使我们排除了 BMI 和生活型态因素的干扰，这种独特的荷尔蒙特征依然存在，且男女有别。」
-
-该研究首席作者 Luca Verroest 指出，即使排除了 BMI 和生活型态因素的干扰，这种独特的荷尔蒙特征依然存在，且男女有别。
-
-芬兰是全球咖啡消费量最高的国家之一，平均每人每年消耗高达 11.8 公斤，是研究咖啡健康效益的绝佳地点。
-
-然而，研究团队强调这是一项观察性研究，虽找出高度相关性，但尚无法证实因果关系。未来科学家将进一步透过动物及人体介入实验，找出是咖啡中哪些活性化合物引发了这些改变。在谜团彻底解开前，这项发现尚不足以直接改变现有的饮食指南，但无疑为广大的咖啡爱好者增添了更多期待。]]></description>
-  </item>
-  <item>
-    <title>均英精密推自动化终测系统 GTK-SPT1，提升记忆体 DRAM 模组测试无人化</title>
-    <link>https://technews.tw/2026/09/05/gentk-gtk-spt1/</link>
-    <guid>https://technews.tw/2026/09/05/gentk-gtk-spt1/</guid>
-    <pubDate>Sat, 05 Sep 2026 06:00:42 +0000</pubDate>
-    <description><![CDATA[均英精密推出GTK-SPT1自动化终测系统，提升记忆体模组 DDR4、DDR5 量产阶段的终测效率。AI 伺服器应用持续推升记忆体需求，模组厂在扩大产出的同时，对测试产能与生产稳定性的要求也同步提升。GTK-SPT1 将过去仰赖人工逐片操作的 DIMM 终测流程导入自动化，最新系统进一步缩减设备占地，并最佳化自动化作业与测试流程，以提升整体产线效率。
-
-GTK-SPT1将过去仰赖人工逐片操作的DIMM终测与烧机验证流程，转为可同时处理多片模组的自动化测试作业。系统整合自动上下料与机械手臂双取双放，依序完成DIMM进料、取放至测试板、测试后回收，以及良品与不良品自动分类，降低重复性人工操作。GTK-SPT1可依不同DIMM产品型态与制程需求进行配置，支援Long DIMM、SO-DIMM，以及散热片安装前后的测试流程，并可串接既有测试软体，整合为完整的自动化终测工作站。
-
-均英精密自动化事业处副总经理李玉琳指出：「导入自动化，不只是减少人力需求，更重要的是让既有测试产能充分发挥。」GTK-SPT1透过批量自动化作业，可减少约97%的人工操作时间，让操作人员不需全程驻守测试站。在目前测试条件下，系统平均每分钟可完成2片DIMM测试，并同步记录测试资料，提升终测流程的追溯性。
-
-均英精密深耕记忆体产业自动化多年，相关专案已导入多家国际记忆体大厂，代表性专案包括：
-
-除自动化系统整合外，均英亦可依设备需求导入机械手臂、PLC 电控与 AOI 检测，并结合内部精密加工与模具开发能力，支援设备从机构设计、系统整合到量产导入。
-
-均英精密自1992年总部设立于台湾桃园，拥有自有模具厂、自动化厂与射出成形厂。工厂通过ISO 9001认证，为半导体、光学、光通讯、医疗、电子等产业提供关键零组件与自动化系统整合解决方案。均英不仅提供OEM / ODM服务，更凭借深厚产业经验，长期与跨国企业合作，协助客户优化全球制程、提升产线良率，持续为合作伙伴实现最高的附加价值。
-
-欲了解更多资讯，请造访gentk.com或追踪我们的LinkedIn官方帐号。]]></description>
-  </item>
-  <item>
-    <title>半导体海外建厂缺它不可！余钲锋学徒转型科技老板，垚𬭎全球布局营收看旺至 2030 年</title>
-    <link>https://finance.technews.tw/2026/09/05/yaohongs-global-expansion-projects-strong-revenue-growth-until-2030/</link>
-    <guid>https://finance.technews.tw/2026/09/05/yaohongs-global-expansion-projects-strong-revenue-growth-until-2030/</guid>
-    <pubDate>Sat, 05 Sep 2026 06:00:17 +0000</pubDate>
-    <description><![CDATA[在半导体供应链全球化与地缘政治波动的浪潮中，垚𬭎系统科技凭借其在气体与化学品供应系统「二次配」领域的专业技术，已然成为护国神山不可或缺的合作伙伴。垚𬭎系统科技董事长余钲锋透露，除了公司营收预期将持续稳定成长至2030年外，还表示垚𬭎在美、德在地化布局，国内也积极引进越南专业工程人才，并继续发展自主设备研发挑战国际大厂的计划。
-
-垚𬭎系统科技董事长余钲锋出生于1982年，年仅19岁便在半导体厂工地工读，借由现场实作一步步从学徒创立垚𬭎系统科技。尽管自谦学历普通、英文能力有限，但他坚持现场第一的原则，每个月皆亲自飞往美国，亲自掌控与半导体龙头客户合作的第一现场，坚信玩好现场那一双手，比什么都好的作法。
-
-面对外界常认为与半导体龙头客户做生意，在要求高、规则多的情况下不容易获利的刻板印象，余钲锋直言这是「逆向思维」的最佳契机。他认为与半导体龙头客户做生意，借由高规格辅导与严格SOP，正好是协助中小型企业建立现代公司治理、提升品质管制的最佳养分。因此，垚𬭎系统科技在与客户紧密配合下，成功在美台两地维持相近且稳定的毛利率。
-
-在业务板块方面，垚𬭎系统科技目前的核心主力为气体与化学品机台周边的「二次配」服务，其中包含装机、改机、拆机等周边工程。这项高度动态，且需在运作中的产线旁分区施工的专业服务，目前贡献了公司约80%的营收。依据规划，二次配业务至2027年仍将维持60%至70%的营收占比，而2028至2029年起，公司研发的设备营收比重有机会将大幅提升。
-
-余钲锋指出，垚𬭎系统科技自主开发的半导体晶圆清洗设备已通过小批量验证。首台设备预计于2026年底至2027年初正式出货至客户端进行实地验证。此外，垚𬭎系统科技亦计划切入设备的全球售后维修市场，预计与台湾年营收十几亿的维修大厂携手合作，在美国、德国等海外市场发挥1+1>2的综效，协助客户有效降低后期营运成本。
-
-事实上，垚𬭎系统科技的全球化布局起步极早，在三年前半导体大厂客户于美国开始投资，积极兴建首座厂房之际，垚𬭎系统科技便是第一批应客户要求前往服务的装机团队。目前集团约300名员工中，有1/3 约100多人派驻在美国。自2023年起，美方团队已全面推动在地化，聘用包括墨西哥、白人、黑人与泰国籍等不同族裔的在地员工。为了加速培训，垚𬭎系统科技更在美国建立专属训练教室，依照标准SOP进行銲工与建造人员培训。
-
-针对台湾国内因年轻人不愿进入无尘室，进而面临的严重人才荒的问题，余钲锋指垚𬭎系统科技除与国内学校进行产学合作外，目前也正在申请引进具有工程与焊工背景的越南专业人才，并计划引进台湾进行扎实培训。余钲锋指出，选择越南是因为越南文化与台湾较相近。
-
-最后，谈及全球其他区域的布局，余钲锋透露，客户在德国建设计划完工后，将规划留守半数人员转型为长期维修团队。另外，垚𬭎系统科技目前并未将日本列为发展重心，原因是日本半导体产业虽然实力雄厚，但当地的终身雇用制与较保守的职人文化，容易在瞬息万变且极度需要「灵活变通」的半导体与AI浪潮中受限。相较之下，台湾与美国团队具备更强的变通与适应能力。
-
-展望未来，余钲锋的终极梦想是带著在美国培训出的全球人才，在台湾与美洲市场强劲需求的带动下持续发展，使得垚𬭎系统科技在2030年以前的营收持续双位数，甚至数倍成长充满信心。]]></description>
-  </item>
-  <item>
-    <title>拓纬参展 SEMICON Taiwan 2026，展示最新 Relay 技术，布局高阶 Switching Solution 应用</title>
-    <link>https://technews.tw/2026/09/05/toward-inc-semicon-taiwan-2026/</link>
-    <guid>https://technews.tw/2026/09/05/toward-inc-semicon-taiwan-2026/</guid>
-    <pubDate>Sat, 05 Sep 2026 06:00:08 +0000</pubDate>
-    <description><![CDATA[SEMICON Taiwan 2026 将于 9 月 2 日至 4 日于台北南港展览馆 1、2 馆举行，拓纬股份有限公司（Toward Technologies, Inc.）将以「颠覆你对 Relay 的想像」为主题参展（摊位 K3168），展示涵盖 High-Speed、RF、Opto-SiC Relay、Reed Relay、Solid-State Relay 与 Modularized Switching Solutions 的完整技术布局。
-
-面对 AI/HPC、高速运算、先进半导体测试，以及 EV 与高电压电子系统的快速发展，Switching 元件所扮演的角色正持续演变。除了基本的讯号切换，工程师更需要考量高频性能、Signal Integrity、低漏电、高隔离、高电压能力，以及如何将更多 switching channels 整合至有限的系统空间中。
-
-拓纬此次展出从关键元件、Relay 到 Switching Module 的多层次产品组合，聚焦 Semiconductor Testing、ATE、Probe Card / Load Board、AI/HPC、RF Test、EV/BMS 与高电压量测等应用，呈现公司从 Relay 制造商迈向 Advanced Switching Solution Partner 的技术布局。
-
-因应半导体测试与 RF 系统朝向更高频率发展，拓纬将展出自行开发的 Broadband Conical Inductor 宽频锥形电感技术。
-
-不同于一般聚焦单一频段或传统电源应用的电感元件，Broadband Conical Inductor 的核心价值在于能于极宽频率范围内维持所需的 RF 特性，可应用于 Bias Tee、DC Bias Injection、RF Choke 及 Broadband Test Interface 等高频讯号路径设计。目前此技术可支援至 60 GHz，瞄准 RF / Microwave、High-Speed Semiconductor Testing 及先进测试介面等应用。
-
-▲ 拓纬展示多元 Relay 与 Switching Solution，布局高速、SiC、RF 及模组化应用。(Source:拓纬)
-
-对 Probe Card、Load Board、RF Test Fixture 及其他高频测试平台而言，如何在导入 DC Bias 的同时降低对 RF 讯号路径的影响，是高速测试架构中的重要设计课题。透过 Broadband Conical Inductor 与 Switching Technology 的整合，拓纬的产品布局已不再局限于 Relay 本身，而是逐步向 RF Signal Path、Bias Network 与 Switching Architecture 等系统层级延伸。
-
-随著 EV、BMS、Power Semiconductor 与高电压电子系统快速发展，测试设备需要处理的电压与隔离要求也持续提高。拓纬的 Opto-SiC MOSFET Relay 将 Silicon Carbide MOSFET 与光耦合控制架构整合，在保有 Solid-State Relay 无机械接点、长寿命及高速切换等特性的同时，将负载电压能力延伸至 kV 等级。
-
-其应用重点不只是「更高的耐压」，而是让工程师能在高电压系统中进行更灵活、更可靠的讯号与测试路径切换：
-
-透过 Opto-SiC 技术，拓纬希望解决的不只是单一 Relay 的规格需求，而是客户在 High-Voltage Switching、Isolation、Measurement Routing 与 Automated Test 中面临的实际设计问题。
-
-除了 Broadband Conical Inductor 与 Opto-SiC MOSFET Relay，拓纬此次亦展出 Reed Relay、RF MEMS、Solid-State Relay、High-Speed Inductor Solution 及 Modularized Switching Solutions。
-
-不同 switching technologies 各有其不可取代的特性──从 Reed Relay 的低接触电阻与高可靠度、Solid-State Relay 的小型化与低漏电，到 RF MEMS 的高频 switching performance，以及 Opto-SiC MOSFET Relay 的高电压能力，拓纬正将这些技术整合至同一产品与技术平台，使客户能根据真正的 application requirements（frequency、voltage、current、leakage、isolation、switching speed、channel density、form factor）选择最适合的 switching architecture，而非仅止於单一种类的 Relay。
-
-随著 Semiconductor Testing 与 ATE 架构日益复杂，客户需要的不再只是单一 Relay datasheet，而是能共同讨论整体 switching architecture 的技术伙伴。
-
-拓纬透过自身在 Relay Design、RF／High-Speed Technology、SiC、Packaging、Manufacturing、Testing 及 Module Integration 等领域的能力，逐步建立从 component 到 subsystem 的垂直整合平台──从客户初期的 application requirement、component selection、sample verification，到 switching module 与量产导入，拓纬希望更早参与客户的设计流程，协助缩短产品开发与验证时间。此次 SEMICON Taiwan 2026，拓纬诚挚邀请来自 Semiconductor Testing、ATE、Probe Card／Load Board、AI/HPC、RF、EV/BMS、Power Semiconductor 与 High-Voltage Testing 领域的工程、研发及产业伙伴莅临摊位 K3168 交流。
-
-Relay, Redefined. One Portfolio. More Switching Possibilities.
-
-拓纬将持续从 Relay 的核心技术出发,向更高频、更高电压、更高密度以及更完整的 Switching Solution 发展,重新定义 Relay 在下一世代电子与半导体测试系统中的角色。
-
-(首图图说：左起为拓纬股份有限公司业务副总徐祐生、董事长徐志旭及营运副总徐祐翔。资料来源：拓纬）]]></description>
   </item>
 </channel>
 </rss>
