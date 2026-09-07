@@ -4,159 +4,205 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 07 Sep 2026 08:41:04 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 16:44:24 GMT</lastBuildDate>
   <item>
-    <title>松翰8月营收月减13.8%</title>
-    <link>https://finance.technews.tw/2026/09/07/sonix-5471-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/sonix-5471-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:40:08 +0000</pubDate>
-    <description><![CDATA[松翰（5471）公布 8 月合并营收 2.72 亿元，较上（7）月成长 -13.8%，与去年同期相比为年增 2 [&#8230;]]]></description>
+    <title>巨大撞击可在 5 小时内形成完整月球，模拟揭示月球诞生新途径</title>
+    <link>https://technews.tw/2026/09/07/giant-impact-forms-complete-moon-5-hours-simulations-new-pathway/</link>
+    <guid>https://technews.tw/2026/09/07/giant-impact-forms-complete-moon-5-hours-simulations-new-pathway/</guid>
+    <pubDate>Mon, 07 Sep 2026 14:38:29 +0000</pubDate>
+    <description><![CDATA[长久以来，月球起源的主流模型认为，约 45 亿年前，一颗火星大小的天体「忒伊亚」（Theia）撞击早期地球，撞击产生的大量岩石与熔融物质进入地球周围轨道，形成原始月球碎片盘，再经由物质逐步聚积形成月球。
+
+然而，美国西南研究院（Southwest Research Institute）与亚利桑那大学合作的一项最新研究指出，过去的模拟往往将碰撞天体的「材料强度」视为可以忽略的因素，这可能改变我们对月球形成过程的理解。研究团队首次在月球形成的巨大撞击模拟中纳入与温度相关的材料强度，发现忒伊亚自身的地质性质会明显影响撞击后的物质分布与月球形成方式。
+
+▲ 一颗火星大小的天体与地球发生巨大碰撞后，月球的形成方式发生了根本性变化。忽略强度的模拟结果（上图）显示，月球形成于一个逐渐形成的碎片盘中；而考虑强度的模拟结果（下图）则显示，月球最终会完整地形成。（Source：SwRI）
+
+研究团队首先比较完全相同的撞击条件，只改变是否考虑材料强度。在约2,000K、仍大致保持固态的高温条件下，若忽略材料强度，忒伊亚约91%的质量会被地球吸积，剩余物质形成以熔融物为主的碎片盘，月球则需在后续数十小时甚至更长时间内由盘内物质逐渐聚积；但当模型加入材料强度后，忒伊亚在撞击过程中的变形方式发生改变，部分物质可保持大型完整残体，其中一个残体最终被捕获至地球轨道，形成近乎完整的月球。
+
+模拟显示，这个卫星残体在撞击后约5小时便开始与地球形成独立轨道，而在后续潮汐作用下仍能维持完整。
+
+研究进一步测试约400、800及2,000K三种初始表面温度，且全部纳入材料强度，结果显示「越冷越容易形成完整月球」或「加入强度就一定能形成完整月球」都不正确。
+
+约400K的寒冷情况下，忒伊亚较为强韧，撞击后大部分仍保持完整并重新撞回地球，只有少量物质形成碎片盘；约800K时，忒伊亚变形程度增加，可形成一个较小的卫星残体，但其轨道过于接近地球，后续受到潮汐作用而在约12小时后瓦解。
+
+反而在约2,000K、接近熔融但仍保有部分材料强度的情况下，忒伊亚会发生更充分的整体变形并分裂成大型残体，其中较外侧的残体可经历与地球的近距离交会后存留下来，最终形成稳定的完整卫星。
+
+这项研究的重要意义，在于月球最初究竟是由撞击碎片逐步聚积而成，还是可能以一个大型、近乎完整的天体直接进入地球轨道，或许与撞击当时地球及忒伊亚的热状态有关。由于原行星在形成初期通常较热、之后逐渐冷却，因此研究结果建立了撞击时间、天体热状态与月球初始形成方式之间的新关联：较早发生的撞击可能具有较高温度，使忒伊亚更容易发生剧烈变形；较晚发生的撞击则可能面对较冷、较强的忒伊亚。
+
+不过，研究也显示完整卫星的形成对撞击角度、速度及热状态相当敏感，因此目前仍不能据此确定月球究竟是在何时、以何种方式形成。另一方面，模拟中的卫星主要由忒伊亚物质组成，而地球与月球目前高度相近的同位素组成仍是月球起源研究中的重要未解问题。]]></description>
   </item>
   <item>
-    <title>宏达电8月营收2.46 亿元</title>
-    <link>https://finance.technews.tw/2026/09/07/htc-2498-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/htc-2498-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:40:07 +0000</pubDate>
-    <description><![CDATA[宏达电（2498）今（7）日公布 8 月营收，达 2.46 亿元，较 7 月成长 37.7%，较去年同期成长  [&#8230;]]]></description>
+    <title>台郡8月营收月减2.3%</title>
+    <link>https://finance.technews.tw/2026/09/07/flexium-6269-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/flexium-6269-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:50:02 +0000</pubDate>
+    <description><![CDATA[台郡（6269）公布 8 月合并营收 19.97 亿元，较上（7）月成长 -2.3%，与去年同期相比为年增 1 [&#8230;]]]></description>
   </item>
   <item>
-    <title>凯美8月营收6.54 亿元</title>
-    <link>https://finance.technews.tw/2026/09/07/teapo-2375-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/teapo-2375-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:40:04 +0000</pubDate>
-    <description><![CDATA[凯美（2375）今（7）日公布 8 月营收，达 6.54 亿元，较 7 月成长 5.3%，较去年同期成长 37 [&#8230;]]]></description>
+    <title>伟创力砸 44 亿美元收购 EPC Power，下一步攻 SST</title>
+    <link>https://technews.tw/2026/09/07/flex-acquires-epc-power-4-4-billion-targets-sst/</link>
+    <guid>https://technews.tw/2026/09/07/flex-acquires-epc-power-4-4-billion-targets-sst/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:20:41 +0000</pubDate>
+    <description><![CDATA[伟创力（Flex）宣布以 44 亿美元收购电力转换解决方案业者 EPC Power，进一步扩大 AI 资料中心电力布局。EPC Power 目前已具备 800V 电力转换能力，产品涵盖整流器、DC-DC 转换，并规划进一步开发固态变压器（SST）。交易预计 2026 年第四季完成，EPC Power 届时将纳入伟创力旗下云端与电力基础设施（CPI）事业。
+
+随著 AI 伺服器单柜功率持续攀升，资料中心供电架构也开始由传统低压直流朝高压直流发展，800V 更成为下一代 AI 资料中心的重要方向之一。伟创力指出，EPC Power 的平台即针对下一代 800V 资料中心电力架构设计，可降低高密度 AI 基础设施电力传输损耗，并结合硬体、软体及控制技术，提高整体供电效率与稳定性。
+
+EPC Power 成立于 2010 年，总部位于美国加州，主要提供资料中心及电网使用的智慧电力转换解决方案，技术涵盖整流器、DC-DC 转换及构网型（Grid-forming）技术，未来则计划进一步开发 SST。目前 EPC Power 已在全球 62 个国家部署超过 15 GW 电力设备，预计 2027 年美国年产能将突破 30 GW。
+
+伟创力表示，收购完成后，EPC Power 将与公司既有的电源、散热及运算产品整合，让产品布局从运算设备进一步延伸至资料中心电力基础设施。EPC Power 的技术未来可应用于电网稳定、备援电力及 800V 电力转换，为高功率 GPU 与 AI 机柜提供所需电力。
+
+值得注意的是，伟创力也准备调整旗下 AI 基础设施事业架构。公司计划在 2027 年第一季将 CPI 事业分拆为独立上市公司，而 EPC Power 将成为其中一部分，显示电力基础设施已成为伟创力下一阶段布局 AI 资料中心的重要方向。
+
+从营运表现来看，EPC Power 预计 2026 年营收约 8 亿美元，2027 年有机营收成长率约 40%；随著产品规模扩大，EBITDA 利润率预计在 2027 年提升逾 10 个百分点至约 30%。伟创力预计透过债务与股权融资组合支应此次收购，交易仍待主管机关核准及相关交割条件完成。]]></description>
   </item>
   <item>
-    <title>臻鼎-KY8月营收月增17.4%</title>
-    <link>https://finance.technews.tw/2026/09/07/zdt-4958-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/zdt-4958-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:30:07 +0000</pubDate>
-    <description><![CDATA[臻鼎-KY（4958）公布 8 月合并营收 206.66 亿元，较上（7）月成长 17.4%，与去年同期相比为年增 41.0%；累计其今年前 8 月营收为 1,274.26 亿元，较去年同期增加 19.9%。]]></description>
+    <title>升阳半导体8月营收5.05 亿元</title>
+    <link>https://finance.technews.tw/2026/09/07/psi-8028-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/psi-8028-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:20:05 +0000</pubDate>
+    <description><![CDATA[升阳半导体（8028）今（7）日公布 8 月营收，达 5.05 亿元，较 7 月成长 -1.8%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>泰鼎-KY8月营收月增16.1%</title>
-    <link>https://finance.technews.tw/2026/09/07/apex-4927-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/apex-4927-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:30:04 +0000</pubDate>
-    <description><![CDATA[泰鼎-KY（4927）公布 8 月合并营收 13.79 亿元，较上（7）月成长 16.1%，与去年同期相比为年 [&#8230;]]]></description>
+    <title>创惟8月营收月减5.3%</title>
+    <link>https://finance.technews.tw/2026/09/07/gli-6104-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/gli-6104-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:20:02 +0000</pubDate>
+    <description><![CDATA[创惟（6104）公布 8 月合并营收 3.20 亿元，较上（7）月成长 -5.3%，与去年同期相比为年增 3. [&#8230;]]]></description>
   </item>
   <item>
-    <title>致伸8月营收61.27 亿元</title>
-    <link>https://finance.technews.tw/2026/09/07/primax-4915-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/primax-4915-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:30:03 +0000</pubDate>
-    <description><![CDATA[致伸（4915）今（7）日公布 8 月营收，达 61.27 亿元，较 7 月成长 4.6%，较去年同期成长 2 [&#8230;]]]></description>
+    <title>电视面板备货升温，十月稼动率调控供需平衡</title>
+    <link>https://technews.tw/2026/09/07/panel-prices-in-2026-september-h1/</link>
+    <guid>https://technews.tw/2026/09/07/panel-prices-in-2026-september-h1/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:19:17 +0000</pubDate>
+    <description><![CDATA[进入 9 月，市场研究机构 TrendForce 分析，电视面板受惠年底旺季备货，第三季采购量预估季增 15%，加上面板厂调控稼动率，供需逐步平衡；监视器和笔电需求虽弱，但受到零组件成本上涨支撑，面板厂守价态度明确，预估三大应用面板价格走势持平。
+
+电视面板需求稳定增温，因应年底旺季需求，主要品牌客户的第三季电视面板采购量预估季增 15%，也让面板厂在价格止稳增添更多信心。同时，主要面板厂正计划 10 月中国十一长假进行较长天数的稼动率调控，借此使面板供需呈现平衡状态，稳定后续面板价格走势，预估 9 月电视面板价格转为持平态势。
+
+监视器面板需求较前 2 个月呈现较为稳定态势，不过第三季需求相较上半年疲弱。目前面板上游零组件成本持续增加，因此面板厂在面板价格上没有太多让步空间，品牌客户也理解，对于面板价格没有强势要求跌价的想法，预估 9 月监视器面板价格持平。
+
+至于笔电面板需求仍属疲弱，主要品牌客户第三季采购动能可能呈现季减 15%~20%，甚至进入第四季，可能还会大幅减少。这代表笔电面板需求上半年已提前反映，下半年尾声品牌客户可能会更重视库存管控。因此，面板厂在三季的确面临出货骤减压力，但因零组件成本高涨，不愿意在面板价格让步，预估 9 月笔电面板价格持平。
+
+▲ TrendForce 9 月上旬面板价格预测。（Source：TrendForce）
+
+根据 TrendForce 9 月上旬面板价格预测，65 吋电视面板均价 173 美元，55 吋均价 123 美元，43 吋均价 63 美元，32 吋均价 35 美元。
+
+监视器面板方面，27 吋面板为 63.6 美元，23.8 吋面板均价 51 美元。笔电面板方面，17.3 吋为 37.6 美元，15.6 吋面板均价 39.6 美元，14 吋面板均价 26.7 美元，11.6 吋面板均价为 24.9 美元。]]></description>
   </item>
   <item>
-    <title>智易8月营收月减2.4%</title>
-    <link>https://finance.technews.tw/2026/09/07/arcadyan-3596-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/arcadyan-3596-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:20:09 +0000</pubDate>
-    <description><![CDATA[智易（3596）公布 8 月合并营收 47.32 亿元，较上（7）月成长 -2.4%，与去年同期相比为年增 1 [&#8230;]]]></description>
+    <title>联钧8月营收12.48 亿元</title>
+    <link>https://finance.technews.tw/2026/09/07/elaser-3450-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/elaser-3450-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:10:07 +0000</pubDate>
+    <description><![CDATA[联钧（3450）今（7）日公布 8 月营收，达 12.48 亿元，较 7 月成长 2.4%，较去年同期成长 1 [&#8230;]]]></description>
   </item>
   <item>
-    <title>力旺8月营收3.57 亿元</title>
-    <link>https://finance.technews.tw/2026/09/07/ememory-3529-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/ememory-3529-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:20:08 +0000</pubDate>
-    <description><![CDATA[力旺（3529）今（7）日公布 8 月营收，达 3.57 亿元，较 7 月成长 -47.2%，较去年同期成长  [&#8230;]]]></description>
+    <title>璟德8月营收月增7.0%</title>
+    <link>https://finance.technews.tw/2026/09/07/acx-3152-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/acx-3152-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:10:06 +0000</pubDate>
+    <description><![CDATA[璟德（3152）公布 8 月合并营收 1.56 亿元，较上（7）月成长 7.0%，与去年同期相比为年增 39. [&#8230;]]]></description>
   </item>
   <item>
-    <title>玉晶光8月营收27.19 亿元</title>
-    <link>https://finance.technews.tw/2026/09/07/gseo-3406-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/gseo-3406-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:20:05 +0000</pubDate>
-    <description><![CDATA[玉晶光（3406）今（7）日公布 8 月营收，达 27.19 亿元，较 7 月成长 12.3%，较去年同期成长 [&#8230;]]]></description>
+    <title>技嘉8月营收月增7.2%</title>
+    <link>https://finance.technews.tw/2026/09/07/gigabyte-2376-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/gigabyte-2376-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:10:03 +0000</pubDate>
+    <description><![CDATA[技嘉（2376）公布 8 月合并营收 474.01 亿元，较上（7）月成长 7.2%，与去年同期相比为年增 98.4%；累计其今年前 8 月营收为 3,408.83 亿元，较去年同期增加 55.2%。]]></description>
   </item>
   <item>
-    <title>从 AI 伺服器赚到 CoPoS 封装！勤凯 8 月营收狂飙 91.5% 历史新高</title>
-    <link>https://finance.technews.tw/2026/09/07/new-machines/</link>
-    <guid>https://finance.technews.tw/2026/09/07/new-machines/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:11:46 +0000</pubDate>
-    <description><![CDATA[勤凯今日公告 8 月营收 3.05 亿元，月增 13.1%，年增 91.5%，再创历史新高，连续第 11 个月营收呈现双位成长，主要受惠被动元件 MLCC 需求旺盛，目前产能利用率已达 120%，为满足客户需求，决定积极购入新机台扩充产能，以增加出货量。
+    <title>光谱新分析表明水星极缺矽，表面二氧化矽含量仅 37%</title>
+    <link>https://technews.tw/2026/09/07/mercury-surface-silicon-dioxide/</link>
+    <guid>https://technews.tw/2026/09/07/mercury-surface-silicon-dioxide/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:03:46 +0000</pubDate>
+    <description><![CDATA[和以二氧化矽成分为主的地球地壳不同，新研究指出水星表面二氧化矽含量仅 37%，比之前估计低了整整 25%，这也代表水星的火山岩浆从更深、更热地函深处上潜，早期火山活动可能远比想像更猛烈。
 
-勤凯副董事长庄淑媛表示，AI 伺服器的被动元件需求强劲，特别是 MLCC 客户扩大对铜膏拉货，8 月铜膏产品出货量跳增至 26 吨，月增 30%，今年累积前 8 月出货 147 吨，年增达 43%，至于银浆产品，8 月出货月增逾 15%，累计前 8 月营收 19.1 亿元，年增 65.5%。
+在行星演化过程，二氧化矽（SiO₂）是衡量岩浆出处的指标之一，若地表熔岩二氧化矽含量高（>60%），代表岩浆在较浅、温度较低处熔融，类似地球安山岩或花岗岩；若地表熔岩二氧化矽含量低（<45%），代表岩浆在极高温高压的深处熔融，类似地球玄武岩。
 
-庄淑媛证实，目前工厂产能无法满足客户需求，产能利用率靠著每日加班已达 120% 上限，勤凯将积极扩产，展望 9 月在手订单能见度佳，毛利率有望因产能规模扩大而成长，法人推估被动元件拉货市况火热，第三季获利可期，从营收研判今年前三季获利有望挑战去年全年。
+二氧化矽是地球地壳最主要组成物质之一，以沙子、矽酸盐矿物形式存于各处，科学家原以为水星跟地球差不多，然而根据德国马克斯普朗克太阳系研究所、明斯特大学、哥廷根大学团队最新研究，精准测出水星表面二氧化矽含量低达 37%，表明水星火山岩由更深层熔化的地函物质形成。
 
-勤凯今年在半导体展秀 AI 伺服器的新产品「合金膏」，让材料扮演传导动脉，客户利用最新制程将勤凯材料与 PTFE（聚四氟乙烯）结合，供应高频高速多层板制程所需，目前已获软板大厂MetaLink 平台采用，这是 AI 伺服器铜箔基板 CCL 未来可能采用的新技术之一，具想像空间。
+我们没有水星样本可以分析，因此研究人员依赖红外线光谱资料调查水星，先在实验室制造一批直径仅 0.5 毫米的微小玻璃珠，精准控制内部不同的二氧化矽含量比例，接著测量玻璃珠红外线特性，再将结果与太空船、望远镜过去取得的红外线数据比对，以此推断水星表面成分。
 
-先进封装领域方面，勤凯已研发出用于 CoPoS 制程的 TGV 玻璃基板盲孔填膏，切入下世代封装基板材料，完成 30 微米孔径、宽深比 1 比 15.7 验证，无论是填孔性及附著性均符客户需求，勤凯陆续研发的半导体新材料，预期明年营收占比有望上看 10%。]]></description>
+结果令人大吃一惊，分析表明水星表面二氧化矽含量仅 37%，比原本猜测少整整 25%，这种缺矽现象揭开水星远古岩浆库秘密：水星地函深处温度较高，熔融事件将深层低二氧化矽岩浆喷上地表。
+
+另一个解释是早期水星地壳曾经含更多二氧化矽，但因失去氧气（氧化还原反应）导致表面成分改变。
+
+低二氧化矽含量不仅彰显化学成分差异，更能判别行星演化路径如何分歧，地球因板块运动不断将地壳「拖回」地函重新熔融，可产生多样性岩浆成分，水星则因冷却速度太快，地函熔融深度受到限制（或必须在极深处才能熔融），这让水星成为研究「小型行星如何快速冷却」的完美样本。
+
+新研究除改进我们对水星火山史的认知，也为即将进入水星轨道的贝皮可伦坡号（BepiColombo）提前铺路，等探测器就定位，就能以超高解析度验证水星「低矽假说」，解开水星的身世之谜。]]></description>
   </item>
   <item>
-    <title>尼克森8月营收月减29.6%</title>
-    <link>https://finance.technews.tw/2026/09/07/niko-sem-3317-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/niko-sem-3317-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:10:11 +0000</pubDate>
-    <description><![CDATA[尼克森（3317）公布 8 月合并营收 1.66 亿元，较上（7）月成长 -29.6%，与去年同期相比为年增  [&#8230;]]]></description>
+    <title>封测及测试介面厂 8 月营收创新高，AI 和 HPC 晶片助攻</title>
+    <link>https://finance.technews.tw/2026/09/07/osat-test-interface-firms-record-august-revenue-ai-hpc-chips/</link>
+    <guid>https://finance.technews.tw/2026/09/07/osat-test-interface-firms-record-august-revenue-ai-hpc-chips/</guid>
+    <pubDate>Mon, 07 Sep 2026 10:00:30 +0000</pubDate>
+    <description><![CDATA[半导体封测厂及测试介面厂今天陆续公布 8 月营收，力成、京元电子、矽格、颖崴、汉民测试8 月营收均创单月新高，主要受惠人工智慧（AI）及高效能运算（HPC）晶片先进封装与测试强劲需求。
+
+力成自结8月合并营收新台币85.57亿元，月增3.48%、年增24.46%，累计前八月营收612.57亿元，年增30.83%。京元电8月自结营收40.8亿元，月增2.24%、年增31.58%，累计前八月营收294.04亿元，年增35.53%。矽格8月营收20.69亿元，月增2.72%、年增28.58%，前八月营收152.57亿元，年增20.49%。矽格连两个月单月营收突破20亿元续创新高。
+
+力成指出，扇出型面板封装（FOPLP）2027年中期可量产，今年底可小量生产光学引擎元件，2027年可量产矽光子共同封装光学（CPO）交换器。力成评估第四季业绩可较第三季成长，今年营收有机会超越2022年的839亿元，创历史新高。
+
+矽格指出，新世代智慧手机规格持续升级，采用2奈米先进制程的高阶手机应用处理器及相关晶片，逐步进入量产阶段。产能布局方面，2月新购湖口厂区无尘室建置后，7月投入量产，目前产出已达厂区总产能40%，逐步承接国外客户新增产能需求。
+
+颖崴8月自结营收17.06亿元，月增6.58%，较2025年同期大增233.37%，累计前八月营收为98.09亿元，较去年同期增加97.88%。汉测8月营收5.03亿元，月增4.1%、年增114.78%，累计前八月营收31.7亿元，较去年同期成长125.94%。
+
+颖崴指出，到8月连三个月单月营收创新高。持续受惠于全球AI及HPC客户需求强劲，高阶测试座Coaxial Socket及微机电MEMS探针卡出货攀高。矽光子共同光学封装晶圆测试端不会缺席，此外持续布局Insertion三至四测试阶段测试座，Insertion 2晶圆探针卡也与客户积极合作。
+
+汉测说明，自开发薄膜式探针卡逐步导入客户应用，进入小量交付阶段并开始贡献营收，未来将持续拓展高速传输、矽光子及共同封装光学等次世代测试应用。
+
+汉测持续布局AI晶片应用所需高阶探针卡产品，薄膜式探针卡100%台湾在地制造，悬臂式探针卡与全球前三大探针卡MJC厂商技转合作，垂直式Cobra探针卡100%台湾制造，至于MEMS探针卡与MJC合作，结合汉测自制零组件。]]></description>
   </item>
   <item>
-    <title>原相8月营收月减8.7%</title>
-    <link>https://finance.technews.tw/2026/09/07/pxi-3227-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/pxi-3227-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:10:07 +0000</pubDate>
-    <description><![CDATA[原相（3227）公布 8 月合并营收 8.16 亿元，较上（7）月成长 -8.7%，与去年同期相比为年增 10 [&#8230;]]]></description>
+    <title>强攻高功率元件！德微科技 8 月营收首破 3 亿元、第三季提前达阵</title>
+    <link>https://finance.technews.tw/2026/09/07/power/</link>
+    <guid>https://finance.technews.tw/2026/09/07/power/</guid>
+    <pubDate>Mon, 07 Sep 2026 09:51:26 +0000</pubDate>
+    <description><![CDATA[德微科技今日公告 8 月自结合并营收达 3 亿元，年增 31.51%，单月营收首度突破 3 亿元大关，象征其营运规模正式跨越新的里程碑，并宣告第三季营运目标提前达阵，累积今年前 8 月合并营收达 20.76 亿元，较去年同期成长 20.67%。
+
+德微表示，今年以来全球供应链重组效益逐步显现，带动新增订单与专案贡献扩大，相关业务营收逐月攀升，部分产品已较年初倍数成长，成为今年营运重要动能之一，目前市场需求与订单能见度维持高档，客户及专案贡献稳健增加，进一步巩固，并推升德微整体营收基础。
+
+德微指出，随著 AI 基础建设持续朝高功率、高效率的原生多相电源架构发展，对功率转换、电源管理及保护元件的效率与性能规格要求同步提升，运算能力的突飞猛进，连带使系统功耗大幅提升，这对功率转换、电源管理及保护元件的效率与性能规格提出更严苛的要求。
+
+德微强调，长期深耕于功率分离式元件，并整合子公司亚昕科技的晶圆制造能力，持续深化高功率、高可靠度及小型化产品布局与研发，借以因应新一代电源架构演进，同步推动产品升级，以利拓展中长期高阶应用市场。]]></description>
   </item>
   <item>
-    <title>京元电子8月营收40.80 亿元</title>
-    <link>https://finance.technews.tw/2026/09/07/kyec-2449-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/07/kyec-2449-202608-financial-report/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:10:05 +0000</pubDate>
-    <description><![CDATA[京元电子（2449）今（7）日公布 8 月营收，达 40.80 亿元，较 7 月成长 2.2%，较去年同期成长 [&#8230;]]]></description>
+    <title>解锁 3D 堆叠挑战 HBM 痛点！南亚科旗下补丁科 9/16 以 740 元登兴柜</title>
+    <link>https://finance.technews.tw/2026/09/07/processor/</link>
+    <guid>https://finance.technews.tw/2026/09/07/processor/</guid>
+    <pubDate>Mon, 07 Sep 2026 09:25:00 +0000</pubDate>
+    <description><![CDATA[南亚科小金鸡补丁科技预计 9 月 16 日以每股参考价 740 元登录兴柜，董事长丁达刚表示，目前 NRE（委托设计）收入约占 40%，随著专案推进，未来 Turnkey（量产一站式服务）的营收占比将显著提升，预期 2027 年将看到量产带来的显著营收贡献。
+
+丁达刚表示，补丁科技成立自 2006 年，命名是取自庄子《庖丁解牛》中技艺高超、能精准解决痛点的精神，而代号「7947」呼应老子《道德经》第 77 章「天之道，损有余而补不足」，取数字 9（有余）补 7（不足）皆成 8（发），象征补丁科技用技术填补 AI 市场的频宽不足。
+
+丁达刚指出，随著 AI 模型规模快速放大，推升高频宽、低延迟、低功耗记忆体需求，补丁科以 3D 堆叠与 Near Memory 架构切入 AI 记忆体升级商机，采用间距更小、I/O 密度更高的 Hybrid Bonding（混合键合） 技术，直接将记忆体与处理器（Processor）进行 3D 垂直堆叠。
+
+丁达刚分享，补丁主要提供兼具高频宽、低延迟及低功耗的 AI 记忆体解决方案，并以核心技术与设计能力为基础，发展记忆体 IP 授权、客制化 IC 设计服务（NRE）、Turnkey 量产服务及标准化 DRAM 产品等多元业务，逐步建构多元且具高附加价值的营运模式。
+
+丁达刚说明，过去 30 年来 CPU/GPU 算力每两年成长三倍，但记忆体频宽仅成长 1.6 倍，导致 AI 运算往往卡在「等资料」的瓶颈，目前主流的 HBM（高频宽记忆体）虽适用于 AI 训练，但其采用 2.5D 封装与 Micro Bump 技术，目前在传输路径与微缩能力上仍有极限。
+
+对此，丁达刚指出，补丁科技提出 3D Stacked DRAM 架构，直接将记忆体与处理器进行 3D 垂直堆叠，提供接近 SRAM 的超低延迟（17 奈秒）与高频宽（单颗达 144 GB/s），更能兼顾 DRAM 的大容量优势，成为未来 AI 推论（Inference）的最佳解决方案。
+
+补丁科技总经理李晓雯表示，长期投入高效能记忆体架构开发，并将核心技术延伸至 3D 整合，以及记忆体与逻辑晶片协同设计，可有效提升频宽、降低延迟，并减少资料搬移所产生的功耗与散热负担，有助于突破「记忆体之墙」（The Memory Wall）。
+
+李晓雯指出，补丁科技符合 AI 推论、高效能运算（HPC）及 Edge AI 对高效率运算的需求，随著 AI 模型规模持续扩大，资料传输效率、功耗控制与先进封装整合能力，已成为下一阶段 AI 晶片竞争关键，并切入高频宽记忆体技术领域，具备明确成长动能。
+
+产业合作方面，李晓雯指出，补丁科技已与南亚科建立策略合作关系，并结合客户采用晶圆代工大厂先进制程及 3D 堆叠技术，共同打造完整 AI 记忆体供应链，目前更与多家国际半导体业者及北美客户推动合作专案，部分案件已进入设计开发及验证阶段，预计将随客户产品时程陆续导入量产。
+
+营运表现方面，李晓雯指出，受惠 AI 应用持续扩展、记忆体市场回温及客户专案顺利推进，补丁科成长动能强劲，2025 年度合并营收达 8.23 亿元，年增 97%，税后净利 2.05 亿元，每股纯益 3.76 元，毛利率 46%，产品组合及高附加价值服务效益逐步发酵。
+
+补丁科技 2026 年上半年度合并营收达 10.88 亿元，年增 248%，税后净利 5.64 亿元，每股纯益 9.35 元，李晓雯指出，目前营收主要来自记忆体 IC 产品、客制化 IC 设计技术服务（NRE）等收入，未来将持续提高 IP 授权及高附加价值业务比重，优化营收结构，并提升获利能力。]]></description>
   </item>
   <item>
-    <title>OPEC+ 10 月踩增产煞车，油价仍站 90 美元、半导体材料成本受关注</title>
-    <link>https://technews.tw/2026/09/07/opec-plus-october-output-curb-oil-prices-90-semiconductor-material-costs-concern/</link>
-    <guid>https://technews.tw/2026/09/07/opec-plus-october-output-curb-oil-prices-90-semiconductor-material-costs-concern/</guid>
-    <pubDate>Mon, 07 Sep 2026 08:03:33 +0000</pubDate>
-    <description><![CDATA[OPEC+ 最新产量政策出炉。沙乌地阿拉伯、俄罗斯、伊拉克、科威特、哈萨克、阿尔及利亚及阿曼等 7 国于 6 日召开线上会议，决定 10 月维持与 9 月相同的要求产量，不再进一步增加供给，7 国要求产量合计约每日 3,101 万桶，并重申将遵守 OPEC+《合作宣言》相关承诺。
-
-从各国来看，沙乌地阿拉伯 10 月要求产量最高，达每日 1,047.8 万桶，俄罗斯为 994.9 万桶，伊拉克则为 443.1 万桶。值得注意的是，OPEC+ 公布的是各国「要求产量」（Required Production），并非实际生产量，各国最终产出仍可能因实际生产及补偿性减产等因素有所差异。
-
-此次决定也意味著 OPEC+ 暂时踩下增产煞车。今年，OPEC+ 持续逐步恢复先前因自愿减产而缩减的供给，今年 8 月会议决定 9 月再增加每日 18.8 万桶产量；不过最新会议决定 10 月先维持现有水准，不再进一步增加供给，后续是否重新调整产量，仍将视全球原油供需及市场状况而定。
-
-国际油价目前仍维持相对高档，Brent 原油最新约每桶 96.28 美元，WTI 原油则约 91.79 美元。今年美伊冲突， Brent 一度来到每桶 126.41 美元、WTI 达约 119.8 美元，目前价格已明显回落，但两大指标油价仍站在每桶 90 美元以上。随 OPEC+ 暂停进一步增产，接下来全球原油需求、供应及地缘政治变化，仍将左右油价走势。
-
-油价涨跌除了跟加油、开车有关，其实半导体制造背后也少不了石化产业。晶片制造过程会使用大量电子级化学品，例如 IPA（异丙醇）、PGMEA 等清洗及制程常见溶剂，上游原料都与石化供应链有所关联。
-
-到了晶片后段制程，石化材料同样扮演重要角色，包括封装使用的环氧树脂、模封材料等；晶圆、晶片及电子零组件在保存与运输过程中，也会使用塑胶载具及包装材料。换句话说，从晶片制造使用的溶剂，一路到封装及物流，其实都能看到石化材料的身影。
-
-若国际油价长时间维持高档，石化原料、塑胶材料及物流成本变化，就可能逐步往下游传导，成为半导体供应链另一项值得留意的成本变数。
-
-OPEC+ 表示，7 国将持续每月召开会议检视市场状况，下一次会议预定于 10 月 4 日举行。接下来除了油价会不会继续站在高档，OPEC+ 是否重新启动增产，以及油价变化是否进一步传导至石化与科技制造供应链，也将成为后续观察重点。]]></description>
+    <title>GIS-KY8月营收月增3.2%</title>
+    <link>https://finance.technews.tw/2026/09/07/gis-6456-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/gis-6456-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 09:20:04 +0000</pubDate>
+    <description><![CDATA[GIS-KY（6456）公布 8 月合并营收 42.11 亿元，较上（7）月成长 3.2%，与去年同期相比为年增 -30.0%；累计其今年前 8 月营收为 348.72 亿元，较去年同期增加 -23.6%。]]></description>
   </item>
   <item>
-    <title>调研：全球折叠智慧型手机累计出货量预计于 2026 年底突破亿支</title>
-    <link>https://technews.tw/2026/09/07/2026-global-foldable-smartphone-shipment/</link>
-    <guid>https://technews.tw/2026/09/07/2026-global-foldable-smartphone-shipment/</guid>
-    <pubDate>Mon, 07 Sep 2026 07:52:40 +0000</pubDate>
-    <description><![CDATA[据调研机构 Counterpoint Research 最新《折叠智慧型手机市场预测》，全球折叠智慧型手机累计出货量预计于 2026 年底突破 1 亿支。自 2019 年首款商用折叠智慧型手机上市以来，该产品类别已进入第八年。
-
-再几天的时间，苹果也预计进入折叠手机市场，加上三星与华为的宽萤幕书本式（book-type）折叠手机需求增加，Counterpoint Research 预估 2027 年全球折叠手机出货量将年增 37%。按照目前预测，全球折叠手机累计出货量可望在未来三年内再增加 1 亿支。
-
-目前折叠手机约占全球智慧型手机市场 2%，三星持续推出新一代折叠手机产品，华为在中国市场亦提供多种折叠手机设计，苹果预计在美国时间 9 月 9 日推出首款折叠手机，其他品牌也持续开发相关产品。
-
-小米预计推出 Xiaomi 18 Fold，Motorola、荣耀、Google、vivo 与 OPPO 也正在开发新的折叠手机产品，其中包括采用较宽萤幕比例的机型。
-
-随著更多品牌推出相关产品，Counterpoint Research 预估 2027 年全球折叠手机出货量将年增 37%。苹果折叠手机在 2027 年将进入完整年度销售周期，预计其出货量将较 2026 年增加一倍以上，全球市占率预估达 40%。
-
-同时，市场产品设计持续朝较宽萤幕比例的书本式折叠手机发展，包括三星 Galaxy Z Fold8 以及华为 Pura X Max 等产品。
-
-Counterpoint Research 研究总监 Tarun Pathak 表示，苹果进入市场预计将增加高阶折叠手机市场的竞争。目前折叠手机占整体智慧型手机市场的比例仍低，市场仍有进一步成长空间。三星持续推出新的折叠手机设计，华为在中国市场维持一定市场规模，同时也有更多手机品牌开发不同设计与产品形态。随著参与品牌增加，预计折叠手机市场未来几年仍将持续发展。
-
-Counterpoint Research 预估，2026 年折叠 iPhone 出货量最高可达 600 万支，占全球折叠手机市场约 25%，排名第二；三星预估以 38% 排名第一，华为则以 22% 排名第三。
-
-由于苹果预计于 2026 年较晚时间进入折叠手机市场，因此今年实际销售期间相对有限。
-
-苹果首款折叠手机上市初期预计将受到供应量限制，由于初期产量可能有限，产品在预计下周亮相后，销售与出货量预计将逐步增加，并随产能提升扩大不同市场的供应。
-
-针对苹果折叠手机，Counterpoint Research 副研究总监 Liz Lee 表示，首款折叠 iPhone 在量产初期预计将面临供应限制，因此 Counterpoint Research 将 2026年 出货量预测上限维持在 600 万支。
-
-尽管今年销售期间较短，Counterpoint Research 仍预估苹果可取得全球折叠手机市场 25% 的市占率，排名第二。这也反映苹果进入市场后，即使初期供应量有限，仍可能对全球折叠手机市场的品牌结构产生影响。
-
-对折叠手机市场而言，使用者体验将是影响后续市场发展的重要因素之一，并可能带动生产力应用与内容消费等不同使用情境。
-
-目前折叠手机价格仍约为传统直式智慧型手机的三倍，在价格差距仍然明显的情况下，Counterpoint Research 预期折叠手机距离大规模普及仍需要一段时间。]]></description>
+    <title>瑞祺电通8月营收月增21.5%</title>
+    <link>https://finance.technews.tw/2026/09/07/caswell-6416-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/07/caswell-6416-202608-financial-report/</guid>
+    <pubDate>Mon, 07 Sep 2026 09:10:12 +0000</pubDate>
+    <description><![CDATA[瑞祺电通（6416）公布 8 月合并营收 5.48 亿元，较上（7）月成长 21.5%，与去年同期相比为年增  [&#8230;]]]></description>
   </item>
 </channel>
 </rss>
