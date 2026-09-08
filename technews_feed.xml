@@ -4,7 +4,7 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 08 Sep 2026 15:28:26 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 08 Sep 2026 19:02:39 GMT</lastBuildDate>
   <item>
     <title>贝皮可伦坡号卸下「太空运输车」，准备进入水星轨道</title>
     <link>https://technews.tw/2026/09/08/bepicolombo-mercury-transfer-module-separation/</link>
@@ -51,6 +51,29 @@ ASML 表示，新园区的第一阶段工程预计将于 2029 年落成启用，
 随著新园区的加入，ASML未来在荷兰 Brainport 地区的布局将由三大互补园区组成，包括专门的企业总部的维尔德霍芬（Veldhoven） De Run 1000 园区。维尔德霍芬的 De Run 6000/7000 原有的工业园区，以及埃因霍温（Eindhoven）的 BIC North，主要以研发与生产为核心第二工业园区。这三大据点将共同支援ASML 在该地区的创新、制造以及企业营运活动。
 
 除了产能与技术的突破，BIC North 的开发也体现了 ASML 与政府、学术界及各方持份者的深厚公私合作关系。ASML 表示，未来将与合作伙伴持续针对地方的长期核心利益进行投资，包括人才培育、平价住宅以及平等机会等，在实现企业扩张的同时，也为整个 Brainport 地区带来永续且共荣的发展环境。]]></description>
+  </item>
+  <item>
+    <title>客户现阶段即可运用 High NA EUV，英特尔和 ASML 已制造超过一百万片晶圆</title>
+    <link>https://finance.technews.tw/2026/09/08/intel-and-asml-have-manufactured-more-than-one-million-wafers/</link>
+    <guid>https://finance.technews.tw/2026/09/08/intel-and-asml-have-manufactured-more-than-one-million-wafers/</guid>
+    <pubDate>Tue, 08 Sep 2026 12:00:35 +0000</pubDate>
+    <description><![CDATA[英特尔晶圆代工（Intel Foundry）和ASML迄今已制造超过一百万片晶圆，协助客户现阶段即可运用High NA EUV，并为未来规模化应用做好准备。
+
+英特尔表示，本周于SPIE光罩技术暨极紫外光微影研讨会（SPIE Photomask Technology + Extreme Ultraviolet Lithography）上，英特尔晶圆代工与ASML分享将高数值孔径极紫外光（High NA EUV）微影技术持续导入生产，以及未来将扩大应用的最新技术进展。
+
+1.High NA已应用于英特尔晶圆代工的高量产制造：从早期设备的认证与测试、研发，到代号为 Panther Lake 的 Intel Core Ultra Series 3 处理器部分特定层的量产，迄今累计超过100万片晶圆采用相关制程；其叠对精度（overlay）、产能（throughput）及设备可用率（availability）均达到英特尔晶圆代工的预期。
+
+2.采用Intel 18A制程生产、并于特定层使用High NA 的产品，其表现持续达到甚至超越采用NXE平台（数值孔径0.33的EUV）制作的对应层。
+
+3.客户可透过业界现行的光罩规格，实现High NA带来的效益：无论是6吋光罩范围内进行平面规划（floor-planning），或采用英特尔晶圆代工的拼接技术与制程设计套件（PDK）解决方案。
+
+4.三年多来，英特尔晶圆代工积极倡议大尺寸光罩规格，推动光罩生态系偕同发展：英特尔晶圆代工与ASML、光罩制造商、自动化设备供应商、电子设计自动化（EDA）合作伙伴、材料供应商及半导体制造商密切合作，共同推进未来High NA规模化发展所需的标准、基础设施与技术。
+
+ASML总裁暨执行长Christophe Fouquet表示，从2024年安装首套商用EXE系统、完成最新一代设备认证，到出货首款采用High NA制造的高量产逻辑产品，英特尔晶圆代工一直是引领产业采用High NA的关键业者之一。ASML肯定英特尔晶圆代工在High NA领域的先驱地位，以及其透过6吋光罩的创新方案为客户创造即时价值的成果，同时也感谢英特尔代工长期支持光罩朝6 × 12吋规格演进。
+
+英特尔执行副总裁暨英特尔晶圆代工共同总经理Naga Chandrasekaran表示，面对日益复杂的AI产品，企业需要已具备量产条件、且易于使用的制造创新技术。在微影技术方面，英特尔晶圆代工近期专注于支援客户在6吋光罩上采用High NA EUV，无论是否采用拼接技术，同时推动至6×12吋光罩转型。我们将持续与ASML及整个产业紧密合作，共同推动这项转型。
+
+英特尔晶圆代工与ASML将在双方多年合作的基础上，进一步凝聚微影生态系统，共同推动更大尺寸光罩规格发展，并促进未来扩展High NA EUV应用所需的标准、基础设施与技术进步。透过与光罩制造商、自动化设备供应商、EDA合作伙伴、材料供应商及半导体制造商的共同合作，双方协助确立产业采用大尺寸光罩的发展方向，同时让客户现阶段即可获得High NA EUV带来的效益。]]></description>
   </item>
   <item>
     <title>旭隼8月营收月减11.7%</title>
@@ -170,21 +193,6 @@ ASML 表示，新园区的第一阶段工程预计将于 2029 年落成启用，
 人工智慧（AI）大模型训练、AI伺服器产业高速扩张，三星、SK海力士、美光（Micron）等全球主要存储晶片厂将大量高端产能倾斜至利润更高的HBM（高频宽记忆体）伺服器记忆体，直接挤压手机DRAM、NAND的产能供给，行动端存储晶片价格持续走高。
 
 研调机构集邦科技（TrendForce）日前报告指出，2025年初至今，记忆体价格累计上涨5~7倍，品牌被迫只能大幅调价，或停供已陷入负毛利的产品线来应对。]]></description>
-  </item>
-  <item>
-    <title>安葆 8 月营收 6.79 亿元、年增 67.7%，进入传统旺季</title>
-    <link>https://finance.technews.tw/2026/09/08/ample-august-revenue-679m-up-67-7-h2-peak-season/</link>
-    <guid>https://finance.technews.tw/2026/09/08/ample-august-revenue-679m-up-67-7-h2-peak-season/</guid>
-    <pubDate>Tue, 08 Sep 2026 09:35:22 +0000</pubDate>
-    <description><![CDATA[半导体与 AI 资料中心电力基建需求持续升温，系统整合厂安葆 8 月营收达 6.79 亿元，较去年同期 4.05 亿元大增 67.72%；累计前 8 月营收达 44.72 亿元，年增 21.55%。随半导体客户海内外扩厂及 AI 资料中心专案持续推进，下半年进入传统营运旺季，2026 年目标为达成「双位数 EPS」。
-
-安葆近年持续扩大高科技厂房及 AIDC 电力系统整合业务，除了电力设备供应，也涵盖系统整合及 EPC 工程统包。随 AI 算力需求快速增加，资料中心对供配电、备援电力等基础设施需求同步提高，也成为安葆下一阶段重要成长市场。
-
-安葆董事长陈志复先前法说会表示，目前与鸿海合作高雄资料中心，相关设备已完成厂测并陆续交货，最快今年第四季开始贡献营收，后续相关建置模式规画复制至美国；随台湾 AI 伺服器供应链扩大赴美投资，安葆也正积极接触赴美设厂的台湾客户。
-
-除了AIDC，晶圆代工客户扩厂脚步也持续加快，安葆目前相关建厂服务量能须提高至过去约 1.5 至 2 倍，涵盖台湾先进制程及先进封装持续扩产，美国亦有多座新厂需求，公司已取得部分延伸至 2028 年的发电机及 UPS 订单。随主要客户加速海外设厂，安葆同步扩大美国及德国布局。
-
-安葆目前在手订单已接近 150 亿元，能见度延伸至 2028 年，其中国内专案约占 6 成、海外约占 4 成，海外订单主要分布于美国及德国。公司上半年营收 31.77 亿元，归属母公司税后净利 3.16 亿元，EPS 达 6.85 元。]]></description>
   </item>
 </channel>
 </rss>
