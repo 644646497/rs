@@ -4,191 +4,249 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Thu, 10 Sep 2026 08:27:13 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 15:19:33 GMT</lastBuildDate>
   <item>
-    <title>Anthropic 预测 2030 年 AI 经济三剧本，极端情境下知识工作者恐迎「失业海啸」</title>
-    <link>https://technews.tw/2026/09/10/anthropic-models-three-ai-futures-for-the-us-economy-through-2030/</link>
-    <guid>https://technews.tw/2026/09/10/anthropic-models-three-ai-futures-for-the-us-economy-through-2030/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:20:51 +0000</pubDate>
-    <description><![CDATA[Anthropic 经济团队近日公布一份针对美国经济的 AI 情境推演，将 2030 年前的可能发展分成「温和」、「大幅加速」与「极端」三种路径。报告指出，无论 AI 普及速度快慢，整体经济产出都可能上升，但对就业、薪资与所得分配的影响差异极大，尤其知识工作者承受的压力最为明显。
+    <title>恒星风吹出的宇宙气泡，哈伯望远镜揭开大麦哲伦云 N44 星云的诞生秘密</title>
+    <link>https://technews.tw/2026/09/10/star-formation-region-in-the-large-magellanic-cloud/</link>
+    <guid>https://technews.tw/2026/09/10/star-formation-region-in-the-large-magellanic-cloud/</guid>
+    <pubDate>Thu, 10 Sep 2026 13:56:15 +0000</pubDate>
+    <description><![CDATA[美国太空总署哈伯太空望远镜近期释出了大麦哲伦云内部一片名为 LHA 120-N44（简称 N44）星云的最新影像。大麦哲伦云是环绕我们银河系运行的小型星系中最大的一个，距离我们仅 16 万光年，让我们得以近距离观察如 N44 星云一样的恒星诞生地。
 
-在较温和的情境下，AI 对经济的影响大致可比拟网际网路带来的变化，GDP 到 2030 年仅较没有 AI 的基准路径高出 1.6%，失业率约 3.9%，仍接近历史常态。知识工作者的薪资变化也相对有限，整体劳动市场仅出现轻微调整。
+N44星云在中心有一个巨大的空洞，外头包覆著致密的尘埃气体外壳。中心空洞是有如一个超大气泡，大小约为210光年×140光年。空洞中心闪耀的恒星透过强大的恒星风和超新星爆炸，将气体大量抛射出去。被喷射出的气体被压缩，并在超大气泡周围形成了一个外壳，而新的恒星正在这个压缩气体外壳中形成。这使N44成为天文学家研究的有趣目标，他们希望了解从冷气体云塌缩成致密团块，到新生恒星核心发生核融合反应需要多长时间。
 
-若进入「大幅加速」情境，Anthropic 假设 AI 到 2030 年可处理约一半的知识工作，经济成长速度约为平常的两倍，2030 年美国 GDP 可达 36.3 兆美元，较基准高出 8.3%。不过，知识工作者的薪资大致持平，部分职业的就业则会明显转移到其他领域，整体失业率升至 4.6%。
+首图照片来自一项观测计划，该计划利用哈伯望远镜对N44进行了巡天观测，并对其中的恒星进行普查，最后收录了内部将近50万颗恒星以及前景飘移的恒星。在这些恒星中，有将近3万颗是所谓的前主序星，它们的核心尚未开始将氢核融合成氦。天文学家之所以能够发现这批珍贵的「年轻恒星」，要归功于哈伯望远镜的高灵敏度和精细的空间解析率，让天文学家能够从密集的星团中分辨出暗淡的天体。
 
-最受关注的是「极端」情境。Anthropic 估计，若 AI 在多数知识工作任务上都比人类更有效率，且几乎全面自动化，2030 年 GDP 可能达 44.4 兆美元，较基准高出 32.4%，年增率可达 15.4%，相当于经济每 4.5 年翻倍一次。但代价是，知识工作者就业可能较 2026 年中期下降 21.5%，相关失业率升至 17.9%，全体失业率也会攀升至 11.9%。
+超大质量恒星的紫外线辐射赋予了气体壳层能量，使其发出光芒，并凸显出几个独特的特征。天文学家卡尔·海尼兹在1950年代对N44中的每个特征都进行了编号。其中一个特征是较小的气泡，编号为N44F，位于这张影像的右上角附近。N44F是由一颗炽热大质量恒星的强烈恒星风吹拂而成的星际气泡。正如先前发布的哈伯望远镜观测影像所示，这颗恒星的狂暴星风和辐射塑造了周围的气泡，并形成了尘埃气体柱。
 
-▲ 2030 年美国 GDP 以不同情境预测。（单位：兆美元，Source：Anthropic，下同）
+哈伯望远镜对该区域质量较小的恒星的灵敏观测，为研究像大麦哲伦云或早期宇宙中的星系这样缺乏比氦重的元素的区域中的恒星形成机制打开了一扇新的窗口。
 
-报告同时指出，薪资与所得分配将出现明显分化。在极端情境下，知识工作者薪资较没有 AI 的路径低 11.5%，而其他职业薪资则可能上升 33.6%。劳动所得占比将从约 60% 降至 45.2%，资本所得占比则升至 54.8%。Anthropic 并提到，若要让知识工作者收入维持在没有 AI 的水准，可能需要相当于 GDP 约 9% 的大规模移转，但这种规模的政策介入在技术变迁史上并无先例。]]></description>
+（本文由台北天文馆授权转载；首图为哈伯太空望远镜拍摄的星云 LHA 120-N44，来源：NASA）]]></description>
   </item>
   <item>
-    <title>科嘉-KY8月营收2.23 亿元</title>
-    <link>https://finance.technews.tw/2026/09/10/ko-ja-5215-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/10/ko-ja-5215-202608-financial-report/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:20:09 +0000</pubDate>
-    <description><![CDATA[科嘉-KY（5215）今（10）日公布 8 月营收，达 2.23 亿元，较 7 月成长 -23.9%，较去年同 [&#8230;]]]></description>
+    <title>燃料电池、资料中心需求带动：康舒 8 月营收 37.09 亿元单月次高</title>
+    <link>https://finance.technews.tw/2026/09/10/acbel-august-revenue-3-709b-record-high-driven-by-fuel-cell-data-center-demand/</link>
+    <guid>https://finance.technews.tw/2026/09/10/acbel-august-revenue-3-709b-record-high-driven-by-fuel-cell-data-center-demand/</guid>
+    <pubDate>Thu, 10 Sep 2026 11:15:43 +0000</pubDate>
+    <description><![CDATA[电源厂康舒 8 月营运再创新高，单月合并营收 37.09 亿元，月增 13.65%、年增 38.47%，改写单月次高；累计前 8 月营收达 250.68 亿元，年增 28.85%，营运维持成长走势。
+
+从各事业来看，企业用电源已成为康舒主要成长引擎，8 月营收占比达 59%，较去年同期成长，主要受惠燃料电池、美国市场资料中心及智慧电网等电源产品增加。消费用电源占比 11%，受到 PC 电源产品减少影响而年减；电信电源占比 25%，同样较去年同期下滑。
+
+其中，燃料电池为康舒企业用电源的重要成长来源之一，过去已切入 Bloom Energy（BE）相关供应链。随 AI 资料中心用电需求快速攀升，Bloom Energy 近年积极扩大固态氧化物燃料电池（SOFC）在资料中心的部署，透过现地发电缩短等待电网供电的时间，也同步带动相关电力转换设备需求。
+
+除了燃料电池，电源也成为成长来源。康舒持续配合客户在地化生产需求，投资重心聚焦台湾及美国子公司 OmniOn Power 相关产能，并依客户出货时程进行配置，高功率机架式电源、电力转换系统等产品也持续朝美系资料中心供应链布局。]]></description>
   </item>
   <item>
-    <title>康控-KY8月营收月减11.1%</title>
-    <link>https://finance.technews.tw/2026/09/10/concraft-4943-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/10/concraft-4943-202608-financial-report/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:20:07 +0000</pubDate>
-    <description><![CDATA[康控-KY（4943）公布 8 月合并营收 1.82 亿元，较上（7）月成长 -11.1%，与去年同期相比为年增 42.4%；累计其今年前 8 月营收为 15.00 亿元，较去年同期增加 46.6%。]]></description>
+    <title>AI、车用双引擎助攻：强茂 8 月营收 13.77 亿元、年增近 3 成</title>
+    <link>https://finance.technews.tw/2026/09/10/panjit-august-revenue-1-377-billion-up-30-yoy-ai-automotive-engines/</link>
+    <guid>https://finance.technews.tw/2026/09/10/panjit-august-revenue-1-377-billion-up-30-yoy-ai-automotive-engines/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:22:43 +0000</pubDate>
+    <description><![CDATA[强茂下半年营运动能看增，AI 资料中心需求升温、车用电子电气化趋势延续，加上产品组合改善，成为营运三大支撑。强茂 8 月营收 13.77 亿元，虽月减 4.89％，但年增 29.82％；累计前 8 月营收 102.01 亿元、年增 18.10％，营运维持成长走势。
+
+强茂今年上半年营收 73.77 亿元，年增约 14％，税后净利 8.36 亿元，每股盈余（EPS）2.03 元。其中，第二季营收 39.56 亿元，季增 15.6％、年增 16.3％，毛利率达 33.2％，单季 EPS 为 1.28 元，营收。
+
+强茂长期深耕功率半导体市场，产品涵盖 MOSFET、二极体及积体电路（IC），并具备产品研发、晶圆制造及封装测试能力，应用横跨车用电子、AI 伺服器、工业控制及电源供应等市场。其中，MOSFET 已跃居公司最大产品线，今年上半年营收占比达 32％，成为推升产品组合的重要动能。
+
+随 AI 伺服器算力持续提升，GPU、ASIC 等高效能运算晶片功耗同步攀升，资料中心对电源供应效率及稳定性的要求也愈来愈高，功率半导体的重要性随之提升。从伺服器电源、电力转换、电源保护到散热风扇等设备，都需要大量 MOSFET、二极体等功率元件，带动相关元件朝更高效率、更低功耗及更高可靠度方向升级。
+
+根据强茂最新资料，今年上半年 AI 相关应用营收占比已达约 11％，显示 AI 应用已逐步由题材转化为实际营收贡献。随全球云端服务供应商持续扩充 AI 基础建设，AI 伺服器功率需求提高，资料中心已成为强茂积极布局的重要成长市场，也为传统消费性电子以外开拓新的成长动能。
+
+除了 AI 资料中心，车用电子也是功率半导体另一重要成长方向。随汽车电气化程度提高，车内电子系统增加，从电源转换、电路保护、马达驱动到各类控制模组，对功率元件的需求同步增加。相较一般消费性电子，车用产品对可靠度、耐用性及产品生命周期要求更高，也有助功率半导体厂商改善产品组合。
+
+强茂近年也持续推动功率元件与 IC 整合，布局由传统分离式元件进一步延伸至电源管理及马达驱动解决方案，希望由单一元件供应商朝系统解决方案发展。]]></description>
   </item>
   <item>
-    <title>远传8月营收95.47 亿元</title>
-    <link>https://finance.technews.tw/2026/09/10/far-eastone-4904-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/10/far-eastone-4904-202608-financial-report/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:20:06 +0000</pubDate>
-    <description><![CDATA[远传（4904）今（10）日公布 8 月营收，达 95.47 亿元，较 7 月成长 3.2%，较去年同期成长  [&#8230;]]]></description>
+    <title>宜特8月营收3.71 亿元</title>
+    <link>https://finance.technews.tw/2026/09/10/ist-3289-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/10/ist-3289-202608-financial-report/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:20:05 +0000</pubDate>
+    <description><![CDATA[宜特（3289）今（10）日公布 8 月营收，达 3.71 亿元，较 7 月成长 -7.3%，较去年同期成长  [&#8230;]]]></description>
   </item>
   <item>
-    <title>Google 官网默默下架 Pixel Tablet，唯一平板产品线悄然告终</title>
-    <link>https://ccc.technews.tw/2026/09/10/google-delists-pixel-tablet/</link>
-    <guid>https://ccc.technews.tw/2026/09/10/google-delists-pixel-tablet/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:10:27 +0000</pubDate>
-    <description><![CDATA[Google 近日已被发现悄悄将 Pixel Tablet 移出官方商店。目前若点击原产品页面连结，系统会直接将使用者导向商店首页，甚至连首页上方选单中的「Tablet」（平板电脑）分类也已不见踪影。外媒分析指出，这些变动强烈暗示这款平板电脑很可能已正式走向停产。
-
-事实上，Pixel Tablet 先前就已呈现缺货状态，且相关销售活动在 8 月底便已告一段落。如今连商品页面都遭到全面移除，更进一步证实了外界对于停产的推测。虽然 Google 目前仍保留了少部分 Pixel Tablet 的周边配件页面，但多数商品同样显示无库存，消费者仅能选择接收「到货通知」；现阶段官网上唯一还能正常下单购买的，仅剩 Wasserstein 出品的 Pixel 平板扬声器支架。
-
-回顾这款于 2023 年问世的产品，其最大卖点在于结合了 Android 平板与 Nest Hub 智慧显示器的双重体验，并搭配了实用的可拆卸底座。尽管上市后市场评价两极，但它始终是 Google 产品阵容中唯一的一款平板电脑。结合近期市场传出 Google 已终止「Pixel Tablet 2」开发计划的消息，外界普遍认为，Google 在平板市场的硬体布局正逐步缩编。
-
-（首图来源：Syced, CC0, via Wikimedia Commons）]]></description>
+    <title>台湾大8月营收167.83 亿元</title>
+    <link>https://finance.technews.tw/2026/09/10/twm-3045-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/10/twm-3045-202608-financial-report/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:10:13 +0000</pubDate>
+    <description><![CDATA[台湾大（3045）今（10）日公布 8 月营收，达 167.83 亿元，较 7 月成长 3.8%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>和硕8月营收月增2.7%</title>
-    <link>https://finance.technews.tw/2026/09/10/pegatron-4938-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/10/pegatron-4938-202608-financial-report/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:10:08 +0000</pubDate>
-    <description><![CDATA[和硕（4938）公布 8 月合并营收 883.05 亿元，较上（7）月成长 2.7%，与去年同期相比为年增 3 [&#8230;]]]></description>
+    <title>中华电8月营收月增17.2%</title>
+    <link>https://finance.technews.tw/2026/09/10/cht-2412-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/10/cht-2412-202608-financial-report/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:10:11 +0000</pubDate>
+    <description><![CDATA[中华电（2412）公布 8 月合并营收 233.09 亿元，较上（7）月成长 17.2%，与去年同期相比为年增 25.6%；累计其今年前 8 月营收为 1,645.46 亿元，较去年同期增加 9.5%。]]></description>
   </item>
   <item>
-    <title>汉磊8月营收月增1.8%</title>
-    <link>https://finance.technews.tw/2026/09/10/episil-3707-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/10/episil-3707-202608-financial-report/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:10:07 +0000</pubDate>
-    <description><![CDATA[汉磊（3707）公布 8 月合并营收 6.59 亿元，较上（7）月成长 1.8%，与去年同期相比为年增 29. [&#8230;]]]></description>
+    <title>汉唐8月营收93.92 亿元</title>
+    <link>https://finance.technews.tw/2026/09/10/uis-2404-202608-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/09/10/uis-2404-202608-financial-report/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:10:07 +0000</pubDate>
+    <description><![CDATA[汉唐（2404）今（10）日公布 8 月营收，达 93.92 亿元，较 7 月成长 -5.6%，较去年同期成长 [&#8230;]]]></description>
   </item>
   <item>
-    <title>大毅8月营收月减3.7%</title>
-    <link>https://finance.technews.tw/2026/09/10/ta-i-2478-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/10/ta-i-2478-202608-financial-report/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:10:04 +0000</pubDate>
-    <description><![CDATA[大毅（2478）公布 8 月合并营收 6.37 亿元，较上（7）月成长 -3.7%，与去年同期相比为年增 43 [&#8230;]]]></description>
+    <title>撷发科获北部 AI 智慧住宅逾 6.3 亿元专案合约，助边缘 AI 商用落地</title>
+    <link>https://technews.tw/2026/09/10/microip-edge-ai/</link>
+    <guid>https://technews.tw/2026/09/10/microip-edge-ai/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:08:46 +0000</pubDate>
+    <description><![CDATA[撷发科今（10日）宣布，正式取得北部指标性大型「AI智慧住宅」建案系统整合专案合约。本专案合约总金额约新台币6.3亿元，整体履约与建置期程规划约为36个月，预计今年10月启动第一阶段系统架构规划与专案管理导入。
+
+撷发科指出，此专案为中长期于智慧建筑领域之业务推进奠定稳健基础。公司将随工程推进与各阶段验收成果，按期认列营收，并依专案实际执行进度依序反映于财务报表中。
+
+随著智慧绿建筑与现代住宅对全区安防、节能减碳及隐私保护的要求日益提升，撷发科将旗下AI核心技术导入社区中枢。透过终端装置即时运算能力，大幅降低云端传输延迟与频宽负担，同时确保住户个人资料在地储存的隐私安全，并可支援全区AI视觉辨识、智慧动态能源调度，以及住户专属边缘物联网（AIoT）连网架构，建构高效率且具扩充弹性的智慧建筑管理机制。
+
+针对专案进度与财务认列架构，撷发科指出，本专案依循国际财务报导准则第15号规范，按专案实际履约义务之「完工比例法」进行分期认列。整体36个月的执行期程规划涵盖前端系统架构设计与边缘端节点配置、主体工程软硬体整合与AI平台介接，以及分区系统整合测试、效能验证与最终交付等关键履约阶段。
+
+撷发科表示，基于商业合约保密协议，相关合作业主与细部工程规划均受严格保密规范保护。展望未来，将持续以「软体驱动硬体」为核心战略，深耕异质边缘运算架构与客制化演算法平台，加速推进智慧建筑、智慧安防、智慧制造等多元垂直应用场域，持续扩大市场渗透率。]]></description>
   </item>
   <item>
-    <title>DeepSeek 正式发布 V4.1 Flash 模型，效能升／成本降</title>
-    <link>https://technews.tw/2026/09/10/deepseek-v4-1-flash-smarter-faster-more-efficient/</link>
-    <guid>https://technews.tw/2026/09/10/deepseek-v4-1-flash-smarter-faster-more-efficient/</guid>
-    <pubDate>Thu, 10 Sep 2026 08:00:35 +0000</pubDate>
-    <description><![CDATA[综合中媒报导，中国人工智慧（AI）新创公司 DeepSeek（深度求索）10 日正式发布DeepSeek V4.1 Flash 模型，其其全新模型结构系列中的最小尺寸的模型，具备原生多模态视觉理解能力，新模型结构的设计初衷是能力上限更高、推理速度更快、吞吐更大、可扩展至更大参数模型。
+    <title>中国民众好难，iPhone Duo 中版没 AI、海外版没门号</title>
+    <link>https://technews.tw/2026/09/10/chinese-consumers-difficulties-iphone-duo-china-version-lacks-ai-overseas-version-no-cellular/</link>
+    <guid>https://technews.tw/2026/09/10/chinese-consumers-difficulties-iphone-duo-china-version-lacks-ai-overseas-version-no-cellular/</guid>
+    <pubDate>Thu, 10 Sep 2026 10:00:51 +0000</pubDate>
+    <description><![CDATA[不少中国网友今天凌晨熬夜看完苹果（Apple）秋季发表会兴奋分享心得之后却很困惑：等待已久的折叠机 iPhone Duo 只有 eSIM，但中国版不提供 AI 功能，买海外版又不能用中国门号。
 
-DeepSeek V4.1 Flash为552B参数的MoE模型，采用全新Causal-Encoder-Decoder结构，输入和输出不对称，输入启动仅8B，输出启动16B，成本显著低于已知的同尺寸模型；并采用新的预训练方式、经过更大规模的强化学习后训练，在基准测试中，成功超越了包括DeepSeek V4 Pro等一众旗舰模型的智慧水准。
+中国网友纷纷在微博发文描述iPhone 18 Pro系列和iPhone Duo人工智慧（AI）功能升级。网友指出，全新Siri AI是这次升级的重头戏，不再只是简单的语音助理，而是升级为系统级智慧助理，具上下文理解力。
 
-与主流前瞻模型在Agentic Benchmark上的性能对比，呈现更少快取，更省成本。新一代模型大幅减少了KV Cache快取的大小，与上一代模型相比，对HBM的需求减少至四分之一，对SSD的需求减至八分之一；在Agent使用场景中，快取命中的费用往往占比较高，对KV Cache的压缩大幅降低了Agent类任务的使用成本。
+不过网友多不忘抢新体验后加一句「硬件（硬体）已给满，国行（中国版）暂不支持」、「硬件给满了，AI核心体验直接砍半」。「国行版」是指行货，也就是中国取得授权的公司货。
 
-API支持方面，DeepSeek V4.1 Flash已同步上线DeepSeek API，原生支援多模态，将模型名称更改为deepseek-flash即可调用最新的V4.1 Flash模型；旧版本模型 V4 Flash与V4 Flash Vision Exp现已下线，出于相容考量，模型名deepseek-v4-flash、deepseek-v4-flash-vision-exp将被暂时路由到V4.1 Flash。同时，V4.1 Flash 在性能、费用、速度、总用时等各项指标上已全面超越 V4 Pro，因此计划有序下线V4 Pro 模型。
+苹果中国官网也在新品介绍指出，新机种性能飙升，能轻松驾驭繁重的AI任务。然而网站最末一行微小字体附注：「Apple智能推出时间依监管部门审批情况而定。」
 
-API定价调整方面，DeepSeek表示，受惠于模型架构创新，DeepSeek V4.1 Flash能够以更低的成本服务更多的用户，因此相应下调了V4.1 Flash的定价。同时，为更合理调配资源，仍采用峰谷定价，空闲时段价格为高峰时段价格的一半，鼓励用户根据实际使用情况调整任务时间；新价格于今日12:00开始生效。
-
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+另一方面，中国版iPhone Duo同样只有eSIM，没有实体SIM卡槽，需前往中国三大电信公司实体营业厅核验身分证件，才能启动eSIM。于是有中国网友感叹，iPhone Duo只支援eSIM，「买国行没AI，买外版用不了国内卡」。]]></description>
   </item>
   <item>
-    <title>储能工程挹注，泓德能源 8 月营收 4.63 亿元、月增 73%</title>
-    <link>https://finance.technews.tw/2026/09/10/ho-ho-energy-august-revenue-463-million-73-percent-mom-energy-storage-boost/</link>
-    <guid>https://finance.technews.tw/2026/09/10/ho-ho-energy-august-revenue-463-million-73-percent-mom-energy-storage-boost/</guid>
-    <pubDate>Thu, 10 Sep 2026 07:47:50 +0000</pubDate>
-    <description><![CDATA[泓德能源今（10）日公布 2026 年 8 月营收达 4.63 亿元，月增 73.13%、年减 27.72%；累计前 8 月营收达 38.89 亿元。受惠台湾储能、渔电共生工程持续推进，加上电力转供交易挹注，带动 8 月营收较 7 月回升。
+    <title>雷虎合作中科院推微型涡轮喷射引擎，前进美国军工市场</title>
+    <link>https://technews.tw/2026/09/10/thundertiger-papadelta-pd-136j-turbojet/</link>
+    <guid>https://technews.tw/2026/09/10/thundertiger-papadelta-pd-136j-turbojet/</guid>
+    <pubDate>Thu, 10 Sep 2026 09:50:36 +0000</pubDate>
+    <description><![CDATA[雷虎科技今天宣布与国家中山科学研究院 8 月 20 日签署合作备忘录，双方就「微型涡轮喷射引擎制作与测试技术」展开合作，推动台湾无人载具关键动力与核心零组件自主化，并强化非红供应链能量，10 月赴美参展。
 
-泓德能源表示，8 月工程收入主要来自屏东、台中地区储能案件，以及嘉义、台南地区渔电共生案件，随材料投入及工程进度贡献约 2.50 亿元；电力转供交易则贡献约 1.67 亿元，两项业务合计约 4.17 亿元。
+雷虎科技新闻稿说明，本项合作直接对应雷虎「铁三角」Persistent Dominance系列的动力端核心需求。涡轮喷射型号PapaDelta PD-136j Turbojet，规划搭载中科院CS-80微型涡轮喷射引擎；同系列另有搭载雷虎250cc活塞引擎型号。两型共用同一铝合金冲压成型机体，由雷虎子公司科建铝船承制，以模组化机体搭配不同动力，兼顾量产一致性与任务弹性。
 
-至于日本储能案件，泓德能源先前表示，原预计于第二季完成交易并认列的数个 2 MW 储能案件，因相关交易条件完成时间延后，认列时程递延至第三季。泓德能源最新表示，目前相关案件持续推进，预计于第三季结束前完成认列。
+雷虎表示，第一视角自杀攻击无人机（FPV）为亚洲首家取得美国国防部Blue UAS认证，此次合作聚焦无人载具核心动力，中科院提供长期累积的国防科研与技术研发能量，雷虎则投入无人载具平台设计、系统整合、制造与量产经验，共同研议技术深化与应用路径。
 
-日本市场方面，泓德能源持续推进储能案场及电力交易业务。旗下北海道 Helios 储能案场已进入批发电力及需给调整市场，并完成日本首例以系统用储能资产为基础的绿色专案债融资，进一步推进当地储能资产营运。
+后续技术执行、授权与合作细节，将依个别项目另行协议并签订契约；相关组装、生产与制造作业原则上在台湾进行，以深化国内研发、制造及关键供应链。
 
-此外，泓德能源今年连续第三年于日本长期脱碳电源拍卖（LTDA）得标，目前累计取得 560 MW 容量，并与东京瓦斯、中部电力 Miraiz 等日本能源业者展开合作，业务涵盖储能代营运及电力相关服务。
-
-澳洲市场方面，泓德能源则透过 ZEBRE 平台推进储能资产开发，旗下 Dartmoor 储能案场已取得南澳政府长效储能标案。随台湾工程案件持续推进，公司下半年也将持续推展日本及澳洲等海外市场。]]></description>
+雷虎指出，PapaDelta PD-136j Turbojet规划10月赴美国华盛顿参加美国陆军协会军工展（AUSA），向国际市场展示台湾低成本、可量产巡飞无人机与自主动力链的整合成果。]]></description>
   </item>
   <item>
-    <title>苹果折叠手机登场，新日兴鸿海奇𬭎大立光成赢家</title>
-    <link>https://technews.tw/2026/09/10/apple-foldable-phone-xin-rixing-hon-hai-qihong-largan-winners/</link>
-    <guid>https://technews.tw/2026/09/10/apple-foldable-phone-xin-rixing-hon-hai-qihong-largan-winners/</guid>
-    <pubDate>Thu, 10 Sep 2026 07:30:13 +0000</pubDate>
-    <description><![CDATA[苹果公司（Apple）于美国时间 9 日举行秋季发表会，推出首款折叠手机 iPhone Duo 及 iPhone 18 Pro 等新品。法人点名，台湾苹概零组件供应链中，包括提供关键铰链的新日兴与鸿海、散热大厂奇𬭎及光学镜头的大立光等将成为主要受惠者。
+    <title>创近 50 个月高点！力积电 8 月营收突破 70 亿元大关，年增 76%</title>
+    <link>https://technews.tw/2026/09/10/psmc-2026-aug-revenue/</link>
+    <guid>https://technews.tw/2026/09/10/psmc-2026-aug-revenue/</guid>
+    <pubDate>Thu, 10 Sep 2026 09:46:22 +0000</pubDate>
+    <description><![CDATA[晶圆代工大厂力积电今（10日）公告8月合并营收70.09亿元，月增5.1%、年增76.19%，单月营收攀近50个月高点；累计前8个月累计营收445.4亿元，年增47.08%。
 
-苹果推出首款折叠手机iPhone Duo，与过往iPhone最大变化，每支折叠手机都需要一组精密铰链。轴承大厂新日兴与鸿海旗下工业富联（FII）早在今年3月就合资成立新公司，提前卡位iPhone Duo铰链大饼。
+展望未来半年，力积电董事长谢再居先前在媒体茶会中表示，公司营运表现仍值得期待，各位应该可以看到营收逐月成长，预计今年底将来到全年高点，今年整体营收与获利表现都将相当不错。
 
-新日兴总经理阮朝宗在6月股东会中，回应媒体询问与鸿海的合资，他表示，这是依照客户要求。法人分析，新日兴与鸿海合资虽然会稀释主导权，但鸿海是苹果最重要的代工合作伙伴，新日兴与鸿海深度连结，成功取得iPhone Duo多数铰链订单。
+从市场趋势来看，半导体业仍处于相当有利的环境。谢再居表示，今年营收持续成长，但由于公司是晶圆代工厂，不像终端产品公司能立即反映市场价格变化，市场需求升温与ASP提升，反映到营收仍会有时间落差。
 
-对于苹果动态掌握度高的知名分析师郭明𫓹先前估算，iPhone Duo上市初期，新日兴与鸿海合资公司取得约65%的铰链订单，其余约35%由美国连接器大厂安费诺（Amphenol）供应。
+谢再居表示，力积电将持续深耕既有三大业务支柱。力积电最早是以记忆体代工起家，涵盖DRAM与Flash；约十多年前开始投入逻辑晶片代工；近几年则积极发展AI封装所需的各类半导体零组件业务，这项新业务未来将是公司非常重要的成长动能，目前发展成果也相当不错。
 
-新日兴原本就是苹果主要轴承合作伙伴，先前合作范围集中在MacBook笔电、AirPods无线耳机的充电盒等，此次苹果进军折叠手机市场，新日兴顺势扩大供应范围。
+在这三大代工业务基础上，公司也将铜锣厂出售给美光，这笔交易也为公司带来约新台币500多亿元的现金流。透过与美光合作，力积电也开启另外两项重要发展机会，一是切入后段晶圆制程（Post-wafer）代工，即HBM记忆体堆叠相关制程；二是借由美光在DRAM技术上的协助，进一步提升公司的技术能力。
 
-苹果秋季发表会另一亮点，包含iPhone Duo与新推出的iPhone 18 Pro首度搭载采用2奈米制程打造的A20 Pro晶片，GPU绘图效能与持续效能均提升40%，不过散热成为一大难题。苹果为此导入次世代均热板（VC），散热表面积是iPhone 17 Pro的3倍，可协助系统处理更多热能，苹果形容此为一项「巨大飞跃」。
-
-法人分析，苹果于去年的iPhone 17 Pro首度导入VC散热设计，防止手机过热降频，今年不仅沿用VC设计，而且散热区域进一步延伸至机身顶部，使用的均热板面积扩大，台湾散热大厂奇𬭎成为受惠者之一。
-
-另外，今年iPhone 18 Pro系列搭载4800万像素融合主相机，最大亮点为首次加入「可变光圈」，可在不同光圈间流畅切换，并根据景深与光线自动调整。资深分析师翁伟捷指出，可变光圈技术门槛极高，预计大立光为主要供应商，可望顺势拉大与同业的技术差距。
-
-至于折叠机iPhone Duo配备4,800万像素融合主相机与超广角相机，另在外萤幕配置前置相机，内萤幕具备FaceTime相机。翁伟捷表示，考量机身厚度，镜头薄型化、组装精度及良率的要求更高，预期大立光持续受惠，玉晶光则主要供应超广角镜头与前置镜头。]]></description>
+谢再居表示，未来在DRAM市场需求持续成长下，将更有能力满足重要代工客户的需求，公司也将依循黄董事长原先规划的方向，稳健、持续向前推进。]]></description>
   </item>
   <item>
-    <title>HBM 荒＋美管制  中企传数倍价抢货、华为晶片涨 50%</title>
-    <link>https://technews.tw/2026/09/10/hbm-shortage-drives-huawei-ai-chip-prices-up-50/</link>
-    <guid>https://technews.tw/2026/09/10/hbm-shortage-drives-huawei-ai-chip-prices-up-50/</guid>
-    <pubDate>Thu, 10 Sep 2026 07:20:09 +0000</pubDate>
-    <description><![CDATA[美国收紧对中出口管制后，中国 AI 晶片业者愈来愈依赖灰色市场取得先进高频宽记忆体（HBM），采购价格通常是中国以外买家的数倍，而这些成本压力也开始转嫁至产品售价。市场传出，华为最新 Ascend 950DT 加速晶片的报价已超过 25 万人民币（约 37,255 美元），短短 2 个月涨幅最高达 50%。
+    <title>GPT 最易沦陷、Claude 最抗压，研究揭七大 AI 模型挡不住长篇假讯息轰炸的真相</title>
+    <link>https://technews.tw/2026/09/10/ai-long-term-misinformation-vulnerabilities/</link>
+    <guid>https://technews.tw/2026/09/10/ai-long-term-misinformation-vulnerabilities/</guid>
+    <pubDate>Thu, 10 Sep 2026 09:40:47 +0000</pubDate>
+    <description><![CDATA[当你不断对 AI「卢」错误资讯，它还能坚持事实吗？亚利桑那大学于 2026 年 9 月发表在《Scientific Reports》的最新研究指出，在长篇对话中持续施压，多数 AI 最终会向假讯息妥协。这项针对 7 款主流大型语言模型（LLM）的高压测试，打破了过去单次问答评测的盲点。
 
-路透社10日独家引述未具名消息人士报导，华为已将Ascend 950DT报价提高至25万人民币以上，与2个月前的相比，报价依合约条件不同，涨幅介于20%至50%之间。华为先前表示，950DT预计2026年第四季上市。
+研究团队针对 GPT-3.5、GPT-4o、GPT-4o-mini、Claude 3.5 Sonnet、Gemini 1.5 Pro、Llama-3-70B 与 DeepSeek-R1 进行测试，将 100 个捏造的假陈述在对话中重复 50 次，并从三个维度重新检视 AI 的可靠性：
 
-这波涨价潮显示，全球HBM短缺正在冲击中国AI产业。HBM是AI运算的重要零组件，先进市场目前主要由SK海力士（SK Hynix）、三星电子（Samsung Electronics）及美光（Micron Technology）掌握。
+研究更发现一种危险的病理现象。在长对话中，AI 可能会在没有新资讯的情况下反复无常（例如第 12 轮拒绝假讯息、第 19 轮突然接受、第 31 轮又变回拒绝）。研究作者 Marvin Slepian 医师警告，若在医疗、金融或军事等高风险场景依赖 AI 决策，这种摇摆不定的随机性将带来极大灾难。
 
-华盛顿当局自2024年12月收紧部分先进HBM产品对中国的出口管制后，中国晶片业者开始逐渐依赖灰色市场取得供应。知情人士指出，这类HBM价格通常是中国以外买家采购价的数倍之多。
-
-由于记忆体对AI加速晶片生产成本的占比很高，高价取得HBM的成本会直接反映至产品售价。
-
-不只华为，寒武纪（Cambricon）暂称「690」的次世代AI晶片报价也较2个月前提高20%至30%，沐曦（MetaX）及天数智芯（Iluvatar CoreX）等规模较小的业者也采取类似涨价措施。
-
-华为旧款产品同步涨价，Ascend 950PR由年初约6万人民币涨至逾8万元，涨幅约30%；Ascend 910C则由约9万元涨至逾11万元。
-
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+这份研究对目前的 AI 应用敲响警钟，单次问答的「跑分」已不足以衡量真实工作场景的安全性。对企业而言，防范此漏洞有三大策略：]]></description>
   </item>
   <item>
-    <title>AI 水冷 CDU 单月出货上千台！荣惠 8 月营收狂飙 85% 再创高</title>
-    <link>https://finance.technews.tw/2026/09/10/cdu/</link>
-    <guid>https://finance.technews.tw/2026/09/10/cdu/</guid>
-    <pubDate>Thu, 10 Sep 2026 07:15:59 +0000</pubDate>
-    <description><![CDATA[荣惠-KY今日公布8月营收2.42亿元，月增31.04％，年增84.99％，再创单月历史新高，主要受惠AI伺服器需求强劲，并新增美系客户，水冷模组相关订单激增，8月CDU（冷却分配单元）单月出货量已冲上1,000台带动业绩走扬。
+    <title>GPT Image 2.5 图像生成如何下提示词？八个要领快速上手</title>
+    <link>https://technews.tw/2026/09/10/gpt-image-2-5-prompting-guide/</link>
+    <guid>https://technews.tw/2026/09/10/gpt-image-2-5-prompting-guide/</guid>
+    <pubDate>Thu, 10 Sep 2026 09:39:16 +0000</pubDate>
+    <description><![CDATA[每周有超过 30 亿张图像，是透过 ChatGPT Images 以及 API 中的 GPT-Image 模型生成。最新版本GPT Image 2.5已经开放给网页版、手机版、桌面版的 ChatGPT、ChatGPT Work 及 Codex 使用者，OpenAI 也提供提示词撰写指南，协助使用者生成、编修自己需要的图片。
 
-荣惠董事长刘世璘表示，既有客户持续追加AI伺服器水冷模组与水冷快接头（QD）、感应器、PCBA、板金机壳等相关零组件数量，新开发的美系客户开始出货，下半年订单量较显著增加，8月CDU（冷却分配单元）单月出货量已冲上1,000台，较上半年月均出货700~800台大幅成长。
+使用 GPT Image 2.5，应先确定自己想要生成的图像，然后描述图像的主体、构图、风格及限制。如果需要编修，需要明确指出哪个部分需要变动、哪些部分必须维持原状，一次只调整一个细节，并检查生成效果。
 
-刘世璘指出，荣惠以AI伺服器液冷供应服务商为核心定位，提供客户FPC、Rigid-flex、Metal及HDI等多种类基板的一站式服务，延伸出强劲业务新动能，并致力产品优化有成，AI伺服器相关产品占比拉升。
+对于 GPT Image 2.5 的提示词，以下 8 个基础要领可注意，有助于生成、编修自己需要的图片：
 
-刘世璘强调，上游玻纤布、树酯、铜箔基板、记忆体、被动元件等基板原材料成本屡屡攀高，部分甚至较今年初涨幅超过50%，但客户对AI伺服器追单强劲，因此今年持续多次对客户反映转嫁颇为顺利，近九成客户达到100％ 转嫁涨价。
+一、定义最终结果：说明主题与用途，例如商品照片、广告或图表。明确指定构图、长宽比以及重要的位置限制。对于复杂要求，使用标签化的章节，将提示词组织成场景、主体、细节及限制 4 个部分。
 
-荣惠上半年AI伺服器相关产品营收占比8.2％，并从7月的8.5％，8月一举冲上10.8％，主要受惠AI伺服器毛利率超过其他产品，董事会决议从今年开始改为每半年发放一次股利，上半年每股纯益（EPS）4.31元，决议每股配发现金股利3.5元，预计9月15日除息，并在10月13日发放。]]></description>
+二、描述肉眼可见的细节：具体说明材质、光影、色彩以及视觉媒介。若追求写实效果，应明确要求「照相写实」（photorealistic）或「真实照片」（real photograph），并描述取景构图与纹理。将相机规格参数视为画面效果的参考，而非对物理精确模拟的保证。针对广角、电影感、低光源、雨天或霓虹登场景，应具体说明比例、氛围及色调，而不是依赖情绪性词汇。
+
+三、明确指定人物与动作：描述身体构图、相对比例、眼神以及物件间的互动。像是「全身可见，包含双脚」、「低头凝视翻开的书本」或「双手自然握住手把」等指令，能让预想的姿势与动作更清楚。
+
+四、指定精确文字：将所需文字放入引号中，并描述位置与字体。必要时，应逐字拼写不常见的单字或品牌名称。要求不要出现额外文字，随后检查生成图片的拼字与清晰度。针对微小文字、密集资讯或多种字体，应比较中等品质或高级品质的生成效果。
+
+五、将修改内容与限制条件分开：进行编辑时，请说明「仅修改 X」，并列出需要保留的细节，例如标识、几何形状、版面配置、光影或标签。同时说明排除项目，例如不想要的文字、标志或浮水印。若要进行精确的局部编辑，需要指明饱和度、对比度、箭头、相机角度、以及周围必须保持不变的物件。
+
+六、为参考资料分配角色：透过编号与用途（主体、风格、服装或背景）标示每个输入元素。说明这些输入内容应如何结合，以及哪些元素该移动到什么位置。
+
+七、选择易于维护的格式：简短提示词、描述性段落、类似 JSON 结构、指令或标签都能表达相同意图。选择最容易阅读与更新需求的格式，不要依赖特殊语法。
+
+八、刻意进行迭代：将前一次的输出作为下一次编辑的输入，要求一项修改，并重复需保留的细节。诸如「与之前相同的样式」的参考描述可以承接上下文。但若结果偏离预期，需要重申关键限制条件。在增加更多指令前，先对结果进行比较。
+
+在 OpenAI 提供的提示词撰写指南，使用 GPT Image 2.5 示范多个情境与用途，笔者挑出其中五种：
+
+Create a photorealistic candid photograph of an elderly sailor standing on a small fishing boat.He has weathered skin with visible wrinkles, pores, and sun texture, and a few faded traditional sailor tattoos on his arms.He is calmly adjusting a net while his dog sits nearby on the deck. Shot like a 35mm film photograph, medium close-up at eye level, using a 50mm lens.Soft coastal daylight, shallow depth of field, subtle film grain, natural color balance.The image should feel honest and unposed, with real skin texture, worn materials, and everyday detail. No glamorization, no heavy retouching.
+
+创作一张照片般逼真的抓拍照片，一位年迈的水手站在一艘小渔船上。他的皮肤饱经风霜，可见皱纹、毛孔及日晒纹理，手臂上还有几个褪色的传统水手刺青。他平静地整理渔网，而他的狗坐在附近的甲板上。以 35mm 底片照片的风格拍摄，中近景，与视线齐平，使用 50mm 镜头。柔和的海岸日光，浅景深，细微的底片颗粒，自然的色彩平衡。影像应该感觉真实而不摆拍，呈现真实的皮肤纹理、磨损的材质、及日常细节。不美化、不过度修图。
+
+Create a detailed Infographic of the functioning and flow of an automatic coffee machine like a Jura.From bean basket, to grinding, to scale, water tank, boiler, etc.I'd like to understand technically and visually the flow.
+
+制作一张详细的资讯图表，呈现像 Jura 这类全自动咖啡机的运作方式与流程。从咖啡豆槽，到研磨、到秤重，还有水箱、锅炉等等。我想从技术与视觉上了解整个流程。
+
+Give me a cool in culture ad / fashion shot for a brand called Thread.It's a hip young street brand. The ad shows a group of friends hanging out together with the tagline "Yours to Create."Make it feel like a polished campaign image for a youth streetwear audience: stylish, contemporary, energetic, and tasteful.Use clean composition, strong color direction, natural poses, and premium fashion photography cues.Render the tagline exactly once, clearly and legibly, integrated into the ad layout.No extra text, no watermarks, no unrelated logos.
+
+给我一张名为 Thread 的品牌酷炫潮流文化广告 / 时尚摄影照。这是一个时髦的年轻街头品牌。广告呈现一群朋友一起闲晃的画面，搭配标语「Yours to Create」。让它呈现出针对年轻街头服饰受众的精致形象广告感：时尚、当代、充满活力且有品味。使用简洁的构图、鲜明的色彩方向、自然的姿势，以及高级时尚摄影的视觉语汇。标语仅呈现一次，清楚且易读，融入广告版面配置中。不要额外文字，不要浮水印，不要无关的标志。
+
+Create one pitch-deck slide titled "Market Opportunity" that feels like a real Series A fundraising slide from a YC-backed startup.Use a clean white background, modern sans-serif typography like Inter, and a crisp, minimal layout. The slide should include:- A TAM/SAM/SOM concentric-circle diagram in muted blues and grays- Specific, believable market sizing numbers:- TAM: $40B- SAM: $9B- SOM: $350M- A clean bar chart below showing market growth from 2021 to 2026, with a subtle upward trend- Small footnotes: "AGI Research, 2024" and "Internal analysis"- A company logo placeholder in the bottom-right cornerThe design should look like it belongs in a deck that actually raised money: highly readable text, clear data hierarchy, polished spacing, and professional startup-style visual language.Avoid clip art, stock photography, gradients, shadows, decorative elements, or anything that feels generic or overdesigned.
+
+建立一张标题为「市场机会」的募资简报，整体感觉要像是 YC 支持的新创公司真正用于 A 轮募资的投影片。使用干净的白色背景、如 Inter 的现代无衬线字体，以及俐落、极简的版面配置。投影片应包含：- 以低饱和蓝色与灰色呈现的 TAM / SAM / SOM 同心圆图- 具体、可信的市场规模数字：- TAM: $40B- SAM: $9B- SOM: $350M- 下方放置一个简洁的长条图，显示市场从 2021 年到 2026 年的成长，并呈现细微的上升趋势- 小的注脚：「AGI Research, 2024」和「内部分析」- 右下角放置公司标志预留位置设计应看起来像是出自一份真正成功募得资金的简报：文字高度易读、资料层级清楚、间距精致，并具备专业的新创公司风格视觉语言。避免美工图案、图库照片、渐层、阴影、装饰元素，或任何感觉通用或过度设计的内容。
+
+Remove 2 people (black and blue) from this picture. Do not change anything else.
+
+从这张照片中移除 2 个人（黑色和蓝色），不要更改其他任何内容。
+
+▲ 图右为移除人物的生成结果。（Source：GPT Image 2.5 生成）
+
+比起 ChatGPT Images 2.0，最新 GPT Image 2.5 将图像生成延迟最多降低 50%，使用者可以更快将构想转变成图片且能反复修图。新版本主打更自然的光影效果、更丰富的纹理质感，同时提升对参考图片主体的保留能力，让使用者多轮修图时，能稳定地遵循提示词。]]></description>
   </item>
   <item>
-    <title>墨西哥女高中生发明低频声波装置，8 秒就能灭火</title>
-    <link>https://technews.tw/2026/09/10/vortex-tech/</link>
-    <guid>https://technews.tw/2026/09/10/vortex-tech/</guid>
-    <pubDate>Thu, 10 Sep 2026 07:10:26 +0000</pubDate>
-    <description><![CDATA[16 岁墨西哥女高中生 Ángela Karime Venegas Hernández，凭借对科学的敏锐直觉，成功将「以声波灭火」的奇想化为现实。就读于塔毛利帕斯州 CETIS 78 高中的她，利用 12 伏特电池、频率产生器与扬声器，打造出名为 Vortex Tech 的低频声波灭火器。
+    <title>纬颖「畸零股」2,345 元变 10 元！金管会收逾百件陈情揪经济部检讨</title>
+    <link>https://finance.technews.tw/2026/09/10/abnormal-stocks/</link>
+    <guid>https://finance.technews.tw/2026/09/10/abnormal-stocks/</guid>
+    <pubDate>Thu, 10 Sep 2026 09:32:49 +0000</pubDate>
+    <description><![CDATA[台股千金股纬颖近期因发放股票股利，产生大量极度接近整股（0.982 股）的畸零股，却依近 30 年的旧有函释仅按「面额 10 元」折付现金，相较纬颖今日收盘价 2,345 元差距悬殊，引发小股东强烈不满，并向金管会提出逾百件陈情。对此，金管会证期局承诺将主动会商经济部通盘检讨。
 
-这项发明打破传统，纯粹透过每秒发出 30 次脉冲的声波震动，搅动并排开火焰周围的氧气。在短短 5 到 8 秒内，装置就能迅速将热空气与可燃物分离，使火势自然熄灭。在指导老师 José Arturo Hernández 的启发下，Ángela 历经一年的研发与 100 多次反复测试，不断替换材质以测试效能，目前已推出第五代原型机，并能在 2 公尺的有效范围内稳定运作。
+纬颖今日上午召开记者会，财务长陈昌伟表示，纬颖原订每股配发 20 元股票股利，但在股东会后，因海外可转债持有人陆续转换股权，导致流通在外股数增加，配股率被稀释降至约 1.982 股，进而衍生畸零股问题。
 
-Vortex Tech 已被证实对木材、易燃液体、烹饪油脂及电子设备起火皆有效，且具备零污染、无残留物、绝对不伤人体的优势。这个原本单纯的校园实验专案，已在墨西哥全国 270 个创业计划中脱颖而出夺得银牌。
+陈昌伟指出，考量持股越少的股东受影响比例越高，纬颖决定优先保障小股东，持有 1 至 15 股的股东可担任特定人，以每股面额 10 元认购 1 股，无论先前是否已成功凑成整股，只要符合该持股级距皆可认购，但必须等 9 月 8 日「股东自行凑足整股作业」截止后，才能确认最终剩余多少畸零股。
 
-今年 10 月，Ángela 将带著准备申请专利的发明，代表墨西哥远赴印尼雅加达参加国际科学竞赛，向世界展示如何用创新对抗最古老的火灾威胁。她表示，未来将继续秉持反复试错的科学精神，发明出更多能解决现实生活难题的模型。]]></description>
+为何 16 股以上股东无法纳入？陈昌伟说明，因剩余畸零股数量有限，无法雨露均沾。无论资格线画在哪，都会有「差一股」的遗珠之憾，因此符合资格的股东可于 9 月 16 日至 30 日期间缴款，若最终仍有未认购的股份，将由公益平台文化基金会及台湾大学等非营利法人认购。
+
+对此，金管会接获约百余件民众陈情，主要有两大诉求，一是认为以面额收回畸零股不合理，二是希望主管机关能研议建立统一的畸零股处理、市价折现、拍卖或交易撮合机制，证期局主秘王秀玲表示，金管会将主动洽询经济部，针对近 30 年的相关函释与无票面金额股等规定进行通盘研议。
+
+王秀玲说明，这次事件受到高度瞩目主要有两大原因，一是每股配发比例为 1.9827946 股，极度接近整股（仅差 0.0172054 股），让小股东产生「差一点就能凑满」的心理；二是纬颖身为千金股，畸零股若依现行公司法及经济部 86 年的函释，强制按每股面额10元折算现金发放，价差极大。
+
+面对外界期盼建立「畸零股交易搓合平台」或调整收购机制的声音，王秀玲指出，若要建立相应平台仍有许多技术与实务难题必须克服：
+
+王秀玲指出，依据经济部民国 86 年函释，公司配发不足一股的畸零股换发现金均以每股面额为计算标准，现行上市柜公司皆是依此规定合法办理，由于该函释已将近 30 年，107 年公司法已修正引入无票面金额股制度，金管会将主动与公司法主管机关经济部接洽与讨论，是否有优化的空间。
+
+王秀玲强调，相关法规与制度未修改前，若未来仍有类似案件，金管会建议发行公司在规划股利政策时，应更审慎评估与试算，并强化资讯揭露，让股东能提早掌握状况，以利投资人提早评估是否透过亲友或现行规定进行凑股作业。]]></description>
   </item>
   <item>
-    <title>志超8月营收月减4.1%</title>
-    <link>https://finance.technews.tw/2026/09/10/tpt-8213-202608-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/09/10/tpt-8213-202608-financial-report/</guid>
-    <pubDate>Thu, 10 Sep 2026 07:10:05 +0000</pubDate>
-    <description><![CDATA[志超（8213）公布 8 月合并营收 21.00 亿元，较上（7）月成长 -4.1%，与去年同期相比为年增 3 [&#8230;]]]></description>
+    <title>新天玑处理器发表前先送大礼，联发科 8 月营收创单月历史新纪录</title>
+    <link>https://finance.technews.tw/2026/09/10/mediateks-august-revenue-hit-a-new-monthly-record/</link>
+    <guid>https://finance.technews.tw/2026/09/10/mediateks-august-revenue-hit-a-new-monthly-record/</guid>
+    <pubDate>Thu, 10 Sep 2026 09:30:50 +0000</pubDate>
+    <description><![CDATA[IC 设计龙头联发科技公布2026 年 8 月份合并营收报告，单月营收冲上新台币 641.83 亿 元，月增 32.41%、年增 44.08%，超越 2026 年 3 月份的 632.19 亿元，创下史上单月新高纪录。强劲的单月表现，也一举带动 2026 年前八个月累计营收达 4,139.91 亿元，年增达到 5.76%。
+
+根据上一季法说会的说法，展望 2026 年第三季，联发科预估营收将落在新台币 1,522 亿至 1,598 亿元之间，季增持平至 5%，年增7% 至 12%。毛利率预测为 46%，营业费用率则预估为 31%。以第三季前两个月的合并营收达到 1,126 亿元以上的水准，预计将能达到财测水准。
+
+除了单月营收缴出亮眼成绩单外，联发科近期利多消息也吸引市场高度关注。除先前全球 AI 晶片霸主辉达（NVIDIA）认购联发科 35 亿美元海外无担保可转债，结合 Alphabet 共参与 39 亿美元交易，深化 AI 资料中心、AI PC 与车用领域合作。预计双方全面采用 NVLink Fusion 晶片整合平台，联发科副董事长暨执行长蔡力行表示，所得资金将用于强化全球供应链与加速先进封装及客制化晶片（ASIC）研发之外。
+
+展望后市，联发科先前就预估 2026 年资料中心部门营收将突破 20 亿美元，并力争在 2027 年规模 800 亿美元的 ASIC 潜在市场中夺下 15% 至 20% 的市占率。对此，花旗证券将联发科目标价一口气喊上 6,800 元，摩根士丹利亦给予 5,588 元目标价并列为大中华半导体首选。
+
+至于，联发科先前宣布将在 9 月 15 日发表采用台积电 2 奈米制程的新一代「天玑 9600 系列」旗舰晶片，预计由 vivo 与 OPPO 等品牌率先搭载推出，在可望为下半年营运持续注入成长动能的情况下，也拉抬股价走势。]]></description>
   </item>
 </channel>
 </rss>
