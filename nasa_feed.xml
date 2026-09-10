@@ -4,7 +4,24 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 09 Sep 2026 20:15:10 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 10 Sep 2026 02:25:14 GMT</lastBuildDate>
+  <item>
+    <title>NASA 将 Relativity Space 的 Terran R 添加到发射服务合同中</title>
+    <link>https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-adds-relativity-spaces-terran-r-to-launch-services-contract/</guid>
+    <pubDate>Wed, 09 Sep 2026 20:11:58 +0000</pubDate>
+    <description><![CDATA[NASA 已将一份 NASA 发射服务 (NLS) II 合同授予 Relativity Space Inc.，并根据合同的入口条款提供其 Terran R 发射服务。 Terran R 发射服务将可供 NASA 的发射服务用于未来的任务。
+
+NLS II合同是多次授予、无限期交付/无限数量的合同，订购期截至2030年6月，总体履约期截至2032年12月。NLS II合同包括一项入口条款，每年为新的发射服务提供商提供竞争未来任务的机会，并允许现有承包商引入目前不在其NLS II合同中的运载火箭。
+
+NLS II 合同支持该机构载人航天任务理事会、科学任务理事会以及研究和技术任务理事会的目标和目标。根据合同，美国宇航局还可以向其他政府机构提供发射服务，例如国家海洋和大气管理局。
+
+NASA 位于佛罗里达州肯尼迪航天中心的发射服务项目办公室负责管理 NLS II 合同。有关 NASA 的更多信息，请访问：
+
+约书亚·芬奇 / 吉米·拉塞尔总部，华盛顿202-358-1100joshua.a.finch@nasa.gov/james.j.russell@nasa.gov
+
+阿曼达·格里芬肯尼迪航天中心，佛罗里达州321-593-6244amanda.griffin@nasa.gov]]></description>
+  </item>
   <item>
     <title>NASA 钱德拉揭开了神秘 X 射线物体的面纱</title>
     <link>https://science.nasa.gov/missions/chandra/nasas-chandra-unveils-mysterious-x-ray-objects/</link>
@@ -175,7 +192,7 @@ Sentinel-6 Michael Freilich, named after a former director of NASA’s Earth Sci
 
 9月6日，喀拉喀托火山的持续喷发逐渐平息，但火山仍在隆隆作响。它恢复了更典型的斯特龙博利式喷发模式，其特点是火山灰和火山物质间歇性喷发。机场已于 9 月 8 日恢复运营，但自 7 月初以来，这座火山仍处于全国第二高警戒级别。
 
-NASA 地球观测站图像由 Michala Garrison 使用来自美国的陆地卫星数据拍摄地质调查局和来自 NASAEOSDIS LANCE、GIBS/Worldview 和 Suomi 国家极地轨道合作伙伴的 VIIRS 数据。林赛·杜尔曼的故事。
+NASA 地球观测站图像由 Michala Garrison 使用美国陆地卫星数据拍摄地质调查局和来自 NASAEOSDIS LANCE、GIBS/Worldview 和 Suomi 国家极地轨道合作伙伴的 VIIRS 数据。林赛·杜尔曼的故事。
 
 当我们探索宇宙并发现更多关于我们的家园星球时，请随时了解 NASA 的最新内容。
 
@@ -239,37 +256,6 @@ Rob Margetta华盛顿总部202-358-0918robert.j.margetta@nasa.gov]]></descriptio
     <description><![CDATA[在这张 2026 年 9 月 3 日的图像中，美国宇航局的哈勃太空望远镜在大麦哲伦星云中捕捉到了一个上镜的星云 N44。 N44 主要有两个特征：巨大的中心空隙和稠密的尘埃气体外壳。中央空洞是一个“超级气泡”，直径大约为 210 x 140 光年。虚空中心闪闪发光的星星负责创造它；通过强大的星风和爆炸性超新星，这些恒星排出了它们诞生时的大部分气体。
 
 图片来源：NASA、ESA/Hubble、D. Gouliermis]]></description>
-  </item>
-  <item>
-    <title>美国宇航局操纵卫星照片的技术现在揭示了古代图像</title>
-    <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/</link>
-    <guid>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-technique-for-manipulating-satellite-photos-now-reveals-ancient-images/</guid>
-    <pubDate>Tue, 08 Sep 2026 15:15:56 +0000</pubDate>
-    <description><![CDATA[NASA 首次应用于卫星图像的算法现在被用来探究古代
-
-在柬埔寨古吴哥窟寺庙中央塔楼的高处，绘画描绘了骑马者和传统乐团。 每天都有成千上万的访问者在没有注意到的情况下经过这些图像，因为它们已经褪色到看不见的程度。
-
-一位考古学家在 2010 年至 2012 年间发现了它们，以及整个建筑群中的约 200 幅其他画作，使用了美国宇航局南加州喷气推进实验室设想的方法。这项技术被称为去相关拉伸，可以增强数字图像中的对比度，使特征更容易被发现。 它在研究古代岩石艺术方面尤其受欢迎，部分原因是一个人的爱好与他的专业背景的偶然交叉。 2005 年左右，岩石艺术爱好者乔恩·哈曼 (Jon Harman) 看到了 NASA 描绘火星表面的图像，无论是否应用了去相关拉伸。看到这项技术揭示了多少细节，现已在加利福尼亚州帕西菲卡退休的哈曼明白了研究古代褪色图像的含义。他还从事医学成像工作。 “我用谷歌搜索，找到了一篇 NASA 的论文，解释了如何执行该算法，”他说。 “根据我的医学成像经验，我知道我可以做到这一点，所以我就这么做了。”这篇论文由 Ronald Alley 于 1996 年撰写，他是一名 JPL 员工，为高级星载热发射和反射辐射计 (ASTER)（美国宇航局 Terra 卫星上的日本成像仪器）开发应用程序。 艾利在 JPL 的一位前主管共同发明了去相关拉伸，艾利也认识到了它从 ASTER 图像中收集信息的潜力。哈曼制作了与 ImageJ 一起使用的插件，ImageJ 是由美国国立卫生研究院开发的开源程序。
-
-2010 年至 2012 年间，一位考古学家利用美国宇航局南加州喷气推进实验室设想的方法发现了它们，以及整个建筑群中的约 200 幅其他画作。
-
-这项技术被称为去相关拉伸，可以增强数字图像的对比度，使特征更容易被发现。 它在研究古代岩石艺术方面尤其受欢迎，部分原因是一个人的爱好与他的专业背景的偶然交叉。
-
-2005 年左右，岩石艺术爱好者乔恩·哈曼 (Jon Harman) 看到了 NASA 的图像，这些图像描绘了应用或不应用去相关拉伸的火星表面。看到这项技术揭示了多少细节，现已在加利福尼亚州帕西菲卡退休的哈曼明白了研究古代褪色图像的含义。
-
-他还从事医学成像工作。 “我用谷歌搜索，找到了一篇 NASA 的论文，解释了如何执行该算法，”他说。 “根据我的医学成像经验，我知道我可以做到，所以我就这么做了。”
-
-这篇论文由罗纳德·艾利 (Ronald Alley) 于 1996 年撰写，他是喷气推进实验室的一名员工，负责为高级星载热发射和反射辐射计 (ASTER)（美国宇航局 Terra 卫星上的日本成像仪器）开发应用程序。 艾利在喷气推进实验室的一位前主管共同发明了去相关拉伸，艾利也认识到了它从 ASTER 图像中收集信息的潜力。
-
-Harman 制作了与 ImageJ 一起使用的插件，ImageJ 是美国国立卫生研究院开发的开源程序。
-
-他说他每年会满足大约 200 个 Dstretch 请求。 2010 年左右，他还创建了智能手机应用程序，使用快捷方式来模拟去相关拉伸。这些应用程序已被下载数千次，并且已经发表了描述 Dstretch 在考古学中的实用性的论文。
-
-它已被用来发现和澄清挪威悬崖下的古代遗址、埃及坟墓、加拿大公园以及许多其他地点的图像。 它还帮助考古学家发现埋藏的古希腊建筑遗迹，并检查木乃伊人体遗骸上的纹身，以及其非岩石艺术应用。
-
-哈曼说，他对 Dstretch 在岩石艺术界的广泛使用并不感到惊讶。 “但是我对人们发现的许多不同的应用程序感到惊讶。所以这很酷。”
-
-Terra 是美国宇航局地球观测系统的旗舰卫星，研究地球大气层、陆地、海洋和辐射能之间的相互作用……]]></description>
   </item>
 </channel>
 </rss>
