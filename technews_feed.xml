@@ -4,7 +4,7 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Fri, 11 Sep 2026 18:48:09 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 11 Sep 2026 22:03:15 GMT</lastBuildDate>
   <item>
     <title>寻找「黑洞毛发」，日本学者提出利用重力波振铃衰减探测暗物质新法</title>
     <link>https://technews.tw/2026/09/12/new-method-to-detect-black-hole-hair/</link>
@@ -142,11 +142,11 @@ MIC资深产业分析师钟晓君表示，网路传输能力将决定算力的�
     <link>https://technews.tw/2026/09/11/joyin-accuses-openai-plagiarism/</link>
     <guid>https://technews.tw/2026/09/11/joyin-accuses-openai-plagiarism/</guid>
     <pubDate>Fri, 11 Sep 2026 08:40:39 +0000</pubDate>
-    <description><![CDATA[由蚂蚁集团投资的中国人型机器人新创公司 JoyIn，近日公开质疑 OpenAI 刚发布的新模型与网页设计，指控其与 JoyIn 旗下的 Aether 模型有多处高度相似，并表示已著手启动法律诉讼程序。这场争议让原本聚焦于机器人控制技术的新品发表，迅速演变成一场针对 AI 研发与「模型蒸馏」（Distillation）抄袭指控的公开交锋。
+    <description><![CDATA[由蚂蚁集团投资的中国人型机器人新创公司 JoyIn，近日公开质疑 OpenAI 刚发表的新模型与网页设计，指控其与 JoyIn 旗下的 Aether 模型有多处高度相似，并表示已著手启动法律诉讼程序。这场争议让原本聚焦于机器人控制技术的新品发表，迅速演变成一场针对 AI 研发与「模型蒸馏」（Distillation）抄袭指控的公开交锋。
 
-JoyIn 执行长郭人杰在一封中文公开信中指出，公司数周前才在美国矽谷展示名为「外星访客」（extraterrestrial visitor）的 AI 模型架构，随后 OpenAI 首席科学家便于 9 月 6 日发表题为《外星思维（An Alien Mind）》的文章，让他强烈质疑双方在概念与表述上出现高度重叠。他同时提到，双方在「递回自我提升」（recursive self-improvement）以及利用 AI 最佳化算力等核心技术方向上，也有著惊人的相似之处。
+JoyIn 执行长郭人杰在一封中文公开信中指出，公司数周前才在美国矽谷展示名为「外星访客」（extraterrestrial visitor）的 AI 模型架构，随后 OpenAI 首席科学家便于 9 月 6 日发表题为《外星思维》（An Alien Mind）的文章，让他强烈质疑双方在概念与表述上出现高度重叠。他同时提到，双方在「递回自我提升」（recursive self-improvement）以及利用 AI 最佳化算力等核心技术方向上，也有著惊人的相似之处。
 
-除了技术路线，郭人杰也将矛头指向网站的视觉设计。他表示，OpenAI 近期推出的 GPT-6 Astra 网页，与 JoyIn 两个月前推出的 Aether 网站同样采用了太空主题风格，令他坚信相关内容并非单纯巧合。根据 CNBC 报导指出，这项指控目前尚未获得独立核实，且部分被提及的概念在 AI 研究领域中早已广泛存在，只是不同公司在组合与实作方式上通常会有所差异。对于此项指控，OpenAI 尚未对置评要求做出立即回应。
+除了技术路线，郭人杰也将矛头指向网站的视觉设计。他表示，OpenAI 近期推出的 GPT-6 Astra 网页，与 JoyIn 两个月前推出的 Aether 网站同样采用了太空主题风格，让他坚信相关内容并非单纯巧合。根据 CNBC 报导指出，这项指控目前尚未获得独立核实，且部分被提及的概念在 AI 研究领域中早已广泛存在，只是不同公司在组合与实作方式上通常会有所差异。对于此项指控，OpenAI 尚未对置评要求做出立即回应。
 
 在争议声中，JoyIn 于 9 月 10 日正式公开发表了 Aether 模型。该公司声称，这套系统采用「感知」而非「文本」驱动的方式来控制机器人，能让机器人在首次执行任务时，成功率高达 90%。郭仁杰表示，这次的公开发布不仅是产品技术的展示，同时也是对外界质疑其技术与 OpenAI 高度相似的一种正面回应。
 
