@@ -4,7 +4,36 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sun, 13 Sep 2026 08:35:10 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 15:09:58 GMT</lastBuildDate>
+  <item>
+    <title>无人艇击沉无人艇，乌克兰称黑海首度出现无人载具海战</title>
+    <link>https://technews.tw/2026/09/13/ukrainian-usv-sinked-russian-usv-in-combat-for-the-first-time-in-history/</link>
+    <guid>https://technews.tw/2026/09/13/ukrainian-usv-sinked-russian-usv-in-combat-for-the-first-time-in-history/</guid>
+    <pubDate>Sun, 13 Sep 2026 08:55:50 +0000</pubDate>
+    <description><![CDATA[乌克兰海军近日宣称，旗下 Sargan 3000 无人水面载具在黑海以重机枪击沉一艘俄军无人艇，创下全球首次无人艇击毁同类载具的纪录。
+
+Ukraine’s Navy says a Sargan unmanned surface vessel destroyed a Russian unmanned boat with machine-gun fire in the Black Sea, the first-ever battle between unmanned surface vessels. Ukrainian Navy personnel operated in coordination with HUR.#Ukrainepic.twitter.com/Avg4ecz8m6
+
+— NOELREPORTS 🇪🇺 🇺🇦 (@NOELreports)September 12, 2026
+
+这次行动由乌克兰国防情报总局（GUR）先行发现目标，再由搭载 Protector 遥控武器站的 Sargan 3000 发动攻击，以 12.7 公厘重机枪持续射击俄军无人艇。
+
+乌军公布的 81 秒影片结合艇载摄影机与空中视角，呈现目标遭射击后碎片飞散，最后艇尾先沉入水中的过程。俄军无人艇型号不明，画面中也未见明显武装，因此目前还不能视为两艘武装无人艇相互交火。
+
+这艘以乌克兰语「水针鱼」命名（Sargan）的无人艇最初以自杀式武器为目的开发，如今已演变成具备高度模组化的多功能作战平台。
+
+船体设计上，Sargan 3000 采用低雷达截面积（RCS）的隐身结构与喷水推进系统，全长 6.9 公尺、宽 2.2 公尺，具备高达 1,600 公里的作战半径与 450 公斤酬载量，极速可达 40 至 55 节。
+
+此外该度整合乌克兰「Delta」战场态势感知系统，具备西方商业卫星与 NATO 军规网路的多通道备援通讯，并辅以光学及惯性自主导航系统与电磁干扰防御模组，即便在 GPS 讯号遭强烈干扰的环境下仍能维持战术运作。
+
+而 Sargan 使用的 Protector 遥控武器站由挪威 Kongsberg 开发，该系列可整合至舰艇及无人载具，让操作员透过远端控制执行射击任务。
+
+俄乌战争期间，乌军无人艇已从搭载炸药的自杀攻击载具，逐步扩充为可搭载机枪、火箭、飞弹与无人机的作战平台。此次宣称击沉俄军无人艇，则进一步展现这类载具执行海上拦截任务的可能性。
+
+从作战用途来看，若无人艇能持续侦巡并拦截同类目标，未来便可能部署于港口外围或舰艇周边，协助防范敌方无人艇突袭。
+
+不过单次交战尚不足以证明完整防御能力，能否在不同海况下稳定搜索、辨识并击中小型目标，仍是后续观察重点。]]></description>
+  </item>
   <item>
     <title>Kalanick 旗下 Atoms 获 17 亿美元，Waymo 前创办人加盟进军 Robotaxi</title>
     <link>https://finance.technews.tw/2026/09/13/atoms-reportedly-eyes-robotaxi-market/</link>
@@ -378,21 +407,6 @@ Coxon 更直言 OpenAI 与 Anthropic 正赌上人类性命盲目奔驰，生命�
 特斯拉执行长 Elon Musk 也简短表态赞同，尽管要建立全球跨国与跨企业的规范极具挑战性，Amodei 仍坦承过程不会轻松，但他强调这是业界对全人类负有的责任。随著超级人工智慧临界点逼近，这场科技巨头之间的军备竞赛，或许终于到了必须踩下煞车的转捩点。
 
 （首图来源：TechCrunch,CC BY 2.0, via Wikimedia Commons）]]></description>
-  </item>
-  <item>
-    <title>「不给复制就被换掉！」AI 浪潮洗牌影视产业，真人演员面临生存危机</title>
-    <link>https://technews.tw/2026/09/13/ai-short-dramas-human-performers-survival-crisis/</link>
-    <guid>https://technews.tw/2026/09/13/ai-short-dramas-human-performers-survival-crisis/</guid>
-    <pubDate>Sun, 13 Sep 2026 00:30:05 +0000</pubDate>
-    <description><![CDATA[人工智慧（AI）正以前所未有的速度改写短剧与影视制作模式。从角色生成、场景设计到整部作品的完成，AI 已不再只是辅助工具，而是直接参与甚至主导内容生产。随著 AI 短剧与数位演员大量进入市场，真人演员的生存空间正遭到严重挤压。
-
-根据外媒报导，这波影视变革来得又快又猛。短剧产业近期出现明显转向，AI 作品数量暴增，部分平台上新作品中，AI 生成内容已占相当高比例。业界人士指出，AI 的制作成本远低于传统真人拍摄，原本需要导演、演员、摄影、美术与后制团队协作的复杂流程，正逐步被自动化系统取代。
-
-冲击最直接的，莫过于大牌明星与短剧真人演员的工作机会。短剧演员兼制作人 Greg Wollner 表示，在字节跳动推出 Seedance 2.0 前，他原本一周能接拍三部作品，但工具问世后工作几乎瞬间消失，身边不少同行被迫离开这个行业。另有表演者透露，自己在失去角色前，还被要求先将个人的影像、声音与表演风格交给 AI 系统进行「数位提炼」，等于被迫先替未来取代自己的数位分身提供素材。
-
-更令人关注的是，部分从业者甚至面临「接受 AI 替身，否则就被换掉」的最后通牒。一名儿童教育节目主持人表示，她曾被要求同意制作自身的 AI 复制版本，否则可能由其他演员接手；最后她透过谈判争取到一份为期五年的合约，内容包含一年薪资保障与否决权，才勉强保住自身权益。
-
-在产业端，AI 短剧已不只是试验性产品，而是逐步形成全新的商业模式。部分热门 AI 角色已在平台上拥有独立页面，像真人艺人一样经营个人曝光与流量。业界人士分析，这代表短剧产业正走向「去肉身化」时代──内容、人设与流量依然存在，但萤幕上的演出者已未必需要以真人形式存在。]]></description>
   </item>
 </channel>
 </rss>
