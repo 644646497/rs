@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 18 Sep 2026 02:32:01 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 10:19:57 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/</guid>
+    <pubDate>Fri, 18 Sep 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:The small, northern constellationTriangulumharbors this magnificent face-on spiral galaxy, Messier 33. Its popular names include the Pinwheel Galaxy or just theTriangulum Galaxy. M33 is over 50,000 light-years in diameter, third largest in theLocal Groupof galaxies after the Andromeda Galaxy (M31), and our own Milky Way.About3 million light-years from the Milky Way, M33 is itself thought to be a satellite of the Andromeda Galaxy andastronomersin these two galaxies would likely have spectacular views of each other's grand spiral star systems. As for the view from the Milky Way, thissharp telescopic imageshows off M33's blue star clusters and pinkishstar formingregions along the galaxy's loosely wound spiral arms. In fact, thecavernous NGC 604is the brightest star forming region, seen here at about the 5 o'clock position from the galaxy center. Like M31, M33's population of well-measured variable stars have helped make this nearby spiral a cosmic yardstick forestablishingthe distancescale of the Universe.APOD's main NASA site ismoving:Fromapod.nasa.govtoscience.nasa.gov/apodTomorrow's picture:star party weekend]]></description>
+  </item>
   <item>
     <title>NASA Awards Launch Services for StarBurst Gamma-Ray Detector</title>
     <link>https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/</link>
@@ -239,13 +248,6 @@ They found that snow accumulation in North America and Eurasia reaches a maximum
 Between August and October, the oceans swell with meltwater and rain, and Earth’s center of mass shifts toward the South Pacific Ocean. The Pacific Ocean is so large that mass changes there overshadow the loss or gain in other oceans, though seasonal dynamics in the Mediterranean, Red, North, Baltic, and Barents seas all help shift Earth’s center of mass in their own small way.
 
 The researchers used a model developed by the European Centre for Medium-Range Weather Forecasts to estimate how atmospheric changes affect Earth’s center of mass throughout the seasons. They found tha]]></description>
-  </item>
-  <item>
-    <title>Indonesia’s Anak Krakatau</title>
-    <link>https://www.nasa.gov/image-article/indonesias-anak-krakatau/</link>
-    <guid>https://www.nasa.gov/image-article/indonesias-anak-krakatau/</guid>
-    <pubDate>Wed, 16 Sep 2026 15:23:51 +0000</pubDate>
-    <description><![CDATA[Anak Krakatau erupts ash and volcanic gases in this Sept. 5, 2026, image acquired with theOLI(Operational Land Imager) onLandsat 8. Eruptions are a regular occurrence atAnak Krakatau, a small volcano between the Indonesian islands of Java and Sumatra. Much of its activity remains relatively mild, but it occasionally puts on more impressive and hazardous shows of force. In early September 2026, a booming eruption lasting more than 24 hours sent gas and ash high into the atmosphere, disrupting thousands of flights and degrading air quality in parts of the country, including the capital city of Jakarta.]]></description>
   </item>
 </channel>
 </rss>
