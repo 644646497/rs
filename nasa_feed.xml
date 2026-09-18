@@ -4,7 +4,58 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 18 Sep 2026 15:33:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 20:13:48 GMT</lastBuildDate>
+  <item>
+    <title>NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’</title>
+    <link>https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/</link>
+    <guid>https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/</guid>
+    <pubDate>Fri, 18 Sep 2026 18:02:53 +0000</pubDate>
+    <description><![CDATA[Using data from the Japan-led XRISM (X-ray Imaging and Spectroscopy Mission) observatory, astronomers have directly observed a giant star’s outflow, called a stellar wind, being captured by its compact companion and providing the power source for strong X-ray flares. The research is part of NASA’s exploration of the extreme universe to better understand how the cosmos works.“We’ve never before seen clear indications of wind plasma falling onto a compact object,” said Roi Rahin, a researcher atUMBC(University of Maryland, Baltimore County) andNASA’s Goddard Space Flight Centerin Greenbelt, Maryland. “We can now test our understanding of these processes in much greater detail.”Apaperdescribing the findings published Friday in the journal Science Advances.The target system is BP Crucis, a high-mass X-ray binary located about 13,000 light-years away in the southern constellation Crux. The primary star, known as Wray 977, is a blue hypergiant about 40 times the Sun’s mass and 60 times its size. It’s so big, hot, and luminous that ionized gas constantly streams away from it, a phenomenon astronomers call a stellar wind.
+
+The supergiant’s companion is a tiny-but-mighty neutron star called GX 301-2. The crushed core of a star that long ago exploded as a supernova, it packs more than the Sun’s mass into a ball roughly 12 miles (20 kilometers) across. Rotating every 11 minutes, it sweeps an X-ray beam toward Earth, which classifies it as a pulsar.Twice during the pulsar’s 41.5-day orbit, near its closest and farthest points from the primary star, strong X-ray flares occur for several days. Astronomers think the pulsar’s gravitational influence on the star creates an especially dense stream of plasma. Flares occur when the pulsar traverses this stream and captures some of its matter. The strongest eruptions happen closer to the star, where the stream is denser.The researchers targeted the system withXRISMon Feb. 1, 2025, observing it for about 16 hours near the end of one of these stronger flares. The observatory’s Resolve instrument, jointly developed byNASAandJAXA(Japan Aerospace Exploration Agency), captured highly detailed X-ray spectra, revealing rapidly changing emission and absorption lines. In particular, absorption lines from highly ionized iron revealed the speed and direction of plasma relatively close to the pulsar.
+
+When Rahin first saw these spectra, he realized he hadn’t seen anything like them before. He scoured the scientific literature for similar observations and came up empty-handed.
+
+“It was clear that these observations were groundbreaking, but at the same time this meant the analysis had to be especially detailed,” said Nazma Islam, a co-author formerly at UMBC and NASA Goddard and now an assistant professor at Manipal Centre for Natural Sciences, India. “We could see how the dense stream of plasma acts very close to the neutron star.”
+
+Rahin and his team show that the iron absorption lines they observed are displaced to lower energies than they would be if measured in a laboratory. This displacement, called a redshift, indicates motion away from the observer, which means the gas is flowing toward the pulsar. The extent of the redshift indicates the plasma’s velocity. The team’s analysis indicates gas is racing toward the pulsar at speeds of around 335,000 mph (540,000 kph).Here’s what the researchers think is going on: As the pulsar enters the stream, it sweeps up gas into a thick, messy, turbulent disk. This gas spirals down to the pulsar, heats up, and emits X-rays to power the flares.As the pulsar pushes farther into the stream, the turbulent disk breaks down. Astronomers suspect that as the pulsar moves more directly into the flow, the stream no longer has the angular momentum required to maintain the disk. Once the disk dissipates, plasma flows directly onto the neutron star. Observations with XRISM occurred near the end of this phase.
+
+Then, as the pulsar nears the end of the stream, a messy disk briefly returns, this time spinning in the opposite direction. And then it, too, disappears as the pulsar exits. In all, the pulsar takes about four days to transit the stream.
+
+“The BP Crucis system is an ideal laboratory for studying wind-fed pulsar accretion, and XRISM’s sensitive, high-resolution Resolve spectrometer is an ideal instrument for advancing our understanding of the processes involved,” said Brian Williams, the mission’s project scientist at NASA Goddard.
+
+To learn more about the XRISM mission, visit:]]></description>
+  </item>
+  <item>
+    <title>NASA Awards SpaceX Three Crew Flights to Space Station</title>
+    <link>https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/</link>
+    <guid>https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/</guid>
+    <pubDate>Fri, 18 Sep 2026 16:02:31 +0000</pubDate>
+    <description><![CDATA[To continue regular crew transportation to the International Space Station, NASA hasawardedSpaceX three additional missions through a contract modification.
+
+As part of the agency’s Commercial Crew Transportation Capability (CCtCap) contract, this change brings the total missions for SpaceX to 17 and helps NASA to maintain access to the space station with two unique commercial crew industry partners.
+
+This is a firm fixed-price, indefinite-delivery/indefinite-quantity contract modification for the Crew-15, Crew-16, and Crew-17. The value of this modification for all three missions and related mission services is $946 million. The amount includes ground, launch, in-orbit, and return and recovery operations, cargo transportation for each mission, and a lifeboat capability while docked to the International Space Station. The period of performance runs through 2030 and brings the total CCtCap contract value with SpaceX to $5.92 billion.
+
+The award follows the agency issuing anotice of intentin May to purchase the additional missions. The current sole source modification does not preclude NASA from seeking future contract modifications for additional transportation services, as needed.
+
+In 2014, NASA awarded the CCtCap contracts to Boeing and SpaceX through a public-private partnership as part of the agency’s Commercial Crew Program. Under CCtCap, NASA certifies that a provider’s space transportation system meets the agency’s requirements prior to flying missions with astronauts.
+
+SpaceX was certified by NASA for crew transportation in November 2020. The company’s twelfth crew rotation mission for the agency, the Crew-12 mission, is currently in orbit docked to the space station. As part of the missions, SpaceX’s Dragon spacecraft and Falcon 9 rocket transport up to four astronauts, along with critical cargo, to the space station.
+
+For information about NASA’s Commercial Crew Office, visit:
+
+https://www.nasa.gov/exploration/commercial/crew]]></description>
+  </item>
+  <item>
+    <title>COSI Telescope Comes Together</title>
+    <link>https://www.nasa.gov/image-article/cosi-telescope-comes-together/</link>
+    <guid>https://www.nasa.gov/image-article/cosi-telescope-comes-together/</guid>
+    <pubDate>Fri, 18 Sep 2026 15:45:03 +0000</pubDate>
+    <description><![CDATA[UC Berkeley engineers and managers watch as theCOSI(Compton Spectrometer and Imager) detector assembly is slowly raised from a table in this July 8, 2026, image. The four pieces of silver material on the top of the detector box cover the flex circuits, which carry signals from the detectors to the readout electronics.
+
+COSI is a wide-field gamma-ray telescope that will study energetic phenomena in the Milky Way and beyond, including the creation and destruction of matter and antimatter and the final stages of the lives of stars. The mission is a collaboration between the University of California, Berkeley’s Space Sciences Laboratory; the University of California, San Diego; the Naval Research Laboratory; NASA’s Goddard Space Flight Center; Northrop Grumman; Space Dynamics Laboratory; the Italian Space Agency; and a number of research institutions.]]></description>
+  </item>
   <item>
     <title>NASA’s Hubble Spots an Out-of-Sync Galaxy</title>
     <link>https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/</link>
@@ -153,89 +204,6 @@ Subscribe to the Earth Observatory and get the Earth in your inbox.
 NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
 
 Open access to NASA’s archive of Earth science data]]></description>
-  </item>
-  <item>
-    <title>Passion Meets Precision at NASA’s Flight Research Lab</title>
-    <link>https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/</link>
-    <guid>https://www.nasa.gov/people-of-nasa/armstrong-people/passion-meets-precision-at-nasas-flight-research-lab/</guid>
-    <pubDate>Wed, 16 Sep 2026 21:06:08 +0000</pubDate>
-    <description><![CDATA[Long before they helped shape NASA’s future aerospace breakthroughs, Derek Abramson, Justin Hall, and Justin Link were in their garages and homes building radio‑controlled aircraft, testing new ideas, and flying their creations at hobby events. That early passion now fuels the work of NASA’s Dale Reed Subscale Flight Research Laboratory at the agency’s Armstrong Flight Research Center in Edwards, California.
-
-At NASA Armstrong’ssubscale flight lab, the team turns that lifelong enthusiasm into mission-focused innovation. The laboratory supports research that ranges from advanced navigation systems for future landings on the Moon and Mars to emerging aeronautics concepts that need quick, low-cost evaluation. NASA’s small, remotely piloted and autonomous aircraft allow engineers to explore ideas that could be difficult, risky or expensive to test at full scale.
-
-Abramson, Hall, and Link play key roles in that work. Abramson serves as the laboratory’s chief engineer. Hall is the chief pilot. Link is a drone pilot. Together, they integrate emerging aerospace technologies with the lab’s subscale aircraft fleet and, when needed, design and build aircraft or flight experiments to evaluate new concepts.
-
-Abramson’s expertise, built through service in the U.S. Navy and the aerospace industry, centers on technical oversight, management, and system design. Hall is known for creative approaches to problem solving and uses practical methods to address technical challenges and maintain flight safety. Link specializes in designing and fabricating research vehicles and draws on extensive hands-on experience to understand what works, and what does not, in flight.
-
-On weekends, the team often tinkers in their garages or hangars building radio-control aircraft, researching hobby trends, or exploring new technologies. You might see them flying their creations at hobby events or attending trade shows. Their passion for flight brought Abramson, Hall, and Link together years before they one-by-one joined NASA more than a decade ago, though each discovered that spark in a different way.
-
-Abramson’s interest began as a child with rubber-band powered stick and tissue aircraft and radio-controlled models. His early aviation pursuits led to his first solo flight while in high school and a pilot’s license. In the Navy, he worked on multiple aircraft, including EA-6B and the F-18, as an avionics technician. As an engineer, he supported the B-1 and CV-22 Osprey aircraft flight tests. As an intern at NASA Armstrong, he used his operational and engineering experience on remotely piloted and autonomous aircraft.
-
-Hall’s interest grew after seeing historic aircraft including the Mach 3 SR-71 fly over his elementary school playground and watching Space Shuttle Challenger land from above his dad’s shoulders. He has built and flown model and remotely piloted aircraft for as long as he can remember. His reputation flying radio-controlled hobby aircraft at fly-ins and trade events led to an offer to fly subscale aircraft at NASA.
-
-Link was five years old when he built balsa-wood aircraft with his dad and flew them in a field near their home. As he grew older, his hobby expanded to include radio-controlled cars, boats, helicopters, and aircraft. Aviation runs deep in Link’s family. His great grandfather served in the U.S. Army Air Corps, his grandfathers served in the U.S. Air Force, and his dad was an Air Force avionics technician. Link raced sailplanes, competed with scaled warbird aircraft, and was encouraged by family and friends to pursue an aviation profession. He has worked with large drones for more than 11 years, focusing on research and development, composite materials, and specialized fabrication methods.
-
-Together, the team applies its experience and knowledge in rapid design, fabrication, integration and flight testing to bring new ideas to flight. Their work continues to support NASA’s missions across aeronautics, science, and exploration.]]></description>
-  </item>
-  <item>
-    <title>NASA’s Moon Orbiter Spots New, ‘Once-in-Century’ Moon Crater</title>
-    <link>https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/</link>
-    <guid>https://science.nasa.gov/solar-system/moon/nasas-moon-orbiter-spots-new-once-in-century-moon-crater/</guid>
-    <pubDate>Wed, 16 Sep 2026 18:06:35 +0000</pubDate>
-    <description><![CDATA[It started as a routine data-quality check. But as Robert Wagner, a scientist with NASA’s Lunar Reconnaissance Orbiter (LRO), scanned a giant Moon map on his computer screen, an unusually large bright spot circled by a dark halo caught his eye, as it implied that surface material in that area had been shaken up.
-
-“I just stopped, dropped everything, and started looking into what that spot was,” said Wagner, an image-processing specialist from Intuitive Machines who works with data from the Lunar Reconnaissance Orbiter Camera (LROC) system.
-
-By comparing before and after images of the Moon, Wagner realized he had discovered the largest, newly formed crater ever found in the solar system, as scientistsreported Wednesday in Science Advances. This discovery highlights the value of NASA’s Moon orbiter data in studying a dynamic landscape as the agency advances a sustained human presence and expanded scientific and commercial activity on the Moon.
-
-Officiallynamed McGetchinafter pioneering lunar scientist Tom McGetchin, the crater formed on the Moon’s eastern edge sometime between April 11 and May 22, 2024, after a comet or asteroid the size of a three- to six-story building hit the surface.The crash left a crater, 728 feet wide, that spans the length of two football fields. And at 141 feet deep, the crater could fit three vertically stacked yellow school buses.Scientists estimate that an impact of this magnitude happens on the Moon about once in a century or even longer.
-
-For more than 17 years,LRO has been circling the Moonand using its seven instruments to map the topography, surface composition, temperature, and radiation environment there. The spacecraft’s team has identified at least 1,000 new impact craters throughout the mission and flagged 100,000 more surface changes from an object smashing into the Moon or from the debris that flung out after.
-
-With no atmosphere to slow them or burn them up, space rocks and other objects easily reach the lunar surface. Most are much smaller compared to the object that carved out McGetchin crater. The smallest craters scientists can distinguish from LRO images are about 30 feet wide, the length of a three-story building laid on its side, made by rocks about 43 inches wide, the size of a monster-truck tire. Scientists estimate that impacts of this scale produce about 140 new craters across the Moon each year. But most new ones are made by microscopic projectiles that leave holes too small to identify in orbital images.
-
-With its numerous instruments, the spacecraft can observe changes to the lunar surface that aren’t apparent in the LROC images alone. After the crater was discovered, scientists working with LRO’s thermal instrument, Diviner, made follow-up observations of the site. They found a 4-mile-wide area around the crater that is about 16 degrees Fahrenheit cooler at night than its surroundings.
-
-Reporting ina second paper Wednesday in the same journal, researchers say that the cooling happens because the impact fluffs up the regolith around the crater, making it less dense and therefore less able to retain heat.
-
-The large extent of this “cold spot” is striking, scientists say, because it shows that impacts can modify the Moon’s surface far beyond the crater itself. These physical changes could affect how rover wheels interact with the surface, for instance.
-
-The LROC system collects images from about 60 miles above the Moon as LRO loops from pole to pole. The system includes two cameras that capture high‑resolution black‑and‑white images and one camera for moderate‑resolution multispectral images. Over the years and thousands of passes, scientists have built maps detailed enough to spot not only new craters, but also landslides, landers, seismic faults, and even hints of lava tubes.
-
-LROC scientists regularly analyze close-up images of small portions of the Moon's surface taken by the Narrow-Angle Camera. Using these images, they look for changes that are typically less than 30 feet across. But every few years the team searches for large (wider than 150 feet) features by creating global Moon maps and comparing them to older versions.
-
-That’s what Wagner was doing on Oct. 24, 2025, when he came across McGetchin. Using images from LROC’s Wide-Angle Camera, which captures broad views with pixels the size of football fields, he stacked hundreds of “before” and “after” frames with software designed to highlight change. Anything that stayed the same turned gray while anything different showed up as bright or dark patches.
-
-While the process sounds straightforward, spotting real craters requires a lot of manual work. The software flags every tiny shift in lighting or shadow, generating hundreds of false alarms. For this reason, Wagner typically verifies the software, looking for small fuzzy halos around pixel‑wide bright points, which indicate splashes of regolith around a new crater.
-
-Spanning hundreds of pixels, McGetchin stood out immediately. “It was by far the mo]]></description>
-  </item>
-  <item>
-    <title>NASA Celebrates Restoration of Guam Station Damaged by Typhoon Mawar</title>
-    <link>https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/</link>
-    <guid>https://www.nasa.gov/technology/space-comms/nasa-celebrates-restoration-of-guam-station-damaged-by-typhoon-mawar/</guid>
-    <pubDate>Wed, 16 Sep 2026 16:12:01 +0000</pubDate>
-    <description><![CDATA[Lead Writer and Communications Strategist
-
-NASA celebrated the full restoration of its Guam Remote Station with a ribbon-cutting on Sept. 10, closing out more than three years of recovery after Super Typhoon Mawar devastated the site in 2023. Engineers from across the agency completed the final and most complex step of the rebuild on July 1, when they returned the station’s central antenna to service.
-
-For nearly three decades, the Guam Remote Station has been one of three ground stations supporting NASA’sTracking and Data Relay Satellites, or TDRS, a critical part of the Near Space Network. From 22,000 miles above Earth, the relays link spacecraft in low Earth orbit with the ground, allowing flight controllers to communicate with astronauts, command spacecraft, and receive mission data. The Guam station alone closes the “Zone of Exclusion,” a stretch of orbit beyond the relays’ line of sight. Without it, the International Space Station can lose contact with Earth for up to 20 minutes of every 90-minute orbit, an unacceptable risk for crewed missions.
-
-On May 24, 2023, the Category 4 super typhoon struck Guam with 185 mph winds and more than 28 inches of rain, destroying two 16.5-meter antennas and damaging an 11-meter north antenna and the Inter Facility Link building at NASA’s station. The Zone of Exclusion reopened for the first time since 1998, cutting TDRS coverage to about 85% of a spacecraft’s orbit.
-
-NASA made emergency repairs to the least-damaged antenna and borrowed two mobile terminals from the U.S. Army to expand coverage. The patchwork restored partial service within months, in time for a November 2023 spacewalk.
-
-In early 2025, Congress dedicated disaster-relief funding to rebuild the ground station and harden the network against future storms. Construction began that summer and finished in summer 2026, when the rebuilt central antenna rejoined TDRS operations and the Zone of Exclusion closed once more. The same appropriation funded critical upgrades at three additionalNear Space Networkground stations.
-
-SCaN Deputy Program Manager for Network Operations
-
-At the ribbon-cutting, representatives from NASA’s SCaN (Space Communications and Navigation) Division joined the station’s workforce and local leaders to mark the central antenna’s return to service. The Guam team, which led debris removal, site security, and on-island recovery, was recognized for its  work to keep NASA connected to its missions through the outage and rebuild. A companion ceremony at NASA’s White Sands Complex in Las Cruces, New Mexico, honored the engineers and specialists across SCaN who supported the recovery off island.
-
-“The return to service of the Guam Remote Station’s central antenna represents far more than the restoration of a critical piece of infrastructure — it is a testament to the dedication, resilience, and ingenuity of the people who made it possible,” said Jena Garrahy, Deputy Program Manager for Network Operations. “Through long days, challenging conditions, and unexpected obstacles, this team remained focused on the missions that depend on these critical assets every day.”
-
-The Near Space Network is funded by SCaN, a division of NASA’s Research and Technology Mission Directorate, at the agency’s Headquarters in Washington. The network is operated out of NASA’s Goddard Space Flight Center in Greenbelt, Maryland. Repairs of the Guam Remote Station were managed out of NASA’s Glenn Research Center in Cleveland.
-
-Korine Powers, Ph.D. is a writer for NASA's SCaN (Space Communications and Navigation) Program office and covers emerging technologies, commercialization efforts, exploration activities, and more.]]></description>
   </item>
 </channel>
 </rss>
