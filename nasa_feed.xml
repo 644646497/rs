@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sun, 20 Sep 2026 02:42:20 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 10:22:30 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 September 20 – Analemma over the Callanish Stones</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-september-20-analemma-over-the-callanish-stones/</guid>
+    <pubDate>Sun, 20 Sep 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:If you went outside at the same time every day and took a picture that includedthe Sun, how would the Sun's position change? A visual answer to that question is ananalemma, a composite image taken from the same spot at the same time over the course of a year. Thefeatured analemmawas composed from images taken every few days at noon near the village ofCallanishin theOuter HebridesinScotland,UK. In the foreground are theCallanishStones, a stone circle built around 2700 BC during humanity'sBronze Age. It is not known if the placement of theCallanish Stoneshas or had astronomical significance. The ultimate causes for thefigure-8shape of this and all analemmas are thetilt of the Earth axisand theellipticityof theEarth's orbitaround theSun. At thesolstices, the Sun will appear at the top or bottom of an analemma. The featured image was taken near the December solstice and so the Sun appears near the bottom.Equinoxes, however, correspond to analemma middle points -- not theintersection point. In two days there will be anequinox("equal night"), when day and night are equal over all of planet Earth. Manycultures celebratea change of season at anequinox.APOD's main NASA site ismoving:Fromapod.nasa.govtoscience.nasa.gov/apodTomorrow's picture:open space]]></description>
+  </item>
   <item>
     <title>APOD: 2026 September 19 – A Zodiacal Night</title>
     <link>https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/</link>
@@ -175,19 +184,6 @@ Josh Finch / Jimi RussellHeadquarters, Washington202-358-1100joshua.a.finch@nasa
 Steven SiceloffKennedy Space Center, Fla.321-876-2468steven.p.siceloff@nasa.gov
 
 Sandra Jones / Joseph ZakrzewskiJohnson Space Center, Houston281-483-5111sandra.p.jones@nasa.gov/joseph.a.zakrzewski@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>NASA Unveils Enterprise, the First Space Shuttle</title>
-    <link>https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/</link>
-    <guid>https://www.nasa.gov/image-article/nasa-unveils-enterprise-the-first-space-shuttle/</guid>
-    <pubDate>Thu, 17 Sep 2026 15:22:42 +0000</pubDate>
-    <description><![CDATA[Fifty years ago, on Sept. 17, 1976—Constitution Day of America’s bicentennial year—NASA unveiled its first space shuttle orbiter, OV-101, to the public. NASA had originally planned to name the vehicle Constitution, but a letter-writing campaign changed the agency’s plans. Nearly 100,000 fans of theStar Trektelevision series wrote the White House urging that the shuttle be named after the USS Enterprise, the fictional starship featured in the series. In a memo, President Gerald Ford directed NASA to christen the shuttle Enterprise saying he was “partial to the name”. The name Enterprise, long celebrated in U.S. naval history, had earlier been bestowed on the first nuclear-powered carrier, a World War II carrier, and an American vessel of the Revolutionary War.
-
-Hundreds of invited guests attended the rollout ceremony at Rockwell’s Palmdale facility in southern California, includingStar Trekcreator Gene Roddenberry and several cast members. Pictured from left to right in this photo are NASA Administrator James C. Fletcher, DeForest Kelley (Dr. “Bones” McCoy), George Takei (Mr. Sulu), James Doohan (Chief Engineer Montgomery “Scotty” Scott), Nichelle Nichols (Lt. Uhura), Leonard Nimoy (Mr. Spock), series creator Gene Rodenberry, U.S. Rep. Don Fuqua (D.-Fla) and Walter Koenig (Ensign Chekov).
-
-Even though Enterprise was not designed to fly in space, it performed the essential atmospheric test flights that paved the way for the shuttle program’s first spaceflights in 1981. The orbiter is now on display at the Intrepid Museum in New York City.
-
-Learn more about the historic rollout of NASA’s first space shuttle.]]></description>
   </item>
 </channel>
 </rss>
