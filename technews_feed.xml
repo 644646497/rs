@@ -4,7 +4,26 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 22 Sep 2026 19:19:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 22:27:40 GMT</lastBuildDate>
+  <item>
+    <title>AI 成为新使用介面！高通阿蒙揭 Agent 落地化「两大关键」</title>
+    <link>https://technews.tw/2026/09/23/qualcomm-snapdragon-summit-2026/</link>
+    <guid>https://technews.tw/2026/09/23/qualcomm-snapdragon-summit-2026/</guid>
+    <pubDate>Tue, 22 Sep 2026 21:53:37 +0000</pubDate>
+    <description><![CDATA[高通Snapdragon高峰会2026于今（22日）正式登场，执行长阿蒙（Cristiano Amon）在主题演讲中分享对AI未来发展的观察。他指出，目前正从App时代转向助理（assistants）时代，进一步迈向Agent时代，现在是Agent时代的起点，而Snapdragon正是为这个时代而打造的平台。
+
+阿蒙观察，AI技术发展迅速，混合专家模型（Mixture of Experts）、协调器（orchestrators）以及全新模型持续演进，MCP协定也正在扩大应用，使Agent能迅速连接网际网路上的各种服务。同时，随著Agent发展，相关的技能也逐渐成形，这些技术也推动手机从传统智慧型手机走向AI智慧手机。
+
+在Agent时代，体验将从「意图」（intent）开始。阿蒙指出，AI成为全新的使用者介面（UI），能理解使用者的意图，并进一步由Agent代表使用者完成事情。这也意味著，权限与控制将变得非常重要，手机也成为Agent体验不可或缺的一环。
+
+阿蒙指出，现在装置必须同时支援两个不同面向，过去智慧手机体验主要建立在「使用者与装置互动」之上，使用者拿起手机、开启不同App、执行各种操作，由使用者发起互动，再由装置做出回应；如今体验是由Agent感知、理解使用者意图与情境脉络，进行推理、规划与记忆，并代表使用者采取行动。
+
+除了智慧型手机原本具备的功能之外，未来需具备存取个人知识库、安全且可控的权限设定，以及代表使用者采取行动的能力，同时支援持久性的情境上下文、即时推理与多模态能力。阿蒙指出，Agent不只是处理语言，也必须理解视觉、音讯，甚至物理AI所提供的输入。无论Agent是在装置端运行，还是内建于作业系统中，都必须跨越不同模型、App、服务与资料进行大量协调。
+
+此外，要让Agent真正发挥价值，最重要的关键之一就是「信任」。阿蒙认为，由于Agent将代表使用者采取行动，必须具备安全性与隐私保护，同时让使用者始终掌握控制权；另一项关键则是「无阻碍」（no friction），使用Agent必须比使用者自己亲自完成事情更加容易，否则使用者仍会选择拿起手机、解锁、开启不同App，再一步步完成操作。只有当Agent真正降低操作摩擦，才能为使用者创造价值。
+
+阿蒙也强调，AI智慧型手机只是整个个人AI生态系的一部分。随著其他装置逐渐成为个人AI装置，将在生态系统的不同环节中持续搜集情境脉络，让AI更了解使用者。最好的AI，不是要求使用者做更多，而是替使用者做更多，而且是「属于你自己的AI」；这也将成为AI智慧型手机以及新一代个人AI装置的发展方向。]]></description>
+  </item>
   <item>
     <title>告别残影，vivo 携手蔡司、攻运动抓拍与 HDR 人像</title>
     <link>https://technews.tw/2026/09/22/vivo-x500-camera/</link>
@@ -346,27 +365,6 @@ Patrick Wardle 指出，Meta 做出让漏洞利用手法得以成功的设计决
 要向外求救自然需要讯号，车辆配备了卫星通讯功能，把紧急联络功能拉到最顶。受困水中当然无法开门逃跑，因此车顶天窗可以完全开启，而且足以让成年男性穿越。另外一个配备可能跟逃生稍微无关，但等待救援时难免无聊，车上也配有 18L 冰箱和无线卡拉 OK 系统。
 
 显然这不是一台「战舰」，但它绝对称得上是一艘救生艇，可以跨越 8 米深的水域，应该足以对付这几年层出不穷的水患洪灾了。]]></description>
-  </item>
-  <item>
-    <title>Lightmatter 加入 Open CPX MSA，推出业界首款双向 CPX 光引擎</title>
-    <link>https://technews.tw/2026/09/22/lightmatter-passage-l20-cpx-bidi/</link>
-    <guid>https://technews.tw/2026/09/22/lightmatter-passage-l20-cpx-bidi/</guid>
-    <pubDate>Tue, 22 Sep 2026 07:35:22 +0000</pubDate>
-    <description><![CDATA[光子高效能运算（HPC）领导者Lightmatter今（21日）宣布加入Open CPX多源协议（Multi-Source Agreement，MSA），并推出Passage L20 CPX，为业界首款采用双向（BiDi）光链路技术、专为AI基础架构打造的Open CPX模组。
-
-此解决方案采用Lightmatter于今年3月发表的近封装光学（NPO）平台Passage L20光引擎，单一插槽式模组即可提供每秒6.4 terabits（Tbps）的频宽，同时将所需光纤与连接器数量减半。Lightmatter指出，Passage L20 CPX模组评估套件预计2027年第一季开始向客户出货。
-
-随著光纤正逐渐成为限制AI丛集建置速度的关键因素，传统链路使用一条光纤传送、另一条光纤接收；BiDi技术则为两个方向分别配置不同的光波长，将传送与接收整合於单一光纤。在一个512-GPU纵向扩展（scale-up）机柜组（pod）中，Lightmatter近期技术摘要的分析显示，客户可节省超过200英里的光纤，使pod的光纤数量从约13万条降至6.5万条，并减少约1.6万个连接器。连接器与缆线越少，潜在故障点也越少。这项缩减可节省约15%的scale-up互连网路总成本、加快部署速度，并简化光纤布线系统的维护及长期营运成本。
-
-Lightmatter创办人暨执行长Nick Harris表示，AI基础架构的扩展速度已超越铜互连所能因应的范围，而共同封装光学（CPO）正是解决方案。CPX是迈向CPO的起点，让光学元件、光纤与供应链现在就能进入量产，等到CPO导入时，最具挑战性的环节都已获得验证，这正是公司加入Open CPX MSA的原因。
-
-Nick Harris指出，Passage L20 CPX采用双向架构，可透过单一光纤进行传送与接收，使光纤需求减半。扩展至丛集规模后，这代表系统能更快完成启用、降低故障，并减少找出故障链路所需的时间。
-
-Dell’Oro Group副总裁Sameh Boujelbene表示，随著AI丛集持续scale up，限制因素正从运算本身转向周边的实体基础架构，包括电力、布线，以及让机柜组（pod）上线启用所需的时间。Open CPX MSA这类标准化推动，对于在广泛的多供应商生态系中推动近封装光学技术商业化至关重要。双向架构能在不牺牲频宽的情况下将光纤数量减半，可直接解决营运商立即面临的成本与复杂度问题。
-
-Open CPX MSA定义标准化的CPO/NPO模组外型规格，专为高频宽、低延迟的I/O所设计，能直接配置在紧邻主机ASIC、交换器或GPU的位置。模组可安装于PCB或基板上，因此此外型规格能因应不同的XPU与交换器电路板设计。可插拔系统的频宽密度受限于前面板面积；将NPO配置于XPU附近可移除此限制，在提高频宽密度的同时，相较于传统可插拔收发器亦能降低成本与功耗。
-
-Passage L20 CPX以Passage L-Series光引擎平台为基础，设计可提供12.8 Tbps总频宽（6.4 Tbps传送与6.4 Tbps接收），每个方向具备32条光通道，PAM4线路速率为212.5 Gbps。该模组采用MSA定义的Type 2单一RF+MP接点配置（pin field），透过单模光纤的传输距离可超过500公尺，遵循IEEE 802.3dj DR链路架构，并采用OIF-CMIS管理协定。模组支援O-band的1331 nm与1311 nm波长，可搭配Lightmatter Guide® DR雷射模组或其他相容的外部雷射光源。Passage L20亦提供XPO外型规格。]]></description>
   </item>
 </channel>
 </rss>
