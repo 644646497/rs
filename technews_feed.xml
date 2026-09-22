@@ -4,9 +4,177 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 22 Sep 2026 08:51:05 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 22 Sep 2026 15:49:34 GMT</lastBuildDate>
   <item>
-    <title>AI 与记忆体驱动，Q2 全球半导体营收创高 / 季增 31.4%</title>
+    <title>告别残影，vivo 携手蔡司、攻运动抓拍与 HDR 人像</title>
+    <link>https://technews.tw/2026/09/22/vivo-x500-camera/</link>
+    <guid>https://technews.tw/2026/09/22/vivo-x500-camera/</guid>
+    <pubDate>Tue, 22 Sep 2026 14:04:52 +0000</pubDate>
+    <description><![CDATA[vivo 昨日晚间于中国市场推出了 X500 系列机款，今日稍早针对了新系列机款影像技术分享。该公司认为，新系列机款除了升级感光元件与镜头等硬体，接下来计算摄影与动态捕捉也成为新战场。
+
+vivo 表示，手机摄影的价值已超越单纯的「拍得清楚」，更要在按下快门的瞬间，完美捕捉人物表情、动作与现场氛围。为此，vivo 持续深化与蔡司的合作，从光学系统、感光元件到演算法，全面进化行动影像实力。
+
+考量到手机机身的物理限制，vivo 指出，单靠加大感光元件无法解决所有影像难题，光学与计算摄影的软硬整合才是解方。双方的合作早已超越镜片或镀膜层次，而是进一步将光学、硬体与即时运算深度结合，大幅改善复杂光源与高速移动场景下的成像品质。
+
+其中「运动抓拍」将是新一代手机影像的重要战场，面对高速移动的主体，若等按下快门才处理影像，往往会错失最佳画面。因此，vivo 的新一代运动影像演算法会提前作动，主动辨识人物动作与移动轨迹，并从连续画面中精准撷取「动作最高峰」的瞬间。官方数据显示，这项新技术能让特定抓拍场景的成功率大幅提升约 50%，无论是拍摄儿童、宠物或运动赛事，都能更轻松地获得清晰照片。
+
+此外，vivo 也为对焦系统导入了预测能力。传统对焦仅能判断人物当下位置，容易在高速移动时失焦；新系统则会分析脸部特征与移动轨迹，预测主体接下来的位置并持续追焦。即使拍摄过程有人短暂穿越镜头前，或主体快速变换位置，系统依然能牢牢锁定原本的拍摄对象，减少焦点跳跃到背景的情况。这项技术不仅让对焦成功率再提升约 10%，也进一步强化了高帧率影像的追焦稳定度。
+
+除了运动抓拍，克服极端光线是另一项挑战。针对容易造成「人黑景曝」的逆光环境，新一代感光与计算摄影技术大幅拓展了动态范围，让高反差场景也能完美保留亮部与暗部细节。在人像摄影方面，vivo 持续与蔡司深度调校 24mm 与 85mm 等经典人像焦段，从肤色、色温、景深到背景虚化都更加自然。其人像演算法将不再是过去单纯的抹平式美颜，而是保留真实的皮肤纹理，并模拟光线穿透肌肤的柔和质感，呈现出最自然的通透肤色。
+
+这些顶尖技术也同步延伸至录影功能，新一代影像系统将 HDR、即时人像运算与主体追踪完美结合，在拍摄人物影片时，能即时处理脸部、背景与高反差光源，彻底解决逆光录影的曝光难题。
+
+vivo 认为，手机影像下一阶段的竞争，将不再只是感光元件尺寸、画素与镜头数量的硬体军备竞赛，而是转向光学、感光元件与计算摄影的全面整合；手机摄影真正需要解决的课题，是如何在使用者拿起手机的瞬间，大幅提高成功捕捉关键画面的机率。]]></description>
+  </item>
+  <item>
+    <title>Android、Gemini 交织成形，一窥 Googlebook 软体全貌</title>
+    <link>https://technews.tw/2026/09/22/googlebook-os-builds-on-the-android-tech-stack-and-pairs-with-desktop-foundations-from-chromeos/</link>
+    <guid>https://technews.tw/2026/09/22/googlebook-os-builds-on-the-android-tech-stack-and-pairs-with-desktop-foundations-from-chromeos/</guid>
+    <pubDate>Tue, 22 Sep 2026 13:59:21 +0000</pubDate>
+    <description><![CDATA[Googlebook 为现代人的实际使用方式而设计，仿效苹果 iPhone 与 MacBook 之间的整合体验，即使过去 Chromebook 有 Phone Hub 与快速启动等手机连线功能，但没有笔电能与 Android 手机密切整合，Googlebook 试图解决这个问题。
+
+Googlebook 内建的 Googlebook OS，以 Android 技术架构为核心，结合来自 ChromeOS 的基础，介面则是 Android 与 ChromeOS 的综合体。透过共用的底层架构，Googlebook 可以存取 Google Play 数百万款 Android 应用程式，使用熟悉的桌面环境、桌机等级的 Chrome 浏览器并支援扩充功能，还有完整的 Linux 环境。
+
+Googlebook 更是为 Gemini Intelligence 而打造，为使用者带来如 Magic Pointer、Rambler、Create My Widget 等新功能。
+
+Googlebook 的设计初衷，是为了与使用者的 Android 手机完美协作。使用者登入笔电后，原本的手机设定，已储存的密码、Wi-Fi 网路及讯息，都会同步到笔电上，接著就能在手机与笔电之间轻松切换。
+
+透过 Continue On 方式，直接在 Googlebook 上接续 Android 手机上未完成的工作。此外，用笔电直接开启应用程式，直接在笔电萤幕上处理事务，就不用分心查看手机。
+
+Because Googlebook is built on the Android tech stack, it’s a total game-changer for Android users. Your phone and laptop work together natively at the system level:
+
+・When you set up and sign in, what you need from your phone is already there – from passwords, contacts,…pic.twitter.com/ew1b10IesM
+
+— Sameer Samat (@ssamat)September 21, 2026
+
+▲ 使用者可在 Android 手机与 Googlebook 之间无缝切换使用。
+
+Googlebook 的智慧档案搜寻，根据提示内容直接寻找档案与照片，不需要从不知所云的档名里大海捞针。值得一提的是，透过 Googlebook 的 Files 应用程式，可以直接检视、搜寻并开启手机里的档案与照片，使用者不需要从手机将档案邮寄到笔电上。
+
+Gemini Intelligence 是把 Gemini 强大的运算能力，带到 Googlebook 以及 Pixel 手机、手表等装置上。装置端是采用 Gemini Nano 模型，并透过混合架构，驱动以下 Magic Pointer、Rambler 及 Create My Widget 三项新功能：
+
+快速晃动滑鼠游标，就能把 Gemini 直接带到工作视窗，随手选取画面内容就能提问、进行创作。Magic Pointer 这项功能是 Googlebook 上的创新尝试，令人印象深刻。
+
+Googlebook is designed for Gemini Intelligence with helpful AI features that no other platform has achieved.
+
+For example, with Magic Pointer, you can point at any on-screen element for instant context-aware suggestions. And with Rambler, you can turn your stream of…pic.twitter.com/Dwt0SqmDT9
+
+— Sameer Samat (@ssamat)September 21, 2026
+
+▲ 快速晃动滑鼠游标，就能把 Gemini 直接带到工作视窗。
+
+说出「Hey Google」就能唤醒 Gemini，而一般 AI 语音对话会一字不漏地记录使用者说出的所有话，包括结巴、说错话或者夹杂「呃」、「那个」等语气词。清理这些杂讯花费的时间，往往比直接用键盘打字还要长，但有了 Rambler 功能则不同，它能真正理解话语背后的语境与细微差异。
+
+Googlebook 内建的 Rambler 会将杂乱无章的口语内容转化成干净的文字，甚至将待办事项整理成条列式重点，还会加上适合的表情符号。而 Rambler 支援多种语言混合使用，使用者即使在说话中途切换语言，依然流畅无碍。
+
+Googlebook 上的 Create My Widget，让使用者不需要任何程式设计经验，可以用自然对话方式，打造客制化的小工具，大致是追踪心爱球队的赛事比分、或者为下次出游建立视觉化的倒数计时这样的程度。
+
+如果想要进一步，Googlebook 随附 AI Agent 开发平台 Antigravity，可直接在笔电上建立、测试并部署 AI 应用程式。
+
+值得一提的是，开发者还能进入完整的 Linux 终端机环境，执行像 Claude Code 或 Codex CLI 等工具，直接在 Googlebook 上进行正式的代理式 AI 程式开发。
+
+AI 功能虽是 Googlebook 的关键亮点，但这款笔电要实用、好玩、用得长久，海量的 Android 应用程式支援是必要的。
+
+使用者可在 Googlebook 存取 Android 应用程式，从工作必备的生产力软体与创意工具，到 Google Play 众多游戏与娱乐内容，都能在 Googlebook 搞定。使用者可以使用如 Adobe Premiere、Adobe Photoshop、BandLab、Netflix 等应用程式。由于首批 Googlebook 搭载触控萤幕，除使用滑鼠键盘外，也能以手指触控萤幕，便于使用某些应用程式。
+
+此外 Google 指出，购机附赠一年份 GeForce NOW 会员，可玩 3A 游戏大作。
+
+Google 特别指出，可在 Googlebook 透过 Microsoft 365 应用程式，开启、编辑、下载及储存 Microsoft Word、Excel、PowerPoint 及 Outlook 的档案。这方面的操作体验是透过 Android 版本，基本文书功能应该足够，但与 Windows 版本可能会有落差，文书处理能力、加上上述 3A 游戏体验，有待实机测试好好感受。
+
+最后 Google 强调，Googlebook 将会获得定期的功能推送与软体更新，最长可达 10 年，比照 Chromebook 的支援承诺。
+
+Android 的主导地位加上 AI 的兴起，两大概念交织成了 Googlebook，以此建构 Googlebook 生态系，从晶片、电脑制造商甚至是手机制造商，以满足其作业系统对硬体规格的要求。此外，Googlebook 定位与 Chromebook 大相同，后者预期延续至 2030 年。
+
+初步来看，Googlebook 应该会是一款 Android 玩家喜爱的产品，与手机有深入连结，而 Gemini 使用者也能在这款笔电有更多体验。]]></description>
+  </item>
+  <item>
+    <title>韦伯发现最轻棕矮星，仅木星两倍质量</title>
+    <link>https://technews.tw/2026/09/22/webb-discovers-lightest-brown-dwarf-yet/</link>
+    <guid>https://technews.tw/2026/09/22/webb-discovers-lightest-brown-dwarf-yet/</guid>
+    <pubDate>Tue, 22 Sep 2026 13:48:16 +0000</pubDate>
+    <description><![CDATA[詹姆斯·韦伯太空望远镜公布了一幅恒星诞生的全景影像，呈现距离地球约 1,000 光年的恒星形成区 IC 348。研究团队深入观测这个区域，发现了目前已知质量最低的棕矮星，质量仅为木星的两倍，约相当于太阳质量的 0.19%。
+
+棕矮星像恒星一样由气体云塌缩形成，核心却不够热，无法持续进行氢核融合；它们的质量虽然可能与行星相近，但行星通常是在年轻恒星周围的气体与尘埃盘中形成，形成方式也是这项研究区分两者的关键。这些小天体的发现，挑战了现有的恒星形成模型，也带出一个问题：气体云究竟能塌缩成多小的天体？
+
+团队还在其中一颗棕矮星周围找到可能孕育行星的盘状结构迹象，并在这类极低质量天体的大气光谱中发现可能来自碳氢化合物的特征。这张全景也捕捉到新生恒星及其喷流撞击周遭气体与尘埃的景象，呈现这座「恒星育婴室」的多样面貌。
+
+▲ 韦伯太空望远镜拍下距离地球约 1,000 光年的恒星形成区 IC 348，呈现繁星散布在大片云气中的景象。研究团队深入观测这个区域，发现质量仅为木星两倍的棕矮星，为「恒星形成过程究竟能孕育出多小的天体」带来新线索。
+
+IC 348 位于英仙座，是一座邻近的「恒星育婴室」。在这类区域中，冰冷的氢分子气体云逐渐塌缩，形成新恒星，也塑造出影像里发光、轮廓鲜明的云气。这个过程能孕育出差异极大的天体：大质量恒星可能只活数百万年，就以核心塌缩引发的超新星爆炸结束一生；质量最小、数量也最多的恒星，则能存活很久，并爆发强烈的闪焰。质量最小的恒星约有太阳质量的 8%，低于这个门槛，就进入棕矮星的世界。
+
+棕矮星同样由分子云塌缩形成，但核心始终不够热，无法像恒星那样持续将氢融合成氦；不过，许多棕矮星在生命早期仍会短暂进行氘，也就是重氢的核融合。棕矮星的质量下限究竟在哪里，至今仍不清楚。为了寻找答案，研究团队早在 2022 年就曾利用韦伯观测 IC 348，发现质量低至木星三至四倍的棕矮星，之后再以更深入的观测，寻找质量更低的成员。
+
+研究团队先在 2024 年使用韦伯的近红外线相机，拍下年轻棕矮星与新生恒星发出的光，制成这张影像，并根据颜色与亮度，挑出可能是棕矮星的天体。到了 2025 年，他们再用近红外线光谱仪，把这些天体的光依波长分开，从中取得估算质量的线索，最后找到质量仅为木星两倍的棕矮星，刷新已知棕矮星的最低质量纪录。更令人意外的是，其中一颗质量最低的棕矮星周围，可能还有一圈盘状物质，暗示它虽然只有行星等级的质量，却仍可能孕育自己的行星。
+
+此外，研究团队也在棕矮星的光中找到一种特殊的「化学指纹」，推测来自大气中的碳氢化合物，也就是只由碳和氢组成的分子。目前，天文学家只在质量最低的棕矮星上观测到这种指纹。这暗示它们的大气可能具有独特性质，未来或许能据此在棕矮星的光谱分类中另立一类。
+
+▲ 除了研究团队关注的棕矮星，韦伯拍下的 IC 348 全景还包含许多值得细看的景象，甚至能看见更遥远的背景星系。这张局部放大拼图以中央上方的全景标示各区位置：1. 藏在云气中的恒星；2. 中央星团；3. 微弱的物质外流；4. 新生恒星喷出的高速物质撞击周遭气体与尘埃后留下的发光痕迹；5. 背景天体的光受到重力透镜效应扭曲的景象；6. 遥远的螺旋星系。]]></description>
+  </item>
+  <item>
+    <title>不是冰冷机器人音，Neuralink 让失语渐冻症患者用昔日嗓音「发声」</title>
+    <link>https://technews.tw/2026/09/22/elon-musk-neuralink-voice-brain-implant-terry/</link>
+    <guid>https://technews.tw/2026/09/22/elon-musk-neuralink-voice-brain-implant-terry/</guid>
+    <pubDate>Tue, 22 Sep 2026 09:47:28 +0000</pubDate>
+    <description><![CDATA[2026 年 9 月中旬，社群媒体疯传一段影片，一名男性完全没动嘴唇发出任何声音，但一道电脑合成语音清清楚楚说出 3 个字：「我爱你」。这不是魔术表演，而是马斯克旗下脑机介面公司 Neuralink 震撼全球的最新公开展示。
+
+影片主角名为 Terry，2024 年确诊罹患肌萎缩性脊髓侧索硬化症（ALS，俗称渐冻症）后，病情逐渐剥夺他的语言能力，到 2026 年初，Terry 几乎已无法完整说完一句话，讲电话都相当吃力。
+
+渐冻症患者的意识、思考能力、感官知觉（视觉、听觉、触觉）通常不受影响，但肌肉会因神经系统的渐进性损伤逐渐萎缩无力，最后连话都说不出口，常被形容是最残酷疾病之一：心智清醒，却被困在一具逐日无法动弹的身体里。
+
+后来 Terry 接受成为 Neuralink 公司 VOICE 临床试验计划第 3 位参与者，该试验目标是验证无线 N1 植入装置能否将大脑中「意图说话」相关的神经讯号，转译成文字或可听见的语音。
+
+设备运作方式是把电极线植入大脑中语言相关皮质区域，即时撷取神经讯号，并透过软体即时解码成音位再组合成完整单字，最后以电脑合成语音「念」出来，基本路径可理解为：大脑讯号→N1 植入物→外部解码软体→组成单字→合成语音。
+
+本月中旬，网路社群传开一段影片，影片开头 Terry 先发出单音节，接著闭紧嘴唇，几秒后，外部装置清晰发出一句话及电脑合成语音：「I Love you（我爱你）」。
+
+这道合成出来的声音不是机器人音，而是 Neuralink 用 Terry 生病前留下的录音资料，训练出一套专属他个人的文字转语音模型，尽可能重建他生病前原本嗓音，也就是说，在一旁听著这句话的 Terry 妻子就像听到丈夫用原本声音开口了。
+
+虽然从 Terry 产生「意图」到系统实际发出声音，之间存在数秒钟延迟，代表这套系统距离「即时、流畅对话」还有一段差距，且该影片本质上是「展示性里程碑」，并没有正式发表的临床试验结果，但已展现脑机介面产品终极目标——对失去声音的人来说，能再次用语音表达情感、个人讯息已是人生一大转机。
+
+（首图来源：Speaking With The Mind | Neuralink 影片截图）]]></description>
+  </item>
+  <item>
+    <title>财政部：违法携带电子烟入境，将加重处罚</title>
+    <link>https://technews.tw/2026/09/22/ministry-finance-increased-penalties-illegal-e-cigarette-import/</link>
+    <guid>https://technews.tw/2026/09/22/ministry-finance-increased-penalties-illegal-e-cigarette-import/</guid>
+    <pubDate>Tue, 22 Sep 2026 09:40:21 +0000</pubDate>
+    <description><![CDATA[为提高吓阻不法效果，财政部发布修正新规，增订电子烟等类烟品或其组合元件排除适用进口货物完税价格未逾新台币 5,000 元免罚规定，同时宣布将赋予较高裁罚倍数，以打击私运、收买及逃避管制等不法行为。
+
+财政部今天公布修正《海关缉私案件减免处罚标准》第四条，增订类烟品或其组合元件排除适用进口货物完税价格（出口货物离岸价格）未逾5,000元免处罚锾规定。
+
+财政部关务署副署长赵台安于例行记者会说明，类烟品或其组合元件已遭滥用为新兴毒品的吸食工具，对社会治安造成高度威胁。关务署统计，去年海关共查获电子烟案1,346件，包括12万支电子烟本体，与3.3万件电子烟烟油、烟弹；今年前8月则查获726件，包含3.5万支电子烟本体，以及4万件电子烟烟油、烟弹。
+
+赵台安表示，海关为配合行政院阻绝新兴电子烟泛滥的政策目标，增订类烟品或其组合元件排除适用进口货物完税价格未超过5,000元免处罚锾规定。同时将研拟于「缉私案件裁罚金额或倍数参考表」增订涉案货物为类烟品或其组合元件的违章情形，赋予较高的裁罚金额或倍数，以打击这类货物相关私运、收买及逃避管制等不法行为。
+
+官员说明，类烟品或其组合元件违章情形的裁罚倍数将高于毒品或枪械、子弹、事业用爆炸物以外的一般管制物品，举例来说，若违反海关缉私条例第36条私运货物规定，将处货价1.5倍罚锾；若涉及第37条虚报等情事，亦处货价1.5倍罚锾。
+
+若旅客出入国境违规携带类烟品或其组合元件，官员说明，依海关缉私条例将没入货物；实务作法面，将移送给户籍地地方政府卫生局，依烟害防制法最低可处5万元罚锾。
+
+关务署强调，海关将持续严格把关非法类烟品或其组合元件入境，并运用官方网站、社群媒体及入境大厅置放告示牌等方式多元宣导，提醒民众注意。吁请民众切勿因自用、餽赠或代购而违法购买或携带这类货物入境，以免因违规遭受重罚。
+
+（作者：吕晏慈；首图来源：Flickr/Ecig ClickCC BY 2.0）]]></description>
+  </item>
+  <item>
+    <title>嘉晶今年营收拚增逾 35%，AI 营收占比冲三成、明年上看四成</title>
+    <link>https://technews.tw/2026/09/22/jasic-revenue-growth-35-ai-share-30-this-year-40-next-year/</link>
+    <guid>https://technews.tw/2026/09/22/jasic-revenue-growth-35-ai-share-30-this-year-40-next-year/</guid>
+    <pubDate>Tue, 22 Sep 2026 08:53:48 +0000</pubDate>
+    <description><![CDATA[受惠 AI 资料中心带动功率元件与矽光子需求成长，磊晶厂嘉晶总经理温锦祥表示，AI 带动的需求并非短期景气循环，而是产业结构性变化，功率元件与矽光子将成为未来几年成长双引擎。公司预估今年全年营收年增超过 35%，下半年营收与获利均将优于上半年，AI 相关营将今年将提升至 30%、2027 年超过 40%。
+
+今法说会，嘉晶第二季营收约 13.09 亿元，季增 23.6%，税后净利达 1.87 亿元，每股盈余 0.65 元；8 月合并营收约 5.07 亿元，年增 57.79%，累计前 8 月营收 33.56 亿元，年增 34.73%。随著产能利用率提升、产品售价调整及部分矽光子新增产能贡献，公司看好下半年营运持续成长。
+
+在矽磊晶方面，温锦祥表示表示，受惠 AI 伺服器 PMIC 及 MOSFET 需求增加，8 吋产能目前维持满载、供不应求，上半年 8 吋产品营收占比已由去年同期的 59% 提升至 71%，相关 PMIC 与 MOSFET 产出量年增约 50%。公司持续加速设备装机，新增产能预计明年起陆续开出，以满足客户未来一至两年的需求。
+
+针对市场关注的涨价议题，温锦祥表示，嘉晶已自第三季开始调整部分产品价格，主要反映原物料及各项费用上升，调整效益将逐步反映于下半年营收与获利。不过，此次并非全面统一涨价，而是依不同客户及产品类别，评估客户成本吸收能力后个别调整，并未设定一致的涨幅，明年是否进一步调价仍将视市场情况而定。
+
+化合物半导体方面，GaN 业务持续改善，6 吋产能目前满载，客户需求超过现有供应能力，上半年已转亏为盈，8 吋产品则开始小量生产。SiC 方面，随日本 IDM 客户自第二季开始放量，产能利用率逐步改善，相关亏损已大幅缩小，公司将持续争取中国以外市场的供应链需求。
+
+矽光子则是嘉晶另一项成长动能。公司锗矽（Ge/Si）光侦测器（PD）磊晶已通过国际客户验证并进入量产，主要应用于 800G 及 1.6T 可插拔式光模组。嘉晶预估，相关业务下半年有机会成长 2.5 倍，年底月营收占比可达 3% 至 5%，明年产能则有机会扩大至目前的 3.5 至 4 倍。
+
+徐建华进一步指出，目前矽光子客户需求能见度已延伸至 2028 年，现有产能可满足的需求仍不到一半，即使依目前扩产计划推进，仍无法完全满足客户需求。公司上半年资本支出约 9 亿元，相关设备投资效益主要将于 2027 年至 2028 年逐步显现，未来也不排除与客户讨论新一波扩产计划。]]></description>
+  </item>
+  <item>
+    <title>AI 与记忆体驱动，Q2 全球半导体营收创高／季增 31.4%</title>
     <link>https://technews.tw/2026/09/22/global-semiconductor-revenue-hits-record-high-in-q2/</link>
     <guid>https://technews.tw/2026/09/22/global-semiconductor-revenue-hits-record-high-in-q2/</guid>
     <pubDate>Tue, 22 Sep 2026 08:50:43 +0000</pubDate>
@@ -25,15 +193,33 @@
 （本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>8 月外销订单 1,029 亿美元创新高，年增 71% 连 19 红</title>
+    <title>8 月外销订单首破千亿美元，经部估全年挑战 1.1 兆美元</title>
     <link>https://finance.technews.tw/2026/09/22/august-export-orders-102-9-billion-record-high-71-percent-yoy-increase-19-consecutive-months-growth/</link>
     <guid>https://finance.technews.tw/2026/09/22/august-export-orders-102-9-billion-record-high-71-percent-yoy-increase-19-consecutive-months-growth/</guid>
     <pubDate>Tue, 22 Sep 2026 08:40:15 +0000</pubDate>
-    <description><![CDATA[人工智慧（AI）需求强劲，经济部今天公布 8 月外销订单为 1,029.6 亿美元，创历年单月新高，年增 71.4%，连 19 红。
+    <description><![CDATA[经济部今天公布 8 月外销订单 1,029.6 亿美元，首度突破单月千亿美元大关，年增 71.4%。经济部统计处长黄伟杰表示，9~12 月有高机率维持单月千亿美元的水准，今年全年外销订单估计有望挑战 1.1 兆美元。
 
-累计今年前8月外销订单为7,049.9亿美元，写下历年同期新高，年增55%。
+8月外销订单金额1029.6亿美元，年增71.4%，连19红，并优于预期，累计今年前八月外销订单达7,049.9亿美元，年增55%，创下历年同期新高。
 
-按货品别观察，受惠AI浪潮带动新兴科技应用商机持续热络，带动资讯通信及电子产品订单成长，8月接单分别年增100.5%、83.9%；光学器材因面板需求续居低档，惟光学检测及量测设备受惠AI订单续增，抵销部分减幅，8月接单年减5%。]]></description>
+黄伟杰指出，8月订单表现优于预期，主要是AI供应链持续推升，除了AI伺服器，原先未预期到的因素是美国大型云端服务业者（CSP）自研ASIC晶片需求增加，有利于国内IC设计业者切入相关供应链，推升8月IC设计接单表现。
+
+至于订单表现是否受到手机新品备货潮的影响，黄伟杰表示，目前AI仍是外销订单成长主要动能，至于品牌新机备货也有一定影响，不过今年新品机种组合与去年不同，量产及出货时序也有所差异，目前仍在观察对接单的实际带动效果。
+
+观察主要货品表现，8月资讯通信产品订单342.1亿美元，年增100.5%；电子产品订单457.5亿美元，年增83.9%，受惠AI、高效能运算等新兴应用加速，带动IC制造、晶片通路、IC设计及记忆体等接单增加，其中以美国增加67.4亿美元、东协增加55.6亿美元较多。
+
+黄伟杰指出，累计今年前8月，资讯通信产品接单金额达2476.2亿美元，电子产品达2963.1亿美元，2大类别接单金额均已超越去年全年规模，提前刷新历年全年纪录。
+
+传统货品部分，基本金属制品订单23.4亿美元，年增26.8%，主要受惠铜箔、铜箔基板的AI供应链需求及铜价上涨，加上镀锌钢需求回温；机械产品订单22.1亿美元，年增28.3%，主要受惠AI需求强劲及半导体业者增加资本支出，带动半导体设备、自动化设备需求。
+
+光学器材订单19.7亿美元，年减5%，主要因面板需求仍低迷，不过光学检测及测量设备受惠AI订单增加，抵销部分减幅；塑橡胶制品订单14.9亿美元，年增6.7%，化学品订单16.3亿美元，年增15.4%。
+
+主要接单地区方面，美国订单421.3亿美元，年增88.9%，创下历年新高；中国及香港163.9亿美元，年增47.7%；欧洲109.6亿美元，年增58.2%；东协183.5亿美元，年增70.5%。
+
+统计处表示，8月外销订单海外生产比45.7%，较上年同月上升2.3个百分点，主要受到高海外比的资讯通信产品接单金额增加所致。黄伟杰说明，随著台湾AI供应链及半导体业者持续全球布局，预估今年海外生产比将较去年47.1%微幅上升。
+
+展望未来，黄伟杰表示，接下来从9月到年底，单月外销订单有蛮高机率维持千亿美元水准，务实推估今年全年外销订单金额将上看1.1兆美元。
+
+经济部预估，9月外销订单介于1,060亿至1,091亿美元，年增50.7%~55.1%；第三季外销订单预估为3,069亿至3,100亿美元，年增60.7%~62.4%。若按此预估，累计今年前九月外销订单将达8,109.9亿至8,140.9亿美元，提前刷新全年新高。]]></description>
   </item>
   <item>
     <title>华为升腾 900 系列限量供给少数国家，因中芯国际产能无法提高</title>
@@ -101,17 +287,17 @@ Anthropic、OpenAI及Google DeepMind员工也曾公开提出类似问题，部�
     <link>https://technews.tw/2026/09/22/qualcomm-snapdragon-x-googlebook/</link>
     <guid>https://technews.tw/2026/09/22/qualcomm-snapdragon-x-googlebook/</guid>
     <pubDate>Tue, 22 Sep 2026 07:57:31 +0000</pubDate>
-    <description><![CDATA[高通今（21日）宣布与Google合作，将Snapdragon X Elite平台导入首批Googlebook笔记型电脑。此次合作结合Snapdragon X Elite领先的效能、功耗效率与AI能力，以及内建Gemini Intelligence的Googlebook，提供主动且个人化协助。
+    <description><![CDATA[高通21日宣布与Google合作，将Snapdragon X Elite平台导入首批Googlebook笔记型电脑。此次合作结合Snapdragon X Elite领先的效能、功耗效率与AI，以及内建Gemini Intelligence的Googlebook，提供主动且个人化协助。
 
 高通指出，此全新的顶级笔记型电脑产品类别，可与搭载Snapdragon行动平台的Android手机和平板电脑实现跨装置体验，并支援原生Android应用程式与游戏，打造无缝的个人运算生态系。
 
 高通资深副总裁暨运算与游戏部门总经理Kedar Kondap表示，Snapdragon X Elite领先的AI能力已彻底改变个人运算，并为更智慧、更个人化且更具生产力的体验创造全新可能。Snapdragon X Elite不仅提供卓越效能与能效，更结合对原生Android应用程式与游戏的支援，将相关体验带给Googlebooks使用者。
 
-其中，戴尔与惠普是首批推出搭载Snapdragon X Elite的Googlebooks机种的OEM厂商，相关产品现已开放预购。
+戴尔与惠普是首批推出搭载Snapdragon X Elite的Googlebooks机种的OEM厂商，相关产品现已开放预购。
 
-搭载Snapdragon X Elite的Googlebook笔记型电脑，结合Google Gemini与Snapdragon X Elite卓越的效能、能效与连接能力。Googlebook亦提供流畅的手机整合与进阶安全功能，协助使用者在不中断工作流程的情况下提升生产力，并以原生Android应用程式为基础，让使用者几乎随处都能享有连网、智慧且安全的运算体验。全球Android生态系让使用者能在搭载Snapdragon的平台上进行创作、学习，甚至畅玩游戏，
+搭载Snapdragon X Elite的Googlebook笔记型电脑，结合Google Gemini与Snapdragon X Elite卓越的效能、能效与连接能力。Googlebook亦提供流畅的手机整合与进阶安全功能，协助使用者在不中断工作流程的情况下提升生产力，并以原生Android应用程式为基础，让使用者几乎随处都能享有连网、智慧且安全的运算体验。全球Android生态系让使用者能在搭载Snapdragon平台创作、学习，甚至畅玩游戏。
 
-高通指出，搭载Snapdragon X Elite的Googlebook装置可提供全日电池续航力、强大效能与主动式智慧，并可与Android装置无缝跨装置连接，同时带来由Snapdragon NPU驱动的工具，以及支援数千款原生Android应用程式与游戏。
+高通指出，搭载Snapdragon X Elite的Googlebook装置可提供全日电池续航力、强大效能与主动式智慧，并可与Android装置无缝跨装置连接，同时带来Snapdragon NPU驱动的工具，以及支援数千款原生Android应用程式与游戏。
 
 Google笔电、平板与Android Enterprise业务副总裁暨总经理John Solomon指出，Googlebook是一个全新的笔记型电脑产品类别，专为与使用者日常仰赖的Android装置无缝协作而设计。透过与高通的合作，Snapdragon X Elite提供实现此一生态系所需的卓越效能、全日电池续航力与卓越的NPU能效，支援原生Android应用程式、流畅的跨装置连接，以及直觉的Gemini Intelligence功能，协助使用者维持生产力与工作节奏。]]></description>
   </item>
@@ -130,7 +316,7 @@ Meta 对 Muse 的设计方式，让任何在地端安装的应用程式或执行
 
 一般而言，这个端点位置是一个由 Meta 营运的伺服器位址。攻击者可利用这个弱点，将位置改成自己的端点，便能取得那组完全掌控 Muse 帐号的 token。
 
-「我们可以操控这个 AI Agent，并利用它拥有的各项权限去做任何我们想做的事。」发现零时差漏洞的 macOS 资安专家 Patrick Wardle 告诉外媒 Ars Technica，「我们不必去写一套非常全面的 Mac 恶意程式，只要直接利用这个 AI Agent 本身就行了。」他表示已发现出多项概念验证攻击，能做到诸如将恶意档案写入磁碟、拍摄照片等行为，而且就连一位保持警觉的使用者也不会察觉到任何迹象。
+「我们可以操控这个 AI Agent，并利用它拥有的各项权限去做任何我们想做的事」，发现零时差漏洞的 macOS 资安专家 Patrick Wardle 告诉外媒 Ars Technica，「我们不必去写一套非常全面的 Mac 恶意程式，只要直接利用这个 AI Agent 本身就行了」，他表示已发现出多项概念验证攻击，能做到诸如将恶意档案写入磁碟、拍摄照片等行为，而且就连一位保持警觉的使用者也不会察觉到任何迹象。
 
 Patrick Wardle 是 Objective-See Foundation 的创办人，这是一家专注于 macOS 资安的非营利组织，曾任职于美国的太空总署与（NASA）国家安全局（NSA）。他计划在 11 月自家举行的资安大会，更详细地讨论这个漏洞及对 AI Agent 带来的威胁。
 
@@ -181,124 +367,6 @@ Dell’Oro Group副总裁Sameh Boujelbene表示，随著AI丛集持续scale up�
 Open CPX MSA定义标准化的CPO/NPO模组外型规格，专为高频宽、低延迟的I/O所设计，能直接配置在紧邻主机ASIC、交换器或GPU的位置。模组可安装于PCB或基板上，因此此外型规格能因应不同的XPU与交换器电路板设计。可插拔系统的频宽密度受限于前面板面积；将NPO配置于XPU附近可移除此限制，在提高频宽密度的同时，相较于传统可插拔收发器亦能降低成本与功耗。
 
 Passage L20 CPX以Passage L-Series光引擎平台为基础，设计可提供12.8 Tbps总频宽（6.4 Tbps传送与6.4 Tbps接收），每个方向具备32条光通道，PAM4线路速率为212.5 Gbps。该模组采用MSA定义的Type 2单一RF+MP接点配置（pin field），透过单模光纤的传输距离可超过500公尺，遵循IEEE 802.3dj DR链路架构，并采用OIF-CMIS管理协定。模组支援O-band的1331 nm与1311 nm波长，可搭配Lightmatter Guide® DR雷射模组或其他相容的外部雷射光源。Passage L20亦提供XPO外型规格。]]></description>
-  </item>
-  <item>
-    <title>美拟向白俄采购钾肥、降低对加依赖  肥料股挫</title>
-    <link>https://finance.technews.tw/2026/09/22/us-plans-to-buy-potash-from-belarus-fertilizer-stocks-slide/</link>
-    <guid>https://finance.technews.tw/2026/09/22/us-plans-to-buy-potash-from-belarus-fertilizer-stocks-slide/</guid>
-    <pubDate>Tue, 22 Sep 2026 07:30:37 +0000</pubDate>
-    <description><![CDATA[美国总统川普表示，美国正与白俄罗斯协商采购钾肥，价格可望大幅低于目前向加拿大采购，市场预期钾肥供应增加可能使价格承压，Nutrien、CF Industries 等肥料股应声下挫。
-
-Barron’s报导，川普在Truth Social发文表示，美国正在与白俄罗斯协商采购钾肥（potash），并称采购价格将「大幅低于」目前支付给加拿大的价格，对美国农民及牧场主而言将是好消息；钾肥是生产肥料的重要原料。
-
-加拿大目前供应美国农场使用的约80%的钾肥，美加贸易战持续之际，川普此举可能有助美国降低对加拿大钾肥的依赖；钾肥价格自2022年俄乌战争爆发后已大幅上涨。
-
-不过，这项潜在协议细节仍不明，包括美国可能向白俄罗斯采购多少钾肥、白俄罗斯有多少供应量可供出口均不清楚。
-
-钾肥与氮肥、磷肥同为农业生产的重要肥料，广泛用于玉米、小麦和黄豆等作物。近期美伊冲突一度推升肥料股，主因荷莫兹海峡封锁，使约全球三分之一的海运肥料贸易面临风险，供应中断疑虑也推升肥料价格。
-
-投资人担忧额外供应进入美国市场，使肥料股承压；美国氮肥和磷肥产品大厂CF Industries、加拿大肥料巨头Nutrien等肥料商股价21日同步下挫。
-
-美国农业部于7月初宣布提供至少5亿美元资金，协助扩大国内肥料产能，以降低对进口依赖、减轻农民生产成本压力。
-
-美加贸易关系持续紧张，双方谈判破局后，美国政府自8月起对价值约276亿美元的加拿大商品加征50%关税，加国也自9月初对美国实施「一美元对一美元」的等额报复性关税。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Unsplash）]]></description>
-  </item>
-  <item>
-    <title>排挤效应限缩颗粒供给带动价格走扬，2025 年 DRAM 模组厂营收年增达 59%</title>
-    <link>https://technews.tw/2026/09/22/crowding-out-effect-restricts-chip-supply-drives-prices-up-dram-module-makers-59-revenue-increase-2025/</link>
-    <guid>https://technews.tw/2026/09/22/crowding-out-effect-restricts-chip-supply-drives-prices-up-dram-module-makers-59-revenue-increase-2025/</guid>
-    <pubDate>Tue, 22 Sep 2026 07:20:45 +0000</pubDate>
-    <description><![CDATA[根据 TrendForce 统计，受到 2025 年下半年价格上涨及 DRAM 模组厂集中出货带动，全球 DRAM 模组市场整体营收达 212 亿美元，强劲年增 59%，较 2024 年的 7% 大幅加速。
-
-回顾2025年的DRAM市场动态，上半年及下半年落差巨大。上半年而言，为了应对关税政策与原厂的DDR4 EOL规划，部分模组厂于第二季起积极建立较高的DDR4颗粒库存水位，并供应PC OEM等消费性电子应用在关税政策下的提前拉货需求。自2025年下半年起，北美及中国CSPs因应Agentic AI应用的general server算力建置需求，对server DRAM采购扩大，排挤原厂对PC及consumer DRAM颗粒的供应，推升整体DRAM价格进入涨势。在模组出货量与价格同步成长下，各模组厂雨露均沾，2025年下半年营收表现普遍大幅优于上半年。
-
-由于所在市场区块及经营策略不同，各模组厂的营收增幅有所差异，整体而言，考量客户的长期需求成长、及对记忆体价格波动的支付能力，模组厂普遍更加积极开拓工控、企业级server产品线，并皆已因应产品世代升级、在下半年将DDR5调整为主要产品线。
-
-2025年全球前5大模组厂占整体营收77%，前9大则囊扩整体营收的81%。龙头厂商Kingston的市占为62%，稳居领先地位。Kingston凭借最大的采购规模，于2024至2025年建立充裕库存，在下半年价格转强时，积极出货供应通路市场，带动全年营收年增48%。
-
-ADATA排名第二，2025年DRAM营收年增82%，在下半年上游供给转紧、模组价格走扬后，ADATA于先前循环中累积的低成本库存成为其放大获利的关键，并持续透过与原厂合作取得相对稳定的颗粒货源配置，后续策略重点为中低容量RDIMM业务的拓展。
-
-排名位居第三的Ramaxel以PC OEM及CSP的战略合作业务作为经营重心，2025年营收年增153%，为榜单中增幅最高者，主要在PC模组的基础上，进一步拓展与国产颗粒供应商及CSP的RDIMM战略合作，在国产RDIMM供应链的规模扩大及品质提升中扮演关键角色。
-
-Kimtigo排名第四，2025年营收年增20%。Kimtigo深耕中国内需市场，产品线横跨消费、工控与企业级，并于下半年DRAM供给逐步紧缩时积极拓销OEM客户。Team Group方面，面对下半年价格急速上涨，Team Group积极供应北美通路市场的DDR5需求，营收于2025年排名第五。
-
-Patriot Memory 2025年借由消费、电竞、工控、边缘运算等多元布局，乘下半年DRAM供不应求之势，推动营收表现大幅成长89%，排名第六。Innodisk专注于工控市场，2025年营收大幅年增132%，除涨价因素外，Edge AI专案的成长动能亦逐步放大，于2025年排名第七。
-
-Apacer排名第八，2025年DRAM营收年增96%。Apacer深耕工控市场，面对DDR4 EOL与下半年供需失衡加剧的环境，公司自第二季起即著手确保料源以支应工控客户需求，亦将价格上行动能转化为实质营运成果。AGI排名第九，2025年DRAM营收年增26%，以自有品牌经营消费零售市场，并以跨境电商作为海外拓展的主要途径，销售范围涵盖日本、欧洲与美国。]]></description>
-  </item>
-  <item>
-    <title>阿里巴巴发表新一代 AI 晶片，性能达前代三倍</title>
-    <link>https://technews.tw/2026/09/22/v900-alibaba/</link>
-    <guid>https://technews.tw/2026/09/22/v900-alibaba/</guid>
-    <pubDate>Tue, 22 Sep 2026 07:10:50 +0000</pubDate>
-    <description><![CDATA[中国科技巨头阿里巴巴推出一款据称「性能最强国产 AI 晶片」真武 V900，并宣布进一步扩大 AI 基础设施投入，力争在 2032 年将阿里云全球资料中心规模提升至 20 吉瓦以上。
-
-综合每日经济新闻、观察者网等中媒报导，阿里巴巴集团首席执行长吴泳铭今天在杭州发表新一代AI晶片真武V900。
-
-吴泳铭说，这款由集团旗下晶片部门「平头哥」开发的产品性能达到上一代产品M890的3倍，可组成规模多达50万颗晶片的集群，用于训练先进模型，预计未来几年平头哥AI晶片的年出货量将大幅提升。
-
-吴泳铭说，客户对AI的需求非常强劲，集团将全力投入基础设施建设，目标是到2032年阿里云的全球资料中心规模超过20吉瓦，以应对预计将呈指数级增长的AI需求。他表示，阿里巴巴将持续投入AI模型、晶片和云端运算。阿里巴巴计划开发一个拥有5兆至10兆参数的模型，规模远超当前常见模型，以处理耗时更长、更复杂的任务。
-
-阿里巴巴是中国主要科技企业AI投入规模最大的公司之一，已承诺在3年内投入逾3,800亿人民币（约合新台币1.78兆元）以提升AI能力，并于8月透过在香港增发股票筹集约102亿美元。]]></description>
-  </item>
-  <item>
-    <title>辉达 AI 工厂版图再扩张！储能、液冷纳认证，台厂抢商机</title>
-    <link>https://technews.tw/2026/09/22/nvidia-ai-factory-expansion-energy-storage-liquid-cooling-certified-taiwan-firms-opportunities/</link>
-    <guid>https://technews.tw/2026/09/22/nvidia-ai-factory-expansion-energy-storage-liquid-cooling-certified-taiwan-firms-opportunities/</guid>
-    <pubDate>Tue, 22 Sep 2026 06:53:26 +0000</pubDate>
-    <description><![CDATA[随著 AI 资料中心用电与散热需求持续攀升，辉达宣布推出 DSX Ready 认证计划，首波聚焦电池储能系统（BESS）与冷却液分配单元（CDU），共有六家国际业者入列。透过建立产品资格验证机制，协助 AI 工厂建置业者降低系统整合风险，加快部署进度。
-
-随著 AI 伺服器机柜功率持续提高，运算负载快速变化也可能对电网造成冲击，使 BESS 的重要性进一步提升。除了在供电异常时提供短时间电力支援，BESS 还能透过快速充放电平衡供需、平滑负载波动，并配合电力转换系统提供电压及频率调节等电网支援功能，协助 AI 工厂维持稳定运作。
-
-另外，液冷逐渐成为高密度运算的重要散热方案。其中，CDU 主要负责冷却液循环与热交换，将伺服器产生的热量传递至设施冷却系统，并依系统需求调节冷却液流量与温度，以满足高功率运算设备的散热需求。
-
-辉达指出，AI 工厂必须整合运算、网路、电力、冷却及设施等环节，单独改善其中一项设备，可能反而将瓶颈转移至其他系统。因此，DSX Ready 透过不同类别的资格验证，协助建置业者评估产品、降低系统整合风险，并加快部署进度。
-
-首波认证名单中，BESS 业者包括日立能源、LG Energy Solution 及特斯拉；CDU 业者则涵盖 LG 电子、LiquidStack 与 vertiv。两大类别采取不同验证方式，BESS 供应商须执行规定测试并提交数据，经辉达审查与核准；CDU 则透过自我资格验证套件，确认产品是否符合相关功能要求。
-
-台湾供应链方面，台达电已布局储能系统、电力转换设备及能源管理系统，具备完整 BESS 解决方案，相关产品与 DSX Ready 首波储能认证方向有所重叠；光宝科则具备电力转换及 AI 伺服器电源技术。
-
-辉达表示，未来 DSX Ready 将逐步扩大至其他基础设施及软体类别，让 AI 工厂建置业者能够依据共同技术要求选择产品。]]></description>
-  </item>
-  <item>
-    <title>高物价成罩门  川普支持度剩 32% 创政治生涯新低</title>
-    <link>https://technews.tw/2026/09/22/trump-approval-falls-to-record-low-of-32-percent-as-high-costs-bite/</link>
-    <guid>https://technews.tw/2026/09/22/trump-approval-falls-to-record-low-of-32-percent-as-high-costs-bite/</guid>
-    <pubDate>Tue, 22 Sep 2026 06:50:47 +0000</pubDate>
-    <description><![CDATA[2026 年美国期中选举将于 11 月 3 日登场，高物价问题成为选战焦点。路透社／益普索（Ipsos）最新民调显示，截至 9 月 20 日当周，美国总统川普施政满意度只剩 32%，较前周 35% 再跌 3 个百分点，下探政治生涯新低，势必牵动共和党选情。
-
-路透社报导，高物价是拖累川普民调的主因，仅17%受访者满意川普治理民生的表现。就连铁杆共和党支持者也松动，其中有44%的人表示满意，但有51%的人不满意，首次出现不满意者高于满意者，对力拚在11月期中选举守住国会两院多数的共和党来说，是一个严重警讯。
-
-随著11月期中选举临近，通膨让荷包压力加重，也成为选民最关切的议题。民调显示，政党支持度方面，43%受访者表示会投民主党、35%会投给共和党，民主党领先8个百分点，创下路透社／益普索今年调查以来的最大差距。
-
-此次民调于9月17日至20日进行，共访问1,277名美国成年人，误差范围为正负3个百分点。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Flickr/Gage SkidmoreCC BY 2.0）]]></description>
-  </item>
-  <item>
-    <title>AI 热潮不止？小摩 CEO 估巨头资本支出达兆美元</title>
-    <link>https://finance.technews.tw/2026/09/22/big-tech-ai-infrastructure-investment-expected-to-reach-1-trillion/</link>
-    <guid>https://finance.technews.tw/2026/09/22/big-tech-ai-infrastructure-investment-expected-to-reach-1-trillion/</guid>
-    <pubDate>Tue, 22 Sep 2026 06:40:50 +0000</pubDate>
-    <description><![CDATA[摩根大通（小摩）执行长戴蒙（Jamie Dimon）看好 AI 基建投资潮续旺，科技巨头 2027 年资本支出合计有望达 1 兆美元，较今年的约 7,000 亿美元进一步扩增。
-
-CNBC报导，戴蒙在第11届摩根大通印度年会场边受访时指出，超大规模云端业者（hyperscaler）生态系的支出，已从去年的约3,000亿美元倍增至今年约7,000亿美元，明年可能进一步达到1兆美元。
-
-戴蒙表示，这波巨额投资每年对美国GDP的拉抬效果约相当于1个百分点。科技业大量聘雇员工、兴建工厂和发电设施，并采购设备及原物料，短期可能带来一些通膨压力，不过长期反而可能产生通缩效果。
-
-戴蒙形容，AI是「令人难以置信的技术」，目前快速扩张的趋势看来仍将延续；企业未来也能以更具效率的方式逐步部署AI。
-
-科技巨头纷纷砸重金投资AI基建，亚马逊、Alphabet、微软及Meta持续扩大支出，投资人也紧盯巨额AI投资何时能收获回报。
-
-戴蒙认为，部分AI投资不能单纯以投资报酬率衡量，而更近似于企业维持竞争力所必须付出的「入场费」（table stakes），例如AI改善客户体验创造的效益难以量化。
-
-戴蒙也提醒，现阶段仍难断言哪些企业会成为AI热潮的最终赢家。他以网路泡沫为例，当时许多市场熟悉的企业最终消失，默默无闻的企业则崛起，AI产业未来也可能出现类似洗牌。
-
-OpenAI执行长奥特曼和Anthropic执行长阿莫迪近期同声示警AI的潜在安全风险、呼吁放缓先进AI模型开发脚步，一度冲击AI相关晶片类股下跌，不过，AI交易近日再度转趋热络，以科技股为主的那斯达克综合指数21日刷新历史新高。
-
-（本文由MoneyDJ新闻授权转载；首图来源：pixabay）]]></description>
   </item>
 </channel>
 </rss>
