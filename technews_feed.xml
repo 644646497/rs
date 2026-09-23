@@ -4,7 +4,28 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 23 Sep 2026 15:39:09 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 19:16:25 GMT</lastBuildDate>
+  <item>
+    <title>推进实体 AI 与机器人布局！高通宣布收购机器人软体公司 PickNik</title>
+    <link>https://technews.tw/2026/09/24/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-robotics-and-physical-ai/</link>
+    <guid>https://technews.tw/2026/09/24/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-robotics-and-physical-ai/</guid>
+    <pubDate>Wed, 23 Sep 2026 17:25:13 +0000</pubDate>
+    <description><![CDATA[高通已同意收购机器人软体公司PickNik，进一步推动在实体AI（Physical AI）与机器人领域的布局。
+
+高通周三（23日）表示，这此次收购将强化其打造开放式机器人生态系的努力，为开发者提供所需的工具、软体与框架，协助机器人技术从研究与实验阶段，进一步走向原型开发、部署，以及大规模量产。
+
+PickNik负责开发MoveIt，这是一套广泛采用的开源机器人操作框架。高通表示，MoveIt在持续维持开源的同时，预计也将能够与高通Dragonwing机器人平台更加顺畅地整合。
+
+高通指出，此次收购旨在强化高通技术对打造开放式机器人生态系的投入，为开发者提供所需的工具、软体与框架，协助其更有效率地从研究与实验阶段，进一步迈向原型开发、部署，以及大规模量产。
+
+MoveIt在持续维持开源的同时，预计也将进一步简化与Dragonwing机器人平台的整合，为开发者提供更顺畅的开发路径，让AI模型（例如视觉语言动作模型（VLA）与视觉语言模型（VLM））能够进一步应用于路径规划、机器人操作及即时控制。此次交易的完成仍须符合惯例交割条件。
+
+高通汽车、工业、嵌入式IoT与机器人事业执行副总裁暨事业群总经理Nakul Duggal表示，机器人是实体AI最令人期待的前沿领域之一，而软体则是将优异硬体转化为优秀机器人的关键连结。PickNik长期负责维护MoveIt，并致力于开源创新，因此在全球机器人社群中建立了高度信任。透过此次合作，公司计划让开发者更容易在Dragonwing机器人平台上打造先进的机器人应用，同时持续支持让MoveIt得以成功的开放性与协作精神。
+
+PickNik创办人暨产品长Dave Coleman表示，自公司成立以来，PickNik的使命就是提供产业一个强大且开放的平台，加速先进机器人的创新与开发，应用范围远超过传统工厂。加入高通技术后，将加速实现这项使命，扩大对MoveIt的投入，让其成为领先的机器人AI训练平台，同时为开发者创造更多价值，并维持开放性、社群协作与跨平台支援，这些一直都是我们发展方式的核心。
+
+PickNik执行长Dave Grant表示，MoveIt即将进入一个令人期待的新阶段，获得更多资源与支持后，有望进一步扩大其影响力。期待加入高通技术，并在MoveIt现有发展动能的基础上持续推进。]]></description>
+  </item>
   <item>
     <title>扩大在台布局！牛津仪器启用新竹全新办公室，强化在地客户服务</title>
     <link>https://technews.tw/2026/09/23/oxford-instruments-taiwan-hsinchu/</link>
@@ -294,19 +315,6 @@ SpaceX旗下的「星链」（Starlink）等卫星服务，往往仅能相容于
 夏普在缩减曾经做为主力业务的液晶显示器（LCD）事业之际，正加速拓展新业务。
 
 卫星终端设备与人工智慧（AI）伺服器，名列夏普锁定为潜在成长新引擎的五大领域之中。夏普目标在2030会计年度，让这些新领域的总销售额达到2,000亿至3,000亿日圆。]]></description>
-  </item>
-  <item>
-    <title>微软 Xbox 再裁 268 人，动视全面接手〈最后一战〉等开发主导权</title>
-    <link>https://ccc.technews.tw/2026/09/23/xbox-lays-off-268-more-people-hands-halo-series-to-activision/</link>
-    <guid>https://ccc.technews.tw/2026/09/23/xbox-lays-off-268-more-people-hands-halo-series-to-activision/</guid>
-    <pubDate>Wed, 23 Sep 2026 07:00:58 +0000</pubDate>
-    <description><![CDATA[微软（Microsoft）Xbox 事业群于 9 月 22 日再度启动重整，宣布裁撤 268 个职位，范围涵盖 Halo Studios、其他第一方工作室，以及 Xbox Game Studios 的管理与中央职能部门。这波调整被视为今年 7 月启动、总计约 3,200 人裁员计划的一部分；Xbox 方面表示，整体重整目前已完成约四分之三。
-
-此次变动中最受瞩目的，是〈最后一战〉系列（Halo）未来主线作品将改由动视（Activision）负责开发。Xbox 内容长麦特·布提（Matt Booty）表示，动视会成立一支全新的专责团队，与〈决胜时刻〉系列（Call of Duty）开发工作分开运作；而 Halo Studios 则只保留小型团队，继续支援现有〈最后一战〉社群与市面上的游戏。
-
-除了〈最后一战〉之外，Xbox 也将〈「世纪帝国〉系列（Age of Empires）开发团队 World’s Edge 与〈盗贼之海〉（Sea of Thieves）开发商 Rare 一并纳入动视旗下。Booty 强调，这次重组的目标是减少事业单位数量，让原本就密切合作的团队整并在一起，并把发行资源集中到更少的组织架构上。
-
-这项调整延续了 Xbox 今年以来的连串缩编与组织改造。微软先前已宣布要在本财年结束前削减 3,200 个职位，如今最新一轮裁员与工作室重组，显示这场重整仍在持续推进。对玩家而言，已拥有的现有〈最后一战〉游戏不会立即受到影响，但未来新作的开发主导权，已正式转向动视。]]></description>
   </item>
 </channel>
 </rss>
