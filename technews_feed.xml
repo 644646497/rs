@@ -4,7 +4,55 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 23 Sep 2026 19:16:25 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 22:30:48 GMT</lastBuildDate>
+  <item>
+    <title>耳机化身 AI 代理平台！高通 Snapdragon Sound Elite Gen 2 颠覆音讯穿戴想像</title>
+    <link>https://technews.tw/2026/09/24/qualcomm-snapdragon-sound-elite-gen-2/</link>
+    <guid>https://technews.tw/2026/09/24/qualcomm-snapdragon-sound-elite-gen-2/</guid>
+    <pubDate>Wed, 23 Sep 2026 20:46:41 +0000</pubDate>
+    <description><![CDATA[高通今（23日）宣布推出新一代Snapdragon Sound Elite Gen 2平台，进一步将AI能力导入耳机、耳罩式耳机、开放式及混合式音讯装置等穿戴产品。
+
+在AI运算能力方面，Snapdragon Sound Elite Gen 2的AI能力最高达前代产品Snapdragon S7 Gen 1的2倍，同时支援多项智慧体验并行运作。高通表示，新平台最高可降低40%功耗，晶片尺寸则缩小最多30%，有助于OEM厂商打造更快速、可随时使用的Personal AI体验；此外，Snapdragon Sound Elte Gen 2也首次整合micro-power Wi-Fi技术。
+
+此外，该平台透过超低功耗Wi-Fi 6E提供直连云端能力，搭配Snapdragon Sound Apps & Agents，让音讯穿戴装置不再只是单纯的硬体产品，而能连接AI助理、服务、内容与各类体验，并随著时间持续更新。
+
+在音讯体验方面，Snapdragon Sound Elite Gen 2延续Snapdragon Sound的高阶音讯能力，并加入更多AI驱动功能，使装置能持续根据使用者、装置本身及周遭环境进行调整。其中，Qualcomm aptX Lossless可提供高品质、沉浸式的音讯体验；Qualcomm XPAN则将连线范围延伸至传统蓝牙的限制之外，提供更顺畅且不中断的跨装置音讯体验。
+
+针对AI时代的语音互动需求，高通也强化降噪、语音撷取与人声辨识能力。Snapdragon Sound Elite Gen 2导入第五代Qualcomm ANC、Qualcomm cVc技术，以及先进多麦克风架构，让装置在不同环境下能更清楚地撷取使用者语音，提升与AI助理互动时的可靠度。
+
+Snapdragon Sound Elite Gen 2支援多元装置形态，包括耳塞式耳机、耳罩式耳机、开放式与混合式音讯设计、搭载相机的耳塞式耳机、音讯眼镜，以及未来的多模态穿戴式装置。为进一步加速创新，Snapdragon Sound Elite Gen 2参考设计将协助OEM厂商快速完成新一代个人AI装置的原型开发、验证与商业化。
+
+高通资深副总裁暨XR、穿戴式装置与个人AI总经理Ziad Asghar表示，根据研究显示，高达70%使用者希望穿戴式装置具备先进AI能力。随著AI成为核心能力，使用者将日益期待以更自然的方式与AI互动，而这些互动不一定都会透过萤幕进行，也可借由自然对话实现，让使用者只需与AI助理交谈，就能即时获得协助。
+
+同时，他也大秀目前在Personal AI所拥有的所有产品线，显示高通在Personal AI的全面性。]]></description>
+  </item>
+  <item>
+    <title>智慧手机仍是 AI Agent 核心吗？高通揭「Puck」新概念：口袋版个人运算中枢</title>
+    <link>https://technews.tw/2026/09/24/qualcomm-ziad-asghar-talk-personal-ai-agent/</link>
+    <guid>https://technews.tw/2026/09/24/qualcomm-ziad-asghar-talk-personal-ai-agent/</guid>
+    <pubDate>Wed, 23 Sep 2026 19:44:02 +0000</pubDate>
+    <description><![CDATA[随著AI Agent进入智慧手机、智慧眼镜、耳机、手表与其他穿戴式装置，个人运算的核心也正在发生变化。高通资深副总裁暨XR、穿戴式装置与个人AI总经理Ziad Asghar指出，在Personal AI（个人AI）之中，智慧手机仍是非常重要的装置，但真正成为个人运算核心的，将不再是单一硬体，而是AI Agent。
+
+Ziad Asghar表示，智慧手机目前仍然是个人运算的重要中心，因为手机拥有使用者的联络人、资料与大量个人资讯，但从长期来看，手机只是众多运算装置中的一种。他认为，随著个人AI装置快速发展，部分过去在智慧手机上完成的使用情境，未来将逐渐转移至眼镜、耳机、手表、戒指、别针与坠饰等不同装置。
+
+从高通的观察来看，AI Agent也正在扩大智慧手机产业之外的客户群。Ziad Asghar指出，过去高通在智慧手机领域的主要客户是OPPO、vivo、小米、三星等传统手机品牌，但随著AI进入消费电子产品，拥有AI模型与云端服务能力的公司也开始投入硬体产品。
+
+例如高通与阿里巴巴、百度、Meta、三星、Google都有合作，并推出智慧眼镜产品，有几间公司并非传统意义上的高通智慧手机客户。Ziad Asghar透露，目前高通在Personal AI领域已经有约40款不同产品正在合作开发，产品形态也从眼镜、耳机延伸至戒指、别针与坠饰等不同装置。
+
+不过，智慧眼镜要真正普及，最大的挑战之一仍是体积。Ziad Asghar指出，眼镜本身必须同时具备科技功能与时尚属性，消费者也不会只需要一种款式，而是希望拥有不同形状、尺寸与颜色的产品。对此，高通正持续缩小晶片与整体系统尺寸，并透过START计划提供模组化、完整且AI Ready的方案。
+
+他表示，START计划已经将主要晶片组整合至小型模组中，产品设计业者只需要加入麦克风、相机与扬声器，就能进一步打造自己的AI装置。透过这种方式，高通希望降低产品开发门槛，让更多时尚品牌与其他业者能够进入智慧眼镜市场。
+
+随著越来越多Personal AI装置浮现，Ziad Asghar表示，目前市场上正在出现另一种产品概念，即所谓的「Puck」，类似个人中枢系统。这类装置的尺寸可能接近耳机充电盒，但具备额外的电池与运算能力，让智慧眼镜可以把运算工作卸载到Puck。
+
+换言之，未来可能出现一个放在口袋里的个人中央运算模组，眼镜、耳机、戒指等装置负责感测与互动，再将较复杂的AI工作交由Puck处理。在这种发展情境下，手机将不再是唯一的个人运算中枢，而个人中枢本身也可能演变成新的硬体形态。
+
+至于不同装置上的AI模型如果产生不同答案，Ziad Asghar表示，系统可以采取主机（Master）和从机（Slave）的架构，由能力较强的装置提供最终答案，但前提是该装置必须掌握足够的情境资讯。
+
+另一种方式则是Teacher与Student模型（教师/学生模型），较小的学生模型负责处理大部分Token，再由较大型的导师模型进行检查。透过这种方式，可以让大部分工作由低功耗模型完成，再利用大型模型确认结果，进一步降低整体功耗。
+
+最后展望未来三年，Ziad Asghar认为，目前成长最快的Personal AI装置将是智慧眼镜，下一波可能则是别针与坠饰等产品，因为有些人不想戴眼镜，这是另一个选择。]]></description>
+  </item>
   <item>
     <title>推进实体 AI 与机器人布局！高通宣布收购机器人软体公司 PickNik</title>
     <link>https://technews.tw/2026/09/24/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-robotics-and-physical-ai/</link>
@@ -261,60 +309,6 @@ Nexstrom 共同创办人暨首席科学家 Lance Li 长期投入 2 维材料研�
 Nexstrom 董事会顾问、史丹佛大学教授 Philip Wong 表示，2 维半导体已进入主要半导体公司的技术路线图，目前关键已转向如何实现量产，尤其产业需要能在 300 mm 基板上形成高品质且均匀的 2 维材料。
 
 此次募资后，Nexstrom 将持续推进 12 吋 2 维半导体平台开发，并扩大与晶圆代工业者合作及工程团队规模。若 2 维材料能进一步跨越大尺寸晶圆均匀性与量产整合门槛，也将成为矽电晶体持续微缩之外，下一代 AI 与高效能运算晶片的重要材料发展方向。]]></description>
-  </item>
-  <item>
-    <title>英国无人潜舰首次发射美制 Mk 48 重型鱼雷，AUKUS 推进水下武器共通化</title>
-    <link>https://technews.tw/2026/09/23/royal-navys-excalibur-uuv-test-fired-us-made-mk48-torpedo-for-the-first-time/</link>
-    <guid>https://technews.tw/2026/09/23/royal-navys-excalibur-uuv-test-fired-us-made-mk48-torpedo-for-the-first-time/</guid>
-    <pubDate>Wed, 23 Sep 2026 07:21:51 +0000</pubDate>
-    <description><![CDATA[英国皇家海军「王者之剑」（XV Excalibur）无人潜舰，首度成功发射美国海军 Mk 48 重型鱼雷，完成跨国武器整合的概念验证，为美英澳 AUKUS 第二支柱的无人水下作战合作取得新进展。
-
-📰 U.S. NAVY UPDATE: U.S. Navy and Royal Navy Successfully Test Fire Torpedo from Unmanned Undersea Vehicle
-
-📍WASHINGTON – On September 13, 2026, the U.S. Navy and the Royal Navy successfully conducted the proof-of-concept launch of an exercise U.S. Mk 48 Heavyweight Torpedo…pic.twitter.com/lVB4wYSwC0
-
-— Office of the Chief of Naval Operations (@USNavyCNO)September 22, 2026
-
-根据美国海军公布资讯，试射于 9 月 13 日在苏格兰英国水下测试与评估中心（BUTEC）进行，验证美制武器与英国自主水下载具在机械、电气及软体介面的整合能力，为盟国武器跨平台运用建立基础。
-
-AUKUS 第二支柱聚焦先进军事技术合作，其中无人水下系统计划希望让三国不同载具共用酬载与相关系统，美国海军作战部长考德尔（Daryl Caudle）表示，整合盟国的武器、酬载及任务架构，有助提高联合部队的作战弹性、规模与战力。
-
-Excalibur 于 2025 年 5 月亮相，舰长 12 公尺、排水量 19 吨，是英国皇家海军测试水下自主技术与新型酬载的实验平台，也将用于探索有人与无人系统之间的协同作业方式。
-
-Mk 48 是美国海军标准重型鱼雷，长约 5.8 公尺、直径约 533 公厘，其中 Mod 7 型号由美国与澳洲合作研发，不过 Excalibur 并未配备传统鱼雷管，舰体中央的酬载舱也无法容纳 Mk 48 的长度。
-
-根据《Navy Lookout》报导及公开影像，这次测试将鱼雷安装在舰体下方的外挂托架上发射，主要目的是验证整合可行性，后续无人潜舰仍可能采用更完整的武器搭载与发射设计。
-
-此次成功试射仍属概念验证，距离形成可部署的作战能力还有后续工作要完成，美英海军接下来将透过 CUTLASS 计划，采用 Anduril 的 Dive-XL 无人水下载具，进一步推进酬载整合、指挥管制架构与战术运用测试，逐步提高无人水下系统的成熟度。
-
-（首图来源：Office of the Chief of Naval Operations）]]></description>
-  </item>
-  <item>
-    <title>夏普研发通用卫星天线，挑战星链市场主导地位</title>
-    <link>https://technews.tw/2026/09/23/sharp-plans-to-develop-universal-satellite-antennas/</link>
-    <guid>https://technews.tw/2026/09/23/sharp-plans-to-develop-universal-satellite-antennas/</guid>
-    <pubDate>Wed, 23 Sep 2026 07:10:06 +0000</pubDate>
-    <description><![CDATA[日本夏普公司（Sharp）计划研发能连接多个不同卫星通讯网路的通用天线，让用户能更轻易在不同服务间切换，无须依赖太空探索科技公司（SpaceX）等特定供应商。
-
-日经亚洲（Nikkei Asia）报导，夏普计划于2030年推出搭载这款通用天线的终端设备，锁定国防、营造设备远端控制以及自动驾驶等应用领域。
-
-SpaceX旗下的「星链」（Starlink）等卫星服务，往往仅能相容于特定专属终端设备。星链在低地球轨道卫星通讯市场占据主导地位，据悉都是自行在内部研发专属天线与终端设备。
-
-夏普一直致力利用智慧型手机业务累积的技术，研发小型卫星终端设备。现有碟型抛物面天线的体积与重量限制了安装地点，夏普则计划将终端设备微型化，让它足以安装在船只或无人机上。
-
-日本总务省目前正公开征求小型、轻量化通用天线的提案，预计挑选2至3个专案予以支援，计划在最长5年内提供最高70亿日圆（约新台币14.7亿元）补助。尽管距离遴选阶段还有一段时间，夏普已递交提案。
-
-根据今年6月宣布的合作伙伴关系，夏普计划自2027年起，将总部位于卢森堡的卫星营运商SES通讯服务引进日本。夏普设定目标，期盼卫星相关业务营收在2035年达到1,000亿日圆。
-
-随著地缘政治风险升温，促使各国政府透过欧洲联盟（EU）的IRIS2卫星网路等倡议，降低对特定供应商的依赖，夏普预见海外市场对通用天线的需求。SES正是负责研发与营运IRIS2联盟的核心成员。
-
-执掌夏普通讯业务等事业群的执行董事小林繁认为，夏普身为日本企业，既非美国亦非中国公司，在市场上具备强大竞争优势。
-
-根据市场研究整合机构Global Information预测，全球卫星通讯市场规模至2033年将达2230亿美元，较2025年增加逾一倍。
-
-夏普在缩减曾经做为主力业务的液晶显示器（LCD）事业之际，正加速拓展新业务。
-
-卫星终端设备与人工智慧（AI）伺服器，名列夏普锁定为潜在成长新引擎的五大领域之中。夏普目标在2030会计年度，让这些新领域的总销售额达到2,000亿至3,000亿日圆。]]></description>
   </item>
 </channel>
 </rss>
