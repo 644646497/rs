@@ -4,7 +4,53 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 23 Sep 2026 10:33:24 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 15:52:25 GMT</lastBuildDate>
+  <item>
+    <title>Risk of Hydrazine Use Following Freeze–Thaw Exposure</title>
+    <link>https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/</link>
+    <guid>https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/</guid>
+    <pubDate>Wed, 23 Sep 2026 14:31:58 +0000</pubDate>
+    <description><![CDATA[For more information, contact Jonathan E. Jones, Langley Research Center,jonathan.e.jones@nasa.gov
+
+The purpose of this Technical Bulletin is to communicate the risks associated with freeze–thaw cycles in hydrazine monopropellant systems and to provide general recommendations for mitigating damage, operational hazards, and loss of system reliability in propulsion and auxiliary hydrazine systems.
+
+BackgroundHydrazine (N2H4) freezes near 1.6°C, and its phase transition is known to introduce risks to flight hardware. Multiple NASA programs have historically encountered hydrazine freeze related issues:
+
+•Space Shuttle APU hydrazine lines were vulnerable to freeze induced contraction followed by thaw induced over expansion, capable of bursting plumbing. Shuttle flight rules permitted no more than two freeze–thaw cycles before considering the system degraded or failed.1
+
+•Voyager propulsion systems faced mission threatening scenarios as hydrazine temperatures approached the freezing/slush formation range (0.1–1.6°C). Detailed thermal modeling was required to prevent freezing of lines, blockage, and thruster malfunction.2
+
+•Hydrazine thermodynamic properties confirm significant changes in density and pressure across phase transitions, emphasizing the sensitivity of propellant lines to freeze–thaw stress.3
+
+These combined lessons form the basis for risk identification and mitigation.
+
+Problem SummaryFreeze–thaw exposure of hydrazine systems presents the following critical risks:•Structural Damage Hydrazine contraction during freezing allows additional propellant into confined lines, producing “superpacked” conditions that cause line or fitting rupture upon thaw.2•Valve, Seal, and Diaphragm Compromise Elastomeric components and precision valve seats may experience cracking, distortion, or loss of sealing capability due to differential thermal expansion. Voyager thermal assessments highlighted susceptibility of long stainless steel runs to asymmetric temperature profiles.2•Line Blockage and Slush Formation Partially thawed hydrazine can remain “slushy,” restricting flow, altering mass flow rates, and causing thruster hard starts or misfires.2•Hazardous Leaks Freeze induced damage may allow hydrazine to escape confinement, posing significant toxicity, reactivity, and ground crew exposure hazards.•Loss of System Reliability As documented in Shuttle operations, hydrazine systems exposed to freeze–thaw cycles become life limited, reducing redundancy and mission availability.1•Thermal Margin Uncertainty Voyager experience demonstrated that simple temperature readings cannot reliably determine true line temperature, necessitating high fidelity thermal modeling.2Recommendations Prevention Measures•Maintain Hydrazine Above Freezing Margin Keep all hydrazine systems above freezing, using heaters, insulation, blankets, or warm gas purge. Include uncertainty analysis in modeling and testing to ensure appropriate margins against freezing are maintained during all phases of operation.•Avoid Uncontrolled Cooling During Ground Operations Ensure that tank, line, and valve components remain in environmentally controlled areas until integrated into the vehicle.Post Freeze Response ProtocolIf freezing cannot be ruled out:•Suspend System Use Do not operate the hydrazine system until engineering evaluation is completed.•Assess Number of Freeze–Thaw Cycles Treat each cycle as life limiting, an engineering assessment (static and fatigue) should be conducted based on conservative estimates of the line pressures during/after freeze/thaw cycles to understand potential line/component damage. Appropriate margin should be applied based on analysis uncertainty and/or underlying assumptions.•Conduct Integrity Verification Perform pressure decay tests, NDE (if design allows), and valve health assessments.•Implement Slow, Uniform Thawing To prevent thaw induced over pressure, warm hardware gradually and evenly. Shuttle experience with “superpacking” reinforces the necessity of controlled thawing.Thruster and Valve Operational Readiness•Ensure catalyst beds and valves reach proper thermal operating conditions before commanding any flow.•Conduct pre start thermal stabilization periods, especially when flight readiness temperatures are marginal.Thermal Modeling and Monitoring•Utilize high fidelity thermal line modeling, emulating Voyager’s detailed propellant line modeling approach.2•Avoid relying solely on bulk plate or tank temperatures to infer line readiness.•Use thermal analysis and test to guide instrumentation placement on of the flight systems to monitor key temperatures set points.Documentation and Incident Tracking•Record all freeze exposures as reportable anomalies.•Assign engineering disposition and track hardware life reduction accordingly.ConclusionHydrazine freeze–thaw cycles present significant structural, operational, and safety risks for propulsion and auxiliary systems. Historical NASA programs show that prevention of hydrazine freez]]></description>
+  </item>
+  <item>
+    <title>NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits</title>
+    <link>https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/</link>
+    <guid>https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/</guid>
+    <pubDate>Wed, 23 Sep 2026 13:55:34 +0000</pubDate>
+    <description><![CDATA[NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe.
+
+Hubble has traveled more than 5 billion miles around Earth over its 36-year lifetime, exceeding 1.7 million total observations. An observation completed on the day of the 200,000th orbit pertains to one of Hubble’s defining scientific legacies: measuring the expansion rate of the universe, orthe Hubble Constant.The image takes advantage of the telescope’s ability to return to the same regions of the sky over time to monitor for the reappearance of a supernova, or explosion of a star, called Athena.
+
+Massive galaxy cluster MACS J0417, located at the left center of the image, acts as agravitational lens, bending and magnifying light from objects far behind it. Light from a supernova can reach Earth along multiple paths, causing the same stellar explosion to appear more than once at times separated by months or even years depending on the path it took. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and early March 2027. Measuring the timing of Athena’s reappearances can help researchers map the mass of MACS J0417, which acts as a magnifying, foreground lens for distant objects, and refine our understanding of the expansion rate of the universe.
+
+After more than 36 years in space, Hubble still is reaching new heights of scientific productivity and impact. Hubble’s unique ability to observe and analyze light in ultraviolet and visible wavelengths complementsNASA’s James WebbandRoman Space Telescopes’capabilities. As a result, demand for Hubble observing time remains high as astronomers request about seven times as much observing time as is available each year.
+
+Hubble continues to observe targetsacross every area of astronomyaround the clock, with real-time tracking of those observations available on NASA’swebsite.
+
+Claire AndreoliNASA'sGoddard Space Flight Center,Greenbelt, MDclaire.andreoli@nasa.gov
+
+Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.
+
+Explore an assortment of galaxies with Hubble.
+
+Hubble's most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.
+
+Explore Hubble's iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space.]]></description>
+  </item>
   <item>
     <title>APOD: 2026 September 23 – A New Lunar Crater: McGetchin</title>
     <link>https://science.nasa.gov/image-article/apod-2026-september-23-the-mcgetchin-crater/</link>
@@ -168,50 +214,6 @@ NASA’s Office of the Chief Health and Medical Officer formed a working group i
     <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
 Explanation:This shot captured an unexpected silhouette.   Which is it? It isn't thesunspots, the small dark regions caused by concentratedmagnetic fields visible around the Sun's bright disk.Sunspotstypically last for weeks and were expected, since these spots were seen previously. It isn’t theInternational Space Station(ISS), thesmalldarkstructureon the middle left.  This is because thefeatured picturewas planned with sub-second timing to record theiconic structurepassing before theSun. It is theairplane. Just asthis exposurewas taking place in June, fromPrasekin theCzech Republic, an airplane began its own miniaturepartial eclipse. The result is thistriply alignedimage of our Sun. The photographer estimates that the chance of anyrandomSun image containingsilhouettesof both a space station and an airplane, from that location, is about 30 million to one.APOD's main NASA site ismoving:Fromapod.nasa.govtoscience.nasa.gov/apodTomorrow's picture:open space]]></description>
-  </item>
-  <item>
-    <title>An Epic View of the Seasons</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/an-epic-view-of-the-seasons/</guid>
-    <pubDate>Tue, 22 Sep 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[The tilt in Earth's axis of rotation makes the apparent position of continents shift with the seasons in imagery from a NASA camera in deep space.
-
-Most kids learn in elementary school that the seasons are caused by Earth rotating on atilted axisduring its yearly orbit around the Sun. The substantial tilt, about 23.5 degrees, is thought to be the result of an ancient planetary body,Theia, smashing into Earth about 4.5 billion years ago, in the same cataclysmic collision thatformed the Moon.
-
-To visualize why Earth has seasons, imagine the planet as aspinning toptilted toone side. Around the June solstice, the Northern Hemisphere leans toward the Sun, bringing more direct sunlight and longer days. Around the December solstice, the Southern Hemisphere does the same. That's why June ushers in summer and warm weather in the Northern Hemisphere, while December does so in the Southern Hemisphere.
-
-The March and September equinoxes serve as the midpoints between these two seasonal extremes. On those days, theterminator—the boundary between the sunlit and dark sides of Earth—runs directly through both poles. As a result, the Northern and Southern Hemispheres receivealmost the same amountof sunlight, and day and night are nearly equal in length.
-
-What do the seasons look like from about one million miles away? That's the view provided by NASA'sEPIC(Earth Polychromatic Imaging Camera) aboard the NOAA missionDSCOVR(Deep Space Climate Observatory). By maintaining an orbit that puts the spacecraft between the Sun and Earth roughly 1.6 million kilometers (1 million miles) from Earth, the camera has a nearly continuous view of the sunlit hemisphere. As Earth spins during the course of a day, EPIC captures a full-disk image of the planet's sunlit face every few hours.
-
-The four images above, taken at roughly the same time of day, show how EPIC's view of the Western Hemisphere changes over the year, from the December solstice (upper left) to the March equinox (upper right), June solstice (lower left), and September equinox (lower right). The most striking difference is between the two solstices. In December, South America lies near the center of the disk and much of Antarctica is visible, while North America is partially out of view. In June, Earth's tilt means the situation is reversed: the Northern Hemisphere and North America are more centered, Arctic sea ice comes into view, South America is offset, and Antarctica is completely out of view.
-
-There are other notable differences among the four images. Earth looks slightly smaller during the March and September equinoxes, for instance. That's because DSCOVR was tens of thousands of miles farther away from Earth on those dates than on the solstices. On December 21, 2023, DSCOVR was 1,447,327 kilometers (899,327 miles) from Earth compared with 1,561,901 kilometers (970,520 miles) on September 22, 2024.
-
-The slight difference in Earth’s apparent size has nothing to do with Earth's tilt. Instead, it occurs because DSCOVR follows a looping, three-dimensional path called aLissajous orbitto keep the spacecraft nearLagrange point 1, where the combined gravitational pull of the Sun and Earth and the centrifugal pull of the satellite balance out, making it easier for engineers to maintain the spacecraft's position without using much fuel. DSCOVR's distance from Earth swings between its maximum and minimum roughly every three months, and the timing drifts throughout the year because of lunar influences and orbital maneuvers. In 2024, the orbit happened to put the spacecraft slightly farther from Earth at both equinoxes, but that is not always the case.
-
-There's one other notable way the images differ. Because of DSCOVR's Lissajous orbit, the angle between the Sun, Earth, and satellite varies between 2 and 12 degrees, explained Alexander Marshak, the deputy project scientist for the DSCOVR mission. Earth appears as a fully illuminated disk at smaller angles and less rounded at larger angles, like a "bite" has been taken out, similar to agibbous phaseof the Moon. For this set of images, the September 22 image has a slightly lower angle (8.1°) than the December 21 image (10.3°), making it appear slightly rounder and fuller. The angle between the Sun, Earth, and satellite in the other two images is between 9° and 10°.
-
-"You can see the subtle influence of the changing orbital geometry in these images," Marshak said. "But the most obvious changes—the apparent location of the continents—are due to Earth's tilt."
-
-EPIC's vantage point offers a perspective that makes it easier to understand and visualize why Earth has seasons, but after more than adecade in space, the mission has also opened up new approaches to understanding and observing how daily and seasonal cycles play out on a planetary scale. It has collected more than a decade of diurnal and seasonal data on many key features on Earth, including vegetation, clouds, ice, snow, UV radiation, ocean color, and aerosols.
-
-NASA Earth Obser]]></description>
-  </item>
-  <item>
-    <title>Embracing the Equinox</title>
-    <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/</link>
-    <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/</guid>
-    <pubDate>Mon, 21 Sep 2026 21:55:40 +0000</pubDate>
-    <description><![CDATA[Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit. Many ancient observatories around the world observed equinoxes along with the more pronounced solstices. These days, you don’t need your own observatory to know when an equinox occurs, since you’ll see it marked on your calendar twice a year! The word “equinox” originates from Latin, and translates toequal(equi-)night(-nox). But what exactly is an equinox?
-
-Anequinoxoccurs twice every year, in March and September. In 2026, the equinoxes will occur on March 20, at exactly 14:46 UTC (or 7:46 AM EDT), and again on September 23, at 00:05 UTC (or September 22, 2026, at 5:05 PM PDT). The equinox marks the exact moment when the center of the Sun crosses the plane of our planet’s equator. The day of an equinox, observers at the equator will see the Sun directly overhead at noon. After the March equinox, observers anywhere on Earth will see the Sun’s path in the sky continue its movement further north every day until the June solstice, after which it begins traveling south. The Sun crosses the equatorial plane again during the September equinox, and continues traveling south until the December solstice, when it heads back north once again. This movement is why some refer to the March equinox as thenorthward equinoxand the September equinox as thesouthward equinox.
-
-Our Sun shines equally on both the Northern and Southern Hemispheres during equinoxes, which is why they are the only times of the year when the Earth’s North and South Poles are simultaneously lit by sunlight. Notably, the length of day and night on the equinox isn’t precisely equal; the date for that split depends on your latitude, and may occur a few days earlier or later than the equinox itself. The complicating factors? Our Sun and atmosphere! The Sun itself is a sphere and not a point light source, so its edge is refracted by our atmosphere as it rises and sets, which adds several minutes of light to every day. The Sun doesn’t neatly wink on and off at sunrise and sunset like a light bulb, and so there isn’t a perfect split of day and night on the equinox - but it’s very close.
-
-Equinoxes are associated with the changing seasons. In March, Northern Hemisphere observers welcome the longer, warmer days heralded by theirvernal, or spring, equinox, but Southern Hemisphere observers note the shorter days – and longer, cooler nights - signaled by theirautumnal, or fall, equinox. Come September, the reverse is true.
-
-Originally posted by Dave Prosper: February 2022]]></description>
   </item>
 </channel>
 </rss>
