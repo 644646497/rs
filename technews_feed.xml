@@ -4,311 +4,319 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 23 Sep 2026 22:30:48 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 01:50:55 GMT</lastBuildDate>
   <item>
-    <title>耳机化身 AI 代理平台！高通 Snapdragon Sound Elite Gen 2 颠覆音讯穿戴想像</title>
-    <link>https://technews.tw/2026/09/24/qualcomm-snapdragon-sound-elite-gen-2/</link>
-    <guid>https://technews.tw/2026/09/24/qualcomm-snapdragon-sound-elite-gen-2/</guid>
-    <pubDate>Wed, 23 Sep 2026 20:46:41 +0000</pubDate>
-    <description><![CDATA[高通今（23日）宣布推出新一代Snapdragon Sound Elite Gen 2平台，进一步将AI能力导入耳机、耳罩式耳机、开放式及混合式音讯装置等穿戴产品。
+    <title>Meta AI 助理代打电话竟是真人代打，隐私危机与歧视风波迫使测试急停</title>
+    <link>https://infosecu.technews.tw/2026/09/24/meta-muse-ai-faking-phone-calls/</link>
+    <guid>https://infosecu.technews.tw/2026/09/24/meta-muse-ai-faking-phone-calls/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:50:31 +0000</pubDate>
+    <description><![CDATA[近期，Meta 旗下备受瞩目的个人 AI 助理 Muse 爆出内部测试争议。据外媒揭露，Meta 正在为 Muse 秘密测试一项名为「人类管家」（human concierge）的功能。原本 Muse 的设计是协助使用者联络商家，处理如预约美发服务或查询库存等日常琐事；但测试显示，当店家辨识出拨打者是 AI 而直接挂断电话时，系统便会自动将通话转交给「真人承包商」接手代打。
 
-在AI运算能力方面，Snapdragon Sound Elite Gen 2的AI能力最高达前代产品Snapdragon S7 Gen 1的2倍，同时支援多项智慧体验并行运作。高通表示，新平台最高可降低40%功耗，晶片尺寸则缩小最多30%，有助于OEM厂商打造更快速、可随时使用的Personal AI体验；此外，Snapdragon Sound Elte Gen 2也首次整合micro-power Wi-Fi技术。
+根据流出的内部讯息，Meta 在向员工说明这项测试时，宣称 Muse 会将任务转交给「受训代理人」（trained agent）处理，并允许部分员工选择退出测试。然而，这项「真人代打」的做法随即在公司内部引发了严重的隐私与资安疑虑。许多员工担忧，交由承包商代劳的过程，恐导致使用者的个人资料或高度敏感资讯被外部人员听见。
 
-此外，该平台透过超低功耗Wi-Fi 6E提供直连云端能力，搭配Snapdragon Sound Apps & Agents，让音讯穿戴装置不再只是单纯的硬体产品，而能连接AI助理、服务、内容与各类体验，并随著时间持续更新。
+除了隐私风险，争议更进一步延烧。报导指出，一名员工在检阅通话逐字稿时，赫然发现代打电话的承包商竟在对话中发表了带有种族歧视意味的言论。对此，Meta 超级智慧实验室（Superintelligence Labs）的一名副总裁随后坦承，在未充分揭露的情况下就启动这项测试「是个失误」。该主管表示，公司已暂时撤回这项功能，且涉事人员未来将不再参与 Meta 的任何相关专案。
 
-在音讯体验方面，Snapdragon Sound Elite Gen 2延续Snapdragon Sound的高阶音讯能力，并加入更多AI驱动功能，使装置能持续根据使用者、装置本身及周遭环境进行调整。其中，Qualcomm aptX Lossless可提供高品质、沉浸式的音讯体验；Qualcomm XPAN则将连线范围延伸至传统蓝牙的限制之外，提供更顺畅且不中断的跨装置音讯体验。
+尽管引发轩然大波，该名主管也透露了现实的成效数据：内部测试显示，若交由真人接手通话，成功率可大幅提升至 95% 到 98%，表现远优于纯 AI 拨打。
 
-针对AI时代的语音互动需求，高通也强化降噪、语音撷取与人声辨识能力。Snapdragon Sound Elite Gen 2导入第五代Qualcomm ANC、Qualcomm cVc技术，以及先进多麦克风架构，让装置在不同环境下能更清楚地撷取使用者语音，提升与AI助理互动时的可靠度。
-
-Snapdragon Sound Elite Gen 2支援多元装置形态，包括耳塞式耳机、耳罩式耳机、开放式与混合式音讯设计、搭载相机的耳塞式耳机、音讯眼镜，以及未来的多模态穿戴式装置。为进一步加速创新，Snapdragon Sound Elite Gen 2参考设计将协助OEM厂商快速完成新一代个人AI装置的原型开发、验证与商业化。
-
-高通资深副总裁暨XR、穿戴式装置与个人AI总经理Ziad Asghar表示，根据研究显示，高达70%使用者希望穿戴式装置具备先进AI能力。随著AI成为核心能力，使用者将日益期待以更自然的方式与AI互动，而这些互动不一定都会透过萤幕进行，也可借由自然对话实现，让使用者只需与AI助理交谈，就能即时获得协助。
-
-同时，他也大秀目前在Personal AI所拥有的所有产品线，显示高通在Personal AI的全面性。]]></description>
+针对此风波，Meta 发言人发布声明缓颊，强调内部测试是产品开发的必经环节，核心目的正是为了在正式推出前搜集回馈，以完善安全与隐私保护机制。Meta 承诺，公司会在技术完全准备就绪，且具备适当的资讯揭露机制后，才会正式向大众推出这项通话功能。]]></description>
   </item>
   <item>
-    <title>智慧手机仍是 AI Agent 核心吗？高通揭「Puck」新概念：口袋版个人运算中枢</title>
-    <link>https://technews.tw/2026/09/24/qualcomm-ziad-asghar-talk-personal-ai-agent/</link>
-    <guid>https://technews.tw/2026/09/24/qualcomm-ziad-asghar-talk-personal-ai-agent/</guid>
-    <pubDate>Wed, 23 Sep 2026 19:44:02 +0000</pubDate>
-    <description><![CDATA[随著AI Agent进入智慧手机、智慧眼镜、耳机、手表与其他穿戴式装置，个人运算的核心也正在发生变化。高通资深副总裁暨XR、穿戴式装置与个人AI总经理Ziad Asghar指出，在Personal AI（个人AI）之中，智慧手机仍是非常重要的装置，但真正成为个人运算核心的，将不再是单一硬体，而是AI Agent。
+    <title>布局 Google TPU 及 ASIC 市场庞大商机，瑞银力挺联发科 7,300 元目标价</title>
+    <link>https://finance.technews.tw/2026/09/24/ubs-strongly-supports-mediateks-target-price-of-nt7300/</link>
+    <guid>https://finance.technews.tw/2026/09/24/ubs-strongly-supports-mediateks-target-price-of-nt7300/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:45:54 +0000</pubDate>
+    <description><![CDATA[外资券商瑞银（UBS）发布最新研究报告，重申ic设计大厂联发科的「买进」的投资评等，并将目标价由新台币 6,500 元调升至 7,300 元。瑞银指出，市场尚未完全反映联发科在 Google TPU 及客制化晶片（ASIC）领域的战略价值与庞大商机。
 
-Ziad Asghar表示，智慧手机目前仍然是个人运算的重要中心，因为手机拥有使用者的联络人、资料与大量个人资讯，但从长期来看，手机只是众多运算装置中的一种。他认为，随著个人AI装置快速发展，部分过去在智慧手机上完成的使用情境，未来将逐渐转移至眼镜、耳机、手表、戒指、别针与坠饰等不同装置。
+报告显示，联发科在 Google TPU 专案的成长动能显著，瑞银维持 2027 年 TPU 销售额 180 亿美元的预估，但大幅上调 2028 年与 2029 年营收至 435 亿美元与 525 亿美元，主因是 TPU v8t 产品周期延长，以及下一代 v9 架构强劲成长。
 
-从高通的观察来看，AI Agent也正在扩大智慧手机产业之外的客户群。Ziad Asghar指出，过去高通在智慧手机领域的主要客户是OPPO、vivo、小米、三星等传统手机品牌，但随著AI进入消费电子产品，拥有AI模型与云端服务能力的公司也开始投入硬体产品。
+在量产进展方面，TPU v9 预计于 2026 年 11 月前完成投片（Tape Out）。除了采用英特尔 EMIB-T 封装外，若 2029 年需求突破 400 万颗，联发科正与台积电洽谈加入 CoWoS 先进封装方案。
 
-例如高通与阿里巴巴、百度、Meta、三星、Google都有合作，并推出智慧眼镜产品，有几间公司并非传统意义上的高通智慧手机客户。Ziad Asghar透露，目前高通在Personal AI领域已经有约40款不同产品正在合作开发，产品形态也从眼镜、耳机延伸至戒指、别针与坠饰等不同装置。
+除了 Google 之外，联发科正积极拓展其他高潜力 ASIC 计划，预计近月内敲定，合共可带来 100 亿至 150 亿美元的潜在营收，其中包括
 
-不过，智慧眼镜要真正普及，最大的挑战之一仍是体积。Ziad Asghar指出，眼镜本身必须同时具备科技功能与时尚属性，消费者也不会只需要一种款式，而是希望拥有不同形状、尺寸与颜色的产品。对此，高通正持续缩小晶片与整体系统尺寸，并透过START计划提供模组化、完整且AI Ready的方案。
+1.SpaceX Dojo 3 计划：采用台积电 2 奈米（N2）制程与晶圆级系统（SoW）封装，并可能与辉达（Nvidia）合作提供 NVLink Fusion。
 
-他表示，START计划已经将主要晶片组整合至小型模组中，产品设计业者只需要加入麦克风、相机与扬声器，就能进一步打造自己的AI装置。透过这种方式，高通希望降低产品开发门槛，让更多时尚品牌与其他业者能够进入智慧眼镜市场。
+2. Tesla AI6 专案：应用于高阶辅助驾驶（ADAS）与机器人，规划先于英特尔晶圆厂生产，后续转至 Terafab。
 
-随著越来越多Personal AI装置浮现，Ziad Asghar表示，目前市场上正在出现另一种产品概念，即所谓的「Puck」，类似个人中枢系统。这类装置的尺寸可能接近耳机充电盒，但具备额外的电池与运算能力，让智慧眼镜可以把运算工作卸载到Puck。
+基于以上的消息，瑞银预测联发科未来数年业绩将迎来爆发性成长。在营收展望方面，预估联发科 2026 年营收为 6,739.73 亿元，2027 年年增 85% 至 1.25 兆元，028 年更将冲上 2.14 兆元（年增 71%）。
 
-换言之，未来可能出现一个放在口袋里的个人中央运算模组，眼镜、耳机、戒指等装置负责感测与互动，再将较复杂的AI工作交由Puck处理。在这种发展情境下，手机将不再是唯一的个人运算中枢，而个人中枢本身也可能演变成新的硬体形态。
-
-至于不同装置上的AI模型如果产生不同答案，Ziad Asghar表示，系统可以采取主机（Master）和从机（Slave）的架构，由能力较强的装置提供最终答案，但前提是该装置必须掌握足够的情境资讯。
-
-另一种方式则是Teacher与Student模型（教师/学生模型），较小的学生模型负责处理大部分Token，再由较大型的导师模型进行检查。透过这种方式，可以让大部分工作由低功耗模型完成，再利用大型模型确认结果，进一步降低整体功耗。
-
-最后展望未来三年，Ziad Asghar认为，目前成长最快的Personal AI装置将是智慧眼镜，下一波可能则是别针与坠饰等产品，因为有些人不想戴眼镜，这是另一个选择。]]></description>
+至于获利与 EPS部分，预估 2026 年 EPS 为 67.63 元，2027 年跳升至 177.51 元，2028 年更将达到 363.36 元。瑞银对 2028 年的 EPS 预估值比市场共识高出 44%。]]></description>
   </item>
   <item>
-    <title>推进实体 AI 与机器人布局！高通宣布收购机器人软体公司 PickNik</title>
-    <link>https://technews.tw/2026/09/24/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-robotics-and-physical-ai/</link>
-    <guid>https://technews.tw/2026/09/24/qualcomm-to-acquire-picknik-to-advance-the-future-of-open-robotics-and-physical-ai/</guid>
-    <pubDate>Wed, 23 Sep 2026 17:25:13 +0000</pubDate>
-    <description><![CDATA[高通已同意收购机器人软体公司PickNik，进一步推动在实体AI（Physical AI）与机器人领域的布局。
+    <title>微软 Surface Pro、Laptop 小改款，全面换上 Snapdragon X2 Plus</title>
+    <link>https://technews.tw/2026/09/24/surface-pro-laptop-snapdragon-x2-plus/</link>
+    <guid>https://technews.tw/2026/09/24/surface-pro-laptop-snapdragon-x2-plus/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:40:34 +0000</pubDate>
+    <description><![CDATA[微软更新旗下小尺寸 Surface 产品线，宣布 12 吋 Surface Pro 与 13 吋 Surface Laptop 将升级搭载高通 Snapdragon X2 Plus，并于 10 月 13 日上市。其中，Surface Pro 12 吋也将新增 5G 选配版本，进一步强化行动使用情境。高通也在 Snapdragon Summit 2026 文章中指出，两款新 Surface 均采用 Snapdragon X2 Plus。
 
-高通周三（23日）表示，这此次收购将强化其打造开放式机器人生态系的努力，为开发者提供所需的工具、软体与框架，协助机器人技术从研究与实验阶段，进一步走向原型开发、部署，以及大规模量产。
+据高通公布的资料显示，新一代 Surface Pro 12 吋与 Surface Laptop 13 吋，相较前代本地 AI 推论效能提升 80%，GPU 效能最高提升 55%，续航时间则超过 15 小时。两款产品也延续 Copilot+ PC 定位，将更多 AI 运算留在装置端完成。
 
-PickNik负责开发MoveIt，这是一套广泛采用的开源机器人操作框架。高通表示，MoveIt在持续维持开源的同时，预计也将能够与高通Dragonwing机器人平台更加顺畅地整合。
+Surface Pro 12 吋此次改搭 6 核心 Snapdragon X2 Plus，内建 Hexagon NPU，AI 算力达 80 TOPS；记忆体从 16GB 起跳，最高提供 24GB，储存空间则有 256GB 与 512GB。微软官方资料显示，新机本地影片播放续航最长可达 15.5 小时，网页使用则最长约 13 小时。
 
-高通指出，此次收购旨在强化高通技术对打造开放式机器人生态系的投入，为开发者提供所需的工具、软体与框架，协助其更有效率地从研究与实验阶段，进一步迈向原型开发、部署，以及大规模量产。
+新款 Surface Pro 12 吋起售价为 1,149.99 美元，相较前一代 8GB+256GB 基本款原价 849.99 美元，高出约 300 美元；若直接比较 16GB+256GB 规格，前代售价为 1,049.99 美元，新款仍增加约 100 美元。
 
-MoveIt在持续维持开源的同时，预计也将进一步简化与Dragonwing机器人平台的整合，为开发者提供更顺畅的开发路径，让AI模型（例如视觉语言动作模型（VLA）与视觉语言模型（VLM））能够进一步应用于路径规划、机器人操作及即时控制。此次交易的完成仍须符合惯例交割条件。
+Surface Laptop 13 吋的升级方向也相近，同样采用 6 核心 Snapdragon X2 Plus，并取消 8GB RAM 选项。16GB+256GB 版本售价为 1,199.99 美元，另提供 24GB RAM 与最高 512GB 储存空间选项。
 
-高通汽车、工业、嵌入式IoT与机器人事业执行副总裁暨事业群总经理Nakul Duggal表示，机器人是实体AI最令人期待的前沿领域之一，而软体则是将优异硬体转化为优秀机器人的关键连结。PickNik长期负责维护MoveIt，并致力于开源创新，因此在全球机器人社群中建立了高度信任。透过此次合作，公司计划让开发者更容易在Dragonwing机器人平台上打造先进的机器人应用，同时持续支持让MoveIt得以成功的开放性与协作精神。
+值得注意的是，这次小尺寸 Surface 的产品定位仍以轻薄与行动使用为主，硬体改动主要集中在处理器、AI 运算能力、萤幕与续航表现，整体外观设计并没有大幅调整。
 
-PickNik创办人暨产品长Dave Coleman表示，自公司成立以来，PickNik的使命就是提供产业一个强大且开放的平台，加速先进机器人的创新与开发，应用范围远超过传统工厂。加入高通技术后，将加速实现这项使命，扩大对MoveIt的投入，让其成为领先的机器人AI训练平台，同时为开发者创造更多价值，并维持开放性、社群协作与跨平台支援，这些一直都是我们发展方式的核心。
-
-PickNik执行长Dave Grant表示，MoveIt即将进入一个令人期待的新阶段，获得更多资源与支持后，有望进一步扩大其影响力。期待加入高通技术，并在MoveIt现有发展动能的基础上持续推进。]]></description>
+微软此次也同步推出新款 Surface Mouse，加入触觉回馈与可自订 Copilot 按键，售价 79.99 美元，预计同样于 10 月 13 日上市；新款 Surface Pro 与 Surface Laptop 也将搭配新的 Microsoft Ink Canvas 应用程式。]]></description>
   </item>
   <item>
-    <title>扩大在台布局！牛津仪器启用新竹全新办公室，强化在地客户服务</title>
-    <link>https://technews.tw/2026/09/23/oxford-instruments-taiwan-hsinchu/</link>
-    <guid>https://technews.tw/2026/09/23/oxford-instruments-taiwan-hsinchu/</guid>
-    <pubDate>Wed, 23 Sep 2026 14:51:36 +0000</pubDate>
-    <description><![CDATA[英国先进电浆制程业者牛津仪器（Oxford Instruments）扩大启用台湾办公室，进一步强化在地客户服务与技术支援能力，展现长期深耕台湾市场的承诺。
+    <title>Google 推出 Gemini 3.8 TTS 双模型，主打「从零设计声音」与导演级语气控制</title>
+    <link>https://technews.tw/2026/09/24/google-unveils-new-gemini-3-8-flash-tts-gemini-3-8-flash-lite-tts-ai-models/</link>
+    <guid>https://technews.tw/2026/09/24/google-unveils-new-gemini-3-8-flash-tts-gemini-3-8-flash-lite-tts-ai-models/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:40:12 +0000</pubDate>
+    <description><![CDATA[Google 9 月 23 日发表Gemini 3.8 Flash TTS 与 Gemini 3.8 Flash-Lite TTS 两款新文字转语音模型，将语音生成能力进一步推向更高的客制化与可扩充性。这两款模型被纳入 Gemini Audio 家族，锁定创作者、开发者与企业用户，应用场景涵盖有声书、Podcast、配音与语音代理等。
 
-牛津仪器指出，台湾拥有引领全球的半导体制造实力、高度整合的电子产业供应链，以及蓬勃发展的学术与研究生态系，是全球先进科技产业的重要枢纽，也是在亚太地区布局中的关键市场。这次因应持续成长的在地客户需求而扩大台湾据点，进一步深化与台湾的连结。
+其中，Gemini 3.8 Flash TTS 主打从零设计声音，使用者可透过自然语言描述角色、口音与声音特征，打造具辨识度的语音风格，并可在超过 100 种语言与方言中进行调整。Google 也提供超过 2,000 种可直接投入制作的声音选项，涵盖多种地区口音与语言变体，让内容制作更具弹性。
 
-牛津仪器指出，全新办公室为牛津仪器在台湾首个独立办公空间，将作为「以客户为中心的商业与技术支援中心」，整合商务、应用及技术服务能力，支援牛津仪器在先进科学与工业技术领域的产品组合服务，并聚焦于半导体、材料特性分析（materials characterization）、奈米科技及先进研究等领域的应用。
+除了声音设计，两款模型也支援逐行导演式控制，使用者可在脚本中加入场景提示或指令，细致调整语气、节奏与情绪表现。Google 表示，Gemini 3.8 Flash-Lite TTS 则更偏向效率与规模化应用，适合大量配音、内容生产与需要低成本运作的语音服务。
 
-除客户咨询与业务服务外，办公室亦将提供产品展示、技术交流、教育训练及售后支援，从初期技术评估、设备导入，到应用开发与后续系统支援，提供更完整的一站式在地服务。
+在透明度与安全性方面，Google 导入了验证同意机制、SynthID 浮水印，以及 C2PA 凭证，强化生成音讯的可追溯性与辨识度。这些功能旨在让 AI 生成语音在扩大应用的同时，也能维持更清楚的来源标示。
 
-此外，办公室特别设立「台湾先进分析系统实验室」，展示原子力显微镜（Atomic Force Microscopy，AFM）、拉曼显微镜（Raman microscopy）及各式影像系统（Imaging systems），提供互补的分析能力，可应用于奈米级的表面特性分析，以及化学或分子分析。客户可透过此实验室进行技术评估、样品展示、应用讨论及教育训练，了解相关技术在研究、制程开发与材料特性分析上的应用。
+▲ Gemini 3.8 Flash TTS 从零开始将自然语言提示转换为客制化的语音角色。
 
-牛津仪器亚洲区总裁Toyoharu Gohda表示，此次搬迁至全新的办公室与实验室，是在台湾发展的重要里程碑，除了提升营运效率，团队也能更即时与客户及合作伙伴紧密交流。期待进一步深化在台湾的布局，为客户提供更完善的技术与应用支援，并持续支持台湾科学与科技的发展。
+▲ Gemini 3.8 Flash TTS 将剧本转换为完整的对话场景，让创作者能指导配音和自然的对话轮换。
 
-台湾显微镜学会前理事长罗圣全博士指出，对材料研究与半导体产业而言，可靠且精准的量测与分析能力是推动研发与技术升级的重要基础。随著牛津仪器新办公室启用，期待未来能进一步串联企业、学术机构与产业界，深化技术交流与合作，支持台湾科技产业持续发展。]]></description>
+目前，两款模型已可在 Google AI Studio 与 Gemini API 使用，后续也将登上 Gemini Enterprise；其中 Gemini 3.8 Flash TTS 也正导入 Gemini Notebook，Flash-Lite TTS 则将加入 Google Vids，进一步扩展到创作与生产工具场景。]]></description>
   </item>
   <item>
-    <title>抢攻次世代宽频！中磊发表 50G PON 超高速光纤解决方案</title>
-    <link>https://technews.tw/2026/09/23/sercomm-new-50g-pon-product/</link>
-    <guid>https://technews.tw/2026/09/23/sercomm-new-50g-pon-product/</guid>
-    <pubDate>Wed, 23 Sep 2026 14:39:51 +0000</pubDate>
-    <description><![CDATA[随著8K影音串流、云端游戏、AR/VR、企业连线及行动回传需求激增的推动下，电信宽频设备大厂中磊电子推出50G PON超高速光纤系列产品，该解决方案不仅能提供高容量、对称式的multi-gigabit连线能力，更为新型家用、企业及行动服务奠定可扩展的基础，协助电信营运商优化网路容量并开拓全新业务契机。
+    <title>挪威拟开采欧洲最大稀土矿藏，最迟 2028 年提出计划</title>
+    <link>https://technews.tw/2026/09/24/norway-says-europes-largest-rare-earth-mine-plan-set-for-2028/</link>
+    <guid>https://technews.tw/2026/09/24/norway-says-europes-largest-rare-earth-mine-plan-set-for-2028/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:30:01 +0000</pubDate>
+    <description><![CDATA[挪威政府 23 日表示，目标「最晚」于 2028 年，提出开发欧洲已知最大稀土矿藏的计划。目前该计划因环境疑虑而受阻。
 
-中磊电子商务长Dan Whalen表示，日益增长的频宽需求正加速推动网路迈向更高容量的全光纤架构，而50G PON超高速光纤产品已成为下世代宽频的关键技术。中磊积极开发50G PON用户端设备（CPE）系列产品，旨在协助电信营运商在家用、企业、行动回传（Mobile Backhaul）及有线电视宽频市场中，以更大的灵活性与信心完成全光纤转型。
+法新社报导，芬矿区（Fen Complex，挪威语Fensfeltet）位于挪威首都奥斯陆西南方约150公里处，据信当地蕴藏1,590万公吨稀土氧化物。
 
-Dan Whalen指出，凭借在光纤产品领域的长期深厚经验，中磊提供具备互通性与可扩展性的50G PON解决方案，能无缝整合至不断演进的网路架构中。
+该矿藏含有钕（neodymium）和镨（praseodymium）等用于制造「超级磁铁（super magnets）」的元素，对于电动车、绿色能源及国防产业至关重要。
 
-中磊将于美国亚特兰大市举办的北美最大有线电视营运商盛会SCTE TechExpo26中，展出其最新50G PON超高速光纤解决方案。该产品遵循ITU-T G.9804.3规范，同时支援非对称（50G/25G）与对称（50G/50G）运作模式。该解决方案可在同一光配线网路（ODN）上支援与GPON及XGS-PON的三模式共存（tri-PON coexistence），不仅能保护营运商既有的光纤投资，亦能支援从混合光纤同轴（HFC）逐步升级至深度光纤（Fiber-deep）架构。
+经历多次延宕后，拥有开采权的挪威稀土公司（Rare Earths Norway）表示，希望在2030年代上半开始采矿。
 
-中磊也表示，其50G PON系统包含高效能家用宽频闸道器与SFP可插拔式ONU，整合了最佳化的动态频宽分配（DBA）、增强型OAM及网路切片功能，可支援DPoE部署模式，涵盖有线电视、光纤与融合存取网路等多种宽频网路场景。结合中磊即将推出的Wi-Fi 8宽频闸道器解决方案，该平台可提供端到端的multi-gigabit连线能力，为高价值的住宅与商业服务创造新契机。]]></description>
+但这项计划面临环保难题，尽管挪威稀土公司计划采用「隐形矿场」，也就是在地下进行开采及破碎作业，但其偏好的矿物加工场址却位于一片生物多样性丰富的古老森林内。
+
+调查已在该地区发现78种濒危动植物，包括多种依赖枯木生存的朽木类甲虫、欧洲山榆、欧洲梣、苔藓以及约40种真菌。
+
+今年年初，挪威政府接手原本由地方政府负责的规划工作，包括研究地表设施的替代地点。
+
+挪威贸易工业部长麦尔赛斯（Cecilie Myrseth）23日在记者会上表示：「目标是最晚于2028年完成计划，但最好能够提前。」
+
+稀土金属是生产智慧型手机、战斗机、电动车等各类产品不可或缺的原料，欧盟将其列为关键原物料。
+
+目前欧洲没有任何稀土矿藏正在进行开采，欧洲的稀土供应依赖中国。麦尔赛斯表示：「在这样的背景下，芬矿区可为欧洲及西方的供应做出贡献。」
+
+（译者：杨昭彦；首图来源：Sven Dahlgren/Rare Earths Norway）]]></description>
   </item>
   <item>
-    <title>台股创高总市值冲上 5.3 兆美元，超车印度跻身全球第四大</title>
-    <link>https://finance.technews.tw/2026/09/23/tw-stock-market-no4/</link>
-    <guid>https://finance.technews.tw/2026/09/23/tw-stock-market-no4/</guid>
-    <pubDate>Wed, 23 Sep 2026 10:00:08 +0000</pubDate>
-    <description><![CDATA[台股震荡创高，集中市场指数今天收盘上涨 357.12 点，收在 48,157.29 点，创收盘指数新高。MarketCapWatch 即时统计，台股最新市值冲上约 5.3 兆美元，超越印度跻身全球第四大市场。
+    <title>分析：AI 竞赛输不得，美中将谈护栏与热线而非放缓</title>
+    <link>https://technews.tw/2026/09/24/analysis-ai-race-must-win-us-china-guardrails-hotlines-not-slowing/</link>
+    <guid>https://technews.tw/2026/09/24/analysis-ai-race-must-win-us-china-guardrails-hotlines-not-slowing/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:20:12 +0000</pubDate>
+    <description><![CDATA[美国总统川普即将与来访的中国国家主席习近平峰会，预料双方将磋商从贸易到台湾等一系列棘手议题。目前一个双方可能有所共识的点应是：在 AI 领域，谁都担不起踩煞车代价。
 
-MarketCapWatch网站截至9月23日下午5时的最新各国股市市值排行榜，台湾以约5.3兆美元超越印度约4.94兆美元，晋身全球第四大，仅次美国82.7兆美元、中国约21.22兆美元及日本约8.59兆美元。
+美国人工智慧（AI）新贵Anthropic公司的研究员本月初抛出AI可能2030年之前毁灭人类后，包括公司执行长阿莫戴（Dario Amodei）、OpenAI执行长奥特曼（Sam Altman）、xAI创办人马斯克（Elon Musk）及Google DeepMind执行长哈萨比斯（Demis Hassabis）等AI巨头纷纷发声，认有必要限制AI发展速度。
 
-第六至十名市场依序为英国约4.86兆美元、韩国约4.5兆美元、加拿大约4.45兆美元、法国约3.08兆美元，以及德国约3兆美元。
+川普则持相反看法，甚至称「AI将接管世界」的说法是骗局；辉达执行长黄仁勋也认为AI可受安全管理，主张不需要新的监管规范，并觉得「末日论」被过度炒作。
 
-MarketCapWatch为国际知名的全球资本市场即时数据追踪平台，涵盖不同国家、地区及产业的上市企业，主要依据公司市值进行全球及区域排名，并提供股价、市值、营收、净利、每股盈余及历史市值变化等资料。网站也整理各国及主要股票市场的总市值排名，可观察全球资本市场规模及企业市值变化。]]></description>
+美国财经新闻网CNBC报导，在川习24日峰会前，美国财长贝森特（Scott Bessent）上周末与中国国务院副总理何立峰讨论重启「美中人工智慧对话」的前景，其中包括建立一条处理「涉及国家安全层级」事件的沟通管道。
+
+战略暨国际研究中心（CSIS）渥华尼人工智慧中心（Wadhwani AI Center）主任梅塔（Aalok Mehta）告诉CNBC，美中最有可能达成共识的部分，是针对先进模型制定AI安全的共同定义与架构，以及建立讨论突发事件的紧急沟通机制。
+
+外交关系协会（CFR）中国与新兴科技高级研究员麦盖尔（Chris McGuire）告诉CNBC，几可确定双方不可能达成放缓AI发展速度的协议，但若能针对国安相关事件建立沟通管道，会是正面的一步。
+
+尽管美国祭出各项限制，但有消息指一些中国企业仍能透过东南亚的资料中心，远端获取高阶晶片的算力。
+
+大西洋理事会（Atlantic Council）全球中国中心资深主任哈特（Melanie Hart）表示，虽然美国贸易代表葛里尔（Jamieson Greer）称晶片管制并未列入上周末美中会议的议程，但中国仍可能极力争取松绑。她说：「中国正要求美方接纳中国的AI模型，并放宽美国对中国取得晶片的限制。」
+
+彭博（Bloomberg News）一篇分析认为，当矽谷还在争论AI毁灭人类的风险时，华府与北京似乎更担心全球科技主导权，两国都没有显示出放缓AI发展的意图。
+
+华府非营利智库「欧洲政策分析中心」（CEPA）科技政策计划高级研究员、美国前情报分析员罗斯腾（Elly Rostoum）表示，双方都不想放慢发展速度，但美中都明白问题严重到必须展开对话，相关企业也必须对话。
+
+分析称美中都希望继续推动AI发展，意味24日的川习会在AI议题上更可能是制定范围明确的安全防护措施，而不是限制AI发展速度；与此同时，双方也正试探性地寻求在关键风险上建立共识。
+
+为缩小与美国的差距，中国已将开放权重AI视为在国内追赶美国、并扩大海外影响力的一项策略。
+
+深度求索（DeepSeek）的R1和月之暗面（Moonshot）的Kimi K3等崭露头角的模型，都可以由全球开发者下载并进行调整，让中国各AI实验室得以相互借鉴成果，并在有限的运算资源下进一步提升模型效能。这些模型也因此在海外赢得支持，有助于让中国软体融入各种工作流程和产品，为日后商业化铺路。
+
+智谱（Z.ai）协助马来西亚建立主权AI基础设施；沙乌地阿拉伯政府支持的Humain则委托中国新创公司稀宇科技（MiniMax Group），利用后者的开放模型打造国家级AI平台。
+
+中国的开放权重模型之所以受欢迎，主要结合成本、弹性和效能等优势，但却威胁到采闭源模型的美国主要AI公司向客户收取专有模型使用费。这可能导致美国进一步加强出口管制，借此限制中国取得维持AI竞争力所需的运算资源。]]></description>
   </item>
   <item>
-    <title>前 Google 首席科学家看好专用晶片，AI 自动化将颠覆晶片设计周期</title>
-    <link>https://technews.tw/2026/09/23/ai-helps-chip-designers-break-traditional-design-cycle-limits/</link>
-    <guid>https://technews.tw/2026/09/23/ai-helps-chip-designers-break-traditional-design-cycle-limits/</guid>
-    <pubDate>Wed, 23 Sep 2026 09:44:55 +0000</pubDate>
-    <description><![CDATA[前 Google DeepMind 首席科学家迪恩（Jeff Dean）相信，AI 有助于晶片设计者克服设计周期中的种种限制，设计出更能因应当代运算需求的客制化晶片。他认为，随著运算领域持续演进，客制化晶片将会越来越重要。
+    <title>Muse 爆红恐绕过搜寻？Google 广告金鸡母受威胁</title>
+    <link>https://technews.tw/2026/09/24/muse-viral-bypassing-search-threatens-google-ads-cash-cow/</link>
+    <guid>https://technews.tw/2026/09/24/muse-viral-bypassing-search-threatens-google-ads-cash-cow/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:10:01 +0000</pubDate>
+    <description><![CDATA[社群龙头 Meta Platforms 个人 AI 代理「Muse」大获成功，引发市场担忧 Google 母公司 Alphabet 由搜寻引擎带动的广告业务恐受到冲击。
 
-迪恩过去在 Google 任职期间，有篇刊载于科学期刊《自然》（Nature）的研究论文，他是 21 位共同作者其中一人。那篇论文主张运用深度强化学习进行晶片设计，其表现将会优于传统方法。虽然那篇论文发表后引发争议，内部吹哨者质疑研究成果造假甚至遭到解雇，因法律纠纷而蒙上阴影，但他依旧相信，仰赖 AI 进行晶片设计是未来的方向。
+Invezz、Benzinga 23日报导，根据Meta首席AI长Alexandr Wang 9月8日在社交平台X的说法，Muse可连结Gmail、Google日历（Google Calendar）及Google文件（Google Docs）等日常使用的服务。
 
-迪恩上周在一场公开演讲，探讨如何协同设计模型、专用 TPU 硬体及分散式系统，以实现可靠的大规模运算。他对于专用硬体的前景充满信心，尤其专用晶片能催生出更具效率的系统。
+1/ we’ve built a lot of connectors to make it easier to integrate Muse into your life. Muse runs in a secure VM and we don’t use your data for ads or anything other than to make Muse great for you. you can connect Muse to Gmail, Google calendar, Outlook, Plaid, Opentable, Google…
 
-「目前的工作负载中，有少数几种工作负载占去全世界大部分的运算量。」迪恩认为，这代表需要更高程度的专用硬体。
+— Alexandr Wang (@alexandr_wang)September 8, 2026
 
-迪恩点出专用晶片的关键问题在于：一旦晶片设计定案，只能任凭未来的各种变化摆布。「专门化的问题是，如果你未来想做的事情改变了，那么你可能花了 2 年时间精心打造出来的硬体，或许不再切合需求」，他说。
+随著Muse日益普及，市场更加担忧AI代理可能对Alphabet以搜寻为核心的广告业务造成影响。能够直接代替用户执行任务的AI代理，可能降低用户透过传统浏览器或搜寻介面使用各项服务的需求。
 
-根据迪恩的说法，晶片问题的解方在于硬体设计自动化。他指出，传统的晶片设计流程，首先会由一组开发人员研究高阶规格，接著依此建构出低阶的暂存器传输层级（register-transfer-level，RTL）规格。由于这段转译工作是人工完成，因此还得再由另一组开发人员来验证前一组的工作成果。
+这可能对支撑Alphabet广告业务的搜寻活动构成潜在挑战。Wang在X强调，Muse不会将用户资料导入广告系统。
 
-这些问题的解决办法是执行「可透过强化学习或其他技术进行搜寻的自动化回圈」。要克服传统的电子设计自动化（EDA），关键便是速度，「如果你能让这些流程跑得够快，就有机会针对设计流程建立自动化程度更高的探索回圈，甚至可能大幅压缩设计周期」，他说
+更广泛的竞争焦点在于，Alphabet在AI领域的布局与Meta等竞争对手相比处于何种位置。目前Meta仍持续推出面向消费者的AI产品。
 
-自动化与速度会如何影响整个设计流程？「举例来说，如果你能够用 10 个人、花 3 个月的时间设计出一款全新晶片，而不是用 150 个人、花 2 年的时间，那么你将会在这个世界上看到更多专用硬体。你不需要为自己的未来押上那么沉重的赌注，思考著『从现在起 2 至 6 年后需要什么运算？』现在则会更接近『3 至 6 个月后，一直到 4 年后』的需求。」
+Meta 23日逆势续涨1.02%、收744.10美元，创2025年10月29日以来收盘新高。
 
-AI 的崛起，尤其是代理式 AI，引发外界对于这项技术在半导体设计实用性的辩论。包括各大顶尖 EDA 厂商与中国企业在内许多公司，采用代理式 AI 投入 EDA 设计流程。
+投资人担心，这些个人AI代理等工具，可能冲击受惠于所谓「消费者惰性」（consumer inertia）的企业。Alphabet Class A股、亚马逊（Amazon.com）23日分别下挫3.8%、2.24%。亚马逊周一已禁止这款AI代理在其平台上购物。
 
-值得关注的是，对晶片制造拥有深厚经验的台积电共同营运长米玉杰近日提醒，不应在研发下一代技术时过度依赖 AI。他进一步解释，由于开发上涉及大量未知变数且缺乏历史数据，如果现有设备与材料无法达成目标，AI 也无法克服物理与技术限制。]]></description>
+旅游预订平台Expedia、Booking Holdings、Airbnb 23日续挫7.72%、5.07%、7.56%。]]></description>
   </item>
   <item>
-    <title>找到银河系首个微耀变体，可能是银河系最快粒子诞生源头</title>
-    <link>https://technews.tw/2026/09/23/iras-18293%e2%88%920941-black-hole-jet-blazar-microblazar/</link>
-    <guid>https://technews.tw/2026/09/23/iras-18293%e2%88%920941-black-hole-jet-blazar-microblazar/</guid>
-    <pubDate>Wed, 23 Sep 2026 09:40:25 +0000</pubDate>
-    <description><![CDATA[30 年来，天文学家一直在寻找肯定存于银河系的天体类型——微耀变体。现在，由西班牙、荷兰、阿根廷天文学家领导的国际团队，发现第一个藏在离地球约 12,000 光年星际尘埃后面的微耀变体。
+    <title>降低对 SpaceX 依赖？Planet 德国卫星厂启用，年产能上看 60 颗</title>
+    <link>https://technews.tw/2026/09/24/planet-german-satellite-factory-spacex-reliance-60-satellites-annual-capacity/</link>
+    <guid>https://technews.tw/2026/09/24/planet-german-satellite-factory-spacex-reliance-60-satellites-annual-capacity/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:01:01 +0000</pubDate>
+    <description><![CDATA[卫星影像业者 Planet Labs 加速扩大欧洲布局，近日正式启用位于德国柏林的新卫星制造基地，预计今年秋季开始生产新一代 Pelican 地球观测卫星，首颗卫星最快年底前完成，未来年产能最高可达 60 颗。首批柏林制造的卫星预计 2027 年初搭乘德国 Isar Aerospace 的 Spectrum 火箭升空，从卫星制造到发射逐步转向欧洲本土供应链。
 
-位于遥远星系中心质量高达太阳数十亿倍的超大质量黑洞，活跃时会吸收周围物质，再以极高能量的喷流形式将物质从两极逸出，若其中一道喷流「刚好」对准地球，会使黑洞看起来更亮，此时该黑洞系统被称为耀变体（Blazar）。
+Planet 柏林新厂面积约 5,700 平方公尺，主要生产约 300 公斤级、影像解析度达 30 公分等级的 Pelican 卫星，并整合卫星制造、测试及出货流程。Planet 过去 15 年已制造并成功发射 688 颗卫星，此次将既有量产经验导入德国，希望提高欧洲地球观测卫星的供应速度。
 
-1990 年代以来，理论学家相信银河系应该存在迷你一点的「微耀变体（microblazar）」——质量较小的恒星黑洞喷出对准地球的喷流，但过去没有任何候选天体验明正身。
+值得注意的是，Planet 首批德国制 Pelican 卫星将交由 Isar Aerospace 执行发射。随著欧洲近年积极建立自主太空产业链，从卫星制造到火箭发射都开始提高本土供应能力，也希望降低对国外如 SpaceX 等非欧洲发射服务商的依赖。Planet 执行长 Will Marshall 表示，欧洲需要建立自己的地球观测能力，以因应安全、永续发展等需求。
 
-直到现在，西班牙哈恩大学、荷兰电波天文研究所（ASTRON）、VLBI ERIC 联合研究所（JIVE）、阿姆斯特丹大学等机构组成的国际天文学家团队，终于在银河系确认第一个微耀变体，名为 IRAS 18293−0941。
+Planet 目前已在欧洲承接多项自主卫星计划。公司指出，先前取得德国政府资助的合约，将在签约后 2 个月内提供专用卫星能力，以支援欧洲和平与安全；瑞典方面则在 4 个月内提供首颗自主卫星，使当地相关计划提前 4 年推进
 
-IRAS 18293−0941 一直躲藏在离地球约 12,000 光年的星际尘埃云后方，为 1 颗大质量恒星围绕著恒星黑洞每 11.38 天公转一圈的 X 射线联星系统，来自恒星的物质落向黑洞被吞噬，部分再沿著喷流吐回太空，方向几乎直指我们。
+除了硬体制造，Planet 也同步扩大卫星资料与 AI 应用。公司近日与贝佐斯地球基金（Bezos Earth Fund）、世界资源研究所（WRI）等超过 20 个机构启动 Amazon.ia 计划，其中贝佐斯地球基金透过安地斯亚马逊基金及 WRI 提供合计超过 1,400 万美元资助。
 
-▲ IRAS 18293−0941 示意图，系统内一颗大质量恒星与一个恒星黑洞相互环绕运行，黑洞侧喷流几乎正对著地球而显得明亮，右侧喷流指向远离地球方向，因此不可见。
+Amazon.ia 将整合 Planet 卫星影像与亚马逊地区的地面观测资料，利用 AI 追踪生物多样性及生态系统变化，提供环境变化警示、生物多样性状况、保护区成效及生态复育成果等资讯，让卫星资料进一步应用于森林与生态监测。
 
-研究人员解释，IRAS 18293−0941 被大量尘埃掩盖，导致标准光学影像几乎看不见它，就算几十年前已被编入星表，我们仍然不以为意，直到团队分析西班牙 Montsec 天文台、卡拉阿托天文台多年监测数据，发现恒星光线存在微微闪烁变化且显出 11.38 天轨道周期，许多无线电波影像更揭示关键现象——似乎有个明亮致密核心且仅一侧发射喷流，表明其中一道喷流几乎正对地球（另一道喷流因远离我们而「变暗」，几乎隐形）。
-
-数据还显示该喷流穿越 100 光年区域，清空该范围内星际介质，喷流边缘还产生一个明亮致密「热点」——粒子在该处被加速至接近光速，能量高达 PeV 级别。
-
-天文学家一直不确定宇宙射线最高能量的粒子来自哪个「天然粒子加速器」，理论仅能先提出 PeVatron 是超高能宇宙射线的「工厂」，过去大家猜测 PeVatron 来源为超新星残骸。最新发现首度提供强力证据，表明微耀变体喷流可能是催生银河系最高速粒子的来源之一，解开粒子物理与天文学核心谜团。
-
-过去我们只能观测遥远耀变体的模糊身影，如今能以前所未有细节研究宇宙强大加速机制，进一步理解微耀变体如何影响银河系的结构及演化。
-
-新论文发表在《天文学与天体物理学报》（Astronomy & Astrophysics）。]]></description>
+目前 Planet 全球超过 30% 员工位于欧洲，柏林也是公司主要欧洲营运基地。新厂启用后还将新增约 70 名员工，加上原有近 150 人团队，进一步扩大当地卫星制造、任务营运及资料处理能力。从卫星制造、发射到 AI 影像分析，Planet 正逐步扩大欧洲布局，也反映地球观测产业的竞争正从卫星数量进一步延伸至自主供应链与资料应用能力。]]></description>
   </item>
   <item>
-    <title>三星物产砸 1 亿美元押注先进核能，携手 Kairos Power 盖反应炉</title>
-    <link>https://technews.tw/2026/09/23/samsung-ct-invests-100m-advanced-nuclear-kairos-power-reactors/</link>
-    <guid>https://technews.tw/2026/09/23/samsung-ct-invests-100m-advanced-nuclear-kairos-power-reactors/</guid>
-    <pubDate>Wed, 23 Sep 2026 09:31:33 +0000</pubDate>
-    <description><![CDATA[三星物产（Samsung C&T）进一步扩大先进核能布局，与美国核能新创 Kairos Power 签署具约束力的条款清单，将透过直接投资及工程服务等方式投入最高 1 亿美元，协助推进位于田纳西州橡树岭的 Hermes 2 示范反应炉，同时加入 Kairos Power 的工程、采购与施工（EPC）团队，为后续 KP-FHR 反应炉商业化部署做准备。
+    <title>美财长：美中同意延长贸易休战 2 个月至明年 1/10</title>
+    <link>https://technews.tw/2026/09/24/us-treasury-us-china-extend-trade-truce-2-months-jan-10-next-year/</link>
+    <guid>https://technews.tw/2026/09/24/us-treasury-us-china-extend-trade-truce-2-months-jan-10-next-year/</guid>
+    <pubDate>Thu, 24 Sep 2026 01:00:28 +0000</pubDate>
+    <description><![CDATA[综合港媒报导，应美国总统川普（Donald Trump）邀请，中国国家主席习近平于 9 月 23 日至 25 日对美国进行国事访问三天。
 
-根据协议，三星物产将与 Kairos Power 及其他合作伙伴共同参与 Hermes 2 建设，初期聚焦发电系统及电厂辅助系统（Balance of Plant，BOP）的工程与施工。Kairos Power 则持续主导反应炉技术、工程设计、制造、采购及核岛建设，并负责整体专案管理与进度控制。这项合作也延续三星物产、Kairos Power 与 Barnard Construction 今年 8 月签署的三方合作备忘录。
+习近平于当地时间周三（23日）下午抵达美国首都华盛顿，川普与夫人梅兰妮亚（Melania Trump）亲自到马里兰州安德鲁斯空军基地（Joint Base Andrews）迎接习近平到访。习近平访美之际，美国财政部长贝森特（Scott Bessent）表示，中美双方同意延长贸易休战协议两个月，至明（2027）年1月10日。
 
-Hermes 2 已于 2024 年 12 月取得美国核能管理委员会（NRC）建造许可，并于 2026 年 4 月在橡树岭正式动工。该示范电厂规画发电容量 50 MWe，并将与电网连接，主要用于验证 KP-FHR 技术，同时降低未来商用反应炉在技术、监管许可、制造及施工等环节的不确定性。
+贝森特周三于华盛顿世界银行总部，再次与中国国务院副总理何立峰会面，为两国元首峰会做准备，这是两人在短短4天内的第二度会面。贝森特于会后表示，两国已同意延长原定将于今年11月10日届满的「釜山协议」贸易休战期，顺延两个月至明年1月10日，以便双方有更多时间探讨在经济领域可以采取哪些措施。贝森特并表示，双方有可能降低总值300亿美元非敏感商品的关税。
 
-Kairos Power 开发的 KP-FHR 为氟盐冷却高温反应炉，采用 TRISO 包覆燃料颗粒及熔融氟盐作为冷却剂，并采模组化设计，可透过多机组方式扩大部署。Hermes 2 将成为公司从示范阶段走向大型商业部署的重要一环。
+贝森特于会后接受美国媒体访问时表示，中方在日前进行的高层对话中，提出了寻求达成一份更广泛、大规模贸易协议的想法。他强调，美方对此持开放态度，并愿意进行深入研究，但华府最终会做出最符合美国利益的决策。「我们对于继续沿用釜山协议框架，或是进一步探讨更广泛的协议都持开放态度，重点是必须基于互惠与公平的原则。」
 
-三星物产此次除了投入资金，也直接加入反应炉工程建设。双方规画透过 Hermes 2 累积专案执行经验，进一步建立标准化 KP-FHR 的工程与施工模式，未来合作范围也可望延伸至美国及其他海外市场。美国能源部目前亦透过先进反应炉示范计划（ARDP）的风险降低奖助，支持 Kairos Power 推进相关技术开发与示范。]]></description>
+会后，贝森特于社群平台发文，形容与中方官员的讨论「充实且具建设性」。他指出，美国财政部当前的核心任务，是聚焦于争取具实质意义的承诺，以保护美国工人、农民及企业的利益，同时切实维护美国的经济与国家安全。
+
+Today in Washington, Vice Premier He Lifeng and I held substantive discussions on the U.S.-China economic relationship ahead of President Trump’s meeting with President Xi. Our discussions continued to focus on securing meaningful commitments that protect American workers,…pic.twitter.com/YgBBr2LT4W
+
+— Treasury Secretary Scott Bessent (@SecScottBessent)September 23, 2026
+
+本次会面被视为中美元首峰会前的关键铺路。在此之前的周日（20日），贝森特、美国贸易代表格里尔（Jamieson Greer）与何立峰已在纽约进行了长达数小时的部长级对话，双方当时除了就重启「贸易委员会」及建立人工智慧（AI）安全通报热线达成共识外，亦就非战略商品关税减免及美方农产品、波音飞机采购等议题展开磋商。
+
+此次是习近平相隔3年再次访美，以及相隔11年再次国事访问美国，亦是川普今年5月访中后，中美元首半年内实现互访。陪同习近平出访的人员包括习近平夫人彭丽媛，中共中央政治局常委、中央办公厅主任蔡奇，中国外长王毅等。根据安排，白宫周四（24日）将举行欢迎仪式，川普和习近平检阅仪队后，将会展开会谈。]]></description>
   </item>
   <item>
-    <title>OPPO A7 Pro 系列登台，Pro Max 机款首度亮相</title>
-    <link>https://technews.tw/2026/09/23/oppo-a7-pro-series/</link>
-    <guid>https://technews.tw/2026/09/23/oppo-a7-pro-series/</guid>
-    <pubDate>Wed, 23 Sep 2026 08:57:31 +0000</pubDate>
-    <description><![CDATA[OPPO 今日在台发表全新 A7 Pro 系列，并首度导入 A7 Pro Max 高规版本，主打大容量电池、耐用性与防水能力。A7 Pro Max 搭载 10,000mAh 电池，支援 80W SUPERVOOC 快充与最高 27W 有线反向充电；A7 Pro 则配备 8,000mAh 电池与 45W 快充，全系列将于 10 月 1 日在台上市。
+    <title>长江存储赢得欧洲专利战！德法院判美光侵权，欧洲 NAND 供应恐受冲击</title>
+    <link>https://technews.tw/2026/09/24/ymtc-wins-patent-battle-against-micron/</link>
+    <guid>https://technews.tw/2026/09/24/ymtc-wins-patent-battle-against-micron/</guid>
+    <pubDate>Thu, 24 Sep 2026 00:56:30 +0000</pubDate>
+    <description><![CDATA[德国法院日前对美光发布禁令，长江存储与美光在长达三年的专利法律战中，由前者在欧洲及德国战线中取得胜利。
 
-其中，A7 Pro Max 采用 10,000mAh 电池，OPPO 宣称可提供最长 60 小时通话，或约 21 小时 Google 导航使用时间；80W SUPERVOOC 快充则可在约 91 分钟内由 1% 充至 100%。此外，A7 Pro 系列皆支援最高 27W 有线反向充电，可替耳机、智慧手表或其他装置补充电力。
+市场消息传出，法院于9月18日裁定，美光在两起案件中确实侵犯长江存储的3D NAND技术专利。该禁令可能限制美光在德国市场的供应，并影响更广泛的欧洲NAND市场。对此，美光表示不同意法院裁决，并已提出上诉。
 
-A7 Pro 系列采用晶盾玻璃、高强度铝合金中框与仿生海绵缓震结构，并通过军规级抗冲击设计。防水防尘则支援 IP66、IP68、IP69 与 IP69K 等级，可承受粉尘、浸水，以及高压、高温水柱冲刷；另外也支援暴雨触控，官方称最高可应对 1,000mm/h 的极端降雨环境。有趣的是，为了凸显心机耐用性，官方甚至直接拿 A7 Pro 系列砸核桃。
+长江存储于2025年底向德国慕尼黑法院提起诉讼，针对4项德国实用新型专利及1项欧洲专利提出5起案件。法院针对其中2项实用新型专利发布禁令、专利保护期为10年，其余案件则延后审理。
 
-A7 Pro 系列前后皆搭载 5,000 万画素镜头，前镜头支援 100 度超广角、AF 自动对焦与 0.6x 超广角自拍，并加入 AI 智慧广角切换，可依入镜人数调整焦段；低光环境下则可透过萤幕补光辅助自拍。
+根据报导，美光和长江存储的争端始于2023年，当时后者在美国加州起诉美光，指控其侵犯8项3D NAND架构专利。此后，双方的法律战逐渐扩大至多个司法管辖区，涉及超过20项专利，并形成彼此提告、反诉的局面。相关案件涵盖专利侵权、确认判决（declaratory judgment）、间谍软体、诽谤、不实广告及专利无效诉讼等，案件分别在中国、美国、英国及欧洲其他地区的法院审理。
 
-显示规格方面，A7 Pro Max 采用 6.78 吋 1.5K AMOLED 萤幕，支援 120Hz 更新率，最高亮度 1,800 尼特，并具备双立体声喇叭与 300% 超级音量模式；A7 Pro 则搭载 6.57 吋 FHD+ AMOLED 萤幕；两款新机皆预载 ColorOS 16。
-
-A7 Pro Max 搭载高通 Snapdragon 4 Gen 5 处理器，配置 8GB+256GB，电池容量 10,000mAh，机身厚度 8.57mm、重量约 226g；A7 Pro 则采用 MediaTek Dimensity 6360 MAX，提供 8GB+128GB 与 8GB+256GB 两种容量，电池容量为 8,000mAh，重量约 205g。
-
-OPPO A7 Pro Max 8GB+256GB 建议售价为 17,990 元，提供晴海蓝、星夜黑两色；A7 Pro 8GB+256GB 售价 14,990 元，8GB+128GB 售价 13,990 元，提供晴海蓝与钛光银两色。全系列预计 10 月 1 日起于 OPPO 体验店、官方网路商店、指定电商平台、各大电信与经销通路开卖。]]></description>
+针对这些指控，美光强烈否认任何不当行为，也提出多起专利无效挑战，其中已经有7项宣告无效。美光表示将持续采取行动，以维护自身智慧财产权。]]></description>
   </item>
   <item>
-    <title>马斯克：中国 2-3 年内将能补齐 AI 算力缺口</title>
-    <link>https://technews.tw/2026/09/23/elon-musk-says-china-could-close-ai-compute-gap-within-3-years/</link>
-    <guid>https://technews.tw/2026/09/23/elon-musk-says-china-could-close-ai-compute-gap-within-3-years/</guid>
-    <pubDate>Wed, 23 Sep 2026 08:50:30 +0000</pubDate>
-    <description><![CDATA[综合中媒报导，特斯拉（Tesla）与 SpaceX 执行长马斯克（Elon Musk）23 日接受中国央视财经专访时表示，中国的人工智慧（AI）大模型整体而言非常出色，单位算力产出的性能几乎是全球顶尖水准。他认为，中国解决算力问题的速度会比大多数人预想更快，估计约两到三年内，中国就能依靠光刻技术与晶片制造补齐算力缺口。
+    <title>莫德纳攻癌症、撕掉新冠疫苗商标签  股价飙</title>
+    <link>https://finance.technews.tw/2026/09/24/moderna-stock-hits-a-new-high-as-ceo-says-its-more-than-covid-vaccines/</link>
+    <guid>https://finance.technews.tw/2026/09/24/moderna-stock-hits-a-new-high-as-ceo-says-its-more-than-covid-vaccines/</guid>
+    <pubDate>Thu, 24 Sep 2026 00:50:07 +0000</pubDate>
+    <description><![CDATA[mRNA 疗法及疫苗生技业者莫德纳（Moderna Inc.）进军癌症和罕见疾病疗法的前景受瞩，股价今年强涨逾五倍，高层直指，公司并非只是「新冠疫苗公司」，市场也逐渐认知到这一点。
 
-谈及机器人，马斯克展望未来，表示每个人都能拥有专属机器人，承担各类工作；他预测，十年内至少将有10亿台人形机器人，未来15年或许达到100亿台，未来20年可能达到1,000亿台。
+巴隆周刊报导，莫德纳执行长班塞尔（Stéphane Bancel）表示，莫德纳从来并非仅止是新冠疫苗制造商，而是一家mRNA平台公司。研发长柏曼（David Berman）也指出，公司正在将mRNA技术拓展至癌症及罕见疾病领域。
 
-谈及AI时代教育问题，马斯克建议应广泛学习，兼顾人文艺术、科学与工程，强化通识基础。他表示，要向机器人下达指令，就要学会组织问题，知识面越广，越擅长提问，这正是给AI写提示词。
+莫德纳与合作伙伴默沙东（Merck）8月宣布个人化mRNA癌症疫苗「intismeran autogene」的后期试验已达主要试验终点，将于10月24日的欧洲肿瘤内科学会（ESMO）年会公布第3期临床试验完整数据，市场也对此投以高度期待。
 
-马斯克曾表示，预计到2027年底，人工智慧将独立完成所有数位领域工作，彻底替代人工直接操作的各类数位化工作。在短期技术突破上，他预判未来12至18个月内，AI将在工程及各类数位领域实现能力跨越式提升。其中，AI程式设计能力最快明年达到「Stockfish级」水准。
+intismeran autogene是依患者个别肿瘤突变制作的mRNA疗法。研究人员在手术切除肿瘤后进行定序，找出癌细胞表现的突变蛋白，再依这些新抗原制作患者专属mRNA，并与默沙东免疫疗法Keytruda合并使用。
 
-马斯克并预测，未来会诞生大量「一人公司」，因为一个人可操控成百上千甚至上万台实体机器人与数位智慧体，人的生产力将被极大放大。他同时预测，未来会实现全民高收入，甚至金钱的意义都会淡化。
+巴隆周刊分析，班塞尔和柏曼的言论暗示莫德纳正在以intismeran改变战略叙事，强调mRNA平台的潜力和进军肿瘤学领域的前景。
+
+Moderna在新冠疫情期间因Spikevax疫苗一战成名，该产品2020年12月取得紧急使用授权，并于2022年1月获美国食品药物管理局（FDA）正式核准；不过，随著疫情退烧、新冠疫苗需求锐减，公司也积极寻找新成长动能。
+
+莫德纳股价近一个月来表现强势，23日收在182.11美元，年初迄今已飙涨逾五倍；不过，目前股价距离2021年的高点497美元仍有一大段距离。
+
+（本文由MoneyDJ新闻授权转载；首图来源：Fletcher,CC BY 4.0, via Wikimedia Commons）]]></description>
+  </item>
+  <item>
+    <title>Muse 爆红助攻 Palantir？分析师看好 AI 落地红利</title>
+    <link>https://technews.tw/2026/09/24/palantirs-stock-sees-its-highest-close-of-the-year/</link>
+    <guid>https://technews.tw/2026/09/24/palantirs-stock-sees-its-highest-close-of-the-year/</guid>
+    <pubDate>Thu, 24 Sep 2026 00:40:20 +0000</pubDate>
+    <description><![CDATA[社群龙头 Meta Platforms 的个人 AI 代理「Muse」爆红，证明 AI 代理的实际应用开始渗透大众消费市场。分析人士相信，这项趋势可能有利于矽谷大数据分析商 Palantir Technologies Inc. 持续成长的商业业务。
+
+MarketWatch 23日报导，StoneX分析师Yi Fu表示，企业更广泛采用AI，可能间接推动Palantir的成长动能。「随著AI从概念走向实际应用，并逐步深入企业与消费市场，投资人似乎愈来愈愿意给予那些有望大规模部署AI、并将其落实于实际营运的领导企业更高评价。」
+
+Palantir甫于8月将全年营收展望从先前的76.5~76.6亿美元调高至81.5~81.6亿美元。
+
+Palantir执行长Alex Karp当时对MarketWatch表示，客户希望掌握AI模型的控制权，已成为推动公司业务成长的动能之一。客户希望能客制化AI模型并自行掌控资料，而Palantir一直致力于满足这些需求。
+
+Lee指出，Palantir近期举办的对外活动，例如9月稍早举行的公司AI大会「AIPCon 11」，进一步印证管理层对AI业务的说法。
+
+Palantir另一项成长催化剂，是成功部署AI系统「Maven Smart System」（MSS）。William Blair分析师Louie DiPalma表示，美国国防部正持续「全面投入」MSS。DiPalma 8月曾在报告中写道，MSS一直是Palantir美国政府业务营收成长的主要动能。
+
+Palantir 23日逆势劲扬3.68%、收191.79美元，创2025年12月24日以来收盘新高，已连续第6个交易日走扬。
+
+辉达（Nvidia Corp.）执行长黄仁勋（Jensen Huang）先前曾表示，继程式设计成为AI最早的重要应用之一后，保护电脑系统的网路安全（Cybersecurity）领域将成为AI下一个重大应用，企业会愈来愈仰赖AI寻找软体漏洞并抵御网路攻击。
+
+辉达本身也在扩大AI资安布局，近期已分别与CrowdStrike、思科（Cisco）及Palantir合作，开发AI驱动的网路安全工具。
 
 （本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>付费抢先看发文惹议，旧金山市告川普媒体公司</title>
-    <link>https://finance.technews.tw/2026/09/23/san-francisco-sues-truth-social-over-insider-trading/</link>
-    <guid>https://finance.technews.tw/2026/09/23/san-francisco-sues-truth-social-over-insider-trading/</guid>
-    <pubDate>Wed, 23 Sep 2026 08:20:14 +0000</pubDate>
-    <description><![CDATA[美国加州旧金山市政府控告拥有社群平台「真实社群」的「川普媒体与科技集团」，指控他们向华尔街交易商出售优先取得总统川普贴文的权限，助长内线交易。
-
-法新社报导，旧金山市府律师邱信福（David Chiu）昨天在旧金山法院对「川普媒体与科技集团」（Trump Media & Technology Group，TMTG）提起诉讼。川普持有这家公司41%股权。
-
-这起诉讼针对今夏推出的产品Truth API。这项付费资料授权服务的订阅者可抢先一般民众浏览川普、副总统范斯（JD Vance）等具影响力人物「真实社群」（Truth Social）帐号贴文，每月费用最高10万美元（约新台币318万元）。
-
-时间上的领先优势让演算法交易公司得以抢先分析可能影响市场的讯息。举例来说，自美国与伊朗爆发战争以来，川普在「真实社群」一些发文曾引发油价剧烈波动。
-
-邱信福在声明中说：「这是腐败，就这么简单。」他还说：「加州人不应被迫与花钱提前取得可影响市场资讯的富有交易公司竞争。」
-
-旧金山市府援引加州不公平竞争法，主张资金投入退休基金的居民处于不利地位。
-
-美国媒体报导，「川普媒体与科技集团」发言人戴文（Shannon Devine）在声明中说：「加州人民未来的诉讼应该外包给人工智慧（AI）聊天机器人，与冒充律师提起这起诉讼的左翼人士不同的是，这些机器人将理解公开资讯和非公开资讯的基本区别。」
-
-美国两个媒体组织「拦截」（The Intercept）与「新闻自由基金会」（Freedom of the Press Foundation）今年8月在纽约联邦法院对Truth API服务提出法律挑战。]]></description>
+    <title>沙国新创 Ceer 发表纯电旗舰 EXOBOT 双车型，五年要推七款新车</title>
+    <link>https://technews.tw/2026/09/24/saudi-arabias-new-exobot-evs-make-the-cybertruck-look-normal/</link>
+    <guid>https://technews.tw/2026/09/24/saudi-arabias-new-exobot-evs-make-the-cybertruck-look-normal/</guid>
+    <pubDate>Thu, 24 Sep 2026 00:30:00 +0000</pubDate>
+    <description><![CDATA[沙乌地阿拉伯电动车新创公司 Ceer 9 月 21 日正式揭晓旗下首批量产车款 EXOBOT，包含一款电动轿车 [&#8230;]]]></description>
   </item>
   <item>
-    <title>Politico：美中 AI 通报机制，实为贝森特与何立峰热线</title>
-    <link>https://infosecu.technews.tw/2026/09/23/politico-us-china-ai-notification-mechanism-actually-beth-sanner-he-lifeng-hotline/</link>
-    <guid>https://infosecu.technews.tw/2026/09/23/politico-us-china-ai-notification-mechanism-actually-beth-sanner-he-lifeng-hotline/</guid>
-    <pubDate>Wed, 23 Sep 2026 08:10:46 +0000</pubDate>
-    <description><![CDATA[美国财政部长贝森特 20 日与中国国务院副总理何立峰会面时，提议建立新的人工智慧（AI）安全「通报机制」，但据知情人士透露，此安排其实只是在两名官员之间建立直接沟通管道。
+    <title>中国学者看经济问题：制造业卷不动、服务业跟不上</title>
+    <link>https://technews.tw/2026/09/24/chinese-scholars-economic-problems-manufacturing-struggles-service-sector-lags-behind/</link>
+    <guid>https://technews.tw/2026/09/24/chinese-scholars-economic-problems-manufacturing-struggles-service-sector-lags-behind/</guid>
+    <pubDate>Thu, 24 Sep 2026 00:20:36 +0000</pubDate>
+    <description><![CDATA[中国经济学者陆铭解析当前的经济结构性矛盾，指制造业在国内面临需求饱和的困境，价格下跌的螺旋难以打破；服务业却满足不了需求。服务业才是当前制约消费、拖累经济成长的关键所在。
 
-政治新闻网站Politico报导，在美国总统川普本周与中国国家主席习近平于白宫会面前夕，这项通报机制突显双方对AI合作的目标相对有限。尽管外界日益担心日益强大的AI国安风险，美中两国仍深陷更大范围科技军备竞赛，并对先进晶片管制等议题分歧严重。
+上海交通大学安泰经济与管理学院教授陆铭21日接受中媒「人民政协报」受访，谈及现今中国经济成长面临的压力。他指出，财政和货币政策一段时间以来都比较宽松，经济成长放缓的趋势却没有得到很好的遏止，这说明了问题不只在总量，更在结构。
 
-四名要求匿名的消息人士指出，一旦发生涉及国家安全的AI相关事件，这条拟议中管道能让贝森特（Scott Bessent）与何立峰直接联络。不过中国官员尚未公开同意这项安排。听取政府官员简报的人士说，「这个对话机制基本上就是贝森特和何立峰，不是专家组成的正式机构」；另一名知情人士则说：「用科学、技术性术语来说，就是胡扯。」
+他指出，传统上靠扩张产能、压低价格来实现成长的路已走到尽头。中国制造业在国内面临需求饱和的困境，在国际上又因贸易顺差承受经贸平衡的压力。「内卷式」竞争（过度而无效的竞争）导致不断压价，价格下跌的螺旋难以打破。
 
-被询及此事时，白宫要求媒体参考贝森特21日接受美国财经媒体CNBC节目Squawk Box访问时的说法。贝森特当时表示，这项机制是「一条沟通管道、一条事件联络管道，让我们保持顺畅沟通，尤其是在发生某种事件时」。他还表示，两国已正式确立「美中AI对话」，并同意约两个月后在深圳举行会议。
+反观服务业的供给，在数量、品质、多样性、空间布局上，与需求不匹配。养老、教育、医疗、幼托、文化娱乐、体育等方面，还出现很多无法满足需求的问题。
 
-美国财政部并未回应另一项置评要求，中国驻美大使馆也未回应置评请求，中国外交部22日在北京举行的记者会，并未回答有关AI的提问。至少就目前而言，这并不是一套让两国政府通报或共同应付AI威胁的正式机制，对于呼吁美中加强协调AI议题的人士而言，这样的安排显然不如预期。
+陆铭认为，中国服务业发展不足的原因包括：在税收上，制造业增值税税率13%，服务业只有8%，这让地方政府更偏好制造业大项目；在金融上，以抵押贷款为主的间接融资模式，对轻资产的服务业不够友好；在观念上，整个社会对生活服务业「没有技术含量」的刻板印象根深蒂固；此外，不少服务业对民营经济进入还存在管制。
 
-芬兰总统史塔布（Alexander Stubb）和澳洲总理艾班尼斯（Anthony Albanese）本周敦促北京与华府合作，制定AI安全发展准则。各国领袖本周齐聚纽约出席联合国大会年度会议，这类呼声可能会越来越多。
+多重因素之下，形成了服务业的「隐形天花板」。他指出，这块天花板，正好是制约消费、拖累增长、加剧经济数据与民众体感「温差」的关键所在。
 
-推动建立安全沟通管道之际，川普一直驳斥放缓AI发展的呼声。川普一再将这项技术描述为美国不能输给中国的竞赛，并主张对美国企业施加限制将让北京取得优势。知情人士表示，中方迄今鲜少公开谈论此事。中国官媒仅表示，贝森特与何立峰谈及AI，但未提供内容，还说两人也「坦率」讨论经贸问题。
+中国上半年的GDP年增率为4.7%，第2季仅4.3%，2026年经济成长目标估计为4.5%至5%之间。7月底中共中央政治局会议提出「加快推动新旧动能转换」。
 
-即便只是建立有限的沟通管道，也代表美中AI风险问题朝更常态化对话迈出一步。美中曾讨论建立这类论坛，但一直未能落实具体机制；随著AI系统能力日益提升，外部专家也愈发强烈地呼吁两国政府保持沟通管道畅通。]]></description>
+陆铭说，当前经济成长的亮点集中在人工智慧（AI）、新能源车、锂电池等新兴领域。它们的共同特点是资本密集型，带来的就业成长和居民收入成长，都相对不足。尤其房地产行业的收缩至今仍在挤压相关从业人员；AI在创造新工作的同时，也在替代写程式、统计、会计等传统职务。这都是造成经济体感「温差」的原因。
+
+对于AI时代的人才，陆铭也提到，传统教育里大量形成的技能，如：记忆、背诵、演算等，这些正在被AI取代。但另一些能力如：审美、价值判断、同理心、表达力、组织能力，是机器替代不了的能力，「我们的投资严重不足」，应加强这方面的培训和教育。]]></description>
   </item>
   <item>
-    <title>李在明联大晤川普，乐见韩美战略投资获重大进展</title>
-    <link>https://technews.tw/2026/09/23/lee-jae-myung-meets-trump-un-general-assembly-significant-progress-korea-us-strategic-investment/</link>
-    <guid>https://technews.tw/2026/09/23/lee-jae-myung-meets-trump-un-general-assembly-significant-progress-korea-us-strategic-investment/</guid>
-    <pubDate>Wed, 23 Sep 2026 07:40:22 +0000</pubDate>
-    <description><![CDATA[韩国总统府今天表示，韩国总统李在明与美国总统川普在联合国大会场边进行 30 分钟会谈，双方对于两国战略投资计划讨论已取得「重大进展」均表示乐见。
+    <title>中国 2030 年资料中心耗电将翻四倍，加码押注 SMR 与核融合</title>
+    <link>https://technews.tw/2026/09/24/china-accelerates-nuclear-energy-development/</link>
+    <guid>https://technews.tw/2026/09/24/china-accelerates-nuclear-energy-development/</guid>
+    <pubDate>Thu, 24 Sep 2026 00:10:43 +0000</pubDate>
+    <description><![CDATA[随著人工智慧（AI）带动资料中心用电需求急速攀升，中国正将目光投向下一代核能技术，透过研发小型模组化反应炉（SMR）与核融合技术，以填补日益吃紧的电力缺口。外电引述顾问公司伍德麦肯兹（Wood Mackenzie）预估，到了 2030 年，中国资料中心的耗电量将达到 774 太瓦时（TWh），约为目前的四倍。
 
-路透社报导，韩国产业通商资源部昨天在简报中，向国会议员说明两国3,500亿美元（约新台币11兆600亿元）投资方案的执行计划，包括被列为潜在首批投资项目的德州天然气发电厂计划，以及对核能和阿拉斯加液化天然气（LNG）计划的潜在投资。
+在制造业与出口持续扩张、全国用电需求屡创新高的背景下，北京当局推动清洁能源基础设施的压力同步升高，目标是支撑其 2060 年「碳中和」的承诺。据报导，目前全球兴建中的 58 座传统核反应炉中，有超过一半位于中国，显示其在核电建设的投入已相当集中。
 
-韩国国家安保室室长魏圣洛（Wi Sung-lac）在简报中表示：「两国领袖对于双边战略投资计划讨论已取得重大进展表示乐见。」
+除了由政府与国营企业主导的传统核电外，与国家基金及研究机构关系密切的民间企业，也正积极投入新世代核能技术。SMR 因可在工厂预先制造、再运至现场组装，被视为更具弹性的下一代方案；而核融合则被视为终极能源技术，成为中国近年加码布局的重中之重。
 
-魏圣洛表示，在去年11月韩美峰会发表的联合声明基础上，李在明与川普均同意深化合作，并就核燃料浓缩与再处理、核动力潜舰、造船业，以及美方将战时作战指挥权（OPCON）移交韩国等议题持续展开磋商。
+去年于上海成立的「君核核能」已获得 3 亿人民币的创投资金，目前正进入首座示范型 SMR 的设计阶段，目标在 2031 年投入运作。该公司计划利用老旧燃煤电厂的旧址与人力资源来建置 SMR，并直言 AI 造成的供电缺口正是其发展的绝佳契机。
 
-魏圣洛说，川普也重申与北韩展开对话的意愿，两国领袖同意保持密切沟通，共同推动和平进程。
+在核融合领域，位于上海东郊的新创公司 NovaFusionX 也在加速推进相关技术。该公司采用与美国 Helion Energy 类似的电浆磁约束路线，目标在 2030 年建成首座示范反应炉。相关资料显示，NovaFusionX 估值已突破 100 亿元人民币，并获得约 24 亿元人民币的投资。
 
-魏圣洛指出，李在明还表示，预计24日登场的川习会，对于韩国与中国关系在内的区域情势发展相当重要，并期盼美中会谈圆满成功。
+中国政府层面的支持也相当显著。美国智库「特别竞争研究计划」（SCSP）分析指出，中国在核融合商业化相关投资的规模，大约是美国能源部同类计划的三倍。此外，核融合也已被列入中共最新五年经济发展规划的八大重点技术之一。
 
-李在明今天稍早在联合国大会演说中表示，首尔当局支持重启与北韩对话的努力，致力建立持久和平机制，并争取更广泛的国际社会支持。
-
-韩国总统府高阶官员另向多家韩国媒体透露，李在明曾向川普表示，希望美方协助推动与北韩的接触；川普不仅表示会这么做，更提到他与北韩领导人金正恩维持良好关系，但目前并无迹象显示双方有任何具体接触。
-
-这名官员还表示，李在明与川普花了相当多时间讨论战时作战指挥权移交议题，川普对首尔的立场有了更深入的理解。报导称，美方强调须符合相关必要条件，并尽速完成移交程序。
-
-这名官员进一步指出，韩国对美投资谈判进展顺利，成功为这场原先未在规划中的元首峰会铺路。]]></description>
-  </item>
-  <item>
-    <title>Nexstrom 完成 1,200 万美元募资，推进 12 吋 2 维半导体量产</title>
-    <link>https://technews.tw/2026/09/23/nexstrom-12m-funding-12-inch-2d-semiconductor-mass-production/</link>
-    <guid>https://technews.tw/2026/09/23/nexstrom-12m-funding-12-inch-2d-semiconductor-mass-production/</guid>
-    <pubDate>Wed, 23 Sep 2026 07:36:15 +0000</pubDate>
-    <description><![CDATA[随著先进制程持续微缩，矽材料逐渐逼近物理极限，2 维半导体也开始从实验室走向 12 吋晶圆。新加坡半导体新创 Nexstrom 宣布完成 1,200 万美元种子轮融资，由 Xora Innovation 领投，Foothill Ventures 与 SEEDS 参与，累计募资达 1,500 万美元，资金将用于加速晶圆级 2 维半导体平台商业化，目标在量产级设备上实现 12 吋单晶 2 维半导体材料成长。
-
-随著 AI 对运算效能与能源效率要求持续提高，传统矽电晶体通道不断微缩后，电子泄漏与功耗问题也更加明显。2 维半导体材料具有原子级厚度，可望强化电晶体通道的电子控制能力、降低能量损耗，因此被视为延续电晶体微缩的重要材料选项之一。
-
-Nexstrom 的技术核心在于将 2 维材料从小尺寸实验室样品推向晶圆级制造。公司开发的全堆叠平台整合自有化学气相沉积（CVD）设备、制程技术及材料成长技术，目标在业界标准的 12 吋晶圆上实现连续单晶 2 维材料成长，同时可整合至晶圆厂既有制造流程，降低导入新材料所需的制程改动。
-
-Nexstrom 目前也正与产业伙伴合作，验证技术与既有晶片制造流程的相容性。公司指出，目前 2 维半导体真正的挑战已不只是证明材料性能，而是能否在 300 mm 晶圆上维持材料品质、均匀性及制造规模，进一步满足先进晶圆厂的量产要求。
-
-Nexstrom 共同创办人暨首席科学家 Lance Li 长期投入 2 维材料研究，自 2012 年起研究单晶二硫化钼（MoS₂）成长技术，研究领域涵盖 2 维材料、原子层化学及半导体制造。
-
-Nexstrom 董事会顾问、史丹佛大学教授 Philip Wong 表示，2 维半导体已进入主要半导体公司的技术路线图，目前关键已转向如何实现量产，尤其产业需要能在 300 mm 基板上形成高品质且均匀的 2 维材料。
-
-此次募资后，Nexstrom 将持续推进 12 吋 2 维半导体平台开发，并扩大与晶圆代工业者合作及工程团队规模。若 2 维材料能进一步跨越大尺寸晶圆均匀性与量产整合门槛，也将成为矽电晶体持续微缩之外，下一代 AI 与高效能运算晶片的重要材料发展方向。]]></description>
+分析人士认为，面对美国在资本与监管上的限制，中国正试图将其供应链的自立能力，转化为可对外输出的产业优势。北京研究机构 Gavekal 的专家 Damien Ma 表示，未来十年内，中国极有可能成为全球最具活力、也最重要的核能市场之一。]]></description>
   </item>
 </channel>
 </rss>
