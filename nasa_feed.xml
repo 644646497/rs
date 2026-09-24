@@ -4,7 +4,47 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Thu, 24 Sep 2026 02:30:54 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 10:51:51 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 September 24 – The Ghosts of Five Supernovas</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/</guid>
+    <pubDate>Thu, 24 Sep 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:The ghosts of five supernovas haunt this extraordinaryimage. It was acquired atOukaïmeden ObservatoryinMoroccowith approximately 200 hours of observations and shows a large patch of the sky, equivalent to theareaof one thousand full moons tiled together, in the constellation ofAuriga(thecharioteer). From left to right, the five supernova remnants visible across the field areG181.1+9.5,G182.4+4.3,G179.0+2.6,G180.0−1.7(Sh2-240, theSpaghetti Nebula), andG178.2−4.2. They are highlighted in theannotated image, together withopen clusterM37and theTadpole Nebula. As each explosionexpanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively. These ancient stellar explosions happened independently; they are at various distances up to about several thousands oflight-yearsaway from Earth and have estimated ages up totens of thousands of years old. Early humans may have seen them as bright new stars, fading over weeks or months.APOD's email for image submissions has changed.Please see:APOD Submissions.APOD's main NASA site ismoving: Fromapod.nasa.govtoscience.nasa.gov/apodTomorrow's picture:what's next?]]></description>
+  </item>
+  <item>
+    <title>Cloudy Cloak Over the Northwest</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/cloudy-cloak-over-the-northwest/</guid>
+    <pubDate>Thu, 24 Sep 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas near the coast remained above the pall.
+
+Cool, marine air rolling off the Pacific Ocean led to a picturesque layer of morning clouds over western Washington and Oregon in mid-September 2026. Low-lyingstratusclouds and fog extended as far inland as the western foothills of the Cascade Range. Near the coast, taller portions of the Olympic Mountains in Washington and the Oregon Coast Range appeared island-like, protruding above the cloud layer.
+
+TheMODIS(Moderate Resolution Imaging Spectroradiometer) on NASA’sTerrasatellite shows the extent of the Pacific Northwest’s cloudy cloak on September 19, 2026, at about 10:45 a.m. Pacific Time (17:45 Universal Time). Abundant clouds also appear offshore over the Pacific, while smoke from wildland fires fills valleys in the North Cascades.
+
+For several nights in a row, marine air flowed onshore, according to theNational Weather Service, bringing with it low-level clouds known asmarine stratus. These clouds form when moist air near the surface, trapped beneath a warmer air layer in atemperature inversion, cools enough for its water vapor to condense. The surge of cool, moist conditions was particularly strong early on September 19, producing cloudy conditions all the way up to the Cascade foothills. Some areas witnessedfoggy conditions, where clouds extended down to the ground.
+
+That same day, when NASA'sAquasatellite passed over the area at about 4:15 p.m. Pacific Time (23:15 Universal Time), skies had cleared over much of the area. However, some marine clouds stillclungto the Oregon coast, wheretemperatures stayed coolerthan inland locations.
+
+NASA Earth Observatory image by Michala Garrison, using MODIS data from NASAEOSDIS LANCEandGIBS/Worldview. Story by Lindsey Doermann.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+Satellite observations of sea surface height indicated that the 2026 event continued to strengthen in early June.
+
+Satellite measurements of chlorophyll at the sea surface signal shifts in the ocean’s nutrient supplies in mid-2026.
+
+Snow-capped mountains carved by deep river valleys preside over northwestern Washington state.
+
+Subscribe to the Earth Observatory and get the Earth in your inbox.
+
+NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
+
+Open access to NASA’s archive of Earth science data]]></description>
+  </item>
   <item>
     <title>NASA Modernizes Commercial Airline Systems</title>
     <link>https://www.nasa.gov/directorates/armd/aosp/nasa-modernizes-commercial-airline-systems/</link>
@@ -147,6 +187,8 @@ Antarctic sea ice typically reaches its annual maximum in late September or earl
 
 Media contact:Elizabeth VlockNASA Headquarters
 
+A low-lying cloud layer brought autumn ambience to western Washington and Oregon, while mountainous areas…
+
 Carpets of wildflowers burst from arid, ochre-colored land in Western Australia following winter rains.]]></description>
   </item>
   <item>
@@ -168,52 +210,6 @@ After her mission on Mir, Lucid continued to serve NASA in key roles on the grou
     <guid>https://science.nasa.gov/earth/ffa-2026-hyperwall-schedule/</guid>
     <pubDate>Wed, 23 Sep 2026 14:58:13 +0000</pubDate>
     <description><![CDATA[FFA 2026 Hyperwall Schedule]]></description>
-  </item>
-  <item>
-    <title>Risk of Hydrazine Use Following Freeze–Thaw Exposure</title>
-    <link>https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/</link>
-    <guid>https://www.nasa.gov/general/risk-of-hydrazine-use-following-freeze-thaw-exposure/</guid>
-    <pubDate>Wed, 23 Sep 2026 14:31:58 +0000</pubDate>
-    <description><![CDATA[For more information, contact Jonathan E. Jones, Langley Research Center,jonathan.e.jones@nasa.gov
-
-The purpose of this Technical Bulletin is to communicate the risks associated with freeze–thaw cycles in hydrazine monopropellant systems and to provide general recommendations for mitigating damage, operational hazards, and loss of system reliability in propulsion and auxiliary hydrazine systems.
-
-BackgroundHydrazine (N2H4) freezes near 1.6°C, and its phase transition is known to introduce risks to flight hardware. Multiple NASA programs have historically encountered hydrazine freeze related issues:
-
-•Space Shuttle APU hydrazine lines were vulnerable to freeze induced contraction followed by thaw induced over expansion, capable of bursting plumbing. Shuttle flight rules permitted no more than two freeze–thaw cycles before considering the system degraded or failed.1
-
-•Voyager propulsion systems faced mission threatening scenarios as hydrazine temperatures approached the freezing/slush formation range (0.1–1.6°C). Detailed thermal modeling was required to prevent freezing of lines, blockage, and thruster malfunction.2
-
-•Hydrazine thermodynamic properties confirm significant changes in density and pressure across phase transitions, emphasizing the sensitivity of propellant lines to freeze–thaw stress.3
-
-These combined lessons form the basis for risk identification and mitigation.
-
-Problem SummaryFreeze–thaw exposure of hydrazine systems presents the following critical risks:•Structural Damage Hydrazine contraction during freezing allows additional propellant into confined lines, producing “superpacked” conditions that cause line or fitting rupture upon thaw.2•Valve, Seal, and Diaphragm Compromise Elastomeric components and precision valve seats may experience cracking, distortion, or loss of sealing capability due to differential thermal expansion. Voyager thermal assessments highlighted susceptibility of long stainless steel runs to asymmetric temperature profiles.2•Line Blockage and Slush Formation Partially thawed hydrazine can remain “slushy,” restricting flow, altering mass flow rates, and causing thruster hard starts or misfires.2•Hazardous Leaks Freeze induced damage may allow hydrazine to escape confinement, posing significant toxicity, reactivity, and ground crew exposure hazards.•Loss of System Reliability As documented in Shuttle operations, hydrazine systems exposed to freeze–thaw cycles become life limited, reducing redundancy and mission availability.1•Thermal Margin Uncertainty Voyager experience demonstrated that simple temperature readings cannot reliably determine true line temperature, necessitating high fidelity thermal modeling.2Recommendations Prevention Measures•Maintain Hydrazine Above Freezing Margin Keep all hydrazine systems above freezing, using heaters, insulation, blankets, or warm gas purge. Include uncertainty analysis in modeling and testing to ensure appropriate margins against freezing are maintained during all phases of operation.•Avoid Uncontrolled Cooling During Ground Operations Ensure that tank, line, and valve components remain in environmentally controlled areas until integrated into the vehicle.Post Freeze Response ProtocolIf freezing cannot be ruled out:•Suspend System Use Do not operate the hydrazine system until engineering evaluation is completed.•Assess Number of Freeze–Thaw Cycles Treat each cycle as life limiting, an engineering assessment (static and fatigue) should be conducted based on conservative estimates of the line pressures during/after freeze/thaw cycles to understand potential line/component damage. Appropriate margin should be applied based on analysis uncertainty and/or underlying assumptions.•Conduct Integrity Verification Perform pressure decay tests, NDE (if design allows), and valve health assessments.•Implement Slow, Uniform Thawing To prevent thaw induced over pressure, warm hardware gradually and evenly. Shuttle experience with “superpacking” reinforces the necessity of controlled thawing.Thruster and Valve Operational Readiness•Ensure catalyst beds and valves reach proper thermal operating conditions before commanding any flow.•Conduct pre start thermal stabilization periods, especially when flight readiness temperatures are marginal.Thermal Modeling and Monitoring•Utilize high fidelity thermal line modeling, emulating Voyager’s detailed propellant line modeling approach.2•Avoid relying solely on bulk plate or tank temperatures to infer line readiness.•Use thermal analysis and test to guide instrumentation placement on of the flight systems to monitor key temperatures set points.Documentation and Incident Tracking•Record all freeze exposures as reportable anomalies.•Assign engineering disposition and track hardware life reduction accordingly.ConclusionHydrazine freeze–thaw cycles present significant structural, operational, and safety risks for propulsion and auxiliary systems. Historical NASA programs show that prevention of hydrazine freez]]></description>
-  </item>
-  <item>
-    <title>NASA’s Hubble Seeks Lensed Supernova, Marks 200,000 Orbits</title>
-    <link>https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/</link>
-    <guid>https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/</guid>
-    <pubDate>Wed, 23 Sep 2026 13:55:34 +0000</pubDate>
-    <description><![CDATA[NASA’s Hubble Space Telescope completed its 200,000th orbit around Earth on Sept. 19, marking another new milestone for an observatory that continues to transform our understanding of the universe.
-
-Hubble has traveled more than 5 billion miles around Earth over its 36-year lifetime, exceeding 1.7 million total observations. An observation completed on the day of the 200,000th orbit pertains to one of Hubble’s defining scientific legacies: measuring the expansion rate of the universe, orthe Hubble Constant.The image takes advantage of the telescope’s ability to return to the same regions of the sky over time to monitor for the reappearance of a supernova, or explosion of a star, called Athena.
-
-Massive galaxy cluster MACS J0417, located at the left center of the image, acts as agravitational lens, bending and magnifying light from objects far behind it. Light from a supernova can reach Earth along multiple paths, causing the same stellar explosion to appear more than once at times separated by months or even years depending on the path it took. Supernova Athena, discovered by NASA’s James Webb Space Telescope in 2025, is predicted to reappear between now and early March 2027. Measuring the timing of Athena’s reappearances can help researchers map the mass of MACS J0417, which acts as a magnifying, foreground lens for distant objects, and refine our understanding of the expansion rate of the universe.
-
-After more than 36 years in space, Hubble still is reaching new heights of scientific productivity and impact. Hubble’s unique ability to observe and analyze light in ultraviolet and visible wavelengths complementsNASA’s James WebbandRoman Space Telescopes’capabilities. As a result, demand for Hubble observing time remains high as astronomers request about seven times as much observing time as is available each year.
-
-Hubble continues to observe targetsacross every area of astronomyaround the clock, with real-time tracking of those observations available on NASA’swebsite.
-
-Claire AndreoliNASA'sGoddard Space Flight Center,Greenbelt, MDclaire.andreoli@nasa.gov
-
-Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.
-
-Explore an assortment of galaxies with Hubble.
-
-Hubble's most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.
-
-Explore Hubble's iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space.]]></description>
   </item>
 </channel>
 </rss>
