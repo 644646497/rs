@@ -4,7 +4,47 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 25 Sep 2026 10:54:31 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 16:14:40 GMT</lastBuildDate>
+  <item>
+    <title>Hubble Spots Chaotic Secret in Galaxy</title>
+    <link>https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/</link>
+    <guid>https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/</guid>
+    <pubDate>Fri, 25 Sep 2026 15:54:10 +0000</pubDate>
+    <description><![CDATA[A chaotic secret hides within this seemingly serene image of spiral galaxy NGC 4698 taken by NASA’s Hubble Space Telescope and released on Sept. 18, 2026. As a spiral galaxy like our own Milky Way galaxy, NGC 4698 has spiral arms that curl around within a thin disk of stars, gas, and dust. These arms are marked by opaque clumps of brown dust and dotted with small collections of bright blue stars.
+
+Unlike many other spiral galaxies, NGC 4698’s delicate spiral arms are only prominent in the outer reaches of the disk; spiral arms often wind down to the very center of a galaxy, but NGC 4698’s spiral arms appear to shy away from its glowing center. The arms instead hover in a ring-like structure around the perimeter of the galaxy.
+
+Read more about this unusual spiral galaxy.
+
+Image credit: ESA/Hubble & NASA, D. Thilker, the MAUVE-HST Team]]></description>
+  </item>
+  <item>
+    <title>TB 26-07 Aluminum Alloy 2219 Material Guidance</title>
+    <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-07-aluminum-alloy-2219-material-guidance/</guid>
+    <pubDate>Fri, 25 Sep 2026 14:45:51 +0000</pubDate>
+    <description><![CDATA[For more information, contact Donald S. Parker, Kennedy Space Center,donald.s.parker@nasa.gov
+
+Improper casting and forging processes in the manufacture of aluminum alloy 2219 can lead to microstructural defects that result in a sub-optimal response to anodic surface treatments and an increase in corrosion susceptibility. This Technical Bulletin communicates the risks of improper casting and recommends a homogenizing step followed by multidirectional deformation after conventional direct chill casting, especially for larger castings. 09/24/26 DOC ID: 20260008373
+
+BackgroundAluminum 2219 is an age-hardenable, over-saturated, aluminum-copper alloy developed by Aluminum Company of America (Alcoa) in 1954, for service up to 600 °F. Numerous aerospace applications include launch and space vehicles including space shuttle fuel tanks, and International Space Station human-rated pressurized modules. It has excellent cryogenic properties, weldability, workability, and mechanical properties at low and high temperatures [1].
+
+Problem/Issue DescriptionCasting 2219 aluminum alloy ingots is a specialized process used to manufacture large-scale structures that are subsequently forged or rolled into final product forms. The as-cast ingot internal defects may include disparate grain sizes, macrosegregation of alloying elements, and residual banded and clustered copper-rich intermetallics, which can lead to unsatisfactory mechanical and corrosion properties including low ductility, low strength, and a non-uniform distribution of material properties in the final product form. [2,11,12]
+
+These defects can be somewhat mitigated with post-casting processes, including mechanical deformation, solution treatment, quenching, and aging. However, if ingots already possess unrecoverable discontinuities such as interdendritic segregation, banded and clustered large copper intermetallics, and disparate grain sizes, no subsequent thermos-mechanical processing will remedy the deficiencies in properties, especially for larger ingot sizes.
+
+Homogenization as an Essential StepHomogenization after casting greatly improves the final properties’ subsequent mechanical processing. Studies show that Fick’s laws of diffusion drive the highly concentrated copper atoms out of the interdendritic boundary zones, distributing them evenly across the aluminum matrix grains; residual phases are dissolved into the matrix, and degree of segregation of all elements reduces dramatically. Homogenization processing parameters need to be optimized for ingot cross-section thickness to ensure proper and uniform thermal response. Wang et al., who focused on homogenization, effectively used a temperature and time of 535 °C for 10 hours [3].
+
+Homogenization optimization variables include the melting point, amount and dissolution rate of the eutectic phase, ingot size, grain size and copper content. Several researchers demonstrated that tools such as X-ray Diffraction (XRD) or Differential Scanning Calorimetry (DSC) are valuable tools for defining and verifying the homogenization step [3,4,5,6,7,8,9]. Improvement of microstructure and mechanical properties of homogenized aluminum 2219 is well documented. Scanning Electron Microscope (SEM) images from a study examining aluminum 2219 with varying amounts of copper show change in the morphology of grain boundaries after homogenizing in Figure 1.
+
+The table below lists the results of Wang et al. who examined nonhomogenized and homogenized 2219, which were forged and treated to the T6 temper. The homogenized 2219 is clearly superior [3].
+
+Thermomechanical Deformation Mechanical deformation such as forging — specifically, upset forging — and rolling, followed by solution treatment and aging, have been shown to drastically improve the aluminum 2219 microstructure by creating well distributed smaller-sized Al2Cu particles and significantly smaller grains leading to improved and less anisotropic mechanical properties. In one example of many studies, superior mechanical and microstructural properties were developed with a higher temperature multidirectional forging at 510 °C followed by warm rolling at 240 °C.
+
+The upset forging and rolling followed by solution treatment and aging led to significantly reduced area fraction of coarse Al2Cu particles (5.5% to 1.0%) due to dissolution into the matrix. Grain size was reduced (230 micrometers to 58.6 micrometers) through increased storage energy and nucleation from the lower temperature rolling. Lastly, a uniformly distributed θ’ phase was increased by 118%.  These changes in microstructure led to better strength, elongation and fracture properties[10].
+
+Recommendation/GuidanceHomogenization after conventional direct chill casting is imperative to optimize the final properties of aluminum 2219 and should be explicitly included in procurement specifications. In addition, verification of effectiveness of the homogenization step is also recommended and could include before and after micr]]></description>
+  </item>
   <item>
     <title>APOD: 2026 September 25 – Globular Star Cluster Omega Centauri</title>
     <link>https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/</link>
@@ -252,66 +292,6 @@ Like the Moon, Mars is a rich destination for scientific discovery and a driver 
     <description><![CDATA[In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as theSafe and Precise Landing – Integrated Capabilities Evolution(SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California.
 
 Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and landing maneuvers during recent testing. Its technologies provide safe and precise landing for the Moon, Mars, icy worlds, and other destinations using specialized navigation, guidance, and processing techniques. It enables landing in hard-to-reach and unknown areas that are of high scientific interest.]]></description>
-  </item>
-  <item>
-    <title>US-India Satellite Captures Time-lapse Video of Volcanic Eruption</title>
-    <link>https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/</link>
-    <guid>https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/</guid>
-    <pubDate>Thu, 24 Sep 2026 15:47:17 +0000</pubDate>
-    <description><![CDATA[Like tendrils on a vine, lava spreads out from the northern crater of Krasheninnikov, a volcano pair on the Pacific coast of Russia’s Kamchatka Peninsula. On July 30, 2025, an 8.8-magnitude earthquake had struck in the nearby ocean, apparently jolting one of the two volcanoes awake. A few days later, for the first time in nearly five centuries, Krasheninnikov started erupting. Since that day, the northern volcano has been spilling a steady, eastward-flowing field of molten rock and debris, and the NASA-ISRO Synthetic Aperture Radar (NISAR) mission has been tracking the changes in the landscape.
-
-From its vantage point 464 miles (747 kilometers) above the surface,NISARcaptured an image of Krasheninnikov on Dec. 25, 2025, just as the Earth-observing satellite was finishing post-launch checks and becoming operational. Twice every 12 days since — once as the satellite passed south to north, and again as it passed north to south — NISAR has returned to the same spot in orbit and taken detailed radar snapshots.
-
-Researchers put 17 of the frames captured through mid-August into sequence, forming a time-lapse video that shows lava filling a smaller, inner caldera, then overflowing into a wider crater before widening into a fan. The animation highlights how NISAR’s observations can monitor the development of natural hazards, both for science and potentially for emergency response.
-
-Though remote, many of Kamchatka’s dozens of volcanoes are closely monitored with ground instruments because they erupt frequently. Not so with Krasheninnikov, which has been quiet since about the year 1550. That NISAR’s L-band radar observed it at all speaks to the satellite’s near-global coverage of the planet’s land surface at resolutions in the dozens of feet; that it captured the erupting volcano over time shows the precision and reliability of its measurements.
-
-“The consistency is crucial. Twice every 12 days, acquiring in this high-resolution mode and in two observation directions, this shows the promise of NISAR to closely monitor natural hazards,” said Matthew Pritchard, a member of the NISAR science team and geophysicist at Cornell University who analyzed the data used to create the animation.
-
-The detail in a single NISAR image results from the use of synthetic aperture radar, or SAR, a specialized processing technique pioneered by NASA’s Jet Propulsion Laboratory in Southern California for Earth observation from space. As the satellite orbits, the radar sends thousands of microwave pulses per second to Earth and receives the return signals, each of which is effectively a snapshot in time that contains information about the properties and characteristics of the surface below.
-
-The SAR processing combines the many images of the same area, sharpening the view just as a lens brings a blurry object into focus. Each pixel in the individual frames of the Krasheninnikov time-lapse represents about a 30-foot-by-30-foot (10-meter-by-10-meter) square on the surface — about half the size of a tennis court.
-
-Lava shows up lighter in the images due to the way that microwaves reflect more brightly compared with the surrounding surface, which, depending on the time of year, is either snow or bare ground. In addition to the lava field growing to the east, the video shows another flow to the northwest, one that likely formed before NISAR captured the first NISAR image.
-
-When Pritchard was doing his doctoral research on Kamchatka volcanoes more than 20 years ago, analysis-ready radar data was difficult to come by, both because satellites didn’t revisit as often and the resolution of the images was relatively low.
-
-Now in addition to getting frequent and comprehensive coverage of virtually all the planet’s roughly 1,300 active, above-sea-level volcanoes, the images are sharp down to the several-meter scale and are easily accessible via the cloud.
-
-“We’re seeing volcanoes around the world that we’ve never really had eyes on like this before,” said Pritchard.
-
-The NISAR satellite is the first free-flying space mission to feature two radar instruments: an L-band system and an S-band system. The systems are complementary due to their differing wavelengths. For example, the longer-wave L-band can pass through tree canopies, imaging the ground beneath. Meanwhile, depending on leaf sizes, S-band can collect observations of those canopies.
-
-The data products from the NISAR mission’s L-band radar are available at the Alaska Satellite Facility Distributed Active Archive Center in Fairbanks, which hosts and distributes all NASA synthetic aperture radar data.
-
-Managed by Caltech for NASA, JPL leads the United States component of the project and provided the satellite’s L-band SAR and antenna reflector. The spacecraft bus and its S-band SAR were provided by ISRO (Indian Space Research Organisation).
-
-The NISAR satellite is the first to carry two SAR instruments at different wavelengths, collecting data using the spacecraft’s giant drum-shaped reflector, whic]]></description>
-  </item>
-  <item>
-    <title>NASA to Study Human Health, Performance During Crew-13 Mission</title>
-    <link>https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/</link>
-    <guid>https://www.nasa.gov/humans-in-space/nasa-to-study-human-health-performance-during-crew-13-mission/</guid>
-    <pubDate>Thu, 24 Sep 2026 13:53:48 +0000</pubDate>
-    <description><![CDATA[During NASA’s SpaceX Crew‑13 mission aboard the International Space Station, astronauts will support a series of biomedical and human performance investigations, including a new collaborative effort to study how spaceflight affects blood flow and clotting. NASA also is testing crew members’ manual piloting skills, evaluating methods to counter vision and brain changes, gathering essential health data to inform future missions, and measuring forces astronauts experience during return‑to‑Earth to help refine re-entry hardware and procedures.
-
-Among upcoming research, a new collaboration with ESA (European Space Agency), calledVenous Haemostasis, builds on previous studies of blood flow in space by combining the two space agencies’ research efforts. By coordinating blood collections and other physiological data, researchers can reduce how often astronauts need blood drawn while combining analytical measurements to better understand how microgravity affects blood clotting and circulation.
-
-“In space, weightlessness can disrupt normal blood flow in astronauts’ veins,” said Jason Lytle, one of the study’s principal investigators and a cardiovascular researcher at NASA’s Johnson Space Center in Houston. “Irregular and slow blood flow can increase the risk of blood clot formation, a serious health condition. Venous Haemostasis will help us understand why these changes may occur in some astronauts but not others.”
-
-Before, during, and after flight, astronauts will undergo MRI scans, jugular vein ultrasounds, blood pressure checks, and blood draws so researchers can track changes in blood flow and blood composition. Results will inform preventative measures for at-risk crew members and improve health and safety on future missions. Researchers also hope to learn whether knowledge gained from this and other studies may lead to better ways to prevent and treat blood clots both in space and on Earth.
-
-A performance study, calledManual Piloting, uses lunar-landing simulations to test how well astronauts can handle challenging landings after spending extended time in microgravity. Because long-duration spaceflight can affect sensory systems, orientation, and motion control during shifts between gravity environments, researchers are evaluating how those changes influence piloting performance and whether refresher training shortly before landing can strengthen capabilities and decision-making.
-
-Researchers also will continue theB-Complex study, which investigates if a daily B-vitamin supplement can reduce or preventSpaceflight-Associated Neuro-ocular Syndrome (SANS), a condition that can change astronauts’ eye structure during long-duration missions. Past research suggests taking B vitamins daily during spaceflight may help protect astronauts from SANS. Participating crew members will undergo vision tests and take B vitamins before, during, and after flight to evaluate the supplement’s effectiveness. The study also will assess whether the B vitamins influence how crew members’ blood vessels function before and after flight.
-
-Select Crew-13 astronauts also will participate in three additional Human Research Program studies: Standard Measures, Spacecraft Occupant Risk, and Zero T2.Standard Measurescollects consistent physiological and behavioral data from as many crew members as possible to establish baselines for research aimed at countering adverse effects.Spacecraft Occupant Riskcharacterizes the forces astronauts experience during landing to help NASA refine strategies and hardware to reduce injury risks.Zero T2tracks the exercise routines of select crew members to compare health and performance data between astronauts who use the treadmill for aerobic exercise aboard station and those who do not. The comparisons will help researchers build exercise plans for futureArtemisand deep-space missions, where spacecraft size could limit or eliminate treadmill use.
-
-“Together, these investigations will help NASA better understand how the human body responds to spaceflight and whether specific strategies can effectively protect astronaut health and performance,” said Michael Stenger, Human Research Program chief scientist at NASA Johnson. “Knowledge gained will pave the way for NASA’s efforts to safely send humans farther into the solar system, including Artemis missions to the Moon, work on the Moon Base, and future expeditions to Mars.”
-
-NASA’sHuman Research Programpursues methods and technologies to support safe, productive human space travel. Through science conducted in laboratories, ground-based analogs, commercial missions, the International Space Station and Artemis missions, the program scrutinizes how spaceflight affects human bodies and behaviors. Such research drives the program’squestto innovate ways that keep astronauts healthy and mission ready as human space exploration expands to the Moon, Mars, and beyond.
-
-NASA’s Office of the Chief Health and Medical Officer formed a working group in August…]]></description>
   </item>
 </channel>
 </rss>
