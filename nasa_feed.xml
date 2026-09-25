@@ -4,7 +4,117 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 25 Sep 2026 16:14:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 20:56:20 GMT</lastBuildDate>
+  <item>
+    <title>NASA Welcomes San Marino Signing the Artemis Accords</title>
+    <link>https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/</link>
+    <guid>https://www.nasa.gov/organizations/oiir/nasa-welcomes-san-marino-signing-the-artemis-accords/</guid>
+    <pubDate>Fri, 25 Sep 2026 19:53:03 +0000</pubDate>
+    <description><![CDATA[The Republic of San Marino became the 76th signatory to the Artemis Accords during a ceremony in the city of Rimini on Friday with NASA and U.S. Department of State officials present.
+
+“San Marino joins a growing coalition of like-minded nations committed to the peaceful, transparent, and responsible exploration of space,” said NASA Deputy Administrator Matt Anderson. “President Trump has directed NASA to build a Moon Base and establish an enduring presence on the lunar surface. As we do, we are putting the principles of the Accords into practice. NASA has invited every Artemis Accords signatory to participate in our return to the Moon through scientific payloads, technology demonstrations, CubeSats, and other capabilities. San Marino is already looking toward that future.”
+
+Minister of Industry and Technological Research Rossano Fabbri signed on behalf of San Marino. Gregory Mann, NASA Europe representative, participated in the ceremony with the U.S. Consul General in Florence Joseph Tordella.
+
+“We are pleased and honored that the Republic of San Marino has been welcomed as the 76th signatory state of the Artemis Accords,” said Fabbri. “We fully share the principles and values expressed in the Artemis Accords, and we are convinced that the signatory states united under the Accords will make a tangible contribution to promoting international cooperation in space and ensuring the use of space for peaceful purposes.”
+
+In 2020, NASA and the State Department joined with seven other founding nations to establish the Artemis Accords, responding to the growing interest in lunar activities by both governments and private companies. They introduced the first set of practical principles aimed at enhancing the safety and coordination between nations as they explore the Moon, Mars, and beyond, committing nations to:
+
+By signing the Artemis Accords, nations open the door to opportunities for future lunar exploration with NASA, advancing humanity’s return to the Moon, and shaping the Golden Age of exploration and innovation.]]></description>
+  </item>
+  <item>
+    <title>NASA Tests Dual Mode Propulsion CubeSat Ahead of Launch</title>
+    <link>https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/</link>
+    <guid>https://www.nasa.gov/directorates/rtmd/nasa-tests-dual-mode-propulsion-cubesat-ahead-of-launch/</guid>
+    <pubDate>Fri, 25 Sep 2026 19:36:10 +0000</pubDate>
+    <description><![CDATA[Spacecraft propulsion traditionally relies on volatile fuels and separate, bulky systems for different types of maneuvering in space. NASA is working to change that paradigm. Engineers at NASA’s Marshall Space Flight Center in Huntsville, Alabama, recently completed a rigorous series of environmental and physical tests on a new small satellite designed to make spaceflight safer and more efficient.
+
+The ASCENT (Advanced Spacecraft Energetic Non-Toxic) Propulsion Dual Mode mission is a flight demonstration of a spacecraft about the size of a large shoebox. The mission will test a single, integrated propulsion system that uses a common fuel tank to feed two different types of engines.
+
+Typically, spacecraft carry two separate propulsion systems to navigate: a high-thrust chemical system for rapid movements like entering orbit, and a low-thrust electric system for highly efficient, slow maneuvers like maintaining a position. This requires multiple fuel tanks and heavy plumbing, which eats up valuable space and weight.
+
+The spacecraft being developed uses a single non-toxic propellant called ASCENT. By feeding both a high-thrust combustion engine and low-thrust electrospray thrusters from one central tank, the spacecraft saves critical mass and volume. For future missions, this means more room for scientific instruments and the ability to launch on smaller, less expensive rockets.
+
+Bringing this concept to flight requires a nationwide collaborative effort. While NASA Marshall manages the mission, the spacecraft relies on electrospray thrusters developed by the Massachusetts Institute of Technology, a chemical propulsion module built by Plasma Processes, and a spacecraft bus integrated by the Georgia Institute of Technology.
+
+“There are a lot of odds and ends, and a lot of small challenges and some big ones,” said Nehemiah Williams, the demonstration’s project manager at NASA Marshall. “But ensuring the functionality of the propulsion system across all these different teams is what makes the mission successful.”
+
+Before a spacecraft can safely operate in the harsh environment of low Earth orbit, it must pass a battery of tests on the ground. Over the past few months, the engineering team at Marshall has put the flight hardware through its paces inside the center’s Small Spacecraft Servicing and Integration Lab.
+
+To verify the integrity of the unified propulsion system, the team conducted extensive leak testing. Engineers performed a pressurized helium leak test of the spacecraft inside a vacuum chamber to ensure the integrity of the spacecraft’s seals, successfully proving those seals were working as intended. Because the system shares a single tank of ASCENT propellant to feed two different thruster types, ensuring that the fuel lines and valves are perfectly sealed is vital for mission safety and success.
+
+The team also subjected the spacecraft to thermal vacuum testing. Space is an unforgiving environment characterized by a total lack of air and extreme temperature swings. By placing the spacecraft inside a specialized vacuum chamber that mimics these harsh conditions, engineers can ensure that the electronics, thrusters, and mechanical systems will operate normally once in orbit.
+
+Additionally, the spacecraft underwent a spin test. Just like a tire on a car, a spacecraft needs to be perfectly balanced. The spin test measures the spacecraft’s mass properties and center of gravity. This validates the CubeSat’s ability to stably fly and maintain the correct attitude, allowing its antennas to communicate with Earth and its solar panels to accurately catch the Sun’s rays.
+
+With the environmental and physical testing now complete, the mission is entering its final stages of preparation. The team will complete the final system checkouts, integrate the spacecraft’s solar arrays, and ship the hardware to its launch destination.
+
+The ASCENT Propulsion Dual Mode mission is manifested to launch no earlier than October 1 as a payload aboard a SpaceX Falcon 9 rocket from Vandenberg Space Force Base in California.
+
+Once deployed into an orbit about 325 miles above Earth, the spacecraft will begin a nine-month mission. After an initial checkout period, the operations team will execute short chemical and electric maneuvers. If successful, the spacecraft will spend several months performing multiple orbit-raising and lowering maneuvers, alternating between its high-thrust and low-thrust engines to prove the dual-mode concept works in space.
+
+The ASCENT Propulsion Dual Mode mission is managed and funded by NASA’s Small Spacecraft & Distributed Systems (SSDS) within the agency’s Research and Technology Mission Directorate at NASA Headquarters in Washington. SSDS is based at NASA’s Ames Research Center in California’s Silicon Valley.]]></description>
+  </item>
+  <item>
+    <title>2026-2027 DWU: Middle School Design Challenge</title>
+    <link>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/</link>
+    <guid>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-middle-school-design-challenge/</guid>
+    <pubDate>Fri, 25 Sep 2026 17:20:51 +0000</pubDate>
+    <description><![CDATA[Senior Workforce Dev & Stakeholder Specialist
+
+The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”
+
+As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make flight more affordable, find new fuels for aircraft, and reduce the amount of time passengers and cargo spend in the air. This year’s Dream with Us Challenge focuses on new aircraft fuels and how even the addition of one new fuel will change both the aircraft they are used in and the airports where aircraft take off and land.
+
+The “Fueling Flight Design Challenge: New Energy Systems” challenge is open to middle and high school students, with a different task for middle school teams and high school teams. Teams for both categories will focus on the addition of an emerging aircraft fuel source, liquid natural gas (LNG) into our aviation environment. This will require teams to learn more about LNG, how it might be used in aviation, the benefits of an additional fuel source, and what kind of changes would need to be made to aircraft and to airports to adapt to these new changes.
+
+Since the early days of aviation, commercial aircraft have relied on traditional designs and infrastructure. Aircraft have been a similar “tube-and-wing” design, with limitations that were made because of the materials aircraft were made with, along with the technology to build these aircraft. With the increasing availability of new technologies and new materials, aircraft no longer need to follow the same basic design. In addition, new research about fuel types, increasing demand for more flights and more fuel has resulted in many different options that include types of fuel, increasing electrification, and more. That also means airports are going to need to adjust. Changes in airport infrastructure will be needed to add multiple fuel types, different gateway configurations to allow for new aircraft types, and perhaps even different areas for different aircraft. What will this all look like? That partially depends on researchers and designers in the future since these are challenges the aeronautics community is starting to face now and will continue to do in the future.
+
+Middle school student teams of 2-4 members will adapt an existing airport (or create one of their own) that incorporates the use of both liquefied natural gas (LNG) and traditional aviation fuel. The airport design should include the overall airport layout that includes (but is not limited to): control tower(s), hangars, fuel locations, terminal, passenger parking, runways. See requirements below for specific details.
+
+The 2026/2027 Dream with Us Design Challenge for middle and high school students opens September 25, 2026. The submission period for middle school entrants begins September 25, 2026, and concludes on January 22, 2027, at 11:59 pm ET. Schools, organizations, and community groups should communicate to parents and guardians that submissions are limited to one entry per team and team registration requires someone over the age of 13 to create the account (adult team sponsors may create the registration on the team’s behalf if desired). Entries must be submitted through the submission link on the Dream with Us Design Challenge webpage:https://www.nasa.gov/dream-with-us/. Signed permission forms from parents or legal guardians are required for all participants that agree to the terms and requirements listed below and on the submission form.
+
+Use of artificial intelligence tools for challenge-related work is not permitted. Teams must not upload, process, or generate any content using AI systems, including publicly available browser‑based GenAI services, AI‑assisted code generation tools, or AI‑generated imagery. All submissions must be created solely by team members without the assistance of AI.
+
+The middle school challenge is open to all participants in grades 6 – 8 who are attending public, private, parochial, and home schools in the United States of America and children of U.S. military members stationed overseas.
+
+Students in grades 9 – 12 will use the high school module. See theDream with Us main webpagefor details.Note: for teams that have both middle and high school students, those teams will compete in the high school challenge.
+
+Submissions for the Dream with Us: Middle School Aviation Challenge are accepted September 25, 2026 – January 22, 2027. Submission link:INSERT LINK HERE. Winners will first be announced during a virtual awards reception (date TBD) then shared on social media and theDream with Us design challenge webpageafter the reception.
+
+Submissions for the Dream with Us: Middle School Aviation Challenge are accepted September 25, 2026 – January 22, 2027. Submission link:INSERT LINK HERE. Winners will first be announced during a virtual awards reception (date TBD) then shared on social media and theDream wi]]></description>
+  </item>
+  <item>
+    <title>2026-2027 DWU: High School Engineering Challenge</title>
+    <link>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/</link>
+    <guid>https://www.nasa.gov/aeronautics/aeronautics-stem/2026-2027-dwu-high-school-engineering-challenge/</guid>
+    <pubDate>Fri, 25 Sep 2026 17:19:42 +0000</pubDate>
+    <description><![CDATA[Senior Workforce Dev & Stakeholder Specialist
+
+The 2026-2027 challenge theme is, “Fueling Flight Design Challenge: New Energy Systems.”
+
+As more and more aircraft are a part of the US’ National Airspace System (NAS), NASA and partners at the FAA, at universities, and in the aviation industry are searching for ways to increase safety, make flight more affordable, find new fuels for aircraft, and reduce the amount of time passengers and cargo spend in the air. This year’s Dream with Us Challenge focuses on new aircraft fuels and how even the addition of one new fuel will change both the aircraft they are used in and the airports where aircraft take off and land.
+
+The “Fueling Flight Design Challenge: New Energy Systems” challenge is open to middle and high school students, with a different task for middle school teams and high school teams. Teams for both categories will focus on the addition of an emerging aircraft fuel source, liquefied natural gas (LNG) into our aviation environment. This will require teams to learn more about LNG, how it might be used in aviation, the benefits of an additional fuel source, and what kind of changes would need to be made to aircraft and to airports to adapt to these new changes.
+
+Since the early days of aviation, commercial aircraft have relied on traditional designs and infrastructure. Aircraft have been a similar “tube-and-wing” design, with limitations that were made because of the materials aircraft were made with, along with the technology to build these aircraft. With the increasing availability of new technologies and new materials, aircraft no longer need to follow the same basic design. In addition, new research about fuel types, increasing demand for more flights and more fuel has resulted in many different options that include types of fuel, increasing electrification, and more. That also means airports are going to need to adjust. Changes in airport infrastructure will be needed to add multiple fuel types, different gateway configurations to allow for new aircraft types, and perhaps even different areas for different aircraft. What will this all look like? That partially depends on researchers and designers in the future since these are challenges the aeronautics community is starting to face now and will continue to do in the future.
+
+Globally each year, over 62 million metric tons of air cargo are transported, which is more than 33% of global trade by value. This equates to about $8.3 trillion annually. With these large numbers, even a small increase in efficiency can have a large economic impact.
+
+A major air freight company has announced that they are looking to replace some of their fleet with a new aircraft and are interested in new designs to increase efficiency and that will utilize a different type of fuel. Your team has been tasked by your aircraft company to develop a new concept cargo aircraft to present to the air freight company. Your team has been directed to focus on a design that will use liquefied natural gas, or LNG. Since LNG must be stored differently than traditional jet fuel, the aircraft design needs to adapt. These changes, however, may lead to innovative designs that are more aerodynamically efficient.
+
+The air freight company has provided the following requirements.
+
+Teams will be provided with performance information for the jet engine.
+
+The high school module is for students in grades 9 – 12. Students in grades 6 – 8 will use the middle school module. See theDream with Us main webpagefor details.Note: for teams that have both middle and high school students, those teams will compete in the high school challenge.
+
+The high school challenge is open to all participants in grades 9 – 12 who are attending public, private, parochial, and home schools in the United States of America and children of U.S. military members stationed overseas.
+
+The 2026/2027 Dream with Us Design Challenge for middle and high school students opens September 25, 2026. The submission period for middle school entrants begins September 25, 2026, and concludes on January 22, 2027, at 11:59 pm ET. Schools, organizations, and community groups should communicate to parents and guardians that submissions are limited to one entry per team and team registration requires someone over the age of 13 to create the account (adult team sponsors may create the registration on the team’s behalf if desired). Entries must be submitted through the submission link on the Dream with Us Design Challenge webpage:https://www.nasa.gov/dream-with-us/. Signed permission forms from parents or legal guardians are required for all participants that agree to the terms and requirements listed below and on the submission form.
+
+Use of artificial intelligence tools for challenge-related work is not permitted. Teams must not upload, process, or generate any content using AI systems, including publicly available browser‑based GenAI services, AI‑assisted code generation tools, or AI‑generated imagery.]]></description>
+  </item>
   <item>
     <title>Hubble Spots Chaotic Secret in Galaxy</title>
     <link>https://www.nasa.gov/image-article/hubble-spots-chaotic-secret-in-galaxy/</link>
@@ -136,162 +246,6 @@ Learn more about International Space Station research and operations at:
 Joshua Finch / Jimi RussellHeadquarters, Washington202-358-1100joshua.a.finch@nasa.gov/james.j.russell@nasa.gov
 
 Anna Schneider / Mary PfisterJohnson Space Center, Houston281-483-5111anna.c.schneider@nasa.gov/mary.m.pfister@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>Travel</title>
-    <link>https://www.nasa.gov/centers-and-facilities/nssc/travel/</link>
-    <guid>https://www.nasa.gov/centers-and-facilities/nssc/travel/</guid>
-    <pubDate>Thu, 24 Sep 2026 18:06:14 +0000</pubDate>
-    <description><![CDATA[The NSSC provides travel reimbursement services for all authorized Agency travel including: domestic, foreign, local, ETDY, and Change of Station (COS).
-
-Federal Travel Regulations (FTR)Traveler Extended TDY and TaxesDomestic Per Diem RatesForeign Per Diem Rates
-
-NSSC Travel now has another way that a transferee Traveler may submit his or her vouchers.Please see, submittingChange of Station Process Steps
-
-If traveling CONUS, review:NASA’s Guide to a Successful Move (CONUS)
-
-If traveling OCONUS, review:NASA’s Guide to a Successful Move (OCONUS)
-
-Change of Station Voucher Information And Samples
-
-Change of Station ServiceNow Instructions
-
-SF 1038Advanceof Funds Application and Account
-
-NF420  Service Agreement-First Duty Station Appointment
-
-NF513 Service Agreement and Duplicate Reimbursement Disclosure Statement OCONUS Employment
-
-NF1204 Employee’s Claim for Damage to, or Loss of, Personal Property Incident to Service
-
-NF1337 Service Agreement-Transferred Employee
-
-NF1338 Employee Application for Reimbursement of Expenses Incurred upon Sale or Purchase (or both) of Residence upon Change of Station
-
-NF1449C  CONUS-Information Covering Persons Transferred or Appointed to First Duty Station
-
-NF1449O OCONUS-Information Covering Persons Transferred or Appointed to First Duty Station
-
-NF1450C CONUS Change of Station Authorization
-
-NF1450O OCONUS Change of Station Authorization
-
-NF1500 Claim for Temporary Quarters Subsistence Expense/Temporary Quarters Subsistence Allowance Reimbursement
-
-NF1807 Househunting Trip Binding Decision
-
-NF1808 Property Management Binding Decision
-
-NF1810 Employee Agreement to Repay Withholding Tax Allowance (WTA)
-
-NF 1811 Temporary Quarters Subsistence Allowance (TQSA)
-
-NF1812 Temporary Quarters Subsistence Allowance (TQSA) Preceding Final Departure
-
-NF1813 Temporary Change of Station (TCS) Duplicate Reimbursement Disclosure Statement
-
-NF1814 Temporary Quarters Subsistence Allowance (TQSA) Predeparture Binding Decision
-
-Check out the latestTaxability Change Noticefor Change of Station travelers.To learn more, see:Relocation Income Tax Allowance Information
-
-POV Mileage for NASA TravelersFor Privately Owned Vehicle (POV) Mileage Reimbursement Rates for TDY and ETDY Travel please refer to the GSA Web site:http://www.gsa.gov/mileage
-
-NASA Domestic Travel: Day that Travel EndsFor the day travel ends (the day a traveler returns to the PDS, home, or other authorized point), the per diem allowance is 75% of M&IE.
-
-NASA Domestic Travel Rental Car Liability
-
-When making a reservation for a rental car, please remember the Government is only responsible to pay for rental car charges for official travel time.  If a traveler decides to take annual leave in conjunction with official travel and keeps the rental car during annual leave, the portion of the rental rate applicable to annual leave is the responsibility of the traveler.  Please refer to 41 CFR 301-10.453
-
-What is my liability for unauthorized use of a rental automobile obtained with Government funds?
-
-You are responsible for any additional cost resulting from the unauthorized use of a commercial rental automobile for other than official travel-related purposes.
-
-Prior to traveling, refer to the GSA State Tax Information webpage:https://smartpay.gsa.gov/smarttax. Select your State/US territory of interest to see the exemption status and download the appropriate form, if required.
-
-NASA’s standard reduced per diem rate for ETDY travel is 65 percent under the current policy as defined in the NASA Procedural Requirements (NPR) 9750.1-3.1.2.
-
-a.   Consistent with 41 CFR 301-11.200, an ETDY authorization can include reasonable further reductions from this standard rate or limitations on approved lodging for unique circumstances, to the extent it can be  determined in advance that such will substantially lower costs without mission impact.  For example, if lodging is obtained at 50 percent per diem, the ETDY authorization should be adjusted to authorize a lower rate.
-
-b.   The reduced rate of reimbursement begins on the first day of travel regardless of the mode of transportation, except as noted in 3.1.3.  Allowances are covered by the reduced per diem rate; therefore, NASA will authorize the employee a per diem rate (up to 65 percent) to reasonably cover expenses for a one bedroom furnished apartment.  For ETDY greater than 90 days, first consideration should be given to long-term lodging facilities.  Long-term lodging facilities are available on the GSA schedule athttp://www.gsa.gov.  If a long-term facility is not selected, proper justification should be provided.
-
-Find more about Allowable ETDY Expenses Included in Reduced Per Diem Rate, please see the following document:
-
-Allowable ETDY Expenses Included in Reduced Per Diem Rate
-
-GSA’s Schedule 48is designed for lodging needs of 30 days or more. This program provides housing accommodations for temporary or permanent relocation. Typical facilities include apartment or condominium type properti]]></description>
-  </item>
-  <item>
-    <title>NASA Unveils Winning Designs for Mars Space Food Systems Challenge</title>
-    <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/</link>
-    <guid>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/centennial-challenges/nasa-unveils-winning-designs-for-mars-space-food-systems-challenge/</guid>
-    <pubDate>Thu, 24 Sep 2026 18:01:45 +0000</pubDate>
-    <description><![CDATA[NASA announced the winners of the Deep Space Food Challenge: Mars to Table Thursday, with the top $300,000 prize being awarded to Chinyere Ukeje of Philadelphia, Pa. for the Adaptive Nourishment Infrastructure (ANI) food system concept. This competition challenged solvers to explore innovative solutions for integrated space food systems that would provide safe, nutritious meals to astronauts living and working in space.
-
-Mars to Tablelaunched in January 2026 as a follow on to theDeep Space Food Challenge, which NASA ran from 2021-2014 in collaboration with CSA (Canadian Space Agency). The original challenge focused on prototyped novel food production methods, while the 2026 competition asked teams to conceptualize space meals not as individual technology components, but as a complete food-production system that would offer a variety of food with limited crew time and work needed to maintain the food system. After judging 113 submissions by teams hailing from 33 countries and 28 U.S. states, the agency selected five winning teams for the 2026 challenge, awarding a combined $650,000.
-
-“We’re thrilled to keep advancing the future of space food systems with this challenge,” said Jennifer Edmunson, program manager for Centennial Challenges at NASA’s Marshall Space Flight Center in Huntsville, Alabama. “The future of human space exploration will rely on innovative food systems, and it is amazing how much ingenuity this challenge has helped us identify from participants near and far.”
-
-Currently, astronaut meals are almost entirely cooked, packaged, and sent to the International Space Station from theSpace Food Systems Laboratoryat NASA’s Johnson Space Center. A one-way trip to Mars will take at least nine months, so bringing all required meals will not be sustainable for such missions. From shelf stability issues to mass restrictions, pre-packaged foods cannot be the default option for future Martian astronauts.
-
-In search of viable solutions for future space food operations, teams were tasked with ideating and designing systems in response to a mission scenario that addressed a 15-person astronaut crew for 500 Martian sols, or about 513 Earth days. The challenge focused on surface operations and system integration, and each team delivered a design layout, meal plan, concept of operations, and walkthrough video.
-
-“The criteria we laid out for this competition were challenging, but intentionally so,” said Mars to Table head judge Dr. Alexander Meyers, who supports NASA Centennial Challenges through Noetic Strategies from the agency’s Kennedy Space Center in Florida. “This challenge spotlights the complexity of a complete space food system and the human ingenuity required to solve these problems. Every new idea presented in this challenge represents a possible new tool in NASA’s plans for the future of space exploration.
-
-NASA named five winners of the Mars to Table Challenge. These technologies provide NASA with inspirational launching pads for future deep space food systems.
-
-The first-place winner, Chinyere Ukeje, developed the concept of ANI, a modular food ecosystem combining controlled-environment agriculture, fermentation and fungi cultivation, and closed-loop nutrient recycling through bioreactors with limited Earth-provisioned foods to produce 50% of the food away from Earth. ANI, named after the Nigerian Earth goddess of harvest and fertility, envisions a system that cooks fresh meals daily and has provisions to work through shortages of power, water, equipment, or crew time.
-
-The second-place prize of $200,000 was awarded to Cislune of Rosemead, Calif. for the Fresh, Ferment, Reserve food infrastructure. The proposed system grows model-selected crops, converts part of the harvest into familiar foods in instrumented culture cassettes, and uses a protected Earth-loaded reserve to supplement in cases of biological variability, utility curtailment, and rejected batches.
-
-NASA also recognized one international team:
-
-The Deep Space Food Challenge: Mars to Table is managed at NASA Marshall byCentennial Challenges, part of the Prizes, Challenges, and Crowdsourcing Program within NASA’s Research and Technology Mission Directorate. The challenge is also supported by NASA’s Division of Biological and Physical Sciences, Heliophysics Division, Planetary Science Program, Human Research Program, and Earth Science Division.
-
-Centennial Challenges have a legacy of more than 20 years engaging the public to solve complex problems that benefit NASA’s broader initiatives. Past challenges have spurred advances in robotics, additive manufacturing, power and energy, textiles, chemistry, and biology.
-
-The Deep Space Food Challenge: Mars to Table is also supported by subject matter experts at NASA Johnson and NASA Kennedy. The Methuselah Foundation and Floor23 Digital support the administration of this challenge.
-
-To learn more about the challenge, visit:]]></description>
-  </item>
-  <item>
-    <title>NASA’s Machines for Mars Make Beer Bubbly</title>
-    <link>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/</link>
-    <guid>https://www.nasa.gov/technology/tech-transfer-spinoffs/nasas-machines-for-mars-make-beer-bubbly/</guid>
-    <pubDate>Thu, 24 Sep 2026 16:41:01 +0000</pubDate>
-    <description><![CDATA[In 2021, Maine Beer Company’s carbon dioxide supplier ran short on carbon dioxide.
-
-“There was potential for our beer to go stale in the tanks,” said Dave Love, the brewery’s sustainability manager. “We wouldn’t be able to use CO2for any of our bottling, kegging, or centrifuge operations.”
-
-The solution the company settled on originated on Mars — or more specifically, in NASA’s plans for harvesting resources from the Red Planet. Now it’s saving money and reducing emissions for wineries, distilleries, power companies, helium producers, and more.
-
-Beginning in the 1990s, the company Pioneer Astronautics won multiple Small Business Innovation Research (SBIR) contracts from Johnson Space Center in Houston to build systems that could generate resources on Mars. The technology could, for example, capture carbon dioxide from the Martian atmosphere and combine it with hydrogen to produce water for life support and methane for rocket fuel. These capabilities weren’t entirely new, but Pioneer’s systems were compact, efficient, and automated.
-
-Later, Pioneer Astronautics founder Robert Zubrin created Pioneer Energy to rearrange these subsystems into technology for the oil and gas industry (Spinoff2015,2020). He soon realized technology for capturing and purifying carbon dioxide on Mars could do the same in a brewery, capturing CO2from the brewing process for use in carbonation. By 2015, the Craft Brewery Recovery System was in production (Spinoff2016). In the end, though, the company put the system up for licensing.
-
-Amy George founded Earthly Labs of Austin, Texas, in 2016 to develop small-scale carbon capture. She discovered the Craft Brewery Recovery System and obtained an exclusive license.
-
-Since the pandemic reduced its availability, carbon dioxide has continued experiencing shortages and volatility, and George said these have emerged as major drivers of interest in the technology.
-
-And it isn’t just helping brewers. After expanding into wineries and distilleries, Earthly Labs started discovering other markets. Energy companies often generate carbon dioxide as a by-product, which they can sell if it’s captured. Several are now customers.
-
-Another application finding new customers is helium production. Helium, which is used to make microchips and fiber-optic cables, among other applications, is found in underground deposits, mixed with other gases, such as methane and carbon dioxide, that need to be separated.
-
-In 2021, Earthly Labs was acquired by Chart Industries Inc., which specializes in cryogenic equipment engineering and has helped scale up the technology for applications like power plants.
-
-Search and rescue technology developed in part by NASA saved five lives
-
-Algorithm NASA first applied to satellite imagery is now used to peer into antiquity
-
-Like the Moon, Mars is a rich destination for scientific discovery and a driver of technologies that will enable humans…]]></description>
-  </item>
-  <item>
-    <title>Practicing for Safe Landings on the Moon and Beyond</title>
-    <link>https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/</link>
-    <guid>https://www.nasa.gov/image-article/practicing-for-safe-landings-on-the-moon-and-beyond/</guid>
-    <pubDate>Thu, 24 Sep 2026 16:29:19 +0000</pubDate>
-    <description><![CDATA[In this Aug. 27, 2026, image, an Alta-X drone flies an advanced guidance and navigation system known as theSafe and Precise Landing – Integrated Capabilities Evolution(SPLICE) experiment near NASA’s Armstrong Flight Research Center in Edwards, California.
-
-Researchers at NASA’s Johnson Space Center in Houston developed SPLICE, which successfully completed simulated lunar descent and landing maneuvers during recent testing. Its technologies provide safe and precise landing for the Moon, Mars, icy worlds, and other destinations using specialized navigation, guidance, and processing techniques. It enables landing in hard-to-reach and unknown areas that are of high scientific interest.]]></description>
   </item>
 </channel>
 </rss>
