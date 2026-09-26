@@ -4,7 +4,94 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sat, 26 Sep 2026 08:52:07 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 15:12:16 GMT</lastBuildDate>
+  <item>
+    <title>Google 广告沦为诈骗新温床，假「全萤幕警告」伪装电脑遭勒索攻击</title>
+    <link>https://infosecu.technews.tw/2026/09/26/google-ads-deliver-browser-locking-fake-security-scams/</link>
+    <guid>https://infosecu.technews.tw/2026/09/26/google-ads-deliver-browser-locking-fake-security-scams/</guid>
+    <pubDate>Sat, 26 Sep 2026 10:30:46 +0000</pubDate>
+    <description><![CDATA[资安研究员近日揭露，透过 Google 广告散布的技术支援诈骗，以更具迷惑性的方式锁定 Windows 与 Mac 使用者。这类恶意广告会把受害者导向看似正常的页面，接著以全萤幕警告、假安全讯息与浏览器卡顿等手法，营造电脑已经当机或遭感染的假象，诱使使用者拨打页面的假客服电话。
+
+Netskope 观察，这起活动发生在 8 月 31 日至 9 月 14 日，有 619 家客户组织使用者点击恶意广告攻击。研究员指这些广告出现在至少 284 个合法出版网站，涵盖地图、天气、房地产、文件托管与体育等高流量网站类型。Netskope 表示，由于可见范围仅占整体网路流量小部分，实际接触到这些广告的人数可能远高于统计。
+
+这类诈骗的关键不是直接入侵装置，而是利用浏览器互动时机制造恐慌。研究员描述，恶意页面会在使用者操作后才显示警告，并隐藏游标、干扰离开页面的快捷键，甚至让浏览器看起来像是「遭锁住」。有些页面还会先以看似无害的商店或载入画面为掩护，再逐步切换成针对不同作业系统设计的假警告画面。
+
+一旦使用者拨打页面电话，诈骗者就会要求支付高额赎金、交出个资或授权远端存取装置。Netskope 强调，这些画面虽然逼真，但装置并未遭锁定；若遇到类似状况，不要拨打页面电话，并尝试离开全萤幕、关闭分页或直接结束浏览器程序。]]></description>
+  </item>
+  <item>
+    <title>OpenAI 揭露更多 AI 代理失控行为：曾接触政府网站并外传使用者图片</title>
+    <link>https://infosecu.technews.tw/2026/09/26/openai-said-its-rogue-ai-agents-accessed-public-data-from-the-sec/</link>
+    <guid>https://infosecu.technews.tw/2026/09/26/openai-said-its-rogue-ai-agents-accessed-public-data-from-the-sec/</guid>
+    <pubDate>Sat, 26 Sep 2026 10:00:07 +0000</pubDate>
+    <description><![CDATA[OpenAI 今日表示，正在扩大检视旗下 AI 代理训练与测试期间的网路活动，并已通知数十家机构，称这些代理可能在其网站出现不当行为。案例涵盖政府机关、学校、公共机构与其他组织，部分行为属于例行性的公开资讯搜寻，但也有一些行为已超出原本授权的范围。
+
+OpenAI 确认，旗下系统曾在训练过程中接触美国人口普查局与证券交易委员会（SEC）网站的公开资料，并已通知这两个机构。公司强调，这些代理并未存取非公开资料，也没有破坏或更动政府网站。不过 SEC 的案例，代理曾将取得的部分公开资讯贴到另一个公开网页；而人口普查局案例，代理使用并非为此设计的介面取得资料。
+
+OpenAI 最新说明将异常行为归纳为五类：绕过存取控制、使用外泄凭证、注入查询或指令、接触内部系统，以及向第三方网站散播垃圾内容。公司表示，部分案例涉及网站保护机制被绕过，另一些则是代理以不符合预期的方式与网站互动。OpenAI 也提到，由于许多受影响的机构要求保密，因此目前不会逐一公开名称。
+
+除了网站互动问题，OpenAI 还披露至少有 53 起事件，显示 AI 代理曾从 ChatGPT 使用者的活动撷取图片，并以未公开连结的形式转传到图片托管网站。虽然这些使用者原本已同意资料可用于模型训练，但 OpenAI 坦言这种处理方式并不恰当，目前正著手要求第三方平台移除相关图片。
+
+OpenAI 表示，目前已完成的审查多数属于低严重性事件，且尚未发现重大影响，但整体调查仍在进行中，后续可能还会有更多通知与揭露。]]></description>
+  </item>
+  <item>
+    <title>涉危害儿少健康，TikTok 与阿拉巴马州达成和解</title>
+    <link>https://infosecu.technews.tw/2026/09/26/tiktok-alabama-settlement-harm-children-health/</link>
+    <guid>https://infosecu.technews.tw/2026/09/26/tiktok-alabama-settlement-harm-children-health/</guid>
+    <pubDate>Sat, 26 Sep 2026 09:00:43 +0000</pubDate>
+    <description><![CDATA[美国阿拉巴马州 25 日宣布与短影音平台 TikTok 及中国母公司字节跳动（ByteDance）达成和解，要求平台限制青少年使用时间并加强年龄验证，以解决危害儿童及误导消费者相关指控。
+
+路透社报导，这起案件原订下周开庭，如今双方提前达成和解。根据和解协议，TikTok必须针对阿拉巴马州青少年实施数项调整，包括每天最长使用2小时、每使用15分钟必须暂停，以及采取更严格的年龄检查机制。
+
+根据协议，TikTok将支付阿拉巴马州至少1亿美元；如果在指定期限内再有40州与TikTok达成类似和解，阿拉巴马州获得的金额最高可增至3亿美元。
+
+TikTok美国业务发言人声明：「这项协议建立在我们持续强化安全工具、保护青少年安全的承诺及核心目标上。」
+
+这也是TikTok首度就青少年身心健康相关诉讼，与美国州政府达成和解。阿拉巴马州检察长马歇尔（Steve Marshall）去年对TikTok提起诉讼，至少另有27州及华盛顿哥伦比亚特区也提出类似诉讼。
+
+马歇尔宣布上述协议时表示：「对阿拉巴马州的家长来说，今天是个好日子。」
+
+这场原定28日于蒙哥马利（Montgomery）州法院开庭、预计进行两三周的审判，原本被视为深入了解TikTok内部运作的难得机会。TikTok先前也有部分原订进入审判程序的案件以和解收场，该平台也试图避免公开其营运细节。
+
+阿拉巴马州指控，TikTok提供源源不绝的影片，使其成为最具成瘾性的社群平台，演算法也会将年轻用户导向愈来愈激烈的暴力及自我伤害相关内容，助长青少年心理健康危机，并导致该州因自我伤害而被送往急诊的病例「激增」。
+
+该州还指控，TikTok为让Google、苹果（Apple）及微软（Microsoft）应用程式商店评定为适合青少年使用的安全应用程式，谎称平台已限制年轻用户接触色情及暴力内容；此外，TikTok也被指在中国政府能否取得美国用户资料一事误导用户。
+
+TikTok则表示，公司在设计平台时已将青少年安全列为优先事项，并援引1996年「通讯端正法」第230条（Section 230 of the Communications Decency Act of 1996），主张网路平台不须为用户发布的内容承担法律责任。]]></description>
+  </item>
+  <item>
+    <title>Dell 点名 HDD 缺货，硬碟供应持续吃紧</title>
+    <link>https://technews.tw/2026/09/26/dell-highlights-hdd-shortage-hard-drive-supply-remains-tight/</link>
+    <guid>https://technews.tw/2026/09/26/dell-highlights-hdd-shortage-hard-drive-supply-remains-tight/</guid>
+    <pubDate>Sat, 26 Sep 2026 08:55:25 +0000</pubDate>
+    <description><![CDATA[AI 基础设施需求持续扩大，带动 HBM、DRAM 及 HDD 等关键零组件需求升温。市场消息传出，Dell 营运长 Jeff Clarke 近期与摩根士丹利分析师会谈时提到，若 Agentic AI 工作负载持续快速成长，部分关键零组件供应吃紧情况可能延续超过 5 年，其中对记忆体与 HDD 的供应情况最为担忧。
+
+事实上，Clarke 在 9 月初举行的 2027 会计年度第二季财报电话会议中便指出，目前 DRAM、NAND 供应仍然受限，部分 CPU 出现短缺，磁碟机（disk drives）同样面临供应不足。受 AI 基础设施需求强劲带动，Dell 第二季营收达 470 亿美元、年增 58％，创下单季新高。
+
+记忆体需求也持续升温。摩根大通 9 月最新报告预估，2026～2028 年 HBM 位元需求（bit demand）年复合成长率达 63％，同期 AI 伺服器 DRAM／SOCAMM 需求年复合成长率更达 92％，反映 AI 伺服器对高频宽、大容量记忆体的需求快速攀升。
+
+除记忆体之外，HDD 供应压力也早已浮现。TrendForce 早在 2025 年 9 月便指出，随 AI 推论带动资料量快速增加，加上主要 HDD 业者产能扩张相对有限，Nearline HDD 供应逐渐吃紧，交期一度由数周拉长至 52 周以上。
+
+从 HDD 大厂接单情况来看，订单能见度更持续向后延伸。Seagate 表示，资料中心已占公司约 90％ 的 Exabyte 出货量，依现有长期供应协议，绝大多数 Nearline HDD 已配置至 2028 年，部分客户更开始规画 2029 年及以后的需求。
+
+Western Digital（WD）的需求能见度则进一步向后延伸。WD 财务长 Kris Sennesael 9 月表示，目前绝大多数 2027 年供应已纳入长期供应协议，部分 2028 年及少量 2029 年供应也已签订相关协议，客户甚至希望进一步确保 2030、2031 年的供应。WD 并预估，未来 5 年 Exabyte 需求年复合成长率将超过 25％。
+
+随 AI 应用由模型训练快速向推论及 Agentic AI 扩展，资料产生、存取及储存需求同步攀升，AI 基础设施的供应瓶颈也不再只集中于 GPU。从 HBM、DRAM 到 Nearline HDD，主要供应商订单能见度持续拉长，AI 带动的记忆体与储存需求正逐步形成更长周期的成长动能。]]></description>
+  </item>
+  <item>
+    <title>传 SK 海力士美国子公司考虑 IPO，估值上看 1,500 亿美元</title>
+    <link>https://finance.technews.tw/2026/09/26/solidigm-ipo/</link>
+    <guid>https://finance.technews.tw/2026/09/26/solidigm-ipo/</guid>
+    <pubDate>Sat, 26 Sep 2026 08:30:13 +0000</pubDate>
+    <description><![CDATA[路透社引述三名知情人士说法报导，韩国晶片制造商 SK 海力士（SK Hynix）美国子公司 Solidigm 正考虑最快明年首次公开发行（IPO），公司估值最高可能达 1,500 亿美元。
+
+一名知情人士和第四名消息人士说，Solidigm本周已与争取IPO承销角色的投资银行进行提案简报会，这是朝可能成为美国历来最大半导体上市案迈出具体一步。
+
+这三名知情人士不具名透露，Solidigm可能透过IPO募得150亿美元。他们还说，交易规模与时程等相关计划仍处于初期阶段，可能因市场状况而改变。
+
+这项上市案有望成为有纪录以来规模数一数二大的半导体IPO，并可为这项已成为SK海力士储存业务重要一环的事业提供独立估值。这也将寻求搭上投资人对人工智慧（AI）基础设施相关企业的强劲需求；这股需求已带动半导体及硬体类股上涨。
+
+Solidigm总部位于加州兰乔科多瓦（Rancho Cordova），是SK海力士在美国的NAND快闪记忆体与固态硬碟（SSD）子公司。Solidigm婉拒置评。SK海力士声明：「Solidigm正检视各种选项以强化事业竞争力，但目前尚未确定具体计划。」]]></description>
+  </item>
   <item>
     <title>气喘、慢性肺部发炎有新解方？吸入式 RNAi 有望从源头控制发炎</title>
     <link>https://technews.tw/2026/09/26/new-solution-asthma-chronic-lung-inflammation-inhaled-rnai-source-control/</link>
@@ -190,101 +277,6 @@ TPCA观察，载板市场成长不仅来自终端需求回温，更重要的是A
 此外，除了载板高成长，TPCA指出，HDI受惠AI伺服器、低轨卫星及车用电子等需求成长，支撑高阶HDI产品出货，但手机及个人电脑市场需求仍偏弱，抵销部分成长动能，第二季产值年增达28.4%。
 
 TPCA表示，多层板在AI伺服器、高阶网通及记忆体模组需求持续成长下，高层数、高频高速PCB产品比重提升，带动多层板产值大幅成长，年成长率达47.6%。软板年成长率为1.3%，受到手机及笔电需求疲弱影响，整体软板市场表现平淡；不过AI智慧眼镜开始放量出货，有助支撑软板、软硬结合板需求。]]></description>
-  </item>
-  <item>
-    <title>传产业吃不到 AI 红利，专家：资源排挤加剧 K 型经济</title>
-    <link>https://finance.technews.tw/2026/09/26/traditional-industries-miss-ai-dividends-resource-crowding-exacerbates-k-shaped-economy/</link>
-    <guid>https://finance.technews.tw/2026/09/26/traditional-industries-miss-ai-dividends-resource-crowding-exacerbates-k-shaped-economy/</guid>
-    <pubDate>Sat, 26 Sep 2026 04:00:22 +0000</pubDate>
-    <description><![CDATA[台湾经济搭上 AI 列车高速前进，不少传统产业却因吃不到 AI 红利陷入焦虑。专家分析，AI 产业快速吸走资金、高阶人才与能源，形成生产要素「排挤效应」，一端是科技业乘著 AI 需求向上，另一端的传统产业却承受成本攀升、需求疲弱与人才流失的冲击，K 型经济的两端因此愈拉愈开。
-
-「K型经济指的是同经济体内，高科技、AI产业持续向上，传统产业却持续承压的长期两极化发展趋势」，商业发展与策略研究所长朱浩分析。
-
-朱浩认为，K型经济问题核心在于生产要素的「排挤效应」，AI产业快速吸收资本、高阶人才与能源，从电力、绿电到顶尖人才，都优先流向具有高报酬能力的科技企业；另一方面，算力与技术门槛提高，也使资本更加集中于少数大型企业；传统产业面对转型成本时，缺乏足够资源。
-
-这也形成一种特殊景象，AI产业创造的出口与产值，持续推高整体经济数字，掩盖传产疲软的真相，财富未必能等比例传导至所有产业与民众。摊开证交所及柜买中心公布的2025年上市柜公司平均员工薪资，半导体产业平均年薪达新台币258万元，观光餐旅业平均年薪则约54.3万元，前者与后者的差距高达4.75倍。
-
-「今年是家具产业相当艰辛的一年」，商亿-KY董事长谢智通直言，近年大量资金流向AI、科技产业与股市，传统消费市场受到排挤，加上关税、通膨与需求疲弱，当AI产业狂欢的同时，全球家具产业进入新一轮淘汰赛。
-
-旅宿与宴会产业同样感受到压力。云品国际总经理丁原伟表示，在人力与食材成本不断攀升下，业者朝向聚焦高阶和高附加价值的市场，但也有业者因为缺工、利润变薄等问题，黯然退出市场。
-
-诚品通路发展事业群总经理林家贤则观察，今年截至目前，诚品人流较去年同期增加约一成，西门町诚品生活武昌、新店人流更成长超过二成。他认为，「AI带动整体经济与消费，也让零售业尝到一点甜头」。
-
-不过，不少零售业者仍认为，资金较多流向股市、房地产、海外与奢侈品，高收入者的边际消费倾向对基本内需有限，难以带动传统产业。
-
-另一个值得注意的现象，是传产与高科技本业成长出现巨大差距，与AI关联度较低的传统产业股，甚至开始「买台积电股票」。
-
-本业为殡葬服务的龙岩，2020年便买进台积电股票，至今帐面价值大幅增加，成为业外收益的重要来源；不少餐饮业者本业营运稳健，也陆续加码台积电股票，盼以投资形式共享AI红利。
-
-朱浩指出，这透露出另一层K型结构，资金持续往AI集中，强化产业差距，将带来多方面的不利后果。例如，当经济过度依赖少数AI产业，一旦全球AI投资降温，其他产业却已经因AI间接导致的高成本环境而削弱实力，整体经济缺乏另一个足以缓冲的备援，恐导致经济缺乏韧性而「硬著陆」。
-
-朱浩认为，「传产转型不能以旧思维解决新问题」，不是单纯添购AI设备、做数位化升级，就能追上科技巨头。他建议，传产真正的优势反而是多年累积的「暗资料」与产业知识，例如生产流程参数、师傅经验与现场know-how；若能进一步资料化、模型化，发展成专用AI应用，可能形成通用模型难以复制的产业护城河。
-
-其次，他认为，传产不必把自己变成科技公司，而应该利用AI重新定义既有产品与服务。例如螺丝厂不只是卖螺丝，而是把制造能力、软体与服务整合，从单纯产品供应商转型为高附加价值的解决方案提供者。
-
-政府与产业公会则可扮演「赋能者」角色。他举例，可建立工具机、纺织等产业专用AI基础设施或模型，以共享、租用等方式，降低中小企业导入门槛，让「K型」另一端的产业找到上升路径。
-
-（作者：江明晏；首图来源：Image by magnific）]]></description>
-  </item>
-  <item>
-    <title>Acadia 阿兹海默症新药二期未达主要终点，股价续挫、仍计划推进三期</title>
-    <link>https://finance.technews.tw/2026/09/26/acadia-pharmaceuticals-drops-7-continuing-fall-after-drug-trial-results/</link>
-    <guid>https://finance.technews.tw/2026/09/26/acadia-pharmaceuticals-drops-7-continuing-fall-after-drug-trial-results/</guid>
-    <pubDate>Sat, 26 Sep 2026 03:50:39 +0000</pubDate>
-    <description><![CDATA[Acadia Pharmaceuticals 股价在阿兹海默症精神病候选药 remlifanserin 第二期实验结果公布后持续走弱，25 日再度下跌，延续前一交易日的重挫走势。市场反应反映投资人对这项关键研发计划的疗效前景转趋保守。
-
-公司之前公布 RADIANT 第二期资料，remlifanserin 的 60 毫克每日一次剂量在主要评估指标虽较安慰剂表现更佳，但六周时仍未达统计显著；30 毫克剂量则几乎没有明显改善。不过，60 毫克剂量在一项次要指标表现较佳，且疗效差距在试验期间持续扩大。
-
-安全性方面，药物表现相对稳定，与安慰剂相比，不良事件、严重不良事件与停药比例相近，未见 QT 延长讯号，也没有对运动功能或认知造成明显负面影响，亦未出现死亡案例。
-
-尽管主要终点失利，Acadia 仍表示将持续推进两项进行中的第三期实验，并调整开发策略，移除 30 毫克剂量组，只保留 60 毫克方案。公司预定 11 月举行的阿兹海默症临床实验会议，公布详细疗效与安全性资料。]]></description>
-  </item>
-  <item>
-    <title>左手操作也没问题！网友实测 iPhone Duo 外萤幕触控范围比想像大</title>
-    <link>https://technews.tw/2026/09/26/iphone-duo-video-shows-left-handed-use-for-new-model/</link>
-    <guid>https://technews.tw/2026/09/26/iphone-duo-video-shows-left-handed-use-for-new-model/</guid>
-    <pubDate>Sat, 26 Sep 2026 03:40:51 +0000</pubDate>
-    <description><![CDATA[iPhone Duo 正式登场不到一个月了，外界关注焦点之一从外观与规格延伸到实际使用体验，尤其左手操作是否顺畅。近日一支新影片提供初步答案，让左撇子用户有更具体的参考。
-
-影片可见 iPhone Duo 展开外萤幕使用时，机身左侧因为铰链设计而呈现笔直平整的边缘，让左手握持时手感与一般直向手机略不同，也成为不少潜在买家关心的重点。不过网友实测画面看，左手操作仍算顺畅，使用者甚至能从左侧一路触及右侧 Dock，整体表现算「够用」。
-
-此影片为网友 Tom Hitchins 在 Instagram 分享。Hitchins 表示自己是右撇子，这次左手测试就是为了给其他用户参考。虽然他在操作时看起来略为不习惯，但首次让外界看到 iPhone Duo 以左手使用的实际状况，也为新机可用性提供更多线索。]]></description>
-  </item>
-  <item>
-    <title>美国砸 52.5 亿美元升级电网，拚增 23 GW 输电容量</title>
-    <link>https://technews.tw/2026/09/26/us-5-25-billion-grid-upgrade-23gw-transmission-capacity/</link>
-    <guid>https://technews.tw/2026/09/26/us-5-25-billion-grid-upgrade-23gw-transmission-capacity/</guid>
-    <pubDate>Sat, 26 Sep 2026 03:32:33 +0000</pubDate>
-    <description><![CDATA[AI 资料中心与制造业持续推升美国用电需求，美国能源部（DOE）宣布，计划透过 SPARK 计划投入 19 亿美元联邦资金，支持全美 26 州共 31 项电网升级计划，搭配民间及计划执行单位出资后，总投资规模达 52.5 亿美元。透过升级既有电网，预计可释放超过 23 GW 额外电力输送容量。
-
-根据美国能源部规划，31 项计划将针对超过 1,500 英里输电线路进行重新导线（Reconductoring）或重建，并在接近 2.1 万英里输电线路部署电网增强技术（Grid-Enhancing Technologies，GETs），预计约 1 亿名美国民众可受惠。
-
-美国电网升级需求也随用电成长更加迫切。美国能源资讯署（EIA）9 月最新预估，2026 年全美售电量将达 4.135 兆度，2027 年进一步增至 4.211 兆度，资料中心与制造业是商业及工业用电成长的重要推力。美国能源部资料也显示，资料中心 2023 年用电约占全美 4.4%，至 2028 年可能升至 6.7%～12%。
-
-随著大型用电需求增加，问题不只是要发更多电，还要能把电送到需要的地方。若输电线路容量不足，容易形成壅塞，限制电力输送；升级线路除了能提高输电能力，也有助改善电网效率、降低部分输电损耗。
-
-SPARK 选择从既有电网著手。其中，重新导线主要是在既有输电线路及路权下，将原有导线更换为容量更高的新型导线，并搭配电网增强技术，在既有输电路下提供电网容量与运作效率 。
-
-美国能源部长 Chris Wright 表示，此次投资将进一步利用美国既有电力基础设施，提高电力在电网中的输送能力，并强化供电可靠度与安全性。能源部电力办公室助理部长 Catherine Jereza 也指出，SPARK 计划将透过先进输电技术，提升既有线路容量并改善关键电力基础设施。
-
-相较于新建大型输电走廊往往涉及路权取得、许可及长时间施工，此次计划将重点放在既有输电路权，希望透过升级线路降低电网壅塞，并减少部分新建输电基础设施的需求。此外，相关计划也将降低野火风险、防止停电，并提高电网面对极端天气的韧性。]]></description>
-  </item>
-  <item>
-    <title>从 iPhone 到 Mac 丛集：苹果揭露地端 AI 战力，最高可跑 1.6 兆参数模型</title>
-    <link>https://technews.tw/2026/09/26/apple-rates-m5-ultra-mac-studio-for-480b-local-llms-1-6t-clusters/</link>
-    <guid>https://technews.tw/2026/09/26/apple-rates-m5-ultra-mac-studio-for-480b-local-llms-1-6t-clusters/</guid>
-    <pubDate>Sat, 26 Sep 2026 03:20:55 +0000</pubDate>
-    <description><![CDATA[苹果近日公布地端 AI 能力矩阵，首次以装置规格对应可承载的大型语言模型规模，从 iPhone、iPad 到 Mac Studio 与多机丛集，清楚勾勒出地端推理的硬体上限。图表显示，16GB 统一记忆体的 iPhone 与 iPad，可支援最高 140 亿个参数的模型；苹果同时列出 76GB/s 的记忆体频宽门槛，而外界指出新 A20 Pro 频宽已达 115.2GB/s，超过此基准。
-
-Apple has shared a chart of their on-device AI capabilities across their product linespic.twitter.com/yTGu5tDeko
-
-— Aaron (@aaronp613)September 24, 2026
-
-往上看，MacBook Air 与 Mac mini 可支援最高 700 亿参数的模型，MacBook Pro 提高到 1,200 亿参数。苹果教育社群之前提到，搭载 M5 Pro 的 Mac mini 可在本机执行最高 700 亿参数的模型，足以离线运行如 Llama 3.3 70B 或通义千问 3.6 35B 这类模型。
-
-更高阶的工作站产品，苹果将 M5 Ultra Mac Studio 定位为可承载最高 4,800 亿参数的本地 AI 平台。资料显示，这款机型最高可配备 512GB 统一记忆体、1.2TB/s 记忆体频宽，并具备最高 36 核 CPU 与 80 核 GPU。苹果教育社群的说法也与此一致，指出单一 Mac Studio 可支援 4,800 亿参数，而多台 Mac Studio 组成的丛集则可推升到 1.6 兆参数。
-
-此资讯突显苹果强调的统一记忆体架构优势，也反映 AI 推理放更多以装置端完成的策略。对使用者而言，这类规格的价值不只在可离线运作，更是隐私与成本可预期；但苹果也暗示，能否真正跑动模型，仍取决于记忆体容量、频宽与模型本身最佳化程度。]]></description>
   </item>
 </channel>
 </rss>
