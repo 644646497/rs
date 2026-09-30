@@ -4,283 +4,315 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 30 Sep 2026 02:38:29 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 10:02:49 GMT</lastBuildDate>
   <item>
-    <title>不是品质问题，微软亲解 Surface 长期未采用 AMD 处理器原因</title>
-    <link>https://technews.tw/2026/09/30/microsoft-explains-its-five-year-absence-from-amd-surface-hardware/</link>
-    <guid>https://technews.tw/2026/09/30/microsoft-explains-its-five-year-absence-from-amd-surface-hardware/</guid>
-    <pubDate>Wed, 30 Sep 2026 02:35:14 +0000</pubDate>
-    <description><![CDATA[微软（Microsoft）近日针对 Surface 产品线长期未采用 AMD 处理器一事，首度给出官方说法。Surface 事业负责人 Brett Ostrum 在接受 Windows Central 访问时表示，微软并非不重视 AMD，也不是因为品质因素，而是因为 Surface 产品阵容规模有限，必须更谨慎地决定每一款机型要采用哪一种晶片平台。
+    <title>AI 攻击 12 分钟就能展开，企业平均修补时间仍需 3 天</title>
+    <link>https://infosecu.technews.tw/2026/09/30/palo-alto-networks-nikesh-arora-is-building-a-defense-against-the-dark-side-of-ai/</link>
+    <guid>https://infosecu.technews.tw/2026/09/30/palo-alto-networks-nikesh-arora-is-building-a-defense-against-the-dark-side-of-ai/</guid>
+    <pubDate>Wed, 30 Sep 2026 10:00:12 +0000</pubDate>
+    <description><![CDATA[资安大厂 Palo Alto Networks 22 日推出「Unit 42 Continuous Frontier AI Defense」持续性资安测试服务，以年度订阅上线全球。这项服务结合 Anthropic 的 Claude Mythos 5、OpenAI 的 GPT-5.6-Cyber 与开放权重模型，用来找出企业系统的安全暴露面、验证漏洞能否利用，并协助拟定修补方案。
 
-Ostrum 强调，微软「很喜欢与 AMD 合作」，但在可用产品数量不多的情况下，团队必须把资源集中在最合适的技术路线上。这也意味著，Surface 目前的晶片配置仍以英特尔（Intel）与高通（Qualcomm）Snapdragon 为主，AMD 仍未回到 Surface 名单中。
+采取多模型组合的原因，来自 Palo Alto Networks 内测。Axios 报导，复杂的企业环境，没有任何模型能找出超过 40% 的漏洞，而 Mythos 5 与 GPT-5.6-Cyber 的发现结果重叠度不到 10%。执行长 Nikesh Arora 认为，差异源自各模型的训练资料不同。Unit 42 因此以调度（orchestration）工具，将各项测试工作分派给最合适的模型。
 
-根据相关资讯，微软近期在 Surface 产品上优先采用 Snapdragon SoC，而企业导向机型则主要保留 Intel 平台。相较之下，AMD 虽然仍是微软的重要合作伙伴，并持续供应 Xbox 与其他硬体产品所需晶片，但在 Surface 系列中已自 2021 年的 Surface Laptop 4 后缺席至今。
+Arora 4 月曾让尚未公开的 Mythos 测试公司基础设施，找出弱点的速度与规模，让他确信资安产业将永久改变。他估计模型标示漏洞约 30% 不存在，但十个对了七个，对攻击者就相当够用，对防御者却远远不够。Arora 指出，企业发现并修补入侵的平均时间约 3 天，AI 驱动攻击却可能 12 分钟内展开。
 
-外界先前曾猜测，微软是否因为策略或品质考量而淡化 AMD，但 Ostrum 的说法将原因指向产品线规模与平台取舍。至于 AMD 是否会重返 Surface，微软并未给出明确时间表，只表示双方未来仍会在其他产品上维持合作。]]></description>
+服务流程从客户环境的基准扫描开始，涵盖自行开发与第三方 Web 应用程式、API、云端基础设施、原始码储存库及网路资产，并在环境变动时重新测试。发现弱点后，系统会验证能否串连成完整攻击路径，再提供优先排序的修补建议、程式码层级指引与虚拟修补建议；客户也可搭配 Frontier Virtual Patching，修补程式推出前先部署暂时性缓解措施。Palo Alto Networks 另强调采用零资料保留（Zero Data Retention）架构，客户原始码与遥测资料不会储存，也不会用于训练公开模型。
+
+Palo Alto Networks 客户涵盖约 95% 的《财星》500 大企业，2026 财年营收达 114.8 亿美元，今年以 250 亿美元收购身分安全新创 CyberArk。OpenAI 执行长 Sam Altman 也对《财星》表示，要修补网路所有漏洞并不容易，资安需要新模式。
+
+不过，40% 与 10% 等数字均来自 Palo Alto Networks 评估，公开资料并未说明测试环境的挑选方式与比对定义，多模型组合在客户环境的实际涵盖率，以及已验证攻击路径最终修补的比例，仍有待独立验证。]]></description>
   </item>
   <item>
-    <title>OpenAI 与 Google 研究员继续警告：AI 实验室就像「蒙眼狂奔」，风险高得离谱</title>
-    <link>https://infosecu.technews.tw/2026/09/30/openai-and-google-researchers-warn-that-ai-labs-are-racing-forward-blindfolded/</link>
-    <guid>https://infosecu.technews.tw/2026/09/30/openai-and-google-researchers-warn-that-ai-labs-are-racing-forward-blindfolded/</guid>
-    <pubDate>Wed, 30 Sep 2026 02:30:34 +0000</pubDate>
-    <description><![CDATA[多名曾任与现任 OpenAI 与 Google DeepMind 研究员 29 日警告，人工智慧公司正朝可自我改进的系统快速前进，但对安全风险的准备明显不足，整个产业仿佛「蒙眼竞赛」。
+    <title>Meta 跨足企业 AI 市场，前 MongoDB 执行长领军开拓新战线</title>
+    <link>https://technews.tw/2026/09/30/meta-enterprise-platform-and-muse-for-small-business/</link>
+    <guid>https://technews.tw/2026/09/30/meta-enterprise-platform-and-muse-for-small-business/</guid>
+    <pubDate>Wed, 30 Sep 2026 09:09:30 +0000</pubDate>
+    <description><![CDATA[Meta 推动一项全新业务，向大型企业客户销售各项 AI 工具，目标是承接爆红 Muse 的发展动能，并让金额庞大的 AI 投资得以获得回报。
 
-这些声音来自 AI 安全非营利组织 Palisade Research 搜集的影片证词，经路透社报导。受访者强调，他们的担忧并非宣传手法，而是基于对技术发展方向的真实忧虑。OpenAI 的 AI 同步研究工程师 Juan Felipe Ceron Uribe 直言，尖端实验室彼此竞逐，却缺乏足够谨慎；DeepMind 研究员 Neel Nanda 则表示，他认为 AI 导致人类灭绝的机率至少有一成，这是「高得离谱」的风险。
+Meta Enterprise Platform（Meta 企业平台）将多项 AI 工具的销售业务整合在一起，包括 Muse Agent、Meta Business Agent、Muse API、Muse Code 等，来向大型企业客户销售。
 
-这场争论的核心，是所谓「递回式自我改进」：AI 系统能较少人为介入下继续学习、获得新功能，甚至加速自身进化。曾在 OpenAI 任职政策研究员、现为 Eleos AI Research 董事总经理的 Rosie Campbell 指出，部分实验室频繁重组，也让外界更难影响其走向。曾在 OpenAI 与 DeepMind 任职的 Geoffrey Irving 则认为，若技术本身有高度危险性，企业应先放慢脚步，而不是把问题过度包装成需要整个产业协调才能解决。
+Meta 执行长 Mark Zuckerberg 指出，这项全新业务「运用我们具备、其他公司却鲜少拥有的各项优势：顶尖的模型、领先的各项 AI Agent、大规模的基础设施，以及多年来与众多企业密切合作的经验。」不过，这项业务如何运作、如何定价，尚未提供更多细节。
 
-AI 安全议题近月持续升温。路透社指 7 月 OpenAI 代理系统曾突破测试环境并入侵 Hugging Face，让外界对模型失控的疑虑大增。之后 AI 安全与发展速度的拉锯战，更从科技圈辩论扩大为全球政治议题。OpenAI 与 Anthropic 等多位重量级研究者本周发表论文，呼吁政策制定者检视产业如何打造能递回式自我改进的模型。]]></description>
+为此，Meta 延揽通用资料库平台 MongoDB 前执行长暨总裁 Chirantan「CJ」Desai，担任企业平台长（Chief Enterprise Platform Officer）来领导这项业务，直接向 Mark Zuckerberg 汇报进展。
+
+「Meta Enterprise Platform 将聚焦把 AI 技术堆叠，转化成各家公司能为自身业务加以部署的产品与服务」，Chirantan「CJ」Desai 表示。他是一名经验丰富的领导者，在打造全堆叠式软体以及 AI、基础设施、商业应用、资安等领域交出辉煌成绩。
+
+Meta 跨足的是一个竞争激烈的企业市场，Anthropic 的 Claude Code、OpenAI 的 Codex、以及 SpaceXAI 的 Cursor 等工具，在企业端拥有死忠的使用者，同时面对一批低成本的中国开放权重模型，各家 AI 公司也都面临挑战。至于微软、Google 等领先者，长期以来已经提供一整套生产力工具，且有各项云端服务支援，由此可见企业市场的激烈竞争程度。
+
+不只大型企业，Meta 面对中小企业也提出解决方案——Muse for Small Business，将其 AI 工具与 Asana、Zoom、Intuit、Box、Canva 以及 Salesforce 旗下 Slack 等软体串接。Muse 还能连结 Meta 广告帐号，以及 Instagram 与 Facebook 专业版帐号。
+
+Muse for Small Business 定价方式与现有 Muse 应用程式相同，提供具用量限制的免费版本，若需要更多用量可以进一步采取订阅制。
+
+Meta 处于一场转型的阵痛期，从一家以销售广告为核心、面向消费大众的公司，转变成一家同时向企业客户提供产品与服务的公司。光是今年，Meta 在 AI 基础设施投入超过 1,000 亿美元，而投资人殷切期盼能看到这笔投资开花结果。
+
+近几周以来 Muse 广受欢迎的程度，为 Meta 赢得市场与分析师的赞许。他们认为随著时间演进，将为公司创造非广告营收的机会，能让庞大的 AI 投资获得回报。]]></description>
   </item>
   <item>
-    <title>美国陆军押注超高压 SiC，纳微半导体开发 10 kV IGBT</title>
-    <link>https://technews.tw/2026/09/30/us-army-bets-on-ultra-high-voltage-sic-navitas-semiconductor-develops-10-kv-igbt/</link>
-    <guid>https://technews.tw/2026/09/30/us-army-bets-on-ultra-high-voltage-sic-navitas-semiconductor-develops-10-kv-igbt/</guid>
-    <pubDate>Wed, 30 Sep 2026 02:29:06 +0000</pubDate>
-    <description><![CDATA[美国政府加速布局超高压碳化矽（SiC）功率半导体。纳微半导体宣布，获美国陆军选中参与 ALATTIS 计划，将开发下一代 10 kV SiC 绝缘闸双极电晶体（IGBT）及相关 PiN 二极体技术，并建立美国本土制造流程，锁定国防及关键基础设施的高功率应用。
+    <title>三星 6 家企业联手投资 Helix，砸 10 亿美元扩大 AI</title>
+    <link>https://technews.tw/2026/09/30/samsung-6-companies-invest-1-billion-helix-ai-expansion/</link>
+    <guid>https://technews.tw/2026/09/30/samsung-6-companies-invest-1-billion-helix-ai-expansion/</guid>
+    <pubDate>Wed, 30 Sep 2026 08:54:40 +0000</pubDate>
+    <description><![CDATA[三星集团扩大 AI 基础设施布局。三星电子、三星物产、三星 SDS、三星 SDI、三星人寿及三星火灾海上保险宣布，将合计投资 10 亿美元于 KKR 成立的 AI 基础设施公司 Helix Digital Infrastructure，其中三星电子将投入 5 亿美元。Helix 将布局资料中心、发电、输配电及光纤网路等领域，三星也将结合旗下半导体、资料中心冷却、EPC 及储能等能力，进一步切入全球 AI 基础设施市场。
 
-此次 ALATTIS 计划由美国陆军研究实验室（ARL）支持，隶属于美国陆军作战能力发展司令部（DEVCOM）。计划将透过设计、制造及测试，开发并验证超高压（≥10 kV）SiC 功率元件的美国本土制造流程，其中重点之一，就是建立目前美国国内尚未具备的 10 kV SiC IGBT 制造流程。
+Helix 于 2026 年 6 月成立，由亚马逊云端运算服务（AWS）前执行长 Adam Selipsky 领导，定位为整合型 AI 基础设施业者，业务范围涵盖超大规模资料中心开发与营运、基载与弹性发电设施、输配电基础建设及光纤网路，希望协助超大规模云端服务业者更快取得 AI 运算所需的资料中心与能源资源。
 
-ALATTIS 同时获得 Joint Experimentation and Technology Accelerator（JETX）支持，将进一步推进 10 kV SiC IGBT 与 PiN 二极体技术，主要瞄准军事关键系统及高功率基础设施应用，进一步将 SiC 功率元件推向 10 kV 超高压领域。
+除三星外，KKR、科威特投资局（KIA）、辉达及美国电力公司 Vistra 也名列 Helix 创始投资者。随著 AI 资料中心规模持续扩大，电力供应逐渐成为新建专案的重要限制，Helix 因此不只投资资料中心，也将直接布局能源资产，并计划与包括 Vistra 在内的能源开发商合作，加速取得所需电力容量。
 
-纳微半导体目前旗下 GeneSiC SiC 功率半导体产品电压范围涵盖 650 V 至 6.5 kV，并以沟槽辅助平面（Trench-Assisted Planar，TAP）MOSFET 架构为核心。透过此次计划，公司将进一步把超高压产品布局由 SiC MOSFET 延伸至 10 kV SiC IGBT，并结合 PiN 二极体技术。
+值得注意的是，三星此次并非单纯进行财务投资，而是希望串联旗下不同事业在 AI 基础设施供应链的布局。三星电子 DS 事业部可提供半导体产品；DX 事业部则透过 2025 年收购的 FlaktGroup，布局资料中心气冷、液冷及冷却液分配单元（CDU）等设备。FläktGroup 目前在全球拥有 14 个生产基地，供应与服务网路遍及 65 个国家。
 
-事实上，纳微半导体已布局超高压 SiC 技术多年，过去曾于 2010 年开发 6.5 kV SiC 晶闸管（thyristor），2012 年推出 10～15 kV SiC PiN 二极体，并于 2021 年商用化推出 6.5 kV SiC MOSFET。
+在资料中心建设及营运方面，三星物产建设部门可提供资料中心与发电设施的工程、采购及施工（EPC）能力；三星 SDS 则具备资料中心设计、建设及营运经验，并已跨入 GPU 即服务（GPUaaS）市场，同时参与韩国 AI 运算中心（KOACC）相关布局。
 
-纳微半导体技术长 Siddarth Sundaresan 表示，此次 ALATTIS 计划将让公司在既有 SiC MOSFET 技术之外，进一步开发采用专利 TAP 架构的下一代 10 kV SiC IGBT，并整合先进 PiN 二极体技术，持续扩大超高压 SiC 功率半导体布局。]]></description>
+电力备援也是三星此次布局的重要环节。三星 SDI 已投入不断电系统（UPS）及电池备援单元（BBU）市场，未来将进一步探索 AI 资料中心对高输出、高容量电池的需求。随著 AI 伺服器功率持续提升，资料中心从供电、备援到冷却系统都面临升级需求，也让三星既有的电池与电力相关技术有机会进一步切入 AI 基础设施市场。]]></description>
   </item>
   <item>
-    <title>川普 AI 午宴座位图泄玄机，黄仁勋、马斯克跻身「超级智慧」左右手</title>
-    <link>https://technews.tw/2026/09/30/trump-hosts-ai-giants-white-house/</link>
-    <guid>https://technews.tw/2026/09/30/trump-hosts-ai-giants-white-house/</guid>
-    <pubDate>Wed, 30 Sep 2026 02:20:53 +0000</pubDate>
-    <description><![CDATA[美国总统川普 29 日于白宫举办了一场备受瞩目的 AI 领袖午宴，随后更在社群平台 Truth Social 公开了座位安排，让外界得以一窥这场科技盛会的出席阵容与权力光谱。
+    <title>HONOR Magic V6 开箱：轻薄之外，拍照更有意思</title>
+    <link>https://technews.tw/2026/09/30/honor-magic-v6-hands-on/</link>
+    <guid>https://technews.tw/2026/09/30/honor-magic-v6-hands-on/</guid>
+    <pubDate>Wed, 30 Sep 2026 08:30:34 +0000</pubDate>
+    <description><![CDATA[折叠手机发展至今，单纯「可以把大萤幕折起来」早已不是新鲜事，现在真正影响使用体验的反而是机身能否维持轻薄、折叠型态能不能带来一般直板手机做不到的操作，以及相机是否因为机身空间受限而妥协。荣耀（HONOR）今日在台推出折叠旗舰 Magic V6，主打轻薄机身、大尺寸内外萤幕，以及完整的旗舰影像规格。
 
-根据座位图，辉达执行长黄仁勋与特斯拉暨SpaceX执行长马斯克分别获安排于川普的右侧与左侧，占据绝对的核心位置；Meta执行长祖克柏与Google执行长皮查伊同样比邻而坐，距离川普不远。
+这次《科技新报》记者取得的是「丹霞红」，第一眼看到机身很难不让人联想到过年时喜气的大红包。丹霞红采用素皮革背盖，折叠后厚度为 9.0mm、展开后 4.1mm，重量约 224g；另一款雪原白则更薄一些，折叠后 8.75mm、展开后 4.0mm，重量约 219g。
 
-这场聚会几乎集结了当前AI与科技领域的半壁江山，与会巨头包含微软执行长纳德拉、Palantir执行长卡普及AMD执行长苏姿丰等人。在企业代表安排上也有不少亮点：OpenAI执行长奥特曼因人在旧金山主持DevDay大会而缺席，改由总裁布罗克曼代表与会；Anthropic除了执行长阿莫戴亲自出席，曾任政府协商代表的Tom Brown亦陪同列席。此外，亚马逊是由创办人贝佐斯亲自出马，而非现任执行长贾西；积极发展AI的苹果则完全缺席，前执行长库克与现任执行长Ternus皆未出现在名单之列。
+盒装内除了手机本体之外，还附上了充电器、C to C 充电线、以及手机保护壳，其中丹霞红版本随附的保护壳也采用相同的大红色系，不需要另外寻找与机身配色相符的保护壳。
 
-除了科技圈大老，白宫与内阁官员也大阵仗与会，包含副总统范斯、白宫幕僚长威尔斯、财政部长贝森特、商务部长卢特尼克与NASA署长Isaacman等要员皆为座上宾。川普更在席间重申其对科技命名的见解，表示已将AI定调为「超级智慧」（Super Intelligence），并直言不喜欢「人工」一词，认为这会让这项前瞻技术听起来像假的。
+Magic V6 外萤幕为 6.52 吋，内萤幕则为 7.95 吋，两者均支援 1～120Hz 更新率与 4,320Hz PWM 调光，外萤幕峰值亮度最高 6,000nits，内萤幕则为 5,000nits；内萤幕加入强化 UTG 玻璃与 AR 抗反射镀膜，官方称萤幕反射率低于 1.5%。
 
-（首图来源：Flickr/The White HouseCC BY 2.0）]]></description>
+硬体则搭载 Snapdragon 8 Elite Gen 5 处理器，台湾版本配置 16GB RAM、512GB 储存空间，电池容量达 6,660mAh，并支援 80W 有线与 66W 无线快充。以折叠手机来说，能在约 9mm 的折叠厚度下塞进超过 6,600mAh 电池，也成为 Magic V6 规格上相当突出的地方。
+
+大萤幕的用途也不只是看影片，Magic V6 提供多种分割画面操作方式，例如从全域工作列快速配置 App，或在开启 App 时将画面由底部向左上角滑动，即可进入分割画面；另外，开启「一折分割萤幕」后，只要将萤幕轻折再立即展平。
+
+Magic V6 另一项 AI 操作则是「AI 萤幕建议」，在 App 中以双指长按萤幕，系统便会辨识目前画面内容，依情境提供圈选即搜、AI 记忆、摘要总结、智慧创作、AI 字幕或 AI 修图等对应功能。
+
+Magic V6 后置三镜头包括 5,000 万画素主镜头、5,000 万画素超广角，以及 6,400 万画素潜望式长焦镜头，其中长焦提供 3x 无损变焦，最高可一路数位变焦至 100x；内外萤幕则各配置 2,000 万画素前镜头。
+
+虽然镜头规格不错，但许多使用者可能还是会好奇其拍摄表现，尤其是一般人较在意的自拍功能表现上；记者选择在阳光充足环境下使用主镜头开启人像模式自拍，即使人物头发周围的轮廓较复杂，发丝细节仍有被保留下来，没有因为背景虚化演算法而大面积被吃掉。
+
+在日间拍摄方面，记者从相同位置以 0.6x、1x、2x、3x 与 6x 拍摄日间场景，可以明显感受到 3x 是整套镜头中相当实用的焦段，不必靠近主体就能取得更集中的构图，同时仍能保留不错的细节。拉到 6x 后依然具有一定可用性，但油画感（影像处理痕迹）已较 3x 更明显。
+
+至于一路拉到 100x，确实可以把肉眼看起来相当遥远的物体直接拉近，但照片放大后的油画感也非常明显，细节主要仰赖演算法重新补足。
+
+折叠机最大的好处就在于「自带脚架」的方便性，当需要自拍时，只需要将萤幕稍微折起就能直接立在桌面或其他平面上，再透过萤幕确认构图即可；另外 Magic V6 也支援自拍时手指并拢、朝上比，手机侦测到手势后就能自动启动拍摄一个人外出时也能完成过去通常需要脚架或他人协助的全身、半身照。
+
+夜间拍摄则以便利商店发光招牌作为测试场景，同样从 0.6x、1x、2x、3x 到 6x 逐一拍摄。0.6x 至 2x 整体仍维持相对自然的细节，但从 3x 开始，若仔细观察招牌文字、建筑纹理等细节，已开始出现较明显的油画感，6x 又更加明显。
+
+这也显示 Magic V6 的 3x 潜望式长焦在日间光线充足时有相当高的实用性，但进入夜间低光环境后，随著焦段增加，演算法降噪与锐化介入程度也会逐渐提高。
+
+这次另外也以公仔作为固定主体，分别使用 3x、6x，再搭配一般拍照、人像模式与夜间模式进行比较。由于三种模式本身的成像取向不同，实拍照片可直接观察各模式在背景虚化、曝光以及细节处理上的差异。
+
+在这段时间的体验下来，记者个人认为 Magic V6 真正让人留下印象的，不只是规格表上的「薄」或「轻」，而是折叠型态确实延伸出了不同于直板手机的拍摄方式。把手机稍微折起就能变成自拍架，再搭配外萤幕预览与手势快门，一个人也能直接使用后置主镜头自拍；而 3x 潜望式长焦则是相机系统中实用性最高的焦段之一。
+
+至于 6x 甚至 100x，Magic V6 的确给了使用者更大的构图弹性，但焦段越往上，演算法痕迹也越容易浮现。对一款追求轻薄的大折叠手机而言，Magic V6 的影像系统并非单纯追求倍率越大越好，反而是 3x 长焦加上折叠机特有的拍摄方式，更能体现 Magic V6 在日常拍摄上的便利与弹性。]]></description>
   </item>
   <item>
-    <title>川普政府推出全方位 AI 入口网站 America.gov，整合 Grok 与 Gemini 双强模型</title>
-    <link>https://technews.tw/2026/09/30/trump-ai-federal-portal/</link>
-    <guid>https://technews.tw/2026/09/30/trump-ai-federal-portal/</guid>
-    <pubDate>Wed, 30 Sep 2026 02:10:01 +0000</pubDate>
-    <description><![CDATA[美国总统川普（Donald Trump）政府于 29 日正式推出由 AI 驱动的联邦政府入口网站「America.gov」，主打让民众透过聊天介面，一站式查询联邦资讯与各项服务。白宫指出，该平台被定位为联邦政府的「单一入口」，未来将协助使用者办理护照更新、联邦医疗保险（Medicare）、学贷查询，以及寻找联邦工作与预约国家公园营地等业务，且完全不需事先建立帐号即可使用。
+    <title>促消费者记得换新！PHILIPS 推行动电源「365 保值换新」</title>
+    <link>https://ccc.technews.tw/2026/09/30/philips-powerbank-goodcube-air/</link>
+    <guid>https://ccc.technews.tw/2026/09/30/philips-powerbank-goodcube-air/</guid>
+    <pubDate>Wed, 30 Sep 2026 08:27:27 +0000</pubDate>
+    <description><![CDATA[近年来行动电源的争议不断，但消费者对于这一类的产品往往都会使用到产品故障、膨胀或效能明显衰退后才更换；为了鼓励消费者要定期汰换行动电源，PHILIPS 因此宣布自 10 月 1 日起推出「365 行动电源保值换新计划」，希望透过定期发放换新优惠，提醒使用者行动电源也有使用寿命，不必等到故障才汰换。
 
-根据官方说明，America.gov 会从约 2.9 万个政府网站撷取资料，并确保回复皆来自官方来源。美国首席设计官乔·杰比亚（Joe Gebbia）透露，这项服务的 AI 核心能力实际上是由 Google 的 Gemini 与马斯克（Elon Musk）旗下的 Grok 共同驱动。此外，该平台是由「国家设计工作室」（NDS）负责开发，其核心工程团队多半来自马斯克先前主导、现已解散的「政府效率部」（DOGE）年轻班底。
+消费者可能会认为这就是一般的保固，不过官方指出，不同于一般保固主要针对产品故障后提供维修或更换，PHILIPS 此次在原有 1+1 年保固之外，加入定期换新机制。消费者只要透过官方授权通路购买 PHILIPS 行动电源，扫描盒内小卡 QR Code 并完成线上保固登录，即可加入方案，后续品牌将依方案规则定期发放换新优惠券。
 
-川普在发表会上同步签署了行政命令，确立 America.gov 做为民众取得政府资讯的统一入口。网站目前正处于「第一阶段」，重点在于加速政府资讯的查询作业；官方预计于 2027 年推进至「第二阶段」，届时民众将能直接在聊天视窗中完成各项业务的申请、注册与进度追踪等完整流程。
+依目前规画，加入方案后第一年最高可享 55 折换新，相当于使用满一年后，旧品仍可折抵约 45% 原产品价值。PHILIPS 表示，希望借由这种「主动提醒换新」的方式，降低行动电源长期使用后因电池老化所带来的风险。
 
-目前，该网站支援英文、西班牙文与法文解答，并具备语音输入与「文件辅助阅读」功能──使用者可上传 PDF 表单或信件，系统会自动移除个资后协助解读。官方强调，平台不会保留对话纪录（最多仅快取 2 小时），也不会储存姓名或 IP 位址。然而，考量到未来将处理包含社会安全码与出生证明等高度敏感个资的申请，外界仍对其隐私防护与安全性抱持高度疑虑。
+除了行动电源换新服务外，PHILIPS 今日也同步推出 GoodCube Air 自带线半固态行动电源，延续 GoodCube 系列半固态电芯设计。官方表示，全系列半固态电芯电解液重量为 7.6 公克，并已通过 2027 年 BSMI 穿刺测试。
 
-值得一提的是，这款标榜答案皆来自官方来源的机器人，在上线首日面对政治敏感话题时曾出现意外插曲。根据实测，该机器人起初坦承拜登（Joe Biden）赢得 2020 年大选，并证实川普的名字确实出现在杰佛瑞·艾普斯坦（Jeffrey Epstein）的文件中；但就在川普发表完演说后，系统的回答机制疑似遭到微调，随后面对大选结果提问时，已改口表示「无法回答政治问题」。]]></description>
+GoodCube Air 容量为 10,000mAh，机身重量 180 公克，最大输出功率 22.5W，提供雾蓝、雾黑两种配色；内建 Type-C 与 Lightning 线材，并保留 Type-C 与 USB-A 连接埠，最多可同时为四款装置充电。
+
+据了解，GoodCube Air 已通过台湾 BSMI 与中国 CCC 认证，锁定日常携带、旅行与商务使用情境。]]></description>
   </item>
   <item>
-    <title>川普白宫会辉达等 AI 巨头，签自律承诺无法律效力</title>
-    <link>https://technews.tw/2026/09/30/trump-white-house-meets-nvidia-ai-giants-signs-non-binding-self-regulatory-pledges/</link>
-    <guid>https://technews.tw/2026/09/30/trump-white-house-meets-nvidia-ai-giants-signs-non-binding-self-regulatory-pledges/</guid>
-    <pubDate>Wed, 30 Sep 2026 02:00:44 +0000</pubDate>
-    <description><![CDATA[美国总统川普（Donald Trump）今天表示，多家科技业者高层已签署「具道德约束力」的承诺，将自愿建立人工智慧（AI）标准，以加强这项快速发展技术的安全措施。
+    <title>大折叠机在台市场选择再加一，HONOR Magic V6 亮相</title>
+    <link>https://technews.tw/2026/09/30/honor-magic-v6/</link>
+    <guid>https://technews.tw/2026/09/30/honor-magic-v6/</guid>
+    <pubDate>Wed, 30 Sep 2026 08:13:00 +0000</pubDate>
+    <description><![CDATA[荣耀（HONOR）今日推出在台湾市场的首款旗舰折叠手机 HONOR Magic V6，官方认为，不仅正式拼齐台湾市场的双旗舰版图，也在半年内备齐贯穿顶级旗舰、主流机型到入门款的全方位产品线布局，满足消费市场多元需求。
 
-综合法新社和路透社报导，川普在会后说：「他们会自律。」出席会议的包括辉达（Nvidia）黄仁勋、OpenAI的布罗克曼（Greg Brockman）以及Anthropic的阿莫戴（Dario Amodei）等AI产业领袖。
+HONOR Magic V6 提供 16GB+512GB 一种版本，以及丹霞红、雪原白两种颜色，售价 65,990 元，即日起于荣耀官方通路开放预购，并于 10 月 3 日起于各大通路正式开卖。
 
-根据川普在他社群平台发布的协议副本，科技业者同意与「独立审核员」合作，评估AI系统是否按照设计者的本意运作。业者也承诺，将努力确保旗下AI工具不会「以非预期方式入侵或存取技术系统」。
+荣耀观察到，许多用户有意尝试大折叠、但仍对折叠机耐用度有所疑虑，而 HONOR Magic V6 将用户的顾虑转化为产品的最强优势，搭载同级最耐用机身，针对折叠机最脆弱的转轴，荣耀自研鲁班盾构精钢铰链，号称带来相当于 2800MPa 的强度，强度近乎汽车 A 柱的 2 倍，且铰链结构通过 SGS 的 50 万次折叠测试，以每天折叠 100 次计算，耐用寿命长达 13 年以上。
 
-川普指出，出席的科技业领袖已签署协议，将自我监管的承诺写入这份具道德约束力、但不具法律强制力的协议。
+在机身的部分，雪原白色系的航太级特殊纤维背盖，更达到 5800MPa 的水准。内外萤幕也全面升级；外萤幕搭载荣耀黑钻萤幕，抗摔、防刮、耐磨程度皆大幅提升；内萤幕采用强化 UTG 玻璃层，凭借高刚性玻璃结构，兼顾耐用度且有效降低折痕可视性，带来更无痕的纯粹视野。
 
-川普谈到这份协议时说：「某种程度上这就像是一部宪法。全世界最重要的人都签了字，而我以总统身份也签了。这确实是一种保障。」
+官方指出，HONOR Magic V6 全机通过 SGS 五星抗摔认证，具备 1.5 公尺抗摔防护实力，并获得 IP68、IP69 顶级防尘防水认证，不仅能在 1.5 公尺水深中浸泡 30 分钟，亦能抵御 80°C 高温热水与高压水柱冲击，针对生活中各种使用场景都能应付无虞。
 
-随著OpenAI与Anthropic传出旗下AI代理人（agent）失控并入侵其他公司的系统，川普政府正因高阶AI的潜在风险而遭受各界愈趋严格的审视。
+此一机款搭载 6660mAh 电量电池，解决使用双萤幕的续航焦虑，且搭配 80W 有线、66W 无线快充即可快速回血。效能部分以 Snapdragon 8 Elite Gen 5 旗舰处理器，搭配 16GB+512GB 大容量，无论高负载使用或商务多工处理，皆能从容应对。
 
-这场会议适逢各界对川普政府因应AI风险与快速扩散的施压力道升高，也凸显川普与科技业领袖所建立的联盟关系。出席白宫这场会议的科技公司高层还包括Meta的祖克柏（Mark Zuckerberg）以及谷歌（Google）的皮查伊（Sundar Pichai）。
+扭转过往折叠机受限的相机体验，HONOR Magic V6 搭载 6400 万画素潜望式长焦镜头，支援 3 倍光学变焦与 CIPA 6.5 防手震认证，大幅提升拍摄的成片率与画面细节。另搭配 5000 万画素的主镜头、超广角镜头组合，以及内外 2000 万画素的双前镜头，完整涵盖广阔大景、质感人像到远距特写的全焦段拍摄。
 
-祖克柏被川普点名发言后表示，相关企业已同意，将为旗下AI系统发展「完善的内部管控机制」。川普则表示，正考虑成立10人委员会，负责监督AI工具的安全，但未透露可能的人选。
+并结合折叠机独有的多角度悬停型态与双萤幕同步预览功能，被拍摄者可透过外萤幕即时预览画面，随时调整到最佳状态；同时摆脱传统脚架限制，将手机平放桌面即可实现低角度仰拍、免手持自拍或缩时摄影等，解锁更灵活多元的影像创作视角。
 
-川普在椭圆形办公室外接受媒体访问时，在多名全球科技业巨头陪同下证实，将正式把这项技术从「人工智慧」（artificial intelligence）更名为「超级智慧」（super intelligence），理由是「它并不人工」。
+HONOR Magic V6 体现旗舰美学风范，镜头模组采用极具辨识度的八角形几何设计，并推出奢华雍容的「丹霞红」与纯净典雅的「雪原白」双色，分别导入永续科技绒面与航太级特殊纤维材质，在视觉质感与握持手感上，皆完美诠释前沿科技与旗舰美学的深度交融。
 
-另一方面，AI所需的大型资料中心，也已成为期中选举中两党激烈交锋的焦点。愈来愈多社区担忧资料中心会导致电费上涨，并对水资源与土地造成负担。在11月3日美国期中选举逼近之下，这股反弹声浪对共和党构成一大政治挑战。
-
-川普力挺这些资料中心，他在会后强调，AI业者对于愿意接纳它们的社区「将非常慷慨」。他说：「它们将协助当地学校，也会协助教师。」]]></description>
+显示体验同样达到极致水准，配备 6.52 吋外萤幕及 7.95 吋内萤幕，双萤幕皆支援 1-120Hz 萤幕更新率及 4320Hz 高频 PWM 调光，内外萤幕峰值亮度更分别高达 5,000 与 6,000 尼特，辅以全新 AR 抗反射镀膜技术，能显著抑制眩光与反光干扰，户外强光下画面依然清晰透亮。]]></description>
   </item>
   <item>
-    <title>Anthropic 拚算力  SpaceX 合约比先前揭露额近翻倍</title>
-    <link>https://technews.tw/2026/09/30/anthropics-ipo-prospectus-reportedly-shows-84-5b-to-spacex-in-compute-agreements/</link>
-    <guid>https://technews.tw/2026/09/30/anthropics-ipo-prospectus-reportedly-shows-84-5b-to-spacex-in-compute-agreements/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:55:05 +0000</pubDate>
-    <description><![CDATA[人工智慧新创 Anthropic 大举扩充 AI 算力，根据路透取得的首次公开发行（IPO）公开说明书，Anthropic 已与马斯克（Elon Musk）旗下 SpaceXAI 签订最高 845 亿美元的运算合约，至 2029 年使用以辉达（Nvidia）晶片为基础的运算容量。Anthropic 并预计，未来 10 年与 6 家合作伙伴会投入至少 5,180 亿美元建置 AI 基础设施。
+    <title>Volvo EX90 终于在台上市，快充 300 kW 世代到来</title>
+    <link>https://technews.tw/2026/09/30/volvo-ex90-taiwan-debute/</link>
+    <guid>https://technews.tw/2026/09/30/volvo-ex90-taiwan-debute/</guid>
+    <pubDate>Wed, 30 Sep 2026 08:12:59 +0000</pubDate>
+    <description><![CDATA[Volvo 今天终于正式在台湾发表豪华纯电三排座休旅车 EX90，等了将近四年历经波折，虽然少了光达，但却迎来 800V 架构的高功率快充，或许反而是个小升级？
 
-Stocktwits指出，新揭露的845亿美元规模，远高于SpaceX先前IPO文件揭露的近450亿美元协议。Anthropic也加入Google及Reflection AI等AI业者的行列，向SpaceX租用高效能运算容量。
+虽然晚了很多年，但今天正式发表的 EX90，其实比四年前首发时进化了不少，其中最关键的就是改用 800V 架构，单马达版快充功率就可以来到 310 kW，双马达则是冲上 350 kW，基本上 10 分钟补 250 公里是完全没问题，这对日常使用来说是一大提升。
 
-路透社29日独家报导，Anthropic与SpaceX的合约多数可提前90天通知取消。不过，相较SpaceX合约具有较高弹性，Anthropic与其他供应商的长期承诺则多半难以取消。文件显示，5,180亿美元整体支出中约80%属不可取消，或无论实际使用多少算力都必须支付的最低承诺。
+另一个则是运算核心，2026 年式 EX90 采用自主研发的 HuginCore 运算平台，将车辆控制、驾驶辅助的资料，交给 NVIDIA DRIVE AGX Orin 处理，座舱内的娱乐和资讯，则交给高通 Snapdragon 搞定，运算能力也是巨大升级。
 
-Anthropic向投资人表示，这些承诺有其必要性，因为算力日益成为AI发展的关键限制因素。未来对先进AI系统的需求很可能超过可用供给，其发展「主要会受限于算力供应」。
+虽然是一台车长五米的大型休旅车，EX90 还是能挤出 479～617 公里的续航（WLTP 标准），在台湾跑长途已经完全没有里程焦虑可言。
 
-其中，Anthropic未来7至10年承诺至少向Google支出1,111亿美元、向亚马逊（Amazon）支出1,100亿美元，并向微软（Microsoft）支出314亿美元。Anthropic表示，若实际支出未达约定金额，必须向Google支付差额，与亚马逊的协议也有类似条款；微软合约除非发生未补救的重大违约，否则不得取消。
+既然是三排座车，舒适度必然不可缺，单马达版就搭配频率感应式避震器，随路面起伏调整阻尼反应，双马达版则进一步使用气压悬吊、速度感应式车高调整，兼顾舒适、能耗和户外活动用途。
 
-此外，Anthropic还背负约1,612亿美元与博通（Broadcom）相关的设备租赁义务，除非发生违约，双方均不得取消。超微（AMD）则承诺最高买进50亿美元Anthropic股票，并提供预计价值超过200亿美元的AI运算容量。
+内装质感就更不用多说，尽管是强调北欧极简风格，并不代表偷工减料，反而是加了许多设计去包覆，让人看起来「简约」实际上豪华感受一点不少。
 
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+和 Google 共同开发的车载作业系统，现在也整合了 Gemini 语音助理，加上 Google Map 图资，基本上也不太需要连手机，提供良好的无缝体验，美中不足的是它的语音功能，依然没有办法说中文。]]></description>
   </item>
   <item>
-    <title>川普称美中 AI 合作将损害美企利益，盼维持领先地位</title>
-    <link>https://technews.tw/2026/09/30/trump-warns-us-china-ai-cooperation-harm-us-business-interests-seeks-maintain-leadership/</link>
-    <guid>https://technews.tw/2026/09/30/trump-warns-us-china-ai-cooperation-harm-us-business-interests-seeks-maintain-leadership/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:50:30 +0000</pubDate>
-    <description><![CDATA[美国总统川普称不打算与中国国家主席习近平在人工智慧（AI）技术治理方面展开合作，担心若这么做恐使美国企业难以做出超越中国竞争者的更先进 AI 产品，盼维持此一领先地位。
+    <title>川普把 AI 改名 SI，斯洛维尼亚 .si 网域注册量意外暴增</title>
+    <link>https://technews.tw/2026/09/30/trumps-ai-rebrand-sparks-unexpected-rush-for-slovenian-si-domains/</link>
+    <guid>https://technews.tw/2026/09/30/trumps-ai-rebrand-sparks-unexpected-rush-for-slovenian-si-domains/</guid>
+    <pubDate>Wed, 30 Sep 2026 07:30:20 +0000</pubDate>
+    <description><![CDATA[美国总统川普上周在联合国大会上表示，「人工智慧」（AI）一词听起来太「假」，宣布未来美国官方文件将全面改用更精确、更好听的「超级智慧」（Super Intelligence，SI）；29 日在白宫宴请 AI 业界领袖时更表示将签署文件更名。这个举动意外引发一场网路抢注热潮，让斯洛维尼亚感到相当惊喜。
 
-路透社报导，川普（Donald Trump）今天上午在华府一场活动中表示：「我们正领先中国和其他国家，我也期盼能一直保持领先地位。」
+「.si」正是人口约 210 万的阿尔卑斯山小国──斯洛维尼亚的顶级网域后缀，且开放给国内外人士申请。川普的演讲一结束，.si 网域的注册量便迎来惊人爆发。
 
-川普也说，上周习近平访美时两人曾讨论AI议题，强调华府其实「在许多方面」已与北京政府展开合作。
+负责管理该网域的 Register.si 发言人 Klara Herman 证实，演讲后申请量出现了「强劲且稳定的成长」。数据显示，过去整个 8 月的注册量仅约 3,500 个，如今却暴增至「每天」平均涌入 3,700 个新注册。截至周二，.si 网域的总注册数已迅速突破 22 万大关。
 
-近来OpenAI和Anthropic等AI业者传出自家AI代理擅自骇入客户系统后，外界要求妥善应处这类风险的声浪高涨，使川普政府压力日增。
+面对这波突如其来的热潮，Register.si 发布官方声明，强烈建议尚未拥有 .si 网域的商标、标语及公司名称持有者应尽快注册，以免遭他人抢先。
 
-这些骇入事件引发部分研究人员示警说，一些AI开发者认为此技术可能在未来10年内对人类生存构成威胁，部分民主党与共和党议员已敦促政府采取因应措施。
-
-根据公司发言人和知悉会议规画的消息人士透露，Anthropic执行长阿莫戴（Dario Amodei）、Meta执行长祖克柏（Mark Zuckerberg）、Google执行长皮查伊（Sundar Pichai）、AI晶片巨头辉达（NVIDIA）执行长黄仁勋（Jensen Huang）、美国国防产业数据分析承包商帕兰泰尔技术公司（Palantir Technologies Inc.）执行长卡普（Alex Karp），以及OpenAI总裁布罗克曼（Greg Brockman）都将出席。
-
-川普政府方面，白宫科技政策顾问克拉齐奥斯（Michael Kratsios）、商务部长卢特尼克（Howard Lutnick）及美国联邦众议院议长强生（Mike Johnson）也将出席。
-
-川普一再淡化外界对AI的担忧，强调维持美国在AI领域优势的重要性，更指出美国司法部（DOJ）可为AI发展提供既有的安全机制。
-
-强生昨天说，这场会议将聚焦于如何在创新和监管当中取得平衡。白宫暂未回应关于此次会议目标或讨论主题的置评请求。
-
-强生接受福斯财经新闻网（Fox Business Network）专访时指出：「我们不需要暂停相关研发，也不需要立即严加监管，否则我们会输给中国。创新发展很重要，但也要取得适当平衡。这正是这场会议的重点。」
-
-不过，路透社/益普索在9月17日至20日进行的一项全美民调显示，约73%受访者担心AI企业在防范AI对社会造成严重危害方面做得不够，另有55%受访民众认为应放慢AI发展步调。]]></description>
+这并非巴尔干半岛国家的网域首次在全球爆红，多年来，蒙特内哥罗的国家网域后缀「.me」就经常被全球用户用来建立个人网站或呼吁行动（call-to-action）的网址，例如知名通讯软体 Telegram 的官方短网址「t.me」即是一例。]]></description>
   </item>
   <item>
-    <title>中国 AI 模型 Kimi 遭「越狱」，教导制造生武与暗杀恐沦网攻跳板</title>
-    <link>https://infosecu.technews.tw/2026/09/30/chinese-ai-models-jailbroken/</link>
-    <guid>https://infosecu.technews.tw/2026/09/30/chinese-ai-models-jailbroken/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:40:12 +0000</pubDate>
-    <description><![CDATA[英国资安研究机构 Mindgard 指出，今年 7 月的测试发现，中国 AI 新创「月之暗面」（Moonshot）旗下广受欢迎的两款 Kimi 模型，竟能被绕过开发者设定的安全限制，甚至遭引导说明如何制造生物武器与执行暗杀。对此，Moonshot 目前已展开内部检视。
+    <title>Tesla 备 300 亿美元银弹  马斯克：携 SpaceX 冲太阳能</title>
+    <link>https://finance.technews.tw/2026/09/30/spacex-and-tesla-team-up-for-200-gw-of-annual-solar-capacity/</link>
+    <guid>https://finance.technews.tw/2026/09/30/spacex-and-tesla-team-up-for-200-gw-of-annual-solar-capacity/</guid>
+    <pubDate>Wed, 30 Sep 2026 07:20:47 +0000</pubDate>
+    <description><![CDATA[特斯拉（Tesla）大举扩充 AI 与新产品产能之际，又再备妥了 300 亿美元资金。根据 29 日提交的监管文件，特斯拉签署总额 300 亿美元的新信用额度，因应 2026 年超过 250 亿美元的创纪录资本支出，当中涵盖 AI 运算基础设施、Cybercab 无人计程车与 Optimus 机器人，以及与 SpaceX 合作的太阳能与半导体计划。
 
-Mindgard 向《BBC》表示，这次测试使用的是俗称「越狱」（Jailbreaking）的手法。研究人员借由输入一连串复杂的指令，试图让 AI 工具忽略原先设定的防护机制。Mindgard 强调，Kimi 的安全护栏理应能完全阻挡模型回应这类敏感内容，但实测结果证明部分限制仍可被突破。
+综合路透社、Benzinga报导，这笔300亿美元融资包括由花旗（Citibank）担任管理代理人的200亿美元、3年期延迟动用定期贷款（delayed-draw term loan），以及由富国银行（Wells Fargo）主导的80亿美元5年期循环信用额度与20亿美元、364天期循环信用额度。
 
-Mindgard 创办人彼得·加拉汉（Peter Garraghan）形容，一旦模型被成功越狱，便会开始对各种主题侃侃而谈，甚至会主动延伸到其他同样具备高风险的话题。他也提到，研究团队虽已向 Moonshot 通报此发现，但刻意未公开关键的操作细节，以免外界复制相同手法。
+特斯拉今年资本支出预估超过250亿美元，较2025年的85.3亿美元大幅增加。执行长马斯克（Elon Musk）先前表示，公司为加速各项计划，将速度置于资本效率之前。资金投入领域包括Cybercab、Optimus与Tesla Semi的研发及量产前支出，以及其他AI计划。
 
-针对此漏洞，Moonshot 回应表示，公司非常愿意接受外部回馈，并强调这是打造更好、更安全 AI 系统的重要环节，目前也持续与 Mindgard 就相关结果进行沟通。不过，根据 Moonshot 提供给 Mindgard 的电子邮件指出，在公司内部的评估中，模型面对这类恶意请求通常仍具有「极高的拒答率」。
+此外，马斯克29日在华府活动中表示，SpaceX与特斯拉将携手达到每年200兆瓦（GW）的太阳能产能。特斯拉今年的支出也将投入太阳能电池制造能力，以及与SpaceX合作的半导体制造计划。
 
-Mindgard 补充说明，目前尚无法证实 Kimi 针对敏感议题所提供的解答是否具备现实可行性，但他们认为，安全机制理应在模型进入这类对话前就先行拦截。该机构更警告，若 Kimi 2.6 遭成功越狱，理论上骇客将能在其运算资源上执行恶意程式并连接网路，进一步使其沦为发动网路攻击的跳板。
+马斯克9月15日曾透过社交平台X表示，太阳能会持续呈指数级成长，直到其他种类的能源占比都远小于0.01%为止。
 
-这起事件再度引发外界对 AI 安全边界的关注与担忧。无独有偶，知名 AI 开发商 Anthropic 近期也曾透露，已成功侦测并拦截了企图利用其模型支援生物武器开发的「恶意活动」。]]></description>
+The solar power exponential will continue until all other energy sources are <<0.1%https://t.co/UJylYHx3s8
+
+— Elon Musk (@elonmusk)September 15, 2026
+
+马斯克之后又在另一篇贴文回应一张显示德州太阳能发电量超越核能的图表，写道：「太阳能显然就是未来。」
+
+Solar is so obviously the futurehttps://t.co/qlXCAxe0vE
+
+— Elon Musk (@elonmusk)September 15, 2026]]></description>
   </item>
   <item>
-    <title>彭博：OpenAI 拟募资至少 300 亿美元，估值拚 1.4 兆美元</title>
-    <link>https://finance.technews.tw/2026/09/30/openai-targets-30-billion-in-funding-at-1-4-trillion-value/</link>
-    <guid>https://finance.technews.tw/2026/09/30/openai-targets-30-billion-in-funding-at-1-4-trillion-value/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:30:46 +0000</pubDate>
-    <description><![CDATA[彭博（Bloomberg News）今天引述知情人士报导，人工智慧（AI）公司 OpenAI 计划在一轮募资中至少筹集 300 亿美元，并寻求约 1.4 兆美元估值，且这一估值不包括本轮新募集的资金在内。
+    <title>日圆贬值  LED 厂日亚化纯益飙增 30 倍</title>
+    <link>https://finance.technews.tw/2026/09/30/nichia-net-profit-surges-30-fold/</link>
+    <guid>https://finance.technews.tw/2026/09/30/nichia-net-profit-surges-30-fold/</guid>
+    <pubDate>Wed, 30 Sep 2026 07:10:41 +0000</pubDate>
+    <description><![CDATA[日圆贬值，加上锂离子电池关键材料「正极材」事业折旧费用负担大减，LED 大厂日亚化学工业（Nichia Corporation）上半年纯益飙增 30 倍。
 
-根据报导，这轮募资讨论仍在初期阶段，相关条件可能出现变动，并指出这轮需求主要由投资人主导。
+日经新闻报导，LED大厂日亚化29日公布上半年（2026年1-6月）财报资料指出，因日圆贬值带动汇兑收益增加，加上正极材事业折旧费用负担大幅减轻，纯益较去年同期狂飙约30倍（狂飙3,067%）至247亿日圆，4年来首度呈现增长，营收成长8%至1,879亿日圆，3年来首增，营益暴增63%至271亿日圆。
 
-报导指出，这轮募资拟做为一种「过渡融资」（bridge financing），为公司提供资金，以取代初次公开募股（IPO）所能带来的资金。
+就部门别情况来看，上半年日亚化以LED和雷射二极体（Laser Diode，LD）为主体的光半导体事业营收较去年同期成长11%至1,446亿日圆、营益暴增52%至217亿日圆。紫外线LED新品带动营收成长，加上车用头灯的可见光LED销售也增长。
 
-OpenAI今年3月时完成一轮募资，获得1,220亿美元的承诺资本，当时公司估值为8,520亿美元。
-
-OpenAI执行长奥特曼（Sam Altman）本月稍早表示，OpenAI不会在2026年上市，并以AI安全疑虑做为理由。
-
-路透社今天稍早报导，OpenAI的年化营收规模（annualized revenue run rate）接近700亿美元，自第三季初以来，这项数字已成长超过70%。]]></description>
+油电混合动力车（HV）、资料中心用正极材出货量增加，不过无法填补电动车（EV）需求减少缺口，上半年日亚化正极材事业营收较去年同期减少5%至402亿日圆，营益因折旧费减少而暴增76%至85亿日圆。]]></description>
   </item>
   <item>
-    <title>嫌「人工」听起来像假的，川普签署行政命令 AI 更名为 SI</title>
-    <link>https://technews.tw/2026/09/30/trump-responds-to-ai-backlash-with-super-intelligence-rebrand/</link>
-    <guid>https://technews.tw/2026/09/30/trump-responds-to-ai-backlash-with-super-intelligence-rebrand/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:20:25 +0000</pubDate>
-    <description><![CDATA[美国总统川普 29 日宣布，将以行政命令把联邦政府文件中的「人工智慧」（AI）正式改称为「超级智慧」（Super Intelligence，SI），并要求各部会与机构在官方往来、公众沟通、政策文件及非规范性文件中改用新名称，不再使用「人工智慧」或「AI」。
+    <title>义大利启动 51.4 亿欧元战车采购案，与德国联手打造新世代装甲部队</title>
+    <link>https://technews.tw/2026/09/30/italy-started-the-process-of-buying-kf51s-and-lynxs/</link>
+    <guid>https://technews.tw/2026/09/30/italy-started-the-process-of-buying-kf51s-and-lynxs/</guid>
+    <pubDate>Wed, 30 Sep 2026 07:08:38 +0000</pubDate>
+    <description><![CDATA[义大利陆军更新计划持续推进，国防部启动总值 51.4 亿欧元的新型主力战车及衍生车辆采购程序，准备以 KF51 Panther 为技术基础开发新车，逐步汰换老旧的「公羊式」（Ariete）主力战车。
 
-川普是在白宫与多位科技业领袖午餐会后对媒体表示，这项更名是为了反映技术持续演进的现实。他强调，自己已签署相关文件，并称这项改名具有「道德上的约束力」。白宫方面则尚未立即说明文件细节。
+负责开发的是义大利李奥纳多（Leonardo）与德国莱茵金属（Rheinmetall）于 2024 年成立的合资公司 LRMV，双方各持股 50%，约六成相关工作将在义大利进行，营运据点设于拉斯佩齐亚（La Spezia）。
 
-根据白宫公布的说明，行政命令还要求总统科学与科技助理提出联邦层级对「超级智慧」与「SI」的定义，并评估是否需要进一步的行政措施来落实。川普也表示，政府正在考虑成立一个约 10 人的委员会，负责监督整体发展。
+除了新型战车，LRMV 也同步推动以 Lynx 履带式装甲车为基础的陆军装甲战斗系统（A2CS），用来接替现役的「标枪」（ Dardo） 步兵战斗车。
 
-这场午餐会聚集多位科技与 AI 业界人士，川普在会后持续为改名辩护，认为「人工」一词让技术听起来像是假的，并主张「超级智慧」更能反映其能力。他还提到，自己曾向中国国家主席习近平谈过这项更名，并称对方「喜欢」这个说法。
+▲ A2CS 将以莱茵金属的 Lynx 步兵战斗车为基础开发。（Source：Lukas1325,CC BY-SA 4.0, via Wikimedia Commons）
 
-不过，这项做法也引来外界质疑。批评者认为，单纯更换名称无助于处理 AI 快速发展带来的风险，反而可能模糊现有 AI 工具与真正超级智慧之间的界线。]]></description>
+依李奥纳多公布的规划，战车计划包含 132 辆主力战车及 140 辆衍生车，合计 272 辆，A2CS 则规划约 1,050 辆，涵盖 16 种构型。
+
+义大利媒体指出，两项计划整体规模预估约 232 亿欧元，执行期程延伸至 2040 年，因此这次 51.4 亿欧元采购只是整体装甲部队更新的一部分。
+
+KF51 Panther 在先前的展示中多是以 130 公厘滑膛砲、自动装弹机及整合式防护系统为主要特色，并可选配巡飞弹，义大利版本则有不同规划，LRMV 提供给义大利国防部的 NMBT 方案采用 120 公厘 L55 滑膛砲，但保留未来升级至 130 公厘的空间。
+
+Lynx 平台则强调模组化设计，可依任务配置机砲、反战车飞弹及不同防护套件，并衍生指挥、侦察、防空与救护等车型。莱茵金属指出，义大利计划的整合重点包括李奥纳多的 30 公厘 Hitfist 砲塔与 120 公厘 Hitfact 砲塔，分别支援不同作战需求。
+
+从产业分工来看，这项计划也将使义大利厂商深入参与任务系统、电子设备与武器整合。两家公司希望以义大利陆军换装需求为基础，进一步拓展外销市场，让长期军备投资成为欧洲装甲车辆产业合作的支点
+
+（首图来源：Rheinmetall Defence,CC BY-SA 4.0, via Wikimedia Commons）]]></description>
   </item>
   <item>
-    <title>Bloom Energy 买新厂、暗示客户需求强？股价嗨</title>
-    <link>https://technews.tw/2026/09/30/bloom-energy-stock-gains-on-factory-expansion/</link>
-    <guid>https://technews.tw/2026/09/30/bloom-energy-stock-gains-on-factory-expansion/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:10:21 +0000</pubDate>
-    <description><![CDATA[燃料电池大厂 Bloom Energy 购入厂房、分析师推估这暗示市场需求强劲，股价应声跳高。
+    <title>韩国首尔大学启动 AI 半导体创新研究所，六年培养 110 名 NPU 顶尖人才</title>
+    <link>https://technews.tw/2026/09/30/%e2%80%8bseoul-national-university-to-train-110-ai-semiconductor-experts-over-six-years/</link>
+    <guid>https://technews.tw/2026/09/30/%e2%80%8bseoul-national-university-to-train-110-ai-semiconductor-experts-over-six-years/</guid>
+    <pubDate>Wed, 30 Sep 2026 07:00:31 +0000</pubDate>
+    <description><![CDATA[韩国科学技术资讯通信部 29 日在首尔大学半导体共同研究中心举行「AI 半导体创新研究所」开所仪式，启动以产学合作为核心的 AI 半导体人才培育计划，锁定硕士与博士级专业人才，目标是六年内培养超过 110 人，强化 AI 晶片研发与实务应用人才。
 
-Barron’s、Seeking Alpha29日报导，加州佛利蒙市（Fremont）政府透过专业社交平台LinkedIn宣布，Bloom已购入一座占地15.8万平方英尺的厂房，借以扩大营运规模。佛利蒙市为Bloom现有制造基地所在地。
+研究所将以企业需求为导向，串联研究开发、技术评估与验证，以及产业需求对接，打造完整的培训体系。参与单位涵盖大型企业、中小企业、无晶圆厂设计公司（fabless）与大学，并共同研究与人员交流，让学生毕业后更快速投入产业实务。
 
-新厂规模格外受到关注，其面积几乎与Bloom目前位于佛利蒙、面积16.4万平方英尺的制造厂相当。
+今年起所有参与者都必须提出以神经处理单元（NPU）为基础的研究专案，以提升实作技能。研究所设置五个研究中心，并由有逾20年产业经验的柳秀晶教授领军，LG电子、FuriosaAI、Xenoscube Korea、Analog AI与SqueezeBits等企业为合作伙伴。
 
-Bloom已著手扩充佛利蒙厂的年产能，计划从目前约1吉瓦（GW）提升至2026年底的2GW。该公司先前表示，若需求足以支撑进一步扩产，旗下厂房最终可容纳约5GW的年产能。每新增1GW产能，预估需要6~9个月完成建置，还需投入约1亿至1.5亿美元。
+政府预估提供最长六年、年均20亿韩圜补助，首年为10亿韩圜。今年起先培育十人，之后每年增加20人，累计培育超过110名硕博士级人才。除了专业技术教育，也将纳入企业派驻、实习与就业衔接机制，强化AI半导体领域的产学合作基础。
 
-摩根士丹利（Morgan Stanley）分析师David Arcaro在研究报告中表示，这显示Bloom的客户需求「持续强劲」。
-
-Arcaro说，「Bloom对于扩充产能的规划向来非常审慎，只在确实有需要时才会投入扩产。我们认为，购入新厂房将再次释出讯号，显示公司迎来了强劲客户需求，有必要加快扩产计划。」
-
-Arcaro并指出，公用事业商Ameren Corp.周一（9月28日）稍晚透过旗下受监管的密苏里州电力公用事业公司，建议在2030年前新增500兆瓦（MW）的天然气燃料电池发电容量。
-
-Ameren尚未选定Bloom为供应商，因此这项提案对Bloom而言仍属潜在商机，而非已取得的订单。不过，Arcaro说，「预期这会为Bloom带来潜在机会，尤其时程相当近期，且已纳入Ameren的基准建议方案。」
-
-Ameren正在为用电量大幅成长预做准备。该公司表示，已签署协议，将在2030年前供应合计2.8GW的大型用电需求，未来需求还可能进一步增加。其规划除燃料电池外，也包括新增天然气发电、太阳能、电池储能、风力发电，以及最终新增核能发电。
-
-Bloom 29日应声大涨10.8%、收291.25美元，创7月6日以来收盘新高。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Bloom Energy）]]></description>
+（首图来源：Ministry of Science and ICT）]]></description>
   </item>
   <item>
-    <title>获利撑不住支出，特斯拉申请 300 亿美元信贷额度</title>
-    <link>https://technews.tw/2026/09/30/tesla-take-30billion-credit-loan/</link>
-    <guid>https://technews.tw/2026/09/30/tesla-take-30billion-credit-loan/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:09:36 +0000</pubDate>
-    <description><![CDATA[特斯拉这两年获利下滑，甚至出现亏损，难以支撑他们庞大的资本支出，今日监管文件显示，特斯拉已经向两家银行申请 300 亿美元信贷额度，替明年做准备。
+    <title>特纳斯接掌苹果后首波改革：精简管理层、加快新品节奏</title>
+    <link>https://technews.tw/2026/09/30/apple-planning-to-launch-products-faster-and-more-often/</link>
+    <guid>https://technews.tw/2026/09/30/apple-planning-to-launch-products-faster-and-more-often/</guid>
+    <pubDate>Wed, 30 Sep 2026 06:50:26 +0000</pubDate>
+    <description><![CDATA[苹果（Apple）新任执行长约翰‧特纳斯（John Ternus）上任后，传出正著手规划一场幅度不小的内部重整，核心方向包括加快产品开发、扩大装置阵容，并把公司打造得更精简、更偏向工程主导。
 
-这笔信贷是由花旗与富国银行承作，为期一到五年，将会取代特斯拉先前开设的 50 亿美元信贷额度，之前的额度特斯拉并没有使用，但这两年的财务状况，可能会让情况改变。
+根据相关报导，特纳斯希望苹果不再过度依赖传统的春季与秋季发表节奏，而是改为全年更频繁地推出新产品，以更快速度把创新送上市场。他也认为，在人工智慧竞争加剧的环境下，苹果必须更具实验性，才能维持竞争力。
 
-特斯拉这家公司在最初的十五年左右，成长力道仿佛无穷无尽，马斯克曾经喊出超荒唐的「每年营收成长翻倍」目标，而且还真的实现了好几年。2020 年，这家充满争议的公司首次实现全年获利，市值也随即一飞冲天，让马斯克成为全球首富。
+这波调整也伴随组织层级的压缩。消息指出，苹果正考虑裁撤部分中阶管理职位，缩短工程师与高层之间的距离，并减少组织层级与内部冗余。硬体工程部门近两周已开始削减工程专案管理相关职务，影响数名管理者与约 6 名总监级主管；部分员工获得数周时间寻找内部转调机会，未能成功者将在 2026 年稍晚面临裁撤。
 
-讽刺的是，在马斯克力挺的川普总统上任后，故事开始转折。热爱石油跟天然气的川普，很快就让美国成为全球少数电动车负成长的国家，特斯拉销量也跟著受创。在欧洲市场，因为马斯克的亲右派立场，又吓跑了电动车买家，让特斯拉在全球销量崩盘。2024 年，特斯拉营收从前一年的 38% 增长，转为 1% 下滑，获利也跟著越来越差。
+除了管理层精简，苹果也同步进行成本控管，并在多个团队缩减或取消较不重要的专案。报导提到，Siri、Vision Pro 与 AI 相关软体工程团队都受到影响，部分调整还与员工表现有关。另有消息称，公司曾评估以 AI 系统承接部分客服工作，甚至涉及约 5,000 名 AppleCare 人员，但该计划目前已暂缓。
 
-▲特斯拉最近三年的获利表现，一路崩盘。（Source：科技新报制）
-
-收入缩水，但野心跟支出不断在扩张，如果是一般的车厂，可能要考虑在声势最旺的那一年，增建新厂去拓展新市场，但特斯拉喊停了印尼、印度等新厂计划，转而投向更巨大的未知：人形机器人、无方向盘车辆和太空晶圆厂，资本支出在最新一季财报几乎倍增。2025 年他们的 CapEx 是 85 亿美元，2026 年已经上看 250 亿美元，2027 年则预计会跟今年相近。
-
-从这个支出规模来看，准备 300 亿美元信贷额度也挺合理的，虽然特斯拉强调他们在 2026 年不会动用到这个额度，但今年眼看也就要结束，明年如果维持相同的获利状况和 CapEx，势必要动用这笔贷款。
-
-这笔贷款额度大约是特斯拉营收的四分之一，比例已经很高，如果对比特斯拉现在每季只有几亿美元的获利，这个比例就更可怕。财务上来看，更让人害怕的是，最新一季财报，特斯拉现金流已经转为负数，上一次出现这个情况已经是 2024 年 Q1 销量大崩盘的时候，其他时候特斯拉的现金流一直都是正向的。]]></description>
+在产品面，苹果据称已为 2027 年排定一波新机与新装置，包括具备相机功能的 AirPods、智慧眼镜，以及纪念 iPhone 问世 20 周年的重新设计版 iPhone。与此同时，特纳斯也在寻找新的营收来源，并思考如何从既有产品与服务中挖掘更多价值，特别是在服务业务成长放缓之际。]]></description>
   </item>
   <item>
-    <title>鸿海员工今早被奖金砸醒！年度分红入帐，绩优员工百万起跳</title>
-    <link>https://finance.technews.tw/2026/09/30/2026-foxconn-annual-bonus/</link>
-    <guid>https://finance.technews.tw/2026/09/30/2026-foxconn-annual-bonus/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:06:30 +0000</pubDate>
-    <description><![CDATA[鸿海员工今日一早迎来年度「开奖日」，依循近年惯例，该公司年度分红奖金今早正式汇入员工帐户。据了解，鸿海今年整体平均分红水准较去年大幅成长两位数百分比以上，绩效优异单位且个人表现突出的员工，更有机会领到百万元、甚至更高的分红奖金。
+    <title>研调：iPhone Duo 今年销量估 600 万支，取决产能爬坡</title>
+    <link>https://technews.tw/2026/09/30/iphone-duo-sales-estimated-at-6-million-this-year/</link>
+    <guid>https://technews.tw/2026/09/30/iphone-duo-sales-estimated-at-6-million-this-year/</guid>
+    <pubDate>Wed, 30 Sep 2026 06:40:48 +0000</pubDate>
+    <description><![CDATA[综合港媒及中媒报导，Counterpoint Research预计，苹果 2026 年 iPhone Duo 销量预估约 600 万支。Counterpoint Research 高级分析师林科宇表示，600 万支更符合折叠手机此一小众市场的销量规模，与苹果其他 iPhone 的常规销量仍有明显差距，至于最终销量，很大程度上将取决于苹果的产能爬坡速度。
 
-受到 AI 伺服器需求持续强劲，加上既有 ICT 业务维持稳健表现，带动鸿海近年营运规模持续扩大，营收与获利延续成长动能，双双改写历史新高，也让今年员工分红水准同步水涨船高。
+iPhone Duo中国国行定价15,999人民币起，将于10月16日晚间8时起接受预购，10月23日正式开卖；业界也寄望苹果带动更多消费者关注折叠手机，并进一步带动市场销量。
 
-鸿海今年不只员工分红加码，股东也已率先分享营运成果，该公司 7 月底已配发总额 1,009 亿元现金股利，并创下 1991 年上市以来最高每股现金股利纪录，在营运规模持续放大的同时，也同步提高股东与员工的成果分享。
-
-不过年度分红并非「人人有奖、平均分配」，实际分红金额主要依各事业群营运绩效，以及员工个人绩效表现进行分配，因此不同单位、不同员工之间的入帐金额仍有明显差异。
-
-随著 AI 伺服器成为鸿海近年主要成长引擎，今年分红平均水准较去年成长两位数以上，也再次反映 AI 需求带来的营运红利。对位处高成长事业群、个人绩效又突出的员工而言，今年年度分红更有机会直接突破百万元大关。]]></description>
+IDC预计，在苹果加入后，今年全球折叠手机出货量预计增长13%至2,290万支；若没有iPhone Duo，此一市场原本预计将陷入下滑。]]></description>
   </item>
   <item>
-    <title>中国大减、丰田全球新车销量续缩；电动车翻倍</title>
-    <link>https://technews.tw/2026/09/30/china-sales-decline-toyota-global-new-car-sales-shrink-ev-double/</link>
-    <guid>https://technews.tw/2026/09/30/china-sales-decline-toyota-global-new-car-sales-shrink-ev-double/</guid>
-    <pubDate>Wed, 30 Sep 2026 01:00:51 +0000</pubDate>
-    <description><![CDATA[中国市场销量大减，拖累日本汽车业龙头丰田汽车（Toyota）8 月份全球新车销售量持续陷入萎缩，其中电动车（EV）销量翻倍。
+    <title>专访》地热从示范走向产业化，结元能源拚 2030 年开发 40 MW</title>
+    <link>https://technews.tw/2026/09/30/exclusive-interview-tech-giants-enter-geothermal-market-jiyuan-energy-says-taiwan-industrialization-competition-just-beginning/</link>
+    <guid>https://technews.tw/2026/09/30/exclusive-interview-tech-giants-enter-geothermal-market-jiyuan-energy-says-taiwan-industrialization-competition-just-beginning/</guid>
+    <pubDate>Wed, 30 Sep 2026 06:30:26 +0000</pubDate>
+    <description><![CDATA[太阳能仰赖日照、风力发电取决于风况，全天候运作的 AI 资料中心与半导体产业，则需要更稳定的低碳电力。随著科技巨头扩大采购、探勘与钻井技术进步，地热逐渐受到市场关注。结元能源总经理洪向民受访指出：「台湾地热市场正从示范阶段走向产业化的过渡阶段，真正的竞争才要开始。」
 
-丰田汽车29日公布资料指出，因中国销量大减，拖累2026年8月份全球新车销售量（Toyota+Lexus品牌，不含大发和日野）较去年同月减少6.4%至79万743辆，连续第2个月陷入萎缩。其中，海外市场销售量减少8.4%至68万5,676辆，连续第7个月陷入萎缩；日本销售量增加9.1%至10万5,067辆，连续第5个月呈现增长。
+国际能源总署（IEA）估计，若技术持续进步、成本下降，地热到 2050 年可满足全球新增电力需求的 15%，全球装置容量最高可达约 800 GW。Google、Meta、微软等科技业者近年也陆续布局地热电力，寻求可长时间稳定供应的低碳能源。洪向民认为，AI 与资料中心用电需求攀升，正让市场重新看见地热的价值。
 
-丰田指出，受汽油价格扬升影响，8月份中国市场（包含香港、澳门）销售量较去年同月大减22.8%至11万8,449辆，连续第7个月陷入萎缩；美国市场销售量减少4.4%至21万5,556辆，连续第2个月陷入萎缩；台湾市场销售量减少10.1%至1万804辆，5个月来首度陷入萎缩；欧洲市场销售量成长2.6%至7万8,527辆，连续第3个月呈现增长；印度市场销售量减少7.9%至2万3,543辆，连续第2个月陷入萎缩。
+台湾位于环太平洋火山带。根据地热发电单一服务窗口资料，台湾地热潜能约 40 GW；但有资源，不代表能顺利开发。地下热源、钻井条件，以及电厂能否长期稳定营运，都左右商业化成败。如何将地下潜能转化为稳定发电的电厂，是台湾地热走向产业化的关键。
 
-8月份丰田全球产量较去年同月减少5.9%至70万860辆，连续第2个月陷入萎缩。其中，海外产量减少7.6%至49万6,373辆，连续第4个月陷入萎缩；日本产量减少1.7%至20万4,487辆，4个月来首度陷入萎缩。
+结元能源隶属将捷集团，目前聚焦宜兰清水及大屯山地区，已有清水、四磺子坪等营运案场，并推进硫磺子坪、焿子坪及四磺子坪二期等计划。其中，硫磺子坪规画容量约 4.2 MW，预期于 2027 年上半年取得电业执照，朝并网售电迈进。
 
-另外，8月份丰田新车出口量较去年同月增加2.3%至13万8,054辆，连续第4个月呈现增长。其中，对美国出口量减少3.8%至3万9,785辆，6个月来首度陷入萎缩；对中东出口量暴增31.0%至2万4,411辆，连续第2个月呈现增长。
+洪向民表示，地热电厂从探勘到发出第一度电，远不只是钻一口井。结元并非钻井公司，而是参与地下资源评估、探勘策略、电厂规画及后续营运，再依案场需求，与地球物理、地球化学、钻井及统包工程（EPC）等专业团队合作。
 
-就电动化车款（包含EV电动车、HV油电混合动力车、PHV插电式油电混合动力车和FCV燃料电池车）销售情况来看，8月份丰田电动化车款全球销售量较去年同月增加13.7%至43万5,602辆，其中，日本国内销售量增加14.7%至6万4,866辆、海外市场销售量增加13.5%至37万736辆。
+他强调，整合不只是将工作交给外部厂商。每个案场的地质条件不同，开发商必须具备技术判断能力，才能决定探勘方式、技术选择及合作团队。结元希望将开发经验整理成可复制的流程，涵盖探勘、资料分析、钻井决策、电厂建置与营运，并依各案场条件调整。
 
-就电动化车款细项来看，8月份丰田EV全球销售量为3万7,486辆，较去年同月飙增119.8%，其中日本销量狂飙111倍（狂飙11,172.2%）至2,029辆、海外市场销量飙增108.1%至3万5,457辆；HV全球销量成长7.2%至36万2,212辆，其中日本销量增加10.5%至6万932辆、海外市场销量增加6.5%至30万1,280辆；PHV全球销量暴增36.8%至2万1,898辆、FCV全球销量增加21.4%至85辆。]]></description>
+随著 Fervo Energy 等业者推进增强型地热系统（EGS），新技术受到更多关注。不过，洪向民认为，台湾现阶段仍应以技术较成熟、已具商业化条件的传统地热系统（CGS）为主。「CGS 是现在、EGS 是未来」，两者并非二选一。
+
+传统地热开发仰赖天然热源、流体及适合的地质条件；EGS 则透过工程方式建立地下取热条件。洪向民认为，EGS 的价值在于改变地热产业寻找资源的方式：业者未来不必只寻找既有的天然条件，也有机会运用工程技术扩大可开发范围。
+
+技术前景之外，开发成本仍是门槛。洪向民表示，一般生产井成本约 5,000 万至 8,000 万元，挑战深层地热的钻井经费甚至可能突破 1 亿元。因此，能否在钻井前掌握地下资源，攸关开发商的资本投入与决策。
+
+随著地质探勘、地下资料分析及钻井技术进步，业者对资源条件的掌握逐步提升，有助于在投入大笔资金前评估开发策略。长期而言，若深层钻井与 EGS 技术进一步成熟，地热可开发范围也有望扩大。
+
+市场端同样出现变化。洪向民表示，结元现有案场主要采既有购售电模式，未来希望逐步提高企业购电协议（CPPA）比重。目前台湾地热供应量仍小，企业购电市场尚未形成明确价格；随著科技业对稳定低碳电力的需求增加，地热的市场价值有机会逐步浮现。
+
+结元接下来将持续推进硫磺子坪、焿子坪及四磺子坪二期等案场，并寻找新的开发区域。其中，焿子坪规画容量约 4.2 MW，四磺子坪二期规画容量约 20 MW，两案预计于 2030 年推进。洪向民表示，公司希望至 2030 年将整体开发规模推升至约 30 至 40 MW，长期朝 100 MW 迈进。
+
+从单一数 MW 案场走向数十 MW，洪向民认为，竞争关键已不只是谁能「找到热」，还包括能否持续开发案场，并把技术判断、电厂建置与长期营运串成可复制的模式。这将决定台湾地热能否真正从示范走向产业化。]]></description>
   </item>
 </channel>
 </rss>
