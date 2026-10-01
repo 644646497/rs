@@ -4,13 +4,61 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 30 Sep 2026 21:43:24 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 03:25:24 GMT</lastBuildDate>
+  <item>
+    <title>Curiosity Blog, Sols 5016–5021: Fantastic Minerals and How To Detect Them</title>
+    <link>https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/</link>
+    <guid>https://science.nasa.gov/blog/curiosity-blog-sols-5016-5021-fantastic-minerals-and-how-to-detect-them/</guid>
+    <pubDate>Wed, 30 Sep 2026 23:37:47 +0000</pubDate>
+    <description><![CDATA[Mars Science Laboratory Mission Team Members
+
+Written by Lucy Lim, Planetary Scientist at NASA Goddard Space Flight Center
+
+Earth planning date: Friday, Sept. 18, 2026
+
+Curiosity surprised us at the beginning of the week with a change in rock texture — instead of the finely layered bedrock blocks we've been seeing in our recent sulfate unit workspaces, suddenly we were looking at blocks covered (and likely filled) with a jumble of small disc-shaped lumps. We've seen somewhat similar features before much earlier in the mission — for example, close to thePahrump Hillsback in the Murray mudstones, and they're sometimes seen in Earth rocks as well, especially in settings in which minerals were precipitating from an evaporating fluid. The disc-like shapes could be created by the growth habits of a specific crystalline mineral that is known to grow into similar shapes, or they could be bits of a harder rock layer that broke up and collected here. We planned Mastcam and MAHLI imaging for more morphological detail on the jumbled disc blocks (“Yungay,” “Chiu Chiu”) as well as LIBS (“Puya Raimondii,” “Liolaemus Tacnae,” “Pisqu Warkatana”) and APXS (“Salar de Vacas”) to investigate their composition.
+
+Ongoing long-distance imaging projects were furthered by ChemCam long-distance remote imager (RMI) and Mastcam mosaics of the buttes on either side of Valle Grande. These “cutaway”-view images of the strata above the rover will help us map sedimentary structures in these upcoming units and understand how these rocks formed and eroded. Views of more recent erosional deposits will also help us to understand the formation of Valle Grande itself.
+
+In order to identify minerals, Curiosity needs data from the CheMin X-ray diffraction instrument, which means a drill campaign. We've driven over a kilometer since our last drill site atCampo Marte, and this will be our first drill above the erosional supersurface. The Wednesday plan's drive brought us up next to a promising drill workspace a little beyond where we saw the disc-shaped features discussed above (imaged as “Torres del Paine” by Mastcam) and Friday’s planning included site characterization with the instruments on Curiosity's arm (“Alberta Wild Rose,” “Moonraker Mountain”), ChemCam LIBS (“Osoyoos”), and Mastcam (“Trincomali Channel,” “Yellow Lady's Slipper”). The team also selected a specific drill target and planned a very short drive to bring it in range of the arm — first for contact science and then, if all goes well, for the preload test and drill.
+
+I'll be back on planning on Monday as Geology and Mineralogy Science Theme Lead for Drill Sol 1 (Triage Contact Science) and we’ll see how things go from there!
+
+Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+
+Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
+
+Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
+
+The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…]]></description>
+  </item>
+  <item>
+    <title>Help Overlap Zoo Reveal Cosmic Dust</title>
+    <link>https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/</link>
+    <guid>https://science.nasa.gov/get-involved/citizen-science/help-overlap-zoo-reveal-cosmic-dust/</guid>
+    <pubDate>Wed, 30 Sep 2026 21:19:33 +0000</pubDate>
+    <description><![CDATA[Galaxies, vast collections of billions of stars, gas, and dust held together by gravity, are scattered across the immensity of space. But every so often, a coincidence occurs: Two galaxies line up from our point of view on Earth (or from a space telescope) and appear to overlap in the sky. These rare overlapping galaxies give astronomers a chance to study something normally difficult to see: the dust inside one of these distant cosmic objects. That’s the focus of NASA’s newOverlap Zooproject.
+
+Picture the background galaxy acting like a cosmic flashlight, shining through the nearer galaxy. The backlit dust creates dark silhouettes, like shadows on a screen. By studying these silhouettes, astronomers can map how dust is distributed throughout galaxies and learn how it blocks, scatters, and dims starlight traveling through space. Measurements of how dust impacts light can even help astronomers refine estimates of the distances to faraway objects.
+
+However, before we can study galaxy pairs and their dust, we first need to find them! Overlap Zoo is asking for your help with the search.
+
+"As new and better observations of galaxies continue to multiply, it is becoming incredibly difficult for astronomers to classify every candidate galaxy pair," said Trevor Butrum, Overlap Zoo project lead and graduate student. "Your help is invaluable to creating the biggest and cleanest catalog of overlapping galaxy pairs for further analysis."
+
+As a volunteer in Overlap Zoo, you'll view images that volunteers in theGalaxy Zooproject have identified as containing possible overlapping galaxies. The Overlap Zoo project will teach you how to verify the presence of galaxy pairs in these images, classify key features of each galaxy, and mark their outlines. You’ll learn as you go, classifying as many of these images as you like. Your contributions will help build the first large-scale catalog of galaxy pairs suitable for dust studies and enable a huge step forward in accuracy of astronomical estimates.
+
+Head over toOverlap Zooand start classifying galaxies today. No prior experience needed – just curiosity and a few minutes of your time. Your observations will help unlock the secrets hidden in these rare cosmic alignments!
+
+Confirm and describe overlapping galaxy pairs to reveal interstellar dust. For anyone with an internet-connected computer.]]></description>
+  </item>
   <item>
     <title>NASA Adds New Science Investigations for Moon Base</title>
     <link>https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/</link>
     <guid>https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/</guid>
     <pubDate>Wed, 30 Sep 2026 21:11:23 +0000</pubDate>
-    <description><![CDATA[NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base.
+    <description><![CDATA[Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload.
+
+NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base.
 
 The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will fly to the lunar surface using the CLPS (Commercial Lunar Payload Services) initiative as part of the agency’s Moon Base Program. The payloads will help researchers understand lunar resources, map natural shelters, and assess environmental hazards, laying the foundational groundwork for a safe and sustained human presence under the agency’s Artemis and Moon Base programs.
 
@@ -24,7 +72,7 @@ Geophysical Investigation for Mapping Lunar Interior (GIMLI):
 
 Principal Investigator: Dr. Nathaniel Putzig, Planetary Science Institute
 
-Distribution of Ice and Surface Characteristics Observatory (DISCO):
+Depth Imager with Spectral and Color Optics (DISCO):
 
 Principal Investigator: Dr. Ariel Deutsch, NASA’s Ames Research Center in California’s Silicon Valley
 
@@ -162,46 +210,6 @@ The work will take place at Omitron’s location in Beltsville, Maryland, NASA�
 For information about NASA and agency programs, please visit:
 
 Robert GarnerGoddard Space Flight Center, Greenbelt, Md.301-286-5687rob.garner@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>NASA Features Exploration, Science at International Space Conference</title>
-    <link>https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-features-exploration-science-at-international-space-conference/</guid>
-    <pubDate>Tue, 29 Sep 2026 20:55:24 +0000</pubDate>
-    <description><![CDATA[Editor’s Note: This advisory was updated on Sept. 30, 2026, to reflect additional NASA activities.
-
-NASA will participate in the 77th International Astronautical Congress (IAC) in Antalya, Türkiye, from Monday, Oct. 5, to Friday, Oct. 9, highlighting America’s leadership in human exploration to the Moon and Mars, advancing responsible exploration under the Artemis Accords, world-changing science, and support for the commercial space sector.
-
-The IAC, organized by the International Astronautical Federation, is hosted this year by the Turkish Space Agency (TUA).
-
-The NASA delegation, led by NASA Deputy Administrator Matt Anderson, will take part in plenary sessions, technical discussions, and media engagements throughout the week.
-
-A full agenda for this year’s IAC is availableonlinefor registered media. To view select events, visit the International Astronautical FederationYouTubechannel.
-
-In addition to the events outlined above, NASA will have an exhibit featuring the agency’s contributions to space exploration, celebrating the U.S. Freedom 250 commemoration, and U.S. leadership in space exploration, science, and technological innovation.
-
-NASA’s exhibit booth number is in Hall 1 at NEST Convention Centre.
-
-To learn more about NASA international partnerships, visit:
-
-George Alderman / Elizabeth ShawHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov/elizabeth.a.shaw@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>NASA Adds Blue Origin New Glenn 9×4 to Launch Services Contract</title>
-    <link>https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-adds-blue-origin-new-glenn-9x4-to-launch-services-contract/</guid>
-    <pubDate>Tue, 29 Sep 2026 20:08:01 +0000</pubDate>
-    <description><![CDATA[In accordance with a contract on-ramp clause, NASA has added Blue Origin’s New Glenn 9×4 launch service to the NASA Launch Services (NLS) II contract. The New Glenn 9×4 launch service will be available to NASA’s Launch Services Program Office to use for future missions.
-
-The NLS II contracts are multiple-award, indefinite-delivery/indefinite-quantity contracts with an ordering period through June 2030, and an overall period of performance through December 2032. The NLS II contracts include an on-ramp provision that provides an opportunity annually for new launch service providers to compete for future missions and allows existing contractors to introduce launch vehicles not currently on their NLS II contracts.
-
-The NLS II contracts support the goals and objectives of the agency’s Human Spaceflight Mission Directorate, Science Mission Directorate, and the Research and Technology Mission Directorate. Under the contract, NASA also can provide launch services to other government agencies, such as the National Oceanic and Atmospheric Administration.
-
-NASA’s Launch Services Program Office at the agency’s Kennedy Space Center in Florida manages the NLS II contracts. For more information about NASA visit:
-
-Joshua Finch / Jimi RussellHeadquarters, Washington202-358-1100joshua.a.finch@nasa.gov/james.j.russell@nasa.gov
-
-Leejay LockhartKennedy Space Center, Fla.321-747-8310leejay.lockhart@nasa.gov]]></description>
   </item>
 </channel>
 </rss>
