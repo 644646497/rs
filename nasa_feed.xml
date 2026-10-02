@@ -4,7 +4,22 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Thu, 01 Oct 2026 22:11:43 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 03:26:00 GMT</lastBuildDate>
+  <item>
+    <title>10 Things: Movie Night</title>
+    <link>https://science.nasa.gov/solar-system/10-things-movie-night/</link>
+    <guid>https://science.nasa.gov/solar-system/10-things-movie-night/</guid>
+    <pubDate>Fri, 02 Oct 2026 00:25:36 +0000</pubDate>
+    <description><![CDATA[NASA's mission is to pioneer the future in space exploration and scientific discovery.NASA+documentaries allow you to come along for the ride. It's free. It's on demand. And no subscription is required. Grab some popcorn and come along for the journey.
+
+You've explored Earth, tracked asteroids, visited distant worlds, and listened to the universe. It's time to relax with some tunes and images of Earth's beautiful Moon.
+
+NASA’s on-demand streaming service with original content from the space agency for the benefit of all. NASA+ is home to live launch coverage, documentaries, original series, and kids' content.
+
+Videos produced by NASA's Jet Propulsion Laboratory.
+
+NASA's Scientific Visualization Studio brings NASA science and data to life with visualizations, animations, and images.]]></description>
+  </item>
   <item>
     <title>NASA Awards Enterprise Logistics Support Services Agreements</title>
     <link>https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/</link>
@@ -223,39 +238,6 @@ As a volunteer in Overlap Zoo, you'll view images that volunteers in theGalaxy Z
 Head over toOverlap Zooand start classifying galaxies today. No prior experience needed – just curiosity and a few minutes of your time. Your observations will help unlock the secrets hidden in these rare cosmic alignments!
 
 Confirm and describe overlapping galaxy pairs to reveal interstellar dust. For anyone with an internet-connected computer.]]></description>
-  </item>
-  <item>
-    <title>NASA Adds New Science Investigations for Moon Base</title>
-    <link>https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/</guid>
-    <pubDate>Wed, 30 Sep 2026 21:11:23 +0000</pubDate>
-    <description><![CDATA[Editor’s note: This release was updated on Sept. 30, 2026, to correct the name of the DISCO payload.
-
-NASA selected three new scientific investigations and their payload suites to advance our knowledge of the Moon and help pave the way for building humanity’s first lunar outpost, Moon Base.
-
-The suite of science instruments and technologies was selected through NASA’s Payloads and Research Investigations on the Surface of the Moon (PRISM) program and will fly to the lunar surface using the CLPS (Commercial Lunar Payload Services) initiative as part of the agency’s Moon Base Program. The payloads will help researchers understand lunar resources, map natural shelters, and assess environmental hazards, laying the foundational groundwork for a safe and sustained human presence under the agency’s Artemis and Moon Base programs.
-
-“NASA Science is building the ultimate interplanetary survival guide to ensure that science goes first to the lunar surface to provide our future astronaut crews with the vital information, resources, and safety precautions needed ahead of time to survive the night on the Moon,” said Nicky Fox, associate administrator, Science Mission Directorate, at NASA Headquarters in Washington. “These PRISM selections will directly help NASA minimize risks to our astronauts while maximizing our agency goals as we set up humanity’s first lunar outpost in preparation for sending the first astronauts to Mars.”
-
-Lunar Environment Monitoring Station – South Pole(LEMS-SP):
-
-Principal Investigator: Dr. Mehdi Benna, University of Maryland, Baltimore County
-
-Geophysical Investigation for Mapping Lunar Interior (GIMLI):
-
-Principal Investigator: Dr. Nathaniel Putzig, Planetary Science Institute
-
-Depth Imager with Spectral and Color Optics (DISCO):
-
-Principal Investigator: Dr. Ariel Deutsch, NASA’s Ames Research Center in California’s Silicon Valley
-
-“Each new PRISM selection strengthens our ability to deliver ambitious, transformative science to the lunar surface,” said Brad Bailey, director of the Exploration Science Strategy Integration Office in NASA’s Science Mission Directorate. “These investigations exemplify how Artemis and Moon Base are expanding the frontier of lunar exploration, advancing innovative technologies, deepening our understanding of the Moon’s environment, and paving the way for future astronaut missions.”
-
-NASA is increasing its cadence of lunar missions to build a Moon Base, delivering science investigations and technology payloads that contribute to American scientific preeminence, strengthen a sustained presence on the Moon, and advance future human exploration.
-
-NASA’s CLPS initiative supports the Moon Base Program, as the agency works with American companies to deliver scientific, exploration, and technology payloads to the Moon’s surface and orbit.
-
-Tiffany BlakeHeadquarters, Washington202-358-2546tiffany.n.blake@nasa.gov]]></description>
   </item>
 </channel>
 </rss>
