@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sat, 03 Oct 2026 03:09:58 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 10:53:54 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 October 3 – Selfie at Vera Rubin Ridge</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/</guid>
+    <pubDate>Sat, 03 Oct 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:On sol 1943of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is aMartian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 correspondsto Earth dateJanuary 23, 2018. Also composed as aninteractive 360 degree VR, the mosaicked panorama combines 61 exposures taken by the smallcar-sized rover'sMars Hand Lens Imager (MAHLI). Frames containing the imager's arm have been edited out while the extended background used was taken by the rover's Mastcam on sol 1903. At the top of the rover's mast, sitting above the Mastcam, thelaser-firingChemCam housing blocks out the distant, 5 kilometer high peak of Mount Sharp.On Earth dateAugust 26, 2026, Curiosity marked an total elevation gain of 1 kilometer in its trek from the floor of Gale Crater up the slope of Mount Sharp.APOD's email for image submissions has changed.Please see:APOD Submissions.Tomorrow's picture:Sunday's Childe]]></description>
+  </item>
   <item>
     <title>NASA Astronaut Christina Koch to Join NFL Fans in Philadelphia</title>
     <link>https://www.nasa.gov/news-release/nasa-astronaut-christina-koch-to-join-nfl-fans-in-philadelphia/</link>
@@ -203,27 +212,6 @@ NASA’s on-demand streaming service with original content from the space agency
 Videos produced by NASA's Jet Propulsion Laboratory.
 
 NASA's Scientific Visualization Studio brings NASA science and data to life with visualizations, animations, and images.]]></description>
-  </item>
-  <item>
-    <title>NASA Awards Enterprise Logistics Support Services Agreements</title>
-    <link>https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-awards-enterprise-logistics-support-services-agreements/</guid>
-    <pubDate>Thu, 01 Oct 2026 20:34:27 +0000</pubDate>
-    <description><![CDATA[Editor’s Note: This release was updated on Oct. 2, 2026, to clarify company names.
-
-NASA selected 16 companies to provide Enterprise Logistics Support Services under new agreements that will standardize requirements, improve reporting, and streamline the management of costs and resources.
-
-The $1.4 billion blanket purchase agreements will support equipment and property management, transportation, disposal, product support, flight hardware support operations, equipment maintenance and repair, export control, move operations, flight hardware, and other material purchases.
-
-Under the General Services Administration’s One Acquisition Solution for Integrated Services Plus multiple-award blanket purchase agreements, NASA has the discretion to use firm-fixed-price, time-and-materials, labor-hour, or hybrid contract types.
-
-The five-year base ordering period begins Thursday and runs through Sept. 30, 2031. It is followed by three optional one-year ordering periods and a six-month option to extend.
-
-For more information about NASA and its programs, visit:
-
-Jennifer Dooren / Jessica TaveauHeadquarters, Washington202-358-1600jennifer.m.dooren@nasa.gov/jessica.c.taveau@nasa.gov
-
-Jamie MettlerStennis Space Center, Miss.228-813-6490jamie.m.mettler@nasa.gov]]></description>
   </item>
 </channel>
 </rss>
