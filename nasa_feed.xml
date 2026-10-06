@@ -4,7 +4,61 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Mon, 05 Oct 2026 23:32:00 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 04:08:57 GMT</lastBuildDate>
+  <item>
+    <title>Curiosity Blog, Sols 5029-5035: Back in the Lab</title>
+    <link>https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/</link>
+    <guid>https://science.nasa.gov/blog/curiosity-blog-sols-5029-5035-back-in-the-lab/</guid>
+    <pubDate>Tue, 06 Oct 2026 01:04:01 +0000</pubDate>
+    <description><![CDATA[Mars Science Laboratory Mission Team Members
+
+Written by Michelle Minitti, MAHLI Deputy Principal Investigator
+
+Earth planning date: Friday, Oct. 1, 2026
+
+The majority of Curiosity plans involve mosaics from Mastcam and ChemCam, chemistry analyses from ChemCam and APXS, images from MAHLI and MARDI, and systematic measurements from REMS, RAD, and DAN. It is only when we stop to drill that we fully live up to our Mars Science Laboratory designation, using CheMin and SAM to analyze Martian rock. This was one such week, where our focus was wrapping up CheMin analysis of a sample from the “Basque Lakes” drill hole (pictured above), preparing SAM for its analysis, and analyzing the sample with the SAM tunable laser spectrometer (TLS). The CheMin data were key to SAM deciding to analyze the sample at all, and SAM will wait to receive the results from the TLS run (measurement of the volatiles present) to decide if they want to follow up with a separate mass spectrometry analysis next week.
+
+The laboratory activities require a significant portion of the daily power budget of the rover so the rest of the payload largely takes a back seat during drill campaigns, a worthy trade for CheMin and SAM’s valuable data. However, using the power that was available, we gathered data to contextualize our drill location and continued our systematic environmental monitoring. Mastcam acquired a 360-degree mosaic of our surroundings to build a full picture of the geologic setting of the sample. Its color and improved resolution relative to Navcam also guided subsequent science requests, such as more focused Mastcam imaging of structures near the workspace, and ChemCam RMI imaging of the “Cordillera” butte. Mastcam, coupled with Navcam, also planned a series of seven photometry observations spread across fixed times of day. These observations evaluate how the observed spectral characteristics of targets change as the Sun angle on them changes. They help us better interpret images from the rover and from cameras in orbit. ChemCam gathered more chemistry data from the variety of materials in the workspace, from the Basque Lakes drill hole interior, to sand ripples ("French Creek”) covering the bedrock, to loose gray clasts of unknown origin (“Wooley" and “Fireside”) sprinkled across the workspace. Our environmental monitoring activities included regular REMS, RAD, and DAN measurements and Navcam and Mastcam monitoring of dust loading in the atmosphere, cloud activity, and dust-devil activity.
+
+Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+
+Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
+
+Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
+
+The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…]]></description>
+  </item>
+  <item>
+    <title>A Journey to the Depths of Ancient Mars?</title>
+    <link>https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/</link>
+    <guid>https://science.nasa.gov/blog/a-journey-to-the-depths-of-ancient-mars/</guid>
+    <pubDate>Tue, 06 Oct 2026 00:48:54 +0000</pubDate>
+    <description><![CDATA[Written by Alex Jones, Ph.D. candidate at Imperial College London
+
+After spending the last six months exploring “Lac de Charmes,” a region of ancient rock beyond Jezero crater’s western rim, Perseverance has stumbled upon a vast field of light-toned rocks peppering the Martian surface.
+
+Light-colored rocks are astrange sight on Mars, a planet dominated by dark-colored basaltic rocks. This many light-colored rocks in one place piqued the Science Team’s interest… what are they? How did they get here?
+
+To answer the first question, Perseverance has been investigating the composition and textures of these rocks. Data so far indicates that many of them are igneous rocks called gabbro, which are dominated by minerals rich in iron and magnesium. Such rocks typically form by slow cooling and crystallization of magma deep in the crust.
+
+So how did these deep fragments of Mars find their way to the surface?
+
+Perseverance has spent the last week trying to answer this question by investigating a patch of possible bedrock poking out between the light-toned boulders and loose regolith.
+
+Initial images suggest that the rock is made up of light- and dark-colored, angular fragments of rock, forming what geologists call a breccia. One possibility the team is investigating is that the light-toned boulders scattered across the hillside have eroded out of this breccia.
+
+Breccias often form through violent processes involving the fracturing and transport of rock to produce their angular shapes. Layers of breccia observed outside Jezero have previously been attributed toasteroid impacts on early Mars. Perhaps similar impacts (or the Jezero impact itself?) could be responsible for digging up these light-colored blocks.
+
+Only time (and of course, Perseverance), will tell.
+
+Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
+
+Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
+
+The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…
+
+The Mars Perseverance rover is the first leg the Mars Sample Return Campaign’s interplanetary relay team. Its job is to…]]></description>
+  </item>
   <item>
     <title>NASA to Stream SpaceX Crew-12 Return, Splashdown Live</title>
     <link>https://www.nasa.gov/news-release/nasa-to-stream-spacex-crew-12-return-splashdown-live/</link>
@@ -188,24 +242,6 @@ That’s how Richard Spolzino describes the thing he’s chasing. Not a title, n
 “For me, it kept coming back to where can I have the most impact? Where can my work touch the most things?“
 
 From History to AerospaceSpolzino didn’t set out to end up here.He started college as a history major. He switched to a physics track at Santa Clara University, thinking he’d end up in astrophysics. A research stint at Lick Observatory studying interstellar dust polarization taught him two things: the work was fascinating and, “I don’t think the staying-up-all-night thing is for me,” he says.Spolzino (on right) at Lick Observatory with his physics research adviser Dr. Kristin Kulas (left, front) and then-grad student Dr. Ilija Medan (back).Credit: Richard SpolzinoAfter graduation, he started down the path of Officer Candidate School in the Navy, hoping to fly jets. It didn’t pan out, and that detour led him to a graduate program at the University of Houston, combining aerospace engineering and space architecture — not the habitat-design kind of architecture people usually picture, but the systems-level kind, where a lunar oxygen plant connects to the rovers that feed it, which connect to the processor, which connects to the user drawing down the resource. “I was always more attracted to how all the pieces work together than to any single piece,” he says.Chasing ImpactAsk Spolzino if he dreamed of working at NASA, and the honest answer is no.“I really admire people who’ve had that drive their whole life,” he says. “For me, it kept coming back to where can I have the most impact? Where can my work touch the most things?” A University of Houston program with strong ties to Johnson Space Center put NASA on his radar alongside other options in industry and government. What ultimately drew him in wasn’t the agency’s name, it was the scope of the problems and the direct line he saw to senior decision-makers shaping the return to the Moon.That’s also, he adds, exactly why NASA is worth considering for people who aren’t sure it’s their calling yet. The culture rewards people willing to take on more than their assigned lane and gives early-career employees room to grow into problems bigger than their job description, something he says he might not have found moving up more slowly in industry.Documenting the Missing PieceSpolzino’s day-to-day work centers on a deceptively simple idea: the data gap.“You can think of it as synonymous with a knowledge gap,” he explains. “It’s a way of documenting the thing we don’t know.” Take the geotechnical properties of lunar regolith — moon dust, essentially, but the specifics matter enormously. How much weight can it bear? What’s its shear strength? Answering those questions shapes everything from how far a rover can safely drive to whether a habitat’s foundation will hold.A data gap lays that out formally: what we don’t know, why it matters, what we currently have that falls short, and, critically, a specific measurable target industry and international partners can aim for. “Once we’ve identified what’s missing,” he says, “our partners can look at that list and see exactly where their contribution would be valuable.”His team started with roughly 25 published data gaps last year. They’re on track for 60 by the end of this year.From Concept to CargoThe concept only matters if it changes decisions, and Spolzino cites two recent examples where it did.When the lunar lander company now known as Voyager (formerly Astrobotic) was preparing its upcoming Griffin-1 mission, the team didn’t help them figure out what instruments to fly since that was already locked in. Instead, Spolzino’s team helped them prioritize what data gets sent home first through a communication pipeline that can’t carry everything at once. “How do you prioritize all the things you say you want, and what gets sent back through that constrained pipeline?” he asks.Artist’s rendering of Astrobotic’s Griffin Mission One lunar lander delivering the FLIP rover to the lunar surface. The mission is part of NASA’s Commercial Lunar Payload Services (CLPS) initiative supporting future lunar exploration and technology demonstrations.Credit: AstrobioticOn the other side of the pipeline, Spolzino has spent recent months evaluating proposed instruments (spectrometers, sample collection tools, tech demonstrations) against the published data gaps to help leadership decide what’s worth flying. Some proposals map cleanly onto a documented need. Others d]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 October 4 – Supernumerary Rainbows over New Jersey</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-october-4-supernumerary-rainbows-over-new-jersey/</guid>
-    <pubDate>Sun, 04 Oct 2026 04:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:Yes, but can your rainbow do this? After the remnants ofHurricane Florencepassed over the Jersey Shore,New Jersey,USAin 2018,the Suncame out in one direction but something quite unusual appeared in the opposite direction: ahallofrainbows. Over the course of the next half hour, to the delight of the photographer and his daughter, vibrantsupernumerary rainbowsfaded in and out, with at leastfive capturedinthisfeatured single shot.Supernumerary rainbowsonly form when fallingwater droplets are all nearly the same sizeand typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, butinterfere, a wave phenomenon similar toripples on a pondwhen a stone is thrown in. In fact,supernumerary rainbowscanonlybe explained with waves, and their noted existence in the early 1800s was considered early evidence oflight's wave nature.Your Sky Surprise:What picture did APOD feature on your birthday?(post 1995)Tomorrow's picture:open space]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 October 3 – Selfie at Vera Rubin Ridge</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-october-3-selfie-at-vera-rubin-ridge/</guid>
-    <pubDate>Sat, 03 Oct 2026 04:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:On sol 1943of its journey of exploration across the surface of Mars, the Curiosity Rover recorded this selfie at the south rim of Vera Rubin Ridge. Of course a sol is aMartian solar day, about 40 minutes longer than an Earth day. Curiosity's sol 1943 correspondsto Earth dateJanuary 23, 2018. Also composed as aninteractive 360 degree VR, the mosaicked panorama combines 61 exposures taken by the smallcar-sized rover'sMars Hand Lens Imager (MAHLI). Frames containing the imager's arm have been edited out while the extended background used was taken by the rover's Mastcam on sol 1903. At the top of the rover's mast, sitting above the Mastcam, the laser-firing ChemCam housing blocks out the distant, 5 kilometer high peak of Mount Sharp.On Earth dateAugust 26, 2026, Curiosity marked an total elevation gain of 1 kilometer in its trek from the floor of Gale Crater up the slope of Mount Sharp.APOD's email for image submissions has changed.Please see:APOD Submissions.Tomorrow's picture:Sunday's Childe]]></description>
   </item>
 </channel>
 </rss>
