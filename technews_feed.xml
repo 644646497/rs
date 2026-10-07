@@ -4,247 +4,283 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 07 Oct 2026 02:55:25 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 10:37:46 GMT</lastBuildDate>
   <item>
-    <title>OpenAI 释出 722 篇数学论文手稿，未公开模型展现强大研究能量</title>
-    <link>https://technews.tw/2026/10/07/openai-releases-new-mathematical-results-produced-by-an-internal-frontier-model/</link>
-    <guid>https://technews.tw/2026/10/07/openai-releases-new-mathematical-results-produced-by-an-internal-frontier-model/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:54:37 +0000</pubDate>
-    <description><![CDATA[OpenAI 尚未推出的先进模型针对多项长期存在的数学难题做出解答，这些成果收录在一批论文手稿中，总共 722 份，并依相关主题整理成 372 项成果。这些突破性进展令数学界人士印象深刻、却又深感不安，也引发外界对于研究伦理与学术行为的种种疑问。
+    <title>放大分子「左右手」差异，Kagan 与硖合宪三获 2026 诺贝尔化学奖</title>
+    <link>https://technews.tw/2026/10/07/henri-kagan-and-kenso-soai-are-the-2026-nobel-prize-for-chemistry-winners/</link>
+    <guid>https://technews.tw/2026/10/07/henri-kagan-and-kenso-soai-are-the-2026-nobel-prize-for-chemistry-winners/</guid>
+    <pubDate>Wed, 07 Oct 2026 10:16:55 +0000</pubDate>
+    <description><![CDATA[瑞典皇家科学院今日宣布，法国巴黎萨克雷大学（Université Paris-Saclay）荣誉教授化学家亨利凯根（Henri B.Kagan）与日本化学家硖合宪三共同获得 2026 年诺贝尔化学奖，表彰两人在「不对称有机合成中的非线性效应与自催化」方面的发现，揭示微小的分子不对称如何被化学反应放大。
 
-今年 9 月，OpenAI 曾表示「模型已解决横跨数学领域大多数分支、超过 100 道长期存在的未解问题」。这次公布的论文及其细节，同时包含模型部分推理过程的摘要、使用运算资源的估算值、以及关于尝试处理问题的相关统计数据。
+许多有机分子就像人的左右手，互为镜像却无法完全重叠，这种特性称为「手性」（Chirality），两种镜像形式则称为「对映异构体」（Enantiomer），如何让合成反应优先产生其中一种，是不对称合成的重要课题，也与药物制造密切相关。
 
-OpenAI 指出，平均每一项成果消耗的算力，相当于 ChatGPT Pro 思考 3 小时的规模。
+凯根于 1930 年出生于法国，1954 年完成索邦大学与巴黎国立高等化学学校学业，1960 年取得博士学位，博士研究在法兰西学院进行，他长期任教于南巴黎大学（Université Paris-Sud），并于 1991 年当选法国科学院院士，是不对称催化领域的重要先驱。
 
-「针对本次发表，我们将成果发布于 GitHub 储存库，并附上论文修订与引用的相关协定。我们持续探索其他符合委员会准则、且由社群托管的替代方案。在未来的发表中，我们致力透过更完善的引用、数学论述以及成果呈现方式，进一步提升论文品质，以便各界理解」，OpenAI 表示。
+1971 年，Kagan 与 T. P. Dang 发表以手性双膦配体（Chiral Bisphosphine Ligands）搭配铑（Rhodium）的催化系统，让氢化反应偏向生成特定对映体，1986 年，他与团队进一步发现不对称合成的「非线性效应」，成为此次获奖的重要研究基础。
 
-这些研究成果带来的影响，可能需要一段时间才会显现出来，因为数学家需要加以评估并消化吸收。OpenAI 咨询了 AGMAI（Advisory Group on Mathematics and Artificial Intelligence，数学与人工智慧咨询小组），以精进与数学社群分享研究成果的方式，AGMAI 是由一群数学家组成、负责沟通研究成果的独立咨询小组。
+原本化学家预期，催化剂的手性偏向与产物的手性偏向应会呈线性关系，但 Kagan 的研究显示，部分反应会出现放大效果，即使使用混有两种对映体的催化剂，也能产生手性偏向更高的产物，这项发现提供了分析催化机制、改善合成方法的重要工具。
 
-实际上，AGMAI 9 月底即提出建议，敦促各家 AI 实验室应迅速释出数学方面的研究成果，并尽可能透过既有的学术管道发表，揭露如使用的模型名称、提示词及运算成本等细节。AGMAI 恳请各家 AI 实验室「勿将数学成果的发表当作宣传模型的行销工具」，认为这种做法已对数学界造成重大伤害。
+硖合宪三则于 1950 年出生于日本广岛，1979 年在东京大学师从向山光昭取得博士学位，之后赴美国北卡罗来纳大学教堂山分校，跟随 Ernest L. Eliel 从事博士后研究，1981 年，他加入东京理科大学建立研究团队，1991 年升任教授，目前为该校名誉教授。
 
-这次发表延续 OpenAI 近年来在数学领域的密集进展，OpenAI 先前曾宣布，其内部系统已在 Navier-Stokes 方程式相关问题上取得突破，并引发学界对 AI 是否真正具备创造性推理能力、以及研究成果应如何公开等讨论。]]></description>
+1995 年，硖合宪三与团队在《Nature》发表后来称为「硖合反应」（Soai Reaction）的研究，在二异丙基锌（Diisopropylzinc）与嘧啶醛（Pyrimidine carboxaldehyde）的反应中，生成的手性醇能参与催化自身生成，促进更多相同手性产物形成，随著反应持续，原本仅略占优势的对映体就能透过正回馈逐步拉开差距。
+
+后续研究更显示，衡量两种对映体比例差异的「对映体过量值」（ee），可由约 0.00005%，经三轮连续自催化反应提高至超过 99.5%，使产物接近单一手性。
+
+这项成果也为生命起源研究提供重要线索，天然蛋白质主要使用 L 型胺基酸，核酸中的糖则为 D 型，生命为何形成这种手性选择，至今仍是未解问题，硖合反应提供了微小不对称如何累积成明显优势的实验模型，至于原始地球实际采取哪一条化学路径，仍有待科学界厘清。]]></description>
   </item>
   <item>
-    <title>Meta 联手 Sierra 推行 AI 代理新标准，打造 AI 时代的「身分验证机制」</title>
-    <link>https://technews.tw/2026/10/07/meta-walmart-stripe-launch-open-standard-for-ai-agents/</link>
-    <guid>https://technews.tw/2026/10/07/meta-walmart-stripe-launch-open-standard-for-ai-agents/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:50:44 +0000</pubDate>
-    <description><![CDATA[Meta 与 AI 新创公司 Sierra 6 日宣布，与 Walmart、Stripe、Shopify、Genesys、Instinct、Rocket 等伙伴共同推动「Personal Agent Protocol」开放标准，试图为「个人 AI 代理」与企业互动建立规则。这项标准主打身分验证、权限控管与可视性，让企业分辨来访的是代表真实用户的 AI 代理，还是未经授权的机器人。
+    <title>无形的地球磁场，可能暗中影响生物老化方式</title>
+    <link>https://technews.tw/2026/10/07/tochondria-earth-magnetic-field/</link>
+    <guid>https://technews.tw/2026/10/07/tochondria-earth-magnetic-field/</guid>
+    <pubDate>Wed, 07 Oct 2026 10:15:11 +0000</pubDate>
+    <description><![CDATA[也许你从未留意地球生命一直活在地磁场背景下，这股看不见的力量不断穿过每个活细胞，但我们对生物是否需要磁场才能运作仍知之甚少。诺丁汉大学团队决定利用果蝇进行无磁场实验，惊讶发现地球磁场强烈影响细胞粒线体，可能是维持细胞能量平衡的隐形调节器，并揭示生命在「运动能力」与「寿命」之间存在精妙取舍。
 
-双方说法，这套协议以既有 OAuth 授权机制为基础，让消费者决定代理可取得哪些权限，如仅能读取帐户资讯，或可执行写入操作；企业也能自行设定代理可做的事，以及允许它用哪些管道连线。协议支援三种主要路径：经企业网站操作、采用 MCP 与 OpenAPI 等标准的 API 介接，或由企业自有代理接手处理需要对话的任务，如保固申请。
+我们习以为常、穿透万物的地球磁场是现代导航科技发展基础，也是两极地区产生美丽极光关键，但我们较少思考磁场是否高度参与生命演化轨迹。
 
-Sierra 共同创办人兼 OpenAI 董事长的布雷特·泰勒（Bret Taylor）表示，企业缺乏可靠方式判断来访的是人还是 AI 代理，使商务互动充满混乱；他将新标准比喻为以 Google 或 Facebook 帐号登入第三方网站的验证法，这能让企业更清楚掌握代理行为。Meta Superintelligence Labs 负责人 David Singleton 则指出，当 AI 代理需要处理信用卡与个人资料时，更需要高透明度与控制权的机制。
+诺丁汉大学兽医学院 Lisa Chakrabarti 教授团队为此做了个实验，将两组粒线体健康程度不同的果蝇放在几乎零磁场环境，发现地球磁场真切影响细胞内部能量工厂运作。
 
-这项协议也强调跨通路延续性：使用者可先以访客身分查询库存或退货政策，之后再登入并决定授权层级，同段互动会视为同次访问。双方表示，本月稍晚将发表 v0.1 规格，并举办设计工作坊与提供参考实作，协助开发者导入。至于支付功能、推播通知与更细致的权限设定，都列为后续扩充方向。]]></description>
+根据果蝇本身线粒体健康状态，零磁场实验产生截然不同后果：粒线体有缺陷的 Pink1 突变果蝇寿命竟延长 20%，但体能明显下降；粒线体功能健全的正常果蝇趋势相反，运动能力因此提升，寿命却也发生变化。
+
+该结果表明移除磁场带来的好处往往伴随坏处，活得久（长寿）与活得好（良好身体机能）并非绝对正相关；或者说，移除大部分磁场，可能在改善生命某面向的同时恶化另一面向，比如实验中带病果蝇的粒线体虽然效率降低导致能量产出减少（体能变差），但自由基也跟著减少并因此减缓老化速度，寿命延长 20%，这是一种「牺牲活力换取长寿」的代谢权衡。
+
+粒线体是细胞内负责产生生命所需大部分能量的微小胞器，而果蝇生命力变化取决于这套能量工厂健康状况，团队进一步对粒线体进行高解析度测量，发现移除磁场会改变粒线体能量代谢及超氧化物（Superoxide）浓度，导致不同健康状态的线粒体产生截然不同反应，也解释为何磁场屏蔽效果不能单纯归类为「有益」或「有害」。
+
+我们通常将磁场视为外部环境，但这项研究暗示磁场可能是细胞能量工厂运作不可或缺的参数，生命可能已在演化过程适应特定磁场强度，并将其纳入细胞代谢调控机制。]]></description>
   </item>
   <item>
-    <title>家登精密美国产线落成启用，在地抢攻半导体、航太市场商机</title>
-    <link>https://finance.technews.tw/2026/10/07/gudengs-us-production-line-completed-and-put-into-operation/</link>
-    <guid>https://finance.technews.tw/2026/10/07/gudengs-us-production-line-completed-and-put-into-operation/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:50:14 +0000</pubDate>
-    <description><![CDATA[半导体耗材暨解决方案整合服务商家登精密宣布，于美国 Arizona, Glendale 当地时间 10 月 6 日举行制造据点落成启用典礼，正式启动美国在地化生产布局。该产线将聚焦零件精密加工与品质检测能力建置，同时服务半导体、航太等产业客户，象征家登从台湾迈向全球制造的重要里程碑。
+    <title>运转 36 年走入历史：台中燃煤 1、2 号机退场，燃气机组接棒</title>
+    <link>https://technews.tw/2026/10/07/taichung-coal-fired-units-1-2-decommissioned-36-years-gas-fired-units-take-over/</link>
+    <guid>https://technews.tw/2026/10/07/taichung-coal-fired-units-1-2-decommissioned-36-years-gas-fired-units-take-over/</guid>
+    <pubDate>Wed, 07 Oct 2026 10:08:32 +0000</pubDate>
+    <description><![CDATA[台中电厂燃煤 1、2 号机正式走入历史。台电表示，两部机组已于 9 月 30 日停机，10 月 1 日正式除役并启动拆除工程，预计历时 28 个月、于 2029 年初完成；拆除后原址将衔接台中电厂二期新建燃气计划，随新燃气机组陆续加入供电，台中电厂也逐步推进「以气换煤」。
 
-家登集团董事长邱铭干表示，今天不只是新厂启用的日子，更是家登从台湾走向全球布局的关键一步。家登选择亚利桑那州，不仅因其完整的半导体与航太产业聚落，更看重当地优秀的人才资源，以及政府对先进制造与技术创新的长期支持。家登将以此为基础，持续强化在地服务能量，与客户共同成长。
+台电今（7）日举行拆除工程祈福仪式。台中电厂燃煤 1、2 号机装置容量合计 110 万瓩，自 1990 年陆续投入运转，服役 36 年期间累计发电近 2,800 亿度，长期支援中部产业及民生用电。随机组正式除役，台中电厂也开始进入既有燃煤机组逐步退场阶段。
 
-近年来，随著全球供应链重组及半导体产业在美投资加速，家登积极推动全球化布局。继日本久留米厂动土之后，家登善用原有美国亚利桑据点，建置初期零件加工产线，2026 年第四季正式投入营运，成为家登海外生产关键的第一步。
+此次拆除工程涉及大范围重件设备及高空作业，范围包括海水泵室区、锅炉房、汽机房，以及高度达 252 公尺的烟囱，各区域将同步施工。台电表示，工程期间将落实工安及环境维护要求，整体拆除作业预计 2029 年初完成。
 
-产线初期将导入 CNC 精密加工设备及量测设备，完成相关品质认证，并配置核心营运团队成员打造符合国际标准的在地制造能力。随著市场发展与稳健营运，未来将依客户需求逐步扩大产能与设备规模，强化海外供应链韧性与即时服务能力。家登除在地积极拓展航太及半导体产业之外，期待与在地社群建立长期伙伴关系，创造更多就业机会，促进当地与海外企业的双向回馈，并携手客户共同迎接下一波产业成长契机。]]></description>
+值得注意的是，燃煤机组退场的同时，台中电厂燃气机组也持续扩建。第一期新建燃气计划规画两部各 130 万瓩燃气复循环机组，合计装置容量 260 万瓩；台电规画后续再推动二期燃气计划，利用燃煤 1、2 号机拆除后原址及既有煤场空间，兴建 4 部燃气复循环机组，总装置容量约 550 万瓩以下。
+
+不只台中电厂，台电近年也同步推进兴达、大林、通霄及协和等燃气机组更新与扩建。根据台电官网资料，兴达电厂燃气机组更新改建计划规画设置 3 部燃气复循环机组，总装置容量约 390 万瓩，新 1 号机已投入商转，新 2、3 号机则持续推进；大林电厂新燃气机组也预计 2029 年投入商转。
+
+随 AI、半导体等产业带动用电需求持续成长，燃气发电也将成为未来电力供给的重要增量。行政院长卓荣泰日前表示，未来十年将有 25 部大型天然气发电机组上线，新增约 26 GW 燃气机组，以支应产业发展带来的新增用电需求。]]></description>
   </item>
   <item>
-    <title>元大投顾指台积电先进制程近期无对手，维持买进给目标价到 3,500 元</title>
-    <link>https://finance.technews.tw/2026/10/07/tsmcs-advanced-process-technology-has-no-rivals-recently/</link>
-    <guid>https://finance.technews.tw/2026/10/07/tsmcs-advanced-process-technology-has-no-rivals-recently/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:45:33 +0000</pubDate>
-    <description><![CDATA[因应AI强劲需求与先进制程产能满载，元大投顾发布最新个股报告，看好晶圆代工龙头台积电营运展望。报告指出，台积电在未来2至3年于先进制程及先进封装领域皆无具威胁性的竞争对手，因此维持「买进」评等，并将目标价由3,300元上修至3,500元。
+    <title>韩国「AI for All」计划 10 月试营运，SK 电信、Kakao、KT 各押不同 AI 入口</title>
+    <link>https://technews.tw/2026/10/07/ai-for-all-set-for-october-contest-as-sk-telecom-bets-on-calls-kakao-on-kakaotalk-and-kt-on-open-architecture/</link>
+    <guid>https://technews.tw/2026/10/07/ai-for-all-set-for-october-contest-as-sk-telecom-bets-on-calls-kakao-on-kakaotalk-and-kt-on-open-architecture/</guid>
+    <pubDate>Wed, 07 Oct 2026 10:00:13 +0000</pubDate>
+    <description><![CDATA[业界消息，获韩国科学技术资讯通信部「全民 AI 服务利用普及支援」计划（通称 AI for All）选定的 SK 电信、Kakao 与 KT 三个联盟，10 月开始试营运，依政府规划 12 月正式推出服务。三家最终都要提供能执行预约、申请与付款等实际任务的代理式 AI（Agentic AI），但起点各不相同。
 
-报告指出，台积电预计于10月15日召开2026年第三季法说会，在受惠成熟及先进制程产能利用率维持高档，预期第三季营运成果将优于财测区间（营收446亿至458亿美元、毛利率65%至67%）的上缘。其中，第三季营收上修至1.4772兆元（季增16.3%、年增49.2%），毛利率上修至67.3%，单季税后EPS由28.64元上修至29.03元。
+SK 电信以电信本业为基础，截至 2026 年 6 月约有 2,250 万门行动门号，除了 App 与网页，也能透过电话与简讯使用 AI，锁定不习惯使用智慧手机 App 的族群。服务以自研 AI 模型 A.X K2 为核心，搭配多个韩国国内模型，简单问题交给轻量模型、复杂任务则接上高效能模型。没有 API 串接的餐厅或机构，也将开发 AI 代替使用者拨打电话的功能。
 
-展望第四季，随著Rubin GPU正式放量，加上AI ASIC与采用N2制程的新款手机旗舰晶片持续出货，整体动能强劲。预估第四季N3与N2制程将分别贡献营收30%与15%。第四季营收预估上修至1.6621兆元（季增12.5%、年增58.9%），毛利率上修至68.1%，单季税后EPS预估上修至33.37元。
+Kakao 以多数韩国人使用的 KakaoTalk 为入口，让使用者在单一对话流程中申请公文件、预约设施，并使用金融、医疗与生活服务。联盟成员包括 LG Uplus、LG AI 研究院、LG 电子、LG CNS、Kakao Enterprise、首尔大学医院、新韩银行、Lunit 与 FuriosaAI。Kakao 已与韩国行政安全部在 KakaoTalk 经营「AI 国民秘书」，测试电子证明核发与公共设施预约，并 5 月加入语音介面。Kakao 目标是年底月活跃使用者（MAU）达 500 万、2027 年 1,000 万、2030 年 3,000 万。
 
-2027年制程调涨与资本支出扩增 获利挑战新高峰 资本支出方面，2026年预计维持上限640亿美元，2027年与2028年则分别大幅增至800亿美元与1,000亿美元（年增皆为25%），三年累计资本支出高达2,440亿美元。
+KT 则把入口网站、购物、房地产、教育与金融等服务整合成一个 AI 生态系，联盟包括 Daum、Musinsa、Zigbang、EBS、BC Card 等服务业者，以及 Upstage、Motif Technologies、NC AI、Saltlux 与 Rebellions，KT 称成员合计的服务接触点超过 6,000 万。核心概念「Ium Inside」把 AI 直接嵌入既有 App 服务，再串接到单一通用 AI 代理人；另以「Token Factory」在同平台操作多个国内模型，依任务类型与难度并兼顾品质与成本自动选用模型。KT 同样订下年底 MAU 500 万的目标，2027 年要建置可承载每月 2,000 万使用者的系统。
 
-此外，预估2027年先进制程报价将调涨5%至10%、成熟制程调涨0%至5%。在涨价效应与N2学习曲线改善带动下，预估2026年、2027年及2028年毛利率将分别站上67%、69%及71%。2026年与2027年全年的税后EPS预估亦分别上修至111.72元与157.29元。]]></description>
+韩国政府今年提供参与业者最多 512 颗辉达（NVIDIA）B200 GPU，2027 年预算案则为此计划编列 2,500 亿韩圜，1,700 亿韩圜用于取得约 2,000 颗 B200 等级的 GPU。不过计划只到 2030 年，政府支援结束后能否继续免费提供服务仍不确定。政府原本主打免费且不限用量，之后改为允许部分付费服务，2030 年后各业者预料须自行发展足以负担庞大营运成本的营收模式。]]></description>
   </item>
   <item>
-    <title>Jaguar Type 01 正式发表，仿佛走上时尚伸展台</title>
-    <link>https://technews.tw/2026/10/07/jaguar-type-01-official-launch/</link>
-    <guid>https://technews.tw/2026/10/07/jaguar-type-01-official-launch/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:43:19 +0000</pubDate>
-    <description><![CDATA[Jaguar 展开汽车史上极其罕见的「浴火重生」式革命，打出「Copy Nothing」口号终于推出首款量产车 Type 01，两年之间，这家车厂似乎已经转型成了时尚品牌。
+    <title>马斯克否认台积电将参与 Terafab，称将自建自营</title>
+    <link>https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/</link>
+    <guid>https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:50:59 +0000</pubDate>
+    <description><![CDATA[美国电动车厂特斯拉与美国太空探索科技公司（SpaceX）执行长马斯克今天表示，两公司合作的人工智慧（AI）晶片厂 Terafab 不会由台积电建造或营运，但台积电可承租部分厂区。
 
-如果说把买车当成是一种品味展现，而不只是移动工具，那 Jaguar 的话语权肯定很高。只是当年的英伦绅士，现在摇身一变，成为席卷各大时装秀展台的走秀主角。
+路透社报导，Terafab是特斯拉（Tesla）和SpaceX规划在美国德州打造的1座「庞大晶片制造厂」，用以生产AI晶片。
 
-尽管 Jaguar Type 01 拥有强大的性能规格，包含破千马力、350 kW 高速快充、七百公里续航和零百 3.2 秒等表现，但那些都只是这台车的基本属性，它真正的卖点全在「看得到的地方」。
+马斯克（Elon Musk）上周表示，他们曾与台积电讨论这项计划合作的可能性，但他未透露进一步细节。
 
-极致拉长的车头，隐约将 Jaguar 经典传承下来，却转化成金属锐利线条，不再是那个圆润老成的风格。23 吋钻石涂装轮圈搭配阳极处理黄铜饰板，还有抢眼夺目的双贯穿式尾灯，最简单的理解，就是从詹姆士．庞德，变成东尼．史塔克。以前的 Jaguar，是在舞会角落里，默默喝著马丁尼，现在的 Jaguar 则是跳上舞台喷香槟。
+然而，马斯克今天针对旗下社群媒体平台X有1则贴文表示，Terafab最可能结果是由台积电持有及营运，他回文说：「不，将由我们建造及营运这座晶片厂，这点毋庸置疑。」
 
-大部分车厂的内装，强调的是电动座椅、通风加热、分区空调或是大型萤幕，Jaguar Type 01 直接跳过这些，而是卖给你黄铜饰片、羊毛混纺 Kvadrat™ DuoWeave 顶级织品与顶级皮革的搭配，车主不用多做说明，就可以让客人一秒感受奢华。
+马斯克并补充表示：「台积电或许会承租Terafab部分厂区，如果他们有意愿的话，但仅止于此。」
 
-千万不要误会这台车华而不实，只有装饰，无论软硬体或电池控制，Type 01 全部都用上当前最尖端的技术，只是对 Jaguar 来说，那只是一台车该有的，他们真正想吸引的客户，是愿意透过车子展示自己独特品味的新客群。
+@herbertong @thejefflutz No, we will build and run the fab. Let there be ZERO doubt about that.
 
-这种销售策略和全新的品牌定位，还有待实绩验证，不过对于千万名车满街跑的台湾来说，这一台 Jaguar Type 01 在路上的吸睛程度绝对很够。台湾也已经开出 670 万元起跳预售价格，最快可能会在 2027 年下半年开始全球交付。
+Maybe TSMC subleases part of the Terafab if they want, but nothing more than that.
 
-Jaguar has unveiled the 2028 Type 01 sedan, the first in an onslaught of new products meant to revitalize the British automaker. The strikingly-styled Type 01 packs three electric motors producing a net 1015 horsepower and 1007 pound-feet of torque, enough to reach 60 in 3.1 seconds. Type 01 deliveries begin in mid-2027, and pricing is expected to land in the $120,000 to $130,000 range.
+— Elon Musk (@elonmusk)October 7, 2026
 
-— Car and Driver (@CARandDRIVER)October 7, 2026]]></description>
+Terafab伙伴之一、美国晶片制造业巨擘英特尔（Intel）的执行长陈立武今天稍早接受彭博（Bloomberg News）访问时说，英特尔仍将会是计划的一分子。
+
+台积电若在Terafab有任何参与，都可能对英特尔在计划中扮演的角色构成挑战。两公司皆未立即回复路透社的置评请求。]]></description>
   </item>
   <item>
-    <title>AI 加持 晶圆切割机厂 DISCO 出货额冲 6 成、创历史高</title>
-    <link>https://technews.tw/2026/10/07/disco-shipments-surge-60percent/</link>
-    <guid>https://technews.tw/2026/10/07/disco-shipments-surge-60percent/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:40:07 +0000</pubDate>
-    <description><![CDATA[AI 需求加持，日本晶圆切割机大厂 DISCO 上季（2026 年 7-9 月）出货额暴增六成，创下历史新高纪录。
+    <title>华为 LogicFolding 技术引关注，分析师看散热仍成最大考验</title>
+    <link>https://technews.tw/2026/10/07/huawei-logicfolding/</link>
+    <guid>https://technews.tw/2026/10/07/huawei-logicfolding/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:45:10 +0000</pubDate>
+    <description><![CDATA[随著高通与华为达成广泛专利交叉授权协议，市场对华为的「逻辑折叠」（LogicFolding）技术关注迅速升温。半导体分析师认为，这项技术仍存在散热问题，与高通、苹果持续制程微缩推动行动SoC性能提升的路线相比，仍有所不及。
 
-DISCO 6日盘后公布资料指出，因生成式AI需求旺，带动精密加工装置以及作为消耗品的精密加工工具出货维持高水准，上季（2026年度第二季、2026年7-9月）非合并（个别）出货额较去年同期暴增60.0%至1,239亿日圆，连续第三季呈现增长，季度别出货额超越2026年4-6月的1,165亿日圆、创下历史新高纪录。和前一季（2026年4-6月）相比，出货额季增6.4%，连续第四季呈现季增。
+华为LogicFolding将逻辑电路垂直堆叠，即使单一电路的电晶体密度未提升，也能增加整体运算密度。这种方式可缩短讯号传输路径，并利用细间距的垂直互连，间距甚至可缩小至微米级，让不同主动矽层能够以类似单一整合式晶片的方式运作。
 
-另外，上季DISCO非合并营收较去年同期大增38.9%至1,185亿日圆；和前一季相比，大增24.7%。
+华为宣称，透过双层垂直折叠架构设计，可使晶片的时脉缓冲器（Clock Buffer）数量减少超过50%，同时还能将时脉歪斜（Clock Skew）降低25%、布线长度减少约30%。
 
-DISCO会在产品完成验收后、才会将卖出的产品列入营收计算，因此营收通常会和实际的市场需求动向产生落差，而出货额和市场动向的连动性较高。]]></description>
+先前高通与华为达成广泛专利交叉授权协议，针对协议细节，高通也澄清自己在这项授权安排中并非净支付方（net payor），且相关协议与LogicFolding技术无关。
+
+同时，顾问机构Creative Strategies半导体分析师Austin Lyons在社群平台@Taog_1575中表示，LogicFolding所产生的散热负担，在许多方面与晶片背面供电网路（BSPDN）所面临的问题相似。BSPDN是将供电线路移至矽晶圆背面，同时让高速资料讯号线维持在正面。
+
+“Qualcomm and Huawei entered into a multi-year, broad patent license agreement that includes cross-licenses across a range of technology fields. The terms are confidential, but reports characterizing Qualcomm as a net payor on the license agreement are incorrect. In addition, assertions that the agreement is related to LogicFold are not accurate. Separately, Qualcomm has agreed to purchase certain Huawei non-cellular U.S. patents across multiple technology areas.”
+
+— Austin Lyons (@austinsemis)October 5, 2026
+
+Austin Lyons指出，即使透过限制设计规则、避免将高效能单元垂直堆叠，或透过缩短布线来降低功耗、实现较低的热密度，仍可能因散热能力下降而面临更严重的散热问题。这正是高通与苹果对于在行动晶片中采用LogicFolding没兴趣的主要原因。他也认为，华为可能要到2030年才能在制程效能上追平台积电N3E。
+
+谈到散热问题，华为强调LogicFolding所带来的散热负担并没有外界人士担心地那么严重，尤其是因为这项技术能以短距离的垂直混合键合连结，取代原本较长的平面导线。华为指出，典型核心互连长度可缩短约20%，部分关键路径甚至可缩短约70%。]]></description>
   </item>
   <item>
-    <title>ChatGPT 生图也要看广告了！OpenAI 测试视觉赞助内容，强调不影响 AI 回答</title>
-    <link>https://technews.tw/2026/10/07/openai-decides-chatgpt-would-be-better-with-more-sponsored-results/</link>
-    <guid>https://technews.tw/2026/10/07/openai-decides-chatgpt-would-be-better-with-more-sponsored-results/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:35:49 +0000</pubDate>
-    <description><![CDATA[OpenAI 5 日宣布，将进一步扩大 ChatGPT 的广告形式，准备将视觉广告引入图片生成结果中。这项新格式将以清楚标示的赞助内容呈现，并与使用者生成的图片分开显示。OpenAI 强调，广告不会影响 ChatGPT 的回答内容。
+    <title>全球避险基金龙头创办人示警，AI 泡沫恐接近破裂</title>
+    <link>https://finance.technews.tw/2026/10/07/global-hedge-fund-founder-warns-ai-bubble-bursting/</link>
+    <guid>https://finance.technews.tw/2026/10/07/global-hedge-fund-founder-warns-ai-bubble-bursting/</guid>
+    <pubDate>Wed, 07 Oct 2026 09:40:08 +0000</pubDate>
+    <description><![CDATA[全球避险基金龙头桥水联合公司（Bridgewater Associates）创办人达里欧警告，人工智慧（AI）处于「典型泡沫」，利率攀升后投资人将帐面财富落袋为安，AI 泡沫恐接近破裂。
 
-根据 OpenAI 的规划，这项测试将先在美国展开，对象为一小部分广告主，预计于 10 月稍晚开始。新广告形式主打以图片方式呈现产品灵感、使用情境或服务体验，让品牌能在对话与图片生成流程中接触潜在客户。这也是 OpenAI 自今年 2 月在 ChatGPT 推出赞助卡片以来，广告产品的又一次扩张。
+彭博报导，达里欧（Ray Dalio）今天在新加坡举行的富比士全球执行长大会（Forbes Global CEO Conference）指出，AI投资越来越依赖大规模举债融资，而利率持续攀升，这通常就是泡沫开始破裂的时间点。
 
-为支撑这条新的广告业务线，OpenAI 同步扩大成效衡量与归因合作伙伴网路，涵盖 AppsFlyer、Triple Whale、Adjust、DV Rockerbox、Northbeam、Branch、Singular、Kochava、Airbridge 与 Tenjin 等工具，并加入 Hightouch、Tealium、LiveRamp 等资料整合方案，让广告主可将既有的转换资料接入 ChatGPT Ads。OpenAI 也与 Fospha、Measured、INCRMNTAL 合作强化全漏斗衡量，并与 Haus、Measured、WorkMagic 推进地理区域实验。
+达里欧说：「我们目前还处在那个阶段之前，但正在接近。我认为已经近了。」
 
-在品牌安全方面，OpenAI 表示正与 DoubleVerify 及 Integral Ad Science 推进品牌适配性评估试点，协助广告主检视内容是否符合品牌调性。整体来看，OpenAI 正将 ChatGPT 从单纯的 AI 助理，逐步推向更完整的广告平台，这也意味著免费与低价方案的使用者未来将更频繁地接触到赞助内容。]]></description>
+科技巨头正在AI领域投入数千亿美元，而且越来越依赖债务融资。全球债券殖利率已攀抵数十年来高点，提高AI基础建设亟需巨额投资的融资成本。达里欧长期以来一直警告AI有泡沫。他发表上述评论之际，股票估值仍续攀升。投资人对科技公司获利前景的乐观情绪，推动标准普尔500指数和那斯达克指数本周创纪录新高。]]></description>
   </item>
   <item>
-    <title>Claude 正式登陆 Google Workspace，侧边栏直接编修三大办公软体</title>
-    <link>https://technews.tw/2026/10/07/claude-joins-google-workspace/</link>
-    <guid>https://technews.tw/2026/10/07/claude-joins-google-workspace/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:30:55 +0000</pubDate>
-    <description><![CDATA[Anthropic 正式宣布旗下 AI 助理 Claude 进驻 Google Workspace 生态系。全新推出的「Claude for Google Workspace」外挂目前以公测形式，开放给所有付费方案用户使用。此项整合让 Claude 常驻于 Google 文件、试算表与简报的侧边栏，使用者无须再频繁切换应用程式或分页，即可让 AI 读取当前档案并直接在原画面完成修改。
+    <title>GaN 满载、SiC 迎 V 型反弹，汉磊明年 AI 营收占比上看两成</title>
+    <link>https://technews.tw/2026/10/07/episil-targets-10-20-ai-revenue-share-2027-gan-sic-dual-growth-engines/</link>
+    <guid>https://technews.tw/2026/10/07/episil-targets-10-20-ai-revenue-share-2027-gan-sic-dual-growth-engines/</guid>
+    <pubDate>Wed, 07 Oct 2026 08:42:29 +0000</pubDate>
+    <description><![CDATA[AI 资料中心带动第三类半导体需求加速成长。汉磊总经理刘灿文表示，今年上半年 AI 相关营收占比约 5%，随 GaN 需求持续强劲，以及 SiC 逐步切入 AI 电源相关应用，预估下半年 AI 营收占比将提升至至少 10%，2027 年更有机会达 10%～20%。其中，GaN 下半年至明年产能预计维持满载，SiC 也随客户库存调整告一段落，营运呈现「V 型反弹」。
 
-根据 Anthropic 的说明，使用者可针对整份文件下达指令，或是先选取特定的文字、储存格与投影片区块进行局部处理。Claude 在三大办公软体中分别支援以下情境：
+汉磊今（7）日举行法人说明会。刘灿文表示，目前 AI 需求对 GaN 业务带动最为明显，其中又以 AI 资料中心为最大需求来源。公司预估，今年下半年 GaN 营收将较上半年成长 25%～30%，2027 年再成长 20% 以上；目前客户也持续提出扩产需求，公司正评估透过提升生产效率及后续投资增加产能。
 
-Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.
+汉磊目前 GaN 主要布局中低压市场，除了 AI 资料中心外，也涵盖无人机、车用及人型机器人。公司指出，目前客户产品约有 50% 应用于 AI 基础设施，其余也有部分与 AI 应用相关，随 AI 资料中心电力需求持续攀升，成为 GaN 业务主要成长动能。
 
-In Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands. https://t.co/se9wIS7vK1
+SiC 业务则开始明显回温。刘灿文表示，先前受到客户库存调整影响，今年上半年 SiC 表现相对低迷，不过目前库存调整已逐步告一段落，客户投片量开始增加，公司预估今年下半年 SiC 营收将较上半年成长约 120%，2027 年 6 吋 SiC 营收更将挑战年增 100%。
 
-— Claude (@claudeai)October 6, 2026
+刘灿文表示，目前 AI 需求主要反映在 GaN，SiC 在 AI 相关应用的贡献仍相对有限，不过随 AI 资料中心电源、SST 等高压应用发展，预期 2027 年相关需求将逐步浮现。
 
-为确保内容掌控权，该外挂提供两种运作模式。预设的「编辑前确认」会先显示 Claude 准备执行的动作，待使用者同意后才会套用；针对重度使用者提供的「全部接受」模式，则允许 Claude 直接完成一般内容编辑。不过，若操作涉及连结、外部图片、网址或存取权限的变更，系统仍会强制要求额外核准。所有变更皆会直接写入原始档案，并完整保留于版本记录中，方便随时复原。
+值得注意的是，汉磊也加速推进与世界先进合作的 8 吋 SiC，目前已有客户启动相关作业，另有约 5 家客户等待 Tape-out，公司目标今年底前进入风险试产。
 
-除了侧边栏整合，Anthropic 亦同步推出测试版的 Google 档案连接器，让使用者能直接在 Claude 专属的对话介面中建立与编辑 Docs、Sheets 及 Slides 档案。在资安管控上，Claude 会完全沿用使用者既有的 Google 共用设定；对于企业版用户，原有的合规 API、客户自管金钥与稽核汇出等安全控制机制也全数适用。
-
-目前，用户只需透过 Google Workspace Marketplace 进行一次性安装，即可全面启动文件、试算表与简报的 AI 升级。]]></description>
+汉磊今年上半年合并营收约 33.29 亿元，年增约 25%，每股 -0.57 元。公司表示，随 AI 需求持续成长，以及 GaN、SiC 业务动能升温，预期下半年营运表现将优于上半年。]]></description>
   </item>
   <item>
-    <title>第三季营收年增大幅成长 297%，美银、大摩维持川湖买进投资评等</title>
-    <link>https://finance.technews.tw/2026/10/07/bank-of-america-and-morgan-stanley-maintain-their-buy-rating-on-chuanhu/</link>
-    <guid>https://finance.technews.tw/2026/10/07/bank-of-america-and-morgan-stanley-maintain-their-buy-rating-on-chuanhu/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:30:41 +0000</pubDate>
-    <description><![CDATA[伺服器导轨龙头川湖公布最新财报，2026 年 9 月单月营收受高基期与部分零组件短缺影响，月减 31% 至新台币 44.64 亿元。但第三季营收仍大幅成长至 173.38 亿元，季增 60%、年增达 297%。外资法人美商美银（BofA）与摩根士丹利（Morgan Stanley）出具最新报告指出，短线营收波动不改长期竞争优势，看好 2027 年新一波 AI 专案启动，维持「买进」与「加码」评等，目标价最高看至新台币 15,000 元。
+    <title>美资料中心建设支出大飙 73%！年化达 850 亿美元，4 个月来增速加快</title>
+    <link>https://technews.tw/2026/10/07/us-spending-on-data-center-buildings/</link>
+    <guid>https://technews.tw/2026/10/07/us-spending-on-data-center-buildings/</guid>
+    <pubDate>Wed, 07 Oct 2026 08:40:52 +0000</pubDate>
+    <description><![CDATA[AI基础建设需求持续升温，美国资料中心建设支出也同步创下新高。根据美国人口普查局（U.S. Census Bureau）公布的8月建筑支出数据，私人资料中心建设支出年化规模已达849.5亿美元，较去年同期的490.5亿美元大增超过73%，不仅创下历史新高，年增速度更是自2025年4月以来最快。
 
-川湖公布2026年9月营收年增196%至44.64亿元，相较7、8月的高峰回落31%。报告分析指出，9月营收月减主因包含：
+据外媒Tom’s Hardware报导，8月资料中心建设支出的年增幅达73%，较5月的36.3%、6月的55.2%及7月的65.3%进一步加速，已连续4个月呈现加速成长。此外，一般办公室与资料中心建筑支出之间的差距已达391亿美元，创下人口普查局自2014年1月开始统计以来的最大差距。换言之，资料中心如今已成为私人办公室建筑支出的主要部分，占比约63%。
 
-尽管9月营收降温，川湖第三季总营收仍达173.38亿元，季增60%、年增297%，整体表现符合并稍微超越市场预期。
+值得注意的是，这项数据只反映资料中心「建筑本身」的投资，并未涵盖资料中心内部最昂贵的伺服器与机架，如「机架或伺服器」价值并不计入建筑支出，因此目前公布的849.5亿美元，并不能代表资料中心整体投资规模。
 
-报告强调，从川湖依法公告的7、8月自结财务数据来看，展现出极高的获利效益。包括8月营收64.66亿元，年增344%，税前净利48.26亿元，年增216%，净利38.19亿元，年增212%，单月EPS达40.07元，税前净利率与纯益率分别高达74.6%与59.1%。至于，7月营收64.07亿元，年增336%，纯益率达74.7%，单月EPS高达50.24元。总计7、8月双月累计EPS已达90.31元，仅两个月便超越第二季整季的EPS 74.38元。
+随著AI伺服器、GPU、网路设备及储存系统需求同步增加，实际投入资料中心的资金规模远高于普查局目前统计的数字。尤其AI资料中心对高效能运算设备及电力基础建设的需求远高于传统资料中心，使得单一资料中心的建置成本持续攀升。
 
-外资还认为，川湖9月营收回落属于正常的月度波动，不影响长期AI伺服器规格升级趋势。随著第四季新专案发酵及2027年AI需求延续，川湖凭借全球导轨龙头地位与专利壁垒，中长期营运动能依然充沛。]]></description>
+除了资料中心外，电力建设也是美国基础建设投资的重要成长来源。8月电力建设支出年增9.7%，原因之一正是资料中心对电力需求快速攀升。由于AI伺服器的运算密度及功耗远高于传统伺服器，资料中心业者不仅需要兴建更多机房，也必须同步扩充电力供应、输电及相关基础设施。
+
+近期美国资料中心对电力需求的快速增加，也受市场关注。例如Black Hills日前宣布，计划在2027至2029年投入18亿美元，为位于怀俄明州夏延（Cheyenne）的Google资料中心开发新的发电能力，反映科技业者正积极寻找稳定且充足的电力来源，以支撑AI资料中心扩张。
+
+报导指出，随著AI需求推升硬体成本，伺服器支出同样正在增加，人口普查局的数据其实只呈现整体投资的一部分。不过，资料中心建筑支出持续加速，仍是市场未来发展方向的重要指标。美国人口普查局预计将于11月2日公布9月建筑支出数据，届时资料中心建设支出是否延续目前连续4个月加速的趋势，将成为观察AI基础建设投资热度的重要指标。]]></description>
   </item>
   <item>
-    <title>苹果找 LG 扩智慧家庭版图，门铃、门锁、摄影机都要来</title>
-    <link>https://ccc.technews.tw/2026/10/07/apple-lg-smart-home/</link>
-    <guid>https://ccc.technews.tw/2026/10/07/apple-lg-smart-home/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:22:26 +0000</pubDate>
-    <description><![CDATA[苹果准备进一步扩张智慧家庭生态系，据《彭博社》报导，苹果正与 LG Electronics 合作开发一系列智慧家庭配件，未来可望与即将推出的 Home Hub，以及其他苹果家庭装置整合使用。
+    <title>Windows 11 26H2 瘦身有感，搭配 Rufus 工具大幅降低记忆体占用</title>
+    <link>https://technews.tw/2026/10/07/windows-11-consumes-only-16-percent-of-ram-on-a-16gb-system/</link>
+    <guid>https://technews.tw/2026/10/07/windows-11-consumes-only-16-percent-of-ram-on-a-16gb-system/</guid>
+    <pubDate>Wed, 07 Oct 2026 08:24:23 +0000</pubDate>
+    <description><![CDATA[微软 9 月底释出的 Windows 11 26H2 版本更新，成功朝著降低整体记忆体用量又再迈进一步。一名来自日本的使用者借助开源 Windows 工具 Rufus，成功将自身记忆体使用率压低至仅约 16%。
 
-据 LG 向美国联邦通信委员会（FCC）与 UL Solutions 提交的文件，目前开发中的产品包括有线影像门铃、恒温器、智慧门锁、温度感测器、室内与户外安全摄影机，以及投光灯摄影机。
+X 平台一名推友 @soyaakinohara6 使用的电脑，是大多数使用者都会认为相当老旧的硬体。从截图的工作管理员可清楚看出，Windows 11 系统运行在 16GB 容量、以 2,133MHz 运作的 DDR4 记忆体，其中只有 2.5GB 被占用，在闲置状态下记忆体使用率仅约 16%。
 
-虽然相关文件并未直接提及苹果，LG 也要求 FCC 对部分细节保密，但《彭博社》指出，这批产品将由 LG 制造并挂上 LG 品牌，苹果则有参与产品开发。
+相较之下，例如全新 Dell XPS 13 这类配备 8GB 记忆体的 Windows 11 笔电，什么事都没做的情况下，便已耗用 70% 记忆体，这也凸显出 Windows 11 系统还有很大的进步空间。
 
-这种合作模式可以让苹果在不必自行负担所有硬体生产与售后支援成本的情况下，快速扩充智慧家庭产品线；同时，苹果仍可参与产品设计、功能规划与工程开发，进一步掌握整体使用体验。
+所幸 @soyaakinohara6 运用 Rufus 更进一步，Rufus 这款开源 Windows 工具，提供能减少不必要内容的选项，可以用来制作开机随身碟。
 
-苹果预计将在 10 月 13 日发表传闻已久的 Home Hub、新款 Apple TV 4K，以及新一代 HomePod mini，不过 LG 这批智慧家庭配件还需要几个月时间才会正式推出。
+「我用 Rufus 删除了所有预装软体，然后安装了另一个版本，进一步套用 26H2 之后，Windows 11 的记忆体用量降低到前所未有的程度」，@soyaakinohara6 在贴文写到。
 
-LG 部分装置将支援 Wi-Fi、蓝牙、Thread 与 Matter，其中智慧门锁还将加入 UWB 超宽频，可支援近距离自动解锁功能。
+rufusを使ってブロートウェアを全て削除し他バージョンをインストールし、さらに26h2を适用することによってwin11のメモリが见たことないくらい削减されてる https://t.co/u5goPDCo99
 
-苹果与 LG 过去已有多次合作经验，包括采用 LG Display 面板，以及过去与 LG 合作推出专为 Mac 设计的 4K、5K UltraFine 显示器。
+— 秋ノ原窓也@第六拠点 (@soyaakinohara6)October 6, 2026
 
-值得注意的是，LG 过去并不算智慧家庭配件市场的主力品牌，但该公司 2024 年已收购智慧家庭平台 Homey 的多数股权，近年明显积极强化相关布局。若这批产品顺利推出，也可能让 LG 进一步与三星 SmartThings、Amazon Ring、Google Nest 等品牌正面竞争。]]></description>
+无论实际操作流程为何，@soyaakinohara6 做法确实成功降低 Windows 11 的记忆体用量。此外，另有推友分享使用 Windows 11 26H2 版本，启动搭载 32GB DDR4 记忆体的电脑时，占用的记忆体已降至 5GB~6GB 的水准。
+
+26H2、起动时にメモリが 5 ~ 6 GB になった。すげえ、Windows じゃないみたい… https://t.co/Uqc8ILQoaF
+
+— Mitsuharu Emoto (@mitsuharu_e)October 6, 2026
+
+对微软而言，如何在保留功能、安全性与相容性的同时降低系统负担，依旧是改善 Windows 11 使用体验的重要课题。]]></description>
   </item>
   <item>
-    <title>台 AI 供应链大举出海！台积电带头加码美国，台厂抢进东南亚</title>
-    <link>https://technews.tw/2026/10/07/tsmc-taiwan-company-spending/</link>
-    <guid>https://technews.tw/2026/10/07/tsmc-taiwan-company-spending/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:22:00 +0000</pubDate>
-    <description><![CDATA[随著全球人工智慧（AI）运算基础设施需求持续攀升，台湾企业加快海外投资脚步，积极建立足以因应强劲需求的供应链，目前投资主要集中在美国与东南亚。
+    <title>美光桃园工会宣布，透过会员投票取得罢工权</title>
+    <link>https://technews.tw/2026/10/07/new-developments-in-the-micron-taiwan-strike-case/</link>
+    <guid>https://technews.tw/2026/10/07/new-developments-in-the-micron-taiwan-strike-case/</guid>
+    <pubDate>Wed, 07 Oct 2026 08:00:24 +0000</pubDate>
+    <description><![CDATA[台湾美光 mttw 工会于 7 日宣布，经过会员 6 天投票与开票作业，已正式高票取得罢工及设置罢工纠察线的权利。本次投票领票名册共 2,258 人、实际投票 2,012 人，其中同意票 1,994 张、不同意票 14 张、废票 4 张，投票率达 89.1%，全体会员同意票占比高达 88.3%，占投票人数比例更高达 99%。
 
-日经指出，台积电正带头扩大在美布局，并于七月追加1,000亿美元投资，使得在美投资总额达到2,650亿美元。同时，台积电计划再增加4座先进半导体晶圆厂，使其在美国设施数量达到12座。
+工会指出，这场抗争的核心并非单纯要求更多奖金，而是「要求企业公平分配成果」。工会质疑内部奖酬机制呈现「风险全员化，利益高层化」的巨大落差。以2025年为例，台湾员工的绩效奖金（IPP）约为2.3至2.6个月，但执行长当年的现金绩效奖励却高达32.4个月；在股票奖励（RSA）方面，2025年全球员工平均获派约207股，执行长一人即获得83,015股，相差约400倍。即便在2023年公司大亏损且裁员近15%期间，执行长仍获得约225,000股RSA，约为全球员工平均值的570倍。
 
-负责组装伺服器的台湾电子厂也持续增加投资，如广达上月获主管机关核准，将向美国子公司注资9.73亿美元，该公司透过旗下子公司在田纳西州负责伺服器及周边设备组装；纬创上月也获得主管机关核准，将向一家负责印刷电路板组装的美国子公司注资1.5亿美元。此外，纬创也向另一家美国子公司注资，投入最高1.46亿美元，用于翻修德州厂房及安装设备；英业达同样获准注资1.1亿美元，以支援其在美国的伺服器组装业务。
+为解决利益分配过度集中问题，工会提出四大诉求核心，主张建立「营业利益15%的员工分润制度」。工会表示，美光过去曾实施过以季度净利10%分红的制度，证明获利分享完全可行。此外，国际竞争对手如三星（Samsung）、SK海力士（SK Hynix），以及台湾半导体同业台积电、南亚科、华邦电、力积电等，皆已建立与经营成果连动的常态分红机制。
 
-台湾经济部上月表示，台湾主要企业已宣布的美国投资计划合计达550亿美元。截至5月，约有20家半导体、伺服器及其他相关企业（不包括台积电）已宣布累计350亿美元的投资。
-
-台湾资策会产业情报研究所（MIC）今年4月预估，到2030年，美国将占台湾企业AI伺服器产能的40%，高于今年的23%。台湾所占比重则预计从47%降至30%，排名将落后美国；墨西哥比重也预计从30%降至15%。
-
-在东南亚，台湾企业同样持续扩充AI伺服器量产零组件的生产能力，包括电路板与散热零组件等。散热零组件厂奇𬭎上月表示，将投资新台币77.8亿元在越南兴建新厂；铜箔基板（CCL）厂台燿则将投入77.9亿泰铢（约2.318亿美元），扩大泰国子公司的产能，包括兴建新厂与安装新设备；印刷电路板厂华通与臻鼎科技等企业，也都已宣布相关投资计划。
-
-封测大厂日月光投控上月表示，新加坡子公司已购入约12.6亿元的生产设备，同时决定以约21.5亿元收购一座工厂；鸿海旗下的讯芯科技则于8月表示，将投资最高6,500万美元，在越南设立半导体生产线，涵盖布线形成等制程。
-
-报导指出，台湾今年1至8月自东协（ASEAN）成员国进口金额达704亿美元，年增75.4%。台湾财政部表示，进口大幅成长主要受到AI供应链日益分散至不同地区后，零组件需求持续增加所带动。]]></description>
+工会强调，员工并非要求无条件奖金，而是期待建立公开、透明且反映实际获利的制度，与公司形成利益共同体。因美光将于美国时间10月8日至9日召开董事会，工会特别呼吁公司董事会重视并正面回应诉求，拿出具体方案进行对等协商。]]></description>
   </item>
   <item>
-    <title>SpaceX 拟筹 400 亿美元资金，目标购入大量辉达晶片以打造 AI 算力基建</title>
-    <link>https://finance.technews.tw/2026/10/07/spacex-looks-to-raise-40bn-to-buy-nvidia-chips-in-financing-led-by-apollo/</link>
-    <guid>https://finance.technews.tw/2026/10/07/spacex-looks-to-raise-40bn-to-buy-nvidia-chips-in-financing-led-by-apollo/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:20:54 +0000</pubDate>
-    <description><![CDATA[外媒报导，马斯克旗下太空探索公司 SpaceX 欲筹资 400 亿美元，由阿波罗全球管理（Apollo Global Management）主导这笔融资，资金用途锁定采购辉达（Nvidia）晶片。这笔交易为 AI 基础设施与运算硬体支出持续扩大的最新例证。
+    <title>Google 全新模型 EmbeddingGemma 2 登场，Mac 离线 AI 工具轻松整合个人知识库</title>
+    <link>https://technews.tw/2026/10/07/google-mac-ai-app/</link>
+    <guid>https://technews.tw/2026/10/07/google-mac-ai-app/</guid>
+    <pubDate>Wed, 07 Oct 2026 07:50:36 +0000</pubDate>
+    <description><![CDATA[Google 于 6 日正式宣布推出全新的 EmbeddingGemma 2 模型，主打让使用者能直接在一般消费级装置上，无缝搜寻、整理并连结文字、图片、音讯与影片等多模态资讯。这项技术最大的亮点在于资料处理全程于「装置端」（On-device）独立完成，完全无须仰赖云端连线。该模型奠基于 Gemma 4 架构，具备 7.4 亿参数，并采用 Apache 2.0 开源授权，旨在确保即使在运算资源受限的环境下，依然能维持强大的本机推论效能。
 
-SpaceX 规划以多元债务工具筹措资金，约 100 亿美元可能来自银行贷款，另有约 300 亿美元将以投资级债务形式发行。阿波罗将负责带领交易，并协助将债务销售给更多投资人。债券基金 Pimco 也被提及为洽谈参与融资的贷方之一。
+为具体展示新模型的强大潜力，Google 同步推出了一款专为 Mac 打造的实验性应用程式 AI Edge Foresight，深度锁定智慧笔记与个人知识检索两大应用情境。在进行视讯或实体会议时，这款应用程式会在背景安静运作；使用者只需随手记下简短的关键字提示，系统便会自动结合即时生成的会议逐字稿，瞬间将这些速记扩充为语意通顺且完整的笔记。最重要的是，所有音讯与逐字稿均严格限制在本机处理，绝不上传云端，为商务与个人隐私提供最高层级的保障。
 
-新融资仍在协商阶段，条件尚未定案，最快预估 2027 年才会完成。SpaceX、阿波罗、辉达与 Pimco 截至报导时都未立即回应置评请求。]]></description>
+除了会议记录，AI Edge Foresight 也能化身专属的个人知识库。使用者可将其连结至专案资料夹、参考文件、图表与行事历，并全面支援本机档案及 Google Drive。透过对话式的检索与摘要功能，使用者能直接向系统提问，快速精准地找出所需资讯。此外，Google 更加码导入了「即时助理」（Live Assistance）功能，让应用程式能持续聆听工作脉络，并自动回答使用者的问题，免去手动翻找档案的繁琐过程。
+
+在硬体资源占用方面，Google 强调经过量化处理后的 EmbeddingGemma 2 负担极低。以 Google Pixel 11 Pro 为例，纯文字版权重仅需占用约 191MB 的活动记忆体（RAM），而完整的多模态版本也仅需约 567MB。除了 Mac 版的展示工具，手机端的 Google AI Edge Gallery 也将迎来「Instant Media Search」（即时媒体搜寻）与「Video Moments Finder」（影片片段寻找）两项全新升级，让使用者能透过文字或图片，轻松在本机媒体库中搜寻内容，甚至一键定位特定的影片片段。]]></description>
   </item>
   <item>
-    <title>亚马逊测试「About You」功能，购物纪录透露你的生活偏好</title>
-    <link>https://technews.tw/2026/10/07/amazon-about-you/</link>
-    <guid>https://technews.tw/2026/10/07/amazon-about-you/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:15:51 +0000</pubDate>
-    <description><![CDATA[亚马逊（Amazon）近日推出的「About You」功能，让消费者得以直接查看平台根据自身行为建立的个人档案，也意外掀起社群热议。这个页面会依据使用者的购买纪录、搜寻内容、收藏清单、商品评论，以及 Alexa 购物助理的对话内容，推测出各种偏好与生活习惯，并提供使用者自行修改或移除部分资讯。
+    <title>最熟悉的软体最危险！Linux 后门冒充台韩企业常用「邮件安全产品」躲避侦测</title>
+    <link>https://infosecu.technews.tw/2026/10/07/linux-backdoors-impersonate-email-security-tools-to-evade-detection-in-korea-and-taiwan/</link>
+    <guid>https://infosecu.technews.tw/2026/10/07/linux-backdoors-impersonate-email-security-tools-to-evade-detection-in-korea-and-taiwan/</guid>
+    <pubDate>Wed, 07 Oct 2026 07:40:22 +0000</pubDate>
+    <description><![CDATA[资安公司 Rapid7发现，针对韩国与台湾电信及网路装置的 Linux 后门程式，会把流量伪装成电子邮件服务，并冒用当地常见邮件安全产品的名称，以躲避侦测。
 
-这个功能目前仍处于测试阶段，并已整合进亚马逊的购物 App、行动版网页与桌面版介面。使用者可在帐户中的购物偏好设定里找到「About You」，查看亚马逊对自己的判断。桌面版可从右上角的帐号区进入，手机 App 则可依序点选帐号、购物偏好与 About You。
+据 The Hacker News 报导，Rapid7 分析的这批后门，不只沿用恶意程式借用合法系统元件名称的常见手法，而是直接冒充在韩国与台湾企业环境中广泛使用的电子邮件安全产品 SpamSniper 与 ShareTech。SpamSniper 由韩国厂商 Jiran Group 推出，官方宣传为「韩国领先的电子邮件安全方案」。
 
-引发讨论的关键，在于亚马逊列出的内容不只包含一般性的兴趣或消费倾向，还出现相当具体、甚至令人啼笑皆非的推测。Threads 使用者 Megan Montgomery 表示，她意外看到亚马逊对自己的多项假设，包括曾为〈妙妙犬布丽〉（Bluey）主题生日派对做准备、可能拥有 Shark 扫地机器人，甚至被标注为「有扁屁股」。其他网友也分享类似经验，有人被判定「丈夫腿很细」、有人被写成「受惊时会飙脏话」，还有人被推测喜欢「有肌肉的黑发美女」。
+样本包括用于攻击韩国目标的新版 BPFDoor 变种与一个 BPF Rekoobe 版本，以及一款先前未曾公开、被命名为 AVERAT 的 Linux 植入程式，后者透过投放器（dropper）部署在台湾的装置上。Rapid7 指出，针对韩国的 BPFDoor 变种会冒用 SpamSniper 的 PID 档，并轮替使用十个 Linux 常驻程式名称；另有样本将行程命名为「ora_ppmond」，模仿 Oracle 资料库 PMON 背景行程的命名惯例。
 
-亚马逊先前已将这项功能定位为协助 AI 更精准媒合商品的工具，让推荐结果更贴近个人需求。不过，当平台把这些推测以清单形式摊在使用者眼前时，也让外界更直观地看见电商平台搜集与分析个资的深度。对不少人来说，这不只是购物推荐的升级，也是一面照出自己数位足迹的镜子。]]></description>
+BPFDoor 利用伯克利包过滤器（BPF）检查进入的网路流量，只在侦测到特定「魔术封包」时才启动，相关活动先前被连结到代号 Red Menshen 的组织，该组织自 2021 年起即锁定中东与亚洲电信业者。Rapid7 表示，在资安厂商针对其第四层异常写出 Suricata／Snort 静态特征后，攻击者转向边缘代理伺服器，把魔术封包包进标准 HTTPS POST 请求，并利用电信环境常见的 SSL 卸载，可能借此躲过传统深度封包检测。触发后会启动 TinyShell 工作阶段，而 TinyShell 过去曾被归属于 Liminal Panda、UNC3886 与 Velvet Ant 等与中国有关的组织。
+
+▲ 透过边缘代理伺服器的 BPFDoor HTTP 隧道触发流程概述。（Source：Rapid7）
+
+AVERAT 的投放器藏在 ShareTech 装置的附加套件目录中，以「ShareTech」字串推导加密金钥，解密后部署两个执行档，并在 10 秒后删除。AVERAT 以简易邮件传输协定（SMTP）作为命令与控制（C2）通道，每 600 至 699 秒经 TCP 25 埠连线 C2 伺服器，支援目录列举、档案上传下载、互动式 shell、重新开机、载入模组与开启代理通道等指令。Rapid7 指其 C2 基础设施特征符合作业中继盒（ORB）网路，但没有证据显示属于任何已知的 ORB。
+
+Rapid7 建议企业检查不需要封包撷取的 Linux 系统上是否有异常的原始封包 socket 与 BPF 过滤器、稽核非邮件服务行程对外的 TCP 25 埠连线、扫描伪装成常见常驻程式的行程，并限制路由器、DVR 等边缘装置的管理存取。该公司表示，这些样本的共同点是「区域化伪装」，每一个样本都清楚目标系统上执行的是哪家厂商的软体。]]></description>
   </item>
   <item>
-    <title>AI GPU 与 ASIC 测试介面需求带动，外资花旗与大和都给予颖崴买进评等</title>
-    <link>https://finance.technews.tw/2026/10/07/foreign-investors-citigroup-and-daiwa-both-gave-yingwei-a-buy-rating/</link>
-    <guid>https://finance.technews.tw/2026/10/07/foreign-investors-citigroup-and-daiwa-both-gave-yingwei-a-buy-rating/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:10:31 +0000</pubDate>
-    <description><![CDATA[测试介面厂商颖崴公布 2026 年 9 月合并营收，金额为新台币 12.5 亿元，虽月减 26.7%，但年增达 87.7%；累计第 3 季单季营收达 45.6 亿元，季增 29.3%、年增 152.6%，刷新单季历史新高。对此，包括花旗（Citi）与大和证券（Daiwa）发布最新研究报告指出，9 月营收拉回主因探针卡（Probe Card）专案阶段性交货完成，并非客户砍单或市占率下滑。两大外资看好在 AI GPU 与 ASIC 测试介面需求带动下，产品组合优化将推升毛利率逐季回升，双双重申「买进」评等。
+    <title>记忆体涨价打击入门机款，苹果顺势登欧洲电信商通路市占第一</title>
+    <link>https://technews.tw/2026/10/07/memory-ow-end-smartphone/</link>
+    <guid>https://technews.tw/2026/10/07/memory-ow-end-smartphone/</guid>
+    <pubDate>Wed, 07 Oct 2026 07:33:34 +0000</pubDate>
+    <description><![CDATA[全球记忆体价格上涨正改变欧洲智慧手机市场结构，据调研机构 Counterpoint Research 最新报告指出，2026 年第二季欧洲智慧手机整体销量年减 8%，但电信商通路仅下滑 4%，表现明显优于开放市场的 11% 跌幅；在通路结构转变下，苹果也超越三星，成为欧洲电信商通路智慧手机市占第一。
 
-颖崴第3季营收表现亮眼，超出市场预估约6.7%至7%。报告分析，9月营收月减主因探针卡出货节奏与客户认证时程影响，由于该产品线单一客户集中度较高，随著主要专案短期出货完毕，第4季探针卡贡献预计保持淡季水准。大和证券预估，颖崴第4季营收将呈现季持平至小幅拉回。
+Counterpoint 指出，今年记忆体价格危机对低阶入门智慧手机市场冲击尤其明显，由于电信商通路多采合约购机，产品组合也较偏向中高阶机种，因此相较高度仰赖低阶产品的开放市场，受到的影响较小。
 
-尽管探针卡出货放缓影响短期营收冲刺，但外资一致认为这有利于产品组合改善。随著毛利率较低的MEMS探针卡占比下降，加上高毛利的AI与HPC测试座（Socket）拉货动能强劲，颖崴毛利率已于2026年第2季触底。受惠于同轴测试座（Coaxial Socket）与系统级测试（SLT）方案渗透率持续提升，毛利率有望逐季回升，甚至有机会提早达到40%的目标。
+从品牌表现来看，苹果第二季在欧洲电信商通路的市占由去年同期 33% 升至 37%，三星则由 39% 降至 34%，也让苹果正式超车三星、跃居第一。
 
-在产能规划方面，大和证券指出，颖崴新增的测试座产能预计于2027年3月上线，相关营收将于2027年第2季开始显现，为中长期成长注入新动能。因此，重申「买进」投资评等，目标价设为 10,000元。而花旗证券也重申「买进」投资评等，目标价维持在 11,500元，主因看好其在顶级AI GPU测试供应链的坚实地位。]]></description>
+除了苹果之外，vivo 与 Motorola 也在电信商通路缴出亮眼成绩。其中 vivo 销量年增 90%，Motorola 则年增 27%，成为成长幅度最大的两个品牌。
+
+Counterpoint 认为，欧洲电信商通路本身就较集中于苹果、三星、Google 等中高阶品牌，当记忆体成本上升压缩低阶机种生存空间时，反而进一步凸显电信商通路的相对优势。
+
+这样的趋势也与欧洲整体市场变化一致，Counterpoint 先前指出，2026 年第二季欧洲智慧手机出货量年减 10% 至 3,500 万支，创三年来第二季低点；其中西欧表现相对有撑，主要受苹果强劲表现与三星小幅成长支撑，但较依赖低阶机种的东欧市场则明显承压。
+
+Counterpoint 预期，随低阶智慧手机持续受到记忆体价格压力影响，未来几季电信商通路占比仍可能进一步提升。不过独立零售商近期也开始加大促销力道，有机会部分抵销涨价冲击，为开放市场带来支撑。]]></description>
   </item>
   <item>
-    <title>三星吃 AI 爆发红利  Q3 营业利益估激增 772%</title>
-    <link>https://technews.tw/2026/10/07/samsungs-q3-profit-seen-jumping-nine-fold/</link>
-    <guid>https://technews.tw/2026/10/07/samsungs-q3-profit-seen-jumping-nine-fold/</guid>
-    <pubDate>Wed, 07 Oct 2026 02:10:10 +0000</pubDate>
-    <description><![CDATA[AI 记忆体需求持续火热，三星电子（Samsung Electronics）获利可望大爆发。LSEG 统整 21 位分析师预估，三星 2026 年第三季（7-9 月）营业利益将达 106.1 兆韩圜（约 791 亿美元），较去年同期 12.17 兆韩圜暴增 772%，并连续四季改写新高。
+    <title>骇客挟持三国顶级网域，替 Google 等大型服务伪造 TLS 凭证</title>
+    <link>https://infosecu.technews.tw/2026/10/07/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</link>
+    <guid>https://infosecu.technews.tw/2026/10/07/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</guid>
+    <pubDate>Wed, 07 Oct 2026 07:30:07 +0000</pubDate>
+    <description><![CDATA[外媒 Ars Technica 报导，Google 6 日披露攻击者对 .gh、.sl 与 .as 三个国家代码顶级网域（ccTLD）发动连串攻击，接著窜改这些注册管理机构所核发特定网域的 DNS 纪录。取得收发这些网域流量权限后，攻击者替「数个 Google 网域」与「数个全球领先品牌与大量使用的线上服务」产生未经授权的凭证。
 
-路透社等外媒报导，全球科技巨头大举兴建AI资料中心，但记忆体产能扩张速度追不上需求成长，持续挹注三星晶片事业获利。摩根大通预估，三星今年HBM市占率将由去年的20%升至34%，进一步逼近SK海力士的46%。
+Google 表示，已更新 Chrome 浏览器，封锁所有确认是伪造的凭证，并与其他凭证授权机构（CA）合作，确保其他浏览器也采取相同措施。
 
-不过，近期记忆体报价涨势开始降温，三星后续获利动能面临考验。TrendForce预估，第四季传统DRAM合约价将季增10%至15%，涨幅明显低于第二季的60%。
+TLS 凭证是网站、信件伺服器与其他网际网路基础设施进行身分验证与加密保护的密码学凭据。这类 X.509 凭证以数位签章把一个身分（如 Google）绑定一把公钥，并同时绑定身分所属的特定网域。公钥公开可得，私钥只由网站营运者持有；连线时金钥相符，造访者就能确认自己连上的是真正的网站而非冒牌货。一旦攻击者握有未经授权的凭证，就能在密码学层面冒充受影响的基础设施。
 
-韩圜汇率也带来另一股逆风，今年第三季，韩圜兑美元累计升值14.3%。由于三星晶片销售均以美元计价，但财报以韩圜表达，当韩圜走升，换回本币的营收金额将减少，进而压缩获利空间。
-
-多名分析师认为，AI需求仍支撑记忆体景气，但报价涨势放慢、韩圜升值及中国记忆体厂竞争加剧，将是三星后续获利能否续创高的关键因素。
-
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+Google 并未说明旗下哪些网域受影响，也没有点名其他受害组织。Google 同时提醒浏览器使用者与网域拥有者，无法确定已找出所有伪造凭证，并建议网域拥有者检查 TLS 透明度纪录（transparency logs），确认是否有人替自己拥有的网址签发过凭证。]]></description>
   </item>
 </channel>
 </rss>
