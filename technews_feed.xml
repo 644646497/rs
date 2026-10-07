@@ -4,221 +4,247 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 06 Oct 2026 23:23:17 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 02:55:25 GMT</lastBuildDate>
   <item>
-    <title>AI 改变软体收费逻辑，旧财务架构难应付「以量计价」新挑战</title>
-    <link>https://finance.technews.tw/2026/10/07/ai-fundamentally-changes-software-pricing-most-financial-systems-arent-prepared/</link>
-    <guid>https://finance.technews.tw/2026/10/07/ai-fundamentally-changes-software-pricing-most-financial-systems-arent-prepared/</guid>
-    <pubDate>Tue, 06 Oct 2026 23:20:55 +0000</pubDate>
-    <description><![CDATA[人工智慧正在改写软体产业的收费逻辑，同时也让许多企业的财务基础设施暴露出明显的落差。软体定价从传统固定订阅，转成以用量、代币、信用额度与成果为基础的模式，原本为固定价格、可预测方案设计的营收系统，已难即时且准确反映新交易结构。
+    <title>OpenAI 释出 722 篇数学论文手稿，未公开模型展现强大研究能量</title>
+    <link>https://technews.tw/2026/10/07/openai-releases-new-mathematical-results-produced-by-an-internal-frontier-model/</link>
+    <guid>https://technews.tw/2026/10/07/openai-releases-new-mathematical-results-produced-by-an-internal-frontier-model/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:54:37 +0000</pubDate>
+    <description><![CDATA[OpenAI 尚未推出的先进模型针对多项长期存在的数学难题做出解答，这些成果收录在一批论文手稿中，总共 722 份，并依相关主题整理成 372 项成果。这些突破性进展令数学界人士印象深刻、却又深感不安，也引发外界对于研究伦理与学术行为的种种疑问。
 
-最新观察，AI 已将 SaaS 经济推向新阶段。企业不再仅按人头收费，而开始依实际消耗量、代理人使用时间，甚至客户成果计价。这种模式虽然更贴近价值，也有助销售团队灵活谈判，但对财务部门而言，却代表更复杂的收入认列判断、更高稽核风险，以及做出可追溯、可审计报表的难度增加。
+今年 9 月，OpenAI 曾表示「模型已解决横跨数学领域大多数分支、超过 100 道长期存在的未解问题」。这次公布的论文及其细节，同时包含模型部分推理过程的摘要、使用运算资源的估算值、以及关于尝试处理问题的相关统计数据。
 
-问题核心在许多系统是为了「固定价格、固定周期、固定席次」打造，还未改成为处理高度变动的 AI 合约设计。当客户预付一批 AI 使用额度后，有些客户会迅速用完并加购，有些几乎不动；若费用与成果挂钩，收入入帐时间点与金额估算不确定性会更高。若合约含软体订阅、AI 用量与成果费用，且必须依不同时间点分别认列，财务团队工作量与判断难度将同步上升。
+OpenAI 指出，平均每一项成果消耗的算力，相当于 ChatGPT Pro 思考 3 小时的规模。
 
-研究指出，企业加速将 AI 纳入营收智慧与循环计费系统，以提升自动化程度、改善一致性并缩短销售周期。预估到 2028 年，将有三分之一企业营收流程使用生成式 AI，协助产生定价建议、合约条款与续约建议。然而，这类工具若要发挥实效，前提是必须建立在受治理的流程、可信赖的资料与明确权限控管上，否则只会放大财报复杂度。
+「针对本次发表，我们将成果发布于 GitHub 储存库，并附上论文修订与引用的相关协定。我们持续探索其他符合委员会准则、且由社群托管的替代方案。在未来的发表中，我们致力透过更完善的引用、数学论述以及成果呈现方式，进一步提升论文品质，以便各界理解」，OpenAI 表示。
 
-业界分析认为，AI 不仅使产品升级，更是整个软体商业模式重组。当价格更动态、收入更难预测，若企业仍使用旧财务架构，会很难维持营运可预测性与问责性。对软体公司而言，现在挑战不仅是销售 AI 产品，更是重新设计能支撑 AI 定价模式的营收与会计系统。]]></description>
+这些研究成果带来的影响，可能需要一段时间才会显现出来，因为数学家需要加以评估并消化吸收。OpenAI 咨询了 AGMAI（Advisory Group on Mathematics and Artificial Intelligence，数学与人工智慧咨询小组），以精进与数学社群分享研究成果的方式，AGMAI 是由一群数学家组成、负责沟通研究成果的独立咨询小组。
+
+实际上，AGMAI 9 月底即提出建议，敦促各家 AI 实验室应迅速释出数学方面的研究成果，并尽可能透过既有的学术管道发表，揭露如使用的模型名称、提示词及运算成本等细节。AGMAI 恳请各家 AI 实验室「勿将数学成果的发表当作宣传模型的行销工具」，认为这种做法已对数学界造成重大伤害。
+
+这次发表延续 OpenAI 近年来在数学领域的密集进展，OpenAI 先前曾宣布，其内部系统已在 Navier-Stokes 方程式相关问题上取得突破，并引发学界对 AI 是否真正具备创造性推理能力、以及研究成果应如何公开等讨论。]]></description>
   </item>
   <item>
-    <title>每天 20 秒练习自我关怀，就可能慢慢改善心理状态</title>
-    <link>https://technews.tw/2026/10/07/habit-formation-strategies-enhance-long-term-outcomes-of-a-self-compassionate-touch-micropractice/</link>
-    <guid>https://technews.tw/2026/10/07/habit-formation-strategies-enhance-long-term-outcomes-of-a-self-compassionate-touch-micropractice/</guid>
-    <pubDate>Tue, 06 Oct 2026 23:10:42 +0000</pubDate>
-    <description><![CDATA[照顾好自己的情绪很重要，却不是人人都做得到。冥想、心理治疗或正念练习需要较长时间，忙碌的现代人很容易半途而废。最近美国加州大学柏克莱分校（University of California, Berkeley）发现，一项每天只需要约 20 秒的「自我关怀触碰」（self-compassionate touch），若搭配专门设计的习惯养成方法，可能更容易持续进行，并改善部分心理状态。论文近日刊登于《Scientific Reports》期刊。
+    <title>Meta 联手 Sierra 推行 AI 代理新标准，打造 AI 时代的「身分验证机制」</title>
+    <link>https://technews.tw/2026/10/07/meta-walmart-stripe-launch-open-standard-for-ai-agents/</link>
+    <guid>https://technews.tw/2026/10/07/meta-walmart-stripe-launch-open-standard-for-ai-agents/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:50:44 +0000</pubDate>
+    <description><![CDATA[Meta 与 AI 新创公司 Sierra 6 日宣布，与 Walmart、Stripe、Shopify、Genesys、Instinct、Rocket 等伙伴共同推动「Personal Agent Protocol」开放标准，试图为「个人 AI 代理」与企业互动建立规则。这项标准主打身分验证、权限控管与可视性，让企业分辨来访的是代表真实用户的 AI 代理，还是未经授权的机器人。
 
-本次研究所采行的自我关怀触碰，并不是按摩或特殊的治疗技巧，而是非常简单的自我安抚。参与者被引导用手轻触自己的胸口或其他感到舒适的身体部位，同时把注意力放在安定、温暖与善待自己的感受上。整个练习每天只需约 20 秒，目的不是要让人立刻消除负面情绪，而是在出现挫折、自责或压力时，逐渐建立较温和的自我回应。团队认为，触碰本身也可能与调节情绪及压力反应的生理系统有关。
+双方说法，这套协议以既有 OAuth 授权机制为基础，让消费者决定代理可取得哪些权限，如仅能读取帐户资讯，或可执行写入操作；企业也能自行设定代理可做的事，以及允许它用哪些管道连线。协议支援三种主要路径：经企业网站操作、采用 MCP 与 OpenAPI 等标准的 API 介接，或由企业自有代理接手处理需要对话的任务，如保固申请。
 
-研究共招募 497 名美国成年人，随机分成两组，一组只接受自我关怀触碰训练，另一组还额外接受「习惯养成」（habit formation）策略。后者会选定固定的时间、地点和生活提示，例如每天刷完牙后就练习，并设定手机提醒，同时预先思考可能妨碍自己执行的因素。两组都被要求每天至少练习一次，并追踪三个月与六个月后的变化。
+Sierra 共同创办人兼 OpenAI 董事长的布雷特·泰勒（Bret Taylor）表示，企业缺乏可靠方式判断来访的是人还是 AI 代理，使商务互动充满混乱；他将新标准比喻为以 Google 或 Facebook 帐号登入第三方网站的验证法，这能让企业更清楚掌握代理行为。Meta Superintelligence Labs 负责人 David Singleton 则指出，当 AI 代理需要处理信用卡与个人资料时，更需要高透明度与控制权的机制。
 
-结果显示，加入习惯养成策略后，参与者不但更常进行自我关怀触碰，也较容易养成习惯。本来需要提醒自己「现在要做」，后来却可能逐渐变成看到某个提示就自然开始。例如，某人原本必须每天提醒自己练习，但持续重复后，可能刷完牙、洗完澡或睡前看到熟悉的情境，就自然想起要练习。
-
-更重要的是，习惯养成程度的差异，也反映至部分心理指标。到了第六个月，接受习惯养成策略的参与者，心理症状也出现较明显的改善。不过，两组「自己感受到的压力程度」，并没有统计上明显差别，因此还不能把这简短练习直接解读成有效的减压治疗。
-
-习惯养成可能不只是让人「多做几次」，而是让这个行为逐渐不需要太多意志力就能启动。这点其实很符合日常生活经验。每天告诉自己「今天一定要运动」往往需要重新做决定，但如果下班回家换好运动鞋就直接出门，行为便可能逐渐变自然。
-
-然而，这项研究的参与者是在社群媒体招募的美国民众，且研究主要依赖参与者自行回报练习频率与心理状态，因此结果是否适用其他族群仍需要确认。此外，研究也没有证明这种方法可取代心理治疗。因此，这项研究的重点反而是提醒我们，对需要长期执行的健康行为来说，如何从「我应该做」逐渐变成「自然而然去做」，可能才是维持下去的重要关键。
-
-对多数人而言，照顾自己的情绪不一定要花很久时间。此研究显示，每天只需约 20 秒的简单练习，如果能和刷牙、洗澡或睡前等固定生活情境连结，或许更容易长期维持。照顾自己的心理健康有时不一定要有很大的改变，从真的做得到的一个小习惯开始，可能就是不错的选择。]]></description>
+这项协议也强调跨通路延续性：使用者可先以访客身分查询库存或退货政策，之后再登入并决定授权层级，同段互动会视为同次访问。双方表示，本月稍晚将发表 v0.1 规格，并举办设计工作坊与提供参考实作，协助开发者导入。至于支付功能、推播通知与更细致的权限设定，都列为后续扩充方向。]]></description>
   </item>
   <item>
-    <title>IFA 2026 智慧家庭新格局：品牌高阶化、AI Home 与 Physical AI 并进</title>
-    <link>https://technews.tw/2026/10/07/ifa-2026-new-smart-home-paradigm-brand-premiumization-ai-home-physical-ai-advancing-together/</link>
-    <guid>https://technews.tw/2026/10/07/ifa-2026-new-smart-home-paradigm-brand-premiumization-ai-home-physical-ai-advancing-together/</guid>
-    <pubDate>Tue, 06 Oct 2026 23:00:53 +0000</pubDate>
-    <description><![CDATA[此文与拓墣产业研究院合作，转载内容为部分精华，欲购买完整报告请洽拓墣官网
+    <title>家登精密美国产线落成启用，在地抢攻半导体、航太市场商机</title>
+    <link>https://finance.technews.tw/2026/10/07/gudengs-us-production-line-completed-and-put-into-operation/</link>
+    <guid>https://finance.technews.tw/2026/10/07/gudengs-us-production-line-completed-and-put-into-operation/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:50:14 +0000</pubDate>
+    <description><![CDATA[半导体耗材暨解决方案整合服务商家登精密宣布，于美国 Arizona, Glendale 当地时间 10 月 6 日举行制造据点落成启用典礼，正式启动美国在地化生产布局。该产线将聚焦零件精密加工与品质检测能力建置，同时服务半导体、航太等产业客户，象征家登从台湾迈向全球制造的重要里程碑。
 
-IFA 2026 显示，消费电子与家电的成长逻辑正由「增加硬体出货」转向「提高单机价值与服务深度」。TV 透过 Mini LED 与 RGB 背光持续推升高阶产品比重；智慧家电则加入感知、情境理解与能源管理，使 AI 由单机功能进一步参与跨设备协作；服务型机器人也由地面清洁延伸至楼梯、泳池与庭院等场景；后续产品差异化将不再仅取决於单一硬体规格，而在于能否整合感测、AI Agent、连网与实体执行能力，形成可持续运作的家庭服务体系。本篇文章将带你了解 :终端竞争由规格升级转向AI服务与跨设备协同2027年预估前五大品牌出货多持平或微减下，RGB/四色背光渗透对价格带与供应链的影响]]></description>
+家登集团董事长邱铭干表示，今天不只是新厂启用的日子，更是家登从台湾走向全球布局的关键一步。家登选择亚利桑那州，不仅因其完整的半导体与航太产业聚落，更看重当地优秀的人才资源，以及政府对先进制造与技术创新的长期支持。家登将以此为基础，持续强化在地服务能量，与客户共同成长。
+
+近年来，随著全球供应链重组及半导体产业在美投资加速，家登积极推动全球化布局。继日本久留米厂动土之后，家登善用原有美国亚利桑据点，建置初期零件加工产线，2026 年第四季正式投入营运，成为家登海外生产关键的第一步。
+
+产线初期将导入 CNC 精密加工设备及量测设备，完成相关品质认证，并配置核心营运团队成员打造符合国际标准的在地制造能力。随著市场发展与稳健营运，未来将依客户需求逐步扩大产能与设备规模，强化海外供应链韧性与即时服务能力。家登除在地积极拓展航太及半导体产业之外，期待与在地社群建立长期伙伴关系，创造更多就业机会，促进当地与海外企业的双向回馈，并携手客户共同迎接下一波产业成长契机。]]></description>
   </item>
   <item>
-    <title>让匿踪战机携弹量增加，美军和新创公司合作开发小型飞弹发动机</title>
-    <link>https://technews.tw/2026/10/07/us-navy-awarded-ursa-major-137-million-contract-for-new-compact-missile-engine/</link>
-    <guid>https://technews.tw/2026/10/07/us-navy-awarded-ursa-major-137-million-contract-for-new-compact-missile-engine/</guid>
-    <pubDate>Tue, 06 Oct 2026 23:00:51 +0000</pubDate>
-    <description><![CDATA[美国海军正同步推进小型空对空飞弹与新一代舰载拦截飞弹，火箭推进新创 Ursa Major 近日宣布，取得合计 1.37 亿美元的两份合约，将研发新型固体燃料火箭发动机，并以此开发小型对空飞弹，让匿踪战机增加携弹量，以及更新舰队防空武器。
+    <title>元大投顾指台积电先进制程近期无对手，维持买进给目标价到 3,500 元</title>
+    <link>https://finance.technews.tw/2026/10/07/tsmcs-advanced-process-technology-has-no-rivals-recently/</link>
+    <guid>https://finance.technews.tw/2026/10/07/tsmcs-advanced-process-technology-has-no-rivals-recently/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:45:33 +0000</pubDate>
+    <description><![CDATA[因应AI强劲需求与先进制程产能满载，元大投顾发布最新个股报告，看好晶圆代工龙头台积电营运展望。报告指出，台积电在未来2至3年于先进制程及先进封装领域皆无具威胁性的竞争对手，因此维持「买进」评等，并将目标价由3,300元上修至3,500元。
 
-两份合约分别投入 9,100 万美元，开发「紧凑型空对空飞弹」（Compact Air-to-Air Missile，CAAM）发动机，以及 4,600 万美元，研发「海军模组化飞弹」（Naval Modular Missile，NMM）中程型推进系统。
+报告指出，台积电预计于10月15日召开2026年第三季法说会，在受惠成熟及先进制程产能利用率维持高档，预期第三季营运成果将优于财测区间（营收446亿至458亿美元、毛利率65%至67%）的上缘。其中，第三季营收上修至1.4772兆元（季增16.3%、年增49.2%），毛利率上修至67.3%，单季税后EPS由28.64元上修至29.03元。
 
-CAAM 今年 8 月首度公开，定位为近距离空战武器，重点是缩小整体尺寸，让匿踪战机与未来舰载无人机能在内置武器舱携带更多飞弹。
+展望第四季，随著Rubin GPU正式放量，加上AI ASIC与采用N2制程的新款手机旗舰晶片持续出货，整体动能强劲。预估第四季N3与N2制程将分别贡献营收30%与15%。第四季营收预估上修至1.6621兆元（季增12.5%、年增58.9%），毛利率上修至68.1%，单季税后EPS预估上修至33.37元。
 
-Ursa Major 为 CAAM 设计的发动机直径为 7 吋，约 178 公厘，与 AIM-120 飞弹弹体直径相同，比 AIM-9X 响尾蛇飞弹的 5 吋更宽，其小型化关键之一，是采用高装填率推进药柱（Highly Loaded Grain，HLG），提高弹体内推进剂占比，在有限空间提供更多推进能量。
+2027年制程调涨与资本支出扩增 获利挑战新高峰 资本支出方面，2026年预计维持上限640亿美元，2027年与2028年则分别大幅增至800亿美元与1,000亿美元（年增皆为25%），三年累计资本支出高达2,440亿美元。
 
-NMM 中程型则采用直径 10 吋、约 254 公厘的发动机，配合四联装设计，目标让单一舰载发射单元容纳四枚飞弹，类似现有增程型海麻雀飞弹（ESSM）的配置。
-
-发动机也将兼容海军现有舰载发射系统，NMM 整体计划则以 2032 年达到完整作战能力为目标，长期目标是取代现役的标准飞弹（Standard Missile）家族。
-
-除了推进性能，这次合约也著重量产能力，Ursa Major 的 Lynx 制造流程采用积层制造，也就是工业级 3D 列印，生产发动机壳体、喷嘴与点火器等零件，CAAM 研发阶段就采用预定量产时使用的制程，希望完成验证后能更快提高产量。
-
-美国固体燃料火箭发动机供应长期集中于诺斯洛普格鲁曼，以及旗下拥有 Aerojet Rocketdyne 的 L3Harris，随著拦截飞弹与长程武器需求增加，五角大厦持续扶植新供应商以扩大产能。
-
-Ursa Major 今年 2 月已完成与海军及战略资本办公室共同出资、总额 2,500 万美元的计划，制造并静态试射 10 吋 HLG 发动机；7 月再取得 1,000 万美元，推进用于 SM-2、SM-6 的 MK 104 发动机设计审查与测试。新取得的 CAAM 与 NMM 合约，接下来将进入发动机设计、测试及资格验证阶段。]]></description>
+此外，预估2027年先进制程报价将调涨5%至10%、成熟制程调涨0%至5%。在涨价效应与N2学习曲线改善带动下，预估2026年、2027年及2028年毛利率将分别站上67%、69%及71%。2026年与2027年全年的税后EPS预估亦分别上修至111.72元与157.29元。]]></description>
   </item>
   <item>
-    <title>104 人力银行遭骇客入侵，12 万笔履历资料遭未授权读取</title>
-    <link>https://finance.technews.tw/2026/10/06/104-corporation-hacked/</link>
-    <guid>https://finance.technews.tw/2026/10/06/104-corporation-hacked/</guid>
-    <pubDate>Tue, 06 Oct 2026 13:18:44 +0000</pubDate>
-    <description><![CDATA[104 人力银行母公司一零四资讯科技今日晚间发布重大讯息，说明该公司发生网路资安事件。104 人力银行指出，该公司侦测到 App 系统出现异常读取情形，经调查确认，约有 12 万笔履历资料遭未经授权读取，目前系统与营运仍维持正常运作。
+    <title>Jaguar Type 01 正式发表，仿佛走上时尚伸展台</title>
+    <link>https://technews.tw/2026/10/07/jaguar-type-01-official-launch/</link>
+    <guid>https://technews.tw/2026/10/07/jaguar-type-01-official-launch/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:43:19 +0000</pubDate>
+    <description><![CDATA[Jaguar 展开汽车史上极其罕见的「浴火重生」式革命，打出「Copy Nothing」口号终于推出首款量产车 Type 01，两年之间，这家车厂似乎已经转型成了时尚品牌。
 
-据重讯内容显示，事件发生于 10 月 6 日，该公司在发现异常后已立即采取相关防护与阻断措施，并结合外部公正第三方资安机构进行鉴识与强化作业。同时，104 人力银行将依规定向相关主管机关完成通报，并已向调查局台北市调查处报案。
+如果说把买车当成是一种品味展现，而不只是移动工具，那 Jaguar 的话语权肯定很高。只是当年的英伦绅士，现在摇身一变，成为席卷各大时装秀展台的走秀主角。
 
-一零四资讯科技表示，目前系统与营运正常运作，现阶段评估尚未对公司造成重大影响，但相关影响仍持续评估中。
+尽管 Jaguar Type 01 拥有强大的性能规格，包含破千马力、350 kW 高速快充、七百公里续航和零百 3.2 秒等表现，但那些都只是这台车的基本属性，它真正的卖点全在「看得到的地方」。
 
-针对后续改善，该公司指出，已采取相关防护与阻断措施，并持续进行资安鉴识及强化资讯安全防护机制，后续将依调查结果与相关法令办理；若有重大进展，也将依规定即时更新资讯。
+极致拉长的车头，隐约将 Jaguar 经典传承下来，却转化成金属锐利线条，不再是那个圆润老成的风格。23 吋钻石涂装轮圈搭配阳极处理黄铜饰板，还有抢眼夺目的双贯穿式尾灯，最简单的理解，就是从詹姆士．庞德，变成东尼．史塔克。以前的 Jaguar，是在舞会角落里，默默喝著马丁尼，现在的 Jaguar 则是跳上舞台喷香槟。
 
-目前重讯内容仅说明约 12 万笔履历资料遭未经授权读取，尚未进一步揭露遭存取履历的具体栏位内容、是否涉及姓名、联络方式或其他个人资料，也未说明攻击手法与入侵来源。后续是否涉及个资外泄，以及影响范围是否扩大，仍有待进一步调查。]]></description>
+大部分车厂的内装，强调的是电动座椅、通风加热、分区空调或是大型萤幕，Jaguar Type 01 直接跳过这些，而是卖给你黄铜饰片、羊毛混纺 Kvadrat™ DuoWeave 顶级织品与顶级皮革的搭配，车主不用多做说明，就可以让客人一秒感受奢华。
+
+千万不要误会这台车华而不实，只有装饰，无论软硬体或电池控制，Type 01 全部都用上当前最尖端的技术，只是对 Jaguar 来说，那只是一台车该有的，他们真正想吸引的客户，是愿意透过车子展示自己独特品味的新客群。
+
+这种销售策略和全新的品牌定位，还有待实绩验证，不过对于千万名车满街跑的台湾来说，这一台 Jaguar Type 01 在路上的吸睛程度绝对很够。台湾也已经开出 670 万元起跳预售价格，最快可能会在 2027 年下半年开始全球交付。
+
+Jaguar has unveiled the 2028 Type 01 sedan, the first in an onslaught of new products meant to revitalize the British automaker. The strikingly-styled Type 01 packs three electric motors producing a net 1015 horsepower and 1007 pound-feet of torque, enough to reach 60 in 3.1 seconds. Type 01 deliveries begin in mid-2027, and pricing is expected to land in the $120,000 to $130,000 range.
+
+— Car and Driver (@CARandDRIVER)October 7, 2026]]></description>
   </item>
   <item>
-    <title>联电 9 月营收创历史新高，AI 营收将大幅成长带动代工价格</title>
-    <link>https://finance.technews.tw/2026/10/06/umcs-september-revenue-hit-a-record-high/</link>
-    <guid>https://finance.technews.tw/2026/10/06/umcs-september-revenue-hit-a-record-high/</guid>
-    <pubDate>Tue, 06 Oct 2026 12:15:53 +0000</pubDate>
-    <description><![CDATA[晶圆代工大厂联电9月合并营收达253.5亿元，成功刷新单月历史新高纪录。受惠于22奈米业务持续放量以及8吋晶圆需求回温，联电第三季营运表现相当亮眼，营收规模明显放大，表现优于公司原先预估的营运方向。
+    <title>AI 加持 晶圆切割机厂 DISCO 出货额冲 6 成、创历史高</title>
+    <link>https://technews.tw/2026/10/07/disco-shipments-surge-60percent/</link>
+    <guid>https://technews.tw/2026/10/07/disco-shipments-surge-60percent/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:40:07 +0000</pubDate>
+    <description><![CDATA[AI 需求加持，日本晶圆切割机大厂 DISCO 上季（2026 年 7-9 月）出货额暴增六成，创下历史新高纪录。
 
-根据财报数据，联电9月合并营收为253.5亿元，较8月的250.45亿元月增1.22%，与2025年同期的199.27亿元相比大幅成长27.22%。联电自2026年3月以来营收呈现逐月走高趋势，9月营收更一举突破2022年8月所创下的历史高点。累计，前九月合并营收达2,040.1亿元，较2025年同期的1,757.44亿元成长16.08%。
+DISCO 6日盘后公布资料指出，因生成式AI需求旺，带动精密加工装置以及作为消耗品的精密加工工具出货维持高水准，上季（2026年度第二季、2026年7-9月）非合并（个别）出货额较去年同期暴增60.0%至1,239亿日圆，连续第三季呈现增长，季度别出货额超越2026年4-6月的1,165亿日圆、创下历史新高纪录。和前一季（2026年4-6月）相比，出货额季增6.4%，连续第四季呈现季增。
 
-在9月营收强势拉抬下，联电第三季合并营收来到约742.39亿元，较第二季的687.3亿元季增约8%，较2025年同期的591.27亿元年增约25.6%。此表现优于公司先前针对第三季晶圆出货量预估的「季增高个位数百分比」营运目标。
+另外，上季DISCO非合并营收较去年同期大增38.9%至1,185亿日圆；和前一季相比，大增24.7%。
 
-在营收创高的同时，外资法人摩根士丹利（大摩）日前也发布报告，将联电目标价大幅调升36%至188元。大摩指出，尽管部分市场人士忧心智慧型手机与PC需求疲软，但联电正迎来两大独特成长引擎：
-
-1. 三星DDI（面板驱动IC）的外包需求。2. 矽光子与薄膜锂酸锂技术的崛起，特别是联电推出的单通道400Gbps（PIC + TFLN）解决方案，奠定了其在光电整合代工的差异化优势。
-
-此外，联电管理层预估其AI相关营收将从2026年的3亿美元（约占总营收3%至5%），于2029年大幅成长至10亿美元，这将有助于联电在2027年顺利调涨8吋晶圆代工价格。]]></description>
+DISCO会在产品完成验收后、才会将卖出的产品列入营收计算，因此营收通常会和实际的市场需求动向产生落差，而出货额和市场动向的连动性较高。]]></description>
   </item>
   <item>
-    <title>2026 诺贝尔物理学奖一人独得，美籍学者推动南极天文台活捉宇宙微中子</title>
-    <link>https://technews.tw/2026/10/06/francis-halzen-icecube-neutrino-nobel-prize-in-physics/</link>
-    <guid>https://technews.tw/2026/10/06/francis-halzen-icecube-neutrino-nobel-prize-in-physics/</guid>
-    <pubDate>Tue, 06 Oct 2026 11:15:45 +0000</pubDate>
-    <description><![CDATA[宇宙最难以捉摸的粒子——微中子，几乎不与物质交互作用，却能原封不动携带宇宙最剧烈事件资讯直抵地球，是追踪神秘宇宙射线源头的关键信使。2026 年诺贝尔物理学奖授予比利时裔美国粒子物理学家 Francis Halzen，他主导建造南极冰立方微中子天文台（IceCube），开创微中子天文学新纪元。
+    <title>ChatGPT 生图也要看广告了！OpenAI 测试视觉赞助内容，强调不影响 AI 回答</title>
+    <link>https://technews.tw/2026/10/07/openai-decides-chatgpt-would-be-better-with-more-sponsored-results/</link>
+    <guid>https://technews.tw/2026/10/07/openai-decides-chatgpt-would-be-better-with-more-sponsored-results/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:35:49 +0000</pubDate>
+    <description><![CDATA[OpenAI 5 日宣布，将进一步扩大 ChatGPT 的广告形式，准备将视觉广告引入图片生成结果中。这项新格式将以清楚标示的赞助内容呈现，并与使用者生成的图片分开显示。OpenAI 强调，广告不会影响 ChatGPT 的回答内容。
 
-微中子可说是全宇宙最神出鬼没粒子，这种基本粒子电荷为 0，几乎没有质量，存在感极低，很少与物质交互作用或撞击原子核，现在可能就有 650 亿个来自太阳的微中子穿过你的身体，而你毫无所觉。
+根据 OpenAI 的规划，这项测试将先在美国展开，对象为一小部分广告主，预计于 10 月稍晚开始。新广告形式主打以图片方式呈现产品灵感、使用情境或服务体验，让品牌能在对话与图片生成流程中接触潜在客户。这也是 OpenAI 自今年 2 月在 ChatGPT 推出赞助卡片以来，广告产品的又一次扩张。
 
-既然微中子如此低调，为何要研究它？关键就是微中子「不爱与旁人互动」的特性。
+为支撑这条新的广告业务线，OpenAI 同步扩大成效衡量与归因合作伙伴网路，涵盖 AppsFlyer、Triple Whale、Adjust、DV Rockerbox、Northbeam、Branch、Singular、Kochava、Airbridge 与 Tenjin 等工具，并加入 Hightouch、Tealium、LiveRamp 等资料整合方案，让广告主可将既有的转换资料接入 ChatGPT Ads。OpenAI 也与 Fospha、Measured、INCRMNTAL 合作强化全漏斗衡量，并与 Haus、Measured、WorkMagic 推进地理区域实验。
 
-科学家已知宇宙存在天然粒子加速器，这些加速器发射的宇宙射线粒子能量高达地球实验室百万倍，但起源、过程机制至今仍是谜团，只确定宇宙射线源头将质子加速到极高能量的过程，也必定会产生高能微中子。
-
-来自天然加速器的带电宇宙射线粒子行进过程会不断被周遭物质吸收、散射、重新发射，等来到我们面前已非昔日样貌；但高能微中子行进过程不会改变方向或失去能量，释放后就几乎直线一路穿透宇宙，几乎原封不动将反应产生瞬间、源头地点等资讯「快递」到地球——只要我们能活捉高能微中子，就能精确测出微中子飞来方向，反推产生它的宇宙加速器位在何方。
-
-2026 年诺贝尔物理学奖得主 10 月 6 日公布，便颁给在微中子天文学具重要地位的比利时裔美国粒子物理学家 Francis Halzen。
-
-Francis Halzen 决定性贡献在于，他在 1980 年代就意识到南极冰层非常适合捕捉神秘莫测的宇宙微中子，他迅速说服许多人相信他，并主导南极冰立方微中子天文台（IceCube）建置，从此打开全新类型天文学研究基础。
-
-2012 年，科学家透过 IceCube 首度侦测来自太空的 PeV 能量等级微中子，2017 年更进一步锁定同时发射强烈伽玛射线与微中子的耀变体 TXS 0506+056，成为人类史上首次找到高能微中子确切源头的案例，进一步驱动微中子天文学、多信使天文学（结合光、重力波、微中子等多种宇宙讯号共同观测天体）持续发展。
-
-高能微中子研究领域不只已成熟、开花结果，同时也站在当前天文物理学界最前沿未解谜题核心，未来我们肯定会听到更多微中子天文学消息。IceCube 天文台将持续捕捉宇宙微中子，目前正计划扩建，持续追查宇宙最低调粒子。]]></description>
+在品牌安全方面，OpenAI 表示正与 DoubleVerify 及 Integral Ad Science 推进品牌适配性评估试点，协助广告主检视内容是否符合品牌调性。整体来看，OpenAI 正将 ChatGPT 从单纯的 AI 助理，逐步推向更完整的广告平台，这也意味著免费与低价方案的使用者未来将更频繁地接触到赞助内容。]]></description>
   </item>
   <item>
-    <title>BMW 逆势投资德国 20 亿欧元生产新 3 系列与电池，同时裁减 8 千个行政职</title>
-    <link>https://finance.technews.tw/2026/10/06/bmws-e2bn-investment-in-german-car-production-explained/</link>
-    <guid>https://finance.technews.tw/2026/10/06/bmws-e2bn-investment-in-german-car-production-explained/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:30:26 +0000</pubDate>
-    <description><![CDATA[德国车厂 BMW 9 月 30 日宣布，投资约 20 亿欧元在德国生产汽车与电池，为旗下最畅销的新 3 系列车款使用。约 10 亿欧元升级慕尼黑（Munich）与丁格芬（Dingolfing）工厂，另外 10 亿欧元投入巴伐利亚邦 Irlbach-Straßkirchen 新电池厂。这座已有百年以上历史的慕尼黑工厂，自 2027 年起只生产电动车，第一款是全新纯电 i3。
+    <title>Claude 正式登陆 Google Workspace，侧边栏直接编修三大办公软体</title>
+    <link>https://technews.tw/2026/10/07/claude-joins-google-workspace/</link>
+    <guid>https://technews.tw/2026/10/07/claude-joins-google-workspace/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:30:55 +0000</pubDate>
+    <description><![CDATA[Anthropic 正式宣布旗下 AI 助理 Claude 进驻 Google Workspace 生态系。全新推出的「Claude for Google Workspace」外挂目前以公测形式，开放给所有付费方案用户使用。此项整合让 Claude 常驻于 Google 文件、试算表与简报的侧边栏，使用者无须再频繁切换应用程式或分页，即可让 AI 读取当前档案并直接在原画面完成修改。
 
-外媒《European Business Magazine》分析，这项计划以第八代 3 系列为核心。3 系列自 1975 年推出以来累计生产约 1,800 万辆，1,500 万辆在德国制造。纯电 i3 将在慕尼黑生产，汽油与插电式混合动力版本则由丁格芬供应。新电池厂自 2026 年 10 月起向慕尼黑供应第六代高压电池，把电动车的核心零组件留在德国生产而非进口。BMW 也表示，约有 760 个供应商据点供货给这两座工厂。BMW 每年在德国生产超过 100 万辆车，约占德国汽车总产量的四分之一，约 55% 员工在德国工作。
+根据 Anthropic 的说明，使用者可针对整份文件下达指令，或是先选取特定的文字、储存格与投影片区块进行局部处理。Claude 在三大办公软体中分别支援以下情境：
 
-投资同时 BMW 也在缩编。10 月起对德国 8.5 万名正职员工约 4 万人提出自愿离职方案，目标 2027 年底前减少 8 千个职位，生产线员工不在此列，裁减对象是办公室与行政人员。记者 Brad Adams 解读，BMW 认为问题不在德国工厂太贵，而是管理层级太多、开发新车太慢，因此精简车型阵容、缩短开发时间，并用 AI 降低成本。
+Claude now works inside Google Docs, Sheets, and Slides, and those files also open inside Claude.
 
-BMW 承压不小。BMW 三年内已发表三次获利预警，汽车事业利润率展望下修到最低 1%，原因是中国市场疲弱，以及伊朗战争相关成本上升；上半年营业利益下滑 37%，中国销量减少 19%。
+In Google Workspace, Claude sits in a sidebar next to your file, reads what you have open, and edits it in place. You can approve each edit before it lands. https://t.co/se9wIS7vK1
 
-整体产业方面，德国工业企业在 2025 年裁减 12.4 万个职位，约 2024 年两倍，多数集中汽车业。
+— Claude (@claudeai)October 6, 2026
 
-福斯（Volkswagen）也在评估旗下十个品牌裁减高达 10 万人，并计划削减 50 万辆产能；宾士（Mercedes-Benz）推出自愿离职方案，并把匈牙利 Kecskemét 工厂扩大一倍以上，成为欧洲最大工厂；BMW 也于 2025 年启用匈牙利新厂。
+为确保内容掌控权，该外挂提供两种运作模式。预设的「编辑前确认」会先显示 Claude 准备执行的动作，待使用者同意后才会套用；针对重度使用者提供的「全部接受」模式，则允许 Claude 直接完成一般内容编辑。不过，若操作涉及连结、外部图片、网址或存取权限的变更，系统仍会强制要求额外核准。所有变更皆会直接写入原始档案，并完整保留于版本记录中，方便随时复原。
 
-成本较低的东欧正在吸走原投给德国的投资，背后是中国竞争者抢占各国市场、能源成本居高不下等压力；燃油价格飙涨则加速车主转向电动车，慕尼黑改为纯电工厂，等于押注这股转变会持续。BMW 削减管理成本而非产能，方向正确，但单一企业的信心解决不了德国的结构问题，能源成本、审批缓慢与中国竞争仍压在所有业者身上，其他车厂会不会跟进，取决于柏林的政策。]]></description>
+除了侧边栏整合，Anthropic 亦同步推出测试版的 Google 档案连接器，让使用者能直接在 Claude 专属的对话介面中建立与编辑 Docs、Sheets 及 Slides 档案。在资安管控上，Claude 会完全沿用使用者既有的 Google 共用设定；对于企业版用户，原有的合规 API、客户自管金钥与稽核汇出等安全控制机制也全数适用。
+
+目前，用户只需透过 Google Workspace Marketplace 进行一次性安装，即可全面启动文件、试算表与简报的 AI 升级。]]></description>
   </item>
   <item>
-    <title>日本研究：高热量饮食恐致脑神经突触异常，认知功能下降</title>
-    <link>https://technews.tw/2026/10/06/pqbp1-dependent-alternative-rna-splicing-underlies-high-calorie-diet-induced-cognitive-impairment/</link>
-    <guid>https://technews.tw/2026/10/06/pqbp1-dependent-alternative-rna-splicing-underlies-high-calorie-diet-induced-cognitive-impairment/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:20:39 +0000</pubDate>
-    <description><![CDATA[东京科学大学等研究团队以老鼠实验发现，持续摄取高热量饮食会导致认知功能下降，原因在于脑神经细胞彼此连结处的「突触」出现异常。
+    <title>第三季营收年增大幅成长 297%，美银、大摩维持川湖买进投资评等</title>
+    <link>https://finance.technews.tw/2026/10/07/bank-of-america-and-morgan-stanley-maintain-their-buy-rating-on-chuanhu/</link>
+    <guid>https://finance.technews.tw/2026/10/07/bank-of-america-and-morgan-stanley-maintain-their-buy-rating-on-chuanhu/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:30:41 +0000</pubDate>
+    <description><![CDATA[伺服器导轨龙头川湖公布最新财报，2026 年 9 月单月营收受高基期与部分零组件短缺影响，月减 31% 至新台币 44.64 亿元。但第三季营收仍大幅成长至 173.38 亿元，季增 60%、年增达 297%。外资法人美商美银（BofA）与摩根士丹利（Morgan Stanley）出具最新报告指出，短线营收波动不改长期竞争优势，看好 2027 年新一波 AI 专案启动，维持「买进」与「加码」评等，目标价最高看至新台币 15,000 元。
 
-日本时事通信社报导，过去已知长期处于高热量状态会使脑部功能下降，但详细的分子层级机制仍不清楚。论文9月刊登于国际科学期刊。
+川湖公布2026年9月营收年增196%至44.64亿元，相较7、8月的高峰回落31%。报告分析指出，9月营收月减主因包含：
 
-特任教授冈泽均等人组成的研究团队，让老鼠持续摄取高热量饮食一周或六周，再与正常饮食组的神经细胞分子层级比较，结果发现一种名为「PQBP1」的蛋白质含量减少。
+尽管9月营收降温，川湖第三季总营收仍达173.38亿元，季增60%、年增297%，整体表现符合并稍微超越市场预期。
 
-PQBP1扮演调节角色，负责正确制造神经细胞传递资讯所需的蛋白质。进一步调查发现，摄取高热量饮食的老鼠，胰岛素作用下，制造PQBP1的机制受抑制，导致突触组成分子出现异常，神经回路功能因而下降。
+报告强调，从川湖依法公告的7、8月自结财务数据来看，展现出极高的获利效益。包括8月营收64.66亿元，年增344%，税前净利48.26亿元，年增216%，净利38.19亿元，年增212%，单月EPS达40.07元，税前净利率与纯益率分别高达74.6%与59.1%。至于，7月营收64.07亿元，年增336%，纯益率达74.7%，单月EPS高达50.24元。总计7、8月双月累计EPS已达90.31元，仅两个月便超越第二季整季的EPS 74.38元。
 
-团队对老鼠投予糖尿病治疗药物，或补充PQBP1治疗后，发现突触异常及认知功能都有所改善。冈泽均表示，未来若持续深入研究，可能有助于预防肥胖者及糖尿病患者罹患阿兹海默症。]]></description>
+外资还认为，川湖9月营收回落属于正常的月度波动，不影响长期AI伺服器规格升级趋势。随著第四季新专案发酵及2027年AI需求延续，川湖凭借全球导轨龙头地位与专利壁垒，中长期营运动能依然充沛。]]></description>
   </item>
   <item>
-    <title>宜鼎9月营收月增0.4%</title>
-    <link>https://finance.technews.tw/2026/10/06/innodisk-5289-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/06/innodisk-5289-202609-financial-report/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:20:06 +0000</pubDate>
-    <description><![CDATA[宜鼎（5289）公布 9 月合并营收 87.13 亿元，较上（8）月成长 0.4%，与去年同期相比为年增 53 [&#8230;]]]></description>
+    <title>苹果找 LG 扩智慧家庭版图，门铃、门锁、摄影机都要来</title>
+    <link>https://ccc.technews.tw/2026/10/07/apple-lg-smart-home/</link>
+    <guid>https://ccc.technews.tw/2026/10/07/apple-lg-smart-home/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:22:26 +0000</pubDate>
+    <description><![CDATA[苹果准备进一步扩张智慧家庭生态系，据《彭博社》报导，苹果正与 LG Electronics 合作开发一系列智慧家庭配件，未来可望与即将推出的 Home Hub，以及其他苹果家庭装置整合使用。
+
+据 LG 向美国联邦通信委员会（FCC）与 UL Solutions 提交的文件，目前开发中的产品包括有线影像门铃、恒温器、智慧门锁、温度感测器、室内与户外安全摄影机，以及投光灯摄影机。
+
+虽然相关文件并未直接提及苹果，LG 也要求 FCC 对部分细节保密，但《彭博社》指出，这批产品将由 LG 制造并挂上 LG 品牌，苹果则有参与产品开发。
+
+这种合作模式可以让苹果在不必自行负担所有硬体生产与售后支援成本的情况下，快速扩充智慧家庭产品线；同时，苹果仍可参与产品设计、功能规划与工程开发，进一步掌握整体使用体验。
+
+苹果预计将在 10 月 13 日发表传闻已久的 Home Hub、新款 Apple TV 4K，以及新一代 HomePod mini，不过 LG 这批智慧家庭配件还需要几个月时间才会正式推出。
+
+LG 部分装置将支援 Wi-Fi、蓝牙、Thread 与 Matter，其中智慧门锁还将加入 UWB 超宽频，可支援近距离自动解锁功能。
+
+苹果与 LG 过去已有多次合作经验，包括采用 LG Display 面板，以及过去与 LG 合作推出专为 Mac 设计的 4K、5K UltraFine 显示器。
+
+值得注意的是，LG 过去并不算智慧家庭配件市场的主力品牌，但该公司 2024 年已收购智慧家庭平台 Homey 的多数股权，近年明显积极强化相关布局。若这批产品顺利推出，也可能让 LG 进一步与三星 SmartThings、Amazon Ring、Google Nest 等品牌正面竞争。]]></description>
   </item>
   <item>
-    <title>尼克森9月营收月增6.2%</title>
-    <link>https://finance.technews.tw/2026/10/06/niko-sem-3317-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/06/niko-sem-3317-202609-financial-report/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:20:04 +0000</pubDate>
-    <description><![CDATA[尼克森（3317）公布 9 月合并营收 1.76 亿元，较上（8）月成长 6.2%，与去年同期相比为年增 -2 [&#8230;]]]></description>
+    <title>台 AI 供应链大举出海！台积电带头加码美国，台厂抢进东南亚</title>
+    <link>https://technews.tw/2026/10/07/tsmc-taiwan-company-spending/</link>
+    <guid>https://technews.tw/2026/10/07/tsmc-taiwan-company-spending/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:22:00 +0000</pubDate>
+    <description><![CDATA[随著全球人工智慧（AI）运算基础设施需求持续攀升，台湾企业加快海外投资脚步，积极建立足以因应强劲需求的供应链，目前投资主要集中在美国与东南亚。
+
+日经指出，台积电正带头扩大在美布局，并于七月追加1,000亿美元投资，使得在美投资总额达到2,650亿美元。同时，台积电计划再增加4座先进半导体晶圆厂，使其在美国设施数量达到12座。
+
+负责组装伺服器的台湾电子厂也持续增加投资，如广达上月获主管机关核准，将向美国子公司注资9.73亿美元，该公司透过旗下子公司在田纳西州负责伺服器及周边设备组装；纬创上月也获得主管机关核准，将向一家负责印刷电路板组装的美国子公司注资1.5亿美元。此外，纬创也向另一家美国子公司注资，投入最高1.46亿美元，用于翻修德州厂房及安装设备；英业达同样获准注资1.1亿美元，以支援其在美国的伺服器组装业务。
+
+台湾经济部上月表示，台湾主要企业已宣布的美国投资计划合计达550亿美元。截至5月，约有20家半导体、伺服器及其他相关企业（不包括台积电）已宣布累计350亿美元的投资。
+
+台湾资策会产业情报研究所（MIC）今年4月预估，到2030年，美国将占台湾企业AI伺服器产能的40%，高于今年的23%。台湾所占比重则预计从47%降至30%，排名将落后美国；墨西哥比重也预计从30%降至15%。
+
+在东南亚，台湾企业同样持续扩充AI伺服器量产零组件的生产能力，包括电路板与散热零组件等。散热零组件厂奇𬭎上月表示，将投资新台币77.8亿元在越南兴建新厂；铜箔基板（CCL）厂台燿则将投入77.9亿泰铢（约2.318亿美元），扩大泰国子公司的产能，包括兴建新厂与安装新设备；印刷电路板厂华通与臻鼎科技等企业，也都已宣布相关投资计划。
+
+封测大厂日月光投控上月表示，新加坡子公司已购入约12.6亿元的生产设备，同时决定以约21.5亿元收购一座工厂；鸿海旗下的讯芯科技则于8月表示，将投资最高6,500万美元，在越南设立半导体生产线，涵盖布线形成等制程。
+
+报导指出，台湾今年1至8月自东协（ASEAN）成员国进口金额达704亿美元，年增75.4%。台湾财政部表示，进口大幅成长主要受到AI供应链日益分散至不同地区后，零组件需求持续增加所带动。]]></description>
   </item>
   <item>
-    <title>景硕9月营收月增7.7%</title>
-    <link>https://finance.technews.tw/2026/10/06/kinsus-3189-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/06/kinsus-3189-202609-financial-report/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:10:10 +0000</pubDate>
-    <description><![CDATA[景硕（3189）公布 9 月合并营收 51.81 亿元，较上（8）月成长 7.7%，与去年同期相比为年增 44 [&#8230;]]]></description>
+    <title>SpaceX 拟筹 400 亿美元资金，目标购入大量辉达晶片以打造 AI 算力基建</title>
+    <link>https://finance.technews.tw/2026/10/07/spacex-looks-to-raise-40bn-to-buy-nvidia-chips-in-financing-led-by-apollo/</link>
+    <guid>https://finance.technews.tw/2026/10/07/spacex-looks-to-raise-40bn-to-buy-nvidia-chips-in-financing-led-by-apollo/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:20:54 +0000</pubDate>
+    <description><![CDATA[外媒报导，马斯克旗下太空探索公司 SpaceX 欲筹资 400 亿美元，由阿波罗全球管理（Apollo Global Management）主导这笔融资，资金用途锁定采购辉达（Nvidia）晶片。这笔交易为 AI 基础设施与运算硬体支出持续扩大的最新例证。
+
+SpaceX 规划以多元债务工具筹措资金，约 100 亿美元可能来自银行贷款，另有约 300 亿美元将以投资级债务形式发行。阿波罗将负责带领交易，并协助将债务销售给更多投资人。债券基金 Pimco 也被提及为洽谈参与融资的贷方之一。
+
+新融资仍在协商阶段，条件尚未定案，最快预估 2027 年才会完成。SpaceX、阿波罗、辉达与 Pimco 截至报导时都未立即回应置评请求。]]></description>
   </item>
   <item>
-    <title>日电贸9月营收18.53 亿元</title>
-    <link>https://finance.technews.tw/2026/10/06/ndb-3090-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/06/ndb-3090-202609-financial-report/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:10:05 +0000</pubDate>
-    <description><![CDATA[日电贸（3090）今（6）日公布 9 月营收，达 18.53 亿元，较 8 月成长 -3.1%，较去年同期成长 [&#8230;]]]></description>
+    <title>亚马逊测试「About You」功能，购物纪录透露你的生活偏好</title>
+    <link>https://technews.tw/2026/10/07/amazon-about-you/</link>
+    <guid>https://technews.tw/2026/10/07/amazon-about-you/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:15:51 +0000</pubDate>
+    <description><![CDATA[亚马逊（Amazon）近日推出的「About You」功能，让消费者得以直接查看平台根据自身行为建立的个人档案，也意外掀起社群热议。这个页面会依据使用者的购买纪录、搜寻内容、收藏清单、商品评论，以及 Alexa 购物助理的对话内容，推测出各种偏好与生活习惯，并提供使用者自行修改或移除部分资讯。
+
+这个功能目前仍处于测试阶段，并已整合进亚马逊的购物 App、行动版网页与桌面版介面。使用者可在帐户中的购物偏好设定里找到「About You」，查看亚马逊对自己的判断。桌面版可从右上角的帐号区进入，手机 App 则可依序点选帐号、购物偏好与 About You。
+
+引发讨论的关键，在于亚马逊列出的内容不只包含一般性的兴趣或消费倾向，还出现相当具体、甚至令人啼笑皆非的推测。Threads 使用者 Megan Montgomery 表示，她意外看到亚马逊对自己的多项假设，包括曾为〈妙妙犬布丽〉（Bluey）主题生日派对做准备、可能拥有 Shark 扫地机器人，甚至被标注为「有扁屁股」。其他网友也分享类似经验，有人被判定「丈夫腿很细」、有人被写成「受惊时会飙脏话」，还有人被推测喜欢「有肌肉的黑发美女」。
+
+亚马逊先前已将这项功能定位为协助 AI 更精准媒合商品的工具，让推荐结果更贴近个人需求。不过，当平台把这些推测以清单形式摊在使用者眼前时，也让外界更直观地看见电商平台搜集与分析个资的深度。对不少人来说，这不只是购物推荐的升级，也是一面照出自己数位足迹的镜子。]]></description>
   </item>
   <item>
-    <title>宏达电9月营收3.39 亿元</title>
-    <link>https://finance.technews.tw/2026/10/06/htc-2498-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/06/htc-2498-202609-financial-report/</guid>
-    <pubDate>Tue, 06 Oct 2026 10:10:04 +0000</pubDate>
-    <description><![CDATA[宏达电（2498）今（6）日公布 9 月营收，达 3.39 亿元，较 8 月成长 37.7%，较去年同期成长  [&#8230;]]]></description>
+    <title>AI GPU 与 ASIC 测试介面需求带动，外资花旗与大和都给予颖崴买进评等</title>
+    <link>https://finance.technews.tw/2026/10/07/foreign-investors-citigroup-and-daiwa-both-gave-yingwei-a-buy-rating/</link>
+    <guid>https://finance.technews.tw/2026/10/07/foreign-investors-citigroup-and-daiwa-both-gave-yingwei-a-buy-rating/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:10:31 +0000</pubDate>
+    <description><![CDATA[测试介面厂商颖崴公布 2026 年 9 月合并营收，金额为新台币 12.5 亿元，虽月减 26.7%，但年增达 87.7%；累计第 3 季单季营收达 45.6 亿元，季增 29.3%、年增 152.6%，刷新单季历史新高。对此，包括花旗（Citi）与大和证券（Daiwa）发布最新研究报告指出，9 月营收拉回主因探针卡（Probe Card）专案阶段性交货完成，并非客户砍单或市占率下滑。两大外资看好在 AI GPU 与 ASIC 测试介面需求带动下，产品组合优化将推升毛利率逐季回升，双双重申「买进」评等。
+
+颖崴第3季营收表现亮眼，超出市场预估约6.7%至7%。报告分析，9月营收月减主因探针卡出货节奏与客户认证时程影响，由于该产品线单一客户集中度较高，随著主要专案短期出货完毕，第4季探针卡贡献预计保持淡季水准。大和证券预估，颖崴第4季营收将呈现季持平至小幅拉回。
+
+尽管探针卡出货放缓影响短期营收冲刺，但外资一致认为这有利于产品组合改善。随著毛利率较低的MEMS探针卡占比下降，加上高毛利的AI与HPC测试座（Socket）拉货动能强劲，颖崴毛利率已于2026年第2季触底。受惠于同轴测试座（Coaxial Socket）与系统级测试（SLT）方案渗透率持续提升，毛利率有望逐季回升，甚至有机会提早达到40%的目标。
+
+在产能规划方面，大和证券指出，颖崴新增的测试座产能预计于2027年3月上线，相关营收将于2027年第2季开始显现，为中长期成长注入新动能。因此，重申「买进」投资评等，目标价设为 10,000元。而花旗证券也重申「买进」投资评等，目标价维持在 11,500元，主因看好其在顶级AI GPU测试供应链的坚实地位。]]></description>
   </item>
   <item>
-    <title>能量破纪录的神秘微中子源自何处？新假说：来自五维空间原初黑洞</title>
-    <link>https://technews.tw/2026/10/06/km3net-neutrino-primordial-black-hole-five-dimensional/</link>
-    <guid>https://technews.tw/2026/10/06/km3net-neutrino-primordial-black-hole-five-dimensional/</guid>
-    <pubDate>Tue, 06 Oct 2026 09:54:54 +0000</pubDate>
-    <description><![CDATA[2023 年，KM3NeT 探测器捕捉到能量高达 220 PeV 的神秘微中子，让物理学界困惑至今。一篇新论文提出大胆假说，指出这颗微中子或许来自藏身五维空间、正缓慢蒸发的古老原初黑洞。
+    <title>三星吃 AI 爆发红利  Q3 营业利益估激增 772%</title>
+    <link>https://technews.tw/2026/10/07/samsungs-q3-profit-seen-jumping-nine-fold/</link>
+    <guid>https://technews.tw/2026/10/07/samsungs-q3-profit-seen-jumping-nine-fold/</guid>
+    <pubDate>Wed, 07 Oct 2026 02:10:10 +0000</pubDate>
+    <description><![CDATA[AI 记忆体需求持续火热，三星电子（Samsung Electronics）获利可望大爆发。LSEG 统整 21 位分析师预估，三星 2026 年第三季（7-9 月）营业利益将达 106.1 兆韩圜（约 791 亿美元），较去年同期 12.17 兆韩圜暴增 772%，并连续四季改写新高。
 
-3 年前，位于地中海深处的 KM3NeT 微中子探测器捕捉到让整个物理学界陷入困惑的一个讯号，被命名为 KM3-230213A 的微中子以极夸张能量撞击探测器，能量比大型强子对撞机（LHC）可制造的任何粒子高出数万倍。
+路透社等外媒报导，全球科技巨头大举兴建AI资料中心，但记忆体产能扩张速度追不上需求成长，持续挹注三星晶片事业获利。摩根大通预估，三星今年HBM市占率将由去年的20%升至34%，进一步逼近SK海力士的46%。
 
-其能量之高代表它必然来自宇宙某极端暴力事件，这类事件通常会同时产生大量光子，诡异的是这颗微中子很孤独——未伴随任何高能光子一同到来，导致标准天体物理源（如耀变体）很难解释其起源，物理学家不得不考虑更异端的起源。
+不过，近期记忆体报价涨势开始降温，三星后续获利动能面临考验。TrendForce预估，第四季传统DRAM合约价将季增10%至15%，涨幅明显低于第二季的60%。
 
-最近发表在《物理评论 D》（Physical Review D）的一篇新论文，提出目前看起来最前卫的假说：这颗微中子可能来自在五维空间坍缩的古老原初黑洞。
+韩圜汇率也带来另一股逆风，今年第三季，韩圜兑美元累计升值14.3%。由于三星晶片销售均以美元计价，但财报以韩圜表达，当韩圜走升，换回本币的营收金额将减少，进而压缩获利空间。
 
-当前标准宇宙学表明宇宙有 4 个维度：3 个空间维度和 1 个时间维度，但弦理论假设除了我们熟悉的四维时空，宇宙还隐藏第五维度，该维度非常小（约 1 微米宽），只有重力能延伸至那自由运作。
+多名分析师认为，AI需求仍支撑记忆体景气，但报价涨势放慢、韩圜升值及中国记忆体厂竞争加剧，将是三星后续获利能否续创高的关键因素。
 
-论文提出宇宙诞生初期，宇宙弦会在第五维度坍缩聚集成环，并形成五维原初黑洞（Five-Dimensional Primordial Black Holes），再透过霍金辐射（Hawking Radiation）效应缓慢向外辐射能量，计算发现五维原初黑洞的蒸发速率恰好与宇宙年龄相当，因此它们至今可能仍在向可观测宇宙「泄漏」微中子。
-
-此外，由于这些原初黑洞诞生于暗维度，其蒸发机制可能只产生中微子而不产生光子，恰好解释为何 KM3NeT 探测器当年只侦测到超高能量单一微中子，而未伴随电磁讯号。
-
-新理论提出后便在物理学界引发激烈讨论，一些先前也主张原初黑洞是 KM3NeT 讯号来源的物理学家相当认同，但也有专家质疑其高度理论化的本质，认为过度依赖尚未被实验证实的弦理论与额外维度。
-
-面对当前模型无法解释的异常讯号，一些物理学家大胆踏进纯粹数学推演阶段的弦理论与额外维度，试图找出能打开 KM3NeT 谜团的钥匙，虽然离被证实还有很长的路要走，但无疑打开另一扇通往未知物理的大门。]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
 </channel>
 </rss>
