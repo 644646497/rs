@@ -4,7 +4,150 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 07 Oct 2026 18:01:31 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 23:54:23 GMT</lastBuildDate>
+  <item>
+    <title>深海微生物的固氮酵素，为何能在近百度的高温下运作？</title>
+    <link>https://technews.tw/2026/10/08/methanocaldococcus-infernus-can-withstand-near-100c-temperatures/</link>
+    <guid>https://technews.tw/2026/10/08/methanocaldococcus-infernus-can-withstand-near-100c-temperatures/</guid>
+    <pubDate>Wed, 07 Oct 2026 23:50:14 +0000</pubDate>
+    <description><![CDATA[近 100°C 的高温，对多数生物来说都是难以生存的恶劣环境，此时绝大部分的蛋白质早已失去原本的结构和功能。不过，深海中却有微生物能在此高温下存活，并催化相当复杂的化学反应。最近，德国马克斯·普朗克研究所（Max Planck Institute）的科学家发现，一种古菌中的固氮酵素（nitrogenase），竟然可以耐受近百度的高温。这项研究已于近日刊登在国际期刊《Nature Communications》，并揭开了这种特殊酵素能在极端环境中作用的部分秘密。
+
+本次研究的微生物「地狱嗜热甲烷球菌」（Methanocaldococcus infernus），能在约 92°C 的条件下利用氮气生长。研究发现，由这种古菌分离出的固氮酵素耐热程度相当惊人，大约到了 90°C 才开始明显解体，而且即使加热到 98°C，仍有部分蛋白质可以维持完整。
+
+研究发现此固氮酵素在常温下反而不易进行固氮反应，升高温度后才展现出较好的活性。这可能与酵素的结构特性有关，一般蛋白质需要一定程度的柔软性，才能在反应过程中改变形状，但这种超耐热酵素为了在高温下保持稳定，结构可能变得更加紧密。因此，在低温环境下反而不容易完成催化反应，到了接近它原本生活的高温环境，才比较能兼顾稳定性与活性。
+
+为了解这种酵素为什么能在高温下完成固氮，研究团队进一步利用 X 光晶体学（X-ray crystallography）观察它的立体结构。他们发现，酵素中的铁钼辅因子（FeMo-cofactor）是处理氮气的关键，就像一个负责启动反应的核心工作区。更特别的是，研究人员还捕捉到酵素进行反应时的状态（turnover state），就像拍下它正在工作的瞬间。过去这种状态主要在其他类型的固氮酵素中被观察到，如今也出现在含钼的固氮酵素中，显示不同固氮酵素可能共享一些相似的反应方式，也为科学家理解生物如何把难以利用的氮气转换成可用形式提供新的线索。
+
+此研究目前仍属基础科学阶段，距离实际应用还有一段距离。不过，固氮反应与农业有非常密切的关系。现行农业仍大量仰赖工业方式所制造的氮肥，但传统的哈柏法（Haber-Bosch process）需要消耗大量能源。因此科学家一直希望从自然界的固氮微生物获得更节省能源的方法。这种来自深海的酵素提供了一个很独特的机会，它不但异常耐热，而且具有相对精简的结构。未来如果能进一步理解这些结构如何维持稳定，以及金属中心如何一步步活化氮气，或许能帮助科学家设计更有效率的人工固氮系统。
+
+深海微生物的固氮酵素，或许还无法立即改变我们的农业，但它让科学家看到一种截然不同的解决方式。生命为了适应极端环境，演化出许多令人意外的生存策略，而这些策略也可能成为人类未来发展新技术的灵感来源。探索这些生活在极端环境中的微生物，也许能让我们从自然界找到更多解决问题的方法。有些答案可能一直存在，只是人类还没找到它。]]></description>
+  </item>
+  <item>
+    <title>破除网速迷思：为什么升级方案还是卡？一文看懂频宽与吞吐量的差异</title>
+    <link>https://technews.tw/2026/10/08/difference-between-network-and-bandwidth/</link>
+    <guid>https://technews.tw/2026/10/08/difference-between-network-and-bandwidth/</guid>
+    <pubDate>Wed, 07 Oct 2026 23:40:27 +0000</pubDate>
+    <description><![CDATA[许多人习惯将「网速」视为衡量网路品质的唯一标准，但其实这是一个常见的误区。我们在测速软体上看到的数字，多半是「吞吐量」（Throughput），也就是当下资料真实送达装置的速率。相对地，电信方案常标榜的数字其实是「频宽」（Bandwidth），它代表的是网路的最大容量上限，就如同水管的管径大小。真正决定您上网体验的，是资料在扣除各种环境限制后，最终抵达装置的实际速度。
+
+这也正是为什么，实际测速的结果通常无法超越方案标示的频宽上限。当遭遇网路壅塞、分享器（路由器）负载过高，或是周遭无线讯号干扰时，使用者实际体验到的速度往往会低于理论值。换言之，业者主打的方案速度，描述的是这条线路「最多能承载多少资料」，而非保证「每一秒都能稳定送达多少资料」。
+
+除了吞吐量与频宽，另一个严重影响体感的关键指标是「延迟」（Latency）。延迟是指资料在装置与伺服器之间往返所需的时间，通常以毫秒（ms）为单位，也就是我们在 Ping 测试中量到的数值。如果网路延迟偏高、讯号抖动（Jitter）不稳定，甚至发生封包遗失（Packet Loss），那么即使您申办了高达 500 Mbps 的高速宽频，在玩线上游戏、进行视讯通话或远端桌面操作时，依然会感到明显的卡顿与迟钝。
+
+总结来说，不同的网路指标各自对应著不同的使用情境。下载速度决定了观看串流影音、浏览网页与下载档案的顺畅度；上传速度则深刻影响著视讯会议的画质、云端备份的效率以及档案分享的快慢；而延迟与稳定度，更是直接左右了所有互动型应用程式的即时反应。因此，对于一般日常使用而言，我们在评估网路品质时，不应只紧盯著「几 Mbps」看，更要将 Ping 值、抖动率与封包遗失等关键指标一并纳入考量。]]></description>
+  </item>
+  <item>
+    <title>博通传筹资 300 亿美元，助 OpenAI 采购客制化 AI 晶片</title>
+    <link>https://technews.tw/2026/10/08/broadcom-reportedly-raising-30-billion-to-fund-openai-custom-ai-chip-procurement/</link>
+    <guid>https://technews.tw/2026/10/08/broadcom-reportedly-raising-30-billion-to-fund-openai-custom-ai-chip-procurement/</guid>
+    <pubDate>Wed, 07 Oct 2026 23:34:27 +0000</pubDate>
+    <description><![CDATA[随 AI 基础设施投资规模持续扩大，科技企业开始透过大型债务融资支应晶片采购需求。根据外电报导，博通正初步洽谈一项规模约 300 亿美元的融资案，协助 OpenAI 采购双方共同开发的客制化 AI 晶片。这也是博通继协助 Anthropic 筹措 600 亿美元融资后，再度规画大型 AI 晶片融资交易。
+
+知情人士透露，博通与 OpenAI 目前尚未启动正式融资程序，相关规模及交易安排仍可能调整，完成时间也尚未确定。对此，博通与 OpenAI 均拒绝置评。
+
+博通近期积极扩大 AI 基础设施融资布局。公司先前已启动一项规模达 600 亿美元的债务融资计划，以支持 Anthropic 的 AI 晶片采购需求。其中，420 亿美元为 A 类优先担保债务，相关银行上周已开始向潜在投资人发送联贷邀请文件；另外 180 亿美元则为 B 类次顺位债务，由黑石集团（Blackstone）主导，并透过旗下基金承诺投入 90 亿美元。
+
+事实上，博通今年 6 月已宣布建立 AI 基础设施融资平台，由阿波罗全球管理公司（Apollo Global Management）与黑石集团担任主要投资人，计划在 2028 年前协助包括 Anthropic、OpenAI 在内的 AI 开发商取得超过 20 GW 的运算容量，预计整体投资需求将达数千亿美元。
+
+除了博通，其他科技企业也积极寻求外部资金支持 AI 晶片采购。据外电指出，马斯克旗下 SpaceX 已与银行及投资人展开洽谈，计划筹集约 400 亿美元，用于购买辉达晶片，相关交易预计要到 2027 年才可能完成。另一方面，甲骨文也正与阿波罗全球管理公司及高盛集团洽谈晶片采购融资。]]></description>
+  </item>
+  <item>
+    <title>年底大选逼近，当政治人物开始用 AI「借你的嘴说话」</title>
+    <link>https://infosecu.technews.tw/2026/10/08/year-end-election-politicians-ai-borrow-voice/</link>
+    <guid>https://infosecu.technews.tw/2026/10/08/year-end-election-politicians-ai-borrow-voice/</guid>
+    <pubDate>Wed, 07 Oct 2026 23:30:08 +0000</pubDate>
+    <description><![CDATA[7 月底名为「油不得你」的宣传片流出。现任在野党为了以「毒油」食安争议攻击政府，使用 AI 模拟总统赖清德的声音制作这支政治宣传片，委托制作的台北市长蒋万安坦承其事，并主张影片已标示 AI 生成、不构成犯罪。这句「已标示 AI 生成」值得玩味──因将「揭露」偷换概念成「免责」，仿佛承认造假就等于造假不再是造假。但剪辑过、演算法推播的短片，往往二次转传时断章取义，观众看到的，可能只剩下以假乱真的「AI 声优」。
+
+真正让事件失控的，是台南市长黄伟哲之后以AI合成蒋万安声音反击，双方互告公然侮辱、诽谤与个资法。这比单方攻击更危险，当朝野双方都默许彼此使用深伪，等于共同把这项技术的政治使用「合理化」──不是靠修法，而是靠双方心照不宣的相互背书，往后任何一方指控对手伪造，都得先面对「你们自己也做过」的提问。
+
+法律规范在这里几乎没有约束力，台湾没有概括性的「AI深伪罪」，若要提出告诉，仍须回头套用妨害名誉、个资法等既有框架个案认定。这透露思维局限：现行法预设的受害者是「被冒用的候选人」，保护个人名誉与选举公正这类可究责的个人权益受侵害。但事件真正的伤害发生在另一层──当选民习惯「总统的声音也可能是假的」，受损的不只是政治人物的名誉，而是整个社会判断与政治人物公信力降低。这种集体性的认知损耗、或现行法律的个人权利范畴框架几乎没有著力点，影响相当深远。
+
+境外势力介选也早有前车之鉴，2016年美国大选，俄罗斯「网路研究社」在Facebook、Twitter与Instagram大量注册假帐号，锁定非裔美国人等族群投放分化内容，压低民主党选情；行动并未随开票停止，2017年活跃度反而是2016年两倍，持续抹黑调查检察官穆勒。当年靠的是人力操作假帐号与精准广告，七年后的斯洛伐克更进化成AI合成候选人音档──2023年国会大选前夕一段伪造做票录音疯传，使候选人落败；但后续研究提出修正：真正该问的不只是深伪本身，还有低信任环境如何放大这种效应。从人力写手到一键产语音，介选门槛快速降低，台湾同时要面对这套逻辑的境外升级版与境内土炮版。
+
+11月28日台湾将举行九合一大选并并同公投，中共已列为对台工作关键指标，形成成熟介选产业链，锁定「黄金澄清时间」──投票前突袭释出深伪影音，等到事实查证、候选人忙著澄清时，选举早就选完了。这才是最刺眼之处：当境外势力准备利用资讯落差发动精准打击时，台湾政治人物过去半年却亲自示范如何把这套手法用在自己人身上。修法也许可以补上空白，但比修法更急迫的是，若连在朝政治人物都不把深伪当一回事，我们凭什么期待选民11月投票时相信你？]]></description>
+  </item>
+  <item>
+    <title>19 岁天才创办人获 1,100 万美元融资，新创 Ghost 推出要价 3,499 美元的「专属 AI 个人电脑」</title>
+    <link>https://technews.tw/2026/10/08/ghost-ai/</link>
+    <guid>https://technews.tw/2026/10/08/ghost-ai/</guid>
+    <pubDate>Wed, 07 Oct 2026 23:20:08 +0000</pubDate>
+    <description><![CDATA[成立仅一年的新创公司 Ghost 于周一正式亮相（结束隐形模式），并宣布完成 1,100 万美元的种子轮融资。本轮融资由知名创投 Andreessen Horowitz（a16z）领投，Abstract、Audacious Ventures、SV Angel 与 Nova 等机构也参与其中。令人瞩目的是，该公司创办人兼执行长 Zain Javaid 年仅 19 岁，让外界格外关注这支年轻团队将如何切入快速升温的个人化 AI 市场。
+
+Ghost 首波推出的主打产品名为「Core」，这是一台专为个人 AI 量身打造的电脑，核心目标是让 AI 能完全代替使用者执行各项任务。有别于传统通用型电脑，Core 采用前卫的「无萤幕」设计，使用者仅需透过手机 App 即可连接与操作。系统会在背景自动从桌面档案、应用程式以及已连结的智慧装置中整合脉络，协助 AI 顺畅完成指令。
+
+在硬体规格方面，Core 给出强悍的运算配置：搭载 NVIDIA RTX PRO 4000 Blackwell SFF 绘图晶片、AMD Ryzen 5 7600 处理器，并标配 64GB 记忆体与 1TB 储存空间。该机官方售价为 3,499 美元（约合新台币 11.3 万元），Ghost 已开放首批预购，预计将在 10 月最后一周陆续出货。]]></description>
+  </item>
+  <item>
+    <title>AI 图打败图库霸主，Getty Images 股价崩跌遭纽交所除牌</title>
+    <link>https://technews.tw/2026/10/08/getty-images-faces-delisting-amid-ai-image-impact/</link>
+    <guid>https://technews.tw/2026/10/08/getty-images-faces-delisting-amid-ai-image-impact/</guid>
+    <pubDate>Wed, 07 Oct 2026 23:10:43 +0000</pubDate>
+    <description><![CDATA[全球最大图库公司之一 Getty Images，因股价过低遭纽约证券交易所（NYSE）除牌，股份转至 OTC 场外市场交易。生成式 AI 让图片取得成本大幅下降，加上沉重债务与合并告吹，Getty 目前正与债权人商讨注资，期望新资金方能透过破产程序取得公司控制权。
+
+NYSE 于 9 月 29 日公布，Getty 的 Class A 普通股售价异常低，不符合挂牌标准，即时暂停交易并启动除牌程序。Getty 决定不上诉，股份自 9 月 30 日起转至 OTC Pink 市场交易，股票代号维持为 GETY。
+
+有报导指出，Getty 上周收盘价仅 0.042 美元，单日急挫 47.3%，市值大幅萎缩至 1,742 万美元。
+
+Getty 于 9 月 30 日宽限期最后一天，付清年息 9.75% 的 2027 年票据及年息 14% 的 2028 年票据利息，暂时避过违约危机。彭博报导提到，公司正与贷款机构展开融资商讨，当中包括破产程序期间适用的 DIP 贷款。
+
+截至 3 月 31 日，Getty 总负债约 20 亿美元，当中涵盖多项与合并相关的融资。为应付合并所需现金与再融资，Getty 曾发行 6.284 亿美元、年息 10.5% 的 2030 年到期优先担保票据。
+
+关于重组计划于 6 月彻底告吹，Getty 原拟作价 37 亿美元与 Shutterstock 合并，惟英国竞争及市场管理局（CMA）要求 Shutterstock 必须出售旗下编辑内容业务，Getty 最终于 6 月 30 日宣布终止交易。公司随后撤回 2026 年财务预测，等待资本结构检讨结果。
+
+图库行业的核心价值向来在于「稀缺性」：摄影师负责拍摄相片，图库公司整理并注入后设资料，客户付费购买取得授权。生成式 AI 彻底打破传统模式，用户只需输入提示词，系统数秒内即可生成所需图像。包括 Stable Diffusion 在内的多款模型更运用大量网上图像作训练基础。Getty 认为自家版权相片遭挪用作训练素材，因而于英美两地提告 Stability AI。
+
+英国高等法院于 2025 年 11 月做出裁决，结果对 Getty 相当不利。法官指出 Stable Diffusion 模型权重在训练时虽有调整，但最终成品并无储存任何原始相片档案，因此裁定不构成「侵权复制品」。Getty 仅于水印商标范畴获得局部胜诉，法院更裁定有关侵权行为属「历史性质」且范围「极其有限」。Getty 其后表示，会把英国诉讼的事实认定结果带入美国诉讼程序。
+
+步入 AI 时代，Getty 转为开拓「显示授权」策略。Perplexity 于 2025 年 10 月透过 Getty 的 API 在搜寻结果展示授权图像，并列出出处连结及授权条款。Getty 也于 2026 年 6 月与 OpenAI 签订相近协议，让 ChatGPT 能够在搜寻结果中显示 Getty 图片，惟条款列明不涵盖模型训练授权。Getty 其后于 7 月推出 Model Content Protocol 伺服器，同时扩展自然语言搜寻功能，方便合作伙伴将图库资源无缝接入 AI 应用程式。
+
+然而这些合作协议带来的收益，至今仍然未能填补财政缺口。Getty 于 2025 年录得 9.813 亿美元总收入，虽然刷新公司历年纪录，但部分收益主要来自两宗大型授权项目并已提前入帐，属于一次性质款项。Getty 能否成功摆脱困境，核心关键在于可否将 AI 授权转化为可持续的经常性收入，而非单纯依赖官司和解赔偿或单次授权收益。
+
+（本文由Unwire HK授权转载；首图来源：Unsplash）]]></description>
+  </item>
+  <item>
+    <title>跨界与重构：智驾晶片的车载 AI 时代角力赛</title>
+    <link>https://technews.tw/2026/10/08/crossover-restructuring-competition-smart-driving-chips-automotive-ai-era/</link>
+    <guid>https://technews.tw/2026/10/08/crossover-restructuring-competition-smart-driving-chips-automotive-ai-era/</guid>
+    <pubDate>Wed, 07 Oct 2026 23:00:23 +0000</pubDate>
+    <description><![CDATA[此文与拓墣产业研究院合作，转载内容为部分精华，欲购买完整报告请洽拓墣官网
+
+新车销售量停滞且电动化转型放缓之际，智驾系统已成为车企竞争的核心焦点。2026 年全球新车市场的 L2 渗透率（含 L2+ 与 L2++）估达 49%，新能源车更突破 75%，使智驾系统的技术与成本变化备受瞩目。本篇文章将带你了解 :智驾系统跃升为车厂竞争核心，智驾晶片为重中之重智驾晶片供应来源朝「合作与竞争多元化」前进车厂自研晶片已突破量产关卡，规模经济成为主要挑战]]></description>
+  </item>
+  <item>
+    <title>Surface Laptop Ultra 笔电展开预购，RTX Spark 晶片、磁吸式 USB-C 充电成亮点</title>
+    <link>https://ccc.technews.tw/2026/10/08/surface-laptop-ultra-and-surface-rtx-spark-dev-box-now-available-for-pre-order/</link>
+    <guid>https://ccc.technews.tw/2026/10/08/surface-laptop-ultra-and-surface-rtx-spark-dev-box-now-available-for-pre-order/</guid>
+    <pubDate>Wed, 07 Oct 2026 20:29:31 +0000</pubDate>
+    <description><![CDATA[微软揭晓 Surface Laptop Ultra 数个月过后，7 日宣布这款搭载 RTX Spark 晶片的全新笔电展开预购，10 月 16 日于美国上市，售价 2,599 美元起。
+
+Surface Laptop Ultra 配置 15 吋 PixelSense Ultra 触控萤幕，峰值亮度最高可达 2,000 尼特，还有支援触觉回馈的大尺寸触控板。内部搭载全新 RTX Spark 晶片，是一款以 Arm 架构为基础的运算晶片，由 NVIDIA 与联发科联手开发。最高阶机型配备 20 核心 CPU、128GB 统一记忆体及 1TB 储存空间，具备地端执行超过 1,200 亿参数模型的能力，售价来到近 5,900 美元。
+
+Surface Laptop Ultra 采用外型俐落的铝合金机身，看起来与苹果 MacBook Pro 有几分相似，事实上这款笔电的竞争对象正是 MacBook Pro。微软指出，相较于搭载 M5 Pro 的 16 吋 MacBook Pro，Surface Laptop Ultra 地端 AI 效能显著提升，首字生成速度快 2.1 倍、图片生成速度快 4.3 倍、影片生成速度快 6.2 倍。
+
+Surface Laptop Ultra 同时配备多样化的连接埠，包括 3 个 USB-C、1 个 HDMI、1 个 USB-A、一个 SD 读卡机、以及一个 3.5mm 耳机孔。
+
+值得一提的是，微软为 Surface Laptop Ultra 打造一套采用 USB-C 的磁吸式充电方案，这个 Magnetic Connect 可吸附在机身右侧的 USB-C 连接埠上，并预期支援影像与资料传输以及其他连接功能。Windows 与 Surface 部门主管 Pavan Davuluri 在媒体活动表示，使用者只要「把接头靠近，它便会直接吸附定位」。
+
+微软与 NVIDIA 皆将 RTX Spark 笔电定位在高阶机型，对于创作、游戏、开发与本地端 AI 任务等方面皆提供高效能表现。另有 Surface RTX Spark Dev Box，为桌面环境带来强大的地端 AI 运算能力，协助开发者与 AI 工程师在地端进行试验、模型评估与迭代。
+
+这两款新机即日起开放预购，Surface Laptop Ultra 10 月 16 日起在美上市，售价 2,599 美元起；而 Surface RTX Spark Dev Box 则是 11 月开始向美国客户出货，售价 5,999 美元起。
+
+除 Surface Laptop Ultra 外，搭载 RTX Spark 晶片的品牌新机同步推出：
+
+微软还宣布，由 NVIDIA DGX Station 驱动的新型超级电脑将在年底登陆 Windows 平台。透过 NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip，DGX Station for Windows 将资料中心等级的效能与企业级的安全性和管理能力结合在一起。过去可能需要租用丛集才能拥有的运算能力，现在只要一台桌上型超级电脑即可实现。]]></description>
+  </item>
+  <item>
+    <title>旺宏 9 月营收再创新高，前三季营收同步缔造新高纪录</title>
+    <link>https://finance.technews.tw/2026/10/08/macronixs-september-revenue-hit-a-new-high/</link>
+    <guid>https://finance.technews.tw/2026/10/08/macronixs-september-revenue-hit-a-new-high/</guid>
+    <pubDate>Wed, 07 Oct 2026 16:00:40 +0000</pubDate>
+    <description><![CDATA[记忆体大厂旺宏公布9月营收，单月合并营收达新台币83.67亿元，较8月份增加2.7%、较2025年同期也增加188.2%，创下历史新高，也连续6个月单月营收成长。累计，2026年前9个月合并营收为538.31亿元，较2025年同期增加 154.5%，也创下历年同期新高纪录。
+
+在上一季法说会上，旺宏总经理卢志远表示，受惠AI带动记忆体超级周期，NAND Flash与eMMC需求同步走强，市场需求「远远不能满足」。目前毛利率已接近7成，随产能陆续开出、市况延续，毛利率挑战8成「指日可待」。
+
+卢志远还强调，NAND Flash市场目前严重缺货、供不应求，其中SLC NAND与eMMC需求尤其强劲。而在NOR Flash方面，AI伺服器对高密度、高可靠性产品的需求压力最大，需求较以往倍增，目前eMMC与SLC产品采逐月议价，第4季涨势仍持续。
+
+为因应市场供不应求的强劲需求，旺宏已宣布追加新台币 158 亿元的资本支出预算，将全数专注于先进产能的扩充。随著先进产能扩充计划的落实以及车用新产品的布局，旺宏未来的营运表现仍具备高度的成长潜力，将持续在 AI 与记忆体超级周期的浪潮中站稳领先地位。]]></description>
+  </item>
   <item>
     <title>放大分子「左右手」差异，Kagan 与硖合宪三获 2026 诺贝尔化学奖</title>
     <link>https://technews.tw/2026/10/07/henri-kagan-and-kenso-soai-are-the-2026-nobel-prize-for-chemistry-winners/</link>
@@ -126,161 +269,6 @@ Terafab伙伴之一、美国晶片制造业巨擘英特尔（Intel）的执行�
 Austin Lyons指出，即使透过限制设计规则、避免将高效能单元垂直堆叠，或透过缩短布线来降低功耗、实现较低的热密度，仍可能因散热能力下降而面临更严重的散热问题。这正是高通与苹果对于在行动晶片中采用LogicFolding没兴趣的主要原因。他也认为，华为可能要到2030年才能在制程效能上追平台积电N3E。
 
 谈到散热问题，华为强调LogicFolding所带来的散热负担并没有外界人士担心地那么严重，尤其是因为这项技术能以短距离的垂直混合键合连结，取代原本较长的平面导线。华为指出，典型核心互连长度可缩短约20%，部分关键路径甚至可缩短约70%。]]></description>
-  </item>
-  <item>
-    <title>全球避险基金龙头创办人示警，AI 泡沫恐接近破裂</title>
-    <link>https://finance.technews.tw/2026/10/07/global-hedge-fund-founder-warns-ai-bubble-bursting/</link>
-    <guid>https://finance.technews.tw/2026/10/07/global-hedge-fund-founder-warns-ai-bubble-bursting/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:40:08 +0000</pubDate>
-    <description><![CDATA[全球避险基金龙头桥水联合公司（Bridgewater Associates）创办人达里欧警告，人工智慧（AI）处于「典型泡沫」，利率攀升后投资人将帐面财富落袋为安，AI 泡沫恐接近破裂。
-
-彭博报导，达里欧（Ray Dalio）今天在新加坡举行的富比士全球执行长大会（Forbes Global CEO Conference）指出，AI投资越来越依赖大规模举债融资，而利率持续攀升，这通常就是泡沫开始破裂的时间点。
-
-达里欧说：「我们目前还处在那个阶段之前，但正在接近。我认为已经近了。」
-
-科技巨头正在AI领域投入数千亿美元，而且越来越依赖债务融资。全球债券殖利率已攀抵数十年来高点，提高AI基础建设亟需巨额投资的融资成本。达里欧长期以来一直警告AI有泡沫。他发表上述评论之际，股票估值仍续攀升。投资人对科技公司获利前景的乐观情绪，推动标准普尔500指数和那斯达克指数本周创纪录新高。]]></description>
-  </item>
-  <item>
-    <title>GaN 满载、SiC 迎 V 型反弹，汉磊明年 AI 营收占比上看两成</title>
-    <link>https://technews.tw/2026/10/07/episil-targets-10-20-ai-revenue-share-2027-gan-sic-dual-growth-engines/</link>
-    <guid>https://technews.tw/2026/10/07/episil-targets-10-20-ai-revenue-share-2027-gan-sic-dual-growth-engines/</guid>
-    <pubDate>Wed, 07 Oct 2026 08:42:29 +0000</pubDate>
-    <description><![CDATA[AI 资料中心带动第三类半导体需求加速成长。汉磊总经理刘灿文表示，今年上半年 AI 相关营收占比约 5%，随 GaN 需求持续强劲，以及 SiC 逐步切入 AI 电源相关应用，预估下半年 AI 营收占比将提升至至少 10%，2027 年更有机会达 10%～20%。其中，GaN 下半年至明年产能预计维持满载，SiC 也随客户库存调整告一段落，营运呈现「V 型反弹」。
-
-汉磊今（7）日举行法人说明会。刘灿文表示，目前 AI 需求对 GaN 业务带动最为明显，其中又以 AI 资料中心为最大需求来源。公司预估，今年下半年 GaN 营收将较上半年成长 25%～30%，2027 年再成长 20% 以上；目前客户也持续提出扩产需求，公司正评估透过提升生产效率及后续投资增加产能。
-
-汉磊目前 GaN 主要布局中低压市场，除了 AI 资料中心外，也涵盖无人机、车用及人型机器人。公司指出，目前客户产品约有 50% 应用于 AI 基础设施，其余也有部分与 AI 应用相关，随 AI 资料中心电力需求持续攀升，成为 GaN 业务主要成长动能。
-
-SiC 业务则开始明显回温。刘灿文表示，先前受到客户库存调整影响，今年上半年 SiC 表现相对低迷，不过目前库存调整已逐步告一段落，客户投片量开始增加，公司预估今年下半年 SiC 营收将较上半年成长约 120%，2027 年 6 吋 SiC 营收更将挑战年增 100%。
-
-刘灿文表示，目前 AI 需求主要反映在 GaN，SiC 在 AI 相关应用的贡献仍相对有限，不过随 AI 资料中心电源、SST 等高压应用发展，预期 2027 年相关需求将逐步浮现。
-
-值得注意的是，汉磊也加速推进与世界先进合作的 8 吋 SiC，目前已有客户启动相关作业，另有约 5 家客户等待 Tape-out，公司目标今年底前进入风险试产。
-
-汉磊今年上半年合并营收约 33.29 亿元，年增约 25%，每股 -0.57 元。公司表示，随 AI 需求持续成长，以及 GaN、SiC 业务动能升温，预期下半年营运表现将优于上半年。]]></description>
-  </item>
-  <item>
-    <title>美资料中心建设支出大飙 73%！年化达 850 亿美元，4 个月来增速加快</title>
-    <link>https://technews.tw/2026/10/07/us-spending-on-data-center-buildings/</link>
-    <guid>https://technews.tw/2026/10/07/us-spending-on-data-center-buildings/</guid>
-    <pubDate>Wed, 07 Oct 2026 08:40:52 +0000</pubDate>
-    <description><![CDATA[AI基础建设需求持续升温，美国资料中心建设支出也同步创下新高。根据美国人口普查局（U.S. Census Bureau）公布的8月建筑支出数据，私人资料中心建设支出年化规模已达849.5亿美元，较去年同期的490.5亿美元大增超过73%，不仅创下历史新高，年增速度更是自2025年4月以来最快。
-
-据外媒Tom’s Hardware报导，8月资料中心建设支出的年增幅达73%，较5月的36.3%、6月的55.2%及7月的65.3%进一步加速，已连续4个月呈现加速成长。此外，一般办公室与资料中心建筑支出之间的差距已达391亿美元，创下人口普查局自2014年1月开始统计以来的最大差距。换言之，资料中心如今已成为私人办公室建筑支出的主要部分，占比约63%。
-
-值得注意的是，这项数据只反映资料中心「建筑本身」的投资，并未涵盖资料中心内部最昂贵的伺服器与机架，如「机架或伺服器」价值并不计入建筑支出，因此目前公布的849.5亿美元，并不能代表资料中心整体投资规模。
-
-随著AI伺服器、GPU、网路设备及储存系统需求同步增加，实际投入资料中心的资金规模远高于普查局目前统计的数字。尤其AI资料中心对高效能运算设备及电力基础建设的需求远高于传统资料中心，使得单一资料中心的建置成本持续攀升。
-
-除了资料中心外，电力建设也是美国基础建设投资的重要成长来源。8月电力建设支出年增9.7%，原因之一正是资料中心对电力需求快速攀升。由于AI伺服器的运算密度及功耗远高于传统伺服器，资料中心业者不仅需要兴建更多机房，也必须同步扩充电力供应、输电及相关基础设施。
-
-近期美国资料中心对电力需求的快速增加，也受市场关注。例如Black Hills日前宣布，计划在2027至2029年投入18亿美元，为位于怀俄明州夏延（Cheyenne）的Google资料中心开发新的发电能力，反映科技业者正积极寻找稳定且充足的电力来源，以支撑AI资料中心扩张。
-
-报导指出，随著AI需求推升硬体成本，伺服器支出同样正在增加，人口普查局的数据其实只呈现整体投资的一部分。不过，资料中心建筑支出持续加速，仍是市场未来发展方向的重要指标。美国人口普查局预计将于11月2日公布9月建筑支出数据，届时资料中心建设支出是否延续目前连续4个月加速的趋势，将成为观察AI基础建设投资热度的重要指标。]]></description>
-  </item>
-  <item>
-    <title>Windows 11 26H2 瘦身有感，搭配 Rufus 工具大幅降低记忆体占用</title>
-    <link>https://technews.tw/2026/10/07/windows-11-consumes-only-16-percent-of-ram-on-a-16gb-system/</link>
-    <guid>https://technews.tw/2026/10/07/windows-11-consumes-only-16-percent-of-ram-on-a-16gb-system/</guid>
-    <pubDate>Wed, 07 Oct 2026 08:24:23 +0000</pubDate>
-    <description><![CDATA[微软 9 月底释出的 Windows 11 26H2 版本更新，成功朝著降低整体记忆体用量又再迈进一步。一名来自日本的使用者借助开源 Windows 工具 Rufus，成功将自身记忆体使用率压低至仅约 16%。
-
-X 平台一名推友 @soyaakinohara6 使用的电脑，是大多数使用者都会认为相当老旧的硬体。从截图的工作管理员可清楚看出，Windows 11 系统运行在 16GB 容量、以 2,133MHz 运作的 DDR4 记忆体，其中只有 2.5GB 被占用，在闲置状态下记忆体使用率仅约 16%。
-
-相较之下，例如全新 Dell XPS 13 这类配备 8GB 记忆体的 Windows 11 笔电，什么事都没做的情况下，便已耗用 70% 记忆体，这也凸显出 Windows 11 系统还有很大的进步空间。
-
-所幸 @soyaakinohara6 运用 Rufus 更进一步，Rufus 这款开源 Windows 工具，提供能减少不必要内容的选项，可以用来制作开机随身碟。
-
-「我用 Rufus 删除了所有预装软体，然后安装了另一个版本，进一步套用 26H2 之后，Windows 11 的记忆体用量降低到前所未有的程度」，@soyaakinohara6 在贴文写到。
-
-rufusを使ってブロートウェアを全て削除し他バージョンをインストールし、さらに26h2を适用することによってwin11のメモリが见たことないくらい削减されてる https://t.co/u5goPDCo99
-
-— 秋ノ原窓也@第六拠点 (@soyaakinohara6)October 6, 2026
-
-无论实际操作流程为何，@soyaakinohara6 做法确实成功降低 Windows 11 的记忆体用量。此外，另有推友分享使用 Windows 11 26H2 版本，启动搭载 32GB DDR4 记忆体的电脑时，占用的记忆体已降至 5GB~6GB 的水准。
-
-26H2、起动时にメモリが 5 ~ 6 GB になった。すげえ、Windows じゃないみたい… https://t.co/Uqc8ILQoaF
-
-— Mitsuharu Emoto (@mitsuharu_e)October 6, 2026
-
-对微软而言，如何在保留功能、安全性与相容性的同时降低系统负担，依旧是改善 Windows 11 使用体验的重要课题。]]></description>
-  </item>
-  <item>
-    <title>美光桃园工会宣布，透过会员投票取得罢工权</title>
-    <link>https://technews.tw/2026/10/07/new-developments-in-the-micron-taiwan-strike-case/</link>
-    <guid>https://technews.tw/2026/10/07/new-developments-in-the-micron-taiwan-strike-case/</guid>
-    <pubDate>Wed, 07 Oct 2026 08:00:24 +0000</pubDate>
-    <description><![CDATA[台湾美光 mttw 工会于 7 日宣布，经过会员 6 天投票与开票作业，已正式高票取得罢工及设置罢工纠察线的权利。本次投票领票名册共 2,258 人、实际投票 2,012 人，其中同意票 1,994 张、不同意票 14 张、废票 4 张，投票率达 89.1%，全体会员同意票占比高达 88.3%，占投票人数比例更高达 99%。
-
-工会指出，这场抗争的核心并非单纯要求更多奖金，而是「要求企业公平分配成果」。工会质疑内部奖酬机制呈现「风险全员化，利益高层化」的巨大落差。以2025年为例，台湾员工的绩效奖金（IPP）约为2.3至2.6个月，但执行长当年的现金绩效奖励却高达32.4个月；在股票奖励（RSA）方面，2025年全球员工平均获派约207股，执行长一人即获得83,015股，相差约400倍。即便在2023年公司大亏损且裁员近15%期间，执行长仍获得约225,000股RSA，约为全球员工平均值的570倍。
-
-为解决利益分配过度集中问题，工会提出四大诉求核心，主张建立「营业利益15%的员工分润制度」。工会表示，美光过去曾实施过以季度净利10%分红的制度，证明获利分享完全可行。此外，国际竞争对手如三星（Samsung）、SK海力士（SK Hynix），以及台湾半导体同业台积电、南亚科、华邦电、力积电等，皆已建立与经营成果连动的常态分红机制。
-
-工会强调，员工并非要求无条件奖金，而是期待建立公开、透明且反映实际获利的制度，与公司形成利益共同体。因美光将于美国时间10月8日至9日召开董事会，工会特别呼吁公司董事会重视并正面回应诉求，拿出具体方案进行对等协商。]]></description>
-  </item>
-  <item>
-    <title>Google 全新模型 EmbeddingGemma 2 登场，Mac 离线 AI 工具轻松整合个人知识库</title>
-    <link>https://technews.tw/2026/10/07/google-mac-ai-app/</link>
-    <guid>https://technews.tw/2026/10/07/google-mac-ai-app/</guid>
-    <pubDate>Wed, 07 Oct 2026 07:50:36 +0000</pubDate>
-    <description><![CDATA[Google 于 6 日正式宣布推出全新的 EmbeddingGemma 2 模型，主打让使用者能直接在一般消费级装置上，无缝搜寻、整理并连结文字、图片、音讯与影片等多模态资讯。这项技术最大的亮点在于资料处理全程于「装置端」（On-device）独立完成，完全无须仰赖云端连线。该模型奠基于 Gemma 4 架构，具备 7.4 亿参数，并采用 Apache 2.0 开源授权，旨在确保即使在运算资源受限的环境下，依然能维持强大的本机推论效能。
-
-为具体展示新模型的强大潜力，Google 同步推出了一款专为 Mac 打造的实验性应用程式 AI Edge Foresight，深度锁定智慧笔记与个人知识检索两大应用情境。在进行视讯或实体会议时，这款应用程式会在背景安静运作；使用者只需随手记下简短的关键字提示，系统便会自动结合即时生成的会议逐字稿，瞬间将这些速记扩充为语意通顺且完整的笔记。最重要的是，所有音讯与逐字稿均严格限制在本机处理，绝不上传云端，为商务与个人隐私提供最高层级的保障。
-
-除了会议记录，AI Edge Foresight 也能化身专属的个人知识库。使用者可将其连结至专案资料夹、参考文件、图表与行事历，并全面支援本机档案及 Google Drive。透过对话式的检索与摘要功能，使用者能直接向系统提问，快速精准地找出所需资讯。此外，Google 更加码导入了「即时助理」（Live Assistance）功能，让应用程式能持续聆听工作脉络，并自动回答使用者的问题，免去手动翻找档案的繁琐过程。
-
-在硬体资源占用方面，Google 强调经过量化处理后的 EmbeddingGemma 2 负担极低。以 Google Pixel 11 Pro 为例，纯文字版权重仅需占用约 191MB 的活动记忆体（RAM），而完整的多模态版本也仅需约 567MB。除了 Mac 版的展示工具，手机端的 Google AI Edge Gallery 也将迎来「Instant Media Search」（即时媒体搜寻）与「Video Moments Finder」（影片片段寻找）两项全新升级，让使用者能透过文字或图片，轻松在本机媒体库中搜寻内容，甚至一键定位特定的影片片段。]]></description>
-  </item>
-  <item>
-    <title>最熟悉的软体最危险！Linux 后门冒充台韩企业常用「邮件安全产品」躲避侦测</title>
-    <link>https://infosecu.technews.tw/2026/10/07/linux-backdoors-impersonate-email-security-tools-to-evade-detection-in-korea-and-taiwan/</link>
-    <guid>https://infosecu.technews.tw/2026/10/07/linux-backdoors-impersonate-email-security-tools-to-evade-detection-in-korea-and-taiwan/</guid>
-    <pubDate>Wed, 07 Oct 2026 07:40:22 +0000</pubDate>
-    <description><![CDATA[资安公司 Rapid7发现，针对韩国与台湾电信及网路装置的 Linux 后门程式，会把流量伪装成电子邮件服务，并冒用当地常见邮件安全产品的名称，以躲避侦测。
-
-据 The Hacker News 报导，Rapid7 分析的这批后门，不只沿用恶意程式借用合法系统元件名称的常见手法，而是直接冒充在韩国与台湾企业环境中广泛使用的电子邮件安全产品 SpamSniper 与 ShareTech。SpamSniper 由韩国厂商 Jiran Group 推出，官方宣传为「韩国领先的电子邮件安全方案」。
-
-样本包括用于攻击韩国目标的新版 BPFDoor 变种与一个 BPF Rekoobe 版本，以及一款先前未曾公开、被命名为 AVERAT 的 Linux 植入程式，后者透过投放器（dropper）部署在台湾的装置上。Rapid7 指出，针对韩国的 BPFDoor 变种会冒用 SpamSniper 的 PID 档，并轮替使用十个 Linux 常驻程式名称；另有样本将行程命名为「ora_ppmond」，模仿 Oracle 资料库 PMON 背景行程的命名惯例。
-
-BPFDoor 利用伯克利包过滤器（BPF）检查进入的网路流量，只在侦测到特定「魔术封包」时才启动，相关活动先前被连结到代号 Red Menshen 的组织，该组织自 2021 年起即锁定中东与亚洲电信业者。Rapid7 表示，在资安厂商针对其第四层异常写出 Suricata／Snort 静态特征后，攻击者转向边缘代理伺服器，把魔术封包包进标准 HTTPS POST 请求，并利用电信环境常见的 SSL 卸载，可能借此躲过传统深度封包检测。触发后会启动 TinyShell 工作阶段，而 TinyShell 过去曾被归属于 Liminal Panda、UNC3886 与 Velvet Ant 等与中国有关的组织。
-
-▲ 透过边缘代理伺服器的 BPFDoor HTTP 隧道触发流程概述。（Source：Rapid7）
-
-AVERAT 的投放器藏在 ShareTech 装置的附加套件目录中，以「ShareTech」字串推导加密金钥，解密后部署两个执行档，并在 10 秒后删除。AVERAT 以简易邮件传输协定（SMTP）作为命令与控制（C2）通道，每 600 至 699 秒经 TCP 25 埠连线 C2 伺服器，支援目录列举、档案上传下载、互动式 shell、重新开机、载入模组与开启代理通道等指令。Rapid7 指其 C2 基础设施特征符合作业中继盒（ORB）网路，但没有证据显示属于任何已知的 ORB。
-
-Rapid7 建议企业检查不需要封包撷取的 Linux 系统上是否有异常的原始封包 socket 与 BPF 过滤器、稽核非邮件服务行程对外的 TCP 25 埠连线、扫描伪装成常见常驻程式的行程，并限制路由器、DVR 等边缘装置的管理存取。该公司表示，这些样本的共同点是「区域化伪装」，每一个样本都清楚目标系统上执行的是哪家厂商的软体。]]></description>
-  </item>
-  <item>
-    <title>记忆体涨价打击入门机款，苹果顺势登欧洲电信商通路市占第一</title>
-    <link>https://technews.tw/2026/10/07/memory-ow-end-smartphone/</link>
-    <guid>https://technews.tw/2026/10/07/memory-ow-end-smartphone/</guid>
-    <pubDate>Wed, 07 Oct 2026 07:33:34 +0000</pubDate>
-    <description><![CDATA[全球记忆体价格上涨正改变欧洲智慧手机市场结构，据调研机构 Counterpoint Research 最新报告指出，2026 年第二季欧洲智慧手机整体销量年减 8%，但电信商通路仅下滑 4%，表现明显优于开放市场的 11% 跌幅；在通路结构转变下，苹果也超越三星，成为欧洲电信商通路智慧手机市占第一。
-
-Counterpoint 指出，今年记忆体价格危机对低阶入门智慧手机市场冲击尤其明显，由于电信商通路多采合约购机，产品组合也较偏向中高阶机种，因此相较高度仰赖低阶产品的开放市场，受到的影响较小。
-
-从品牌表现来看，苹果第二季在欧洲电信商通路的市占由去年同期 33% 升至 37%，三星则由 39% 降至 34%，也让苹果正式超车三星、跃居第一。
-
-除了苹果之外，vivo 与 Motorola 也在电信商通路缴出亮眼成绩。其中 vivo 销量年增 90%，Motorola 则年增 27%，成为成长幅度最大的两个品牌。
-
-Counterpoint 认为，欧洲电信商通路本身就较集中于苹果、三星、Google 等中高阶品牌，当记忆体成本上升压缩低阶机种生存空间时，反而进一步凸显电信商通路的相对优势。
-
-这样的趋势也与欧洲整体市场变化一致，Counterpoint 先前指出，2026 年第二季欧洲智慧手机出货量年减 10% 至 3,500 万支，创三年来第二季低点；其中西欧表现相对有撑，主要受苹果强劲表现与三星小幅成长支撑，但较依赖低阶机种的东欧市场则明显承压。
-
-Counterpoint 预期，随低阶智慧手机持续受到记忆体价格压力影响，未来几季电信商通路占比仍可能进一步提升。不过独立零售商近期也开始加大促销力道，有机会部分抵销涨价冲击，为开放市场带来支撑。]]></description>
-  </item>
-  <item>
-    <title>骇客挟持三国顶级网域，替 Google 等大型服务伪造 TLS 凭证</title>
-    <link>https://infosecu.technews.tw/2026/10/07/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</link>
-    <guid>https://infosecu.technews.tw/2026/10/07/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</guid>
-    <pubDate>Wed, 07 Oct 2026 07:30:07 +0000</pubDate>
-    <description><![CDATA[外媒 Ars Technica 报导，Google 6 日披露攻击者对 .gh、.sl 与 .as 三个国家代码顶级网域（ccTLD）发动连串攻击，接著窜改这些注册管理机构所核发特定网域的 DNS 纪录。取得收发这些网域流量权限后，攻击者替「数个 Google 网域」与「数个全球领先品牌与大量使用的线上服务」产生未经授权的凭证。
-
-Google 表示，已更新 Chrome 浏览器，封锁所有确认是伪造的凭证，并与其他凭证授权机构（CA）合作，确保其他浏览器也采取相同措施。
-
-TLS 凭证是网站、信件伺服器与其他网际网路基础设施进行身分验证与加密保护的密码学凭据。这类 X.509 凭证以数位签章把一个身分（如 Google）绑定一把公钥，并同时绑定身分所属的特定网域。公钥公开可得，私钥只由网站营运者持有；连线时金钥相符，造访者就能确认自己连上的是真正的网站而非冒牌货。一旦攻击者握有未经授权的凭证，就能在密码学层面冒充受影响的基础设施。
-
-Google 并未说明旗下哪些网域受影响，也没有点名其他受害组织。Google 同时提醒浏览器使用者与网域拥有者，无法确定已找出所有伪造凭证，并建议网域拥有者检查 TLS 透明度纪录（transparency logs），确认是否有人替自己拥有的网址签发过凭证。]]></description>
   </item>
 </channel>
 </rss>
