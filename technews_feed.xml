@@ -4,271 +4,213 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 07 Oct 2026 23:54:23 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 03:12:45 GMT</lastBuildDate>
   <item>
-    <title>深海微生物的固氮酵素，为何能在近百度的高温下运作？</title>
-    <link>https://technews.tw/2026/10/08/methanocaldococcus-infernus-can-withstand-near-100c-temperatures/</link>
-    <guid>https://technews.tw/2026/10/08/methanocaldococcus-infernus-can-withstand-near-100c-temperatures/</guid>
-    <pubDate>Wed, 07 Oct 2026 23:50:14 +0000</pubDate>
-    <description><![CDATA[近 100°C 的高温，对多数生物来说都是难以生存的恶劣环境，此时绝大部分的蛋白质早已失去原本的结构和功能。不过，深海中却有微生物能在此高温下存活，并催化相当复杂的化学反应。最近，德国马克斯·普朗克研究所（Max Planck Institute）的科学家发现，一种古菌中的固氮酵素（nitrogenase），竟然可以耐受近百度的高温。这项研究已于近日刊登在国际期刊《Nature Communications》，并揭开了这种特殊酵素能在极端环境中作用的部分秘密。
+    <title>「对外喊煞车，对内踩油门」OpenAI 前安全主管切心吐离职心声</title>
+    <link>https://infosecu.technews.tw/2026/10/08/openai-former-safety-leader-insights/</link>
+    <guid>https://infosecu.technews.tw/2026/10/08/openai-former-safety-leader-insights/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:10:44 +0000</pubDate>
+    <description><![CDATA[OpenAI 前安全系统团队主管 David Robinson 近日吐露离职心声，坦言离开的关键原因在于内心强烈的「认知失调」。他指出，公司一方面持续对外发布新模型的风险警告，另一方面却又加速训练与部署这些被视为危险的系统。
 
-本次研究的微生物「地狱嗜热甲烷球菌」（Methanocaldococcus infernus），能在约 92°C 的条件下利用氮气生长。研究发现，由这种古菌分离出的固氮酵素耐热程度相当惊人，大约到了 90°C 才开始明显解体，而且即使加热到 98°C，仍有部分蛋白质可以维持完整。
+日前在接受《纽约时报》Ezra Klein 专访时，Robinson 表示，OpenAI 虽对外宣称要放慢脚步并重视安全，内部却维持著极度紧凑的开发节奏，这种「说一套、做一套」的做法让他难以接受。他形容，公司内部弥漫著一股「狂热」的气氛，员工们几乎都在透支体力的状态下工作。
 
-研究发现此固氮酵素在常温下反而不易进行固氮反应，升高温度后才展现出较好的活性。这可能与酵素的结构特性有关，一般蛋白质需要一定程度的柔软性，才能在反应过程中改变形状，但这种超耐热酵素为了在高温下保持稳定，结构可能变得更加紧密。因此，在低温环境下反而不容易完成催化反应，到了接近它原本生活的高温环境，才比较能兼顾稳定性与活性。
+过去主要负责安全透明度与风险评估、并长期撰写产品安全报告的 Robinson 坦言，自己已愈来愈无法认同科技业「边推出、边补强」的开发模式。他强调，随著 AI 系统能力不断跃进，任何失误的代价都将被无限放大，单靠传统「试错式」的迭代部署，早已不足以应对潜在的庞大风险。
 
-为了解这种酵素为什么能在高温下完成固氮，研究团队进一步利用 X 光晶体学（X-ray crystallography）观察它的立体结构。他们发现，酵素中的铁钼辅因子（FeMo-cofactor）是处理氮气的关键，就像一个负责启动反应的核心工作区。更特别的是，研究人员还捕捉到酵素进行反应时的状态（turnover state），就像拍下它正在工作的瞬间。过去这种状态主要在其他类型的固氮酵素中被观察到，如今也出现在含钼的固氮酵素中，显示不同固氮酵素可能共享一些相似的反应方式，也为科学家理解生物如何把难以利用的氮气转换成可用形式提供新的线索。
+不仅是 OpenAI，Robinson 更直言整个 AI 产业的安全文化皆尚未成熟。他认为，目前开发先进 AI 的方式仍带有浓厚的新创色彩，缺乏高风险产业应有的严格规范与多重备援机制。他强烈建议，前沿 AI 实验室应借镜核电与航空业的管理思维，建立更严密的内部安全流程与外部监管约束。
 
-此研究目前仍属基础科学阶段，距离实际应用还有一段距离。不过，固氮反应与农业有非常密切的关系。现行农业仍大量仰赖工业方式所制造的氮肥，但传统的哈柏法（Haber-Bosch process）需要消耗大量能源。因此科学家一直希望从自然界的固氮微生物获得更节省能源的方法。这种来自深海的酵素提供了一个很独特的机会，它不但异常耐热，而且具有相对精简的结构。未来如果能进一步理解这些结构如何维持稳定，以及金属中心如何一步步活化氮气，或许能帮助科学家设计更有效率的人工固氮系统。
-
-深海微生物的固氮酵素，或许还无法立即改变我们的农业，但它让科学家看到一种截然不同的解决方式。生命为了适应极端环境，演化出许多令人意外的生存策略，而这些策略也可能成为人类未来发展新技术的灵感来源。探索这些生活在极端环境中的微生物，也许能让我们从自然界找到更多解决问题的方法。有些答案可能一直存在，只是人类还没找到它。]]></description>
+针对外界与离职员工的疑虑，OpenAI 先前曾回应强调，公司正持续强化模型的安全与资安防护；若有必要，也会主动暂停训练或延后发布产品，以确保模型的能力发展始终维持在可安全管理的范围内。]]></description>
   </item>
   <item>
-    <title>破除网速迷思：为什么升级方案还是卡？一文看懂频宽与吞吐量的差异</title>
-    <link>https://technews.tw/2026/10/08/difference-between-network-and-bandwidth/</link>
-    <guid>https://technews.tw/2026/10/08/difference-between-network-and-bandwidth/</guid>
-    <pubDate>Wed, 07 Oct 2026 23:40:27 +0000</pubDate>
-    <description><![CDATA[许多人习惯将「网速」视为衡量网路品质的唯一标准，但其实这是一个常见的误区。我们在测速软体上看到的数字，多半是「吞吐量」（Throughput），也就是当下资料真实送达装置的速率。相对地，电信方案常标榜的数字其实是「频宽」（Bandwidth），它代表的是网路的最大容量上限，就如同水管的管径大小。真正决定您上网体验的，是资料在扣除各种环境限制后，最终抵达装置的实际速度。
-
-这也正是为什么，实际测速的结果通常无法超越方案标示的频宽上限。当遭遇网路壅塞、分享器（路由器）负载过高，或是周遭无线讯号干扰时，使用者实际体验到的速度往往会低于理论值。换言之，业者主打的方案速度，描述的是这条线路「最多能承载多少资料」，而非保证「每一秒都能稳定送达多少资料」。
-
-除了吞吐量与频宽，另一个严重影响体感的关键指标是「延迟」（Latency）。延迟是指资料在装置与伺服器之间往返所需的时间，通常以毫秒（ms）为单位，也就是我们在 Ping 测试中量到的数值。如果网路延迟偏高、讯号抖动（Jitter）不稳定，甚至发生封包遗失（Packet Loss），那么即使您申办了高达 500 Mbps 的高速宽频，在玩线上游戏、进行视讯通话或远端桌面操作时，依然会感到明显的卡顿与迟钝。
-
-总结来说，不同的网路指标各自对应著不同的使用情境。下载速度决定了观看串流影音、浏览网页与下载档案的顺畅度；上传速度则深刻影响著视讯会议的画质、云端备份的效率以及档案分享的快慢；而延迟与稳定度，更是直接左右了所有互动型应用程式的即时反应。因此，对于一般日常使用而言，我们在评估网路品质时，不应只紧盯著「几 Mbps」看，更要将 Ping 值、抖动率与封包遗失等关键指标一并纳入考量。]]></description>
+    <title>矽统9月营收3.98 亿元</title>
+    <link>https://finance.technews.tw/2026/10/08/sis-2363-202609-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/10/08/sis-2363-202609-financial-report/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:10:09 +0000</pubDate>
+    <description><![CDATA[矽统（2363）今（7）日公布 9 月营收，达 3.98 亿元，较 8 月成长 -22.2%，较去年同期成长  [&#8230;]]]></description>
   </item>
   <item>
-    <title>博通传筹资 300 亿美元，助 OpenAI 采购客制化 AI 晶片</title>
-    <link>https://technews.tw/2026/10/08/broadcom-reportedly-raising-30-billion-to-fund-openai-custom-ai-chip-procurement/</link>
-    <guid>https://technews.tw/2026/10/08/broadcom-reportedly-raising-30-billion-to-fund-openai-custom-ai-chip-procurement/</guid>
-    <pubDate>Wed, 07 Oct 2026 23:34:27 +0000</pubDate>
-    <description><![CDATA[随 AI 基础设施投资规模持续扩大，科技企业开始透过大型债务融资支应晶片采购需求。根据外电报导，博通正初步洽谈一项规模约 300 亿美元的融资案，协助 OpenAI 采购双方共同开发的客制化 AI 晶片。这也是博通继协助 Anthropic 筹措 600 亿美元融资后，再度规画大型 AI 晶片融资交易。
-
-知情人士透露，博通与 OpenAI 目前尚未启动正式融资程序，相关规模及交易安排仍可能调整，完成时间也尚未确定。对此，博通与 OpenAI 均拒绝置评。
-
-博通近期积极扩大 AI 基础设施融资布局。公司先前已启动一项规模达 600 亿美元的债务融资计划，以支持 Anthropic 的 AI 晶片采购需求。其中，420 亿美元为 A 类优先担保债务，相关银行上周已开始向潜在投资人发送联贷邀请文件；另外 180 亿美元则为 B 类次顺位债务，由黑石集团（Blackstone）主导，并透过旗下基金承诺投入 90 亿美元。
-
-事实上，博通今年 6 月已宣布建立 AI 基础设施融资平台，由阿波罗全球管理公司（Apollo Global Management）与黑石集团担任主要投资人，计划在 2028 年前协助包括 Anthropic、OpenAI 在内的 AI 开发商取得超过 20 GW 的运算容量，预计整体投资需求将达数千亿美元。
-
-除了博通，其他科技企业也积极寻求外部资金支持 AI 晶片采购。据外电指出，马斯克旗下 SpaceX 已与银行及投资人展开洽谈，计划筹集约 400 亿美元，用于购买辉达晶片，相关交易预计要到 2027 年才可能完成。另一方面，甲骨文也正与阿波罗全球管理公司及高盛集团洽谈晶片采购融资。]]></description>
+    <title>旺宏9月营收月增2.7%</title>
+    <link>https://finance.technews.tw/2026/10/08/macronix-2337-202609-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/10/08/macronix-2337-202609-financial-report/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:10:06 +0000</pubDate>
+    <description><![CDATA[旺宏（2337）公布 9 月合并营收 83.67 亿元，较上（8）月成长 2.7%，与去年同期相比为年增 18 [&#8230;]]]></description>
   </item>
   <item>
-    <title>年底大选逼近，当政治人物开始用 AI「借你的嘴说话」</title>
-    <link>https://infosecu.technews.tw/2026/10/08/year-end-election-politicians-ai-borrow-voice/</link>
-    <guid>https://infosecu.technews.tw/2026/10/08/year-end-election-politicians-ai-borrow-voice/</guid>
-    <pubDate>Wed, 07 Oct 2026 23:30:08 +0000</pubDate>
-    <description><![CDATA[7 月底名为「油不得你」的宣传片流出。现任在野党为了以「毒油」食安争议攻击政府，使用 AI 模拟总统赖清德的声音制作这支政治宣传片，委托制作的台北市长蒋万安坦承其事，并主张影片已标示 AI 生成、不构成犯罪。这句「已标示 AI 生成」值得玩味──因将「揭露」偷换概念成「免责」，仿佛承认造假就等于造假不再是造假。但剪辑过、演算法推播的短片，往往二次转传时断章取义，观众看到的，可能只剩下以假乱真的「AI 声优」。
-
-真正让事件失控的，是台南市长黄伟哲之后以AI合成蒋万安声音反击，双方互告公然侮辱、诽谤与个资法。这比单方攻击更危险，当朝野双方都默许彼此使用深伪，等于共同把这项技术的政治使用「合理化」──不是靠修法，而是靠双方心照不宣的相互背书，往后任何一方指控对手伪造，都得先面对「你们自己也做过」的提问。
-
-法律规范在这里几乎没有约束力，台湾没有概括性的「AI深伪罪」，若要提出告诉，仍须回头套用妨害名誉、个资法等既有框架个案认定。这透露思维局限：现行法预设的受害者是「被冒用的候选人」，保护个人名誉与选举公正这类可究责的个人权益受侵害。但事件真正的伤害发生在另一层──当选民习惯「总统的声音也可能是假的」，受损的不只是政治人物的名誉，而是整个社会判断与政治人物公信力降低。这种集体性的认知损耗、或现行法律的个人权利范畴框架几乎没有著力点，影响相当深远。
-
-境外势力介选也早有前车之鉴，2016年美国大选，俄罗斯「网路研究社」在Facebook、Twitter与Instagram大量注册假帐号，锁定非裔美国人等族群投放分化内容，压低民主党选情；行动并未随开票停止，2017年活跃度反而是2016年两倍，持续抹黑调查检察官穆勒。当年靠的是人力操作假帐号与精准广告，七年后的斯洛伐克更进化成AI合成候选人音档──2023年国会大选前夕一段伪造做票录音疯传，使候选人落败；但后续研究提出修正：真正该问的不只是深伪本身，还有低信任环境如何放大这种效应。从人力写手到一键产语音，介选门槛快速降低，台湾同时要面对这套逻辑的境外升级版与境内土炮版。
-
-11月28日台湾将举行九合一大选并并同公投，中共已列为对台工作关键指标，形成成熟介选产业链，锁定「黄金澄清时间」──投票前突袭释出深伪影音，等到事实查证、候选人忙著澄清时，选举早就选完了。这才是最刺眼之处：当境外势力准备利用资讯落差发动精准打击时，台湾政治人物过去半年却亲自示范如何把这套手法用在自己人身上。修法也许可以补上空白，但比修法更急迫的是，若连在朝政治人物都不把深伪当一回事，我们凭什么期待选民11月投票时相信你？]]></description>
+    <title>国巨*9月营收170.68 亿元</title>
+    <link>https://finance.technews.tw/2026/10/08/yageo-2327-202609-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/10/08/yageo-2327-202609-financial-report/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:10:03 +0000</pubDate>
+    <description><![CDATA[国巨*（2327）今（7）日公布 9 月营收，达 170.68 亿元，较 8 月成长 4.5%，较去年同期成长 [&#8230;]]]></description>
   </item>
   <item>
-    <title>19 岁天才创办人获 1,100 万美元融资，新创 Ghost 推出要价 3,499 美元的「专属 AI 个人电脑」</title>
-    <link>https://technews.tw/2026/10/08/ghost-ai/</link>
-    <guid>https://technews.tw/2026/10/08/ghost-ai/</guid>
-    <pubDate>Wed, 07 Oct 2026 23:20:08 +0000</pubDate>
-    <description><![CDATA[成立仅一年的新创公司 Ghost 于周一正式亮相（结束隐形模式），并宣布完成 1,100 万美元的种子轮融资。本轮融资由知名创投 Andreessen Horowitz（a16z）领投，Abstract、Audacious Ventures、SV Angel 与 Nova 等机构也参与其中。令人瞩目的是，该公司创办人兼执行长 Zain Javaid 年仅 19 岁，让外界格外关注这支年轻团队将如何切入快速升温的个人化 AI 市场。
+    <title>不只 LG，施耐德也加入苹果第二方智慧家庭合作伙伴</title>
+    <link>https://technews.tw/2026/10/08/apple-smarthome-second-party-partnership-schneider/</link>
+    <guid>https://technews.tw/2026/10/08/apple-smarthome-second-party-partnership-schneider/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:09:11 +0000</pubDate>
+    <description><![CDATA[早先有传闻指出，苹果找上 LG 作为扩展智慧家庭版图的合作伙伴，双方合作开发一系列包括门铃、门锁、摄影机在内的智慧家庭配件；不过现在有进一步消息指出，苹果智慧家庭的「第二方」合作伙伴可能不只一家，施耐德（Schneider）也出现在 iOS 27.2 的 HomeKit 资料库中。
 
-Ghost 首波推出的主打产品名为「Core」，这是一台专为个人 AI 量身打造的电脑，核心目标是让 AI 能完全代替使用者执行各项任务。有别于传统通用型电脑，Core 采用前卫的「无萤幕」设计，使用者仅需透过手机 App 即可连接与操作。系统会在背景自动从桌面档案、应用程式以及已连结的智慧装置中整合脉络，协助 AI 顺畅完成指令。
+据先前消息指出，苹果正与 LG 共同开发一系列智慧家庭配件，包括智慧门锁、恒温器、摄影机与门铃等产品。虽然这些装置将以 LG 品牌上市，但苹果据传参与产品开发，借此快速扩大 Home 生态系。
 
-在硬体规格方面，Core 给出强悍的运算配置：搭载 NVIDIA RTX PRO 4000 Blackwell SFF 绘图晶片、AMD Ryzen 5 7600 处理器，并标配 64GB 记忆体与 1TB 储存空间。该机官方售价为 3,499 美元（约合新台币 11.3 万元），Ghost 已开放首批预购，预计将在 10 月最后一周陆续出货。]]></description>
+如今爆料者 pdfu 在 iOS 27.2 程式码中，又发现两款被标示为「second-party」的 Home 配件，分别是施耐德品牌的智慧恒温器，以及温湿度感测器。
+
+The “second-party” partnership includes accessories from Schneider:• Schneider Home Smart Thermostat• Schneider Electric Temperature/Humidity Sensor
+
+Only the Thermostat shows (placeholder) setup assets. Its setup configuration mentions Proximity Settings.
+
+In total, iOS 27.2 includes 10 accessory IDs in its _secondPartyProducts table in HomeKitMatter. These receive special treatment by the OS, including the setup assets reported. Many represent different variants of the same item.
+
+Matter VID/PIDs:LG:• Smart Thermostat: 4142/8864• GEMS Smart Thermostat: 4142/12273• Smart Deadbolt Lock: 4142/8896• GEMS Smart DoorLock: 4142/12274• Temperature/Humidity Sensor: 4142/8192• GEMS Smart Remote T/H Sensor: 4142/12272
+
+Schneider:• Thermostat TP: 4190/17645• Thermostat QA variant: 4190/17644• Temperature/Humidity Sensor: 4190/17647• Unidentified accessory, perhaps a Sensor QA variant: 4190/17648
+
+— pdfu (@itspdfu)October 7, 2026
+
+目前 HomeKit 资料库中，拥有「第二方」标示的产品，除了先前曝光的 LG 配件外，就只有这两款施耐德产品。爆料资讯显示，因为 LG 与施耐德的产品被归类为第二方的配件，将在作业系统中获得特殊待遇。
+
+这也意味著，苹果的智慧家庭策略可能不只是推出自家 HomePad、Apple TV 4K 与 HomePod mini 等第一方产品，而是同步透过合作伙伴扩张配件种类，建立更完整的 Home 生态系。
+
+不过目前仍无法确认苹果是否像参与 LG 配件开发一样，也深度参与施耐德产品的设计与工程开发；但从 iOS 27.2 的程式码来看，双方至少可能存在比一般 HomeKit 认证产品更紧密的合作关系。]]></description>
   </item>
   <item>
-    <title>AI 图打败图库霸主，Getty Images 股价崩跌遭纽交所除牌</title>
-    <link>https://technews.tw/2026/10/08/getty-images-faces-delisting-amid-ai-image-impact/</link>
-    <guid>https://technews.tw/2026/10/08/getty-images-faces-delisting-amid-ai-image-impact/</guid>
-    <pubDate>Wed, 07 Oct 2026 23:10:43 +0000</pubDate>
-    <description><![CDATA[全球最大图库公司之一 Getty Images，因股价过低遭纽约证券交易所（NYSE）除牌，股份转至 OTC 场外市场交易。生成式 AI 让图片取得成本大幅下降，加上沉重债务与合并告吹，Getty 目前正与债权人商讨注资，期望新资金方能透过破产程序取得公司控制权。
+    <title>DDR4 缺货延至 2027 年！大和赞南亚科获利，上修目标价至 700 元</title>
+    <link>https://technews.tw/2026/10/08/daiwa-see-nanya-technology-2026-09-revenue/</link>
+    <guid>https://technews.tw/2026/10/08/daiwa-see-nanya-technology-2026-09-revenue/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:06:49 +0000</pubDate>
+    <description><![CDATA[南亚科近期公布9月营收，单月营收首度突破450亿元，亮眼表现引发市场关注。日系外资大和出具最新报告指出，受到DRAM价格上涨带动，预期南亚科第三季获利将优于市场预期，料DDR4供应短缺将持续至2027年，重申买进评等、目标价从650元上调至700元。
 
-NYSE 于 9 月 29 日公布，Getty 的 Class A 普通股售价异常低，不符合挂牌标准，即时暂停交易并启动除牌程序。Getty 决定不上诉，股份自 9 月 30 日起转至 OTC Pink 市场交易，股票代号维持为 GETY。
+大和指出，南亚科7月营收大幅跳升后，8月及9月营收仍维持稳健，带动第三季营收强劲成长。随著DRAM价格持续走高，大和预期南亚科第三季获利将优于市场共识。尽管DDR3、DDR4需求依旧强劲，但考量主要记忆体厂商持续将产能集中于DDR5，DDR4供应短缺情况预料将延续至2027年，进一步支撑记忆体价格。
 
-有报导指出，Getty 上周收盘价仅 0.042 美元，单日急挫 47.3%，市值大幅萎缩至 1,742 万美元。
+大和预期，南亚科第三季营收达1,340亿元，季增62%、年增612%，较彭博市场共识高出16%；营业利益估达1,090亿元，季增79%、年增9,608%，同样优于市场预期；单位出货量将季增5%，DRAM平均售价（ASP）将季增53%，同样高于预期。大和表示，在价格持续上涨带动下，进一步看好南亚科第四季的获利表现。
 
-Getty 于 9 月 30 日宽限期最后一天，付清年息 9.75% 的 2027 年票据及年息 14% 的 2028 年票据利息，暂时避过违约危机。彭博报导提到，公司正与贷款机构展开融资商讨，当中包括破产程序期间适用的 DIP 贷款。
+南亚科先前法说会指出，DDR4在eSSD与网路应用领域仍具长期稳健需求。根据南亚科与主要客户签订的长期供货协议（LTA），大和预期公司将进一步扩大DDR4供应，以满足eSSD市场需求。此外，1B节点产品将占南亚科2026年第四季DRAM产出的约40%，而新增产能预计于2027年第三季开始量产。
 
-截至 3 月 31 日，Getty 总负债约 20 亿美元，当中涵盖多项与合并相关的融资。为应付合并所需现金与再融资，Getty 曾发行 6.284 亿美元、年息 10.5% 的 2030 年到期优先担保票据。
-
-关于重组计划于 6 月彻底告吹，Getty 原拟作价 37 亿美元与 Shutterstock 合并，惟英国竞争及市场管理局（CMA）要求 Shutterstock 必须出售旗下编辑内容业务，Getty 最终于 6 月 30 日宣布终止交易。公司随后撤回 2026 年财务预测，等待资本结构检讨结果。
-
-图库行业的核心价值向来在于「稀缺性」：摄影师负责拍摄相片，图库公司整理并注入后设资料，客户付费购买取得授权。生成式 AI 彻底打破传统模式，用户只需输入提示词，系统数秒内即可生成所需图像。包括 Stable Diffusion 在内的多款模型更运用大量网上图像作训练基础。Getty 认为自家版权相片遭挪用作训练素材，因而于英美两地提告 Stability AI。
-
-英国高等法院于 2025 年 11 月做出裁决，结果对 Getty 相当不利。法官指出 Stable Diffusion 模型权重在训练时虽有调整，但最终成品并无储存任何原始相片档案，因此裁定不构成「侵权复制品」。Getty 仅于水印商标范畴获得局部胜诉，法院更裁定有关侵权行为属「历史性质」且范围「极其有限」。Getty 其后表示，会把英国诉讼的事实认定结果带入美国诉讼程序。
-
-步入 AI 时代，Getty 转为开拓「显示授权」策略。Perplexity 于 2025 年 10 月透过 Getty 的 API 在搜寻结果展示授权图像，并列出出处连结及授权条款。Getty 也于 2026 年 6 月与 OpenAI 签订相近协议，让 ChatGPT 能够在搜寻结果中显示 Getty 图片，惟条款列明不涵盖模型训练授权。Getty 其后于 7 月推出 Model Content Protocol 伺服器，同时扩展自然语言搜寻功能，方便合作伙伴将图库资源无缝接入 AI 应用程式。
-
-然而这些合作协议带来的收益，至今仍然未能填补财政缺口。Getty 于 2025 年录得 9.813 亿美元总收入，虽然刷新公司历年纪录，但部分收益主要来自两宗大型授权项目并已提前入帐，属于一次性质款项。Getty 能否成功摆脱困境，核心关键在于可否将 AI 授权转化为可持续的经常性收入，而非单纯依赖官司和解赔偿或单次授权收益。
-
-（本文由Unwire HK授权转载；首图来源：Unsplash）]]></description>
+资本支出方面，大和预期，南亚科为因应终端市场需求及LTA供货量，2026年资本支出将超过原先新台币500亿元的指引，2027年资本支出更可能年增逾一倍。同时，大和也大幅上调南亚科获利预估，将2026～2027年EPS预估上调30%～38%，主要反映DDR3、DDR4 DRAM价格展望优于先前预期，并预期南亚科将在第三季法说会中宣布对股东的现金股利回馈政策。]]></description>
   </item>
   <item>
-    <title>跨界与重构：智驾晶片的车载 AI 时代角力赛</title>
-    <link>https://technews.tw/2026/10/08/crossover-restructuring-competition-smart-driving-chips-automotive-ai-era/</link>
-    <guid>https://technews.tw/2026/10/08/crossover-restructuring-competition-smart-driving-chips-automotive-ai-era/</guid>
-    <pubDate>Wed, 07 Oct 2026 23:00:23 +0000</pubDate>
-    <description><![CDATA[此文与拓墣产业研究院合作，转载内容为部分精华，欲购买完整报告请洽拓墣官网
+    <title>低轨卫星碰撞风险升高，SpaceX 呼吁营运商即时共享星历资料</title>
+    <link>https://technews.tw/2026/10/08/starlinks-plan-to-avoid-orbital-near-misses/</link>
+    <guid>https://technews.tw/2026/10/08/starlinks-plan-to-avoid-orbital-near-misses/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:05:04 +0000</pubDate>
+    <description><![CDATA[SpaceX 近日再度强调，随著低轨卫星数量持续增加，卫星营运商之间若缺乏即时共享位置与变轨资讯，将使碰撞风险大幅升高。公司呼吁各方主动交换星历资料（ephemeris），也就是描述卫星位置与速度的参数，让避碰决策能更早、更准确地进行。
 
-新车销售量停滞且电动化转型放缓之际，智驾系统已成为车企竞争的核心焦点。2026 年全球新车市场的 L2 渗透率（含 L2+ 与 L2++）估达 49%，新能源车更突破 75%，使智驾系统的技术与成本变化备受瞩目。本篇文章将带你了解 :智驾系统跃升为车厂竞争核心，智驾晶片为重中之重智驾晶片供应来源朝「合作与竞争多元化」前进车厂自研晶片已突破量产关卡，规模经济成为主要挑战]]></description>
+SpaceX 表示，星链（Starlink）曾与约 650 颗具变轨能力的第三方卫星发生交会，其中只有约一半有共享星历资料。公司并指出，在过去六个月内，Starlink 观测到约 16.4 万次交会事件，且这些事件的最近接近时间点都落在未公告变轨后四小时内。SpaceX 认为，若其他营运商未提前提供高精度轨迹资讯，相关风险可能不会被及时察觉，甚至让操作者误以为自身行动不会造成威胁。
+
+▲ 2026 年星链（Starlink）与约 650 颗具备变轨能力的第三方卫星发生交会，但其中仅约一半实际共享了星历资料。
+
+为降低风险，SpaceX 已推出可供其他营运商使用的空间安全平台，并搭配名为 Stargaze 的系统，利用 Starlink 卫星上的星体追踪仪观测低轨道物体。公司也强调，Starlink 本身会定期公开星历资料，并透过平台提供碰撞筛检服务，希望业界能建立更即时的协作机制。
+
+不过，SpaceX 的主张也引发外界对轨道拥挤问题的讨论。公司一方面呼吁共享资料，另一方面又提出未来可能部署更多卫星的计划，外界因此质疑，真正的长期解方是否不只是更好的协调，而是减少向轨道持续投放大量卫星。]]></description>
   </item>
   <item>
-    <title>Surface Laptop Ultra 笔电展开预购，RTX Spark 晶片、磁吸式 USB-C 充电成亮点</title>
-    <link>https://ccc.technews.tw/2026/10/08/surface-laptop-ultra-and-surface-rtx-spark-dev-box-now-available-for-pre-order/</link>
-    <guid>https://ccc.technews.tw/2026/10/08/surface-laptop-ultra-and-surface-rtx-spark-dev-box-now-available-for-pre-order/</guid>
-    <pubDate>Wed, 07 Oct 2026 20:29:31 +0000</pubDate>
-    <description><![CDATA[微软揭晓 Surface Laptop Ultra 数个月过后，7 日宣布这款搭载 RTX Spark 晶片的全新笔电展开预购，10 月 16 日于美国上市，售价 2,599 美元起。
+    <title>TV 液晶面板价格续跌、大尺寸产品创 3 年 2 个月低</title>
+    <link>https://technews.tw/2026/10/08/tv-lcd-panel-prices-continue-to-fall-3/</link>
+    <guid>https://technews.tw/2026/10/08/tv-lcd-panel-prices-continue-to-fall-3/</guid>
+    <pubDate>Thu, 08 Oct 2026 03:00:03 +0000</pubDate>
+    <description><![CDATA[电视（TV）用液晶面板价格续跌，其中大尺寸 TV 用面板价格创 3 年 2 个月来新低。
 
-Surface Laptop Ultra 配置 15 吋 PixelSense Ultra 触控萤幕，峰值亮度最高可达 2,000 尼特，还有支援触觉回馈的大尺寸触控板。内部搭载全新 RTX Spark 晶片，是一款以 Arm 架构为基础的运算晶片，由 NVIDIA 与联发科联手开发。最高阶机型配备 20 核心 CPU、128GB 统一记忆体及 1TB 储存空间，具备地端执行超过 1,200 亿参数模型的能力，售价来到近 5,900 美元。
+日经新闻7日报导，因6-7月举行的世足赛所带动的换机需求告一段落，电视厂商减少采购，拖累电视用液晶面板价格续跌，大尺寸电视用指标性产品价格创3年2个月来新低。电视用液晶面板价格为亚洲面板厂和客户（电视厂）每个月敲定一次。
 
-Surface Laptop Ultra 采用外型俐落的铝合金机身，看起来与苹果 MacBook Pro 有几分相似，事实上这款笔电的竞争对象正是 MacBook Pro。微软指出，相较于搭载 M5 Pro 的 16 吋 MacBook Pro，Surface Laptop Ultra 地端 AI 效能显著提升，首字生成速度快 2.1 倍、图片生成速度快 4.3 倍、影片生成速度快 6.2 倍。
+台湾、中国等亚洲面板厂和电视厂商之间所敲定的2026年8月份大宗交易价格（合约价）中，大尺寸液晶电视用指标性产品55吋Open cell（指未附上背光的半成品）每片价格较前一个月份（2026年7月份）下跌3%（跌3美元）至115美元左右，连续第二个月下跌，创2023年6月以来新低水准；小尺寸液晶电视用指标性产品32吋价格较前一个月份下跌3%（跌1美元）至33美元左右，连续第二个月下跌。
 
-Surface Laptop Ultra 同时配备多样化的连接埠，包括 3 个 USB-C、1 个 HDMI、1 个 USB-A、一个 SD 读卡机、以及一个 3.5mm 耳机孔。
+据报导，调查公司Counterpoint日本代表田村喜男表示，「9月份合约价将持续下跌。不过受电视零组件涨价影响，10-12月面板价格可能将上涨」。
 
-值得一提的是，微软为 Surface Laptop Ultra 打造一套采用 USB-C 的磁吸式充电方案，这个 Magnetic Connect 可吸附在机身右侧的 USB-C 连接埠上，并预期支援影像与资料传输以及其他连接功能。Windows 与 Surface 部门主管 Pavan Davuluri 在媒体活动表示，使用者只要「把接头靠近，它便会直接吸附定位」。
-
-微软与 NVIDIA 皆将 RTX Spark 笔电定位在高阶机型，对于创作、游戏、开发与本地端 AI 任务等方面皆提供高效能表现。另有 Surface RTX Spark Dev Box，为桌面环境带来强大的地端 AI 运算能力，协助开发者与 AI 工程师在地端进行试验、模型评估与迭代。
-
-这两款新机即日起开放预购，Surface Laptop Ultra 10 月 16 日起在美上市，售价 2,599 美元起；而 Surface RTX Spark Dev Box 则是 11 月开始向美国客户出货，售价 5,999 美元起。
-
-除 Surface Laptop Ultra 外，搭载 RTX Spark 晶片的品牌新机同步推出：
-
-微软还宣布，由 NVIDIA DGX Station 驱动的新型超级电脑将在年底登陆 Windows 平台。透过 NVIDIA GB300 Grace Blackwell Ultra Desktop Superchip，DGX Station for Windows 将资料中心等级的效能与企业级的安全性和管理能力结合在一起。过去可能需要租用丛集才能拥有的运算能力，现在只要一台桌上型超级电脑即可实现。]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>旺宏 9 月营收再创新高，前三季营收同步缔造新高纪录</title>
-    <link>https://finance.technews.tw/2026/10/08/macronixs-september-revenue-hit-a-new-high/</link>
-    <guid>https://finance.technews.tw/2026/10/08/macronixs-september-revenue-hit-a-new-high/</guid>
-    <pubDate>Wed, 07 Oct 2026 16:00:40 +0000</pubDate>
-    <description><![CDATA[记忆体大厂旺宏公布9月营收，单月合并营收达新台币83.67亿元，较8月份增加2.7%、较2025年同期也增加188.2%，创下历史新高，也连续6个月单月营收成长。累计，2026年前9个月合并营收为538.31亿元，较2025年同期增加 154.5%，也创下历年同期新高纪录。
+    <title>马来西亚也要打造「矽岛」，大举布局半导体与 AI 产业版图</title>
+    <link>https://finance.technews.tw/2026/10/08/malaysia-builds-a-new-silicon-island-to-house-its-ai-ambitions/</link>
+    <guid>https://finance.technews.tw/2026/10/08/malaysia-builds-a-new-silicon-island-to-house-its-ai-ambitions/</guid>
+    <pubDate>Thu, 08 Oct 2026 02:50:50 +0000</pubDate>
+    <description><![CDATA[马来西亚正于槟城南方打造一座全新的人工岛「矽岛」，以支撑人工智慧与半导体产业的长期布局。现场可见挖土机在海面持续施工，卡车穿梭于新填沙地之间，橘色管线则将离岸抽取的填料输送到这片逐步成形的土地上。
 
-在上一季法说会上，旺宏总经理卢志远表示，受惠AI带动记忆体超级周期，NAND Flash与eMMC需求同步走强，市场需求「远远不能满足」。目前毛利率已接近7成，随产能陆续开出、市况延续，毛利率挑战8成「指日可待」。
+这座规划面积达2,300英亩的人工岛，要约十年才会完工。按照目前构想，矽岛将成为马来西亚巩固全球半导体供应链地位的重要基地，并创造可观经济贡献。到2050年，发展可创造约22万个工作机会。
 
-卢志远还强调，NAND Flash市场目前严重缺货、供不应求，其中SLC NAND与eMMC需求尤其强劲。而在NOR Flash方面，AI伺服器对高密度、高可靠性产品的需求压力最大，需求较以往倍增，目前eMMC与SLC产品采逐月议价，第4季涨势仍持续。
-
-为因应市场供不应求的强劲需求，旺宏已宣布追加新台币 158 亿元的资本支出预算，将全数专注于先进产能的扩充。随著先进产能扩充计划的落实以及车用新产品的布局，旺宏未来的营运表现仍具备高度的成长潜力，将持续在 AI 与记忆体超级周期的浪潮中站稳领先地位。]]></description>
+除了工业用途，矽岛也规划为综合发展区，纳入办公大楼、饭店与临海住宅等设施。这项大型填海计划不仅反映马来西亚大押注科技产业，槟城也朝更大规模的产业与城市发展迈进。]]></description>
   </item>
   <item>
-    <title>放大分子「左右手」差异，Kagan 与硖合宪三获 2026 诺贝尔化学奖</title>
-    <link>https://technews.tw/2026/10/07/henri-kagan-and-kenso-soai-are-the-2026-nobel-prize-for-chemistry-winners/</link>
-    <guid>https://technews.tw/2026/10/07/henri-kagan-and-kenso-soai-are-the-2026-nobel-prize-for-chemistry-winners/</guid>
-    <pubDate>Wed, 07 Oct 2026 10:16:55 +0000</pubDate>
-    <description><![CDATA[瑞典皇家科学院今日宣布，法国巴黎萨克雷大学（Université Paris-Saclay）荣誉教授化学家亨利凯根（Henri B.Kagan）与日本化学家硖合宪三共同获得 2026 年诺贝尔化学奖，表彰两人在「不对称有机合成中的非线性效应与自催化」方面的发现，揭示微小的分子不对称如何被化学反应放大。
+    <title>家登 9 月营收创单月新高，先进封装载具接获韩系客户大单</title>
+    <link>https://finance.technews.tw/2026/10/08/gudengs-september-revenue-hit-a-new-monthly-high/</link>
+    <guid>https://finance.technews.tw/2026/10/08/gudengs-september-revenue-hit-a-new-monthly-high/</guid>
+    <pubDate>Thu, 08 Oct 2026 02:45:53 +0000</pubDate>
+    <description><![CDATA[半导体耗材商家登精密公布 2026 年 9 月营收报告，集团合并总营收约为新台币 9.9 亿元，再创历史单月新高。累计，2026 年前 9 个月营收已达 68.85 亿元，与 2025 年同期累积 50.79 亿元相较成长 36%。
 
-许多有机分子就像人的左右手，互为镜像却无法完全重叠，这种特性称为「手性」（Chirality），两种镜像形式则称为「对映异构体」（Enantiomer），如何让合成反应优先产生其中一种，是不对称合成的重要课题，也与药物制造密切相关。
+家登表示，进入2026年最后冲刺阶段，EUV POD及FOUP都来到出货高峰期，家登全厂域全力备货，挑战全年最佳表现。且自2024年以来，家登秉持在载具领域专注专业之精神，全面投入资源开发先进封装载具，搭配不同技术领域，与客户合作研发全尺寸先进封装载具，不仅符合SEMI规范，更贴近客户需求。
 
-凯根于 1930 年出生于法国，1954 年完成索邦大学与巴黎国立高等化学学校学业，1960 年取得博士学位，博士研究在法兰西学院进行，他长期任教于南巴黎大学（Université Paris-Sud），并于 1991 年当选法国科学院院士，是不对称催化领域的重要先驱。
+家登指出，经过长期测试，先进封装载具在全球各领域逐步创造实绩，追求在台湾、大中华、韩国、美国等市场中脱颖而出，抢下第一波需求，而家登在这个月正式接到韩系大客户新厂2027年之先进封装载具大单，并会利用2026年第四季完成pi-run及最终测试，2027年正式出货，家登也有信心在全球其他市场，陆续取得好消息，并在未来两年放量出货，挹注营收。
 
-1971 年，Kagan 与 T. P. Dang 发表以手性双膦配体（Chiral Bisphosphine Ligands）搭配铑（Rhodium）的催化系统，让氢化反应偏向生成特定对映体，1986 年，他与团队进一步发现不对称合成的「非线性效应」，成为此次获奖的重要研究基础。
-
-原本化学家预期，催化剂的手性偏向与产物的手性偏向应会呈线性关系，但 Kagan 的研究显示，部分反应会出现放大效果，即使使用混有两种对映体的催化剂，也能产生手性偏向更高的产物，这项发现提供了分析催化机制、改善合成方法的重要工具。
-
-硖合宪三则于 1950 年出生于日本广岛，1979 年在东京大学师从向山光昭取得博士学位，之后赴美国北卡罗来纳大学教堂山分校，跟随 Ernest L. Eliel 从事博士后研究，1981 年，他加入东京理科大学建立研究团队，1991 年升任教授，目前为该校名誉教授。
-
-1995 年，硖合宪三与团队在《Nature》发表后来称为「硖合反应」（Soai Reaction）的研究，在二异丙基锌（Diisopropylzinc）与嘧啶醛（Pyrimidine carboxaldehyde）的反应中，生成的手性醇能参与催化自身生成，促进更多相同手性产物形成，随著反应持续，原本仅略占优势的对映体就能透过正回馈逐步拉开差距。
-
-后续研究更显示，衡量两种对映体比例差异的「对映体过量值」（ee），可由约 0.00005%，经三轮连续自催化反应提高至超过 99.5%，使产物接近单一手性。
-
-这项成果也为生命起源研究提供重要线索，天然蛋白质主要使用 L 型胺基酸，核酸中的糖则为 D 型，生命为何形成这种手性选择，至今仍是未解问题，硖合反应提供了微小不对称如何累积成明显优势的实验模型，至于原始地球实际采取哪一条化学路径，仍有待科学界厘清。]]></description>
+伴随营收增长、产品组合优化，以及全球产能布局效益逐步显现，家登毛利率表现稳健，带动营业利益率及税后纯益率同步提升，整体财务结构大幅提升，达成「三率三升」的经营效能，展现家登在快速扩张的过程中依然维持营运稳定与韧性。随著EUV POD引领营收成长、晶圆载具提升市占、先进封装载具逐步渗透市场，加上全球据点陆续扩产与在地化服务能力强化，家登中长期成长动能强劲可期。]]></description>
   </item>
   <item>
-    <title>无形的地球磁场，可能暗中影响生物老化方式</title>
-    <link>https://technews.tw/2026/10/07/tochondria-earth-magnetic-field/</link>
-    <guid>https://technews.tw/2026/10/07/tochondria-earth-magnetic-field/</guid>
-    <pubDate>Wed, 07 Oct 2026 10:15:11 +0000</pubDate>
-    <description><![CDATA[也许你从未留意地球生命一直活在地磁场背景下，这股看不见的力量不断穿过每个活细胞，但我们对生物是否需要磁场才能运作仍知之甚少。诺丁汉大学团队决定利用果蝇进行无磁场实验，惊讶发现地球磁场强烈影响细胞粒线体，可能是维持细胞能量平衡的隐形调节器，并揭示生命在「运动能力」与「寿命」之间存在精妙取舍。
+    <title>4,000 组提示词实测破功，ChatGPT 青少年版漏接逾 1/4 危机转介</title>
+    <link>https://technews.tw/2026/10/08/openais-chatgpt-for-teens-poses-unacceptable-risk/</link>
+    <guid>https://technews.tw/2026/10/08/openais-chatgpt-for-teens-poses-unacceptable-risk/</guid>
+    <pubDate>Thu, 08 Oct 2026 02:45:22 +0000</pubDate>
+    <description><![CDATA[Common Sense Media 旗下的 Youth AI Safety Institute 7 日发布最新评估，将 OpenAI 的 ChatGPT for Teens 列为「不可接受风险」，指这款面向 13 至 17 岁使用者的产品，在多项原本宣称可保护青少年的机制上表现不如预期，甚至在部分情况下比推出前更不稳定。
 
-我们习以为常、穿透万物的地球磁场是现代导航科技发展基础，也是两极地区产生美丽极光关键，但我们较少思考磁场是否高度参与生命演化轨迹。
+根据报告，研究人员以多个注册为青少年的帐号，前后共测试超过 4,000 组提示词，内容涵盖自杀、自伤、饮食障碍、性相关互动与学习辅助等情境。结果显示，ChatGPT 虽然能在部分测试中拒绝露骨的性角色扮演，也未直接提供鼓励自杀或自伤的操作指引，但在判断何时应将使用者导向外部协助、以及是否应通知家长方面，表现明显不稳。
 
-诺丁汉大学兽医学院 Lisa Chakrabarti 教授团队为此做了个实验，将两组粒线体健康程度不同的果蝇放在几乎零磁场环境，发现地球磁场真切影响细胞内部能量工厂运作。
+报告指出，在研究人员认定应启动危机转介的案例中，ChatGPT for Teens 漏掉了超过四分之一；涉及忧郁相关内容时，提供危机热线的比例也从推出前的 33% 降至 23%，而忧郁热线的提及率更从 63% 骤降至 3%。临床审查人员认为，部分回应在医疗与心理层面上仍算合理，但许多本应导向专业协助的对话，并未触发转介。
 
-根据果蝇本身线粒体健康状态，零磁场实验产生截然不同后果：粒线体有缺陷的 Pink1 突变果蝇寿命竟延长 20%，但体能明显下降；粒线体功能健全的正常果蝇趋势相反，运动能力因此提升，寿命却也发生变化。
+家长警示功能同样成为批评焦点。研究人员在十多个新建立、且已连结家长帐号的测试帐号上，与系统长时间讨论自杀、自伤或饮食障碍，最长可达一小时，却几乎没有收到通知。报告认为，这显示警示机制可能更依赖帐号累积的对话历史，而非单次对话的严重程度。另有测试发现，部分安全限制可被轻易绕过，例如学习模式可透过删除特定前置文字而失效，系统也常在作业情境中直接跳出「显示答案」的选项。
 
-该结果表明移除磁场带来的好处往往伴随坏处，活得久（长寿）与活得好（良好身体机能）并非绝对正相关；或者说，移除大部分磁场，可能在改善生命某面向的同时恶化另一面向，比如实验中带病果蝇的粒线体虽然效率降低导致能量产出减少（体能变差），但自由基也跟著减少并因此减缓老化速度，寿命延长 20%，这是一种「牺牲活力换取长寿」的代谢权衡。
-
-粒线体是细胞内负责产生生命所需大部分能量的微小胞器，而果蝇生命力变化取决于这套能量工厂健康状况，团队进一步对粒线体进行高解析度测量，发现移除磁场会改变粒线体能量代谢及超氧化物（Superoxide）浓度，导致不同健康状态的线粒体产生截然不同反应，也解释为何磁场屏蔽效果不能单纯归类为「有益」或「有害」。
-
-我们通常将磁场视为外部环境，但这项研究暗示磁场可能是细胞能量工厂运作不可或缺的参数，生命可能已在演化过程适应特定磁场强度，并将其纳入细胞代谢调控机制。]]></description>
+OpenAI 随后回应，强调公司欢迎严格的独立评估，但不认为 Common Sense Media 的测试能准确反映 ChatGPT 青少年防护机制在实际使用中的表现。OpenAI 表示，研究中有相当部分测试可能在家长监护功能尚未完全启用前就已开始并结束，因此结果可能失真；公司也说，年龄判定采取多重讯号，而非仅依使用者自述年龄。]]></description>
   </item>
   <item>
-    <title>运转 36 年走入历史：台中燃煤 1、2 号机退场，燃气机组接棒</title>
-    <link>https://technews.tw/2026/10/07/taichung-coal-fired-units-1-2-decommissioned-36-years-gas-fired-units-take-over/</link>
-    <guid>https://technews.tw/2026/10/07/taichung-coal-fired-units-1-2-decommissioned-36-years-gas-fired-units-take-over/</guid>
-    <pubDate>Wed, 07 Oct 2026 10:08:32 +0000</pubDate>
-    <description><![CDATA[台中电厂燃煤 1、2 号机正式走入历史。台电表示，两部机组已于 9 月 30 日停机，10 月 1 日正式除役并启动拆除工程，预计历时 28 个月、于 2029 年初完成；拆除后原址将衔接台中电厂二期新建燃气计划，随新燃气机组陆续加入供电，台中电厂也逐步推进「以气换煤」。
+    <title>俄鼠疫实验室传第二人染不明肺炎，世卫要求说明</title>
+    <link>https://technews.tw/2026/10/08/russia-says-it-properly-informed-who-of-plague-institute-workers-death/</link>
+    <guid>https://technews.tw/2026/10/08/russia-says-it-properly-informed-who-of-plague-institute-workers-death/</guid>
+    <pubDate>Thu, 08 Oct 2026 02:40:33 +0000</pubDate>
+    <description><![CDATA[俄罗斯一座鼠疫研究实验室上周发生一名工作人员因不明肺炎死亡，其后又传出第 2 名实验室员工罹患不明原因肺炎，世界卫生组织（WHO）6日表示，已向俄国当局要求提供相关资讯。
 
-台电今（7）日举行拆除工程祈福仪式。台中电厂燃煤 1、2 号机装置容量合计 110 万瓩，自 1990 年陆续投入运转，服役 36 年期间累计发电近 2,800 亿度，长期支援中部产业及民生用电。随机组正式除役，台中电厂也开始进入既有燃煤机组逐步退场阶段。
+路透社报导，这座实验室位于俄罗斯西伯利亚地区的伊尔库次克州（Irkutsk），上周发生这起死亡案例后，俄国当局便对数十人进行隔离，并派遣国家卫生监管机关「俄罗斯联邦消费者权益保护暨福利监督署」（Rospotrebnadzor）署长前往当地处理相关事宜。
 
-此次拆除工程涉及大范围重件设备及高空作业，范围包括海水泵室区、锅炉房、汽机房，以及高度达 252 公尺的烟囱，各区域将同步施工。台电表示，工程期间将落实工安及环境维护要求，整体拆除作业预计 2029 年初完成。
+俄罗斯联邦消费者权益保护暨福利监督署6日表示，与死者接触过的人员当中，尚未发现任何鼠疫病例。但有媒体报导，这座实验室又出现一名员工感染不明原因肺炎。
 
-值得注意的是，燃煤机组退场的同时，台中电厂燃气机组也持续扩建。第一期新建燃气计划规画两部各 130 万瓩燃气复循环机组，合计装置容量 260 万瓩；台电规画后续再推动二期燃气计划，利用燃煤 1、2 号机拆除后原址及既有煤场空间，兴建 4 部燃气复循环机组，总装置容量约 550 万瓩以下。
+世卫当天发布声明表示，他们已要求俄罗斯方面就最新消息提供说明，并针对重症肺炎的原因及引发公共卫生措施的病原体提供更多资讯。
 
-不只台中电厂，台电近年也同步推进兴达、大林、通霄及协和等燃气机组更新与扩建。根据台电官网资料，兴达电厂燃气机组更新改建计划规画设置 3 部燃气复循环机组，总装置容量约 390 万瓩，新 1 号机已投入商转，新 2、3 号机则持续推进；大林电厂新燃气机组也预计 2029 年投入商转。
+美国广播公司新闻网（ABC News）报导，美国已就俄罗斯对于鼠疫实验室人员死亡一事的处理方式提出正式外交抗议，并敦促莫斯科对这起事件提高透明度。
 
-随 AI、半导体等产业带动用电需求持续成长，燃气发电也将成为未来电力供给的重要增量。行政院长卓荣泰日前表示，未来十年将有 25 部大型天然气发电机组上线，新增约 26 GW 燃气机组，以支应产业发展带来的新增用电需求。]]></description>
+克里姆林宫发言人培斯科夫（Dmitry Peskov）7日则回应表示，俄罗斯已依照既定程序通知世卫，且关于这起事件的报导大多不实，民众应该以俄罗斯联邦消费者权益保护暨福利监督署发布的消息为准。
+
+（译者：张正芊；首图来源：Flickr/United States Mission GenevaCC BY 2.0）]]></description>
   </item>
   <item>
-    <title>韩国「AI for All」计划 10 月试营运，SK 电信、Kakao、KT 各押不同 AI 入口</title>
-    <link>https://technews.tw/2026/10/07/ai-for-all-set-for-october-contest-as-sk-telecom-bets-on-calls-kakao-on-kakaotalk-and-kt-on-open-architecture/</link>
-    <guid>https://technews.tw/2026/10/07/ai-for-all-set-for-october-contest-as-sk-telecom-bets-on-calls-kakao-on-kakaotalk-and-kt-on-open-architecture/</guid>
-    <pubDate>Wed, 07 Oct 2026 10:00:13 +0000</pubDate>
-    <description><![CDATA[业界消息，获韩国科学技术资讯通信部「全民 AI 服务利用普及支援」计划（通称 AI for All）选定的 SK 电信、Kakao 与 KT 三个联盟，10 月开始试营运，依政府规划 12 月正式推出服务。三家最终都要提供能执行预约、申请与付款等实际任务的代理式 AI（Agentic AI），但起点各不相同。
+    <title>Google 推出 AI 平台 Playground，用提示词就能建立、分享自制游戏</title>
+    <link>https://technews.tw/2026/10/08/google-now-lets-you-make-games-with-ai/</link>
+    <guid>https://technews.tw/2026/10/08/google-now-lets-you-make-games-with-ai/</guid>
+    <pubDate>Thu, 08 Oct 2026 02:35:02 +0000</pubDate>
+    <description><![CDATA[Google 于 7 日推出名为 Playground 的实验性游戏平台，主打让使用者无需任何程式设计经验，仅需透过文字提示词（prompt）即可建立、调整并分享自制游戏。这项服务以浏览器为基础，让游戏能在手机与笔电上直接游玩；Google 表示，此举旨在降低游戏创作的门槛，让创意能更快速地转化为可玩的作品。
 
-SK 电信以电信本业为基础，截至 2026 年 6 月约有 2,250 万门行动门号，除了 App 与网页，也能透过电话与简讯使用 AI，锁定不习惯使用智慧手机 App 的族群。服务以自研 AI 模型 A.X K2 为核心，搭配多个韩国国内模型，简单问题交给轻量模型、复杂任务则接上高效能模型。没有 API 串接的餐厅或机构，也将开发 AI 代替使用者拨打电话的功能。
+根据 Google 的说明，使用者可以从空白专案开始，也可以套用预设提示词或使用引导式协助，接著透过对话介面持续修改内容，包括调整物理效果、重写游戏规则、更换角色或改造场景。该平台还支援选择不同的游戏类型（例如问答或赛车），并可在 2D 与 3D 模式之间切换；若使用者上传图片，AI 也能将其转换为游戏素材。
 
-Kakao 以多数韩国人使用的 KakaoTalk 为入口，让使用者在单一对话流程中申请公文件、预约设施，并使用金融、医疗与生活服务。联盟成员包括 LG Uplus、LG AI 研究院、LG 电子、LG CNS、Kakao Enterprise、首尔大学医院、新韩银行、Lunit 与 FuriosaAI。Kakao 已与韩国行政安全部在 KakaoTalk 经营「AI 国民秘书」，测试电子证明核发与公共设施预约，并 5 月加入语音介面。Kakao 目标是年底月活跃使用者（MAU）达 500 万、2027 年 1,000 万、2030 年 3,000 万。
+作品完成后，创作者可以将游戏设为私人、透过连结分享，或是发布到「Explore」作品展示区供大众浏览与游玩。部分游戏类型还支援排行榜与多人功能，并能结合 Play Games 个人档案来追踪创作者。Google 同时强调，所有公开发布的游戏都会经过安全审查。
 
-KT 则把入口网站、购物、房地产、教育与金融等服务整合成一个 AI 生态系，联盟包括 Daum、Musinsa、Zigbang、EBS、BC Card 等服务业者，以及 Upstage、Motif Technologies、NC AI、Saltlux 与 Rebellions，KT 称成员合计的服务接触点超过 6,000 万。核心概念「Ium Inside」把 AI 直接嵌入既有 App 服务，再串接到单一通用 AI 代理人；另以「Token Factory」在同平台操作多个国内模型，依任务类型与难度并兼顾品质与成本自动选用模型。KT 同样订下年底 MAU 500 万的目标，2027 年要建置可承载每月 2,000 万使用者的系统。
-
-韩国政府今年提供参与业者最多 512 颗辉达（NVIDIA）B200 GPU，2027 年预算案则为此计划编列 2,500 亿韩圜，1,700 亿韩圜用于取得约 2,000 颗 B200 等级的 GPU。不过计划只到 2030 年，政府支援结束后能否继续免费提供服务仍不确定。政府原本主打免费且不限用量，之后改为允许部分付费服务，2030 年后各业者预料须自行发展足以负担庞大营运成本的营收模式。]]></description>
+目前 Playground 先向美国 18 岁以上的使用者开放，创作权限将依据 Google AI 订阅方案分阶段提供。浏览与游玩游戏是免费的，但建立新游戏会消耗每周配额，而 Google One AI 订阅者则可享有更高的配额。此外，Google 也预告未来将整合 Unity Spark，以带来更完整的 3D 能力与专业级机制，并让使用者能在 Playground 中分享相关作品。]]></description>
   </item>
   <item>
-    <title>马斯克否认台积电将参与 Terafab，称将自建自营</title>
-    <link>https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/</link>
-    <guid>https://technews.tw/2026/10/07/musk-denies-tsmc-terafab-self-build-operate/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:50:59 +0000</pubDate>
-    <description><![CDATA[美国电动车厂特斯拉与美国太空探索科技公司（SpaceX）执行长马斯克今天表示，两公司合作的人工智慧（AI）晶片厂 Terafab 不会由台积电建造或营运，但台积电可承租部分厂区。
+    <title>议价能力提升与 AI 基础建设布局显著，外资力挺臻鼎-KY 目标价 750 元</title>
+    <link>https://finance.technews.tw/2026/10/08/foreign-investors-strongly-support-zhen-ding-ky-with-a-target-price-of-nt750/</link>
+    <guid>https://finance.technews.tw/2026/10/08/foreign-investors-strongly-support-zhen-ding-ky-with-a-target-price-of-nt750/</guid>
+    <pubDate>Thu, 08 Oct 2026 02:30:35 +0000</pubDate>
+    <description><![CDATA[PCB大厂臻鼎-KY在消费性产品议价能力提升及 AI 基础建设布局显著，营运与获利展望获外资高度肯定。美系外资最新报告指出，受惠于 iPhone 拉货旺季、ABF/BT 载板及光模组支撑，臻鼎第 3 季毛利率有望优于预期来到 25.6%，第 4 季更将一步推升至 26.1%。美系外资将臻鼎目标价从 600 元上修至 750 元，并指出其 2027 至 2028 年 ABF 载板产能已被全数抢光，市场已倾向将臻鼎视为 ABF 载板厂。
 
-路透社报导，Terafab是特斯拉（Tesla）和SpaceX规划在美国德州打造的1座「庞大晶片制造厂」，用以生产AI晶片。
+报告分析，臻鼎第3季毛利率优于预期的主因，来自于iPhone旺季拉货、ABF/BT载板以及光模组需求强劲，此动能有效抵销了下半年AI伺服器业务 HDI 产能初期爬坡产生的折旧负担。展望第4季，随著动能延续，毛利率预计提升至26.1%。此外，看好臻鼎在消费性产品议价能力提升，美系券商上修其2026至2028年每股税后盈余（EPS）预估至14.4元、28.3元与44.4元，并以2027年25倍本益比（PE）评价，同步调升目标价。
 
-马斯克（Elon Musk）上周表示，他们曾与台积电讨论这项计划合作的可能性，但他未透露进一步细节。
+在AI布局方面，臻鼎包含伺服器、光通讯及载板的AI基础建设业务表现优于预期，且AI相关毛利率显著高于传统消费性电子产品。目前AI基础建设已占臻鼎营收23%，全年占比预计可达25%。随该业务自第3季起加速，营收占比预期在2027年达30%、2028年一步拉高至45%至50%，能大幅降低过去传统上下半年的季节性差异。
 
-然而，马斯克今天针对旗下社群媒体平台X有1则贴文表示，Terafab最可能结果是由台积电持有及营运，他回文说：「不，将由我们建造及营运这座晶片厂，这点毋庸置疑。」
-
-马斯克并补充表示：「台积电或许会承租Terafab部分厂区，如果他们有意愿的话，但仅止于此。」
-
-@herbertong @thejefflutz No, we will build and run the fab. Let there be ZERO doubt about that.
-
-Maybe TSMC subleases part of the Terafab if they want, but nothing more than that.
-
-— Elon Musk (@elonmusk)October 7, 2026
-
-Terafab伙伴之一、美国晶片制造业巨擘英特尔（Intel）的执行长陈立武今天稍早接受彭博（Bloomberg News）访问时说，英特尔仍将会是计划的一分子。
-
-台积电若在Terafab有任何参与，都可能对英特尔在计划中扮演的角色构成挑战。两公司皆未立即回复路透社的置评请求。]]></description>
+值得注意的是，臻鼎2027至2028年的ABF产能已全数售罄，其中美国客户占比提高至七成。主要成长动能来自辉达（NVIDIA）、联发科（2454）、潜在AI ASIC计划及中国AI需求驱动，强劲需求更有望延续至2030年。而随著AI基础建设业务推进，外资看好将有利推动臻鼎2027年的获利成长，目标价一举喊上750元。]]></description>
   </item>
   <item>
-    <title>华为 LogicFolding 技术引关注，分析师看散热仍成最大考验</title>
-    <link>https://technews.tw/2026/10/07/huawei-logicfolding/</link>
-    <guid>https://technews.tw/2026/10/07/huawei-logicfolding/</guid>
-    <pubDate>Wed, 07 Oct 2026 09:45:10 +0000</pubDate>
-    <description><![CDATA[随著高通与华为达成广泛专利交叉授权协议，市场对华为的「逻辑折叠」（LogicFolding）技术关注迅速升温。半导体分析师认为，这项技术仍存在散热问题，与高通、苹果持续制程微缩推动行动SoC性能提升的路线相比，仍有所不及。
+    <title>苏姿丰访韩固桩 AI 记忆体产能，结盟三星、SK 海力士展开长期战略合作</title>
+    <link>https://technews.tw/2026/10/08/lisa-su-south-korea-deepens-ai-chip-cooperation/</link>
+    <guid>https://technews.tw/2026/10/08/lisa-su-south-korea-deepens-ai-chip-cooperation/</guid>
+    <pubDate>Thu, 08 Oct 2026 02:30:25 +0000</pubDate>
+    <description><![CDATA[超微（AMD）执行长苏姿丰 7 日于首尔表示，面对人工智慧（AI）晶片需求持续飙升以及记忆体供应吃紧的挑战，AMD 计划将与韩国供应链的合作关系延长至 3 到 5 年以上，并持续扩大与三星电子及 SK 海力士的战略合作范围。
 
-华为LogicFolding将逻辑电路垂直堆叠，即使单一电路的电晶体密度未提升，也能增加整体运算密度。这种方式可缩短讯号传输路径，并利用细间距的垂直互连，间距甚至可缩小至微米级，让不同主动矽层能够以类似单一整合式晶片的方式运作。
+苏姿丰指出，半导体的供应链运作相当复杂，不能仅局限于1到3年的短期安排，而是必须与主要合作伙伴共同制定中长期的产能与供应策略。她强调，三星电子与SK海力士是AMD在资料中心及AI布局上极为关键的伙伴；同时，AMD也正积极与客户合作最佳化记忆体的使用效率，以因应当前供应紧缩的局面。
 
-华为宣称，透过双层垂直折叠架构设计，可使晶片的时脉缓冲器（Clock Buffer）数量减少超过50%，同时还能将时脉歪斜（Clock Skew）降低25%、布线长度减少约30%。
+此外，她透露AMD已开始出货新一代MI455加速器与Helios系统。这些新产品均导入了HBM4记忆体，并获得三星电子与SK海力士的大力支援。苏姿丰表示，双方在HBM领域的合作不会仅停留在单一世代，而是将延伸至未来的多个产品世代，充分反映出AMD对韩国记忆体供应链的高度依赖。
 
-先前高通与华为达成广泛专利交叉授权协议，针对协议细节，高通也澄清自己在这项授权安排中并非净支付方（net payor），且相关协议与LogicFolding技术无关。
-
-同时，顾问机构Creative Strategies半导体分析师Austin Lyons在社群平台@Taog_1575中表示，LogicFolding所产生的散热负担，在许多方面与晶片背面供电网路（BSPDN）所面临的问题相似。BSPDN是将供电线路移至矽晶圆背面，同时让高速资料讯号线维持在正面。
-
-“Qualcomm and Huawei entered into a multi-year, broad patent license agreement that includes cross-licenses across a range of technology fields. The terms are confidential, but reports characterizing Qualcomm as a net payor on the license agreement are incorrect. In addition, assertions that the agreement is related to LogicFold are not accurate. Separately, Qualcomm has agreed to purchase certain Huawei non-cellular U.S. patents across multiple technology areas.”
-
-— Austin Lyons (@austinsemis)October 5, 2026
-
-Austin Lyons指出，即使透过限制设计规则、避免将高效能单元垂直堆叠，或透过缩短布线来降低功耗、实现较低的热密度，仍可能因散热能力下降而面临更严重的散热问题。这正是高通与苹果对于在行动晶片中采用LogicFolding没兴趣的主要原因。他也认为，华为可能要到2030年才能在制程效能上追平台积电N3E。
-
-谈到散热问题，华为强调LogicFolding所带来的散热负担并没有外界人士担心地那么严重，尤其是因为这项技术能以短距离的垂直混合键合连结，取代原本较长的平面导线。华为指出，典型核心互连长度可缩短约20%，部分关键路径甚至可缩短约70%。]]></description>
+除了记忆体领域的结盟，苏姿丰也未排除未来与三星电子在晶圆代工业务上进一步合作的可能性。她表示，AMD将持续探索在记忆体、晶圆制造、先进封装及系统零组件等领域的合作契机，并计划在全球供应链投入数百亿美元规模的资金，以全面强化整体的供应韧性与能力。]]></description>
   </item>
 </channel>
 </rss>
