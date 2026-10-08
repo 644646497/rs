@@ -4,7 +4,49 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Thu, 08 Oct 2026 03:50:26 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 12:34:07 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 October 8 – The Saturn System Smörgåsbord</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-8-the-saturn-system-smorgasbord/</guid>
+    <pubDate>Thu, 08 Oct 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:How was theSaturnsystem imaged so clearly? Astrophotographer Tom Williams captured such exquisite details due to one night of exceptional atmospheric conditions above the United Kingdom. This means more than a cloudless sky. Pockets of air at different temperatures and densities move around andbend lightas it travels through Earth’s atmosphere, distorting astronomy images. This is called “seeing”. Less atmospheric turbulence means clearer images. The astrophotographer reduced the impact of seeing with thelucky imagingtechnique: thousands of short-exposure images are taken very quickly with a high-speed camera and the clearest images are added up.Which objectin thissmörgåsbordinterests you? PerhapsTitanor theicy stripes of Enceladus? Maybe thegapsandspokesin Saturn’s rings? Saturn'sopposition, when Earth passes in between the planet and the Sun, occurred on October 4th. Due to the planet's proximity and full illumination from the Sun, now is a great time of year to observe it!Tomorrow's picture:bumpy]]></description>
+  </item>
+  <item>
+    <title>Fighting Drought in Texas Cotton Country</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/fighting-drought-in-texas-cotton-country/</guid>
+    <pubDate>Thu, 08 Oct 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[Drought and an ailing aquifer were major topics of conversation when NASA scientists visited with farmers in the Texas High Plains.
+
+For many longtime cotton farmers in theTexas High Plains, the 2026 drought sparked flashbacks to catastrophic harvests of the past. Miserably dry seasons forced farmers in America's largest cotton-producing region to abandon massive portions of their dryland crop, including72 percentin 2022 and66 percentin 2011.
+
+But in some ways, farmers felt the drought in 2026 entered new territory. "This is the first year that we've had cotton completely die," saidLacy Cotter-Vardeman, a farmer based in Lubbock County whose family has worked the land there for several generations. "I was just talking to our insurance people, and they said they'd never seen this before," she said, adding that roughly 90 percent of her dryland cotton was dead.
+
+Satellite images highlight the scale of the problem in Lubbock and adjacent counties. Brown, parched crops and vacant plots dominated the landscape on September 9, 2026, when theOLI(Operational Land Imager) onLandsat 8captured the image above (right). In contrast, much greener landscapes prevailed on September 22, 2025 (left), when the sensor captured an image of the same area during a more typical year with a relatively healthy harvest.
+
+Subtler signs of the drought are also visible. With groundwater growing scarce in theHigh Plains aquifer, many farmers in the region have started irrigating just one-half or one-third of their center-pivot fields, explained Tillery Timmons-Sims, an agricultural conservationist who owns land in Brownfield, Texas, and used to grow cotton. In the imagery, these appear as green semicircles and quarter circles.
+
+Note also the many shallow water features known asplaya lakes—sometimes called mud holes, buffalo wallows, and lagoons—scattered throughout the image. Some, like Double Lakes and Mound Lake, are fairly large, but most of the more than19,300 playa lakesin the Texas High Plains are quite small, less than 30 acres.
+
+Many of these ephemeral lakes were dry in September 2026, unlike the previous year. Playa lakes are critical in this water-stressed region because the clay-lined features, if active, collect rainfall and provide pathways for water to seep underground and recharge the aquifer below, the region's primary source of irrigation water. However, some 80 percent are so modified by tilling or buried with sediment that they no longer function that way.
+
+Farmers in this region operate along the eastern margin of the aquifer, which has declined sharply in recent decades. According to U.S. Geological Surveydata, the water table across much of Lubbock County has dropped by between 25 and 100 feet since 1950, around when people began drawing large volumes of water from the aquifer to irrigate. Losses have been even more extreme (150 feet or more) in counties to the north, including Parmer, Castro, Swisher, and Briscoe.
+
+The aquifer's long-term decline, combined with the 2026 drought, left many wells "pumping air" this summer for some of the farmers Timmons-Sims knows. "We simply don’t have groundwater to fall back on anymore," she said. Many farmers she knows thought that water might run out during the next generation; instead, it's "happening now," she said. For Cotter-Vardeman, the problem couldn't be more tangible. Many of her irrigation wells stopped working in August.
+
+Rains in September and October, aided by astrong El Niñoin the Pacific, are bringing needed moisture to the region, but they haven’t been enough, according toanalysisfrom theU.S. Drought Monitor. "It will take about 7 inches of rain over a three-month period to 'end' the current drought," said Jonathan Case, a meteorologist at NASA’s Marshall Space Flight Center and one of theDrought Monitor’s authors.
+
+The deteriorating aquifer is one of the reasons Timmons-Sims stopped farming in 2007. She now spends most of her time searching for ways to keep farms in business, such as converting irrigated croplands to grasslands to earn water credits, developing alternative energy projects, adopting water-efficient techniques, and working with conservation organizations to plan for the long term.
+
+Through that work,the Sandhills Area Research Association, a conservation organization she helps run, partnered withNASA Acres, a research consortium that connects farmers with NASA science to address agricultural challenges.
+
+In August, a NASA Acreslistening tourbrought NASA officials to Cotter-Vardeman's farm in Slaton,a vineyardin Meadow, and parched cotton fields in Kress (below). At each stop, the conversation returned to water: how to preserve the ailing aquifer, and how farmers could manage their land in ways that would helprestore playa lakesand return billions of gallons of water to the aquifer.
+
+The playa lakes around Lubbock were among the first scientific topics researchers studied afterLandsat 1launched in 1972. Oneearly analysisby a Texas Tech geoscientist]]></description>
+  </item>
   <item>
     <title>NASA Sets Coverage for SpaceX 35th Station Resupply Launch, Arrival</title>
     <link>https://www.nasa.gov/news-release/nasa-sets-coverage-for-spacex-35th-station-resupply-launch-arrival/</link>
@@ -186,48 +228,6 @@ Subscribe to the Earth Observatory and get the Earth in your inbox.
 NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
 
 Open access to NASA’s archive of Earth science data]]></description>
-  </item>
-  <item>
-    <title>NASA to Cover Northrop Grumman CRS-24 Spacecraft Departure</title>
-    <link>https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-to-cover-northrop-grumman-crs-24-spacecraft-departure/</guid>
-    <pubDate>Tue, 06 Oct 2026 18:31:40 +0000</pubDate>
-    <description><![CDATA[After delivering more than 11,000 pounds of supplies, science experiments, and other cargo to the International Space Station for NASA, Northrop Grumman’s Cygnus XL spacecraft is scheduled to depart Friday, Oct. 9, as part of the company’s Commercial Resupply Services-24 mission, or Northrop Grumman CRS-24.
-
-Watch NASA’s live coverage of undocking and departure beginning at 12:30 p.m. EDT through a variety of platforms. Learn where to watch online:
-
-Flight controllers on the ground will send commands for the space station’s Canadarm2 robotic arm to detach the Cygnus XL spacecraft from the Unity module’s Earth-facing port and maneuver it into position for release at 12:45 p.m. NASA astronautLuke Delaneywill monitor the operation from aboard the orbital complex.
-
-Loaded with thousands of pounds of disposal items and other unneeded cargo, Cygnus XL will deorbit Sunday, Oct. 11, for a destructive re-entry into Earth’s atmosphere, where it will safely burn up. NASA will not provide coverage of the spacecraft’s deorbit.
-
-The resupply spacecraftlaunchedon April 11 on a SpaceX Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida.
-
-Learn more about this NASA commercial resupply mission at:
-
-https://www.nasa.gov/mission/nasas-northrop-grumman-crs-24/
-
-Josh Finch / Jimi RussellHeadquarters, Washington202-358-1100joshua.a.finch@nasa.gov/james.j.russell@nasa.gov
-
-Sandra JonesJohnson Space Center, Houston281-483-5111sandra.p.jones@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>October 2026 Satellite Puzzler</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/october-2026-satellite-puzzler/</guid>
-    <pubDate>Tue, 06 Oct 2026 18:27:38 +0000</pubDate>
-    <description><![CDATA[Every month,NASA Earth Observatoryfeatures a puzzling satellite image. The October 2026 puzzler appears above.
-
-Your ChallengeIdentify the location shown in this satellite image. Share what clues you see, where you think it is, and what makes this place interesting or unique to you.
-
-How to AnswerSubmit your response usingthis formand select “Puzzler Answer” as the topic. Please include your preferred name or alias.
-
-You can keep it simple and just guess the location. Want to impress us? Tell us which satellite and instrument captured the image, which spectral bands were used, or point out a subtle detail about the geology or history of the area. If something catches your eye, or if this is your home or means something to you, we’d love to hear about it.
-
-The PrizeWe can’t offer prize money or a trip to space to see Earth like satellites andastronauts do. But wecanoffer something almost as rewarding: puzzler bragging rights.
-
-About a week after the challenge, we’ll post the answer at the top of this page, along with a link to an Earth ObservatoryImage of the Daystory that explains the image in more detail. We’ll recognize the first person who correctly guesses the location, and we may also highlight readers who share especially thoughtful or interesting answers. By submitting a response, you acknowledge that your comments may be edited, excerpted, and published on this page.
-
-Until then, zoom in, look closely, and enjoy the challenge. See you at the reveal!]]></description>
   </item>
 </channel>
 </rss>
