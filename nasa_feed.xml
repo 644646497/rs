@@ -4,7 +4,26 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sat, 10 Oct 2026 11:40:53 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 16:42:27 GMT</lastBuildDate>
+  <item>
+    <title>NASA to Conduct Flyover, Engage NFL Fans at MetLife Stadium</title>
+    <link>https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-to-conduct-flyover-engage-nfl-fans-at-metlife-stadium/</guid>
+    <pubDate>Sat, 10 Oct 2026 14:18:59 +0000</pubDate>
+    <description><![CDATA[As part of the agency’s Inspiration Tour flyover, NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets to kick off the New York Jets vs. Cleveland Browns game in East Rutherford, New Jersey, on Sunday, Oct. 11.
+
+NASA team members will engage with fans at the agency’s Experience Zone, located at the Jets Tailgate Zone outside the stadium, from 10 a.m. to 1 p.m. EDT before the game. Fans can learn more about NASA’s return to the Moon under the agency’s Artemis dome, enjoy interactive games, and capture photos with a large, inflatable SLS (Space Launch System) rocket.
+
+Isaacman will be available for limited media interviews during the game. To arrange interviews, please contact Camille Gallo at:camille.m.gallo@nasa.govor 202-531-8057.
+
+With stops across the nation, NASA’sInspiration Tourconvenes academic, industry, and public sector stakeholders to connect the agency with the people, technologies, and organizations that drive American leadership in space.
+
+The tour will culminate in MAX POWER, a public exposition of American air and space innovation, Saturday, Nov. 7, and Sunday, Nov. 8, on and near the agency’s Kennedy Space Center in Florida. Held in honor of America’s historic 250th anniversary, the multi-day, family-friendly event will showcase the next-generation aircraft, spacecraft, autonomous vehicles, and technologies that will help define the future of transportation in air and space.
+
+For more information about MAX POWER and the agency’s missions, visit:
+
+Camille Gallo / Jessica TaveauHeadquarters, Washington202-358-1600camille.m.gallo@nasa.gov/jessica.c.taveau@nasa.gov]]></description>
+  </item>
   <item>
     <title>APOD: 2026 October 10 – Lunar Farside</title>
     <link>https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/</link>
@@ -195,13 +214,6 @@ RTMD Small Spacecraft & Distributed Systems (SSDS)
 Ames Research Center SBIR/STTR Program Office
 
 NASA’s Small Spacecraft Propulsion and Inspection Capability (SSPICY)]]></description>
-  </item>
-  <item>
-    <title>Crew-12 Returns to Earth</title>
-    <link>https://www.nasa.gov/image-article/crew-12-returns-to-earth/</link>
-    <guid>https://www.nasa.gov/image-article/crew-12-returns-to-earth/</guid>
-    <pubDate>Thu, 08 Oct 2026 18:52:27 +0000</pubDate>
-    <description><![CDATA[The SpaceX Crew Dragon Freedom spacecraft is seen moments before splashing down in the Pacific Ocean off the coast of California in this Oct. 8, 2026, photograph. Aboard were NASA’s SpaceX Crew-12 members NASA astronauts Jessica Meir and Jack Hathaway, ESA (European Space Agency) astronaut Sophie Adenot, and Roscosmos cosmonaut Andrey Fedyaev. The four spent nearly eight months aboard the International Space Station.]]></description>
   </item>
 </channel>
 </rss>
