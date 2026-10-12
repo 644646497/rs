@@ -4,7 +4,67 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 12 Oct 2026 11:23:30 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 20:29:30 GMT</lastBuildDate>
+  <item>
+    <title>微软 Maia 300 新晶片明年量产，关键运算 Chiplet 采台积电 N2P 制程</title>
+    <link>https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/</link>
+    <guid>https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/</guid>
+    <pubDate>Mon, 12 Oct 2026 18:14:57 +0000</pubDate>
+    <description><![CDATA[迈入超级智慧（Super Intelligence）的时代，微软跨入基础设施全新阶段。微软 12 日发表 Azure Maia 300 晶片，并计划自 2027 年起，将 Azure Maia 系列晶片扩展至数个 GW 等级的部署规模，成为微软产品与服务的主要推理系统。
+
+作为 Azure Maia 计划的第三个世代，最新 Maia 300 以推理优先的架构所设计，针对长脉络、记忆体密集以及沉重负担的 AI 工作负载进行最佳化，这需要精准平衡运算、记忆体频宽、网路以及电力效率。微软预计 2027 年开始量产、部署 Maia 300，甚至外媒报导可能部署超过 100 万颗。
+
+一套全新的多 Chiplet（小晶片）架构，将 Maia 300 的运算、记忆体控制器及 I/O 等功能相互分离，进而提升效率、扩展性及成本结构。Maia 300 的关键运算 Chiplet 采用台积电 N2P 制程打造，将每瓦效能最大化。
+
+在大型推理系统中，效能瓶颈往往不在于原始运算能力，而是资料搬移的效率。Maia 300 的软体定义资料流架构，与 AI 辅助的 kernel 最佳化技术相互搭配，极大化资料局部性、减少搬移次数，并提升运算、记忆体及网路资源的利用率。
+
+随著 AI 工作负载越来越受脉络与记忆体限制，Maia 300 在每瓦 HBM 频宽交出领先业界的表现。八组 HBM4 堆叠在 950 瓦的 TDP 内，提供 18.0 TB/s 峰值记忆体频宽，让大型语言模型与长脉络工作负载得以有效执行。专门的 kernel 支援，会将晶片内的 SRAM 作为由软体管理的暂存区使用，借此减轻 HBM 负担。
+
+Maia 300 针对先进的低精度格式（包括强化版 MXFP4）进行设计，降低运算与 KV 快取储存对记忆体与频宽的需求，在同样的功耗范围内，达到更大的脉络视窗、更高的吞吐量以及更出色的模型效率。
+
+Maia 300 也将网路视为软体定义资料流架构的无缝延伸，各项资料流操作并非透过各自独立的通讯层搬移资料，而是将运算、记忆体及网路资源视为单一系统运作。每颗 Azure Maia 晶片之间的高频宽互连机制，针对张量平行运算（tensor parallelism）进行最佳化。这套针对 AI 最佳化的传输协定，运用以乙太网路为基础的网路基础设施，实现一套自单一机柜扩展至资料中心的统一拓扑架构。
+
+Maia 300 机柜在 167 kW 功耗范围内整合 96 颗晶片，提供 27.6 TB 的 HBM 容量以及 1.7 PB/s 的 HBM 总频宽，此一密度让微软得以在每座机柜服务更多同时进行的 AI 互动与更大型的工作负载。
+
+不只如此，相较于顶尖的 GPU 系统，微软预期 Maia 300 每 MW 交出的 token 数量多出 40%；在完整 96 颗晶片配置下，机柜级 token 吞吐量最高可达 Maia 200 的七倍。
+
+Today we are announcing our biggest bet yet on our own silicon.
+
+Starting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making it the primary inference system for our own product and services.
+
+And we’re introducing Maia 300, which delivers 40% more tokens per watt compared to leading GPU-based systems.
+
+We are already deploying Maia 200 across the US, Europe, and Australia, delivering up to 1.7x more tokens per watt across experiences in Teams and Copilot.
+
+Our goal is to build on the full-stack efficiency gains we’ve already seen, while continuing to bring the latest innovations from across the ecosystem into our fleet.
+
+— Satya Nadella (@satyanadella)October 12, 2026
+
+年初发表的 Maia 200 已支援微软各项正式生产环境的工作负载，并支援 MAI 团队开发次世代模型，而 GitHub Copilot 与 Microsoft Foundry 将在年底前陆续跟进。
+
+由于晶片开发耗时数年，微软的软体与硬体团队及早展开协作，预先设想未来的架构、规模及各项能力，并将需求转化为更大的记忆体容量、更高的频宽，以及能作为单一系统运作的加速器。
+
+微软目前于美国、欧洲、澳洲部署 Maia 200，相较于顶尖的 GPU 系统，Maia 200 在 Microsoft Teams、Copilot 与 Cowork 体验的内建 AI 功能上，每瓦交付的 token 数量最高可达 1.7 倍。
+
+这套横跨多个世代的 Azure Maia 计划，成为微软 AI 基础设施策略的根基，可以协助 GitHub 更有效率地提供程式设计体验，协助 Microsoft Foundry 支援多元架构与部署环境的云端模型服务供应，为 MAI 团队进行推理与资料生成作业，以及协助 Dragon Copilot 扩展各项工作流程、减轻临床人员行政负担等。]]></description>
+  </item>
+  <item>
+    <title>太阳死后的太阳系，比想像中的更快崩解</title>
+    <link>https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/</link>
+    <guid>https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/</guid>
+    <pubDate>Mon, 12 Oct 2026 14:27:30 +0000</pubDate>
+    <description><![CDATA[宇宙在可预测的稳定与狂热的混乱之间摆动，而对于遥远未来的命运，人类长久以来总是抱持著过度乐观的幻想。在我们所处的太阳系中，过去的天体力学计算曾让人们以为，即使太阳在数十亿年后耗尽燃料、缓慢蜕变为白矮星，外侧的巨行星们依然能够安然无恙地运行数兆年之久。然而，近期发表在《天文物理学快报》（The Astrophysical Journal Letters）上的研究指出，外太阳系的崩解可能比想像中要快上百倍，且凶手不是别人，正是未来的太阳自己。
+
+过去的理论模型，多半假设当太阳在遥远的未来逐渐死亡、向太空中抛出外层气体时，过程会是平滑而稳定的。然而，由加州理工学院的康斯坦丁·巴蒂金（Konstantin Batygin）与吉姆·富勒（Jim Fuller），以及密西根大学的弗雷德·亚当斯（Fred Adams）所领导的团队发现，当这种平滑性转为随机与细碎的颗粒状时，情况将彻底改观。太阳的质量流失并非安详流逝，而是会透过大约4,600次随机且猛烈的「踢击」将物质喷发出去。
+
+每一次的质量抛射，大约会将相当于33个地球质量的物质以类似太空人喷气移动的物理效应，把太阳微幅偏移，进而随机扰动周遭的引力场。透过分析欧洲太空总署（ESA）盖亚（Gaia）卫星对白矮星周遭双星系统的观测数据并进行数百次电脑模拟，研究人员发现：在近80%的模拟情境中，外侧行星在太阳尚未完全结束脱壳前，就会提早出现轨道交错的混乱现象；而在90%的模型里，整个太阳系甚至会在太阳变成白矮星后的30亿年内（即不到100亿年后）自我毁灭。
+
+▲ 外太阳系的未来，在太阳死后的各种潜在的可能性。（Source：IOP）
+
+在这场由内部动荡引发的行星大混乱中，天王星与海王星可能会互换位置并闯入内侧，木星与土星等巨行星甚至可能被无情地甩出太阳系，沦为在星际空间中无家可归的流浪行星。这项研究彻底打破了过去认为行星系统能够安度晚年的美好神话，并提醒我们，宇宙中绝大多数类似太阳的恒星，其伴随的行星世界其实远比我们想像的还要脆弱。
+
+（本文由台北天文馆授权转载；首图为现今太阳系的示意图，未依实际比例绘制，来源：pixabay）]]></description>
+  </item>
   <item>
     <title>远传9月营收109.62 亿元</title>
     <link>https://finance.technews.tw/2026/10/12/far-eastone-4904-202609-financial-report/</link>
@@ -203,44 +263,6 @@ Steelfin 大部分次组件预计由位于俄亥俄州的 Arsenal-1 工厂制造
     <guid>https://finance.technews.tw/2026/10/12/concraft-4943-202609-financial-report/</guid>
     <pubDate>Mon, 12 Oct 2026 08:40:02 +0000</pubDate>
     <description><![CDATA[康控-KY（4943）今（12）日公布 9 月营收，达 1.89 亿元，较 8 月成长 4.2%，较去年同期成 [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>科嘉-KY9月营收月减12.0%</title>
-    <link>https://finance.technews.tw/2026/10/12/ko-ja-5215-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/12/ko-ja-5215-202609-financial-report/</guid>
-    <pubDate>Mon, 12 Oct 2026 08:30:05 +0000</pubDate>
-    <description><![CDATA[科嘉-KY（5215）公布 9 月合并营收 1.96 亿元，较上（8）月成长 -12.0%，与去年同期相比为年增 -27.0%；累计其今年前 9 月营收为 22.97 亿元，较去年同期增加 19.3%。]]></description>
-  </item>
-  <item>
-    <title>韩国泡面出口额上看 20 亿美元，辣味热潮席卷全球</title>
-    <link>https://technews.tw/2026/10/12/korean-instant-noodle-exports-surpass-2-billion-global-spicy-craze/</link>
-    <guid>https://technews.tw/2026/10/12/korean-instant-noodle-exports-surpass-2-billion-global-spicy-craze/</guid>
-    <pubDate>Mon, 12 Oct 2026 08:20:58 +0000</pubDate>
-    <description><![CDATA[韩国泡面今年出口额有望首度突破 20 亿美元（新台币 638 亿元），且这股热潮早已不再局限于三养食品旗下以辛辣口味闻名的辣鸡面。
-
-《中央日报》报导，根据韩国农水产食品流通公社的数据，今年上半年韩国泡面出口额创下9亿3,540万美元的新高，较去年同期成长27.9%。这已相当于去年全年出口额15亿2,000万美元的约62%。
-
-几年前，全球掀起的韩国泡面热潮主要集中在三养食品的辣鸡面。如今，农心、不倒翁和八道等品牌推出的各式辣味泡面，也开始热销海外市场。
-
-从各国及各地区的出口数据，可以看出韩国泡面热潮扩及的范围。根据韩国农林畜产食品部，中国去年采购价值3亿8,540万美元的韩国泡面，年增47.9%，居各国之冠。中国市场规模庞大，加上口味和韩国很接近，至今仍是忠实的大客户。
-
-中国绝非唯一的热销市场。韩国泡面对美国的出口额成长18.2%，达2亿5,470万美元；对东协国家的出口额则成长12.4%，达2亿2,320万美元。
-
-此外，对中亚出口额成长38.7%，达8,240万美元；对日本出口额成长23.6%，达7,730万美元；对中东出口额则成长22%，达4,750万美元。
-
-出口市场日益多元，意味著韩国泡面出口商不再过度依赖中国市场，也成功吸引饮食口味过去被认为与韩国大不相同的国家消费者。日本是泡面的发源地，韩国泡面在当地出口仍有双位数成长，显示海外需求已相当强劲。
-
-韩国农水产食品流通公社一名官员表示：「在海外大受欢迎的韩国泡面大多偏辣，与口味多半清淡、偏甜的日本拉面并非竞争关系，而是创造出自己的市场需求。」
-
-三养食品上半年营收达1.48兆韩圜，海外销售占约83%，达1.23兆韩圜。农心海外子公司上半年销售额达6,414亿韩圜，年增26.8%，占公司总营收的比重也从去年同期的28.7%升至33.9%。
-
-产业界人士与专家指出，韩国泡面在全球走红有几个原因。除了带动辣鸡面爆红的「香辣好滋味」风靡全球之外，多年来热门韩剧与电影经常出现演员津津有味地吃著泡面当宵夜的画面，加上在YouTube Shorts和Instagram上，一般民众挑战吃辣味泡面的影片也愈来愈多，这些都吸引更多消费者爱上韩国泡面。
-
-人口结构与饮食习惯改变也带来助力。去年，单身户占韩国总户数的36.6%，在经济合作暨发展组织（OECD）成员国中，单身户占比平均也超过30%。随著结婚率下降、少子化及人口老化，独居已成为全球趋势。
-
-一名业界人士表示：「随著海外单身户大幅增加，任何人都能快速、轻松料理的居家即食食品大受欢迎，泡面就是最具代表性的例子。」
-
-根据市场研究公司Market Growth Reports，全球居家即食食品市场规模从2024年的1,339亿美元，增至去年的1,492亿美元，预计2034年将达3,224亿美元。]]></description>
   </item>
 </channel>
 </rss>
