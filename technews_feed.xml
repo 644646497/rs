@@ -4,265 +4,303 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 12 Oct 2026 20:29:30 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 04:08:13 GMT</lastBuildDate>
   <item>
-    <title>微软 Maia 300 新晶片明年量产，关键运算 Chiplet 采台积电 N2P 制程</title>
-    <link>https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/</link>
-    <guid>https://technews.tw/2026/10/13/microsoft-maia-300-to-begin-production-deployments-in-2027/</guid>
-    <pubDate>Mon, 12 Oct 2026 18:14:57 +0000</pubDate>
-    <description><![CDATA[迈入超级智慧（Super Intelligence）的时代，微软跨入基础设施全新阶段。微软 12 日发表 Azure Maia 300 晶片，并计划自 2027 年起，将 Azure Maia 系列晶片扩展至数个 GW 等级的部署规模，成为微软产品与服务的主要推理系统。
+    <title>「开放软体、专有晶片」剑指辉达，高通连环收购拚突围 CUDA 生态圈</title>
+    <link>https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/</link>
+    <guid>https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/</guid>
+    <pubDate>Tue, 13 Oct 2026 04:00:20 +0000</pubDate>
+    <description><![CDATA[高通（Qualcomm）正加速推进一套以「开放软体、专有晶片」为核心的策略，试图削弱辉达（NVIDIA）在 AI 开发生态中的软体黏著力，并将竞争重心重新拉回硬体本身。根据 13 日相关报导，高通近一年来透过一系列收购与平台整合，扩大其在资料中心、边缘装置与机器人等领域的布局。
 
-作为 Azure Maia 计划的第三个世代，最新 Maia 300 以推理优先的架构所设计，针对长脉络、记忆体密集以及沉重负担的 AI 工作负载进行最佳化，这需要精准平衡运算、记忆体频宽、网路以及电力效率。微软预计 2027 年开始量产、部署 Maia 300，甚至外媒报导可能部署超过 100 万颗。
+在这套策略中，高通选择让晶片以下的底层硬体维持封闭与差异化，但将上层软体工具尽量设计为具备可携性、可跨平台使用的特性。这与辉达以 CUDA 为核心、形成完整且高度整合的开发环境形成鲜明对比。报导指出，辉达的优势在于整套工具链、模拟技术与机器人运算平台所带来的深度最佳化，以及庞大的开发者社群，但也因此提高客户转换至其他方案的成本。
 
-一套全新的多 Chiplet（小晶片）架构，将 Maia 300 的运算、记忆体控制器及 I/O 等功能相互分离，进而提升效率、扩展性及成本结构。Maia 300 的关键运算 Chiplet 采用台积电 N2P 制程打造，将每瓦效能最大化。
+高通的回应则是透过一连串收购来补齐软体拼图。自 2025 年初以来，高通已披露收购 Edge Impulse、Arduino、Modular，并在最新一波动作中纳入PickNik Robotics。这些公司分别对应 IoT 与边缘开发、跨硬体软体层，以及机器人与实体 AI 的运动规划能力。高通希望借由保留这些平台的开放性，让开发者不必被单一处理器所绑架。
 
-在大型推理系统中，效能瓶颈往往不在于原始运算能力，而是资料搬移的效率。Maia 300 的软体定义资料流架构，与 AI 辅助的 kernel 最佳化技术相互搭配，极大化资料局部性、减少搬移次数，并提升运算、记忆体及网路资源的利用率。
+其中，Modular 被视为高通开放策略的关键。该公司由 LLVM 与 Swift 创办人克里斯·拉特纳（Chris Lattner）创立，负责 Mojo 语言与 MAX 平台的开发。高通在 Snapdragon Summit 上进一步扩大这项布局，宣布将 Mojo、MAX 与 Modular Cloud 整合为统一软体层，未来可用于 Snapdragon 手机、X2 PC、AR1 眼镜、Wear Elite 智慧手表、Sound Gen 耳机，以及即将推出的 Dragonfly 资料中心处理器。高通表示，开发者可以透过 Mojo 工作流程，在辉达或云端 GPU 与 Snapdragon 装置之间轻松移转，而无需重写程式。
 
-随著 AI 工作负载越来越受脉络与记忆体限制，Maia 300 在每瓦 HBM 频宽交出领先业界的表现。八组 HBM4 堆叠在 950 瓦的 TDP 内，提供 18.0 TB/s 峰值记忆体频宽，让大型语言模型与长脉络工作负载得以有效执行。专门的 kernel 支援，会将晶片内的 SRAM 作为由软体管理的暂存区使用，借此减轻 HBM 负担。
+在边缘与物联网领域，高通也延续类似做法。Arduino 拥有约 3,300 万开发者社群，高通并未打算完全并吞其品牌，而是希望维持其独立性，并提供开放原始码工具与多供应商支援；Edge Impulse 则强化了资料搜集、模型开发、最佳化与部署能力，且同样将持续支援多种外部硬体。至于最新加入的 PickNik Robotics，则让高通在机器人与实体 AI 的开放式操作与运动规划上，再添一块重要拼图。
 
-Maia 300 针对先进的低精度格式（包括强化版 MXFP4）进行设计，降低运算与 KV 快取储存对记忆体与频宽的需求，在同样的功耗范围内，达到更大的脉络视窗、更高的吞吐量以及更出色的模型效率。
-
-Maia 300 也将网路视为软体定义资料流架构的无缝延伸，各项资料流操作并非透过各自独立的通讯层搬移资料，而是将运算、记忆体及网路资源视为单一系统运作。每颗 Azure Maia 晶片之间的高频宽互连机制，针对张量平行运算（tensor parallelism）进行最佳化。这套针对 AI 最佳化的传输协定，运用以乙太网路为基础的网路基础设施，实现一套自单一机柜扩展至资料中心的统一拓扑架构。
-
-Maia 300 机柜在 167 kW 功耗范围内整合 96 颗晶片，提供 27.6 TB 的 HBM 容量以及 1.7 PB/s 的 HBM 总频宽，此一密度让微软得以在每座机柜服务更多同时进行的 AI 互动与更大型的工作负载。
-
-不只如此，相较于顶尖的 GPU 系统，微软预期 Maia 300 每 MW 交出的 token 数量多出 40%；在完整 96 颗晶片配置下，机柜级 token 吞吐量最高可达 Maia 200 的七倍。
-
-Today we are announcing our biggest bet yet on our own silicon.
-
-Starting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making it the primary inference system for our own product and services.
-
-And we’re introducing Maia 300, which delivers 40% more tokens per watt compared to leading GPU-based systems.
-
-We are already deploying Maia 200 across the US, Europe, and Australia, delivering up to 1.7x more tokens per watt across experiences in Teams and Copilot.
-
-Our goal is to build on the full-stack efficiency gains we’ve already seen, while continuing to bring the latest innovations from across the ecosystem into our fleet.
-
-— Satya Nadella (@satyanadella)October 12, 2026
-
-年初发表的 Maia 200 已支援微软各项正式生产环境的工作负载，并支援 MAI 团队开发次世代模型，而 GitHub Copilot 与 Microsoft Foundry 将在年底前陆续跟进。
-
-由于晶片开发耗时数年，微软的软体与硬体团队及早展开协作，预先设想未来的架构、规模及各项能力，并将需求转化为更大的记忆体容量、更高的频宽，以及能作为单一系统运作的加速器。
-
-微软目前于美国、欧洲、澳洲部署 Maia 200，相较于顶尖的 GPU 系统，Maia 200 在 Microsoft Teams、Copilot 与 Cowork 体验的内建 AI 功能上，每瓦交付的 token 数量最高可达 1.7 倍。
-
-这套横跨多个世代的 Azure Maia 计划，成为微软 AI 基础设施策略的根基，可以协助 GitHub 更有效率地提供程式设计体验，协助 Microsoft Foundry 支援多元架构与部署环境的云端模型服务供应，为 MAI 团队进行推理与资料生成作业，以及协助 Dragon Copilot 扩展各项工作流程、减轻临床人员行政负担等。]]></description>
+高通的核心讯息非常明确：若软体更具可携性，客户更换硬体的成本就会下降，供应商之间的竞争也将回归到晶片效能、功耗、连线能力、成本与整合度等基本面。虽然辉达仍握有完整技术堆叠与最大 AI 开发者生态的优势，但高通押注的是，对于个人 AI 与实体 AI 而言，更开放的硬体生态将带来全新的机会。]]></description>
   </item>
   <item>
-    <title>太阳死后的太阳系，比想像中的更快崩解</title>
-    <link>https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/</link>
-    <guid>https://technews.tw/2026/10/12/the-solar-system-may-fall-apart-faster-than-expected-after-the-sun-dies/</guid>
-    <pubDate>Mon, 12 Oct 2026 14:27:30 +0000</pubDate>
-    <description><![CDATA[宇宙在可预测的稳定与狂热的混乱之间摆动，而对于遥远未来的命运，人类长久以来总是抱持著过度乐观的幻想。在我们所处的太阳系中，过去的天体力学计算曾让人们以为，即使太阳在数十亿年后耗尽燃料、缓慢蜕变为白矮星，外侧的巨行星们依然能够安然无恙地运行数兆年之久。然而，近期发表在《天文物理学快报》（The Astrophysical Journal Letters）上的研究指出，外太阳系的崩解可能比想像中要快上百倍，且凶手不是别人，正是未来的太阳自己。
+    <title>纽时、经济学人等媒体加入联盟，防止 AI 未经授权使用新闻内容</title>
+    <link>https://technews.tw/2026/10/13/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use/</link>
+    <guid>https://technews.tw/2026/10/13/nyt-economist-among-publishers-joining-coalition-to-curb-unpaid-ai-use/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:50:29 +0000</pubDate>
+    <description><![CDATA[纽约时报（The New York Times）、法新社（AFP）和「经济学人」（The Economist）今天宣布加入一个由 40 多家出版业者组成的联盟，目标是避免人工智慧（AI）业者未经授权使用或利用其内容获利。
 
-过去的理论模型，多半假设当太阳在遥远的未来逐渐死亡、向太空中抛出外层气体时，过程会是平滑而稳定的。然而，由加州理工学院的康斯坦丁·巴蒂金（Konstantin Batygin）与吉姆·富勒（Jim Fuller），以及密西根大学的弗雷德·亚当斯（Fred Adams）所领导的团队发现，当这种平滑性转为随机与细碎的颗粒状时，情况将彻底改观。太阳的质量流失并非安详流逝，而是会透过大约4,600次随机且猛烈的「踢击」将物质喷发出去。
+路透社报导，「出版商使用权标准」（Standards for Publisher Usage Rights，SPUR）联盟成立于今年2月，目前已有来自20多个国家的超过80个成员。新加入的成员包括美国「大西洋月刊」（The Atlantic）及巴西全国报业协会（National Association of Newspapers），其他创始成员则包括英国金融时报（Financial Times）、英国广播公司（BBC）及美联社（AP）。
 
-每一次的质量抛射，大约会将相当于33个地球质量的物质以类似太空人喷气移动的物理效应，把太阳微幅偏移，进而随机扰动周遭的引力场。透过分析欧洲太空总署（ESA）盖亚（Gaia）卫星对白矮星周遭双星系统的观测数据并进行数百次电脑模拟，研究人员发现：在近80%的模拟情境中，外侧行星在太阳尚未完全结束脱壳前，就会提早出现轨道交错的混乱现象；而在90%的模型里，整个太阳系甚至会在太阳变成白矮星后的30亿年内（即不到100亿年后）自我毁灭。
+出版业者正加强法律行动，试图阻止AI公司在未经授权的情况下，使用其内容来训练大型语言模型。本月稍早，今日美国报（USA Today）及其旗下数家报纸已对OpenAI提起诉讼，指控对方侵犯著作权。
 
-▲ 外太阳系的未来，在太阳死后的各种潜在的可能性。（Source：IOP）
+OpenAI及其金主微软（Microsoft）也面临知名作家与新闻机构提出的类似著作权侵害指控，其中包括纽约时报。
 
-在这场由内部动荡引发的行星大混乱中，天王星与海王星可能会互换位置并闯入内侧，木星与土星等巨行星甚至可能被无情地甩出太阳系，沦为在星际空间中无家可归的流浪行星。这项研究彻底打破了过去认为行星系统能够安度晚年的美好神话，并提醒我们，宇宙中绝大多数类似太阳的恒星，其伴随的行星世界其实远比我们想像的还要脆弱。
+根据SPUR官网，该联盟由会员全额出资，现正制定产业标准与技术系统，以协助出版商追踪及控管AI公司如何使用其内容，并促进授权协议的签订。
 
-（本文由台北天文馆授权转载；首图为现今太阳系的示意图，未依实际比例绘制，来源：pixabay）]]></description>
+纽时策略合作主管兼幕僚主管葛罗斯曼－柯恩（Rebecca Grossman-Cohen）透过声明表示，「智慧财产权保护与技术进步可以、也必须共存。」
+
+由于搜寻引擎提供AI生成的答案，让使用者无须点进网站就能取得资讯，出版商也面临来自搜寻引擎的网站流量下滑问题。
+
+路透新闻学研究所（Reuters Institute for the Study of Journalism）的报告引述即时网站分析软体业者Chartbeat的数据指出，2024年11月至2025年11月期间，全球2,500多个网站来自Google自然搜寻的流量减少33%。]]></description>
   </item>
   <item>
-    <title>远传9月营收109.62 亿元</title>
-    <link>https://finance.technews.tw/2026/10/12/far-eastone-4904-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/12/far-eastone-4904-202609-financial-report/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:20:08 +0000</pubDate>
-    <description><![CDATA[远传（4904）今（12）日公布 9 月营收，达 109.62 亿元，较 8 月成长 14.8%，较去年同期成 [&#8230;]]]></description>
+    <title>格罗方德全新 FDX Fusion 平台挑战 7 奈米级效能，主攻车用与边缘 AI</title>
+    <link>https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node/</link>
+    <guid>https://technews.tw/2026/10/13/globalfoundries-unveils-7nm-class-fdx-fusion-node/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:40:49 +0000</pubDate>
+    <description><![CDATA[格罗方德（GlobalFoundries）在德国德勒斯登宣布推出新一代 FDX Fusion FD-SOI 平台，并同步揭露当地晶圆厂的扩建进度。这项新技术主打接近 7 奈米级的数位效能，目标是将运算、感测、控制与连线能力整合至单一制程平台，锁定车用、工业、机器人、感测器与边缘 AI 等低功耗、高整合度的应用领域。
+
+根据格罗方德的说法，FDX Fusion 并非单纯追求最先进的微缩尺寸，而是强调系统整合能力。该平台将结合平面电晶体、全空乏型绝缘层上覆矽（FD-SOI）基板、后段互连以及其他制程创新，并支援类比与混合讯号、高效能射频、嵌入式非挥发性记忆体以及记忆体内运算（In-memory computing）等功能。公司表示，这有助于降低原本需要多颗晶片分工所带来的设计复杂度与功耗。
+
+在时程方面，格罗方德预计于 2027 年初提供首批示范晶片供客户评估，2027 年中推出首版制程设计套件（PDK），并计划于 2028 年在德勒斯登进入量产阶段。该公司也提到，BMW、博世（Bosch）、英飞凌（Infineon）、恩智浦（NXP）、西门子（Siemens）与特斯拉（Tesla）等企业对此技术表达兴趣，其中英飞凌已确认将在未来 7 奈米级技术上展开合作，应用方向涵盖雷达与无线通讯。
+
+此次发表也被视为格罗方德 FD-SOI 技术路线的重要转折点。该公司早在 2015 年推出 22FDX，2016 年又提出 12FDX 规划，但后者始终未进入商用阶段。如今，FDX Fusion 被外界视为格罗方德重新挑战高阶 FD-SOI 制程的最新尝试，也可能为欧洲晶片设计业者提供更先进的在地制造选项。]]></description>
   </item>
   <item>
-    <title>台湾大9月营收174.12 亿元</title>
-    <link>https://finance.technews.tw/2026/10/12/twm-3045-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/12/twm-3045-202609-financial-report/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:20:05 +0000</pubDate>
-    <description><![CDATA[台湾大（3045）今（12）日公布 9 月营收，达 174.12 亿元，较 8 月成长 3.8%，较去年同期成 [&#8230;]]]></description>
+    <title>马斯克忧中国量产力  RAM 恐受冲击、SpaceX 是异数</title>
+    <link>https://technews.tw/2026/10/13/elon-musk-china-mass-production-capacity-ram-impact-spacex-exception/</link>
+    <guid>https://technews.tw/2026/10/13/elon-musk-china-mass-production-capacity-ram-impact-spacex-exception/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:30:28 +0000</pubDate>
+    <description><![CDATA[马斯克（Elon Musk）认为，中国一旦掌握某项产品的制造技术，其扩大量产的能力往往超过其他国家总和，锂电池及太阳能就是典型案例。他警告，记忆体（RAM）可能成为下一个面临中国大规模量产竞争的产业，但高频宽记忆体（HBM）及先进 3D 堆叠技术仍存在较高门槛。
+
+马斯克12日在社交平台X发文指出，记忆体约三年前仍是低毛利的标准化商品，而LPDDR5及LPDDR6采用共同规格，中国似乎正快速掌握相关技术。他认为，记忆体能否成为中国量产优势的例外，仍有待观察。
+
+When China figures out how to manufacture a product, their ability to scale is often greater than the rest of the world combined. We saw this with lithium batteries and solar, for example.
+
+SpaceX is a rare counter-example, where its mass to orbit is roughly an order of magnitude greater than the rest of the world, BUT China now does a majority of non-SpaceX mass to orbit. SpaceX is an anomaly in the matrix.
+
+Maybe RAM will be different, but RAM was a low margin commodity only ~3 years ago. LP5 and LP6 are designed to a common standard that China seems to be solving fast.
+
+Newer HBM architectures and things like an SRAM layer below logic and 3D stacking RAM on top of logic while finding a way to keep the logic cooled will be harder to solve.
+
+— Elon Musk (@elonmusk)October 12, 2026
+
+换言之，对于标准化程度较高的记忆体产品，中国庞大的量产能力仍值得关注。
+
+《南华早报》12日引述长鑫存储（CXMT）的公司声明报导，中国记忆体大厂长鑫存储（CXMT）计划今年底推出采用混合键合及4F²技术的DDR5记忆体。这项技术透过垂直排列记忆体单元元件，缩小晶片面积并提升效能，而三星预计2028年才推出相关产品。
+
+不过，马斯克认为，新一代HBM架构、在逻辑晶片下方配置SRAM，以及在逻辑晶片上方进行3D记忆体堆叠，同时解决散热问题，技术难度将更高。
+
+谈到全球制造竞争，马斯克特别指出，旗下SpaceX是罕见例外，其送入轨道的酬载总质量（mass to orbit）约为全球其他太空发射业者合计的10倍（order of magnitude）。但他也坦言，若将SpaceX排除，中国目前已占其余全球业者轨道酬载总质量的过半数。马斯克形容SpaceX是全球量产竞争格局中的「异数」。
+
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>告别停滞性通膨梦魇！美国学者以「前瞻性个体基础」获诺贝尔经济学奖</title>
-    <link>https://technews.tw/2026/10/12/hall-woodford/</link>
-    <guid>https://technews.tw/2026/10/12/hall-woodford/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:18:56 +0000</pubDate>
-    <description><![CDATA[2026 诺贝尔经济学奖今日宣布颁发给美国加州史丹佛大学罗伯特·E·霍尔（Robert E. Hall）与美国纽约哥伦比亚大学麦可·伍德福（Michael Woodford），表彰其为总体经济稳定奠定个体经济基础，基于开发的新总体经济模型，实施有效稳定的财政与货币政策，以减少经济的高峰与低谷。
+    <title>瑞典 2 万名双胞胎研究，萤幕时间不是青少年忧郁主因</title>
+    <link>https://technews.tw/2026/10/13/study-of-20000-swedish-twins-finds-mobile-phones-are-not-the-primary-cause-of-depression-in-adolescents/</link>
+    <guid>https://technews.tw/2026/10/13/study-of-20000-swedish-twins-finds-mobile-phones-are-not-the-primary-cause-of-depression-in-adolescents/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:28:57 +0000</pubDate>
+    <description><![CDATA[长期以来，手机与社群媒体被视为青少年心理健康恶化的元凶，许多国家甚至开始限制学生使用手机。然而，瑞典一项追踪超过2万名双胞胎的最新研究发现，青少年使用萤幕时间越长，确实越容易出现忧郁与焦虑，但两者的关系可能没有过去想像中那么直接，遗传基因与家庭环境或许才是更重要的影响因素。
 
-今年的经济学奖得主罗伯特·E·霍尔与麦克·伍德福德开发新的总体经济模型，大幅提升全球实施有效稳定政策的能力，并基于这些模型，适时的财政与货币政策措施，能够减少经济的高峰与低谷，帮助世界各国平缓经济的起伏。
+瑞典卡罗林斯卡学院研究团队追踪超过2.1万名双胞胎，从9岁开始观察，部分受试者一路追踪至28岁，分析青少年时期的萤幕使用习惯，以及成年后的忧郁、焦虑风险。
 
-自从经济学家约翰·梅纳德·凯因斯（John Maynard Keynes）在近一个世纪前提出其理论以来，稳定政策一直是应对这些波动的重要手段，并在经济衰退期间，透过降低利率和增加预算赤字来刺激经济，而在经济过热时则应采取相反的措施以减缓经济增长。
+研究发现，15岁时平日每天使用互动式萤幕超过6小时的青少年，相较每天使用不超过2小时者，成年后确诊忧郁或焦虑的相对风险高出3倍以上。
 
-然而，1970 年代的石油危机期间，指导何时及如何实施措施的凯因斯模型似乎失效，不仅未能降低失业率，反而导致失控的通货膨胀，西方世界经历低成长、高失业与高通膨的十年，导致许多人认为稳定政策弊大于利，应该被淘汰。
+然而，当研究人员进一步比较同一对双胞胎，控制共同遗传与家庭环境因素后，风险差距大幅缩小至约1.65倍，而且经过多重比较校正后，已不具统计显著性。
 
-罗伯特·E·霍尔与麦克·伍德福德因展示如何重建经济模型以振兴稳定政策，而获颁今年的经济学奖，两位并没有将模型建立在通货膨胀、生产和消费等总体经济变数的统计关联，而是选择将其建立在个体经济基础，这包含对所有个别家庭和企业的行为如何影响整体经济的理解。
+研究人员解释，过去许多研究发现，手机使用时间越长，青少年心理健康越差，但这不代表手机就是造成忧郁的原因。例如，原本就容易焦虑、孤独的孩子，可能更倾向透过手机寻求娱乐与社交，家庭关系不佳的孩子，也可能花更多时间待在网路世界。
 
-这些模型的一个核心组成部分，主要是家庭和企业在做出关于储蓄或产品价格的决定时，具备「前瞻性」，当政府和中央银行沟通其经济政策计划时，足以影响这种对未来的预期，并将经济引导至正确的方向，自从引入这些新模型以来，影响各国的经济衰退应对，发挥极大的帮助。
+双胞胎研究的优势，在于同卵双胞胎拥有几乎相同的基因，也在相同家庭成长，透过比较两人的萤幕使用时间与心理健康差异，能更有效排除遗传及共同家庭环境的干扰。
 
-「得主们的工作为世界各地中央银行和政府目前使用的模型提供稳定的理论基础，而有了这些模型，各国政府能更好地应对经济冲击，例如能源危机或家庭消费量的突然变化，」经济学奖委员会主席约翰·哈斯勒（John Hassler）表示。
+研究也发现，不同萤幕活动的影响并不相同，打电动、聊天及上网等互动式活动，与忧郁、焦虑症状的关联较明显，而看电视或影片等被动式活动，关联则相对较弱。此外，15岁时心理症状较多的青少年，到18岁，互动式萤幕使用时间也略为增加，暗示两者可能存在双向关系。
 
-罗伯特·E·霍尔 1943 年生于美国加州帕罗奥图，1967 年获美国麻省理工学院（MIT）博士学位，现为美国加州史丹佛大学教授；麦克·伍德福德 1955 年生于美国麻州奇科皮，1983 年获美国麻省理工学院（MIT）博士学位，现为美国纽约哥伦比亚大学教授。]]></description>
+不过，研究并非证明手机完全无害，部分重度使用萤幕的双胞胎，仍出现较严重的心理症状，显示萤幕使用可能仍有独立影响。
+
+研究也有时代限制，资料搜集始于2004年，当时智慧型手机与TikTok、Instagram等社群平台尚未普及，因此无法完全反映现代青少年的网路使用环境。但其重要价值在于揭示，心理健康问题过去被归咎于萤幕使用时间，可能有相当部分来自遗传与家庭因素。
+
+研究团队认为，单纯限制萤幕时间，未必能解决青少年心理健康问题，比起只关注孩子每天使用手机几小时，更重要的是了解他们为什么依赖手机，以及背后是否存在焦虑、孤独或家庭压力。
+
+这项研究提醒家长与政策制定者，青少年心理健康危机可能远比萤幕使用时间更加复杂，若忽略遗传、家庭与个人心理因素，恐怕难以找到真正有效的解决方法。该研究已刊登在《自然·人类行为》期刊。]]></description>
   </item>
   <item>
-    <title>华为新款 MPV 煞车踏板断裂，中共官媒地方政府纷批评</title>
-    <link>https://technews.tw/2026/10/12/huawei-new-mpv-brake-pedal-snaps-slammed-chinese-state-media-local-governments/</link>
-    <guid>https://technews.tw/2026/10/12/huawei-new-mpv-brake-pedal-snaps-slammed-chinese-state-media-local-governments/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:10:17 +0000</pubDate>
-    <description><![CDATA[中国华为推出的豪车级新能源 MPV（多功能休旅车）「尊界 V800」日前在专业测试中，连续 3 次出现煞车踏板断裂的离谱情事，引发强烈质疑。中共官媒人民日报 11 日发表文章，直指煞车踏板绝不应该在驾驶中断裂，并呼吁中国汽车业对「速成车」说不。
+    <title>2 万欧元有找，Smart 双人座纯电车回来了</title>
+    <link>https://technews.tw/2026/10/13/smart-for-two-ev-is-back/</link>
+    <guid>https://technews.tw/2026/10/13/smart-for-two-ev-is-back/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:28:07 +0000</pubDate>
+    <description><![CDATA[曾经是马路上最吸睛的小可爱 Smart，淡出车坛多年后，今天带著全新升级的纯电动力，重新回到市场上，而且最低售价只要 19,990 欧元。
 
-在此之前，中共新疆维吾尔自治区党委宣传部帐号「新疆发布」10日以「回应产品安全问题能不能说人话」为题发表文章，呼吁中国车企正面回应消费者对产品安全的质疑，一度登上网路热搜榜首，但文章不久后即被删除，引起质疑。
+由宾士与吉利汽车集团合资开发的 Smart #2 纯电车，今天在巴黎车展上首度亮相，搭载 35.8 度 LFP 电池，WLTP 续航里程约 290 公里，最重要的是起售价格 19,990 欧元（约新台币 71 万元），预计可以获得不少年轻人喜爱。
 
-人民日报客户端11日发表评论文章指出，中国舆论对此事关注的焦点，就是汽车、尤其是「速成新能源车」的安全问题。尽管这一事件有待权威的调查结论，但有一点毋庸置疑：一辆汽车的煞车踏板「绝不应该在驾驶中出现断裂」。
+Smart 的车格和定位，原本应该是完美适合纯电动力，但宾士先前的技术未能成功改造它，当时推出 Smart EQ Fortwo 的时候，续航力不到 150 公里，甚至连快充都没有。全新的 Smart #2 车长依然只有 2,746 mm，回转半径 6.95 公尺，超级小巧，追加了 65 kW 快充，让它更适合没车库的通勤族使用。
 
-文章提到，中国工信部等4个部门10日就汽车产品研发测试验证技术要求征求意见，针对虚拟操纵件、门把手、新型人机交互系统、大角度座椅等方面提出具体测试验证要求。业界普遍认为，这项新规就是对「速成车」说不。
+当然，65 kW 功率看起来很低，但别忘了它的电池也只有 35 度，同样充电 20 分钟可以从 10% 补到 80%。如果有车库可以装慢充，大约 5 小时可以充满，使用起来的时间效益就跟主流电动车相同，只是不适合长途旅行。
 
-这篇文章形容，中国的「速成车」就是那些为了抢夺市占率，过度压缩研发周期，删减实车验证流程而推出的车型。速成车以「快」抢占市场，却在「缺」上埋下隐患，背后暴露的是「流程缺位、验证缩水」。
+虽然入门版入手价很甜，考虑到配备完整性，要价 24,490 欧元的 Premium 版，配有玻璃天窗、加热座椅和 7 颗喇叭的 Sennheiser 音响系统，应该会卖得比较好。
 
-文章直指，中国一家新能源车企的新车车门把手总计测试1万次，却只有2,000次为实物测试，其余8,000次都是以仿真方式完成，这类投机取巧，最后终将由消费者买单。而中国汽车市场竞争激烈，一些车企「不卷质量（品质）卷速度」，但终将被证明「此路不通」，这种「速成车」无法在市场竞争中行得远、跑得稳。
-
-这篇文章说，对消费者而言，车辆可以不具备顶尖的加速性能或智慧功能，但绝不能在关键时刻，在最基础的安全问题上「掉链子（出差错）」。
-
-另一方面，「新疆发布」被删除的质疑文章则指出，社会大众问的是煞车「踏板结不结实」，企业答的却是「我完全合规」，这种「答非所问」的话术在中国汽车圈并非孤例。官方发言看似滴水不漏，唯独避开了公众最核心的疑虑。
-
-文章批评，企业为什么不想说人话？因为「人话太重」。说一句「我的车很安全，煞车踏板踩不断」，是要负责的；说一句「我高于国标行标」，是可以免责的。人话的「分量重」，重到有些企业不敢说，甚至都不会说了。
-
-由华为旗下「鸿蒙智行」与江淮汽车联合设计制造、以华为品牌「尊界」名义推出的新款MPV「V800」，售价介于人民币76.6万至101.6万元（约新台币365万至485万元）间，被中国车界归纳为豪车等级。
-
-V800日前由中国专业汽车媒体《懂车帝》测试时，接连发生3辆全新车在时速100公里下紧急煞车时，煞车踏板被踩断的危险情况，且断裂位置几乎完全一致，导致煞车失效，测试员只能利用P档紧急煞车，引发强烈质疑。]]></description>
+和 2020 年时的 Smart EQ Fortwo 相比，新的电池技术总算让这辆都会迷你车复活了，这种小车在欧洲本来就很吃香，特别是在罗马、巴黎或阿姆斯特丹这种古老城市，经常有超级狭小的巷弄，Smart 不仅可以轻松通过，甚至还能找到其他车都停不了的空间，完美适应老城区。]]></description>
   </item>
   <item>
-    <title>中华电9月营收月增4.7%</title>
-    <link>https://finance.technews.tw/2026/10/12/cht-2412-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/12/cht-2412-202609-financial-report/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:10:08 +0000</pubDate>
-    <description><![CDATA[中华电（2412）公布 9 月合并营收 243.99 亿元，较上（8）月成长 4.7%，与去年同期相比为年增 20.9%；累计其今年前 9 月营收为 1,889.45 亿元，较去年同期增加 10.8%。]]></description>
+    <title>Anthropic 也要培训「前线部署工程师」，目标训练万名「AI 传教士」将 Claude 切实导入企业经营</title>
+    <link>https://technews.tw/2026/10/13/anthropic-invests-100m-to-train-fdes-and-seeks-these-5-key-attributes/</link>
+    <guid>https://technews.tw/2026/10/13/anthropic-invests-100m-to-train-fdes-and-seeks-these-5-key-attributes/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:20:56 +0000</pubDate>
+    <description><![CDATA[Anthropic 投资 1 亿美元押注企业 AI 人才培训，推出 Claude Frontier Academy，目标是 2027 年底前培养 1 万名所谓 Frontier Deployed Engineers，协助更多企业将 Claude 切实导入工作流程。
+
+此计划并不开放个人报名，而是由企业提名工程师参与，且候选人必须携带明确 Claude 专案进场。首批课程已在纽约、旧金山与伦敦启动，参与者来自 Accenture、Bain、Capgemini、Deloitte、McKinsey、Morgan Stanley、Novo Nordisk 与澳洲联邦银行等公司。
+
+Anthropic 高层表示，这类人才的核心任务，是把 AI 功能转成企业可执行可沿用的工作模式。公司将这类角色称为 Frontier Deployed Engineers，强调他们不只懂技术，还要能推动组织采用 AI、协调跨部门沟通，并把模型落实到业务。
+
+Anthropic 说明，培训流程先从为期数天的实体密集课程开始，学员会在模拟企业环境练习选择应用场景、处理安全审查与完成工作。之后还要通过实作测验，才能进入为期 12 周的驻点阶段，在自己公司推动 Claude 专案，Anthropic 的老师会继续支援。完成最后评估者才能取得认证。
+
+Anthropic 也在寻找最理想的 FDE 特质，包括熟悉代理式 AI 系统、能解题和沟通力强，以及有扎实工程背景。这类人才最重要特质之一就是好奇心，因企业导入 AI 往往不只技术问题，也牵涉工作流程重整与组织协作。
+
+Anthropic 表示，新计划反映市场对企业 AI 部署人才的需求升温。希望以这套培训模式，建立 AI 技能养成的「黄金标准」，让更多客户与合作伙伴更有效率运用 Claude。]]></description>
   </item>
   <item>
-    <title>汉唐9月营收月减13.0%</title>
-    <link>https://finance.technews.tw/2026/10/12/uis-2404-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/12/uis-2404-202609-financial-report/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:10:07 +0000</pubDate>
-    <description><![CDATA[汉唐（2404）公布 9 月合并营收 81.69 亿元，较上（8）月成长 -13.0%，与去年同期相比为年增  [&#8230;]]]></description>
+    <title>Meta 打造 Muse Wonder 新模型，结合主动记忆与专注能力强攻 AI Agent</title>
+    <link>https://technews.tw/2026/10/13/meta-introduces-the-muse-wonder-series/</link>
+    <guid>https://technews.tw/2026/10/13/meta-introduces-the-muse-wonder-series/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:19:24 +0000</pubDate>
+    <description><![CDATA[耗时一年多的时间与数百亿美元重新布局 AI 领域后，Meta 表示已追上先进水准，12 日宣布推出 Muse Wonder 系列，包括 Muse Wonder 与 Muse Wonder Full 两款模型，称是「朝向个人超级智慧的一次重大跃进」。
+
+相比于主打低延迟的轻量化模型 Muse Spark，Muse Wonder 系列规模更大、据称实力更强，不仅在基准测试中取得更高分数，在程式设计等复杂任务也展现更优异的成果。而从解读合约到分析财务或健康资讯，Muse Wonder 系列将专业知识应用于人们工作与日常生活中遇到的难题上。
+
+根据 Meta 测试结果，Muse Wonder 与 Muse Wonder Full 的基准测试成绩足以与 Claude Fable 5.1、GPT-6 Astra 并驾齐驱。
+
+值得关注的是，Muse Wonder 整合了 Active Memory（主动记忆）与 Active Focus（主动专注）两大能力：
+
+打造实用的个人化与专业 Agent 解决方案，关键步骤之一即是可靠的记忆力，模型必须记住重点，并在先前的资讯有相关时能辨识出来。Muse Wonder 加入 Active Memory，能在不同对话之间承载关于使用者的重要脉络，并主动检索与当下任务相关的细节。
+
+Active Focus 则描述 Muse Wonder 如何尝试替代方案、突破障碍并适应新资讯。在此过程，它会在需要时要求澄清，并在采取重要行动前先行确认。
+
+「这 2 款模型共同标志我们在扩展阶梯上迈出关键下一步，更是朝向个人超级智慧（Personal Superintelligence）的一次重大跃进」，Meta 在官方部落格文章写到
+
+这种规模感也反映在模型价格上，透过 Meta Model API 取用 Muse Wonder，每百万个输入 token 收费 4 美元、每百万个输出 token 收费 20 美元，使用成本大约等同 GPT-6 Sol 或 Claude Opus 5.5。]]></description>
   </item>
   <item>
-    <title>金宝9月营收221.83 亿元</title>
-    <link>https://finance.technews.tw/2026/10/12/kinpo-2312-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/12/kinpo-2312-202609-financial-report/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:10:05 +0000</pubDate>
-    <description><![CDATA[金宝（2312）今（12）日公布 9 月营收，达 221.83 亿元，较 8 月成长 64.9%，较去年同期成 [&#8230;]]]></description>
+    <title>能源管理法迎十年重大修法掀储能热！台湾电池协会能源周秀「全链整合」</title>
+    <link>https://technews.tw/2026/10/13/energy-management/</link>
+    <guid>https://technews.tw/2026/10/13/energy-management/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:16:09 +0000</pubDate>
+    <description><![CDATA[台湾电池协会 10 月 14 日将参与 2026 台湾国际智慧能源周，随著能源管理法 9 月迎来睽违近十年重大修法，企业对自用发电与储能关注升温，市场焦点转向投资效益、系统安全、维运管理等整体规划，协会这次携手六家厂商参展，从不同产业环节，呈现台湾电池产业的技术与整合能量。
+
+当储能从设备建置进一步走向企业能源管理，电池产业所面对的竞争也不再局限於单一产品，台湾电池协会会员从关键材料与零组件、电芯模组，一路延伸至电源管理、系统应用、测试验证及回收循环，涵盖电池产业链不同环节，反映市场需求正朝更完整的产业整合发展。
+
+台湾电池协会理事长刘慧启观察，近期企业对储能的思考逐渐「是否设置」，转向兼顾成本、效益、安全与实际运转，无论储能、电动运输或智慧制造等相关领域，不再只是要求规格、性能或成本，而是包括材料品质、模组设计、电源管理、系统安全、测试验证及后端循环，这些都会影响产品能否进入市场。
+
+刘慧启指出，台湾具备电子电机、资通讯、精密制造及系统整合基础，完整的产业分工正是发展电池产业的重要优势，随著企业能源需求更加多元、国际市场对安全与产品生命周期管理要求提高，如何强化上下游合作，并让不同环节的技术与国际标准接轨，将成为台湾产业下一阶段重要课题。
+
+这次六家参展会员分别展现不同专业，包括映兴电子聚焦高电流、高耐压及防水连接方案，服务能源、工业、车用与伺服器应用；矽谷能源展出高弹性储能系统与 AI 主动侦测防护技术，回应工商业储能需求；优力国际验证提供电池与储能测试、验证及市场准入服务，协助产品接轨国际规范。
+
+𬀩诚国际验证专注产品安全、可靠度及新能源测试验证，协助业者拓展海外市场；天宇工业聚焦 AI 资料中心、智慧能源管理与 SI 系统整合，呈现多元能源应用；台湾地方再生公司则结合产学伙伴共同参展，促进绿色能源、电池技术与资源循环交流。
+
+台湾电池协会表示，随著储能从电力系统应用进一步走入企业端，市场对安全标准、案场验证、智慧能源管理及实际运转能力的要求同步提高，未来协会将持续串联材料、制造、系统、验证与循环利用等各领域会员，促进产官学研交流与国际接轨，提升台湾电池产业整体竞争力。]]></description>
   </item>
   <item>
-    <title>曾文生盼电业加速融入科技业决策，供电关键点名电网</title>
-    <link>https://technews.tw/2026/10/12/tseng-wensheng-urges-power-industry-accelerate-tech-integration-decision-making-highlighting-power-grid-key-supply/</link>
-    <guid>https://technews.tw/2026/10/12/tseng-wensheng-urges-power-industry-accelerate-tech-integration-decision-making-highlighting-power-grid-key-supply/</guid>
-    <pubDate>Mon, 12 Oct 2026 10:00:09 +0000</pubDate>
-    <description><![CDATA[AI 带动算力需求快速成长，电力供应成为产业竞争关键。台电董事长曾文生今天表示，国内电业须加快融入科技业决策速度，投资规划从十年缩短至五年甚至三年；未来供电不只要看电源是否充足，也须确保电网能将电力送达需求端，并与再生能源及储能设施相互配合。
+    <title>微软老将转战 F1，Peter Lee 将担任宾士车队 AI 顾问</title>
+    <link>https://technews.tw/2026/10/13/microsofts-departing-science-president-plans-to-join-mercedes-f1-team-as-ai-advisor/</link>
+    <guid>https://technews.tw/2026/10/13/microsofts-departing-science-president-plans-to-join-mercedes-f1-team-as-ai-advisor/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:10:40 +0000</pubDate>
+    <description><![CDATA[微软（Microsoft）科学部门即将离任的总裁彼得‧李（Peter Lee），传出将加入宾士（Mercedes）F1 车队，担任新设立的 AI 顾问角色。李向《财星》（Fortune）表示，这项安排仍在讨论职称细节，但预计会以一年合约加入，并附带续约一年的选项。
 
-2026台湾国际净零永续展及台湾国际智慧能源周14~16日登场，今天举行展前记者会。共同主办单位外贸协会副秘书长周秀隆表示，今年展场共有来自丹麦、挪威、加拿大等九个国家馆，现已吸引57个国家、近700位买主进行预登，盼透过此次展览协助企业一次掌握全世界的能源趋势。
+李在微软任职长达 16 年，期间主要推动科学与研究工作，聚焦人工智慧如何协助医师与科学家解决物理、生物与医学领域的难题。他表示，转战宾士后，将把重点放在四个方向：运用 AI 协助解决赛车相关的物理问题、打破跨部门之间的资料与组织孤岛、建立财务与预测模型，以及就赛事监管机构未来如何规范 AI 提供建议。
 
-曾文生今天受邀出席展前记者会致词时指出，算力背后的关键是能源，全球科技巨擘已开始重新思考能源的价值，未来能源可能成为计算价值的重要单位，电力也将是半导体及科技产业供应链不可或缺的一环。
+李坦言，自己从小就对赛车充满兴趣，年轻时曾参与卡丁车竞赛，对于获得这样的邀请感到相当惊喜。他也指出，虽然医疗与 F1 看似差异极大，但两者其实有相似之处：都需要高度协作的专业团队，在资讯不足的情况下迅速做出攸关成败的决策，因此关键在于如何让 AI 成为助力，而不是干扰。
 
-曾文生表示，产业用电需求及供电模式改变，台电不能只扮演承担供电责任的角色，也必须更深入参与产业决策。
-
-他指出，台电未来有部分业务必须高度产业化，依循科技产业的运作逻辑，了解业者面临的问题、关注的议题，以及财务安排和供应链合作模式。尤其企业对再生能源的需求持续增加，从绿电采购、凭证取得到储能配置，都需要供需双方共同讨论，不再完全由电力供应方决定。
-
-外界关注供电是否足够，曾文生表示，依照目前掌握的供电资源及既有规划，台湾足以支应国内产业发展所需用电。台湾2024年天然气机组投资规模在全球排名第三，2025年则排名第六，皆在全球前十名之内，显示台湾电厂投资速度相当快。
-
-不过，他提醒，AI应用端的用电需求可能出现爆发性成长，且台湾的算力需求不一定集中大型云端服务业者（CSP），部分企业会自行建置资料中心，或因涉及企业机密而选择在地端运算，相关设备可能分散在不同地点，形成较难预测的用电需求。
-
-曾文生表示，台电正密切观察配电系统及一般高压用电的成长状况，若算力需求快速增加，将来面对的问题将不只是发电量是否足够，更包括电网能否及时将电力送达需求端，以及电网如何与再生能源、储能设施相互配合。
-
-他强调，面对产业快速变动，电力投资决策的时间尺度已从过去约十年，逐步缩短至五年甚至三年内就必须完成。台电希望透过展览及论坛，与科技业、再生能源业者及其他产业建立更多沟通平台，讨论未来电业市场秩序及商业合作机制，让能源持续支撑台湾产业的国际竞争力。
-
-此外，外界传出台电拟请台积电等大户出钱「包电厂」，台电发言人黄美莲于会后受访表示，台电会持续与高科技业者沟通相关电业投资构想，这也涉及整体能源资源配置，目前仍属概念性讨论，并非将未来供电责任转交给厂商。
-
-日前台北高等行政法院判决撤销台中火力发电厂（中火）二期的环评结论，黄美莲表示，台电尊重法院判决，待收到判决书后，将检视是否有需要补充的事证或厘清的争点，并持续协助环境部后续作法。]]></description>
+在微软期间，李曾参与诊断、精准医疗与临床工具等专案，其中包括协助开发可自动标注肿瘤与健康组织的 InnerEye 系统，也曾参与评估 OpenAI 的 GPT-4 在公开前的医疗应用潜力。微软在 2024 年曾将他列为健康与生命科学领域最具影响力人物之一。]]></description>
   </item>
   <item>
-    <title>WeMo 共享机车十周年，长租方案成为新宠儿</title>
-    <link>https://technews.tw/2026/10/12/wemo-sharing-escooter/</link>
-    <guid>https://technews.tw/2026/10/12/wemo-sharing-escooter/</guid>
-    <pubDate>Mon, 12 Oct 2026 09:57:54 +0000</pubDate>
-    <description><![CDATA[过去十年，共享机车已经彻底融入台湾都市生活中，全台最大共享机车营运商 WeMo 今日迎来创立十周年纪念，分享许多惊人的营运数据。
+    <title>LVMH 财报逊预期  奢侈品产业复苏之路仍艰</title>
+    <link>https://finance.technews.tw/2026/10/13/lvmh-earnings-miss-expectations/</link>
+    <guid>https://finance.technews.tw/2026/10/13/lvmh-earnings-miss-expectations/</guid>
+    <pubDate>Tue, 13 Oct 2026 03:00:34 +0000</pubDate>
+    <description><![CDATA[法国精品龙头 LVMH 第三季营收成长不如预期，主力时尚及皮革制品业务表现疲软，中国市场疲软，显示市场期待的欧洲精品产业复苏之路仍然不顺。
 
-10 年来 WeMo 累积用户达到 210 万人，服务范围已经涵盖 349 个乡镇市区，扩及全台 95% 面积，更惊人的是，竟然有超级死忠用户，单人累积 1 万次骑乘，个人里程数累积超过 5 万公里，堪称是 「WeMo 先生」。
+综合外媒报导，LVMH 12日收盘后公布，第三季有机营收（排除汇率变动等因素）年增1%至185亿欧元，低于Visible Alpha统计的分析师预估成长1.3%；其中，贡献集团近半营收的时装及皮革制品部门销售额年减5%，远逊于市场预期的下滑1.8%。
 
-共享机车配合都市生活重心转变成长，当初借还车最热门的台北东区，现在也已经被快速崛起的西门、中山超越。今年 10 月 23 日起，WeMo 将开放竹围、红树林与淡海新市镇，接续轻轨运输，深入新兴人口密集区域，提供用户更便利的出行选择。
+其他产品类别方面，过去相对抗跌的珠宝及腕表业务也出现成长放缓迹象，第三季有机销售额成长6%，低于上半年的9%。不过，精品零售部门销售额成长8%，主要受美妆零售品牌丝芙兰（Sephora）强劲表现带动。
 
-虽然共享机车的初衷就是一种替代交通方案，但在 WeMo PASS 方案推出后，已经让 2026 年骑乘量成长超过 10 倍，代表越来越多人「以租代买」，使用 WeMo 做为固定的通勤工具。在这个基础上，WeMo 迅速扩增同站租还站点达到 65 站，希望用户可以有稳定、便利的使用体验。
+按地区划分，LVMH第三季亚洲市场销售额年减5%，美国市场则成长5%。财务长卡巴尼斯（Cecile Cabanis）指出，第三季中国消费者信心受到总体经济环境急遽恶化的冲击，明显影响非必需品支出。
 
-WeMo PASS 简单说就是每月订阅制，月费 99 元，可以获得 3 张 60 元骑乘券，单月骑乘趟次越多，就会获得更多折扣，对高频率用户而言相对划算。
+LVMH为全球精品龙头，旗下拥有Louis Vuitton、Dior、Tiffany等品牌，其财报也被投资人视为精品消费需求的风向球。
 
-正因为 2026 年创造了惊人成长率，WeMo 今天喊出「未来十年十万台」的目标，要将现有车队 1.1 万台，冲刺到 10 万台。
+LVMH财务长Cécile Cabanis坦言，第三季中国消费者面临的环境更具挑战性。
 
-事实上这个数字虽然巨大，但并非无迹可寻。台湾机车市场过去几年一直在变动，其中最显著的就是绿牌电动机车的增长。和绿牌燃油机车，电动机车更轻巧有力，保养又轻松，短距离移动优势极大，使得绿牌电动机车，开始吃掉强调轻量化的白牌机车销量。而从绿牌机车往下一层，如果你不想保养、缴保险跟税金，也不一定每天都要骑车通勤，那长租式共享机车就提供了另一种弹性选项。从这一点来看，2036 年前，WeMo 要成长到 10 万台车，或许是有机会实现的梦想。]]></description>
+LVMH旗下旗舰品牌路易威登与中国茶饮品牌Molly Tea爆发商标图案争议，引发当地消费者反弹。
+
+精品产业近三年持续陷入低迷，今年以来欧洲主要精品集团市值合计蒸发约3,300亿欧元，LVMH股价年初迄今已下跌约四成，财报表现不佳可能进一步打击市场信心。
+
+华尔街日报分析，奢侈品需求短期内难见好转，中国市场持续多年的需求荣景已消退，西方中产阶级则日益受物价上涨所苦，削弱了对高端商品的消费信心，多数大型品牌可能难以实现销售成长。
+
+奢侈品王者爱马仕和Gucci母公司开云集团也将于下周揭晓财报。
+
+（本文由MoneyDJ新闻授权转载；首图来源：Unsplash）]]></description>
   </item>
   <item>
-    <title>日月光投控 9 月和第三季营收创高，AI 先进封测帮大忙</title>
-    <link>https://finance.technews.tw/2026/10/12/ase-fr-2609-q3/</link>
-    <guid>https://finance.technews.tw/2026/10/12/ase-fr-2609-q3/</guid>
-    <pubDate>Mon, 12 Oct 2026 09:50:18 +0000</pubDate>
-    <description><![CDATA[半导体封测大厂日月光投控下午公布 9 月自结合并营收新台币 881.3 亿元，月增 7.2%、年增 45.5%，连三个月创单月新高；第三季自结营收 2,441.61 亿元，季增 27.8%、年增 44.8%，创单季新高；前九月累计营收 6,088.87 亿元，年增 30.25%，续创同期新高。
+    <title>不必戴笨重头盔，日本科学家利用微型镜片打造悬浮立体世界</title>
+    <link>https://technews.tw/2026/10/13/no-need-for-bulky-headsets-japanese-scientists-use-microlenses-to-create-a-floating-3d-world/</link>
+    <guid>https://technews.tw/2026/10/13/no-need-for-bulky-headsets-japanese-scientists-use-microlenses-to-create-a-floating-3d-world/</guid>
+    <pubDate>Tue, 13 Oct 2026 02:56:27 +0000</pubDate>
+    <description><![CDATA[虚拟实境(VR)技术日益成熟，但笨重的头戴式装置，始终是普及的一大障碍。日本九州大学研究团队最近开发出一套全新VR系统，使用者不必戴上头盔，只要坐进特制椅子，就能看见悬浮在眼前的立体虚拟世界。
 
-日月光投控9月封装测试及材料自结营收526.74亿元，月增2.7%、年增50.5%；第三季封测及材料营收1,514.85亿元，季增20.1%，大幅年增50.1%。日月光投控7月底法人说明会评估，第三季合并营收季成长21%~22%，封测事业第三季营收季增11%至13%，结果均优于预期。
+这项技术由九州大学副教授福岛省吾领导研发，研究成果发表于2026年国际电脑图学大会SIGGRAPH。福岛表示，研究起因于一名学生抱怨长时间配戴VR头盔非常不舒服，甚至连睡觉都受到影响，促使团队思考，能否让使用者完全不必穿戴设备。
 
-日月光投控看好人工智慧AI和高效能运算（HPC）晶片带动先进封测（LEAP）营运成长和需求持续强劲，今年持续扩增先进封测资本支出，投控目标在2027年将LEAP营收翻倍。市场评估，日月光投控今年整体资本支出突破百亿美元、达105亿美元。
+传统VR头盔透过左右眼前方的萤幕，呈现略有差异的影像，让大脑产生立体感。新系统则将光学设备安装在特制的高背旋转座椅上，利用微型反射镜阵列重新导引光线，使影像看起来悬浮在空中，而且具有远近深度。
 
-对海外布局和先进封装技术进展，日月光投控先前表示，制程开发重心仍在台湾，等待时机成熟，扩展到美国或全球其他区域，2027年先进封装全制程业绩持续明显成长，并继续开发其他先进封装技术。]]></description>
+椅子还配备陀螺仪，能即时侦测旋转角度。当使用者转动身体，眼前的虚拟场景也会跟著改变，创造环顾四周的沉浸体验。
+
+相较之下，传统头戴式VR的最大优势是设备相对容易移动，使用者也能自由转头、走动，探索不同方向的虚拟场景。然而，追求更高解析度与更广视野，往往需要更大的镜片与硬体，增加头颈负担。
+
+新型VR椅最大的优点是完全不必配戴装置，能减少头部压迫感，也不必反复调整头盔位置，可能更适合长时间工作或复健。
+
+不过，新技术也有明显限制。由于影像视野受到反射镜尺寸限制，目前尚无法提供传统头盔般的广阔视野，且整套设备必须固定在椅子上，也不适合需要自由行走的VR游戏。此外，光线经过反射镜会损失亮度，因此需要高亮度萤幕，增加硬体设计难度。
+
+研究团队也希望借由更自由的光学设计，改善VR晕眩问题。作者表示，这类不适通常来自眼睛看到的移动与身体平衡感不一致，新系统未来或许能透过更大型的光学元件与动态机构，减少感官冲突。
+
+不过，目前仍只是原型设备，尚未公布正式受试者的舒适度测试，也没有证据证明能有效降低晕眩。研究团队接下来将改善镜片配置、扩大视野，并探索让两名使用者共享虚拟场景的可能性。
+
+新技术短期内难以取代传统VR头盔，而是朝向不同应用市场发展。研究团队认为，新技术未来可能应用于车载工作空间和互动式博物馆展览，到远端控制的建筑机械和灾害应对机器人，对需要长时间观看立体影像，却不必频繁移动的使用者而言，免穿戴设计可能更具吸引力。]]></description>
   </item>
   <item>
-    <title>成本仅有爱国者三分之一，Anduril 推出 Steelfin 模组化拦截弹</title>
-    <link>https://technews.tw/2026/10/12/anduril-unveiled-new-low-cost-steelfin-interceptor/</link>
-    <guid>https://technews.tw/2026/10/12/anduril-unveiled-new-low-cost-steelfin-interceptor/</guid>
-    <pubDate>Mon, 12 Oct 2026 09:26:44 +0000</pubDate>
-    <description><![CDATA[面对无人机与飞弹威胁持续增加，防空系统除了拦得住，也必须有足够弹药支撑长期作战，美国国防科技公司 Anduril 12 日公布「钢鳍」（Steelfin）拦截弹，目标将价格压低至现役爱国者 PAC-3 MSE 的三分之一，透过模组化设计提高生产弹性。
+    <title>辉达与思科合推全新 USFP 光学模组，大幅提升 AI 工厂网路频宽</title>
+    <link>https://technews.tw/2026/10/13/nvidia-and-cisco-introduce-usfp-optics-for-ai-fabrics/</link>
+    <guid>https://technews.tw/2026/10/13/nvidia-and-cisco-introduce-usfp-optics-for-ai-fabrics/</guid>
+    <pubDate>Tue, 13 Oct 2026 02:55:29 +0000</pubDate>
+    <description><![CDATA[辉达（NVIDIA）与思科（Cisco）12 日在 OCP Global Summit 宣布，正规划推出名为 Ultra-Dense Small Form Factor Pluggable（USFP）的新型可插拔光学模组，目标是为下世代 AI 工厂建立更高密度、可扩充的网路连接方案。这款模组主打每通道 400Gb/s 的电气讯号设计，锁定 AI 运算规模持续扩张下的频宽、功耗与部署复杂度挑战。
 
-Anduril 总裁暨策略长布洛斯（Chris Brose）表示，美国与盟国面对单向攻击无人机、弹道飞弹、巡弋飞弹及高超音速武器，既有拦截弹的扩产速度难以跟上威胁数量，该公司因此提前投入研发，瞄准更便宜、可大量生产的防空武器需求。
+根据两家公司说法，USFP 初期设计将在接近 OSFP 的外形尺寸中容纳 16 条全双工通道，并可望进一步扩充至 32 条甚至更多，让整体容量最高达 12.8Tb/s。相较于现行每通道 200Gb/s 的可插拔模组，USFP 可提供 4 倍的前面板频宽密度，功耗效率约提升 1.3 倍，让 AI 建置者能在相同网路空间内扩大运算规模，同时降低网路在整体 AI 工厂电力预算中的占比。
 
-Steelfin 可搭配不同火箭发动机与寻标器，依任务调整构型，设计目标涵盖伊朗 Shahed 系列无人机，以及弹道飞弹、巡弋飞弹与极音速武器等威胁。
+辉达与思科表示，USFP 的设计重点不只是提升速度，也要维持可插拔光学一向具备的部署弹性、可维护性与成熟供应链模式。新模组采用二维阵列连接器与两段式插入设计，可在模组完全插入后才接通高速接点，以降低磨损、改善讯号完整性并让插入力更可预测；同时也支援最高 100 瓦的功耗散逸，且不需要在收发器内配置独立的嵌入式冷却回路。
 
-Anduril 表示 Steelfin 可通用爱国者飞弹发射器、通用自主多领域发射器（CAML）与货柜化发射等系统，让不同防空任务共用部分设计与零组件。
-
-Anduril 正以 Steelfin 争取美国陆军低成本拦截弹计划，并已入选 xTech Apex Intercept 竞赛后续测试与展示阶段，这项竞赛希望从业界寻找兼具效能与价格优势的拦截方案，扩充陆军防空弹药选择。
-
-另一个受到关注的方向，是陆军「未来拦截弹」（Future Interceptor）计划。洛克希德马丁日前公布 PAC-3 Edge，并确认获选进入下一阶段，另一家入选厂商尚未公开。
-
-Anduril 目前尚未证实 Steelfin 是否入选，仅表示其设计符合该领域需求，因此目前仍无法确认两家公司是否会在同一计划正面竞争。
-
-量产方面 Anduril 预计于 2028 年底至 2029 年初达到全速生产阶段，飞弹部门资深主管米兰诺（Steve Milano）表示，基础的年产量目标为数千枚，但若美国与海外需求足够，该公司希望将目标产量设定到数十万枚等级。
-
-Steelfin 大部分次组件预计由位于俄亥俄州的 Arsenal-1 工厂制造，再交由合作伙伴完成最终整合与组装，固态火箭发动机则结合自制与外购，利用模组化安装介面纳入不同供应商，增加生产调度弹性。
-
-从 Steelfin 的设计与生产规划可看出，Anduril 希望把拦截弹竞争延伸至成本与补充速度，能否在降低价格的同时，满足不同威胁的拦截要求，仍须由后续测试与实际量产验证。]]></description>
+在生态系方面，辉达与思科正与 TE Connectivity 及安费诺（Amphenol）合作开发 USFP 的机壳、连接器与模组，并计划透过社群主导的多源协议（MSA）制定开放产业规格。两家公司也强调，这项合作建立在既有的 NVIDIA Spectrum-X 乙太网路与 Cisco Silicon One 乙太网路互通基础上，目标是让企业、新兴云端服务商（neocloud）与主权云更容易部署 AI 基础设施。]]></description>
   </item>
   <item>
-    <title>熬不过高温与地形，美军万人演习暴露无人机实战弱点</title>
-    <link>https://technews.tw/2026/10/12/unable-to-withstand-high-temperatures-and-challenging-terrain-a-large-scale-u-s-military-exercise-exposed-the-combat-weaknesses-of-its-drones/</link>
-    <guid>https://technews.tw/2026/10/12/unable-to-withstand-high-temperatures-and-challenging-terrain-a-large-scale-u-s-military-exercise-exposed-the-combat-weaknesses-of-its-drones/</guid>
-    <pubDate>Mon, 12 Oct 2026 09:06:29 +0000</pubDate>
-    <description><![CDATA[美国积极推动AI与无人机技术，希望打造能够快速侦察、自主攻击的新一代军队，但先进科技距离真正投入大规模战争，仍有漫长道路。《华尔街日报》报导，美国陆军今年夏天在加州沙漠举行大规模军事演习，原本希望验证AI与无人机的作战能力，却发现过热、电池续航力不足、通讯中断等基本问题，美国要凭一己之力打一场无人战争，还有漫漫长路。
+    <title>Epic 宣布全面舍弃手写程式，迪士尼射击新作转向纯 AI 产制流程</title>
+    <link>https://technews.tw/2026/10/13/epic-games-delays-disney-shooter-game/</link>
+    <guid>https://technews.tw/2026/10/13/epic-games-delays-disney-shooter-game/</guid>
+    <pubDate>Tue, 13 Oct 2026 02:50:02 +0000</pubDate>
+    <description><![CDATA[《彭博社》指出，Epic Games 已延后一款与迪士尼（Disney）合作、结合漫威（Marvel）与《星际大战》（Star Wars）角色的未公开射击游戏。该作原订于 3 月推出，如今已无明确的上市时间表。由于开发进度严重落后，Epic 决定大幅调整制作方针，要求团队全面改采「AI 优先」（AI-first）的开发流程。
 
-美国陆军今年7月在加州莫哈维沙漠的欧文堡(Fort Irwin)举行为期10天的军事演习，动员约9,700名士兵，模拟与中国解放军交战。演习测试多家厂商的无人机、AI指挥系统，及新一代通讯设备，希望了解这些技术能否真正提升美军作战效率。
+报导提及，Epic 已指示开发人员导入 Anthropic 的 Claude 等 AI 工具来协助撰写程式与制作内容，并由人类从旁监督与引导产出结果。内部流出的讯息更明确宣告未来将「不再手写程式码」，且游戏内的所有美术设计也都将透过完整的 AI 工作流程生成。据悉，这项新政策是在近期一次内部视讯会议中向团队宣布，让不少开发者感到相当意外与措手不及。
 
-然而，演习开始后，问题接连浮现。当地气温逼近摄氏43度，伺服器过热、电池耗尽，部分设备甚至无法正常充电。士兵不得不将上衣浸泡冰水，再覆盖在故障天线上降温。
+知情人士透露，Epic 先前低估了该专案所需的人力与时间成本，才导致进度远不如预期。对此，Epic 发言人 Jake Jones 回应表示，公司正积极拥抱由 AI 加速的开发模式，并强调一切仍由 Epic 开发者担任创意与方向上的主导角色。Epic 执行长 Tim Sweeney 先前也曾为公司大举导入 AI 的决策辩护，强调其核心目标是协助开发者提升内容产能，而非借此缩减人力。
 
-美国国防科技公司Anduril研发的无人机，原本应持续监视敌军动向，却因高温被迫降落。强风与复杂地形也造成飞行不稳、通讯讯号中断，影响任务执行。
-
-部分无人机充电后仍需约10分钟才能起飞，相较之下，乌克兰部队操作类似尺寸的无人机，通常不到一分钟就能升空。为避免电力耗尽，美军甚至将飞行时间缩短至最大续航力的一半。
-
-更令人意外的是，部分无人机仍高度依赖人工操作，尚未充分运用自主飞行功能，《华尔街日报》指出，这是十年前中国的消费级无人机技术层次。此外，无人机与传统军事装备也无法协同作战，在一次模拟攻击中，五架小型无人机组成的编队，因三架黑鹰直升机进入相同空域，而被迫折返。
-
-报导还提到，美军斥资逾 10 亿美元推动的扩增实境头盔计划，在演习中也暴露技术问题。不过，演习中也展现部分成果，美军测试的新一代指挥控制系统NGC2，结合卫星通讯与即时数据共享，让不同部队能更迅速交换战场资讯。一名军官表示，新系统使任务规划时间缩短约三分之二。
-
-乌克兰战争已证明，无人机作战不只需要先进软体，更仰赖低成本、大规模制造与快速维修能力。乌克兰2025年生产至少400万架无人机，今年更以700万架为目标，相较之下，美国作战无人机年产量估计仅约10万架。
-
-美国虽拥有先进AI模型、晶片与国防科技企业，却仍面临无人机量产能力不足、零组件供应链及军事采购程序繁复等挑战。这场沙漠测试结果，只揭示美国距离AI战争还有很长的路要走。
-
-无论美国何时才能打一场无人战争，至少先警惕市场泡沫。前高盛合伙人撰文警告，部分国防科技新创企业估值已高达年营收的数十倍，尤其是军事AI与无人机领域，包括Anduril、Shield AI等公司，近年都受到创投追捧，然而历史上看，美国的军事转型花费的时间通常比预期更久。《财星》一篇文章警示市场热度，直言「国防科技繁荣已成泡沫，或即将成泡沫」。]]></description>
+这款备受瞩目的射击新作，是 Epic 与迪士尼于 2024 年缔结合作关系后的首波重点计划之一。当时迪士尼斥资 15 亿美元投资 Epic 换取股权，双方并预告将联手打造多款游戏。如今，这款集结漫威与星际大战元素的跨界大作不仅面临延期考验，更意外成为外界检视 Epic 激进 AI 开发策略的最新焦点。]]></description>
   </item>
   <item>
-    <title>康控-KY9月营收1.89 亿元</title>
-    <link>https://finance.technews.tw/2026/10/12/concraft-4943-202609-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/10/12/concraft-4943-202609-financial-report/</guid>
-    <pubDate>Mon, 12 Oct 2026 08:40:02 +0000</pubDate>
-    <description><![CDATA[康控-KY（4943）今（12）日公布 9 月营收，达 1.89 亿元，较 8 月成长 4.2%，较去年同期成 [&#8230;]]]></description>
+    <title>Google 云端支出扩增  分析师看好 AVGO / MRVL 受惠</title>
+    <link>https://finance.technews.tw/2026/10/13/buy-these-stocks-as-plays-on-googles-big-spending/</link>
+    <guid>https://finance.technews.tw/2026/10/13/buy-these-stocks-as-plays-on-googles-big-spending/</guid>
+    <pubDate>Tue, 13 Oct 2026 02:45:16 +0000</pubDate>
+    <description><![CDATA[分析师看好，随著 Google 云端业务快速发展，晶片制造商和网路设备供应商将从中受惠，点名看好 ASIC 巨头博通（Broadcom，AVGO.US）、迈威尔（Marvell，MRVL.US）和网路设备供应商 Arista Networks（ANET.US）。
+
+MarketWatch报导，Melius Research分析师莱茨（Ben Reitzes）预期，Google云端业务第三季将缴出强劲成绩，带动母公司Alphabet持续扩大AI基础设施投资，以提升AI模型运算能力及云端服务容量。
+
+分析师认为，相较于直接投资Alphabet，供应AI晶片和网路设备的业者更有机会受惠于Google扩大资本支出，因此维持Alphabet「持有」评等，同时点名看好博通、迈威尔及Arista。
+
+莱茨将博通的目标价设为610美元，相较现价的隐含上涨幅度达七成；博通为Google客制化AI晶片TPU的重要设计合作伙伴，市场近来担忧Google引进其他供应商，将削弱博通的既有优势，不过，分析师认为，相关风险已反映于股价中。
+
+莱茨也看好，Google与迈威尔持续深化共同设计客制化晶片产品的合作关系，将使其成为Google扩大AI投资的重要受惠者；他给予迈威尔445美元的目标价。
+
+莱茨也认为，随著AI资料中心规模扩大，网路设备需求同步增加，若Google实际资本支出超出预期，Arista可能成为其研究范围内最大的受惠者，给予275美元目标价。
+
+Melius预估，Google于2027年的AI基础设施支出将达3,520亿美元，较2026年预估水准大增75%。
+
+摩根大通（J.P. Morgan）分析师苏尔（Harlan Sur）也看好博通及迈威尔，将两家公司列为半导体产业首选。他认为，现阶段应优先布局AI业务比重高、供应成长受限、具备定价能力，或能直接受惠于半导体景气复苏的企业，这些企业的获利预估更有机会上修。
+
+美股半导体族群12日表现疲弱，博通、迈威尔和Arista同步下挫，iShares半导体ETF下跌约2.5%。
+
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
 </channel>
 </rss>
