@@ -4,7 +4,24 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 13 Oct 2026 15:20:40 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 20:51:37 GMT</lastBuildDate>
+  <item>
+    <title>全球半导体设备支出爆发！SEMI 估 2029 年达 2,270 亿美元，美国扩产加速</title>
+    <link>https://technews.tw/2026/10/14/semicon-west-clark-tseng/</link>
+    <guid>https://technews.tw/2026/10/14/semicon-west-clark-tseng/</guid>
+    <pubDate>Tue, 13 Oct 2026 19:50:30 +0000</pubDate>
+    <description><![CDATA[AI与高效能运算（HPC）需求持续攀升，带动全球半导体产业加大资本投资。SEMI全球资深总监曾瑞榆（Clark Tseng）指出，AI正逐步转化为实际的晶圆厂投资，从设备采购、厂房建设到新增制造产能，预计未来数年半导体产业仍将维持强劲扩张动能。
+
+根据SEMI最新报告，全球300毫米晶圆厂设备支出预计将从2025年的1,130亿美元，成长至2026年的约1,490亿美元、年增31%，并于2029年进一步攀升至2,270亿美元。SEMI预估，2026年至2029年期间，全球设备支出每年都将维持双位数百分比成长。曾瑞榆认为，这并非短期内因AI带动的支出突然激增，而是反映业界对先进逻辑晶片、先进记忆体，以及其他300毫米晶圆技术的投资，并逐步透过设备投资转化为晶圆厂产能扩张。
+
+同时，设备投资成长也逐步反映在实际建厂进度。SEMI预期，排除纯研发用途的晶圆厂后，全球将有20座新的300毫米晶圆厂或生产线于2026年动工，2027年则有18座。其中，美国分别有3座及4座晶圆厂或生产线预计动工；至于进入营运或开始产出首批晶圆的设施，全球数量则将从2026年的13座，增加至2027年的23座，显示更多新建产能将陆续投入营运。
+
+建厂支出同样呈现上升趋势。全球300毫米晶圆厂建厂支出预计将从2026年接近480亿美元，增加至2027年的630亿美元，并于2028年达到680亿美元。从厂房兴建、设备安装到产能爬坡，半导体产业正逐步将投资计划转化为实际制造能力。
+
+美国市场则是这波扩产的重要焦点。SEMI预期，美洲地区300毫米晶圆厂设备支出，主要反映美国市场的投资情况，将从2026年的181亿美元，大幅成长至2029年的406亿美元，超过原本的两倍。相关投资涵盖英特尔、台积电及三星的先进逻辑晶片与晶圆代工产能，以及美光扩充DRAM制造能力，德州仪器也持续增加类比晶片与嵌入式处理产品产能。这也意味著，美国半导体制造业的扩张正逐渐从投资计划，转化为更具体、可观察的实际进展。
+
+曾瑞榆表示，从上述资料来看，全球300毫米晶圆厂设备投资正进入持续扩张的阶段，支出预计将从今年的约1,490亿美元，成长至2029年的2,270亿美元。此外，要满足AI需求，光是扩充前段制程产能还不够，他也表示先进封装与异质整合的重要性正日益提升，因为这些技术是实现AI系统所需运算效能与电力效率的关键。]]></description>
+  </item>
   <item>
     <title>应材矽谷 EPIC 中心正式开幕！台积电魏哲家：加速 2 奈米以下技术量产</title>
     <link>https://technews.tw/2026/10/13/applied-materials-epic-center/</link>
@@ -342,23 +359,6 @@ iPhone Air 2 最明显的改变可能是新增第二颗后置相机，据《彭�
 除了相机、处理器及电池，iPhone Air 2 也可能导入均热板（Vapor Chamber）散热系统。《The Information》指出，苹果考虑将首次应用于 iPhone 17 Pro 系列的均热板技术延伸至 iPhone Air 2，借此改善高负载运作时的散热效率，让装置能够更长时间维持稳定效能。
 
 至于上市时间，iPhone Air 2 原先预期于今年 9 月与 iPhone 18 Pro 系列同步亮相，但随著产品规画调整，发表时程也跟著延后。《彭博社》今年 6 月报导指出，苹果计划于 2027 年春季推出 iPhone Air 2，并与基本款 iPhone 18 一同发表。]]></description>
-  </item>
-  <item>
-    <title>SpaceXAI 推「The X Subscription」高 CP 值 AI 订阅方案，一次打包 Grok、Cursor 与 X</title>
-    <link>https://technews.tw/2026/10/13/spacexai-bundles-grok-cursor-and-x-features-into-unified-subscription-tiers/</link>
-    <guid>https://technews.tw/2026/10/13/spacexai-bundles-grok-cursor-and-x-features-into-unified-subscription-tiers/</guid>
-    <pubDate>Tue, 13 Oct 2026 08:30:14 +0000</pubDate>
-    <description><![CDATA[SpaceXAI 今日将 Grok、Cursor 与 X 整合成一套「The X Subscription」订阅方案，让使用者能用一帐单就订阅聊天、创作、程式开发与社群平台功能。新方案已开放新用户，原 SuperGrok、Cursor 与 X Premium 订户也可选择切换，公司表示接下来几天内会逐步开放全球用户。
-
-整合 The X Subscription 共有五等级：Free、Plus、Premium、Super 与 Ultra，月费从 0 美元至 200 美元。Free 方案为每日 Grok 存取、Cursor 基础编码额度与标准版 X；Plus 方案每月 8 美元，更多 Grok 与 Cursor 用量，并含 X 蓝勾勾验证、创作者工具及更少广告；Premium 方案每月 30 美元，整合 SuperGrok、Cursor Pro 与 X Premium+ 权益；Super 与 Ultra 方案分别为每月 100 美元与 200 美元，用量更高与优先体验新产品与新模型权限。
-
-SpaceXAI 强调，新方案核心不只产品整合，更是让 Grok 与 Cursor 共用 AI 额度池，且额度每周重置，避免使用者因单日大量使用而耗尽整月配额。较之前各服务个别订阅，且新方案每美元价值都更高，如 Premium 用量是 Plus 四倍，Super 为 15 倍，Ultra 更高达 50 倍。
-
-功能方面，Grok 为聊天、语音与图片与影片功能；Grok Bot 纳入 Premium 以上方案，主打协助完成工作；Cursor 则提供本地与云端程式代理（Coding Agents）。团队与企业客户，SpaceXAI 也推出专门方案：团队版可享 Premium、Super 与 Ultra 权益，并加入单一登入（SSO）、管理控制、集中计费、使用分析与 SOC 2 合法等；企业客户则能以统一资讯后台管理 Grok 与 Cursor，并共享额度池。
-
-SpaceXAI 说明，第三方模型在 Cursor 仍可在 Premium 以上方案，但将依 API 计费方式另外计费。现有订户可维持原方案，或选择切换至新方案，未使用期间会按比例退款。
-
-（图片来源：SpaceX Super Intelligence）]]></description>
   </item>
 </channel>
 </rss>
