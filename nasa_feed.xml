@@ -4,7 +4,89 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Thu, 15 Oct 2026 10:38:19 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 16:03:20 GMT</lastBuildDate>
+  <item>
+    <title>NASA Awards Enable Research, Technology to Build Future Workforce</title>
+    <link>https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/</link>
+    <guid>https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/</guid>
+    <pubDate>Thu, 15 Oct 2026 15:57:47 +0000</pubDate>
+    <description><![CDATA[NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space.
+
+Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million to grow their scientific and engineering capabilities, enhance faculty and student engagement in aerospace research, and expand their ability to compete for future federal and commercial research awards.
+
+“We are excited to launch this new cohort of M-STAR investigators,” said Alicia Baturoni Cortez, MUREP program manager in the agency’s Office of STEM Engagement. “NASA investments in our Nation’s research institutions create real opportunities for students and faculty to build skills, knowledge, and infrastructure, while helping NASA close technology gaps for long-duration operations on the Moon and eventually, Mars.”
+
+As NASA enters a Golden Age of innovation and exploration, the M-STAR initiative supports the agency’s mission to develop innovative technologies that improve space transportation, human exploration, robotic discovery, and the growing space economy.
+
+The awardees and their projects are as follows:
+
+California State University, SacramentoAdaptive Vision-Language-Action Models for Resilient Multi-Robot Collaboration in Unstructured Planetary Environments
+
+University of Central Florida, OrlandoM-FAST: Multi-Fidelity Aerothermal Simulation & Testing for Artemis
+
+University of Hawaii at ManoaHI-STRIDE: Hawai’i Student Training in Radiation Instrumentation, Detection, and Exploration
+
+University of HoustonRODEO: Rover-carried On-surface Deployables for Exploration Operations
+
+University of Texas, San AntonioCharacterizing Physical and Mechanical Properties of Regolith at Cryogenic Conditions Using the Multi-Planetary Surface Simulator (MPS2)
+
+Kean University, Union, New JerseyIntegrating Terrain Understanding of AI Models With Robust Control for Autonomous Path Planning
+
+Virginia Commonwealth University, RichmondBNNT-Reinforced Multifunctional Composites for Radiation-Tolerant, Hydrogen-Compatible Nuclear Thermal Propulsion (NTP) Secondary Hardware
+
+Shaw University, Raleigh, North CarolinaProject ARES (Advanced Regenerative Environmental Systems): A Materials-by-Design Research and Workforce Development Platform for Environmental Control and Surface Infrastructure
+
+Howard University, WashingtonLumSHRS: Lunar monolithic Spatial Heterodyne Raman Spectrometer for Minirover In-Situ and Standoff Remote Sensing
+
+Prairie View A&M University, Prairie View, TexasFunctionally Graded Interfaces for Directed-Energy-Deposition Repair of Copper-to-Superalloy Propulsion Hardware: An Integrated AI/ML Design-to-Validation Research Capability at Prairie View A&M University
+
+University of New Mexico, AlbuquerquePOWER-Artemis: Extreme-Environment Batteries and Fuel Cells for Sustained Moon and Mars Operations
+
+Fayetteville State University, North CarolinaFrom Documents to Models: Method-Compliant Generative AI for Bootstrapping Model-Based Systems Engineering in NASA’s Artemis Enterprise (Doc2Model)
+
+NASA’s Office of STEM Engagement fosters an ecosystem across education, industry, and government to cultivate a well‑prepared talent pool, while the agency’s Research and Technology Mission Directorate develops the transformative space technologies that enable future NASA missions and ensure U.S. leadership in aerospace. Together, they accelerate mission readiness by aligning cutting edge technological innovation with the workforce needed to carry it forward.
+
+Minority University Research & Education Project]]></description>
+  </item>
+  <item>
+    <title>Rigorous Analysis Confirms NASA’s Artemis II Heat Shield Performance</title>
+    <link>https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/</link>
+    <guid>https://www.nasa.gov/missions/artemis/artemis-2/rigorous-analysis-confirms-nasas-artemis-ii-heat-shield-performance/</guid>
+    <pubDate>Thu, 15 Oct 2026 14:57:21 +0000</pubDate>
+    <description><![CDATA[NASA’s Artemis II mission sent four astronauts around the Moon and brought them safely back to Earth, laying a foundation for crewed flights to the Moon’s surface.
+
+Additional engineering data analysis of the Orion spacecraft’s heat shield confirmed initial data showing the heat shield performed as expected.
+
+In particular, NASA measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This test flight was the first time astronauts flew aboard Orion.
+
+Orion reached a maximum velocity of 39 times the speed of sound and experienced external temperatures exceeding 4,000 degrees Fahrenheit at its peak, all while the four astronauts inside Orion stayed relatively cool with a cabin temperature in the mid-70 degree Fahrenheit range during their return to Earth from the Moon.
+
+After NASA’s thorough analysis ofArtemis I heat shield findings, informed by extensive arc jet material testing at NASA’s Ames Research Center in California’s Silicon Valley, the agency modified Orion’s reentry trajectory for Artemis II by shortening the maximum downrange distance the spacecraft could fly between when it entered Earth’s atmosphere and splashed down in the Pacific Ocean. Analysis prior to the mission showed that limiting downrange distance would limit how long the spacecraft’s heat shield spent in the temperature range at which the Artemis I heat shield phenomenon occurred.
+
+The spacecraft reentered with precision, entering within only 192 feet of its targeted entry interface, and successfully splashed down only 0.59 miles from the predicted landing site off the coast of San Diego.Initial inspectionsof the thermal protection system, including diver imagery of the spacecraft’s heat shield taken just after splashdown and further inspections on the recovery ship, found it performed as expected, with a significant reduction in the amount of cracks and char loss as compared to Artemis I.
+
+Upon the spacecraft’s return to NASA’s Kennedy Space Center in Florida after the Moon mission, thermal protection system experts began additional examination of the heat shield, made of 186 unique blocks of an ablative material called Avcoat. The heat shield was then transported to NASA’s Marshall Space Flight Center in Huntsville, Alabama, where work on sample extraction and internal x-ray scans began in August to provide further engineering insight into the system and behavior of the material.
+
+A thorough post-flight assessment review found that Orion’s aerodynamic and aerothermal performance, including the heat shield and backshell thermal protection system, was in line with engineering predictions based on pre-flight analyses and ground testing. The shorter allowable down range during entry reduced the cracking and char loss experienced on the Artemis II heat shield relative to the Artemis I heat shield by a factor of ten, proving the effectiveness of the trajectory modification. Engineers found only nine spots of char loss of varying sizes on the Artemis II heat shield dish, compared to 103 during Artemis I.
+
+The analysis also showed that Orion’s robust heat shield design showed consistency from Artemis I to Artemis II, evident by the performance of system features such as the seams between the heat shield Avcoat blocks and the Avcoat surrounding the heat shield compression pad separation bolts.
+
+Post-flight inspection of Orion’s backshell, the protective cover on the sloped sides of the crew module made up of 1,300 ceramic tiles, showed expected performance across the crew module surface. Visual inspections indicated backshell features designed to seal and protect penetrations such as windows, vents, thrusters, and the side hatch also met expectations, with no signs of overheating observed.
+
+The team also performed post-flight laser scans of the heat shield surface and is comparing this data to pre-flight measurements to determine material recession, which will then be compared to analysis predictions. Engineers are continuing with heat shield sample extraction at NASA Marshall and subsequent material test and assessment and thermal analysis, to support long-term heat shield development, manufacturing efforts, and data capture.
+
+Orion’s performance and the team’s analysis on Artemis II reflect system robustness, capability to support crew, and critical insights gathered that will enhance the Artemis III mission and beyond. Following the extensive Artemis I heat shield investigation, upgrades were made to the heat shield design for Artemis III to achieve uniformity and consistent permeability of the Avcoat blocks. Technicians attached the heat shield for the Artemis III Orion crew module at NASA Kennedy in early July, and the Orion crew and service modules were joined at the end of July. The spacecraft has since been successfully powered up for the first time, enabling engineers to check all connection lines between the two modules are working as planned.
+]]></description>
+  </item>
+  <item>
+    <title>Chandra Finds Possible Origin of ‘Treble Clef’ Waves</title>
+    <link>https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/</link>
+    <guid>https://www.nasa.gov/image-article/chandra-finds-possible-origin-of-treble-clef-waves/</guid>
+    <pubDate>Thu, 15 Oct 2026 14:19:06 +0000</pubDate>
+    <description><![CDATA[A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image fromNASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters.
+
+Image credit: X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON/LOFAR; Image processing: NASA/CXC/SAO/N. Wolk]]></description>
+  </item>
   <item>
     <title>APOD: 2026 October 15 – The Milky Way over Manhattan</title>
     <link>https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/</link>
@@ -75,9 +157,11 @@ Sandra Jones / Anna SchneiderJohnson Space Center, Houston281-483-5111sandra.p.j
     <link>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/</link>
     <guid>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students/</guid>
     <pubDate>Wed, 14 Oct 2026 19:12:51 +0000</pubDate>
-    <description><![CDATA[Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard theInternational Space Station.
+    <description><![CDATA[Editor’s Note: This article was updated Thursday, Oct. 15, 2026, to reflect a change to the event start time.
 
-The Earth-to-space call will begin at 12 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASAYouTubechannel.
+Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard theInternational Space Station.
+
+The Earth-to-space call will begin at 12:30 p.m. EDT Friday, Oct. 16, and will stream live on the agency’s Learn With NASAYouTubechannel.
 
 This event is hosted by Sally Ride Elementary School in Orlando, Florida, for students in grades K-12, and the community. This unique opportunity aims to deepen understanding of space exploration and enhance awareness of STEM careers.
 
@@ -171,67 +255,6 @@ While SPEARS is designed for space, the technology could be spun off into Earth-
 “The potential market for solid-state batteries is very broad,” said Ji Su, a polymer materials scientist and the task lead at NASA Langley. “Automobiles, cell phones, communication devices, drones — anything that needs a portable power supply.”
 
 The SPEARS project began in 2026 with funding through the Advanced Research and Technology division within the agency’s Research and Technology Mission Directorate. The project is set to focus on technology development in its first stages before potentially shifting toward commercial collaboration. NASA’s Ames Research Center in California’s Silicon Valley is ]]></description>
-  </item>
-  <item>
-    <title>NASA to Discuss Artemis Acceleration, Status of Upcoming Moon Missions</title>
-    <link>https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-to-discuss-artemis-acceleration-status-of-upcoming-moon-missions/</guid>
-    <pubDate>Wed, 14 Oct 2026 13:32:25 +0000</pubDate>
-    <description><![CDATA[NASA will provide an update on its plans to return American astronauts to the surface of the Moon by 2028 at 2 p.m. EDT, Friday, Oct. 23, at the agency’s Kennedy Space Center in Florida.
-
-The update will include details about NASA’s Artemis III mission that will send four astronauts to low Earth orbit next year to test critical systems needed for future lunar landings, and how plans to return American astronauts to the Moon by 2028 are progressing.
-
-U.S. media interested in attending in personmust apply onlineby 12 p.m., Friday, Oct. 16. To ask questions remotely, media must request the dial-in number from the Kennedy newsroom no later than one hour prior to the start of the update by emailing:ksc-newsroom@mail.nasa.gov. NASA’smedia accreditation policyis online.
-
-As part of a Golden Age of innovation and exploration, NASA will send Artemis astronauts on increasingly difficult missions near the lunar South Pole to explore more of the Moon than ever before. In addition to providing economic benefits and advancing scientific discovery through its Moon missions, NASA will establish an enduring human presence on the lunar surface and build on the agency’s foundation for the first crewed mission to Mars.
-
-Rachel KraftHeadquarters, Washington202-358-1600rachel.h.kraft@nasa.gov
-
-Tiffany FairleyKennedy Space Center, Fla.321-867-2468tiffany.l.fairley@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 October 14 – Mars and the Beehive Under an Aurora</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/</guid>
-    <pubDate>Wed, 14 Oct 2026 04:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:What a cosmic coincidence! Intoday’s image,Marsjoins theBeehive cluster(M44or Praesepe) below anauroral curtainand above a horizon ofhappy little treesnearLansjärv, Sweden. Aneruption off the Sunreached Earth onOctober 10th, 2026causing strongdisturbances in Earth’s magnetic field.Energetic particlesfrom the eruption collide with and energize the molecules in Earth’s atmosphere, which release that extra energy as the colorfulauroracaptured here. Auroras, or guovssahasat in North Sámi, is traditionally viewed with respect by theSámi peopleindigenous to Sweden and other Arctic regions. Coincidentally,Marsappeared closestto the center of the Beehive cluster in the sky at the time. Althoughbees have been to space, the Beehive cluster is actually a swarm of young stars.Their rotation periodshave helped humanity learn about howstars spin slower over timeas they lose mass through theirstellar winds.Tomorrow's picture:open space]]></description>
-  </item>
-  <item>
-    <title>Hurricane Simon Lurks Off the Mexican Coast</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/</guid>
-    <pubDate>Wed, 14 Oct 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.
-
-Hurricane Simon, the latest in along progressionof tropical cyclones in the Eastern Pacific this season, passed close to the Mexican coast as a category 4 storm on October 11, 2026. Sustained winds reached 250 kilometers (155 miles) per hour as it crept north-northwest.
-
-Simon’s eye was about 50 kilometers (30 miles) offshore, between Manzanillo and Puerto Vallarta, when theVIIRS(Visible Infrared Imaging Radiometer Suite) on theSuomi NPPsatellite acquired this image around 2:30 p.m. local time (20:30 Universal Time) on October 11.
-
-By that time, sustained winds were about 210 kilometers (130 miles) per hour, according to theNational Hurricane Center(NHC), and the storm’s inner core was brushing up against the coast. The topography of the Sierra Madre mountains appeared to temper the storm’s intensity somewhat and shrink the size of its wind field, the NHC noted. Still, the major hurricane delivered heavy rain and flooding to coastal areas, including the port city of Manzanillo, and raised the risk of mudslides in mountainous areas, according tonews reports.
-
-In the early morning hours of October 11, satellites captured the storm’s effects extending into theupper atmosphere. This nighttime image (above), acquired withVIIRSon theNOAA-21satellite, shows atmospheric gravity waves radiating from the hurricane. These ripples form when latent heat released near the tropical cyclone’s eyewall drives strong convection, buildingtall cumulonimbus cloudswith updrafts that can send waves into the stratosphere and mesosphere.
-
-But these waves are not always observable. Winds in the upper atmosphere can dissipate them before they reach the mesosphere, where they show up as ripples in airglow—faint light emitted by gases at those high altitudes. The VIIRSday-night bandis sensitive to airglow but also detects reflected moonlight, which can wash it out. On the night this image was acquired,minimal illuminationfrom the Moon helped the airglow stand out.
-
-On the morning of October 13, forecasts of Simon’s intensity and path remained “very low confidence,” as the storm’s evolution continued todefy meteorologists’ expectations. The system maysteer northand enter the Gulf of California before making landfall. Large swells causing dangerous nearshore conditions were expected along portions of the southwestern and west-central coasts of Mexico in the coming days.
-
-NASA Earth Observatory images by Michala Garrison, using VIIRS data from NASAEOSDIS LANCE,GIBS/Worldview, theSuomi National Polar-orbiting Partnership, and theJoint Polar Satellite System(JPSS). Story by Lindsey Doermann.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.
-
-The powerful storm delivered extreme rainfall and damaging winds to the state, passing the Island of Hawaiʻi as a category…
-
-The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to…
-
-Subscribe to the Earth Observatory and get the Earth in your inbox.
-
-NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
-
-Open access to NASA’s archive of Earth science data]]></description>
   </item>
 </channel>
 </rss>
