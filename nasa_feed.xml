@@ -4,7 +4,55 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 16 Oct 2026 02:32:15 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 10:25:08 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 October 16 – Chasing the International Space Station</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-16-chasing-the-international-space-station/</guid>
+    <pubDate>Fri, 16 Oct 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+To view this video please enable JavaScript, and consider upgrading to a web browser thatsupports HTML5 video
+
+Explanation:Blasting into the predawn skyon Tuesday, October 13, a Falcon 9 rocket and Dragon spacecraft are headed forlow Earth orbitin this stunning timelapse video captured from Indian Harbour Beach, Florida. Starting with a launch from Space Launch Complex 40 at Cape Canaveral Space Force Station, Falcon and Dragon are chasing theInternational Space Stationon NASA's 35th Commercial Resupply Services mission. On cue, the space station itself enters the frame from the top. Almost 8 seconds into the 30 second timelapse. the bright streak of the ISS appears heading "down" toward the horizon. The first and second stages of the Falcon 9 are separating as the spectacular exhaust plume jellyfish grows, already catching the light of the rising Sun. The visible sequence of first stage boost back, re-entry, and landing burns begins around 20 seconds into the video. With the second stage following the ISS toward the distant horizon,the jellyfish plumecontinues to drift in the predawn sky, even after the successful first stage landing at planet Earth's Landing Zone 40.Tomorrow's picture:pixels in space]]></description>
+  </item>
+  <item>
+    <title>Isaias Dims the Gulf Coast</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/isaias-dims-the-gulf-coast/</guid>
+    <pubDate>Fri, 16 Oct 2026 04:00:00 +0000</pubDate>
+    <description><![CDATA[High-definition images of nighttime lights show where the hurricane knocked out power along the Florida Panhandle and how quickly the lights came back.
+
+After a quiet start to the 2026 Atlantic hurricane season,Isaiasbecame the season’s first hurricane on October 8 as it tracked toward the U.S. Gulf Coast. The storm brought heavy rain and flash flooding to parts of the Southeast, including Alabama and the Florida Panhandle, and winds that toppled trees and downed power lines, leaving many people in the dark.
+
+Isaias made landfallnear Destin, Florida, on the evening of October 9 as a Category 2 hurricane with maximum sustained winds of 105 miles (170 kilometers) per hour. Gusts topped 100 miles per hour along a corridor west of the storm’s center, according to the National Weather Service, withpreliminary reportsshowing a 117-mile-per-hour gust in Oriole Beach and a 102-mile-per-hour gust at Pensacola City Hall.
+
+These areas of high winds overlapped a broader area west of the storm’s eye where satellite images showed substantial decreases in nighttime lights. The image pair above shows nighttime lights before and after the storm. The left image is a composite of August 2026 data representing typical conditions, and the right image shows lights on October 11, after most of the storm’s clouds had cleared.
+
+The data depicted in the images, provided by Ranjay Shrestha of NASA'sBlack Marble science team, come from theBlack Marble HDproduct. The product uses data from theVIIRS(Visible Infrared Imaging Radiometer Suite) on theNOAA-20satellite, which has a day-night band that detects light emitted and reflected at night. The team processed the data to account for changes in the landscape, the atmosphere, and phase of the Moon, and to filter out stray light that does not come from electric lights. Dark gray, hash-marked areas show where clouds prevented VIIRS from collecting data. The nighttime lights are shown over a base map from theLandsat 9satellite.
+
+“Standard Black Marble nighttime lights imagery, available throughNASA Worldview, provides a broad picture of the storm's immediate impacts,” Shrestha said. “Black Marble HD takes this a step further by allowing us to visualize these changes at a much finer spatial scale.”
+
+At these finer scales, the images reveal lights decreasing sharply around parts of Pensacola, Florida, and along the U.S. Route 98 corridor toward Destin, suggesting widespread power disruptions. Shrestha also pointed out pockets where lights persisted, including Pensacola International Airport, Pensacola Christian College, and parts of downtown Pensacola. “These patterns could reflect backup power systems, differences in electrical infrastructure, or areas that maintained electricity during the storm, although the imagery alone cannot confirm the underlying reasons,” he said.
+
+Black Marble HD images also reveal the pace and spatial patterns of recovery. The image pair above compares the same October 11 view (left) with one from October 12 (right), when lights had begun to return to some affected areas. By October 14, lighting patterns looked similar to pre-storm conditions.“Understanding where recovery is progressing and where disruptions persist can help emergency responders and decision makers identify areas that may require additional attention, prioritize resources, and assess the effectiveness of restoration efforts,” Shrestha said.Black Marble data complement ground-based outage reports rather than replace them, offering a more comprehensive view of disasters' impacts and recovery. “Ultimately, this is where the value of Black Marble lies: turning nighttime Earth observations into actionable insights that support informed decisions and help bridge the gap between Earth science and action,” Shrestha said.TheNASA Disasters Program,in coordination with FEMA and the USGS Coastal Storms Team, is supporting the Alabama Red Cross and the Alabama Emergency Management Agency’s response to Hurricane Isaias. The team will be posting maps and data products on its open-accessmapping portalas new information becomes available.
+
+NASA Earth Observatory images by Lauren Dauphin, using Black Marble HD data courtesy of Ranjay Shrestha/NASA's Goddard Space Flight Center and Landsat data from the U.S. Geological Survey.Story by Kathryn Hansen.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+The first named storm of the 2026 Atlantic hurricane season brought intense rainfall and the threat of flash flooding to…
+
+Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the…
+
+Hurricanes Polo and Nolo sent destructive effects ashore amid an active season in the northeastern and central Pacific.
+
+Subscribe to the Earth Observatory and get the Earth in your inbox.
+
+NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
+
+Ope]]></description>
+  </item>
   <item>
     <title>NASA to Help Unlock Mysteries of Mars’ Moons in Upcoming Mission</title>
     <link>https://science.nasa.gov/directorates/smd/planetary-science-division/nasa-to-help-unlock-mysteries-of-mars-moons-in-upcoming-mission/</link>
@@ -195,44 +243,6 @@ Orion’s performance and the team’s analysis on Artemis II reflect system rob
     <description><![CDATA[A formation of radio waves looks remarkably like a treble clef in this Oct. 14, 2026, image fromNASA’s Chandra X-Ray Observatory. Researchers used Chandra to find that the Treble Clef is likely caused by an outburst from a supermassive black hole, followed by a collision of two galaxy clusters.
 
 Image credit: X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON/LOFAR; Image processing: NASA/CXC/SAO/N. Wolk]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 October 15 – The Milky Way over Manhattan</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/</guid>
-    <pubDate>Thu, 15 Oct 2026 04:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:Thecity lightsoutshine the stars in theCity That Never Sleeps. Who would have thought that theMilky Waycould be visible in this sky? Thisimagewas taken with a filter that blocks mostvisible light, capturing instead only light in the near-infraredregion of theelectromagnetic spectrum(with lower energy than visible light). The astrophotographer'sclever setupblocks most of thelight pollutionfrom the city: oldincandescent light bulbsand someneon lightsare stillbrightin the near-infrared, butfluorescentandLEDlight bulbs are not. Of course,starsare also bright in the near-infrared! This image is a reminder that we all liveunder the same sky, and astronomy allows all of us to learn more abouthumanity's place in the Cosmos.Tomorrow's picture:Chasing the ISS]]></description>
-  </item>
-  <item>
-    <title>Fires Arrive in the Amazon Rainforest</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/</guid>
-    <pubDate>Thu, 15 Oct 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.
-
-Unlike a tornado or thunderstorm that can deliver destruction in minutes, El Niño exerts its influence over many months. This year, a drought accompanying El Niño has left the Amazon rainforest primed to burn, and scientists say the region has entered the early stages of what they think will be a long and severe fire season.
-
-Starting in September 2026, satellites detected sharp increases in fire activity and smoke emissions in the central and eastern Amazon, visible in fire and emissions monitoring platforms including NASA'sFire Information for Resource Management System(FIRMS), theGlobal Fire Emissions Database(GFED), andNASA Worldview. The region with elevated fire activity stretches from forests surrounding the commercial and transportation centers of Manaus and Santarém to the mouth of the Amazon River.
-
-When theMODIS(Moderate Resolution Imaging Spectroradiometer) on NASA'sAquasatellite captured this image of smoke streaming from fires on both sides of the Amazon River on October 12, 2026, heavy smoke socked in Manaus, the capital of the Brazilian state of Amazonas. That day, city officialsreportedextremely poor air quality, withfine particulate matter(PM2.5) values above 135 micrograms per cubic meter, the second-worst rating on a regionalair quality index. The pall disrupted daily life in a city of more than 2 million people. Schools closed, and citywide events and children's sports leagues were canceled as officials warned of hazardous air quality, according tonews reports.
-
-The burning around Santarém and Manaus is part of a "cascade" of fire in the tropics that accompanies the disrupted rainfall patterns of anEl Niño, said Douglas Morton, an Earth system scientist based at NASA's Goddard Space Flight Center. The pattern begins along the equator with drought andpeat fires in Indonesia, followed by elevated fire activity in this part of the Amazon. Morton and colleagues from the University of California, Irvine; Vrije Universiteit Amsterdam; and the University of Maryland detailed the pattern in a2017 studyfollowing the destructive fire season that accompanied the2015–2016 El Niño. They also saw the pattern play out in 2023.
-
-A swell of fire in the tropics riding the 2026 El Niño has followed the pattern. Drought, fire, and smoke have smothered parts of Indonesia since August, withhundreds of homes razedin October and thick smokeblanketing whole islandsmost days. "Now, in the Amazon, we're seeing the second domino in the cascade fall," Morton said, referring to the uptick in fires that has begun in Pará and Amazonas.
-
-Morton and his colleagues expect the next wave of fire to hit farther north in November and December in the Brazilian states of Roraima, northern Pará, and Amapá, as well as parts of Venezuela, Guyana, and Suriname. Finally, around August and September 2027, he said, drought and fire risk will peak in the southern Amazon regions of Brazil and Paraguay.
-
-"It's so striking—and frustrating—that this is happening all over again," said Morton, adding that many of the same forests that burned during the El Niño events in 2023 and 2015 are burning again. Forest fires in these rainforests are known to cause especially serious ecological damage because most species are not adapted to fire. It's likely that some of the forest fires will burn even more intensely this time because the earlier fires partially charred trees, degrading the forest and making what remained more susceptible to burning, he added.
-
-Morton expects the fires around Santarém and Manaus to continue burning until the rainy season arrives in December 2026 or January 2027. For the regions to the north and south, there is still time to prepare. "Given the intensity of this El Niño, this really is the year for people to avoid burning at all costs," Morton said.
-
-It's so wet in the Brazilian Amazon that lightning ignitesless than 1 percentof fires, so the vast majority of fires currently burning there were started by people, Morton said. But this year's drought, worsened by El Niño, has been intense. Brazil's National Institute of Meteorology reported that Manaus rainfall levels were 95 percent less than normal inAugustand 60 percent less than normal inSeptember.
-
-The large fires in this region began as management fires—clearing shrubs from pastures or crops from fields, for instance—but have escaped and are now burning freely through the parched understory of the rainforest, he added. Analysis of satellite observations indicates there are 50 to 70 uncontrolled fires burning in the Santarém region alone, said Shane Coffield, a University of Maryland assistant research scientist at NASA Goddard.
-
-As part of aNASA Earth Action project, Coffield is mining fire observations fromVIIRS(Visible Infrared Imaging Radiometer Suite) to identify fires that didn't meet the threshold for inclusion in official data pro]]></description>
   </item>
 </channel>
 </rss>
