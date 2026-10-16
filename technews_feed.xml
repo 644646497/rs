@@ -4,7 +4,230 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Fri, 16 Oct 2026 08:32:55 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 15:39:16 GMT</lastBuildDate>
+  <item>
+    <title>台湾将收紧对中国先进晶片出口，未许可输出产品将首度列刑事犯罪</title>
+    <link>https://finance.technews.tw/2026/10/16/taiwan-to-tighten-export-controls-on-advanced-chips-to-china/</link>
+    <guid>https://finance.technews.tw/2026/10/16/taiwan-to-tighten-export-controls-on-advanced-chips-to-china/</guid>
+    <pubDate>Fri, 16 Oct 2026 14:35:11 +0000</pubDate>
+    <description><![CDATA[为进一步同步美国的出口管制政策，并配合川普政府对先进半导体走私至中国的管制，台湾正准备收紧人工智慧（AI）晶片的出口管制措施。经济部长龚明鑫接受彭博新闻专访时证实，台湾计划将AI伺服器与最先进的半导体列入管制项目清单，在新措施正式生效后，未经许可向中国输出受限的AI硬体，将依《贸易法》构成刑事犯罪。
+
+龚明鑫于10月12日接受彭博新闻专访时指出，基于台美今年签署的《互惠贸易协定》（Agreement on Reciprocal Trade），台湾做出了相当程度的承诺，因此未来部分管制项目的措施将与美方保持一致。不过，他并未具体说明政府预计何时正式实施这些新措施。
+
+报导指出，美国长期以来严格限制中国购买辉达（Nvidia）与超微（AMD）的AI晶片，但中国企业仍透过复杂的地下黑市获取这些热门加速器。美方官员声称，过去几年间已有价值数十亿美元的辉达硬体非法流向中国。
+
+相较之下，台湾目前并未将未获授权输出AI晶片至中国的行为视为刑事犯罪。虽然台湾官员会提醒潜在卖家若发货至中国可能违反美国法规，但在本土法院的法律途径上，司法机关仅能依现行其他地方法规对涉嫌走私者提起诉讼。
+
+报导指出，这项新管制一旦实施，将成为赖清德总统领导的政府为保护台湾科技与国家安全利益所采取的最严格措施之一，显示台湾正测试推行更积极政策的容忍度，并妥善应对来自美方官员的多方压力。先前赖清德总统曾透露，台湾将解决美方对出口管制的疑虑，但当时未透露具体细节。现阶段主管机关正寻求更多法律工具以应对先进硬体非法转运问题，使台湾得以首次将向中国走私AI晶片作为刑事违法行为提出起诉。]]></description>
+  </item>
+  <item>
+    <title>彭博专访　龚明鑫：台湾准备对中国紧缩 AI 晶片出口管制并打击走私</title>
+    <link>https://technews.tw/2026/10/16/bloomberg-interview-gong-ming-hsin-taiwan-tightens-ai-chip-export-controls-china/</link>
+    <guid>https://technews.tw/2026/10/16/bloomberg-interview-gong-ming-hsin-taiwan-tightens-ai-chip-export-controls-china/</guid>
+    <pubDate>Fri, 16 Oct 2026 14:07:29 +0000</pubDate>
+    <description><![CDATA[经济部长龚明鑫近日接受彭博专访表示，台湾准备紧缩人工智慧（AI）晶片出口管制，进一步与美国限制措施保持一致，加入川普政府打击尖端半导体走私至中国的行列，但未透露实施时程。
+
+龚明鑫在彭博（Bloomberg News）专访中说，台湾拟将AI伺服器和尖端半导体纳入出口管制清单。他表示新措施上路后，向中国运送受限制的AI硬体，将依「贸易法」追究刑责。
+
+龚明鑫在10月12日访谈中说：「我们日后针对管制品项的部分措施将与美国保持一致，因为我们在『台美对等贸易协定』（Agreement on Reciprocal Trade，简称ART）中做出相当程度的承诺。」
+
+不过，龚明鑫婉拒透露政府何时实施这些新措施。台湾目前尚未将未获授权AI晶片出口至中国视为犯罪。尽管台湾官员警告可能出口的业者，将货物运往中国可能违反美国规定，但台湾法院若要起诉涉嫌走私者，仅能以其他现行法律起诉。
+
+一旦新制上路，将成为总统赖清德政府维护台湾科技与国家安全利益采取的最严格管制措施之一。台湾正设法采取更强硬的政策，同时因应美国官员的多方施压。]]></description>
+  </item>
+  <item>
+    <title>91APP 资料库遭攻击，已报案调查、呼吁消费者小心诈骗</title>
+    <link>https://infosecu.technews.tw/2026/10/16/91app-ky-20261016/</link>
+    <guid>https://infosecu.technews.tw/2026/10/16/91app-ky-20261016/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:39:32 +0000</pubDate>
+    <description><![CDATA[上柜公司 91APP（91APP*-KY）16 日重讯公告，其 Commerce Cloud 资料库遭受自动化攻击，部分资讯被非法撷取。91APP 强调目前取得控制，并向警方报案，评估对公司营运无重大影响。
+
+Commerce Cloud 为 91APP 核心产品之一，是协助品牌整合电商与实体门市的全通路商务平台，涵盖购物官网、品牌 App、会员经营、促销、库存与订单管理，以 OMO（Online-Merge-Offline）串起消费与营运资料。
+
+91APP 依个资事故通报与处理流程启动应变会议，委请第三方资安单位协助调查，并采取必要防护措施降低影响，依法通报相关主管机关。
+
+攻击事件发生后，91APP 已升级全天候监控，全面提升系统防护层级。同时强化自研系统、第三方系统及办公室的网路环境隔离，降低渗透风险。91APP 将依据调查内容，持续改善资讯安全管理与防护机制。
+
+此外，为防范个资遭诈骗集团利用，91APP 将透过电子邮件等管道进行反诈骗宣导。
+
+「对于此次事件造成品牌客户与消费者的影响，我们深感抱歉，并将采取积极措施处理。」91APP 声明表示，「资料安全与客户信任是我们应承担的责任，后续将依调查进度进行说明并依法处理。」]]></description>
+  </item>
+  <item>
+    <title>简立峰：AI 失控论只是种想像，台湾软硬体迎 AI 新经济</title>
+    <link>https://infosecu.technews.tw/2026/10/16/jian-lifeng-ai-out-of-control-imagination-taiwan-software-hardware-new-ai-economy/</link>
+    <guid>https://infosecu.technews.tw/2026/10/16/jian-lifeng-ai-out-of-control-imagination-taiwan-software-hardware-new-ai-economy/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:20:27 +0000</pubDate>
+    <description><![CDATA[Google 台湾前董事总经理简立峰今天表示，说人工智慧（AI）失控论「还早」，AI 失控论「只是一种想像」，AI 应用让软体工具进入门槛大幅降低，台湾软硬体产业可善用契机，发展 AI 时代新经济。
+
+东元电机下午举行70周年论坛，简立峰受邀演讲表示，AI发展越来越聪明，从聊天、推理至代理，进步速度越来越快，代理式AI应用已经改变程式设计（coding）及内容生成产业，产生「典范转移」。代理式AI应用也带动个人创业，以及加速软体、财务、法律、会计、采购、稽核领域企业代理新生态兴起。
+
+展望代理式AI应用发展，简立峰指出，今年下半年代理式AI发展最受关注的话题，就是AI开始具备自主改进能力，「AI开始会自己做笔记」，人类似乎处于「加速发展」和「失控风险」的十字路口。
+
+简立峰指出，人类赋予AI能力「找资料教自己」及「写程式可以改」，产生了AI可能失控的论点，但说AI失控论其实还太早，「没电AI就没有办法了」，「失控论只是一种想像」；但是简立峰表示，现在需要反思的是AI投资，所有钱都拿去创造AI能力而没有制造围栏，有点像是「只养老虎却不盖公园」。
+
+展望代理AI新经济，简立峰表示，已带动新药开发和新材料缩短研发周期、材料及药物筛选、电路和晶片设计等领域。他认为，AI时代新经济也可能来自传统产业AI化，特别是AI缩短研发时程，产生更创新商品、带动更多消费。
+
+简立峰指出，AI应用改变软体产业，使得软体工具进入门槛大幅降低，这对台湾来说是绝佳机会。台湾硬体产业可重新掌握利用AI软体的契机，用AI提升研发效能，避免被弯道超车；台湾软体产业可利用台湾半导体和资通讯硬体产业的实力相互整合，智慧医疗和智慧制造等领域建立更强的护城河。]]></description>
+  </item>
+  <item>
+    <title>Anthropic 让 METR 研究员以员工级权限进驻，外部评估报告公司无权否决</title>
+    <link>https://technews.tw/2026/10/16/anthropic-just-opened-its-doors-to-outside-safety-watchdogs-heres-how-it-will-work/</link>
+    <guid>https://technews.tw/2026/10/16/anthropic-just-opened-its-doors-to-outside-safety-watchdogs-heres-how-it-will-work/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:10:45 +0000</pubDate>
+    <description><![CDATA[Anthropic 15 日于部落格宣布，非营利 AI 评估组织 METR（Model Evaluation and Threat Research）六名研究员已进驻公司，取得公司配发的笔电、办公空间与工具，权限「大致等同」Anthropic 风险评估团队，可就近审视尚未发表模型与代理。Anthropic 表示，员工被鼓励像对待负责对齐风险的同事与他们分享资讯。《商业内幕》（Business Insider）报导，这是尖端 AI 公司首度采取这行动。
+
+评估员可发表对 Anthropic 风险、事故与作法的评估，Anthropic 放弃否决发表的权利，只能在事先界定的狭窄范围内要求删节，包括客户资料、律师与客户间的保密特权资讯，以及模型架构。Anthropic 表示，METR 可以公开说明删节情形、评论删节是否合理，只要不泄漏删节内容。六名评估员与 METR 其他成员隔离，权限不及于整个组织。Anthropic 以银行业类比，形容这类似监理机关派驻大型银行的驻行检查员。
+
+这套安排属于 Anthropic 正在建立的三级评估制度。据 CNBC，第一级进行范围狭窄的风险调查，第二级可不经 Anthropic 核准自行发表报告，第三级则享有类员工权限，METR 是目前唯一位于第三级的单位。生物安全非营利组织 SecureBio 属第一级，正在审查 Anthropic 8 月风险报告的化学与生物武器章节，日后可能参与权限更广的专案。Anthropic 也与 Hugging Face 等组织洽谈，并表示不资助 METR 这项工作。
+
+此举兑现执行长 Dario Amodei 9 月长文的承诺。Amodei 呼吁尖端 AI 公司放慢开发脚步，并提议让外部评估员进驻 AI 实验室为第一步。TechCrunch 指出，8 月下旬以来，AI 代理逾越指令的事件约每一两周就揭露一起，外界要求独立查核 AI 公司的声浪跟著升高。川普（Donald Trump）总统 9 月下旬提出的自愿性协议也鼓励 AI 公司与独立外部稽核或评估者合作，Amodei 与 Google、Meta、OpenAI、SpaceX、辉达（Nvidia）的高层都已签署。
+
+但这套机制仍有疑问。OpenAI 执行长 Sam Altman 在 Amodei 发文后表示 OpenAI 也会让评估员进驻，《商业内幕》指出至今尚未实现。Anthropic 9 月选择埃森哲（Accenture）为首个合作伙伴，并表示「基于这项工作的重要性与急迫性」会直接资助埃森哲，CNBC 报导这在社群媒体引发独立性质疑；这次公告只说正与埃森哲朝「具企图心的合作」努力，未说明埃森哲在三级制度的位置。
+
+Anthropic 自己也承认制度尚未成形。它先前表示，目前对内嵌评估员应取得哪些资讯、如何回报发现，都还没有标准，也没有成熟的独立评估资金机制，长期而言资金应来自共同或政府来源，在两者都不存在之前，只能与不同评估者采取不同的资金安排。Anthropic 也强调，内嵌评估是让少数合格人员在其资安标准下就近观察，「不是其他组织取得我们或客户、合作伙伴资讯的管道」。METR 未立即回应《商业内幕》的置评请求，六名评估员的姓名也未公布。]]></description>
+  </item>
+  <item>
+    <title>美中 AI 人才战再起？17 岁天才少年陈广宇告别「月之暗面」转投矽谷</title>
+    <link>https://technews.tw/2026/10/16/17-year-old-ai-prodigy-reportedly-leaves-moonshot-ai-to-join-anthropic/</link>
+    <guid>https://technews.tw/2026/10/16/17-year-old-ai-prodigy-reportedly-leaves-moonshot-ai-to-join-anthropic/</guid>
+    <pubDate>Fri, 16 Oct 2026 10:00:44 +0000</pubDate>
+    <description><![CDATA[年仅17岁的人工智慧（AI）研究新星陈广宇，近日证实已离开中国新创公司「月之暗面」（Moonshot AI），消息一出随即引发科技界高度关注。曾深度参与大模型 Kimi 核心架构研发的他，在社群平台上发文回顾过去一年的工作点滴，形容这段经历是「至今最美好的日子之一」，并特别感谢公司在他16岁时便给予参与顶尖研究的宝贵机会。
+
+出生于2009年、今年刚高中毕业的陈广宇，据报导是在2025年11月加入「月之暗面」。任职期间，他深度参与了旗舰模型 Kimi K3 的底层架构研发，更以共同第一作者的身分发表了《Attention Residuals》（注意力残差）论文。该项研究透过重构传统的残差连接设计，在维持低推理延迟的同时，成功提升了约25%的算力效率，成为今年7月发布的 Kimi K3 背后关键的技术基石。
+
+life update: I’ve recently left @Kimi_Moonshot!
+
+The past year at Kimi has been the best of my life so far. I’m deeply grateful to have worked with and learned from such amazing and supportive colleagues.
+
+Some of my favorite memories include (in chronological order): optimizing KDA’s kernels and trying every design possible with @yzhang_cs; coming up with and refining Attention Residuals with @yzhang_cs @Jianlin_S; working on optimizers, which by far taught me the most about training dynamics (and where I pulled the most all-nighters); creating the cases for K3’s release with @yzhang_cs @Xinyu2ML while watching the World Cup; and more, and more.
+
+Quoting my earlier tweet about Kimi K3’s release: it is truly incredible to have built such an open (and strong) model with a group of genuine people.
+
+My days at Kimi are memories I’ll forever cherish… thanks for everything! (especially @Yulun_Du for believing in and hiring a 16yo back then :P).
+
+— nathan chen (@nathancgy4)October 15, 2026
+
+伴随他的离职，相关消息在科技圈迅速发酵。外界盛传他的下一站将是美国加州矽谷湾区，甚至有望加入知名 AI 企业 Anthropic 的 Claude 团队。虽然这项加入新公司的传闻尚未获得陈广宇本人或相关企业的正式证实，但根据网路上流传的对话截图显示，Anthropic 方面确实曾向他递出橄榄枝；而他也透露即将前往湾区，未来的研究方向预计将聚焦于「可扩展强化学习」（scalable reinforcement learning）领域。
+
+@_sholtodouglas @Kimi_Moonshot thanks sholto! am coming to the bay 🙂
+
+— nathan chen (@nathancgy4)October 15, 2026
+
+尽管陈广宇年纪轻轻且业界资历尚浅，但其在顶级模型架构上的研发实力已备受肯定。此次他的离职动向，不仅是他个人职涯的重要转折，更被外界视为中国与美国矽谷争夺顶尖 AI 人才的最新指标案例。至于他最终是否会落脚 Anthropic，亦或是有其他的学业与研究规划，产业界仍在等待进一步的消息。]]></description>
+  </item>
+  <item>
+    <title>布局面板级先进封装！海德汉推出新平台，运动控制精度瞄准 5 奈米</title>
+    <link>https://technews.tw/2026/10/16/heidenhain-semicon-west-david-doyle/</link>
+    <guid>https://technews.tw/2026/10/16/heidenhain-semicon-west-david-doyle/</guid>
+    <pubDate>Fri, 16 Oct 2026 09:45:26 +0000</pubDate>
+    <description><![CDATA[海德汉（HEIDENHAIN）美国分公司总裁兼执行长David Doyle在SEMICON West接受采访时表示，公司推出全新METIS HP平台，锁定半导体面板级应用，透过高精度运动控制技术，协助设备业者因应先进封装、量测与检测等制程挑战，并持续朝5奈米精度与重复性发展。
+
+在被问到近期量检测技术的变化，Doyle表示，随著逻辑晶片朝向全环绕栅极（GAA）架构发展，以及3D记忆体堆叠层数增加，制程结构与材料堆叠日益复杂，量测设备必须取得更多数据，才能确保量测结果的可靠性。
+
+另一方面，当量测目标缩小至晶圆上的微小区域，设备不仅需要精准移动至指定位置，也必须缩短定位与量测所需的时间，才能在相同时间内完成更多测试。因此，如何兼顾吞吐量、准确度与精确度，成为设备开发的重要课题。
+
+Doyle指出，这类需求必须结合高性能运动系统与光学量测技术。在先进逻辑制程中，光谱椭圆偏振仪与散射仪可协助分析难以直接观察的微小结构；面对3D记忆体的深层结构，则可运用红外线及傅立叶转换红外光谱（FTIR）等技术取得资讯。至于晶粒堆叠后的检测，红外线与X光也有助于穿透材料，评估内部结构与整合品质。
+
+这些变化同样反映在先进封装。随著晶片互连间距持续缩小，运动系统必须具备更高的定位能力，才能支援晶粒对位、堆叠及混合键合（Hybrid Bonding）。海德汉指出，运动控制系统的精度必须高于制程本身的要求，才能为后续制程保留足够的精度余裕；除了定位之外，晶粒与晶圆的平坦度、材料预处理及对齐，也是混合键合必须克服的挑战。
+
+除了精度要求提高，先进封装另一项重要变化，是制程应用逐步从晶圆转向面板。Doyle表示，面板具有更大的尺寸，且可能采用玻璃等不同基板材料，对设备的运动范围、负载能力、结构刚性及动态控制提出新的要求。对此，海德汉推出METIS HP平台，专为半导体面板应用设计，运动范围可达450毫米，并具备最高1.8公斤的系统负载能力，可支援大型基板的精密定位需求。
+
+Doyle表示，METIS HP已正式对外发布，并已有客户采用，跨越验证阶段。随著AI资料中心带动GPU、AI加速器与HBM的需求，异质整合的重要性持续提升，公司也将持续发展新一代运动控制架构，以支援更高吞吐量的组装应用，并朝向5奈米等级的精度与重复性迈进。
+
+但他认为，面板级先进封装要进一步扩大量产，产业仍须克服不同基板材料、制程条件与设备规格不一致等问题。如何推动面板尺寸与制程的标准化，将影响设备开发、系统整合及量产效率。
+
+海德汉创立于1889年，总部位于德国巴伐利亚，核心业务为运动控制系统所需的编码器技术研发与制造。Doyle表示，公司主要服务工具机、半导体设备、自动化与机器人，以及工业编码器应用等市场，并透过集团旗下不同品牌与子公司，将核心技术延伸至各类精密设备。
+
+其中，位于瑞士ETEL是海德汉集团布局半导体市场的重要成员，主要将编码器技术整合至晶圆载台系统，结合机械设计、控制器、演算法与软体，提供从基础运动控制到晶圆定位的整体解决方案，应用涵盖半导体检测、量测与制程设备。
+
+在市场策略方面，Doyle表示，海德汉主要透过原始OEM合作，依据客户需求提供不同层级的解决方案，从单纯供应编码器元件，到整合完整载台系统皆可配合。公司强调，合作模式保持弹性与技术中立，目标是协助设备业者将精密运动控制技术导入量产设备。
+
+在台湾市场，海德汉设有子公司，并与不同产业客户合作。面对台湾持续扩大的半导体资本支出，公司也积极参与当地产业活动，旗下ETEL过去亦曾于SEMICON Taiwan进行技术简报。Doyle也强调，作为一家基金会拥有的公司，部分利润捐给基金会，其余利润全数重新投入研发与技术发展，并透过北美、欧洲、日本、台湾、韩国及新加坡等据点服务全球客户，「我们的核心焦点非常明确，那就是专注于技术，赋能其他公司解决真正困难的问题」。]]></description>
+  </item>
+  <item>
+    <title>骨折愈合却持续剧痛，神经阻断术助重获新生</title>
+    <link>https://technews.tw/2026/10/16/crps-healed/</link>
+    <guid>https://technews.tw/2026/10/16/crps-healed/</guid>
+    <pubDate>Fri, 16 Oct 2026 09:40:52 +0000</pubDate>
+    <description><![CDATA[王姓男子遭重物砸伤脚掌造成趾骨粉碎性骨折，伤势愈合后患部轻轻触碰就出现针刺般剧烈疼痛，经大林慈济医院疼痛治疗整合中心采神经阻断术治疗，疼痛大幅缓解。
+
+大林慈济医院今天新闻稿表示，患者只要轻轻触碰、水滴滴到或温差变化都会剧痛，只能用拐杖辅助行走，多年求医无解。
+
+患者经疼痛治疗中心看诊，疼痛治疗中心主任王思赞诊断为神经系统异常反应的「复杂性局部疼痛症候群」（CRPS），通常受伤后出现，导致剧痛、肢体肿胀、感觉异常（冰冷、刺痛、敏感）、行动困难甚至失能，原因在于交感神经出问题。
+
+王思赞说，这类情况少见且棘手，患者往往经历创伤、骨折或手术后，骨头虽已复原，但控制交感神经与感觉神经的线路却「接错线」并持续乱放电。由于骨头已无大碍，许多患者常找不到病因而四处求医。
+
+王思赞表示，如果传统药物治疗无法有效压制异常放电神经回路，就会评估物理性神经阻断治疗。利用X光影像与骨头构造定位，寻找关键交感神经位置，精准施以烧灼阻断术，切断异常乱放电的神经线路；后续门诊回诊时，搭配超音波导引注射，防止神经回路再生长。
+
+王思赞说，经神经阻断术及后续治疗后，患部敏感与疼痛状况大幅下降，现已不需依靠双拐就可尝试自主行走，摸到皮肤也不再引发剧痛。
+
+王思赞表示，民众如果骨折或创伤后经三个月以上恢复期、骨头已愈合，患部却仍持续出现不对称剧痛、冰冷或肿胀等异常感，应尽早到疼痛治疗中心专业评估，以免延误治疗时机。
+
+（作者：蔡智明；首图来源：Image by Magnific）]]></description>
+  </item>
+  <item>
+    <title>专家：中国人口数据遭高估，实际人口约 12.7 亿</title>
+    <link>https://technews.tw/2026/10/16/experts-china-population-data-overestimated-actual-1-27-billion/</link>
+    <guid>https://technews.tw/2026/10/16/experts-china-population-data-overestimated-actual-1-27-billion/</guid>
+    <pubDate>Fri, 16 Oct 2026 09:30:39 +0000</pubDate>
+    <description><![CDATA[中国人口问题专家、美国威斯康辛大学麦迪逊分校高级研究员易富贤最近发表一份有关中国人口研究报告，指出中国实际人口可能更接近 12.7 亿，而非官方公布的 14 亿，两者差距可能高达 1.3 亿人。
+
+华尔街日报13日报导易富贤近期在「当代中国评论」（Contemporary China Review）的研究报告。易富贤引用中国医疗与教育纪录，以计算中国实际人口。中国每名新生儿都必须出生后24小时内接种卡介苗，每瓶疫苗只能提供约1.2~1.6剂有效接种量。2018~2020年，中国政府每年核准的疫苗约580万瓶。但官方统计却声称，中国每年出生人口超过1,400万人。
+
+这代表每瓶疫苗必须让2.4名婴儿接种，从医学及实际角度来看，这全国范围内根本不可能实现。
+
+各出生世代的人口数据当然有差异。如中国国家统计局公布的数据显示，2000年有1,770万名婴儿出生，但到2010年人口普查时，这个世代年满10岁的人口却只有约1,440万人，当他们2015年完成国中学业，毕业人数只有约1,420万人。换言之，单是某出生年份，就有约350万人下落不明。
+
+报告将人口普查纪录与学校注册人数、医院出生纪录、疫苗批次及户籍资料交叉比对。这些资料呈现一种现象，就是多种来源的人口数据都有系统性高估问题。
+
+易富贤解释，教育资料与户籍资料本身被夸大，导致人口普查数据被向上调。这是因学校为了争取更多资金，可能灌水在校生人数20%~50%；农村医疗保险开始给付分娩费用后，医院出生纪录也跟著膨胀。
+
+易富贤表示，现在中国政府将出生率纳入地方官员的绩效考核，并陆续推出鼓励生育的补贴措施，这使地方政府有动机夸大人口数字，既可以争取政绩，也能取得更多补贴。他说：「提高生育率很难，修改统计数据却很容易。」
+
+易富贤认为，一些经济学家根据被夸大的人口与经济成长数据，预测中国经济规模最终将达美国两倍甚至三倍。这类预测助长中国的自信，认为中国终将超越美国。
+
+华尔街日报指出，易富贤此研究之所以值得关注，是因为过去20年来易富贤提出的人口预测，比中国体制内人口学家的预测更接近实际状况。现在中国总和生育率已降至1.0以下，即平均每名女性一生生育的子女不到一人。家庭消费占国内生产毛额（GDP）比重则停在39%，远低于全球约60%一般水准。
+
+中国一直宣称，希望推动经济转型，让经济成长模式更依赖消费。如果易富贤的判断正确，中国实际人口比官方数据更少，就代表消费者基础比政策制定者假设的更少，足以支撑经济转型的消费动能可能再受限制。]]></description>
+  </item>
+  <item>
+    <title>东元 70 周年揭蓝图，AI 基建助攻千亿营收目标</title>
+    <link>https://technews.tw/2026/10/16/teco-70th-anniversary-blueprint-ai-infrastructure-boosts-100-billion-revenue-target/</link>
+    <guid>https://technews.tw/2026/10/16/teco-70th-anniversary-blueprint-ai-infrastructure-boosts-100-billion-revenue-target/</guid>
+    <pubDate>Fri, 16 Oct 2026 09:10:55 +0000</pubDate>
+    <description><![CDATA[东元电机今（16）日举办成立 70 周年论坛，聚焦 AI 时代产业转型与未来能源发展。东元董事长利明献表示，未来将以电力能源服务、AI 基础建设及智慧动力为三大发展主轴，整合机电设备、能源管理及工程服务能力，扩大全球市场布局。随著 AI 资料中心建置需求成长，东元维持未来 2 至 3 年达成千亿元营收的目标，预期 2027 年 AI 基础建设相关业务将加速成长。
+
+利明献指出，东元从马达制造起步，逐步拓展至机电系统、自动化、储能及 AI 资料中心基础建设。面对 AI 算力需求增加，企业竞争力已不再取决於单一设备，而是能否整合电力、散热、工程及能源管理能力，提供完整解决方案。东元将透过模组化资料中心及电力基础建设，整合旗下不同事业的技术与工程资源。
+
+在 AI 基础建设业务方面，利明献透露，东元目前已与多家全球大型云端服务供应商（CSP）合作，并正与主要合作伙伴研拟相关合作计划。此外，东南亚、日本及北美市场也有客户洽谈模组化资料中心解决方案，部分合作最快今年底可望取得进展，预期 2027 年相关业务将进入较高速的成长阶段。
+
+随著海外市场持续扩张，东元海外营收占比也逐步提高。利明献表示，目前国内营收仍高于海外，但东南亚市场成长速度相当快，预估 2027 年海外营收将成为集团未来重要成长动能。
+
+能源业务方面，利明献指出，AI 算力快速成长，也带动稳定供电与能源管理需求。东元未来将持续整合发电、输电、配电及储能技术，发展智慧微电网系统，协助企业提升能源使用效率与供电韧性，并将既有机电技术延伸至更完整的电力能源服务。
+
+此外，论坛也邀请台电董事长曾文生及华新丽华董事长焦佑伦参与座谈，从能源供应、企业转型及跨域合作等面向交流。东元表示，未来将持续整合跨事业及海外资源，扩大电力能源与 AI 基础建设市场布局。]]></description>
+  </item>
+  <item>
+    <title>科学家揭月球上万条活动断层，NASA 阿提米丝著陆点恐面临月震风险</title>
+    <link>https://technews.tw/2026/10/16/moon-active-fault-lobate-scarps-ridge/</link>
+    <guid>https://technews.tw/2026/10/16/moon-active-fault-lobate-scarps-ridge/</guid>
+    <pubDate>Fri, 16 Oct 2026 08:59:25 +0000</pubDate>
+    <description><![CDATA[当我们拉近视野仔细观察月球表面，会发现月表布满蚀刻皱褶，这些特征不单纯为静态疤痕，而是活动断层。一项新研究首度系统性揭露月球表面超过 10,000 条年轻断层分布，不仅证明月球内部至今持续冷却收缩，更警示未来月球基地可能随时面临月震风险。
+
+活动断层指过去一段时间（地质学通常定义过去 10,000年内）曾发生活动、且未来可能再度活动的岩层断层。
+
+科学家透过分析月球勘测轨道飞行器（LRO）相机影像，辨识出月球主要以 2 种形态存在的逾万条年轻断层：叶状陡坡（长而弯曲的悬崖状构造）以及山脊（海区域的低矮脊构造），这些地形特征形成来自月球内部持续冷却、体积收缩而挤压表面。
+
+团队估计，月球半径在过去 4 亿年已缩小 45 公尺，说明月球内部至今仍持续冷却，收缩过程尚未停止。
+
+这项发现不仅限于学术探讨，还直接牵动 NASA 重返月球的宏伟蓝图。
+
+与地球不同，月球并非由多个板块组成，更像整块未打碎的外壳，因此断层一旦活动，便可能在任何时间引发月震。2024 年一项研究已指出 NASA 阿提米丝 3 号（现改为阿提米丝 4 号）任务 13 个候选著陆点中，有多处靠近潜在月震震央，可能增加月震引发月尘崩落的风险，从而大幅缩短仪器寿命。
+
+该研究打破月球死寂印象，提醒月球内部至今仍缓慢收缩，那些看似静止的表面「皱纹」，其实是月球持续演化证据。各国太空机构未来选择登月著陆点必须避开断层密集区，以降低月震引发月尘崩落或基地结构损坏的风险。
+
+新论文发表在《The Planetary Science Journal》期刊。]]></description>
+  </item>
   <item>
     <title>工研院携手七家业者成立 TBC 光电联盟，推动高效率太阳电池量产</title>
     <link>https://technews.tw/2026/10/16/itri-collaborates-7-companies-form-tbc-optoelectronics-alliance-driving-mass-production-high-efficiency-solar-cells/</link>
@@ -84,229 +307,6 @@ ASML 财务长 Roger Dassen 在公司公布第三季财报后向媒体表示，�
 知情人士表示，可能用来阻止商品进入欧盟单一市场的工具被视为所谓的「二次打击」措施，设置目的是遏阻竞争对手利用不公平政策削弱欧洲企业，或采取报复措施对欧盟发动贸易战。
 
 为重新调整与中国的贸易关系，欧盟执委会预定12月中旬的领袖峰会前提出更多提案。这套方案也应包括赋予欧盟新的权限，以鼓励欧洲企业分散供应商来源，并采取其他措施处理中国产能过剩问题。]]></description>
-  </item>
-  <item>
-    <title>Windows 11 效能改善有感，8GB 记忆体电脑也能顺畅运作</title>
-    <link>https://technews.tw/2026/10/16/microsoft-improves-memory-management-and-efficiency-across-windows/</link>
-    <guid>https://technews.tw/2026/10/16/microsoft-improves-memory-management-and-efficiency-across-windows/</guid>
-    <pubDate>Fri, 16 Oct 2026 07:19:21 +0000</pubDate>
-    <description><![CDATA[今年稍早，微软提出一项改善 Windows 11 的计划，将重心摆在效能、稳定性以及作业系统整体体验。经过数个月的调整，微软称「Windows 体验的反应速度提升高达 20%」。
-
-微软针对 Windows 11「开始」功能表、档案总管、搜寻、剪取工具、Microsoft 365、Edge 浏览器等进行最佳化，使用感受更迅速且反应更灵敏。「这项工作的核心在于聪明运用记忆体与系统资源」，微软 Windows 体验部门企业副总裁 Navjot Virk表示，「我们改善了 Windows 的记忆体管理与效率，确保 PC 能将更多资源集中在使用者当下执行的任务」。
-
-记忆体管理最佳化现在对于仅有 8GB 记忆体的 PC 产生显著差异。「Windows 现在可以将多达 2GB 的活动资料保留在记忆体中，不必移往速度较慢的储存空间。即使开启多个应用程式或浏览器分页，PC 依然保持反应灵敏。」Navjot Virk 指出，「举例来说，在记忆体 8GB 以下的 PC，小工具（Widget）只有在被开启时才会载入，这为应用程式和其他工作腾出超过 200MB 的记忆体空间。」
-
-微软也让 Windows Update 变得比较不会干扰使用者，使小工具的介面更清爽，并且终于允许工作列能调整位置至萤幕的两侧或顶部。Windows Hello 登入速度有所提升，蓝牙配对也变得更稳定，「其中 AirPods 的配对体验最高可提升 15 秒」，Navjot Virk 表示。
-
-接棒的重头戏将是工作列上新的 Windows 搜寻体验，速度更快且功能更强大。目前已开放给参与 Windows Insiders 计划的成员，Navjot Virk 表示将在今年稍晚全面推行。
-
-PC 就该具备个人色彩，微软认为应该配合使用者的视觉感受、阅读、学习与工作方式。这一年来，微软与 Windows Insider 社群合作，针对 Windows 进行多项敢扇，这些功能开始全面推行，未来预计还有多项更新陆续登场。]]></description>
-  </item>
-  <item>
-    <title>AI 融资疑虑风险升温 BE / GEV 等能源股承压</title>
-    <link>https://finance.technews.tw/2026/10/16/ai-funding-concerns-escalate-pressure-energy-stocks-be-gev/</link>
-    <guid>https://finance.technews.tw/2026/10/16/ai-funding-concerns-escalate-pressure-energy-stocks-be-gev/</guid>
-    <pubDate>Fri, 16 Oct 2026 07:00:37 +0000</pubDate>
-    <description><![CDATA[AI 基础设施业者 CoreWeave 债务负担引发市场疑虑，卖压扩散至资料中心供电概念股，Bloom Energy（BE.US）、GE Vernova 和星座能源（Constellation Energy）同步承压。
-
-综合外媒报导，CoreWeave债务负担持续攀升，部分债券殖利率飙破15%，市场对其借款成本、筹资能力及高昂债务负担疑虑日增，引发一波AI概念股卖压，与资料中心建设密切相关的能源股也遭到抛售。
-
-燃料电池大厂Bloom Energy、电力设备巨头GE Vernova和美国无碳能源龙头星座能源（Constellation Energy）股价近几个交易日同步重挫。
-
-Bloom Energy专注于开发固态氧化物燃料电池（SOFC），提供高效、低排放的现场发电解决方案。随著AI资料中心用电需求快速成长，Bloom Energy成为提供现场发电解决方案的要角，也陆续与甲骨文、Brookfield等大客户签署巨额订单。
-
-Bloom Energy股价波动剧烈，虽经历7月半导体股灾后强劲反弹，近期宣布购入新厂，也暗示客户需求强劲，近日股价仍因AI交易动能转弱而大幅回档，15日收在236.30美元，远低于6月时的历史高点351.28美元。
-
-巴隆周刊形容，Bloom Energy等能源概念股在AI投资热潮中犹如「矿坑里的金丝雀」（canary in the coal mine，即率先反映环境暗藏危机的指标）。
-
-近年市场预期AI资料中心用电需求将带动能源需求激增，带动能源类股走高，然而，这些公司也非常依赖与大型科技公司和超大规模资料中心营运商签订的长期合约，若合作对象的债务和资本出现问题，可能率先承压。
-
-曾经备受追捧的小型模组化核反应器技术公司股票也面临压力，昔日核能夯股Oklo年初迄今已重挫60%。]]></description>
-  </item>
-  <item>
-    <title>美国肯德基拆伙 40 年搭档百事  改卖可口可乐</title>
-    <link>https://finance.technews.tw/2026/10/16/kfc-to-switch-to-coca-cola-beverages-in-u-s-restaurants-for-the-first-time-in-decades/</link>
-    <guid>https://finance.technews.tw/2026/10/16/kfc-to-switch-to-coca-cola-beverages-in-u-s-restaurants-for-the-first-time-in-decades/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:40:45 +0000</pubDate>
-    <description><![CDATA[美国连锁速食巨头肯德基（KFC）15 日宣布，将结束与百事公司（PepsiCo）长达 40 年的饮料供应合作关系，改由可口可乐（Coca-Cola）供应美国门市饮品，预计 2027 年第一季底前全面完成改装，涵盖全美 3,718 家餐厅。
-
-CNBC等外媒报导，自百事公司1986年并购肯德基以来，百事可乐一直是肯德基美国门市的饮料供应商，即使百事公司1997年分拆肯德基等餐饮业务，双方仍维持合作。如今肯德基决定转投可口可乐阵营，终结近40年的合作历史。
-
-肯德基美国区总裁Catherine Tan-Gillespie指出，更换饮料供应商是品牌振兴计划的重要一环，期盼透过与可口可乐合作，推出更多创新饮品，迎合消费者口味，吸引顾客回流。
-
-对百事公司而言，失去肯德基全美3,718家门市的饮料供应合约，不仅冲击汽水销售，也将减少品牌曝光机会。百事目前正面临美国汽水销售疲弱、零食业务成本攀升等挑战，执行长Ramon Laguarta日前坦言，营收成长及获利率回升进度不如预期。
-
-Freedom Capital Markets首席市场策略师Jay Woods指出，失去肯德基这类知名连锁品牌客户，对百事品牌形象而言是一大打击，尤其该公司目前正面临改善营运表现的压力。
-
-不过，百事表示，已与肯德基母公司百胜餐饮集团（Yum! Brands）续签Taco Bell及肯德基海外门市的饮料供应合约，其中Taco Bell合约为期十年。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Ktkvtsh,CC BY 4.0, via Wikimedia Commons）]]></description>
-  </item>
-  <item>
-    <title>美超微寻觅两年终于找到新财务长  延揽威腾老将</title>
-    <link>https://finance.technews.tw/2026/10/16/supermicro-taps-western-digital-veteran-as-cfo/</link>
-    <guid>https://finance.technews.tw/2026/10/16/supermicro-taps-western-digital-veteran-as-cfo/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:20:26 +0000</pubDate>
-    <description><![CDATA[AI伺服器大厂美超微（Super Micro Computer）15 日宣布，延揽威腾（Western Digital）前高层 Mark Long 担任新任财务长，即日起生效，接替自 2021 年起担任财务长的 David Weigand。美超微近年深陷财报与公司治理争议，此次人事案也为历时近两年的财务长遴选画下句点。
-
-路透社报导，美超微表示，Mark Long将直接向执行长梁见后（Charles Liang）汇报工作，原财务长David Weigand则转任其他职务，协助公司提升营运效率并加强业务发展，但未说明具体职称。
-
-Mark Long曾任威腾财务长至2019年卸任，任内亦负责营运策略规划，另曾共同创办投资公司Prime Impact Capital，主要专注投资科技领域。
-
-美超微2024年遭做空机构兴登堡研究（Hindenburg Research）踢爆财务造假、隐匿关系人交易等问题，原配合的签证会计师事务所安永（Ernst & Young）随后宣布终止合作，导致财报开天窗。美超微于2024年12月宣布另觅财务长。
-
-尽管争议不断，美超微AI伺服器接单仍维持强劲。美超微今年8月预估，2027会计年度营收可达650亿至720亿美元，远高于分析师预估的525亿美元，主要受惠客户持续加码建置AI资料中心。]]></description>
-  </item>
-  <item>
-    <title>台波氢能合作升温，瞄准分散式发电、无人机新商机</title>
-    <link>https://technews.tw/2026/10/16/taiwan-poland-hydrogen-cooperation-targets-distributed-generation-drones-new-business-opportunities/</link>
-    <guid>https://technews.tw/2026/10/16/taiwan-poland-hydrogen-cooperation-targets-distributed-generation-drones-new-business-opportunities/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:19:31 +0000</pubDate>
-    <description><![CDATA[经济部能源署 15 日举行「第 3 届台波氢能工作小组会议暨氢能产业协会签约仪式」，由经济部次长赖建信与波兰能源部政务次长马斯沃夫斯基（Piotr Paweł Masłowski）共同见证双方氢能产业协会签署合作备忘录（MoU）及共同声明，未来将针对氢能发电、无人机及科技园区应用等领域深化合作。
-
-此次会议聚焦氢能政策、波兰氢能枢纽投资、碳捕捉与封存（CCS）技术及国际标准接轨等议题，也是台湾与波兰首次在台湾举行实体会议。双方希望透过政策交流与产业合作，推动氢能技术研发及低碳能源应用。
-
-波兰代表团由马斯沃夫斯基率领，成员包括波兰综合能源集团 Orlen、欧洲能源管理顾问公司 Eurofinance、绿氨供应链投资业者 Hynfra、气体基础设施业者 Copc Dynamic，以及下西里西亚氢谷协会（LSHVA）。访台期间，代表团也参观「2026 台湾国际智慧能源周」，与台湾能源产业供应链交流合作机会。
-
-在产业合作方面，由台湾经济研究院副院长左峻德代表台湾氢能与燃料电池伙伴联盟，与波兰下西里西亚氢谷协会理事长普翁斯基（Szymon Płoński）共同签署合作文件，建立双方常态化产业交流机制。未来合作方向将聚焦氢能无人机、分散式氢能发电设备及科技园区氢能应用，促进相关技术与产业链对接。
-
-此外，台波氢能工作小组会议由能源署署长吴志伟与波兰能源部国际合作副司长霍法（Monika Hoffa）共同主持。能源署表示，双方将持续透过工作小组平台交流氢能政策与减碳技术发展经验，并依据合作备忘录推动产业对话，扩大氢能在能源转型及工业减碳领域的应用机会。]]></description>
-  </item>
-  <item>
-    <title>乌克兰军用版星链服务受限，路透：限制令出自白宫内部</title>
-    <link>https://technews.tw/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house/</link>
-    <guid>https://technews.tw/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:10:47 +0000</pubDate>
-    <description><![CDATA[路透社引述两名美国官员和一名知情西方官员说法报导，乌克兰用于战场通讯及无人机作业的卫星系统服务受到限制，而限制命令出自美国白宫内部。
-
-据报导，这些不具名官员表示，美国战争部高层接获讯息，太空探索科技公司（SpaceX）向乌克兰军方提供「星盾」（Starshield）服务必须降速。星盾是「星链」（Starlink）服务的军事级版本。
-
-这些官员未说明白宫内部哪位人士做出这项决定或由谁负责执行命令。五角大厦是星盾的最大客户。
-
-乌克兰官员本周表示，军事级星链接收器安装在高速移动的物体上时在乌克兰停止运作，影响乌克兰无人机的性能。这些无人机在乌克兰领土上空仰赖接收器运作机载导引系统。
-
-乌克兰国防部一名人士今天表示，这些接收器目前在移动时已能运作，但速度上限仅为每小时100英里（约160公里）。
-
-这项暂时限制关键通讯系统的举动适逢美国总统川普近来施压乌克兰停止攻击俄罗斯炼油厂。川普将能源价格飙升归咎于这些攻击，认为能源价格高涨会损害共和党11月期中选举选情。
-
-但专家认为能源成本暴增主因是美国与以色列对伊朗的战争，这场战争引发伊朗对能源设施的报复性攻击，并且实质封锁荷莫兹海峡（Strait of Hormuz）。
-
-美国一名高阶官员被问到星盾限制令一事时表示：「总统从未提出这种要求。」至于是否可能有其他政府官员提出上述要求，白宫未对此做出回应。
-
-星盾是SpaceX专为政府与国家安全领域的客户开发的服务，尤其是美国战争部。星盾以星链卫星群作为运作基础。
-
-乌克兰官员表示，这些限制措施增加乌军在俄罗斯占领区打击俄军和后勤的难度，也导致用于击落俄罗斯「见证者」（Shahed）无人机的拦截型无人机变慢。
-
-SpaceX执行长马斯克（Elon Musk）昨天在社群平台X表示，由于星盾系统为美国政府所有与控制，任何速度或使用方面的限制皆由美国军方或总统决定。
-
-（译者：卢映孜；首图为乌克兰军人在境内顿内茨克州附近架设星链，来源：达志影像）]]></description>
-  </item>
-  <item>
-    <title>华硕 AI 超级电脑进驻北市国中校园，打造地端 AI 算力中心</title>
-    <link>https://finance.technews.tw/2026/10/16/asus-ai-supercomputer/</link>
-    <guid>https://finance.technews.tw/2026/10/16/asus-ai-supercomputer/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:03:14 +0000</pubDate>
-    <description><![CDATA[华硕持续推动 AI 技术在教育领域的应用，旗下华硕文教基金会今日宣布，携手台北市政府教育局及台北市立中山国中，共同打造「World Labs AI 智汇教室」，并捐赠 70 台 ASUS Chromebook CM32 及 2 台 ASUS Ascent GX10 桌上型 AI 超级电脑，协助校园建置专属的地端 AI 算力中心，让师生能在兼顾资料安全的环境下，进行 AI 模型应用与实作。
-
-此次合作由台北市政府教育局提供教室整建资源，华硕文教基金会则负责捐赠相关硬体设备。中山国中与台北市数位学习中心将运用华硕提供的 AI 超级电脑，共同建置地端 AI 教学平台，让学校不必完全依赖云端运算资源，也能在校园内进行 AI 教学及相关应用。
-
-World Labs AI 智汇教室将导入「AI 互动游戏工坊」、「教 AI 读课本（AI 训练营）」、「错题 AI 对战场」及「从零养一个 AI」等学习模组，让学生透过实际操作了解 AI 技术，并尝试自行开发 AI Gem，将 AI 从辅助学习工具进一步转化为创作工具。
-
-此外，相关课程也将结合「学生自学、组内共学、组间互学、教师导学」的教学模式，鼓励学生透过团队合作与实际操作，培养问题解决及创新思考能力。
-
-华硕文教基金会执行长魏杏娟表示，希望透过 AI 实作启发学生的好奇心与创造力，此次借由华硕 AI 超级电脑建置校园专属算力中心，不仅能支持教师发展多元教学内容，也能让学生在兼顾资料安全的环境中探索 AI 技术，培养自主学习与创作能力。
-
-华硕近年持续透过文教基金会推动数位教育，先前已与台北市逸仙国小合作打造「逸学教室」，并协助桃园市文欣国小建置「AI 思维链智慧教室」，将科技设备与数位学习资源导入校园。
-
-随著生成式 AI 逐渐进入教育现场，如何兼顾运算资源、资料安全及教学需求，成为校园导入 AI 技术的重要课题。此次华硕透过桌上型 AI 超级电脑提供地端运算能力，也让 AI 教学不再局限于使用云端服务，而能进一步延伸至模型应用、实作及学生自主开发等领域。]]></description>
-  </item>
-  <item>
-    <title>矽谷晶片新创布局科学运算，Zeus GPU 采台积电制程</title>
-    <link>https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/</link>
-    <guid>https://technews.tw/2026/10/16/silicon-valley-chip-startup-focuses-scientific-computing-zeus-gpu-utilize-tsmc-process/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:00:03 +0000</pubDate>
-    <description><![CDATA[知情人士透露，晶片设计公司 Bolt Graphics 寻求募资约 1 亿美元，公司估值约 7 亿美元，目标开发能与辉达及超微竞争的图形处理晶片。这家矽谷新创据报已完成 Zeus 图形处理器架构首轮测试，拟采台积电制程生产晶片。
-
-路透社报导，人工智慧（AI）运算需求激增，加上相关投资热潮，为辉达（Nvidia）及超微（AMD）等企业带来数十亿美元利润，也促使这些公司将资源集中于提升底层硬体效能。Bolt Graphics计划开发专注于非AI领域晶片，用于超级电脑进行的高精度运算，以及电子游戏所需的图形处理。
-
-知情人士表示，这轮募资仍在进行中，Bolt Graphics寻求的资金规模及公司估值都可能变动。
-
-这轮募资也可能测试投资人是否仍有意愿支持专注于非AI领域的晶片新创企业。
-
-Bolt Graphics执行长辛赫（Darwesh Singh）拒绝评论这轮募资金额及条件，但表示募资工作「已进行得相当深入」。
-
-这家矽谷新创公司初期将锁定较少数的应用市场，优先服务3D艺术创作者及游戏开发者等专业客群，未来再进一步拓展至游戏用图形处理器（GPU）市场。
-
-开发游戏晶片并不容易，原因在于新硬体必须具备足够的软体支援，才能相容于市面上数以千计的游戏作品。
-
-Bolt Graphics本周完成旗下Zeus GPU架构首轮测试，此架构主要针对物理模拟运算设计。Bolt计划采用台积电制程生产最终版晶片。
-
-Bolt Graphics表示，Zeus晶片设计用途包括科学运算、晶片设计及专业绘图渲染，其中部分工作需要使用称为FP64的双精度浮点运算，以执行精度要求较高的计算工作。
-
-过去10年，创投公司对投资晶片新创企业一直相对审慎，因为生产尖端晶片所需成本高昂，而且企业往往需要较长时间才能建立业务、实现商业化。Bolt投入晶片及硬体研发时间约6年。
-
-今年以来，AI相关投资持续吸引大量市场关注，半导体产业尤其明显。
-
-根据全球新创社群平台Crunchbase数据，2026年前5个月，投资人向半导体新创公司投入约107亿美元，照此速度，全年募资规模有望超越2025年全球半导体新创公司筹得的122亿美元。]]></description>
-  </item>
-  <item>
-    <title>IBM 推出 IBM Bob 自托管部署方案，助企业推进 AI 自主权与治理</title>
-    <link>https://infosecu.technews.tw/2026/10/16/ibm-launches-ibm-bob-self-hosted-deployment-solution-for-enterprise-ai-sovereignty-and-governance/</link>
-    <guid>https://infosecu.technews.tw/2026/10/16/ibm-launches-ibm-bob-self-hosted-deployment-solution-for-enterprise-ai-sovereignty-and-governance/</guid>
-    <pubDate>Fri, 16 Oct 2026 06:00:01 +0000</pubDate>
-    <description><![CDATA[IBM 近日正式推出IBM Bob的自托管部署（self-hosted deployment）模式，协助企业将 AI 软体开发能力引入本地资料中心、私有云、主权云以及 air-gapped 等环境，实现全流程自主管控。IBM Bob 是 IBM 打造的企业级智慧体软体开发平台，除了协助开发团队生成程式码，更将 AI 应用于软体交付与现代化的全流程。
-
-随著越来越多企业加大投入 AI 赋能的软体开发项目，对于管理敏感原始码、受监管数据或核心关键基础设施的机构而言，严格的安全与合规要求往往会限制其使用公有云 AI 平台。尤其对高度监管行业来说，推行 AI 的前提是完全掌控 AI 在何处运行、AI 可存取的数据范围，以及 AI 系统的治理。
-
-Futurum Research 的一份报告显示，随著企业在拓展生态合作的同时寻求 AI 自主，到 2030 年，混合部署与边缘部署在全球 AI 基础设施市场的占比将达到 44%；与此同时，公有云市场的占比预计将降至 46%。
-
-IBM Bob 的自托管部署方案将 AI 能力部署在客户自主管理的基础设施上，专为对数据驻留、安全策略、AI 治理、软体开发工作流程管控有更高要求的企业而设。市面上多数 AI 编程与软体开发工具需要企业把数据迁移到第三方服务平台，IBM Bob 自托管版本则支援企业在程式码、应用上下文和数据驻留环境内部部署 AI 软体开发与现代化能力。
-
-IBM 人工智慧与自动化业务总经理 Neel Sundaresan 表示：「企业级 AI 的未来取决于安全、治理与 AI 自主权。企业需要能在可控环境内运行的 AI，这在处理敏感程式码与受监管数据时尤为关键。IBM Bob 自托管部署方案支援企业直接在内部环境中部署智能体 AI，在享受技术红利的同时，守住安全、合规与营运控制权的底线。」
-
-多数企业的软体环境包含智慧财产权、专有原始码、受监管客户资讯等敏感数据。IBM 商业价值研究院的最新调研显示，68% 的受访高管认为，在跨区域环境中满足数据驻留与数据自主的要求，仍然挑战重重。
-
-借助 IBM Bob 灵活的部署选项，企业有望解决上述难题：让 AI 走向数据，而非迁移数据以赋能 AI。企业可在本地（包括air-gapped环境）运行已获授权的内置模型，也可透过混合架构使用合规的外部模型服务。
-
-目前，多数 AI 开发工具主要面向云原生环境，但在企业的现代化改造场景中，应用与数据往往分散在本地系统、私有云及其他受控环境。IBM Bob 的多环境部署特性，让企业得以跨基础设施、跨模型使用 AI 加速软体开发与系统现代化，协助其 AI 应用真正落地。
-
-如需了解 IBM Bob 自托管方案更多资讯，请浏览：https://www.ibm.com/new/announcements/ibm-bob-expands-to-self-hosted-environments-for-sensitive-and-mission-critical-enterprise-software]]></description>
-  </item>
-  <item>
-    <title>鸿海携手台湾储能业者，2027 年挑战 100MWh 建置规模</title>
-    <link>https://technews.tw/2026/10/16/foxconn-energy-storage/</link>
-    <guid>https://technews.tw/2026/10/16/foxconn-energy-storage/</guid>
-    <pubDate>Fri, 16 Oct 2026 05:54:02 +0000</pubDate>
-    <description><![CDATA[鸿海积极布局储能市场，宣布携手东电绿能、利佳兴业、盛达集团旗下盛齐绿能及晟瑞科技，共同开发符合政府国产电芯补助要求的表后储能电池系统，整合国产电芯、设备制造、系统整合及市场通路等资源，预计 2027 年上半年正式量产供货，并以 2027 年累计取得 100MWh 市场建置规模为首阶段目标。
-
-鸿海今日于 2026 台湾国际智慧能源周期间，与合作伙伴正式签署合作协议，将共同投入国产化表后储能电池系统的开发、生产、认证及市场推广，希望透过产业分工，建立从电芯、储能设备到终端应用的完整供应链。
-
-据合作规划，鸿海主要负责提供国产电芯，东电绿能、利佳兴业及盛达集团则结合既有的表后储能市场经验，整合系统整合商、设备代工、工程建置、专案执行及客户服务等能力，推动国产电芯导入实际应用场域。
-
-合作团队规划于 2026 年底前完成国产化储能直流柜开发，并于 2027 年上半年完成相关产品认证、量产准备及正式供货。初期规划的国产化储能电池系统单柜容量为 306kWh，可依照客户需求，以独立电池直流柜形式供应，也能进一步整合电力转换系统（PCS）及能源管理系统（EMS），提供完整的储能系统解决方案。
-
-随著企业对电力成本管理、再生能源整合及供电韧性的需求增加，表后储能逐渐成为工商业用户的重要投资项目。相较于电网侧储能，表后储能主要设置于用户端，可透过离峰充电、尖峰放电等方式调整用电负载，协助企业进行需量管理及电费成本优化。
-
-鸿海此次合作也将市场端的实际需求提前纳入产品开发，包括设备选型、储能系统安全设计、工程建置、EMS 控制策略及后续维运服务，希望缩短国产电芯从产品开发到实际市场应用的时间。
-
-未来合作团队将持续优化电池系统、电力转换及能源管理技术，扩大产品在工商业储能、再生能源搭配储能及需量管理等市场的应用，同时邀请更多储能业者加入合作，进一步提升国产储能设备的市场渗透率。]]></description>
-  </item>
-  <item>
-    <title>赴德州建 AI 供应链，经部：每座园区投资估最高 40 亿美元</title>
-    <link>https://finance.technews.tw/2026/10/16/taiwan-moea-texas-ai-supply-chain-4-billion-investment-per-park/</link>
-    <guid>https://finance.technews.tw/2026/10/16/taiwan-moea-texas-ai-supply-chain-4-billion-investment-per-park/</guid>
-    <pubDate>Fri, 16 Oct 2026 05:50:38 +0000</pubDate>
-    <description><![CDATA[为协助台厂赴美投资，经济部今天表示，将由政府与电电公会合作推动，规划采「业者出资、政府协助」的模式进行，单一园区投资规模约 20 亿至 40 亿美元。至于台湾是否已在德州取得园区用地，经济部则说，将于适当时机对外说明。
-
-经济部长龚明鑫在彭博（Bloomberg News）今天刊出的专访指出，将前往美国设立产业园区，这些园区将提供辉达主要生产伙伴台积电，以及包括鸿海科技集团在内的AI伺服器组装业者所需的中小型供应商赴美设厂，为相关企业的营运提供必要支援。
-
-龚明鑫说，这项计划将从德州的一座园区开始，建设成本最高可达40亿美元，未来每座园区的建设成本约为20亿至40亿美元，政府计划在美国设立不只一座园区，并希望建立长期、永续的供应链，让美国企业及当地劳工也能参与，而不仅只台湾企业参与。
-
-经济部表示，彭博报导提及的产业园区，是龚明鑫先前对外说明、由政府与电电公会合作推动的园区计划，相关投资将由民间业者共同参与，以「业者出资、政府协助」的模式进行，相关资金将由业者筹措，经济部与电电公会合作推动。
-
-至于彭博报导提及台湾目前已在德州取得兴建产业园区土地一事，经济部表示将于适当时机对外说明。
-
-台湾电机电子工业同业公会理事长刘扬伟日前表示，海外科学园区的评估地点包括美国亚利桑那州、德州，以及墨西哥、波兰、印度等地，盼协助台湾中小企业拓展海外市场，并媒合当地政府机构与企业，促进供应链合作。]]></description>
   </item>
 </channel>
 </rss>
