@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Fri, 16 Oct 2026 15:51:40 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 20:20:42 GMT</lastBuildDate>
+  <item>
+    <title>Artemis II Heat Shield After Splashdown</title>
+    <link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/</link>
+    <guid>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/</guid>
+    <pubDate>Fri, 16 Oct 2026 16:28:01 +0000</pubDate>
+    <description><![CDATA[Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of theOrion spacecraft’sheat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the heat shield performed as expected.
+
+Learn how Orion’s heat shield was examined.]]></description>
+  </item>
   <item>
     <title>I Am Artemis: Allison Mjoen</title>
     <link>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/</link>
@@ -213,49 +222,6 @@ NASA’s Ames Research Center in California’s Silicon Valley]]></description>
     <guid>https://science.nasa.gov/universe/nasa-welcomes-all-ages-experience-levels-for-space-apps-challenge/</guid>
     <pubDate>Thu, 15 Oct 2026 16:13:08 +0000</pubDate>
     <description><![CDATA[Registration is open for the 2026 NASA Space Apps Challenge, a two-day global event on Saturday, Nov. 14 and Sunday, Nov. 15, where teams work to create solutions inspired by NASA’s most ambitious exploration goals and making use of the agency’s free and open data. The annual challenge, often called a hackathon, is an intensive, collaborative problem-solving experience where participants tackle real-world challenges created by NASA subject matter experts.This year’s Space Apps Challenge collectively supports three major focus areas: returning humans to the Moon, preparing for missions deeper into the solar system, and expanding understanding of the universe. Participants do not have to be programmers. Students, scientists, engineers, designers, storytellers, technologists, and space enthusiasts of all ages and experience levels can contribute their skills."At NASA, science is for everyone, and we’re inviting the next generation to help tackle some of humanity’s most critical challenges in space through the NASA Space Apps Challenge,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Everything in NASA Science is interconnected, and this year, students from around the world can use NASA's powerful data sets to help us build the ultimate interplanetary survival guide - supporting the science that will enable astronauts to thrive on the Moon and, eventually, Mars, while also inspiring ideas that improve everyday life on Earth and in space for the benefit of all."Supporting lunar exploration, Artemis planningNASA continues to advance plans for a sustained human presence on the Moon through the Artemis program and Moon Base. Several of this year’s Space Apps challenges relate to analytical tools, operational considerations, and human‑system needs relevant to lunar missions. These include work related to surface operations at the Moon’s South Pole, the management of environmental constraints such as sunlight and communications windows, as well as approaches for evaluating the logistical and scientific demands of long‑duration lunar stays. Broader system‑level modeling challenges, such as those that simulate outpost operations or consider astronaut health and safety, mirror the complexity of planning for human activity on the lunar surface.Strengthening readiness for Mars, deepspaceNASA’s exploration strategy includes continued robotic exploration of the outer solar system and preparing for future human missions to Mars. Several challenges involve operational concepts for Martian surface activities, integrating data from multiple Mars missions, or reflecting the mission‑design trade‑offs required for deep‑space exploration. Others address fundamental concerns for long‑duration travel, such as monitoring physiological and behavioral health indicators, or examining how engineering and scientific choices shape mission execution in environments far from Earth.Some of these challenges also align with NASA’s broader exploration portfolio, which includes ongoing work on future missions to destinations such as Jupiter’s moon Europa and Saturn’s moon Titan. By simulating mission‑design decisions or evaluating environmental analogs on Earth, certain challenges offer frameworks related to how NASA prepares for complex operational scenarios throughout the solar system.Enhancing access to astrophysicsNASA’s astrophysics missions contribute to understanding the structure and history of the universe. In 2026, this includes active missions like Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer (SPHEREx), which is conducting a full‑sky spectral survey, as well as the continued development and deployment of observatories designed to investigate cosmic evolution and exoplanet, which are planets outside our solar system, populations.Challenges associated with these efforts focus on improving public access to mission data, designing tools that help visualize changes in the sky over time, and supporting broader engagement with the scientific products derived from thesemissions.Broader impact across NASA’s mission landscapeTogether, these challenges illustrate how NASA’s open data ecosystem enables gold standard science, by freely offering such a wide breadth of information and research. By engaging with the Space Apps event, the entire nation can interact with the kind of real‑world needs defined by the agency.Registration is available at theNASA Space Apps Challenge.Participants can join in one of 500+ local events, join a team, and select the challenge that they are most interested in addressing during the November hackathon.]]></description>
-  </item>
-  <item>
-    <title>NASA Awards Enable Research, Technology to Build Future Workforce</title>
-    <link>https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/</link>
-    <guid>https://www.nasa.gov/learning-resources/nasa-awards-enable-research-technology-to-build-future-workforce/</guid>
-    <pubDate>Thu, 15 Oct 2026 15:57:47 +0000</pubDate>
-    <description><![CDATA[NASA has selected 12 U.S. institutions to receive $12 million to accelerate academic research and technology development in support of the agency’s priorities for exploring the Moon, Mars, and deep space.
-
-Through NASA’s Minority University Research and Education Project (MUREP) Space Technology Artemis Research (M‑STAR) initiative, selected institutions will each receive up to $1 million to grow their scientific and engineering capabilities, enhance faculty and student engagement in aerospace research, and expand their ability to compete for future federal and commercial research awards.
-
-“We are excited to launch this new cohort of M-STAR investigators,” said Alicia Baturoni Cortez, MUREP program manager in the agency’s Office of STEM Engagement. “NASA investments in our Nation’s research institutions create real opportunities for students and faculty to build skills, knowledge, and infrastructure, while helping NASA close technology gaps for long-duration operations on the Moon and eventually, Mars.”
-
-As NASA enters a Golden Age of innovation and exploration, the M-STAR initiative supports the agency’s mission to develop innovative technologies that improve space transportation, human exploration, robotic discovery, and the growing space economy.
-
-The awardees and their projects are as follows:
-
-California State University, SacramentoAdaptive Vision-Language-Action Models for Resilient Multi-Robot Collaboration in Unstructured Planetary Environments
-
-University of Central Florida, OrlandoM-FAST: Multi-Fidelity Aerothermal Simulation & Testing for Artemis
-
-University of Hawaii at ManoaHI-STRIDE: Hawai’i Student Training in Radiation Instrumentation, Detection, and Exploration
-
-University of HoustonRODEO: Rover-carried On-surface Deployables for Exploration Operations
-
-University of Texas, San AntonioCharacterizing Physical and Mechanical Properties of Regolith at Cryogenic Conditions Using the Multi-Planetary Surface Simulator (MPS2)
-
-Kean University, Union, New JerseyIntegrating Terrain Understanding of AI Models With Robust Control for Autonomous Path Planning
-
-Virginia Commonwealth University, RichmondBNNT-Reinforced Multifunctional Composites for Radiation-Tolerant, Hydrogen-Compatible Nuclear Thermal Propulsion (NTP) Secondary Hardware
-
-Shaw University, Raleigh, North CarolinaProject ARES (Advanced Regenerative Environmental Systems): A Materials-by-Design Research and Workforce Development Platform for Environmental Control and Surface Infrastructure
-
-Howard University, WashingtonLumSHRS: Lunar monolithic Spatial Heterodyne Raman Spectrometer for Minirover In-Situ and Standoff Remote Sensing
-
-Prairie View A&M University, Prairie View, TexasFunctionally Graded Interfaces for Directed-Energy-Deposition Repair of Copper-to-Superalloy Propulsion Hardware: An Integrated AI/ML Design-to-Validation Research Capability at Prairie View A&M University
-
-University of New Mexico, AlbuquerquePOWER-Artemis: Extreme-Environment Batteries and Fuel Cells for Sustained Moon and Mars Operations
-
-Fayetteville State University, North CarolinaFrom Documents to Models: Method-Compliant Generative AI for Bootstrapping Model-Based Systems Engineering in NASA’s Artemis Enterprise (Doc2Model)
-
-NASA’s Office of STEM Engagement fosters an ecosystem across education, industry, and government to cultivate a well‑prepared talent pool, while the agency’s Research and Technology Mission Directorate develops the transformative space technologies that enable future NASA missions and ensure U.S. leadership in aerospace. Together, they accelerate mission readiness by aligning cutting edge technological innovation with the workforce needed to carry it forward.
-
-Minority University Research & Education Project]]></description>
   </item>
 </channel>
 </rss>
