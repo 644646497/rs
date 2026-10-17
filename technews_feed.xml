@@ -4,7 +4,49 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sat, 17 Oct 2026 14:31:05 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 18:00:07 GMT</lastBuildDate>
+  <item>
+    <title>Instagram 私讯也能作曲，Meta AI 新功能让文字一键变成歌</title>
+    <link>https://technews.tw/2026/10/18/instagrams-ai-music-creation-feature/</link>
+    <guid>https://technews.tw/2026/10/18/instagrams-ai-music-creation-feature/</guid>
+    <pubDate>Sat, 17 Oct 2026 16:00:51 +0000</pubDate>
+    <description><![CDATA[Instagram（IG）最近在私讯（DM）加入 AI 作曲功能，用户只要输入文字或自订歌词，再选择音乐风格，就可以由 Meta AI 生成歌曲，直接传送给朋友。新功能提供 Hip-hop、Trap 等与 Rap 相关的曲风，让普通讯息也能变成音乐作品。不过功能目前仍在逐步推出。
+
+外媒 Social Media Today 于 10 月 4 日报导，创作者 Jonah Manzano 发现 Instagram 私讯选单新增「Create a song」功能。用户进入 DM 对话后，开启输入栏旁的功能选单，选择「Create a song」，再按「Try it」，即可开始创作。
+
+Instagram 会要求用户输入文字或歌词，然后选择音乐风格。曝光的操作画面显示，曲风包括 Pop、Rock、Hip-hop、Trap、R&B、K-pop、Electronic 及 Jazz 等。完成设定后，Meta AI 便会按照输入内容产生音乐，供用户传送给朋友。
+
+如果想将日常对话变成 Rap，可以尝试输入短句或押韵歌词，再选择 Hip-hop、Trap 等曲风。不过现有资料只确认系统提供这些音乐风格，未能保证每次生成结果都会以 Rap 方式演唱。
+
+目前 Meta 尚未公开这项功能的完整支援语言名单。因此输入繁体中文能否顺利生成中文、广东话等亚洲语言演唱，以及发音、押韵和咬字是否自然，仍有待实际测试。
+
+功能现阶段主要用于在私讯内制作及分享短篇音乐。Meta 暂未公布所有地区的开放时间、完整收费安排，也未清楚交代生成歌曲能否下载、用于 Reels 或做商业用途。
+
+Snapchat 于 9 月 21 日公布 Lens+ 订阅功能更新，当中「Create Song」容许用户长按现有聊天讯息，再选择音乐风格，将讯息直接变成歌曲。这项功能属于付费 Lens+ 服务。
+
+Instagram 的做法略有不同，用户需要进入歌曲创作介面，自行输入文字或歌词，再选择曲风。现阶段未见 Meta 公布这项功能需要额外付费。
+
+另外 Instagram 的功能介绍画面也提醒，用户使用 Meta AI，即代表同意相关 AI 条款，与 AI 的互动资料将用于改善 Meta 的人工智慧系统。因此使用私人对话作为歌词时，应避免输入敏感个人资料。
+
+如果 Instagram 私讯选单暂时找不到「Create a song」，可以先更新应用程式。由于 Meta 尚未公布完整推出时间表，即使更新至最新版本，也未必能立即使用。
+
+（本文由Unwire HK授权转载；首图来源：Unsplash）]]></description>
+  </item>
+  <item>
+    <title>5 分钟转一圈，薇拉·鲁宾天文台寻获史上最大「超高速自转」小行星</title>
+    <link>https://technews.tw/2026/10/18/vera-rubin-observatory-finds-largest-ultra-fast-spinning-asteroid/</link>
+    <guid>https://technews.tw/2026/10/18/vera-rubin-observatory-finds-largest-ultra-fast-spinning-asteroid/</guid>
+    <pubDate>Sat, 17 Oct 2026 16:00:45 +0000</pubDate>
+    <description><![CDATA[美国薇拉·鲁宾天文台（Vera C. Rubin Observatory），利用太阳系天体观测资料，发现目前已知体积最大的超高速自转小行星。研究团队分析 9,417 颗小行星，辨识出 66 颗自转周期短于传统「自转屏障」（spin barrier）的候选天体，其中两颗直径超过 2 公里，却只需约 5 分钟便能完成一次自转。这项成果不仅刷新纪录，也为了解小行星的内部结构与物质强度提供新的线索。
+
+小行星的自转速度可透过亮度随时间的变化推算。由于小行星形状通常不规则，随著自转，其反射阳光的面积与方向改变，造成观测亮度周期性起伏。然而，大型巡天望远镜取得的影像往往分布不均、观测间隔不规则，可能使周期分析出现多个错误解。研究团队因此开发改良方法，针对每颗小行星个别选择傅立叶级数的阶数，以更灵活地拟合光变曲线。若无法可靠判定唯一周期，系统也会列出其他可能周期及其机率估计，降低误判风险。
+
+一般认为，直径大于约150公尺的小行星若由松散岩石碎块聚集而成，主要依靠微弱重力维持结构，通常难以承受短于2.2小时的自转周期，这项限制称为「自转屏障」。本次发现的两颗特殊天体，编号491384与566130，直径都超过2公里，自转一周却只需约5分钟。其中，491384的直径估计约2.53公里，自转周期约4.18分钟，成为目前已知最大的超高速自转小行星。如此快速的旋转若要避免天体解体，其内部必须具有足够的凝聚力，不能只依赖自身重力维持结构。
+
+研究成果目前已发表于预印本平台arXiv。研究团队指出，这套自动化分析方法有助于从大型巡天资料中可靠地测量更多小行星的自转周期。未来若能结合更多光度观测与其他物理特性分析，将有机会进一步推估小行星的内部强度、结构及形成演化历史，也能检验现有的小行星结构模型是否适用于这些极端快速自转的天体。
+
+（本文由台北天文馆授权转载；首图为示意图，来源：Unsplash）]]></description>
+  </item>
   <item>
     <title>日本核准台积电熊本二厂升级 3 奈米计划，预计 2028 年底投产</title>
     <link>https://finance.technews.tw/2026/10/17/japan-approves-tsmcs-kumamoto-fab-2-upgrade-plan-to-3nm-process/</link>
@@ -307,36 +349,6 @@ NueCell Bio 的专有技术堆叠平台 NueStack™整合了从 iPSC 开发、�
 不过他也特别提醒，一旦未来的科技装置真的能够影响整个大脑，如何建立严密的安全机制，将是技术走向大众时不可或缺的重要一环。
 
 （首图来源：Andrew D. Huberman, Ph.D.）]]></description>
-  </item>
-  <item>
-    <title>魏哲家吁多用 AI，Token 消耗越多、台积电越受惠</title>
-    <link>https://technews.tw/2026/10/17/tsmc-ceo-cc-wei-urges-ai-adoption-more-token-consumption-benefits-tsmc/</link>
-    <guid>https://technews.tw/2026/10/17/tsmc-ceo-cc-wei-urges-ai-adoption-more-token-consumption-benefits-tsmc/</guid>
-    <pubDate>Sat, 17 Oct 2026 05:00:18 +0000</pubDate>
-    <description><![CDATA[台积电董事长魏哲家 16 日出席台积电前技术长胡正明新书发表会，他分享自己使用 ChatGPT 准备致词稿的经验，并呼吁大家多用 AI，使用 AI 会消耗更多 Token，就会带动台积电晶片需求。
-
-台积电前技术长、中央研究院院士胡正明16日举办《拿出办法来》新书发表会，台积电董事长魏哲家出席活动，致词时表示，为了准备法说会，他紧张了一阵子。原本就预料股价下跌，但股价走弱仍让他心情不好，因此来到发表会让他稍微纾解一下。
-
-他说，本来准备很长的致词稿，有很多话想对胡正明说，因此请秘书协助将稿子整理成中文。但秘书拒绝，还反问「为什么不用ChatGPT？」于是他使用手机口述，再用ChatGPT润饰。
-
-魏哲家指出，ChatGPT非常好用，呼吁大家多用AI。他笑称，使用AI就会消耗更多Token，用到更多台积电晶片。
-
-魏哲家表示，目前正值选举期间，胡正明书中提到，国家应该把每位候选人说过的话、做过的事调查清楚、整理成摘要，让选民能有所取舍。他认为，这在台湾很不容易，因为每个人都想讲自己的优点，不愿意谈缺点，他强调自己没有批评任何人，只是很佩服胡正明提出这样的观点。]]></description>
-  </item>
-  <item>
-    <title>与三菱电机签订策略联盟，鸿海 235 亿元买股权经营汽车设备事业</title>
-    <link>https://finance.technews.tw/2026/10/17/foxconn-to-acquire-shares-for-nt23-5-billion/</link>
-    <guid>https://finance.technews.tw/2026/10/17/foxconn-to-acquire-shares-for-nt23-5-billion/</guid>
-    <pubDate>Sat, 17 Oct 2026 04:00:16 +0000</pubDate>
-    <description><![CDATA[鸿海透过旗下投资管理子公司 Lin Yin International Investment Co., Ltd.（以下简称「Lin Yin」）与三菱电机株式会社（以下简称「三菱电机」）宣布，双方将正式签订策略联盟，共同经营汽车设备事业。透过本次合作，双方携手发展次世代移动解决方案，并强化日本汽车产业的永续成长。
-
-根据合作协议，三菱电机将移转旗下负责汽车设备事业的三菱电机移动株式会社（Mitsubishi Electric Mobility Co., Ltd.）50%股权予 Lin Yin，未来由双方共同经营三菱电机移动。此次股权移转交易金额预计为1,150亿日圆。根据股权移转协议，标的事业的企业价值为3,200亿日圆，股权价值为2,300亿日圆，本次交易价格即依据股权价值计算，对应移转之50%股权。
-
-本次股权移转仍须符合相关契约条件，包括取得竞争法及其他适用法令所要求之主管机关核准与许可。待相关条件均获满足后，预计于2027年10月1日完成股权移转交易。
-
-透过此次共同经营，双方将结合三菱电机移动的技术与研发能力，尤其是在电子动力系统、软体及车辆控制等领域的优势，以及鸿海在速度、规模与市场落地方面的能力。双方将合作打造源自日本的高品质电动车平台（基础架构），共同推动次世代移动解决方案的普及与发展。
-
-此次策略联盟将把「日本制造」长期淬炼的先进技术与品质，转化为次世代移动领域的全新价值，进一步强化日本国内产业基础，并支持汽车产业的永续成长。展望中长期，双方将致力把日本的技术与品质推向全球市场，进一步提升「Made in/by Japan」的价值，并向全球展现日本制造业的全新可能性。]]></description>
   </item>
 </channel>
 </rss>
