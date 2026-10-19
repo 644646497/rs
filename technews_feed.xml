@@ -4,7 +4,85 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 19 Oct 2026 17:50:52 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 23:10:37 GMT</lastBuildDate>
+  <item>
+    <title>Windows 11 恢复工作列位置调整，前主管批左侧自动隐藏及尺寸设定仍有限制</title>
+    <link>https://technews.tw/2026/10/20/windows-11-taskbar-still-cant-be-freely-resized/</link>
+    <guid>https://technews.tw/2026/10/20/windows-11-taskbar-still-cant-be-freely-resized/</guid>
+    <pubDate>Mon, 19 Oct 2026 23:10:17 +0000</pubDate>
+    <description><![CDATA[微软在 Windows 11 推出约 5 年后恢复工作列位置调整功能，让用户选择将工作列放在画面顶部、底部、左侧或右侧，但不同位置仍有功能限制，而曾负责微软 Windows 及 Bing 业务、现任 Shopify 技术总监的 Mikhail Parakhin 于 10 月 16 日公开批评，左侧工作列仍无法配合他惯用的自动隐藏及尺寸设定。
+
+Mikhail Parakhin 在 X 表示，自己终于安装 Windows 11 26H2，原本十分期待左侧工作列回归，却发现自动隐藏功能无法运作，也不能调整大小，对他而言仍无法正常使用，因此他点名 Windows 负责人 Pavan Davuluri，要求改善相关功能。
+
+Finally installed 26H2 update of Windows, was so looking forward to the “taskbar on the left" returning – a no-go 🙁 Autohide doesn’t work and I can’t adjust the size, so, not usable yet. @pavandavuluri, c’mon, man, please make it real!
+
+— Mikhail Parakhin (@MParakhin)October 16, 2026
+
+Mikhail Parakhin 主要批评左侧工作列未能满足个人使用需求，并非指工作列完全无法运作，而操作说明也指出，目前只有底部工作列支援自动隐藏，顶部及左右两侧均不支援。
+
+微软官方 KB5120998 更新文件确认，Windows 11 新增小尺寸工作列选项，可同时缩小图示及工作列高度，但官方文件明确指出，小尺寸工作列及搜寻框目前只支援顶部与底部位置，相关功能并不适用于左右两侧。
+
+另一项差异是用户能否手动调整工作列大小，之前就有测试指出，Windows 10 可让用户解锁工作列后拖曳边缘调整高度 / 宽度，但 Windows 11 新版本仍未提供自由调整。用户也不能直接拖曳工作列改变位置，必须进入「设定」内的「个人化」、「工作列」及「工作列行为」，再选择显示位置。
+
+工作列位置调整功能并非随 Windows 11 26H2 才首次推出，微软早于 2026 年 8 月 27 日为 24H2 及 25H2 推出 KB5120998 预览更新，加入工作列位置调整及小尺寸选项。＠IT 报导指出，相关功能会在 9 月累积更新陆续推出。
+
+微软采取分阶段方式推出相关功能，因此不同装置可能在不同时间取得更新，即使用户已安装更新，也不代表所有电脑都会立即出现相同设定。公司于 10 月 15 日在官方 Windows 部落格确认，Windows 11 正增加工作列位置调整等个人化选项。
+
+工作列位置调整功能回归，不代表 Windows 11 已全面恢复 Windows 10 的工作列操作方式，对需要将工作列放在侧边、使用自动隐藏功能及自由调整尺寸的用户而言，目前版本仍有明显限制。]]></description>
+  </item>
+  <item>
+    <title>锁定高速无人机，Zone 5 公开可重复使用拦截器 Eclipse</title>
+    <link>https://technews.tw/2026/10/20/zone5-technologies-unveiled-new-reusable-drone-interceptor-eclipse/</link>
+    <guid>https://technews.tw/2026/10/20/zone5-technologies-unveiled-new-reusable-drone-interceptor-eclipse/</guid>
+    <pubDate>Mon, 19 Oct 2026 23:00:54 +0000</pubDate>
+    <description><![CDATA[反无人机市场竞争持续升温，美国国防科技公司 Zone 5 Technologies 近日在美国陆军协会（AUSA）年会暨展览上，首度公开新型拦截器 Eclipse，主打可重复使用与模组化酬载，希望为拦截高速无人机提供成本更低的选项。
+
+Zone 5 执行长艾克斯（Thomas Akers）表示，目前市场产品逐渐集中在小型拦截器，但面对性能更强、速度更快的无人机，这类系统也开始遭遇挑战，因此公司选择开发体型较大、可搭配不同酬载的拦截载台。
+
+不过 Eclipse 的尺寸仍然算是相当紧凑，展场展示模型长约 99 公分、宽约 81 公分。依照公司公布的资料，Eclipse 可垂直起降，飞行速度超过 200 节，相当于时速约 370 公里，航程则超过 48 公里。
+
+艾克斯指出，Eclipse 可搭载高功率微波武器酬载，透过破坏无人机电子设备使其失效，也能改用动能酬载直接击落目标，让同一载台依任务需求采取不同拦截方式。
+
+目前 Eclipse 仍在研发阶段，艾克斯预估还需要约半年才能进入生产，初期将以美国市场为主，目标是每月制造数百架，至于外界关注的价格，他表示不同酬载将影响最终成本，因此尚未透露具体数字。
+
+Eclipse 也是 Zone 5 补齐分层反无人机产品线的重要一环，该公司已有搭载枪械的 Paladin 无人机系统，以及 White Spike 防空飞弹，希望透过不同武器组合，因应各种无人机威胁。
+
+除了防空拦截，Zone 5 也积极布局低成本长程打击武器，旗下「锈蚀匕首」（Rusty Dagger）巡弋飞弹已出口乌克兰，并取得美国国防部订单，产品涵盖攻击与防御两大领域。
+
+挪威军工大厂康斯堡（Kongsberg）已于今年 6 月完成收 Zone 5 的 90% 股权收购，公司仍由艾克斯与原管理团队领导，并维持独立子公司形式，艾克斯表示，加入康斯伯格后，Zone 5 取得国际资源的能力明显提升，虽然在美国维持独立营运，对外拓展全球市场时则会以康斯堡品牌共同布局。
+
+这项整合也让 Zone 5 能接触更多供应商，将供应链拓展至美国以外，艾克斯指出，公司未来仍将聚焦低成本巡弋飞弹，以及对抗第一至第四类无人机的技术，目标是建立每年生产数千枚飞弹的能力，并运用康斯堡集团资源持续改善产品性能。
+
+除了美国海军对海打击与五角大厦货柜化弹药计划，美国空军的「低成本量产飞弹家族」（Family of Affordable Mass Missiles，FAMM）也是 Zone 5 的重要商机。空军规划未来数年透过多年期合约采购数万枚飞弹，供应商包括 Zone 5、Anduril 与 CoAspire，但相关数量仍属采购规划。
+
+然而，大量采购能否落实，仍取决于预算。美国空军在 2026 会计年度运用《大而美法案》资金启动采购后，2027 会计年度仍寄望透过新一轮预算协调立法取得 FAMM 采购经费，但法案能否成形仍有变数。
+
+艾克斯警告，如果多年期采购无法依照原订时程推进，将向产业释出负面讯号，一旦拨款不足，厂商势必缩减投入，影响也不会仅限于 FAMM。对积极扩充产能的军工企业而言，稳定且可预期的订单，仍是低成本武器能否真正大量生产的关键。]]></description>
+  </item>
+  <item>
+    <title>陈立武：中国晶片制造落后不大，英特尔正积极建构与台积电平起平坐业务</title>
+    <link>https://finance.technews.tw/2026/10/20/chinas-chip-manufacturing-technology-is-not-far-behind/</link>
+    <guid>https://finance.technews.tw/2026/10/20/chinas-chip-manufacturing-technology-is-not-far-behind/</guid>
+    <pubDate>Mon, 19 Oct 2026 23:00:39 +0000</pubDate>
+    <description><![CDATA[英特尔（Intel）执行长陈立武（Lip-Bu Tan）在接受日经亚洲（Nikkei Asia）专访时指出，针对美中两国的晶片制造实力，他认为中国现阶段与美国的差距落后并不大。
+
+在美国实施贸易制裁下，中国企业无法取得最新的极紫外光（EUV）微影曝光设备，这使得中国难以像台积电（TSMC）与英特尔一样，透过微缩电路来显著提升晶片效能与降低功耗。当被问及在缺乏 EUV 设备的情况下，中国是否能在未来 5 至 10 年内于先进晶片制造领域追上美国时，陈立武给出了简短的回应，就今天来看，我认为并没有落后那么远。
+
+陈立武强调，无论是来自美国还是中国的半导体企业，都各有其优势与劣势。他指出，满足客户需求是任何公司的首要任务，最终能够为企业与客户提供最佳价值的产品，将决定谁能在市场竞争中获得成功。
+
+然而，关于中国半导体技术的追赶进度，全球产业领袖意见不一。其中，特斯拉创办人马斯克（Elon Musk）曾主张中国最快可在 2 至 3 年内克服晶片制造的限制。至于，蔡司（Zeiss）半导体业务执行长则认为在最新 EUV 晶片制造技术上，中国落后美国 15 年是较为合理的评估。
+
+除了美中局势，身为半导体业界经验最丰富的高层之一，陈立武也在专访中探讨了英特尔内部的重组努力。他表示，英特尔正积极建立能与全球最大合约晶片制造商台积电（TSMC）平起平坐的晶圆代工业务。陈立武强调，晶圆代工业务有潜力成为英特尔未来的成长引擎，但必须保持耐心才能确保顺利落实。]]></description>
+  </item>
+  <item>
+    <title>AI 算力浪潮与地缘双轨演进！2027 年半导体设备竞格全解析</title>
+    <link>https://technews.tw/2026/10/20/ai-computing-power-wave-geopolitical-dual-track-evolution-2027-semiconductor-equipment-competitive-landscape-analysis/</link>
+    <guid>https://technews.tw/2026/10/20/ai-computing-power-wave-geopolitical-dual-track-evolution-2027-semiconductor-equipment-competitive-landscape-analysis/</guid>
+    <pubDate>Mon, 19 Oct 2026 23:00:35 +0000</pubDate>
+    <description><![CDATA[此文与拓墣产业研究院合作，转载内容为部分精华，欲购买完整报告请洽拓墣官网
+
+摩尔定律单晶片微缩效益递减，使 CoWoS、Hybrid Bonding 等先进封装成为延续算力的关键，测试复杂度急剧上升，带动 ATE、SLT 设备由单纯的瑕疵拦截，转型为具备极端热控（1000W+）、万安培电流能力与动态数据回馈的智慧生产枢纽。本篇文章将带你了解 :后段封测从「成本中心」跃升为「算力效能的战略核心」先进微影呈现「Low-NA规模化、High-NA实线验证」双轨策略中国半导体产业走向「后段封装补偿」与「成熟制程产能壁垒」双轨防御]]></description>
+  </item>
   <item>
     <title>三大电信携手高检署打诈，导入 AI、大数据提前辨识诈骗风险</title>
     <link>https://infosecu.technews.tw/2026/10/19/telecom-operator-scam/</link>
@@ -275,92 +353,6 @@ TrendForce表示，由于AI资料中心周边应用创造大幅需求，全球�
 TrendForce认为，此波光纤供给紧张源自于AI资料中心相关新增需求持续扩大，与过去电信建设周期有所不同。考量短期内供应量难以快速增加，但需求量稳健成长，电信业者与大型基础设施业者提前透过长约锁定光纤资源的趋势将更加普遍。
 
 （首图来源：Flickr/Groman123CC BY 2.0）]]></description>
-  </item>
-  <item>
-    <title>投资人不买单？长鑫存储发表转亏为盈财报却股价下跌 6.5%</title>
-    <link>https://finance.technews.tw/2026/10/19/changxin-memory-announced-a-return-to-profitability-but-its-stock-price-fell-6-5/</link>
-    <guid>https://finance.technews.tw/2026/10/19/changxin-memory-announced-a-return-to-profitability-but-its-stock-price-fell-6-5/</guid>
-    <pubDate>Mon, 19 Oct 2026 08:00:27 +0000</pubDate>
-    <description><![CDATA[中国记忆体晶片制造商长鑫存储（CXMT）公布2026年前九个月业绩预告，受惠于AI算力需求爆发推升全球DRAM价格，预期将大幅扭亏为盈，净利润最高可达人民币1,325亿元。然而，该公司股价在消息公布后的周一交易日中逆势下跌6.5%。
-
-长鑫存储于上周发布的财报文件中预测，2026年1月至9月的股东应占净利将介于人民币1,310亿元至1,325亿元（约195.8亿美元），相比2025年同期的52.8亿元净亏损，达成了强劲转亏为盈的情况。而且，在整体营收方面，公司预计前九个月营收将达到人民币2,650亿元至2,700亿元，相较于2025年同期大幅增加2,329亿元至2,379亿元。
-
-长鑫存储指出，业绩大幅改善的主要原因在于自2025年下半年以来，全球对人工智慧（AI）算力的需求快速成长。这股需求浪潮带动了全球DRAM（动态随机存取记忆体）市场，导致市场出现供应短缺并引发显著的价格上涨，进而推升了公司的获利表现。
-
-随著业务成长，长鑫存储在全球记忆体晶片市场的地位持续提升，开始向三星电子（Samsung Electronics）、SK海力士（SK Hynix）以及美光科技（Micron Technology）等国际巨头发起挑战。根据Counterpoint Research上个月公布的最新数据显示，长鑫存储在全球DRAM营收中的市占率已从一年前的5%显著成长，在2026年第三季达到了10%。]]></description>
-  </item>
-  <item>
-    <title>补足防空弹药缺口，Anduril 计划在欧洲生产 Steelfin 拦截飞弹</title>
-    <link>https://technews.tw/2026/10/19/anduril-plans-to-produce-steelfin-in-europe/</link>
-    <guid>https://technews.tw/2026/10/19/anduril-plans-to-produce-steelfin-in-europe/</guid>
-    <pubDate>Mon, 19 Oct 2026 07:58:25 +0000</pubDate>
-    <description><![CDATA[全球防空拦截弹供不应求，各国政府积极扩充产能之际，美国国防科技公司 Anduril 欧洲区副总裁莫兰（Brian Moran）近日接受采访时表示，日前发表的「钢鳍」（Steelfin）拦截弹，未来有机会在欧洲生产，并希望与波兰官方及产业界展开合作。
-
-俄乌战争与波斯湾地区战事大量消耗防空拦截弹，不仅让各国库存吃紧，也造成交货延宕，莫兰指出，Anduril 将 Steelfin 定位为互补型系统，可与爱国者等现役飞弹防御系统搭配，提供价格更实惠的拦截选项，该公司也一定会考虑与欧洲伙伴及客户洽谈这项产品。
-
-Anduril 于 10 月 12 日公布 Steelfin，采推进器搭配终端拦截器的二节式设计，可视任务调整推进器与寻标器组合，目标价格约为爱国者 PAC-3 MSE 的三分之一，并能沿用爱国者等既有发射器，依规划将在 2027 年展开飞行测试。
-
-Anduril 在波兰的布局并非从零开始，该公司今年 7 月已与波兰国营军备集团（PGZ）及旗下位于比得哥煦（Bydgoszcz）的第 2 军用航空工厂（WZL-2）签署合作协议，先在当地组装、再逐步生产数千枚地面发射型 Barracuda-500M「梭鱼」巡弋飞弹，并将陆续提高波兰与欧洲零组件比重。
-
-莫兰认为 Barracuda 的合作经验可望为更多制造专案铺路，并形容与 PGZ 的合作相当顺利，PGZ 先前曾表示，在地生产可望让 Barracuda 符合欧盟「欧洲安全行动」（SAFE）计划的采购资格，其他欧盟国家也能借此购买。
-
-波兰国防支出占经济规模比重名列北约前茅，近年积极扩大国内军工产能，降低对外国供应商的依赖，莫兰透露 Anduril 目前也与波兰国防部及其他政府机构洽谈，各方讨论重点在于兼顾在地生产、交货速度与波兰军方的特定需求。
-
-外国军工企业前进波兰的案例不只 Anduril，挪威康斯伯格（Kongsberg）日前宣布将投资逾 2 亿兹罗提（约 5,100 万美元），在波兰北部兴建反无人机系统工厂，最快 2028 年上半年开始量产。
-
-从 Barracuda 到 Steelfin 可看出，Anduril 希望以在地生产作为打入欧洲市场的敲门砖，不过 Steelfin 仍须通过 2027 年的飞行测试验证性能，欧洲各国如何在产业主权、成本与交货速度之间取舍，也将影响这类跨国生产合作能否顺利落地。]]></description>
-  </item>
-  <item>
-    <title>Grok 代购遭亚马逊阻挡，马斯克开玩笑称要打造竞争对手</title>
-    <link>https://technews.tw/2026/10/19/amazon-blocks-grok-bot-shopping-agent/</link>
-    <guid>https://technews.tw/2026/10/19/amazon-blocks-grok-bot-shopping-agent/</guid>
-    <pubDate>Mon, 19 Oct 2026 07:55:21 +0000</pubDate>
-    <description><![CDATA[xAI（SpaceXSI）推出的 AI 代理 Grok Bot 可代用户上网购物，但有 X 用户日前反映，Bot 在亚马逊下单时被阻挡。马斯克（Elon Musk）在 X 回应时半开玩笑说「也许我们该做出一个亚马逊的竞争对手」，让 AI 代理购物引发的平台之争再次浮上水面。
-
-Grok Bot 是 xAI 今年 8 月推出的 AI 代理，即可以自行操作电脑、代用户完成工作的 AI。每个 Bot 有自己的云端电脑，会登入用户已在使用的工具及网站，从头到尾完成多步骤工作，只在需要批准时才找用户。
-
-不过有 X 用户近日反映，Grok Bot 已无法在亚马逊下单。其中一人贴出截图，显示亚马逊警告「未经授权的 AI 代理」持续存取违反其使用条款。截至发稿时，Amazon 都尚未公开确认曾封锁 Grok Bot。
-
-Maybe we should start a competitor to Amazon 🤔
-
-— Elon Musk (@elonmusk)October 15, 2026
-
-引发讨论的贴文作者表示，自己有一个 Grok Bot 专门处理亚马逊退货，所以正密切留意事件。他又问其他网友是否会为了 Bot 改换别的线上购物，并建议 X 推出自家电商「X Shop」。
-
-马斯克最初的回应颇为轻描淡写，建议用户让 Grok Bot 上网找最划算的卖家，又说自己的 Bot 直接在 LEGO 官网买乐高没有问题，其后再发文强调购物网站不只亚马逊一家。
-
-之后他引用该用户的贴文，在 X 写道「Maybe we should start a competitor to Amazon」（也许我们该做一个亚马逊的竞争对手）。这仍然只是一句社交媒体发言，他没有透露若当亚马逊对手会是什么模样，也没有交代是否认真考虑。
-
-X 目前没有购物平台，只有今年 7 月底开始在美国推出的支付服务 X Money，提供钱包及 Visa 签帐金融卡。
-
-Grok 并非第一个被指在亚马逊碰壁的 AI 代理。亚马逊在 9 月切断 Meta 个人 AI 代理 Muse 代顾客在亚马逊购物的存取，事前曾要求 Meta 自愿把亚马逊排除在外但不成功。
-
-亚马逊指 Meta 没有事先通知 Muse 会存取其商店，Muse 浏览时也没有表明身分，而且似乎会获取并储存顾客的登入资料，引起隐私及资安疑虑。之后透过 Muse 到亚马逊购物的用户，看到的就会是「未经授权的 AI 代理」警告。
-
-亚马逊发言人当时表示，道理相当简单：代顾客向其他商户购物的第三方应用程式，应该公开运作，并尊重服务供应商是否参与的决定。亚马逊过去一年也曾因 Comet 浏览器控告 AI 搜寻公司 Perplexity，自家则推出会表明身分的代理购物功能「Buy for Me」。
-
-亚马逊在 Muse 事件表明的立场很清楚：AI 代理要表明身分，是否让它们进场由平台决定。马斯克的回应则是叫用户让 Bot 到别处购物，两者态度南辕北辙。
-
-并非所有电商都和亚马逊做法相同。亚马逊切断 Muse 的同一星期，网购平台 Shopify 却公开与 Muse 合作，在 Shopify 商店提供代理式 Shop Pay 结帐。由此推论，AI 代理购物正成为电商平台与 AI 公司对垒的新战场；如果大平台继续封锁，AI 公司或许会转而与其他商家及通路合作。
-
-对一般用户而言，事件目前只涉及使用 Grok Bot 在亚马逊代为下单的人；「X Shop」只是用户的建议，要当亚马逊的对手也只是一句玩笑话，并非已公布的计划。
-
-（本文由Unwire HK授权转载；首图来源：Unsplash）]]></description>
-  </item>
-  <item>
-    <title>从「病历笔记」精准揪出隐藏病症，医疗 AI 新创 Healthleap 获 3,800 万美元融资</title>
-    <link>https://technews.tw/2026/10/19/healthleap-secures-tens-millions-funding/</link>
-    <guid>https://technews.tw/2026/10/19/healthleap-secures-tens-millions-funding/</guid>
-    <pubDate>Mon, 19 Oct 2026 07:48:28 +0000</pubDate>
-    <description><![CDATA[据外媒报导，致力于运用 AI 从病历中找出可能患有未确诊疾病住院病患的医疗新创 Healthleap，近期宣布完成总额达 3,800 万美元的种子轮与 A 轮融资。其中 800 万美元种子轮由红杉资本（Sequoia Capital）与 First Round Capital 共同领投，3,000 万美元 A 轮由 Hummingbird Ventures 领投，公司目前并未揭露具体估值。
-
-Healthleap 由 Jemima Meyer 与 Josiah Meyer 兄妹档于 2022 年在南非创立。最初，这是一款 Jemima 专为营养师开发的临床营养工具，随后转型为更全面的通用型平台，锁定并及早揪出住院病患中常被遗漏的病症，如营养不良或谵妄症（delirium）。执行长暨共同创办人 Josiah Meyer 表示：「病患的病历包含两种数据。检验数据、体重和生命征象属于结构化栏位，但最关键的征兆往往写在临床人员的笔记里，例如食欲不振、近期体重下降、肌肉流失与吞咽困难。」
-
-为精准捕捉这些资讯，Healthleap 平台直接接入医院的电子病历系统，运用语言模型从笔记中撷取关键字，再连同检验报告与生命征象等结构化数据输入风险模型中运算。Josiah 说明，系统每晚会自动分析每位成年住院病患的纪录，并在隔天早上将「风险分数」直接汇入照护团队既有的工作流程中。不过公司也强调，软体并不直接为病患做出「诊断」，仅标示出需要医疗团队额外审视的高风险项目。
-
-在过去一年内，Healthleap 的合作医院数量从 3 家迅速成长至 50 多家，客户名单涵盖了 Penn Medicine、Cedars-Sinai、Intermountain、Houston Methodist 与 Emory Healthcare 等知名医疗机构，Josiah 称同期营收成长超过 10 倍。目前，除了筛检营养不良与谵妄症外，针对吸入性肺炎、压疮以及郁血性心衰竭再住院风险等预测程式，也正进行进一步的临床验证。
-
-在商业模式上，Healthleap 采医院登记病床数计价并签署三年合约，同时搭配「成果导向」的计价策略。Josiah 宣称，迄今每家客户的实际投资报酬率（ROI）都在 5 倍以上。以宾州大学医院（Hospital of the University of Pennsylvania）为例，其营养不良筛检计划为院方带来了年化高达 2,380 万美元的财务效益，其中 630 万美元来自额外增加的医疗给付，1,750 万美元则归功于病患住院天数的缩短。未来，Healthleap 将把新资金投入工程、产品开发、销售及客户成功团队的扩编，目标是将涵盖范围扩展至 40 种以上的主要病症，并进一步跨足门诊与居家照护领域。]]></description>
   </item>
 </channel>
 </rss>
