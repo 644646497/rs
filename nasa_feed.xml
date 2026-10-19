@@ -4,6 +4,190 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Mon, 19 Oct 2026 11:43:31 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 18:04:30 GMT</lastBuildDate>
+  <item>
+    <title>NASA’s Simulated Mars Crew Marks One Year Inside Habitat</title>
+    <link>https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/</link>
+    <guid>https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/</guid>
+    <pubDate>Mon, 19 Oct 2026 18:01:51 +0000</pubDate>
+    <description><![CDATA[The four crew members in NASA’s simulated Mars mission have spent the past year living and working in isolation in a confined habitat at NASA’s Johnson Space Center in Houston. For the past 365 days, the Crew Health and Performance Exploration Analog (CHAPEA) Mission 2 crew members have operated as though they were on the Red Planet, growing crops, managing limited resources, navigating communication delays, and conducting suited extravehicular activities on a simulated Martian surface.
+
+Crew members include Ross Elder, mission commander; Ellen Ellis, medical officer; Matthew Montgomery, science officer; and James Spicer, flight engineer. They entered their 1,700 square foot 3D-printedhabitatOct. 19, 2025. Leading up to the one-year mark of their 378‑day mission, science teams at NASA prepared to process health and performance data collected on the crew. This critical data can help NASA balance priorities and develop methods that counter spaceflight risks during future long-duration missions on Mars.
+
+“We are extremely proud of the crew for their commitment and achievements over the last year on such a fast-paced, highly demanding mission,” said Grace Douglas, CHAPEA principal investigator. “The entire CHAPEA team is excited to congratulate the crew in person.”
+
+The crew will exit their habitat on Saturday, Oct. 31, to conclude their mission. They will have a chance to reconnect with their families, who they’ve only spoken with via email over the course of their mission with a Mars-like communication delay. The crew will then begin two weeks of post-mission evaluations and debriefs with NASA scientists.
+
+These debriefs and evaluations will help scientists learn what it takes for crews to adapt to the routines and demands of daily life on long-duration missions, giving NASA insight into what future explorers may need to stay healthy, productive, and connected during missions far from Earth.
+
+For example, data could shed light on how limited food and exercise systems will influence NASA’s ability to achieve mission objectives, including spacewalks on the surface of Mars. Some data also could help NASA foster autonomy and build decision-making support systems that best aid crew with communication delays lasting up to 45 minutes each way.
+
+“This mission has been incredibly valuable in starting to teach ushow to understand requirements for year-long missions, including medical and psychological care, via communication delays,” said Michael Stenger, chief scientist for NASA’s Human Research Program. “When combining this Mars-realistic mission analog with a suite of physiological, psychological, and performance measures in a rigorously controlled environment, we’ll be able to translate the knowledge from these experiences to Moon Base and beyond.”
+
+To watch the CHAPEA Mission 2 egress ceremony on Oct. 31, visit:
+
+NASA’sHuman Research Programpursues methods and technologies to support safe, productive human space travel. Through science conducted in laboratories, ground-based analogs, commercial missions, the International Space Station and Artemis missions, the program scrutinizes how spaceflight affects human bodies and behaviors. Such research drives the program’squestto innovate ways that keep astronauts healthy and mission ready as human space exploration expands to the Moon, Mars, and beyond.]]></description>
+  </item>
+  <item>
+    <title>Instrumentation</title>
+    <link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-instrumentation/</guid>
+    <pubDate>Mon, 19 Oct 2026 16:37:45 +0000</pubDate>
+    <description><![CDATA[To measure airflow and sound, research teams at the NASA Glenn Research Center use special instrumentation like particle image velocimetry, hot wire anemometry, Raman spectroscopy, microphones in phased arrays or continuously rotating rakes. The global aviation noise reduction community relies on data from NASA GRC experiments to validate theory and noise prediction software.
+
+Hear an annoying tone from your turbofan engine? Engineers might prescribe an advanced liner or specially tuned active noise control system to quiet it down.
+
+To get it right, though, more information about the modal content of the tone is needed. This kind of data can’t be measured with a stationary microphone, which is why NASA Glenn engineers pioneered procedures using rotating microphones in the 1990s.
+
+Rotating Microphone Rakes have been used by NASA Glenn researchers in a wide variety of tests ranging from low-speed proof of concept tests in the Advanced Noise Control Fan Rig and 9- by 15-Foot Low Noise Wind Tunnel to full-scale turbofan engine ground tests.
+
+In a phased array system, microphones are placed in a 1D, 2D or 3D arrangement and when sound measurements from these microphones are properly processed, noise sources can be pinpointed.
+
+NASA Glenn has an Array48 microphone system that has been used extensively to locate noise sources in scale-model jet flows, a counter-rotating open rotor fan model, and even a full-scale F404 military engine. Through NASA funding, a method has been developed to use microphones embedded in the fan duct of an engine to determine the location of noise sources on the rotating blades.
+
+We know that annoying tone noises can be created by periodic disturbances, such as when the  wake from a fan blade interacts with a downstream stator vane.  We also know that broadband noise is generated when an aircraft engine ingests turbulent air.  Therefore, we must be able to record detailed velocity measurements of the air passing through an experimental propulsor so we can identifying noise sources and work to mitigate them. We must use special instrumentation like hotwire probes and Laser Doppler Velocimeters (LDV) to measure the air velocity upstream, downstream, and between the rotor and the stator of an experimental propulsor.   Plots of the velocity measurements can be made which allow us to visualize the disturbances that the rotor created.  Hotwire and LDV data are routinely used to validate calculations used to estimate noise from turbofan engines.
+
+Need to reach us for more information about our research, software, or data?  Get in touch via the link below.
+
+NASA’s Glenn Research Center at Lewis Field in Cleveland and the Neil Armstrong Test Facility in Sandusky, Ohio, house ground…]]></description>
+  </item>
+  <item>
+    <title>Martian Dawn</title>
+    <link>https://www.nasa.gov/image-article/martian-dawn/</link>
+    <guid>https://www.nasa.gov/image-article/martian-dawn/</guid>
+    <pubDate>Mon, 19 Oct 2026 16:03:51 +0000</pubDate>
+    <description><![CDATA[NASA’sCuriositycaptures the dawn on Mars – as well as elongated ridges formed by wind erosion, or yardangs – in this close-up from apanoramareleased on Oct. 6, 2026. This is the most detailed view yet of distant, wind-carved Martian cliffs, highlighting features the mission’s scientists have long been waiting to see up close.
+
+The panorama was captured by Curiosity’sMastcamon Aug. 11, the 4,982nd Martian day, or sol, of the mission, and comprises six individual images that were stitched together after being sent to Earth.]]></description>
+  </item>
+  <item>
+    <title>APOD: 2026 October 19 – Treble Clef: Unusual X-ray Hot Radio Source</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-19-treble-clef-unusual-x-ray-hot-radio-source/</guid>
+    <pubDate>Mon, 19 Oct 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:Explanation : What is Treble Clef? This unusual radio structure extends over 2 million light-years andresemblesa commonmusical symbol-- but has itsvisible lighthidden by our ownMilky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755,dubbed Treble Clef, remained unknown. Recent observations by theChandra X-ray ObservatoryandeROSITA, however, have led to thehypothesisthat the Treble Clef central cloud of charged particles was originally expelled by asupermassive black holeat the center of a galaxy. After the radio emission from those particles faded, they may have beenreinvigoratedby ashock wavefrom the collision of twoclusters of galaxies. Thefeatured composite imageshowsradioemission in red, while recently discoveredX-raysare shown in blue.Unusual objectslikeTreble Clefgive humanity unexpected clues about how wholeclusters of galaxiesinteract as well as the generalevolution of our universe.Tomorrow's picture:backwards rainbow]]></description>
+  </item>
+  <item>
+    <title>Autumn Paints Poland’s Bieszczady Mountains</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/</guid>
+    <pubDate>Mon, 19 Oct 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.
+
+As the air grows cooler and days shorter, brown bears prowl the Carpathian Mountains ofsouthern Polandwith the goal of fattening up ahead of winter hibernation. In a more conspicuous sign of autumn, beech and other deciduous trees blanketing the hillsides start to sport reds and golds. The seasonal transformation was underway in southeast Poland’s Bieszczady National Park on October 8, 2026, when theOLI(Operational Land Imager) on the NASA-USGSLandsat 9satellite captured this image.
+
+European beech (Fagus sylvatica) dominates the area’s forests, with other species such as sycamore maple (Acer pseudoplatanus) also contributing to vibrant color in the fall. Dropping air temperatures and waning daylight cause these trees to curtail the production ofchlorophyll, the molecule that plants use to synthesize food. Without it, the leaves’ green pigments fade, allowing the yellows and reds of other pigments to show through.
+
+A descendent of ice-age survivors, the European beech has persisted across millennia in a range of climates. After the glaciers retreated, beech forests spread northward across the European continent from isolated refugia in the Carpathians, Alps, and other mountain ranges, and played a crucial role in reforesting the previously ice-covered land. Portions of Bieszczady National Park are included within UNESCO’s network ofancient and primeval beech forestsspanning 18 countries.
+
+Expansive as their footprint across Europe may be, beech forests reach only so high in elevation—about1,000 to 1,260 meters(3,300 to 4,100 feet)—in this area. Above that is the realm of thepolonina, a Slavic term for subalpine meadow, consisting of open grasslands and shrubby thickets ofrowan(mountain ash), willows, and green alder. Patches of poloninastretch across ridge topsto the east-southeast of Smerek and appear tan, having lost theirsummer greenness.
+
+The Bieszczady Mountains are renowned not only for forests and mountain meadows but also for charismatic wildlife. European bison,once extinct in the wild, werereintroducedto the area in the 1960s and now roam the hills by the hundreds, according torecent surveys. Additionally, populations of brown bears andEurasian lynxfind refuge and ample food sources in the forests.
+
+NASA Earth Observatory image by Michala Garrison, using Landsat data from theU.S. Geological Survey. Story by Lindsey Doermann.
+
+Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
+
+The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.
+
+Sites relevant to the start of the American Revolutionary War are interspersed throughout the modern-day Boston metropolitan region.
+
+The colonial communities of “America’s historic triangle” played defining roles in the road to American independence.
+
+Subscribe to the Earth Observatory and get the Earth in your inbox.
+
+NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
+
+Open access to NASA’s archive of Earth science data]]></description>
+  </item>
+  <item>
+    <title>APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</guid>
+    <pubDate>Sun, 18 Oct 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:Yes, but have you ever experienced the Eagle Nebula with yourears? The famous nebulaM16is best known for the feast it gives your eyes, highlighting bright young stars forming deep insidedark towering structures. Theselight-yearslong columns of cold gas anddustare some 6,500 light-years distanttowardthe constellation of the Serpent (Serpens). Sculpted and eroded by the energeticultraviolet lightand powerful winds fromM16's cluster of massive stars, the cosmic pillars themselves are destined fordestruction. But the turbulent environment of star formationwithin M16, whose spectacular details are captured inthiscombinedHubble(visible) and Chandra (X-ray) image, is likely similar to the environment that formed our ownSun. In thefeatured video, listen for stars and dust sounding off as the line ofsonificationmoves left to right, with vertical position determiningpitch.Tomorrow's picture:what could it be?]]></description>
+  </item>
+  <item>
+    <title>APOD: 2026 October 17 – 3D 67P</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</guid>
+    <pubDate>Sat, 17 Oct 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:Put on your red/blue glassesand float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known asComet 67P. The stereo anaglyph was created by combining two images from theRosetta spacecraft'snarrow angle OSIRIS camerataken on July 25, 2015from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out acatalogof nearly 1400 stereo anaglyphs created fromRosetta image data on this website.Tomorrow's picture:open space]]></description>
+  </item>
+  <item>
+    <title>NASA Names Stephen Cash Marshall Space Flight Center Director</title>
+    <link>https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/</guid>
+    <pubDate>Fri, 16 Oct 2026 20:14:39 +0000</pubDate>
+    <description><![CDATA[NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago.
+
+“Marshall contributions to NASA’s missions are historic and it’s no question why it’s the Center of Excellence for propulsion,” said Isaacman. “Steve Cash is a Marshall legend, has spent his career around the hardware, the people and has been in the seat before making the decisions when human spaceflight is on the line. As Marshall continues its critical role in Artemis and takes on new challenges in advanced propulsion, nuclear power, and the systems that will carry us deeper into the solar system, Steve brings the experience, technical judgment, and mission focus needed to lead the center into that next chapter. I am also grateful to Rae Ann Meyer for the leadership she has provided to Marshall during this transition and for her continued service to NASA.”
+
+“Leading a NASA center requires a commitment to its people and to the technical capabilities entrusted to them,” said Amit Kshatriya, NASA associate administrator and chief engineer. “Steve understands that the jewel of Marshall is its workforce and that engineering excellence is sustained by giving talented people the opportunity to design, build, test, and learn through hands-on work. As Marshall continues strengthening the manufacturing, structural loads and dynamics, and propulsion capabilities that underpin NASA’s exploration enterprise, Steve’s leadership will help ensure the workforce has opportunities to develop and apply the expertise needed to deliver the agency’s most ambitious missions.”
+
+As center director, Cash will lead one of NASA’s largest field centers, overseeing a workforce of more than 5,000 civil service and contractor employees and a broad portfolio of propulsion, space systems, scientific research, and technology development activities.  Marshall plays a critical role in NASA’s Artemis program, including the development of NASA’s SLS (Space Launch System) rocket, management of the Human Landing System Program, as well as other capabilities supporting sustained exploration of the Moon and future missions to Mars. Further, Marshall plays a key role in the advancement of nuclear power and propulsion, an area of focus that is expected to grow as NASA works towards sending the first humans to Mars.
+
+“It is a profound honor to be back home at the Marshall Space Flight Center,” said Cash. “I am humbled to stand alongside the brilliant minds here as we continue to turn the impossible into everyday history.”
+
+Cash began his NASA career at Marshall in 1982 and spent 34 years with the agency, holding senior engineering and management positions supporting some of the nation’s most significant human spaceflight programs.
+
+During his NASA career, Cash served as manager of Marshall’s Space Shuttle Propulsion Office, overseeing critical propulsion systems supporting shuttle through its final missions. He later served as director of Marshall’s Safety and Mission Assurance Directorate from 2011 until his retirement in 2016, providing leadership in safety, reliability, and quality engineering to support mission success across the center.
+
+Following his retirement from NASA, Cash continued his work in the aerospace industry, including serving as vice president for advanced space systems at Axient, supporting the development and execution of major spaceflight programs. In 2024, he was inducted into the Alabama Engineering Hall of Fame in recognition of his contributions to engineering and the nation’s space program.
+
+Cash succeeds Rae Ann Meyer, who has served as Marshall’s acting center director since September 2025. Meyer, who previously served as Marshall’s deputy center director and associate director, has provided leadership and continuity across the center’s programs and operations during her tenure as acting director. Meyer will return to her role as Deputy Center Director.
+
+Established in 1960, Marshall has played a central role in American space exploration for more than six decades, from developing the Saturn rockets that carried astronauts to the Moon during Apollo to advancing the propulsion systems, infrastructure, and technologies supporting the next era of human spaceflight.
+
+For more information about NASA’s Marshall Space Flight Center, visit:
+
+George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov/cheryl.m.warner@nasa.gov
+
+Lance DavisMarshall Space Flight Center, Huntsville, Ala.256-544-0034lance.d.davis@nasa.gov]]></description>
+  </item>
+  <item>
+    <title>Artemis II Heat Shield After Splashdown</title>
+    <link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/</link>
+    <guid>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/</guid>
+    <pubDate>Fri, 16 Oct 2026 16:28:01 +0000</pubDate>
+    <description><![CDATA[Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of theOrion spacecraft’sheat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the heat shield performed as expected.
+
+Learn how Orion’s heat shield was examined.]]></description>
+  </item>
+  <item>
+    <title>I Am Artemis: Allison Mjoen</title>
+    <link>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/</link>
+    <guid>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/</guid>
+    <pubDate>Fri, 16 Oct 2026 14:24:29 +0000</pubDate>
+    <description><![CDATA[As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to the Moon. Over her 20-year career at NASA’s Kennedy Space Center in Florida, she supported missions across the Space Shuttle Program, the International Space Station, and now she is applying that experience to Artemis.
+
+April 1, 2026, was a bright, crystal-clear day along the Florida Space Coast. The sunlight seemed to sharpen every color along the horizon. As Mjoen and her children counted down and the crowd’s voices rose around them, the rumble of the SLS rocket intensified beneath their feet. For her children, it was the chance to see what their mom had helped make possible. For Mjoen, it was a moment she would never forget.
+
+That moment also offered a pause for reflection on the work that led her there. As the spacecraft offline operations manager, Mjoen coordinates the work that happens long before launch day. By supporting the ground systems’ senior vehicle operations manager,Matt Czech, she develops integration plans and oversees ground operations for Artemis vehicle processing, focusing on booster and Orion spacecraft operations.
+
+Mjoen began her career as a flight crew systems engineer with United Space Alliance supporting the Space Shuttle Program. Her team handled mission-specific cabin configurations, including the food, spacesuits, cargo, and payloads astronauts needed aboard the shuttle.
+
+After the Space Shuttle Program retired, she supported the International Space Station Program as a payload integration engineer. In this role, she connected experiment investigators with the organizations developing their hardware. She later worked in the Project Office on the Test and Operations Support Contract before joining NASA’s Operations Project Engineering Office, where she served as the Spacecraft Payloads Integration and Evolution Element lead for Artemis I.
+
+Operations Manager, NASA's Exploration Ground Systems
+
+That preparation took on new meaning when she first supported integrated firing room operations as a certified operations project engineer during Artemis I. Earning the certification was a milestone. Applying it during real time operations brought a new level of responsibility.
+
+“Every decision and communication directly supported the integrated team’s ability to execute safely and properly implement the test procedure,” said Mjoen.
+
+Working at the integration console underscored the importance of preparation, collaboration and trust — lessons she carries into her work coordinating across teams today.
+
+Operations Manager, NASA's Exploration Ground Systems
+
+For Mjoen, the shared experience is part of what makes Artemis so important. As the Artemis program continues, she looks forward to another moment families will be able to share as astronauts return to the lunar surface.
+
+“That single moment captured the imagination of people around the world and showed what is possible when we come together for a bold goal,” she said of the first Apollo Moon landing. “Artemis is creating that kind of moment for a whole new generation, and this time to stay.”]]></description>
+  </item>
 </channel>
 </rss>
