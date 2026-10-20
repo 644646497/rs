@@ -4,7 +4,113 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Mon, 19 Oct 2026 18:04:30 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 02:51:21 GMT</lastBuildDate>
+  <item>
+    <title>Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By</title>
+    <link>https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/</link>
+    <guid>https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/</guid>
+    <pubDate>Tue, 20 Oct 2026 01:21:38 +0000</pubDate>
+    <description><![CDATA[Mars Science Laboratory Mission Team Members
+
+Written by Alex Innanen, Atmospheric Scientist at York University
+
+Earth planning date: Friday, Oct. 9, 2026
+
+Happy New Mars Year! We mark the start of a new year on Mars at the beginning of the northern hemisphere spring, or the vernal equinox. We then keep track of the seasons by counting degrees of solar longitude — each season is 90 degrees as Mars completes the whole 360 degrees of its orbit. The start of Mars year 39 at a solar longitude of 0 degrees (or Ls=0°, pronounced “ell-sub-ess-zero” if you want to sound like a Martian) came at the end of September on Earth. The new year also means it’s now autumn in Gale Crater, just south of the equator.
+
+As Michelletalked about last week, we rang in the Martian new year with our drill campaign at “Basque Lakes.” This week was dedicated to wrapping up drill activities before we drive away on the weekend. After the team got a chance to see the results of last week’s lab activities, the SAM team decided on anadditional GCMS (Gas Chromatograph/Mass Spectrometry) experiment. While GCMS tends to be an energy-intensive activity, we had four whole sols in Monday’s plan to play with, so we still had room for a slew of remote-sensing activities from Mastcam and ChemCam and contact science of the drill tailings — the bits of rock and minerals that are left over from our drill sample. This weekend’s plan gives us a couple more sols to wrap up drill activities at Basque Lakes and collect any last contact- or remote-science targets we want here before we begin a drive back toward the neat crystal forms wesaw in the “Chiu Chiu” region.
+
+While all this is happening, the atmosphere around us continues to go through its seasonal changes. Autumn means the return ofhigh-altitude twilight clouds, which the low sun angle at sunset illuminates beautifully. While twilight cloud activity will pick up as the autumn progresses, our late afternoon cloud movies on Wednesday of this week already caught our first high-altitude clouds of the season, as you can see at the top of this post. Most of the clouds we tend to see at Gale Crater are suboptical, or too thin to be seen with either human eyes or with Curiosity’s robotic “eyes,” but these twilight clouds are bright enough that we can see them in the raw Navcam images. I’m looking forward to another Martian autumn of watching all these different clouds go by.
+
+Mars is the fourth planet from the Sun, and the seventh largest. It’s the only planet we know of inhabited…
+
+Explore this collection of Mars images, videos, resources, PDFs, and toolkits. Discover valuable content designed to inform, educate, and inspire,…
+
+Each robotic explorer sent to the Red Planet has its own unique capabilities driven by science. Many attributes of a…
+
+The key to understanding the past, present or future potential for life on Mars can be found in NASA’s four…]]></description>
+  </item>
+  <item>
+    <title>NASA Improves Shock, Vibration Analysis</title>
+    <link>https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/kennedy/nasa-improves-shock-vibration-analysis/</guid>
+    <pubDate>Mon, 19 Oct 2026 19:28:32 +0000</pubDate>
+    <description><![CDATA[Rockets vibrate, shake, and flex intensely as they climb into space, and spacecraft packed with delicate scientific instruments must survive those forces. Before any rocket leaves the ground, NASA engineers work to predict how those stresses will affect every part of a spacecraft.
+
+To do that, engineers in the Dynamic Environments Group with NASA’s Launch Services Program Office at the agency’sKennedy Space Centerin Florida have streamlined how they ensure spacecraft and rockets can withstand harsh vibration, shock, stress, or other physical forces, strengthening mission safety in the process.
+
+Using a commercial digital software tool in a new way, the engineers developed a standardized modeling workflow for finite element modeling to strengthen shock and vibration analysis and ensure hardware is prepared for the extreme environments of launch and ascent.
+
+“This computer-based method helps predict how rockets and spacecraft behave under extreme conditions before hardware is built and helps identify weak spots and potential failure risks early so the team can address the findings,” said Brian Beaver, chief of the Flight Analysis Division with the Launch Services Program Office at NASA Kennedy.
+
+The team recently used the software for the first time while certifying a commercial launch provider’s rocket selected for a NASA mission. The commercial partner provided vibration testing but not shock testing. The Dynamic Environments Group determined shock testing was needed and used a template the group created to run what-if comparisons, visualize structural behavior, and answer complex questions that would have required extensive manual modeling in the past. The team verified the company’s testing results for flight environments, and the analysis provided new insights addressing shock during transport.
+
+“We are using a tool that’s existed for decades, but it’s not normally used by the dynamic environments disciplines,” said Alex Hardt, aerospace engineer with the Launch Services Program Office at NASA Kennedy. “But we’re changing that. We’re using it in a relatively new area of dynamics.”
+
+Although rockets and spacecraft are designed to absorb shocks and vibrations, those forces can cause wear and tear or potentially flight failures, especially during launch and ascent.
+
+“We define how severe the random vibration levels and shock levels are, and then we verify that all the parts going on future rockets have been tested to those levels, maximizing their longevity,” Hardt said.
+
+For decades, engineers have estimated shock and vibration environments using rules of thumb or by scaling previous data to estimate how each rocket component or spacecraft equipment would be impacted once assembled and flown. The approach worked, but relied heavily on engineering judgment and simple approximations drawn from past missions.
+
+Because most dynamic environments engineers use finite element modeling tools infrequently, they often need to re-learn complex workflows. The software replaces older tools and provides a standard template that guides engineers more quickly and thoroughly through vibration profiles and shock conditions.
+
+Finite element analysis is a powerful simulation technique that breaks a complex structure into smaller components so computers can accurately predict how a spacecraft or rocket could respond to specific forces or launch environments. This is important because issues can be addressed on the ground; once the rocket leaves the launch pad, most problems cannot be repaired or corrected, making early identification essential.
+
+“We’ve used it to get really valuable insight very quickly into verifying a provider’s system,” Hardt said. “It’s already provided some really deep insight into something that normally takes a lot of effort.”
+
+Hardt says having the ability to visualize non-intuitive dynamics problems using finite element models also highlights the software’s valuable impact on learning, efficiency, and alignment with NASA’s people focused culture. The workflow can help the engineers share knowledge, refine assessments with additional flight data, and increase proficiency with modeling tools. This capability already has saved months by allowing the team to run analysis independently without having to request and wait for analysis reports or data, and by helping them identify risks that weren’t previously considered.
+
+NASA’sLaunch Services Program Officeis responsible for launching rockets delivering spacecraft that observe the Earth, visit other planets and explore the universe, from weather satellites to space telescopes to Mars rovers. The team is constantly adopting new tools like this to give the agency the highest practical chance of success for each mission.]]></description>
+  </item>
+  <item>
+    <title>Software</title>
+    <link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-software/</guid>
+    <pubDate>Mon, 19 Oct 2026 18:11:40 +0000</pubDate>
+    <description><![CDATA[Research teams at NASA’s Glenn Research Center are involved in developing theory and software to predict the noise from aircraft engines. This software helps engineers to design and analyze new and improved aircraft propulsion systems.Copies of our software can be requested from NASA’s Software Catalog.
+
+Development of jet noise prediction codes is multifaceted. Since JeNo predicts jet noise using Lilley’s Acoustic Analogy and the mean flow solutions from a Reynolds-Averaged Navier-Stokes (RANS) code, accurate acoustic predictions hinge on accurate aerodynamic predictions. This is why acoustic source modeling and turbulence modeling, together with the development of advanced measurement systems, are the leading areas of research in jet noise prediction at NASA Glenn. RANS-based jet noise prediction schemes based on Lilley’s Acoustic Analogy offer relatively quick answers compared to those from alternative methods like Large-Eddy Simulations (LES) or Direct Numerical Simulation (DNS).
+
+The JeNo jet noise prediction code calculates the far-field sound spectral density produced by axisymmetric jets at a user-specified observer location and frequency range. Currently, JeNo has been validated for subsonic and low supersonic, unheated axisymmetric jets.Copies of the JeNo code can be requested from NASA’s Software Catalog.
+
+Development of the MGBK code preceeded JeNo. Researchers at NASA GRC have used MGBK to predict trends in jet noise for complicated aircraft engine exhaust nozzles. MGBK was used to analyze the noise reduction benefits of chevrons–serrations on teh edge of turbofan nozzles–which are a familiar site on many commercial aircraft engines today.Copies of the MGBK codes can be requested from NASA’s Software Catalog.
+
+Predicated on simplistic models of the fan flow and geometry, V072 has been proven useful in studying rotor/stator interaction tone noise. When you need to design a low-noise fan stage, tone noise level predictions from V072 can help you make smart choices for such important design parameters as blade and vane counts, rotor-stator spacing, and stator vane sweep and lean. When you’re after quick noise estimates early in the design cycle, V072 may be your tool of choice.Copies of V072 can be requested from NASA’s Software Catalog.
+
+Taking rotor/stator interaction noise prediction to the next level, not only can TFaNS calculate the tone noise levels generated by rotor/stator interaction it can also account for the blade row acoustic coupling effects such transmission and reflection and can propagate those tones to the far field. Like V072, TFaNS runs quickly and can be used in early design stages for studying trends.Copies of TFaNS can be requested from NASA’s Software Catalog
+
+When simple models are too simple, an analysis with Linflux gives you the power to study realistic, 3-D flows and blade geometries. Compared with V072 and TFaNS, Linflux requires significantly more computational resources since it models much more of the physics involved. Linflux predicts rotor/stator tone noise and, like all the software developed by the NASA Glenn Acoustics Branch, has been rigorously validated against experimental data.Copies of Linflux can be requested from NASA’s Software Catalog.
+
+Using estimates of turbulence intensity and characteristic length scale as input, BFANS can be used to calculate the broadband noise generated by turbulence impinging on the leading edges of the rotor blades and stator vanes. Calculations with BFANS, combined with experimental data from tests at facilities like NASA Glenn’s 9’x 15’ Low Speed Wind Tunnel, can be used to hunt down the noisiest components in a fan stage.Copies of BFANS can be requested from NASA’s Software Catalog.
+
+RSI is a computer code for calculating the spectrum of broadband noise produced as a result of the interaction of the fan rotor wake turbulence with the fan exit guide vanes. The software computes the spectra of acoustic power upstream and downstream of the stator on a mode-by-mode basis at each frequency of interest given information about the incident turbulence characteristics. The target frequencies are arbitary and need not be harmonics of the blade passing frequency of the fan.Copies of RSI can be requested from NASA’s Software Catalog.
+
+Propeller noise can be strongly affected by any inflow that leads to unsteady blade loading. The WOBBLE code computes the tone noise associated with propellers with varying inflow angle and predicts the axial and circumferential directivity. Inflow angle is specified in terms of yaw, pitch, and roll angles of the aircraft. The acoustic model is exact and accounts for all unsteady sources such as thickness and loading effects from the blades.Copies of WOBBLE can be requested from NASA’s Software Catalog.
+
+Multiple pure tone noise (aka “buzz saw” noise), created by rotor locked shocks present when the fan blade tip speed is supersonic, can be estimated with the MPT code. The MPT codes also use flow predict]]></description>
+  </item>
+  <item>
+    <title>Experimental Facilities</title>
+    <link>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/glenn/acoustics-experimental-facilities/</guid>
+    <pubDate>Mon, 19 Oct 2026 18:08:52 +0000</pubDate>
+    <description><![CDATA[Research teams at the NASA Glenn Research Center perform experiments in world-class facilities such as the 9- by 15-Foot Low-Speed Wind Tunnel (9 x15 LSWT), the Aero-Acoustic Propulsion Laboratory (AAPL), the Small Hot Jet Acoustic Rig (SHJAR), the Nozzle Acoustic Test Rig (NATR), the DGEN AeroPropulsion Research Turbofan (DART), and the Acoustical Testing Laboratory (ATL).
+
+The 9- by 15-Foot Low Speed Wind Tunnel is specially designed to give researchers a controlled environment to study aircraft engine aerodynamics and acoustics at takeoff and landing conditions.  This helps us to reduce noise in communities near airports.  Major modifications were completed in 2019 to improve the flow and lower the background noise of the tunnel.  A new 5-sensor traversing microphone rake helps measure sound produced by scale experimental propulsors.Read more about the capabilities of the 9 x 15 LSWT on our facilities page.
+
+The Aero-Acoustic Propulsion Laboratory (AAPL) is a dual-purpose 65-foot radius geodesic dome used to reduce community noise and perform aeroacoustic tests of aircraft engines and engine components. The test area inside the dome can be configured as a hemi-anechoic or anechoic chamber. There are no echoes in the dome during tests because 17,000 custom-designed 2-ft thick fiberglass wedges are mounted to the inside surface of the dome walls and placed on the floor and around test rigs to absorb sound and prevent sound reflections. When AAPL was constructed in 1993, it was the first known free-standing geodesic dome to include materials to reduce transmission of sound through the walls and absorb sound within it. AAPL currently houses the Nozzle Acoustic Test Rig (NATR), Small Hot Jet Acoustic Rig (SHJAR), and the DGEN 380 Aeropropulsion Research Turbofan (DART).Read more about the capabilities of the AAPL on our facilities page.
+
+SHJAR is one of three rigs installed inside the anechoic dome of the Aeroacoustic Propulsion Lab. It can be used to test single stream nozzles up to 5 cm in diameter, Mach 2.0 and 800 K. SHJAR is a key tool in connecting the dots between nozzle geometry, jet flow, and noise. Creative nozzle designs are inexpensively created for this rig, and their impact on flow and noise is measured with world-leading measurement techniques. Researchers at NASA Glenn have been using SHJAR to develop advanced flow measurement techniques like Rayleigh Scattering, Raman Scattering, digital Schleiren, and real-time Particle Image Velocimetry. Three-dimensional microphone arrays have been deployed to map the sources of the noise. These techniques hold the promise of unlocking some of the mysteries of how the turbulence caused by the nozzle creates noise. The data from this rig is used to validate the computer codes that are being developed to calculate jet noise. Better noise prediction codes will help engineers design quieter nozzles.
+
+Among the many firsts in turbulent jet research produced on SHJAR, time-resolved measurements of turbulent temperature were recently made using Raman-based optical methods, achieving high-frequency measurements of thermodynamic temperature fluctuations needed to complete turbulence models used in heat transfer as well as jet noise. In 2006, researchers had used the first time-resolved particle image velocimetry to measured space-time correlations of turbulent velocities in hot jets, a flow statistic key to the production of noise. Time-resolved velocimetry was also used to map convection speeds of turbulence, another flow metric required by jet noise theory but previously unavailable in hot jets.
+
+The SHJAR is not only a good place to develop advanced diagnostic techniques, it has been a good testbed for exploring canonical problems in jet noise such as how the installation of the jet on an aircraft changes the noise produced by the jet. Jet-surface interaction, where the plume of the jet interacts with the wings, flaps, and tail of an aircraft, was identified as a fundamentally different noise mechanism in SHJAR tests.
+
+Most of these ground-breaking measurement techniques and practical noise insights first developed on the relatively simple SHJAR have been deployed on the high-fidelity Nozzle Acoustic Test Rig (NATR), co-located in the Aero-Acoustic Propulsion Lab.Read more about the capabilities of the SHJAR on our facilities page.
+
+The Nozzle Acoustic Test Rig (NATR), a free-jet wind tunnel, plays a key role in evaluating jet noise reduction concepts so that only the most promising concepts are selected for full-scale engine tests. Scale models of nozzles from both military and commercial aircraft engines can be tested in the NATR, which is one of three test rigs housed in the NASA Glenn Aero-Acoustic Propulsion Lab. The NATR can simulate take-off and landing flight conditions up to Mach 0.35. A jet engine simulator with up to three streams of air at a variety of pressures and temperatures simulate the flow of a turbofan engine to evaluate advanced nozzle conce]]></description>
+  </item>
   <item>
     <title>NASA’s Simulated Mars Crew Marks One Year Inside Habitat</title>
     <link>https://www.nasa.gov/humans-in-space/nasas-simulated-mars-crew-marks-one-year-inside-habitat/</link>
@@ -110,84 +216,6 @@ Open access to NASA’s archive of Earth science data]]></description>
     <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
 Explanation:Yes, but have you ever experienced the Eagle Nebula with yourears? The famous nebulaM16is best known for the feast it gives your eyes, highlighting bright young stars forming deep insidedark towering structures. Theselight-yearslong columns of cold gas anddustare some 6,500 light-years distanttowardthe constellation of the Serpent (Serpens). Sculpted and eroded by the energeticultraviolet lightand powerful winds fromM16's cluster of massive stars, the cosmic pillars themselves are destined fordestruction. But the turbulent environment of star formationwithin M16, whose spectacular details are captured inthiscombinedHubble(visible) and Chandra (X-ray) image, is likely similar to the environment that formed our ownSun. In thefeatured video, listen for stars and dust sounding off as the line ofsonificationmoves left to right, with vertical position determiningpitch.Tomorrow's picture:what could it be?]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 October 17 – 3D 67P</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-october-17-3d-67p/</guid>
-    <pubDate>Sat, 17 Oct 2026 04:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:Put on your red/blue glassesand float next to the jagged and double-lobed nucleus of Churyumov-Gerasimenko, also known asComet 67P. The stereo anaglyph was created by combining two images from theRosetta spacecraft'snarrow angle OSIRIS camerataken on July 25, 2015from a distance of 184 kilometers. Numerous jets are emanating from the small solar system world's active surface near its closest approach to the Sun. The larger lobe is around 4 kilometers in diameter, joined to a smaller, 2.5 kilometer diameter lobe by a narrow neck. Rosetta's mission to the comet ended in September 2016 when the spacecraft was commanded to a controlled impact with the comet's surface . Keep those 3D glasses on though. You can check out acatalogof nearly 1400 stereo anaglyphs created fromRosetta image data on this website.Tomorrow's picture:open space]]></description>
-  </item>
-  <item>
-    <title>NASA Names Stephen Cash Marshall Space Flight Center Director</title>
-    <link>https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-names-stephen-cash-marshall-space-flight-center-director/</guid>
-    <pubDate>Fri, 16 Oct 2026 20:14:39 +0000</pubDate>
-    <description><![CDATA[NASA Administrator Jared Isaacman has named Stephen Cash director of the agency’s Marshall Space Flight Center in Huntsville, Alabama, effective Monday, Oct. 19. Cash, a veteran NASA engineer and aerospace executive, returns to lead the center where he began his career more than four decades ago.
-
-“Marshall contributions to NASA’s missions are historic and it’s no question why it’s the Center of Excellence for propulsion,” said Isaacman. “Steve Cash is a Marshall legend, has spent his career around the hardware, the people and has been in the seat before making the decisions when human spaceflight is on the line. As Marshall continues its critical role in Artemis and takes on new challenges in advanced propulsion, nuclear power, and the systems that will carry us deeper into the solar system, Steve brings the experience, technical judgment, and mission focus needed to lead the center into that next chapter. I am also grateful to Rae Ann Meyer for the leadership she has provided to Marshall during this transition and for her continued service to NASA.”
-
-“Leading a NASA center requires a commitment to its people and to the technical capabilities entrusted to them,” said Amit Kshatriya, NASA associate administrator and chief engineer. “Steve understands that the jewel of Marshall is its workforce and that engineering excellence is sustained by giving talented people the opportunity to design, build, test, and learn through hands-on work. As Marshall continues strengthening the manufacturing, structural loads and dynamics, and propulsion capabilities that underpin NASA’s exploration enterprise, Steve’s leadership will help ensure the workforce has opportunities to develop and apply the expertise needed to deliver the agency’s most ambitious missions.”
-
-As center director, Cash will lead one of NASA’s largest field centers, overseeing a workforce of more than 5,000 civil service and contractor employees and a broad portfolio of propulsion, space systems, scientific research, and technology development activities.  Marshall plays a critical role in NASA’s Artemis program, including the development of NASA’s SLS (Space Launch System) rocket, management of the Human Landing System Program, as well as other capabilities supporting sustained exploration of the Moon and future missions to Mars. Further, Marshall plays a key role in the advancement of nuclear power and propulsion, an area of focus that is expected to grow as NASA works towards sending the first humans to Mars.
-
-“It is a profound honor to be back home at the Marshall Space Flight Center,” said Cash. “I am humbled to stand alongside the brilliant minds here as we continue to turn the impossible into everyday history.”
-
-Cash began his NASA career at Marshall in 1982 and spent 34 years with the agency, holding senior engineering and management positions supporting some of the nation’s most significant human spaceflight programs.
-
-During his NASA career, Cash served as manager of Marshall’s Space Shuttle Propulsion Office, overseeing critical propulsion systems supporting shuttle through its final missions. He later served as director of Marshall’s Safety and Mission Assurance Directorate from 2011 until his retirement in 2016, providing leadership in safety, reliability, and quality engineering to support mission success across the center.
-
-Following his retirement from NASA, Cash continued his work in the aerospace industry, including serving as vice president for advanced space systems at Axient, supporting the development and execution of major spaceflight programs. In 2024, he was inducted into the Alabama Engineering Hall of Fame in recognition of his contributions to engineering and the nation’s space program.
-
-Cash succeeds Rae Ann Meyer, who has served as Marshall’s acting center director since September 2025. Meyer, who previously served as Marshall’s deputy center director and associate director, has provided leadership and continuity across the center’s programs and operations during her tenure as acting director. Meyer will return to her role as Deputy Center Director.
-
-Established in 1960, Marshall has played a central role in American space exploration for more than six decades, from developing the Saturn rockets that carried astronauts to the Moon during Apollo to advancing the propulsion systems, infrastructure, and technologies supporting the next era of human spaceflight.
-
-For more information about NASA’s Marshall Space Flight Center, visit:
-
-George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov/cheryl.m.warner@nasa.gov
-
-Lance DavisMarshall Space Flight Center, Huntsville, Ala.256-544-0034lance.d.davis@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>Artemis II Heat Shield After Splashdown</title>
-    <link>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/</link>
-    <guid>https://www.nasa.gov/image-article/artemis-ii-heat-shield-after-splashdown/</guid>
-    <pubDate>Fri, 16 Oct 2026 16:28:01 +0000</pubDate>
-    <description><![CDATA[Shortly after NASA’s Artemis II mission splashed down on April 10, 2026, U.S. Navy divers captured underwater imagery of theOrion spacecraft’sheat shield. In the months after, the agency measured whether the thermal protection system effectively safeguarded the crew and Orion systems as the spacecraft reentered Earth’s atmosphere. This rigorous analysis confirmed that the heat shield performed as expected.
-
-Learn how Orion’s heat shield was examined.]]></description>
-  </item>
-  <item>
-    <title>I Am Artemis: Allison Mjoen</title>
-    <link>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/</link>
-    <guid>https://www.nasa.gov/missions/station/i-am-artemis-allison-mjoen/</guid>
-    <pubDate>Fri, 16 Oct 2026 14:24:29 +0000</pubDate>
-    <description><![CDATA[As the supercooled propellant flowed into the core stage, and NASA’s SLS (Space Launch System) rocket roared to life, Allison Mjoen and her family watched with awe and pride. Mjoen, NASA’s operations manager for the agency’s Exploration Ground Systems Program, helped shape the systems and ground operations that will one day send humans back to the Moon. Over her 20-year career at NASA’s Kennedy Space Center in Florida, she supported missions across the Space Shuttle Program, the International Space Station, and now she is applying that experience to Artemis.
-
-April 1, 2026, was a bright, crystal-clear day along the Florida Space Coast. The sunlight seemed to sharpen every color along the horizon. As Mjoen and her children counted down and the crowd’s voices rose around them, the rumble of the SLS rocket intensified beneath their feet. For her children, it was the chance to see what their mom had helped make possible. For Mjoen, it was a moment she would never forget.
-
-That moment also offered a pause for reflection on the work that led her there. As the spacecraft offline operations manager, Mjoen coordinates the work that happens long before launch day. By supporting the ground systems’ senior vehicle operations manager,Matt Czech, she develops integration plans and oversees ground operations for Artemis vehicle processing, focusing on booster and Orion spacecraft operations.
-
-Mjoen began her career as a flight crew systems engineer with United Space Alliance supporting the Space Shuttle Program. Her team handled mission-specific cabin configurations, including the food, spacesuits, cargo, and payloads astronauts needed aboard the shuttle.
-
-After the Space Shuttle Program retired, she supported the International Space Station Program as a payload integration engineer. In this role, she connected experiment investigators with the organizations developing their hardware. She later worked in the Project Office on the Test and Operations Support Contract before joining NASA’s Operations Project Engineering Office, where she served as the Spacecraft Payloads Integration and Evolution Element lead for Artemis I.
-
-Operations Manager, NASA's Exploration Ground Systems
-
-That preparation took on new meaning when she first supported integrated firing room operations as a certified operations project engineer during Artemis I. Earning the certification was a milestone. Applying it during real time operations brought a new level of responsibility.
-
-“Every decision and communication directly supported the integrated team’s ability to execute safely and properly implement the test procedure,” said Mjoen.
-
-Working at the integration console underscored the importance of preparation, collaboration and trust — lessons she carries into her work coordinating across teams today.
-
-Operations Manager, NASA's Exploration Ground Systems
-
-For Mjoen, the shared experience is part of what makes Artemis so important. As the Artemis program continues, she looks forward to another moment families will be able to share as astronauts return to the lunar surface.
-
-“That single moment captured the imagination of people around the world and showed what is possible when we come together for a bold goal,” she said of the first Apollo Moon landing. “Artemis is creating that kind of moment for a whole new generation, and this time to stay.”]]></description>
   </item>
 </channel>
 </rss>
