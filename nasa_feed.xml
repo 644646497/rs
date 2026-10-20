@@ -4,7 +4,45 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Tue, 20 Oct 2026 02:51:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 10:44:32 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 October 20 – An Anticrepuscular Rainbow Fan</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-20-an-anticrepuscular-rainbow-fan/</guid>
+    <pubDate>Tue, 20 Oct 2026 04:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:This is an unusual rainbow. For one thing, the rainbow is not complete, appearing only in a sunlitfan-- but that by itself is not very unusual. What is most unusual is the fake location ofthe Sun. The Sun appears to be toward the front, just below those hills -- but it is not. That is nothow rainbows work. Rainbows involve a backwardreflectionfrom fallingrain, so that the Sun must really bebehind you. In this case,gaps between cloudsnear thesetting Sunallowed rays to cross the entire sky and appear toconverge in front, an unusual phenomenon calledanticrepuscular rays. The photo was taken with a phone last week at sunset inPresenzano,Italy. Theseemingly reverse rainbowwas noticed whenhanging up laundry.Tomorrow's picture:open space]]></description>
+  </item>
+  <item>
+    <title>The Human Fingerprint on Earth’s Water Cycle</title>
+    <link>https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/</link>
+    <guid>https://science.nasa.gov/earth/earth-observatory/the-human-fingerprint-on-earths-water-cycle/</guid>
+    <pubDate>Tue, 20 Oct 2026 04:01:00 +0000</pubDate>
+    <description><![CDATA[Human activities have become intertwined with how water is distributed across the continents. A new study brings their effects into sharper focus.
+
+Humans are exerting increasing influence over how water moves through lakes, rivers, soil, and the subsurface, and a new NASA study shows where those effects are greatest. Using more than two decades of satellite measurements of subtle changes in Earth’s gravity, the researcherssharpened the pictureof how—and why—terrestrial water storage has changed.
+
+This map encapsulates their findings, depicting changes in terrestrial water storage from April 2002 to November 2025. Beyond the influence of climate variability, the scientists identified 40 regions where the changes also aligned with human activities such as irrigation, reservoir impoundment, and land-use change. These activities were significantly related to terrestrial water storage trends on every nonpolar continent except Australia.
+
+In some areas, the effects of human activities were especially strong. “In four continental regions, an anthropogenic variable showed a stronger relationship with the storage trends than any climate variable did,” said Mary Michael O’Neill, a hydrologist at NASA’s Goddard Space Flight Center and lead author of the study.
+
+They include well-known spots such as California’sCentral Valleyand northern India, where farmers’ heavy reliance on groundwater has drawn down storage—in India’s case, faster than earlier estimates suggested. Elsewhere, some types of farming and water management appear to have done the opposite.
+
+The data behind the map come from theGRACE(Gravity Recovery and Climate Experiment) andGRACE-FO(GRACE Follow-On) missions, each of which consists of two satellites that fly in tandem. As the lead satellite passes over an area with greater mass, the slight change in gravity tugs at it, and instruments aboard the satellites measure the change in distance between them. Since water and ice are heavy and shift around regularly, scientists can use GRACE data to infer gains and losses.
+
+The satellites’ data are typically processed into monthly maps that show broad patterns of water storage. But over more than 20 years, the satellites have passed over most of the planet many times. By combining all of those passes, the researchers could map long-term water trends with five to 10 times more spatial detail than previous analyses. The tradeoff was a loss of temporal detail. They then applied statistical techniques to weigh the importance of various anthropogenic and climatic factors in the storage trends and to pinpoint where human activities may have contributed.
+
+The improved spatial resolution uncovered some human impacts that had not been previously detected, said Matthew Rodell, deputy director of Earth Sciences for Hydrosphere, Biosphere, and Geophysics at Goddard and one of the study’s authors. The analysis also showed that some known trends were stronger than previously realized.
+
+Across several continents, groundwater-irrigated farmland was strongly associated with declines in terrestrial water storage. In North America, these declines appeared in California’s Central Valley, the southern High Plains of the U.S., and Chihuahua, Mexico, where long-term droughts have increased farmers’ reliance on groundwater. Groundwater pumping also drove declines in northern India, where the refined analysis showed a steeper downward trend than previously realized. Consistent with previous findings, retreating Himalayan glaciers accounted for only 15 percent of the decline there.
+
+Other types of agriculture had a different relationship with water storage trends. In parts of sub-Saharan Africa, for example, some increases occurred where rainfed cropland has expanded. There, swaths of native savanna were replaced by millet cultivation throughout the study period, and water tables rose despite below-average precipitation. A similar pattern emerged in northern Brazil’s Maranhão state, where soybean fields have replaced forests and shrublands. The resulting water storage trend might be explained in part by the efficient water use of cereal and legume plants and by Indigenous practices that help direct water into shallow aquifers, the researchers said.
+
+Water storage and diversion projects also came into focus on the new map. Hundreds of large reservoirs were filled during the study period, the authors note, but the coarse spatial resolution of gravity measurements previously made them difficult to track. In the new analysis, the Boguchany Reservoir on Russia’s Angara River, the second-largest reservoir filled in the 21st century, produced the strongest water storage trend in nonpolar northern Asia.
+
+The map also resolves smaller reservoirs and other hydrologic engineering projects. TheKarakum Desertin Turkmenistan registered water storage gains stemming from the long, largely unlined Karakum Canal running through it. The canal diverts river water to support desert agriculture, but enough s]]></description>
+  </item>
   <item>
     <title>Curiosity Blog, Sols 5036-5042: Watching the Clouds Go By</title>
     <link>https://science.nasa.gov/blog/curiosity-blog-sols-5036-5042-watching-the-clouds-go-by/</link>
@@ -174,48 +212,6 @@ The panorama was captured by Curiosity’sMastcamon Aug. 11, the 4,982nd Martian
     <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
 Explanation:Explanation : What is Treble Clef? This unusual radio structure extends over 2 million light-years andresemblesa commonmusical symbol-- but has itsvisible lighthidden by our ownMilky Way Galaxy. Examined in 2004, the nature of VLSS J0318.9+5755,dubbed Treble Clef, remained unknown. Recent observations by theChandra X-ray ObservatoryandeROSITA, however, have led to thehypothesisthat the Treble Clef central cloud of charged particles was originally expelled by asupermassive black holeat the center of a galaxy. After the radio emission from those particles faded, they may have beenreinvigoratedby ashock wavefrom the collision of twoclusters of galaxies. Thefeatured composite imageshowsradioemission in red, while recently discoveredX-raysare shown in blue.Unusual objectslikeTreble Clefgive humanity unexpected clues about how wholeclusters of galaxiesinteract as well as the generalevolution of our universe.Tomorrow's picture:backwards rainbow]]></description>
-  </item>
-  <item>
-    <title>Autumn Paints Poland’s Bieszczady Mountains</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/autumn-paints-polands-bieszczady-mountains/</guid>
-    <pubDate>Mon, 19 Oct 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[Fall color covers the forested slopes of Bieszczady National Park, while patches of polonina, a type of high-mountain meadow, have turned tan.
-
-As the air grows cooler and days shorter, brown bears prowl the Carpathian Mountains ofsouthern Polandwith the goal of fattening up ahead of winter hibernation. In a more conspicuous sign of autumn, beech and other deciduous trees blanketing the hillsides start to sport reds and golds. The seasonal transformation was underway in southeast Poland’s Bieszczady National Park on October 8, 2026, when theOLI(Operational Land Imager) on the NASA-USGSLandsat 9satellite captured this image.
-
-European beech (Fagus sylvatica) dominates the area’s forests, with other species such as sycamore maple (Acer pseudoplatanus) also contributing to vibrant color in the fall. Dropping air temperatures and waning daylight cause these trees to curtail the production ofchlorophyll, the molecule that plants use to synthesize food. Without it, the leaves’ green pigments fade, allowing the yellows and reds of other pigments to show through.
-
-A descendent of ice-age survivors, the European beech has persisted across millennia in a range of climates. After the glaciers retreated, beech forests spread northward across the European continent from isolated refugia in the Carpathians, Alps, and other mountain ranges, and played a crucial role in reforesting the previously ice-covered land. Portions of Bieszczady National Park are included within UNESCO’s network ofancient and primeval beech forestsspanning 18 countries.
-
-Expansive as their footprint across Europe may be, beech forests reach only so high in elevation—about1,000 to 1,260 meters(3,300 to 4,100 feet)—in this area. Above that is the realm of thepolonina, a Slavic term for subalpine meadow, consisting of open grasslands and shrubby thickets ofrowan(mountain ash), willows, and green alder. Patches of poloninastretch across ridge topsto the east-southeast of Smerek and appear tan, having lost theirsummer greenness.
-
-The Bieszczady Mountains are renowned not only for forests and mountain meadows but also for charismatic wildlife. European bison,once extinct in the wild, werereintroducedto the area in the 1960s and now roam the hills by the hundreds, according torecent surveys. Additionally, populations of brown bears andEurasian lynxfind refuge and ample food sources in the forests.
-
-NASA Earth Observatory image by Michala Garrison, using Landsat data from theU.S. Geological Survey. Story by Lindsey Doermann.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-The meandering Congaree River sustains towering forest ecosystems and fashions oxbow lakes as it shifts across its floodplain.
-
-Sites relevant to the start of the American Revolutionary War are interspersed throughout the modern-day Boston metropolitan region.
-
-The colonial communities of “America’s historic triangle” played defining roles in the road to American independence.
-
-Subscribe to the Earth Observatory and get the Earth in your inbox.
-
-NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
-
-Open access to NASA’s archive of Earth science data]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 October 18 – Sonified: Eagle Nebula Pillars</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-october-18-sonified-eagle-nebula-pillars/</guid>
-    <pubDate>Sun, 18 Oct 2026 04:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:Yes, but have you ever experienced the Eagle Nebula with yourears? The famous nebulaM16is best known for the feast it gives your eyes, highlighting bright young stars forming deep insidedark towering structures. Theselight-yearslong columns of cold gas anddustare some 6,500 light-years distanttowardthe constellation of the Serpent (Serpens). Sculpted and eroded by the energeticultraviolet lightand powerful winds fromM16's cluster of massive stars, the cosmic pillars themselves are destined fordestruction. But the turbulent environment of star formationwithin M16, whose spectacular details are captured inthiscombinedHubble(visible) and Chandra (X-ray) image, is likely similar to the environment that formed our ownSun. In thefeatured video, listen for stars and dust sounding off as the line ofsonificationmoves left to right, with vertical position determiningpitch.Tomorrow's picture:what could it be?]]></description>
   </item>
 </channel>
 </rss>
