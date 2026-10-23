@@ -4,7 +4,78 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Fri, 23 Oct 2026 08:53:05 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 15:59:38 GMT</lastBuildDate>
+  <item>
+    <title>Space Bunny 身分揭晓！MiniMax 公开 M3.1 Flash 428B 模型权重</title>
+    <link>https://technews.tw/2026/10/23/minimax-m3-1-flash/</link>
+    <guid>https://technews.tw/2026/10/23/minimax-m3-1-flash/</guid>
+    <pubDate>Fri, 23 Oct 2026 09:40:47 +0000</pubDate>
+    <description><![CDATA[中国 AI 新创 MiniMax 今日在 Hugging Face 与 ModelScope公开程式设计用大型语言模型 M3.1 Flash 权重，证实之前匿名提供、处理逾 200 兆 Token 的「Space Bunny」就是它。授权采 MiniMax Community License，商用须标示并依营收规模通知或取得许可。
+
+日本 PC Watch 报导，MiniMax 今日在 Hugging Face 与 ModelScope 公开 MiniMax M3.1 Flash 的开放权重。这款模型先前以覆面 AI「Space Bunny」名义隐藏身分，据称累计处理超过 200 兆 Token；模型 19 日已发表，并先在 MiniMax API、付费方案「M Plan」与桌面 App「MiniMax Code」上线。
+
+授权采 MiniMax Community License，非商用免费。商用时必须以清楚醒目的方式标示「Built with MiniMax M3.1-Flash」；产品或服务年营收在 2,000 万美元以下者，须以电子邮件通知 MiniMax 一次，超过 2,000 万美元则须事先取得 MiniMax 书面许可。
+
+M3.1 Flash 锁定程式设计与 AI 自动执行任务的代理（agent）用途，输入可接受文字、图片与影片，输出为文字。它是混合专家（MoE）架构，总参数约 4,280 亿、每个 Token 启用 230 亿参数，上下文视窗 100 万 Token。架构承袭 2026 年 6 月公开的 MiniMax M3，主要改了三处：把 M3 保留的前三层完整注意力层换成自家的稀疏注意力，让整个模型全面采用稀疏注意力；训练时纳入量化考量；以及采用 DSpark 进行推测解码（speculative decoding）。本机推论 MiniMax 建议使用 SGLang、vLLM 与 TokenSpeed，Transformers、KTransformers、unsloth 与 ATOM 的支援也在进行。
+
+效能方面，衡量业务自动化能力的 Automation-Bench v1.0.6 得分 62.2（模型卡写 62.8），含自身等七个比较对象中居首；投资银行端到端业务测试 BankerToolBench 得 76.2，与 Anthropic 的 Claude Opus 5 相当。程式修正准确度测试 DeepSWE v1.1 得 73.7，高于 Kimi K3 的 67.5 与 GLM-5.3 的 66.9，但不及 DeepSeek V4.1 Flash-1017 的 77、DeepSeek V4.1 Flash 的 74.2 与 Opus 5 的 74.0。]]></description>
+  </item>
+  <item>
+    <title>年初还被要求别碰，美国太空军将向业界征求地月空间现成技术</title>
+    <link>https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/</link>
+    <guid>https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/</guid>
+    <pubDate>Fri, 23 Oct 2026 09:40:26 +0000</pubDate>
+    <description><![CDATA[随著中国加快月地空间布局，美国太空军准备发布两项资讯请求书（RFI），寻求可迅速投入任务的商用设备与 AI 软体，目标在 2029 年形成可部署能力。
+
+太空军负责先进计划采购的普迪（Stephen Purdy）少将近日表示，年初他还被要求少谈「月地空间」（Cislunar space），如今五角大厦高层却已公开将这个区域列为作战领域，他表示政策转向的原因很简单：「中国正在这个领域积极推进，而我们过去没有。」
+
+中国 9 月公布的「国际地月立方星座大科学计划」，便规划分批部署 30 颗立方卫星，预计 2030 年左右完成整体发射部署。依照《人民日报》公告，计划将用于太空环境监测等科学研究，但《Breaking Defense》引述专家分析，相关布局也具有支援月地空间监视的用途。
+
+美国太空军第一项资讯征询将聚焦基础任务，包括太空领域感知，以及定位、导航与授时（PNT），普迪强调军方希望取得已有实证、接近商用成熟度的设备与软体，避免投入大笔经费进行漫长研发，地面系统也必须同步纳入整体网路设计。
+
+第二项则锁定太空载具自主操作所需的 AI 软体，普迪指出月地空间任务比靠近地球的卫星操作更困难，载具必须能自行侦测与处理硬体故障、分析感测器资料，并依环境变化调整任务。
+
+过去美国空军研究实验室、SpaceWERX 与国防高等研究计划署（DARPA）虽持续投入相关技术，但缺乏整体政策与资源支持，如今太空军也正与美国航太总署（NASA）协调基础设施投资，建立共用架构，再由军方补足需求缺口。
+
+今年 5 月成立的月地空间协调办公室（CCO），则负责向业界说明需求、协调资源，并完善涵盖月球时间、太空领域感知与通讯的发展路线图。
+
+不过经费仍是现实问题，普迪坦言部分基础工作仅需数十万美元就能改善，过去却仍难以取得资源，CCO 已整理出未获拨款需求清单，但尚未公开所需总额，后续经费与采购进度，将直接影响 2029 年部署目标能否实现。]]></description>
+  </item>
+  <item>
+    <title>日本免税改「退款制」，11 月起先付含税价出境再退税</title>
+    <link>https://finance.technews.tw/2026/10/23/japan-tax-free-system-changes-refund-model-november-pay-tax-inclusive-departure-refund/</link>
+    <guid>https://finance.technews.tw/2026/10/23/japan-tax-free-system-changes-refund-model-november-pay-tax-inclusive-departure-refund/</guid>
+    <pubDate>Fri, 23 Oct 2026 09:30:44 +0000</pubDate>
+    <description><![CDATA[外国旅客在日本购物可享的消费税免税制度，将自 11 月 1 日起改变办理方式，以防止免税商品在日本国内遭转售等不法情事。东京羽田机场已设置专用查验设备。
+
+日本电视台（Nippon TV）、朝日电视台及WWD JAPAN报导，外国旅客目前购物时可直接免除消费税，11月1日起将改为先支付含税价格、之后再办理退税的「退款制」。
+
+过去，海关是在旅客通过安全检查后，才确认商品购买资讯。新制上路后，外国旅客先以含税价格购买商品，并在通过安全检查前由海关确认购买品项等资讯，消费税款随后退还至事先登记的信用卡等支付工具。
+
+外国旅客可透过机场设置的设备、智慧型手机或专用无线区域网路办理手续。其中，日本数位厅的入境手续服务Visit Japan Web也派上用场，旅客可在日本主要机场的国际线出境楼层，以自己的智慧型手机办理出境时的海关确认，不必再使用免税手续专用终端机。
+
+东京羽田机场已设置好专用设备，让旅客只要扫描护照就能办理查验。羽田海关支署表示，预计每天将有1万2,000人使用。
+
+现行免税制度规定，旅客须将商品带出日本，才可免缴消费税，但免税商品在日本国内遭转售、转手牟利的违规情形，已成为严重问题。若有人将免税商品留在国内转售，原本应缴纳的税款就未能入帐。
+
+日本国税厅课税部消费税室长滨田正义表示：「我们发现，滥用免税店制度的情形时有所见，例如购买免税商品后，并未将商品带出日本，而是在日本国内转售。」
+
+3年前，出境旅客购买的免税商品总额一年超过6,000亿日圆（约新台币1,246亿元），其中有374人购买金额达1亿日圆（约新台币2,076万元）以上。然而，日本当局查核其中57人时，发现有56人无法出示所购商品，涉及欠税金额约18亿5,000万日圆（约新台币3.8亿元）。
+
+报导指出，出境时无法确认商品，意味著这些人多数可能将以免税价格购入的商品留在日本国内转售，赚取价差。
+
+滨田正义说：「这次改革的目的，就是为了防止这类情况发生。旅客在出境时接受确认后，再由免税店办理退税。」这种先付含税价、出境时再退税的方式，目前已为欧洲、亚洲等许多国家采用。
+
+除了防止不当转售，新制度也希望减轻店家的行政作业负担。尤其在人力不足、外语应对有困难、对接待外国旅客较不熟悉的地方城市，预期可办理免税的店家将增加，进一步带动访日旅客消费。
+
+现行免税商品分为衣物、服饰配件、家电、手表及珠宝等「一般物品」，以及化妆品、食品等「消耗品」两大类；新制将取消这项分类，只要购买时的未税金额合计达5,000日圆（约新台币1,038元）以上，即可统一认定为免税对象。此外，现行制度针对消耗品设有「每天在同一家店最多购买50万日圆（约新台币10.3万元）」的上限，新制也将取消。
+
+全国免税店协会22日举行媒体说明会，会长秋田正纪表示：「对销售方而言，作业负担会减轻；对顾客来说，店内手续也将取消，可以有更多时间享受购物。」
+
+不过，朝日电视台指出，这项改革是否会影响外国旅客的消费意愿、造成观光消费降温，后续仍须持续观察其经济影响。
+
+（译者：黎婧；首图为东京羽田机场，来源：Flickr/GoToVanCC BY 2.0）]]></description>
+  </item>
   <item>
     <title>泓德能源财务长无保请回，启动职务代理机制</title>
     <link>https://technews.tw/2026/10/23/hongde-energy-cfo-released-without-bail-interim-management-mechanism-activated/</link>
@@ -252,71 +323,6 @@ Gurman 在最新一集《Power On》Podcast 节目中指出，苹果正研究如
 罗瑶庭分享，随著企业导入 AI、运算需求增加，相关基础建设仍有长期成长空间，即使选后政策出现调整，也不代表企业既有的投资需求会立即消失，但投资人必须区分「产业前景」与「股价表现」，即便企业营收及获利持续成长，若市场先前已反映过高期待，仍可能面临评价修正。
 
 至于基金布局，罗瑶庭建议，台股及科技股基金仍具长线投资价值，但在市场累积涨幅、评价偏高及政治不确定性升温之际，不宜过度集中单一市场或产业，并可适度纳入美国股票型基金，将投资范围由 AI 科技延伸至其他具成长潜力的产业，兼顾成长机会与风险分散。]]></description>
-  </item>
-  <item>
-    <title>强化对俄吓阻，丹麦将采购 JSM 与 Anthem 长程飞弹</title>
-    <link>https://technews.tw/2026/10/23/danmark-decided-to-buy-jsm-and-anthem-misslies-for-deterrting-russia/</link>
-    <guid>https://technews.tw/2026/10/23/danmark-decided-to-buy-jsm-and-anthem-misslies-for-deterrting-russia/</guid>
-    <pubDate>Fri, 23 Oct 2026 07:09:20 +0000</pubDate>
-    <description><![CDATA[丹麦国防部 10 月 22 日宣布，将采购挪威康斯堡（Kongsberg）的联合打击飞弹（JSM），以及美国军工新创 Covenant 开发的 Anthem 陆射巡弋飞弹，透过空中与地面两种发射方式，强化丹麦与北约的长程精准打击及吓阻能力。
-
-丹麦国防部长布鲁斯（Jeppe Bruus）表示，这两项采购是提升国家自我防卫能力的重要一步，也向潜在对手传达明确讯号，丹麦具备遭到攻击后反击的能力。目前丹麦政府尚未公开两款飞弹的采购数量与金额。
-
-联合打击飞弹（Joint Strike Missile，JSM）可收纳于 F-35A 机腹内部弹舱，让战机执行打击任务时维持匿踪特性，避免外挂武器增加雷达反射截面，JSM 射程超过 275 公里，低空掠海飞行能力也有助于延后敌方防空系统发现及拦截的时间。
-
-这项采购也将配合丹麦扩充中的 F-35 机队，丹麦政府已于 2025 年 10 月决定加购 16 架 F-35，加上原先采购的 27 架，未来机队总规模将增至 43 架，JSM 将提供这批战机更具弹性的远距打击选项。
-
-相较于已有多国选用的 JSM，Anthem 是 Covenant 今年 9 月才正式公开的新型武器，该公司共同创办人兼执行长考夫曼（Michael Kaufman）将其定位为大酬载纵深精准打击系统，目标是填补西方长程打击火力的缺口，并宣称射程与酬载均为同价位产品的数倍。
-
-考夫曼指出，Anthem 自 2025 年 8 月首飞以来，已完成超过 200 次飞行测试，其中包括与美军合作的测试，不过并未公布其具体射程、弹头重量与单价。
-
-由于长程武器具备打击俄罗斯境内目标的潜力，外界也关注采购案是否会让丹麦更容易成为莫斯科的攻击目标，据丹麦媒体 DR 报导，布鲁斯回应，面对持续升高的威胁，丹麦必须具备应对能力，俄罗斯驻丹麦大使馆则批评，哥本哈根的政策正朝可能与俄罗斯冲突的方向发展。
-
-丹麦国防情报局（FE）已于 9 月发布威胁评估，预期俄罗斯未来数月将进一步升高对北约与西方的混合战行动，并指出俄方对北约国家发动有限军事攻击的风险虽然仍低，却正在增加。
-
-两款飞弹何时能形成实际战力仍待后续资讯，康斯堡表示丹麦已成为第七个选择 JSM 的国家，但合约规模与金额仍须透过协商决定，待正式签约后才会对外公告。
-
-（首图来源：Strak Jegan,CC BY-SA 4.0, via Wikimedia Commons）]]></description>
-  </item>
-  <item>
-    <title>Arc 浏览器 12/22 终止服务，开发商推荐 Dia 接棒</title>
-    <link>https://technews.tw/2026/10/23/the-browser-company-to-sunset-arc-on-december-22/</link>
-    <guid>https://technews.tw/2026/10/23/the-browser-company-to-sunset-arc-on-december-22/</guid>
-    <pubDate>Fri, 23 Oct 2026 06:44:21 +0000</pubDate>
-    <description><![CDATA[Arc 浏览器的开发商 The Browser Company 已决定，今年 12 月 22 日将让 Arc 走入历史，并鼓励使用者转往另一款 Dia 浏览器来使用。
-
-The Browser Company 去年即停止开发 Arc，仅做基本维护，转而聚焦另一款以 AI 优先的 Dia 浏览器。自那时起，Arc 使用者只会收到安全性更新与漏洞修补。
-
-如今注册 Arc 的使用者已收到通知信，macOS / Windows 版 Arc 持续开放使用并获得基本更新，直至 12 月 22 日为止。在此之后，使用者将无法登入使用自己的 Arc 帐号，与帐号有关的个人资料在 30 天内会删除，这也宣告 The Browser Company 将终止这款产品。
-
-注册 Arc 的使用者将能无痛转换至 Dia，依照指示操作，包含密码、书签、扩充功能及浏览纪录，可顺畅地转移至 Dia；如 Spaces、Folders 及 Tab Groups 在 Dia 也有对应功能，并能连同使用者的资料完整汇入。在 Arc 使用的各项浏览器功能，到了 Dia 均为免费，至于 AI 功能则属付费选用性质。
-
-此外，还有一个重要阶段预计落在 11 月 23 日。自那时起，Android / iOS 版 Arc Search 使用者将失去 Browse for Me 以及其他 AI 功能。Arc Search 将变成一款普通的手机浏览器，使用者无法登入或同步分页。
-
-「要维持一款浏览器的安全性，需要持续不断、全心投入的努力，而在 AI 时代，这样的工作量只会有增无减。Dia 自底层便是为了符合当今的安全标准而打造，这也将是我们工程与资安团队今后聚焦的目标」，The Browser Company 执行长 Josh Miller 在通知信写到。
-
-对于一款曾获得人气的浏览器产品而言，这是令人惋惜的结局，但取而代之的 Dia 持续开发中，如本月推出 Windows 版，提供使用者下载安装；macOS 版也获得更快速的对话体验、全新的键盘快速键，及对 Chromium 核心进行升级。]]></description>
-  </item>
-  <item>
-    <title>川普致电提议大西洋更名，遭 Google 执行长拒绝作罢</title>
-    <link>https://technews.tw/2026/10/23/trump-says-he-called-googles-ceo-to-discuss-renaming-atlantic-ocean/</link>
-    <guid>https://technews.tw/2026/10/23/trump-says-he-called-googles-ceo-to-discuss-renaming-atlantic-ocean/</guid>
-    <pubDate>Fri, 23 Oct 2026 06:30:29 +0000</pubDate>
-    <description><![CDATA[美国总统川普表示，他曾致电 Google 执行长皮查伊，讨论将大西洋改名一事，但在皮查伊告诉他「请不要要求我们这么做」后，他「大概会放弃」这个想法。
-
-《华盛顿邮报》报导，川普先前将墨西哥湾（Gulf of Mexico）与安大略湖（Lake Ontario）改名，曾引发争议。他昨天晚间在南卡罗来纳州一场造势活动上谈到这个构想，并表示：「我们有了一座湖、也有一个湾，现在我们需要一条河和一片洋。」
-
-他表示，过去改名时，他「曾打电话给Google地图（Google Maps），他们真的很棒」，并询问皮查伊（Sundar Pichai），Google是否能「处理」将大西洋改名的请求。
-
-川普说，皮查伊当时回应：「不、不、不。这次我不会这么做。」他说，「海洋不一样，先生」，因为连接著「许多国家」。
-
-Google尚未证实这通电话是否真的发生，也未立即回应华邮深夜发出的置评请求。
-
-Google与其他提供线上地图的私人公司，先前大致配合川普针对美国用户提出的改名行动。
-
-川普补充表示，在与皮查伊通话后，他「大概会放弃」将大西洋改名的想法，但也开玩笑说，也许可以把太平洋改名为「美国洋」（American Ocean）。
-
-（译者：张晓雯；首图来源：Flickr/Gage SkidmoreCC BY 2.0）]]></description>
   </item>
 </channel>
 </rss>
