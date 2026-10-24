@@ -4,7 +4,280 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sat, 24 Oct 2026 02:11:00 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 08:26:46 GMT</lastBuildDate>
+  <item>
+    <title>非科学家团队靠 Claude 设计抗蝎毒蛋白质，64 小时完成、实验验证成功</title>
+    <link>https://technews.tw/2026/10/24/ai-does-the-lab-work/</link>
+    <guid>https://technews.tw/2026/10/24/ai-does-the-lab-work/</guid>
+    <pubDate>Sat, 24 Oct 2026 08:00:32 +0000</pubDate>
+    <description><![CDATA[一支几乎没有科学背景的五人团队，在 Anthropic 的协助下完成一项引人注目的蛋白质设计实验：他们让 AI 自主设计出可与蝎毒素结合的分子，并在实验室测试中获得成功，显示人工智慧在药物研发流程中可能扮演更关键的角色。
+
+这项计划由 Citrini Research 推动，团队成员包括三名完全没有科学背景的人，以及两名仅有少量相关经验的人。研究过程中，他们在 Anthropic 办公室内，透过 Claude 从概念发想一路推进到可送交实验室的设计包，整个初始设计阶段仅靠人类与 AI 之间五次讯息往返就完成。Claude 随后在短时间内调度超过 300 个子代理（subagent），并动用超过 300 张 GPU，在 64 小时内完成设计任务。
+
+更令人意外的是，AI 在过程中展现出高度自主性，不仅搜寻科学文献、协调专业软体、管理运算资源，甚至还主动撰写并寄出电子邮件给生物技术公司 Twist Bioscience 的科学家，以处理制造上的疑问，而人类团队在多数时间并未介入。
+
+在后续的实验验证中，生物技术公司 Adaptyv Bio 与 Twist Bioscience 合成了 211 个 AI 设计的蛋白质，并以表面电浆子共振（SPR）技术进行测试。结果显示，其中 17 个设计成功与目标结合，涵盖五种蝎毒素中的四种，且整个过程并未依赖实验回馈来修正设计。当中有两个分子 Cn2-B1 与 Cn2-B2，结合亲和力达到低奈米莫耳（nM）等级，表现接近已知抗体。
+
+不过，团队原本希望打造出可同时结合五种毒素的单一分子，这项「登月计划」最终未能成功，而 Claude 事前也已预测到这一点。研究目前仍停留在是否能结合毒素的阶段，尚未证实这些分子是否真的能中和毒素活性；若要进一步发展成药物，仍需经过更完整的动物实验与人体试验。]]></description>
+  </item>
+  <item>
+    <title>肌肉内也有脂肪，累积过多可能影响健康</title>
+    <link>https://technews.tw/2026/10/24/excess-intramuscular-fat-may-harm-health/</link>
+    <guid>https://technews.tw/2026/10/24/excess-intramuscular-fat-may-harm-health/</guid>
+    <pubDate>Sat, 24 Oct 2026 07:30:49 +0000</pubDate>
+    <description><![CDATA[肌肉虽然主要由肌肉细胞所组成，但实际上，肌肉组织周围与肌纤维之间也可能存在脂肪细胞。随著年龄增长，这些脂肪可能逐渐累积，甚至取代部分肌肉组织。此时，肌肉看起来没有明显变小，力量却已有所下降。最近，英国伦敦大学学院（University College London）等机构的科学家整理过去相关研究，探讨肌肉内脂肪与老化、肌力下降及慢性疾病之间的关系。这篇综述论文指出，肌肉中的脂肪可能是影响肌肉功能的重要因素之一，也可能成为评估肌肉健康的新指标。结果已于近日刊登在《Journal of Cachexia, Sarcopenia and Muscle》期刊。
+
+提到肌肉，人们通常会联想到蛋白质，却忽略了脂肪也是肌肉正常运作的一部分。肌肉细胞所储存的脂质，让肌肉在需要时能够取得足够的能量。尤其在长时间运动时，这些脂质可以被分解利用，协助肌肉维持活动。换句话说，肌肉里的脂肪不只是多余的堆积，也可能是肌肉正常代谢所需的能量储备。
+
+为什么有些人的肌肉量看似足够，肌力却不如预期？其中一个值得关注的因素，是肌肉内部的脂肪分布。研究中常使用「肌内脂肪」（intramuscular fat，IMF）来描述肌肉内的脂肪，包括肌肉细胞内以及肌纤维周围的脂质。当年龄增加、身体活动减少，或受到肥胖、慢性疾病等因素影响，肌内脂肪可能逐渐增加，进而影响肌肉品质及肌力。
+
+此外，过去研究也显示，较高的肌内脂肪与第二型糖尿病及心血管疾病等存在关联。在部分癌症患者中，肌内脂肪增加也与较差的病情有关。因此，一个人即使看起来「没有瘦很多」，甚至肌肉量仍维持在一定程度，肌肉本身仍可能已发生变化。
+
+肌肉内的脂肪有多少，无法单靠外观或体重判断，通常需要透过磁振造影（magnetic resonance imaging，MRI）或电脑断层等影像检查。其中，MRI 能利用不同组织的影像特征，协助区分肌肉与脂肪，帮助研究人员评估肌肉内的脂肪分布。不过，目前还没有公认的标准，可以明确界定肌肉中的脂肪累积到什么程度，就代表健康受到影响。此外，不同研究采用的影像技术、分析方法及测量部位可能有所差异，而年龄、性别与身体组成也会影响测量结果。因此，如何建立一致且可靠的评估标准，仍是这个领域的重要课题。
+
+肌内脂肪并非完全无法改变。过去研究显示，规律的有氧运动与阻力训练，都可能改善肌肉脂肪堆积的情况。饮食控制和体重管理也可能有所帮助。值得注意的是，减重不代表肌肉一定会变健康。如果只是快速减少热量摄取，脂肪下降的同时也可能流失肌肉。因此，对中高龄者而言，维持肌肉功能不能仅靠控制热量，更需要搭配充足的蛋白质摄取与阻力运动，才能真正达到增肌减脂的保健效果。
+
+总结而言，过去人们总以为，年老时只要肌肉量没减少，就不必太过担心；但有越来越多研究指出，肌肉里的脂肪也可能影响肌肉的健康与功能。
+
+不过，目前相关研究仍在发展阶段，还不能单凭肌内脂肪的多寡，就判断肌肉健康状况。因此，与其担心肌肉里有多少脂肪，不如养成规律的运动习惯、适当补充蛋白质，并维持均衡饮食。趁早开始照顾肌肉，才能让未来的自己即使年纪渐长，仍能保有足够的体力，从容应付日常生活。]]></description>
+  </item>
+  <item>
+    <title>AMD 玩家福音！新模组让 Radeon 也能跑 NVIDIA DLSS，首度解锁光线重建</title>
+    <link>https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/</link>
+    <guid>https://technews.tw/2026/10/24/all-dlss-features-including-ray-reconstruction-have-been-ported-to-rdna-4-and-3/</guid>
+    <pubDate>Sat, 24 Oct 2026 07:00:10 +0000</pubDate>
+    <description><![CDATA[PC 模组社群再度突破 NVIDIA 专有技术的使用边界。开发者 danielblnc 近日释出 DLSS-NR-on-AMD 0.8.0 版本，让原本属于 GeForce 平台的多项 DLSS 功能，开始能在 AMD Radeon 的 RDNA 3 与 RDNA 4 显卡运作，涵盖 Super Resolution 4.5、光线重建（Ray Reconstruction）、帧生成（Frame Generation），以及多帧生成（Multi Frame Generation）等。
+
+这次更新最受瞩目的，是 NVIDIA 的光线重建首度可在 AMD 显卡使用。此以神经网路取代传统光追降噪流程，让光线追踪画面细节更完整；过去 Radeon 使用者多半只能依赖其他替代方案，如今则有机会透过这个模组直接体验 DLSS 的核心功能。
+
+根据流出的测试资讯，已有使用者在〈电驭叛客 2077〉以 Radeon RX 9070 XT 搭配 Ryzen 7 9700X 实测，并在 1440p、最高画质与 Path Tracing 开启下执行光线重建。开发者也表示，这个专案不只是单纯转换 NVIDIA 的执行流程，而是采用自订的神经网路执行方式，包含 AMD 专用的 HIP kernels、记忆体配置与游戏整合层。
+
+不过，这项成果仍属实验性质。使用者必须自行提供 NVIDIA 的 DLSS 档案，且安装环境需要 Windows 11 与 AMD Adrenalin 26.1.1 或更新版本。帧生成也仍需特定的 GPU 伪装与游戏内支援条件，RDNA 2 的支援则仍在实验阶段。开发者同时加入名为 NeuralHub 的介面，用于集中安装、侦测游戏与设定功能，但整体相容性、画质与效能表现仍会因游戏而异。
+
+尽管如此，这项进展仍显示，DLSS 的限制不完全来自硬体本身，软体执行环境与整合方式同样是关键。对 AMD 玩家而言，这代表原本为 NVIDIA 专属的神经渲染功能，已逐步移植到 Radeon 平台。]]></description>
+  </item>
+  <item>
+    <title>美国砸 3.89 亿美元扶植功率半导体，锁定 AI 资料中心与核融合应用</title>
+    <link>https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applications/</link>
+    <guid>https://technews.tw/2026/10/24/us-invests-389-million-boost-power-semiconductors-ai-data-centers-nuclear-fusion-applications/</guid>
+    <pubDate>Sat, 24 Oct 2026 06:07:56 +0000</pubDate>
+    <description><![CDATA[美国持续扩大本土功率半导体及关键材料布局。美国商务部宣布，依据《晶片与科学法案》（CHIPS and Science Act），与 4 家企业签署意向书，计划提供最高 3.89 亿美元的研发补助，支持高压功率半导体、垂直氮化镓（GaN）及超高纯度石英材料等技术开发，应用涵盖 AI 资料中心、电网基础设施及核融合发电。
+
+美国商务部指出，功率半导体是电力转换、控制及输送的重要元件，随著先进运算与能源基础设施需求增加，提高电力转换效率、强化电网稳定性及降低热损耗，已成为关键技术发展方向。透过强化本土研发与制造能力，美国希望降低对海外供应链的依赖，同时提升能源安全及半导体产业竞争力。
+
+此次补助以核融合及先进电力技术为主要方向。其中，美国核融合业者 Helion 预计获得最高 1.75 亿美元，将用于开发高压功率半导体及先进电力模组，支援核融合发电所需的高峰值电流脉冲功率应用。相关元件将负责驱动及控制核融合发电设备中的磁体，并协助回收磁体中的能量，以支援核融合发电系统运作。
+
+另一家核融合业者 Commonwealth Fusion Systems（CFS）则预计获得最高 8,500 万美元，主要投入射频电浆加热所需的半导体、功率电子元件、核融合诊断系统的嵌入式电子技术，以及耐辐射电子元件研发，以支援核融合设备的电力控制、电浆加热及诊断需求。
+
+在 AI 资料中心方面，Vertical Semiconductor 预计获得最高 7,300 万美元，推进垂直氮化镓功率半导体技术，透过提高电力转换效率及缩小供电系统体积，支援先进运算设备的高功率需求。该公司也计划展示相关技术，应用于全球首座 2.5 MW 等级的超级智慧资料中心机柜，因应下一代 AI 运算设备的供电需求。
+
+除了功率元件，美国也将补助延伸至半导体上游材料。材料业者 Sibelco 预计获得最高 5,600 万美元，开发下一代超高纯度石英纯化及精加工技术。超高纯度石英主要应用于晶体生长坩埚、半导体制程玻璃器皿及其他关键设备，相关研发将有助于强化美国本土半导体材料供应链。
+
+值得注意的是，此次 4 项补助目前仍处于意向书阶段，尚未完成最终核定。根据美国商务部规划，政府将以取得各企业少数、无控制权及无表决权的股权作为提供补助的条件，借此提高公共资金投入研发所带来的潜在回报。]]></description>
+  </item>
+  <item>
+    <title>Rockwell Automation 推出 FactoryTalk Conductor，一个专为工业自动化打造的 AI 原生协同调度平台</title>
+    <link>https://technews.tw/2026/10/24/rockwell-automation-launches-factorytalk-conductor-ai-native-collaborative-orchestration-platform-built-for-industrial-automation/</link>
+    <guid>https://technews.tw/2026/10/24/rockwell-automation-launches-factorytalk-conductor-ai-native-collaborative-orchestration-platform-built-for-industrial-automation/</guid>
+    <pubDate>Sat, 24 Oct 2026 06:00:33 +0000</pubDate>
+    <description><![CDATA[Rockwell Automation, Inc. 是全球最大的工业自动化与数位转型专业公司，今日宣布推出 FactoryTalk® Conductor™ ，这是一个全新的 AI 原生协同调度平台，旨在协调整个工业自动化生命周期中由 AI 驱动的工作，为从系统设计到营运与维护的 AI 驱动工作流程奠定基础。该软体将在波士顿举行的 Automation Fair® 2026 首度公开亮相，与会者可在其预计于 2027 年第一季正式上市之前，率先获得独家抢先体验。
+
+根据 Rockwell Automation 的《2026 年智慧制造现状报告》，三分之一的制造营运已导入 AI 强化功能，预期未来几年的采用速度将会加快。随著制造商从人工智慧实验转向更广泛的部署，他们需要实用的方法来连结技术、工作流程和专业知识。FactoryTalk Conductor 旨在透过单一平台满足此需求，该平台将人工智慧整合至各种工程环境中。
+
+ARC Advisory Group 副总裁 Craig Resnick 表示：「下一阶段的工业 AI 将由协同调度，而非个别的 AI 助理来定义。制造商需要能够跨软体系统、工程工具与营运资料协调各项任务的 AI 技术。FactoryTalk Conductor 将 AI 代理程式、工作流程与工业专业能力整合於单一环境中，反映出产业朝向代理式自动化的演进。」
+
+FactoryTalk Conductor 让使用者能以自然语言启动工程任务，并智慧地连结完成这些任务所需的软体、AI 能力与工作流程。该平台在推出时将与 Studio 5000 Logix Designer®、Logix Echo™、Emulate3D® 及 FactoryTalk® Optix™ 整合，涵盖关键的设计、开发、模拟与测试工作流程。后续计划整合 Rockwell Automation 软体产品组合中的更多产品，包括 FactoryTalk® Design Studio™、FactoryTalk® Historian、Plex® 与 Fiix®，将由 AI 驱动的工作流程扩展至整个工业自动化生命周期。
+
+Rockwell Automation 软体与控制资深副总裁 Matheus Bulho 表示：「FactoryTalk Conductor 的独特之处，在于结合了 AI 协同调度与值得信赖的工业专业能力。客户可运用经 Rockwell Automation 验证的代理程式与技能，打造符合自身业务需求的功能，并跨软体、资料与服务串连 AI。这为加速工程作业奠定了可扩展的基础，同时维持工业环境所需的标准。」
+
+参加 Automation Fair 2026 的制造商，将能在多个展场体验区观看 FactoryTalk Conductor 的示范，包括 Technology & Services Showcase、Industry Pavillion、Innovations，以及专门的技术议程。
+
+（本文由PR Newswire授权转载；首图来源：shutterstock）]]></description>
+  </item>
+  <item>
+    <title>超导类神经网路晶片通过核融合测试，每秒即时分析百万笔电浆资料</title>
+    <link>https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/</link>
+    <guid>https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/</guid>
+    <pubDate>Sat, 24 Oct 2026 06:00:30 +0000</pubDate>
+    <description><![CDATA[美国能源部（DOE）布鲁克黑文国家实验室（Brookhaven National Laboratory）19 日宣布，与普林斯顿电浆物理实验室（PPPL）、DIII-D 国家核融合设施及新创公司 Great Sky 共同开发的超导类神经网路晶片，顺利完成三项托卡马克电浆控制测试，能即时处理每秒百万笔取样的资料，为核融合反应器的即时控制系统奠定基础。
+
+托卡马克是以磁场约束高温电浆的核融合装置，电浆温度高达 1 亿 °C，状态瞬息万变，必须仰赖演算法、感测器与控制器即时监测。研究团队指出，传统矽晶片在如此严苛的环境很难跟上，因此需要全新架构的运算硬体。
+
+这款被实验室称为「超级智慧」（SI）晶片的元件，由布鲁克黑文实验室主导设计、Great Sky 负责制造，也是公司迄今最大晶片。有别于 CPU、GPU 以矽电晶体处理数位讯号，以超导电路模拟大脑神经网路，硬体层面直接实作类比式类神经网路。Great Sky 称之为「超导光电网路」（SOEN），结合约瑟夫森接面超导电路与整合式光子波导，兼顾运算速度与能源效率。
+
+三项测试有两项将 DIII-D 托卡马克实测资料输入晶片，执行异常分类与破裂预测；第三项则处理 Google DeepMind 核融合团队开发的模拟器 TORAX 产生的资料，成功预测锯齿不稳定性的发生，证明晶片可望用于即时电浆状态模拟。
+
+PPPL 主任 Steven Cowley 表示，核融合装置需要能以电浆变化速度思考的控制系统，这款晶片直接接收托卡马克每秒数百万笔资料仍能跟上，是迈向实用核融合发电的实质进展。DIII-D 主任 Richard Buttery 也说，团队已准备下次实验整合这款晶片。
+
+Great Sky 于 2024 年底由美国国家标准暨技术研究院（NIST）研究人员创立，研发逾十年。执行长 Jeff Shainline 认为这只是开始，未来还可应用于量子系统控制与错误更正、资安及高速 X 光资料分析等领域。团队正撰写论文，并开发类神经网路规模扩大十倍的下代晶片，2027 年初于布鲁克黑文实验室展示，同年稍晚再部署至 DIII-D 托卡马克实地测试。]]></description>
+  </item>
+  <item>
+    <title>台湾研究登国际期刊：证实抗忧郁药助攻癌症免疫疗法，死亡率降 37%</title>
+    <link>https://technews.tw/2026/10/24/antidepressants-boost-cancer-immunotherapy/</link>
+    <guid>https://technews.tw/2026/10/24/antidepressants-boost-cancer-immunotherapy/</guid>
+    <pubDate>Sat, 24 Oct 2026 05:30:19 +0000</pubDate>
+    <description><![CDATA[在漫长的癌症治疗中，许多患者必须面对情绪低落与焦虑的考验。然而，一项由台湾三军总医院与国防医学院团队领导的最新研究指出，患者为改善情绪而服用的常见抗忧郁药物，竟可能成为强化「癌症免疫疗法」的意外神队友。该研究已正式发表于国际知名医学期刊 《PLOS Medicine》。
+
+「免疫检查点抑制剂」为晚期癌症治疗带来革命性突破，其原理是释放肿瘤对免疫系统踩下的「煞车」，让免疫细胞能重新攻击癌细胞。为寻找能增强疗效的辅助药物，三军总医院陈柏瑝医师与李卓豪医师的研究团队，分析了全球电子病历资料库。
+
+团队筛选出 2015 至 2025 年间接受免疫疗法且患有忧郁症或焦虑症的实体肿瘤患者。为了确保数据精准，团队将 1,567 名服用「选择性血清素回收抑制剂」（SSRI）（如百忧解等常见抗忧郁药）的患者，与 1,567 名服用「苯二氮平类药物」（BZD）（常见抗焦虑与镇静安眠药）的患者，进行了多达 49 项特征的严格配对。
+
+数据分析显示，在两年的追踪期内，SSRI 组的死亡率为 23.5%（368人），而 BZD 组则高达 34.4%（539人）。在考量时间因素后，服用 SSRI 的患者死亡风险大幅降低了约 37%。
+
+▲ 图表展示了两组癌症患者在接受免疫疗法后，长达两年的生存轨迹对比：（左图 a）代表服用「SSRI 抗忧郁药」的病患（蓝线），其整体存活机率始终且稳定地高于服用「BZD 镇静安眠药」的病患（橘线）。两条曲线不仅没有交叠，开口反而随著时间不断拉大，证实 SSRI 组的死亡风险大幅降低了约 37%。（右图 b）的累积死亡率长条图进一步点出关键细节。在追踪初期（第 3 个月），两组的死亡率差异仅有 3.0%；但随著治疗时间拉长到第 24 个月时，SSRI 组的累积死亡率（32.1%）已远远低于 BZD 组（46.9%），两者的绝对风险差异一路飙升至 14.9%。这项数据直观地证明了 SSRI 做为辅助药物，其带来的生存效益具有长期且显著的影响力。（Source：论文）
+
+为何抗忧郁药物能对抗癌症？关键在于「血清素」（Serotonin）。过去动物实验发现，免疫 T 细胞上也存在血清素转运体，当吸收血清素时会抑制其抗癌活性。而 SSRI 药物的作用正是阻断血清素回收。李卓豪医师生动比喻：「简单来说，免疫疗法松开了免疫系统的第一道煞车，而 SSRI 则可能松开了就在旁边的『第二道煞车』。」
+
+团队更透过分析超过 8,000 个肿瘤样本，发现在 20 种癌症中，有 13 种癌症的血清素转运体基因表现越高，其 T 细胞的抗癌反应就越弱，这从基因层面为此发现提供了有力佐证。
+
+尽管数据令人振奋，但研究团队也强调这是一项「观察性研究」，尚无法确立绝对的因果关系。例如，资料库无法评估患者的日常活动能力，且服用安眠药的患者可能本身病情就较为严重。
+
+李卓豪医师特别呼吁患者：「这项研究并不是让大家为了『增强』免疫疗法而自行去服用 SSRI 抗忧郁药，更不能擅自停用医师处方的安眠药。」未来科学界仍需透过严谨的随机对照临床试验（RCT），确认 SSRI 是否能成为标准的辅助用药。若未来获证实，这类便宜且普及的药物，将有望为全球无数癌症患者带来新希望。]]></description>
+  </item>
+  <item>
+    <title>神经网路「没那么难懂」，OpenAI 前研究员 2.6 万字长文引爆学界正反论战</title>
+    <link>https://technews.tw/2026/10/24/ai-world-stunned-breakthrough-unravels-neural-network-mystery/</link>
+    <guid>https://technews.tw/2026/10/24/ai-world-stunned-breakthrough-unravels-neural-network-mystery/</guid>
+    <pubDate>Sat, 24 Oct 2026 05:00:23 +0000</pubDate>
+    <description><![CDATA[AI 新创公司 Goodfire 的研究员 Nick Cammarata 近期发表一篇长达 2.6 万字的部落格文章，提出一项震撼 AI 圈的主张：大型语言模型（LLM）可能远比过去大众所认知的更容易理解与控制。
+
+这篇文章不仅引发热烈讨论，外媒更称其为年度「最重要的文章」，连 OpenAI 执行长 Sam Altman 也公开表达赞赏。
+
+Very happy to see this from Nick!
+
+— Sam Altman (@sama)October 16, 2026
+
+据外媒专访指出，Cammarata 在文章开头便写下「我想我有关于神经网路本质的好消息」。在 OpenAI 与 Anthropic 等公司的 AI 代理程式接连被揭露突破控管、于公开网路上造成破坏之际，AI 产业正急于掌握自家技术，这也成为该文章引发强烈回响的重要背景。
+
+有趣的是，Cammarata 正是当年奠定「神经网路内部是一团纠结」这个主流观点的推手之一。他过去在 OpenAI 任职时，致力于机制可解释性（mechanistic interpretability）领域，协助开发窥探模型内部的技术，例如探测单一神经元所代表的意义。
+
+2020 年，他与团队在研究影像辨识模型 Inception v1 时，发现单一神经元竟会同时对「汽车」与「猫」产生反应。当时的推论是模型为了塞进更多资讯，让神经元处于「一兼多职」的叠加（superposition）状态，从此「模型内部难以理解」便成为业界共识。
+
+然而，在 Goodfire 工作的过去一年里，Cammarata 几乎每周七天、每天花 10 小时观察神经元，并借由 AI 代理团队协助分析。他重新检视 Inception v1 模型，改变提问方式：「汽车与猫究竟有什么共通点？」结果发现两者都带有明显的「V 字形」特征──亦即猫的脸庞与从侧面看时的汽车车头。
+
+▲ 透过最佳化图像与自然影像所呈现的 InceptionV1 后期层神经元。（Source：Nick Cammarata）
+
+进一步测试显示，该神经元对撞球桌角、日本新干线的尖鼻车头以及向上喷水的消防船皆有反应，但遇到圆形的「O 字形」时则会被抑制。Cammarata 坦言：「我们以前看错了。」他现在乐观地认为，若有 10 万年的时间逐一检视前沿语言模型的每个回路，人类有相当大的机会能完全理解它。
+
+尽管这项观点为 AI 安全领域带来希望，但学界的反对声音同样明确。史丹佛大学的 Chris Potts 认为，这篇文章现阶段几乎只是一种直觉，即使检视了数千个例子，也无法取代严谨的科学评估。非营利研究机构 Alignment Research Center 的 Jacob Hilton 在 X 平台上指出，目前研究者对顶级 LLM 内部运作的理解仍不到 0.01%，要达成完整理解，必须超越单一神经元，进一步解释它们如何连结成复杂的回路。
+
+Language models are getting much, much harder to fully understand with scale, not easier! (Thread)
+
+— Jacob Hilton (@JacobHHilton)October 16, 2026
+
+Google DeepMind 的 Neel Nanda 也表示这项研究固然有趣，但并非对可解释性整体图像的重大更新。此外，报导补充说明，该文章仅是未经同侪审查的「工作假说」，且目前研究最深入的仍是相对简单的视觉模型，而非驱动 ChatGPT 或 Claude 背后的复杂语言模型。
+
+面对外界的热烈讨论，Cammarata 本人也承认许多人「解读过头」。他强调，这并非无限好的消息，神经元组合起来的复杂性仍有许多未解之谜。目前，他的团队已经开始将这套方法应用于现代的 LLM 上，并透露在较大模型上的初步测试「目前看来有希望」，预计很快将发表正式的技术结果。
+
+it’s been a dramatic couple of days, I didn’t expect the already clean essay to be read so widely. I’ve heard more interesting discussions about mechanistic interpretability – should we think mostly in features or mechanisms and the flow of data through them, how much do weak activations matter, how does scale change things, and lots of other questions – than I have in a long time and I’ve been happy to hear all the discussion!
+
+a couple things on the essay itself. it didn’t have enough citations, only ones for the basic story, since it was an “informal research essay and working hypothesis" rather than a paper, and other prior work around neurons were in the technical paper we’re still finishing up. but it blew up, so I’ve added citations to the essay as well. I also want to thank @curttigges who did a lot of the language neuron research with me
+
+finally, while there was quite a range of updates, from this being incremental and obvious to interpretability going from hopeless to fully solved, I want to try to be clear about roughly where I stand
+
+I used to think neural networks would take some big cleaning step and then we could begin the ordinary natural science of mapping the parts and how they connect, watching data flow through, mapping circuits, and so on.
+
+at various points, like late layers of early model organisms and most layers of language models years ago, this didn’t really work. but now with better tools and better models of study, it works much better
+
+for smaller vision models, this normal science process worked surprisingly well, until the whole map started to be broadly filled in. For bigger modern language models, it seems promising so far, for both neurons and circuits, attribution graphs, basically everywhere we’ve glanced. the map isn’t filling in, there’s a lot of map. there’s still off-target firing, neurons that do a few things, but so far it’s not an incoherent mess that you can’t explore and learn from, and over time we get better at learning how to see it.
+
+so maybe it keeps going, and mapping motifs and exploring actually gets you pretty far, maybe something like “all the way" to a reasonable solution. I don’t think it would be so scientifically surprising if that were the case. everything in the neural network was built in some sense to be read – by its downstream readers – and if we can learn to look like a reader, we might find reading them relatively easy. many researchers I talk to outside interpretability assume the parts are already understandable, and the difficulty is just in the mapping stage!
+
+it was also my prior when I first started looking at neurons when I first joined the field. there’s lots of highly interpretable ones, maybe that’s just how neural networks are if you look right.
+
+even in the good world it would still take some iteration on tools, on ways of looking, neuron-attention interactions are tricky for instance. there’s probably no bright red line separating “cleaning the model" from “learning to look better" but there’s broad working principles, and as of now I think we should try to look relatively directly if we can
+
+it shouldn’t be so hard to test, you can just start looking at things and iterating and trying to understand motifs and such and see if it just breaks down at some point. it can take some iteration, I would recommend a bias against assuming arbitrary mixtures when you don’t understand something at first, but also explanations should be tested
+
+for now I’m pretty optimistic, and I’m glad there’s excitement about interpretability, but too much can cause problems too. I think part might be that ai safety isn’t a very hopeful field, and even moderate amounts of optimism about an important problem being solvable in the future fills a spot that has been malnourished for a while. across several safety disciplines, the researchers directly working on them are often more optimistic than the people broadcasting pessimism more broadly
+
+for neural network interpretability at least, these are extraordinarily experimentally accessible objects of science, I don’t know of a better one, and we have automated scientists. we have many things going in our favor. it’s important and it’s fun. the circuitry of these machines can be beautiful, surprising, entertaining, and insightful. I’ve spent thousands of hours looking through them, asking questions and running experiments and testing things, and would do so even if it weren’t so important. I think the problem is solvable, whether the simple thing works, it mostly works but we need some new things, or we need big new ideas. I think we can figure it out
+
+— Nick (@nickcammarata)October 16, 2026
+
+即使未来掌握了每个神经元的功能，也不等于理解整个网路的宏观运作；可解释性固然是打造更安全 AI 的必要条件，但绝非充分条件。]]></description>
+  </item>
+  <item>
+    <title>AWS 产能预订至 2028 年，亚马逊示警电力、记忆体短缺难解</title>
+    <link>https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/</link>
+    <guid>https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/</guid>
+    <pubDate>Sat, 24 Oct 2026 03:26:55 +0000</pubDate>
+    <description><![CDATA[随著 AI 基础设施需求持续攀升，亚马逊云端服务（AWS）运算产能已供不应求。根据外电报导，亚马逊执行长 Andy Jassy 表示，AWS 2026 年大型运算产能已全数被预订，2027 年大部分产能也已售罄，甚至 2028 年也有相当比例产能获得客户承诺。
+
+Jassy 在创投公司 Andreessen Horowitz 的播客访谈中指出，AI 实验室对运算资源的需求达到前所未见的规模，加上企业云端业务持续成长，使 AWS 即使积极扩充产能，仍难以完全满足客户需求。他表示，AWS 仍会保留部分产能，支援随选运算及 Bedrock、EC2 等服务，但大型运算产能多已被客户预订，反映云端基础设施需求持续强劲。
+
+除了运算产能供不应求，AI 基础设施扩张也面临电力及记忆体供应限制。Jassy 指出，目前资料中心、电力及记忆体资源均相当有限，且不认为相关短缺会在 2027 年结束，部分零组件的供应限制甚至可能持续数年。他进一步表示，随著 AI 与传统云端业务需求同步成长，AWS 必须在有限的记忆体供应下，权衡高频宽记忆体（HBM）与传统云端业务所需动态随机存取记忆体（DRAM）的资源分配。
+
+另一方面，亚马逊也积极发展自研 AI 加速器 Trainium，以改善 AI 运算成本效益。Jassy 表示，Trainium 相较同级处理器，性价比高出约 30% 至 40%。他认为，尽管近年 AI 推论成本已明显下降，但若要让 AI 更广泛导入企业应用，目前成本仍高出理想水准约一个数量级，因此降低推论成本将是推动企业扩大 AI 应用的重要关键。
+
+事实上，亚马逊过去便透过自研处理器改善云端运算成本。Jassy 指出，AWS 前 1,000 大 EC2 客户中，已有 99% 使用自研 CPU Graviton，其性价比相较其他 x86 处理器高出约 40%。随著 AI 运算需求快速成长，亚马逊也将相同策略延伸至 AI 加速器 Trainium，希望透过自研晶片进一步降低运算成本，提升云端服务的竞争力。
+
+面对 AI 基础设施需求持续成长，亚马逊预计 2026 年投入约 2,200 亿美元资本支出，涵盖资料中心、伺服器及网路设备等投资。Jassy 表示，即使投入如此庞大的资金，AWS 仍无法完全满足市场需求，且进一步扩大投资仍可能具有经济效益。亚马逊预计于 10 月 29 日公布第三季财报，届时 AWS 营收成长、资本支出及 AI 基础设施投资进展，将成为市场关注焦点。
+
+（首图来源：Flickr/Web SummitCC BY 2.0）]]></description>
+  </item>
+  <item>
+    <title>「非红」标签只是加分，台湾无人机突围须先挤进大厂供应链</title>
+    <link>https://technews.tw/2026/10/24/non-red-supply-chain-bonus-czech-taiwan-largest-drone-market-defense-startups-two-hurdles/</link>
+    <guid>https://technews.tw/2026/10/24/non-red-supply-chain-bonus-czech-taiwan-largest-drone-market-defense-startups-two-hurdles/</guid>
+    <pubDate>Sat, 24 Oct 2026 03:00:56 +0000</pubDate>
+    <description><![CDATA[布拉格举办的捷克新创周的「DefenceTech on the Frontier of Europe」对谈，乌克兰国民警卫队第一军国防产业联络官 Mykyta Puz 说起一段经验：他把测试报告交给一家欧洲新创，列出产品上战场前必须修改的计划，对方回复：「没问题，给我们 6~8 个月。」
+
+「不行，你们没有6~8个月」，Mykyta Puz说，同类产品的乌克兰厂商，三周就能完成同样的修改。
+
+俄乌战争爆发后，欧洲国防市场的钱确实变多了，但市场要的跟新创、创投所想像的，可能有些出入，对台湾无人机业者来说更加值得警惕。
+
+经济部统计，今年第一季台湾无人机整机出口值达1亿1,585万美元（约新台币37.8亿元），已超过去年全年9,341.9万美元，出口到捷克约1亿美元（约新台币32.6亿元），捷克超越波兰，成为台湾无人机最大出口市场。
+
+经济部把台湾无人机出口成长，归因于全球「非红供应链」需求升温，但捷克投资局（CzechInvest）国防计划（Project Defence）负责人Leoš Mauer表示，非红供应链在欧洲还称不上门槛。
+
+Leoš Mauer表示，目前不论NATO新创加速计划「北大西洋国防创新加速器（DIANA）」或欧洲国防采购，都没有把非红供应链列为强制条件。他表示，欧洲企业因为担心间谍风险，越来越想用非红供应链，「但这仍是偏好，还不是硬性的法规要求」。
+
+所以，「非红」标签能让台湾厂商进到买家的候选名单，但Leoš Mauer补充，到了乌克兰前线，战时需求量大、成本压力高，便宜的中国零件仍被大量使用；当买家要的是大量、便宜、马上能用的产品，台湾零件仍得和中国零件比价格与交期。
+
+乌俄战争开打后，捷克在两年内供应乌克兰400万发155公厘砲弹，Leoš Mauer表示，至少一半在捷克生产，捷克斯洛伐克集团（CSG）等大厂的产能因此吃紧。当大厂忙不过来，外部厂商的机会就出现在供应链里：他估计，60%~70%军民两用新创做出来的东西没办法直接卖给军队，多半是进入已经通过标准认证的大厂供应链。
+
+台湾业者能走的也是这条路。虽然DIANA只收NATO成员国企业，台湾企业不能申请，但Leoš Mauer表示，入选新创不必让出股权，只要不卖给俄罗斯、伊朗等受制裁对象，就可以和台湾企业做生意。直接打进NATO采购体系很难，先卖给已经在体系内的大厂和新创，是比较实际的做法。
+
+就算挤进大厂供应链，产品还得跟上战场的速度。开头Mykyta Puz说的三周，是乌克兰厂商的常态，他们能这么快，是因为前线和厂商之间几乎没有距离。Leoš Mauer表示，乌克兰政府设立的国防科技平台Brave1，让前线士兵可以像网购一样，直接在平台上挑选需要的无人机，厂商再用邮寄送到部队手上，士兵的使用回馈也直接回到厂商那里。
+
+战场状况一变，厂商就得跟著改。Leoš Mauer举例，俄军的电子干扰频率一换，无人机的通讯就可能被干扰失灵，乌克兰厂商通常在14天到三周内就能调整频率、推出新版本。
+
+但欧洲的国防新创却连测试场地都难找。Ilavska Vuillermoz Capital合伙人Quentin Dupraz说，他曾接到一位做雷射技术的创办人来电，对方想去乌克兰，但要说服投资人得先有测试场，问他能不能找到一块地。「我开玩笑说，我奶奶家后面有片森林。」Quentin Dupraz表示，欧洲目前缺乏测试设施，也缺乏让突破性技术成长的环境，这就会引发「供给」和「需求」之间的落差。
+
+▲ 左起Invest In Bravery共同创办人Lola Onipko、Ilavska Vuillermoz Capital合伙人Quentin Dupraz、S-Tech Ventures a.s.董事会成员Anna Růžičková，和乌克兰国民警卫队第一军国防产业联络官Mykyta Puz。
+
+Invest In Bravery共同创办人Lola Onipko提醒，士兵的首要任务是作战，不可能随叫随测，「这不是慈善」，合作必须是共同开发付费、双方都受益：乌克兰提供测试场，欧洲带来成熟的技术能力。
+
+Mykyta Puz表示，军方可以给新创六周，但不会给八个月，「八个月后，别人会比你快，或是战场需求已经完全变了。」他认为这是创办人的心态问题，很多人仍以「一年加上300万欧元（约新台币1.1亿元）做出原型」来规划，对现在战场已经来不及。
+
+尽管供给与需求有落差，欧洲创投投入国防新创的资金仍然快速增加。
+
+Quentin Dupraz引用Dealroom在10月初报告《The State of Defence Tech 2026》指出，欧洲创投投入国防的金额已达74亿美元（约新台币2,400亿元），约47%来自美国。Lola Onipko也表示，国防是目前欧洲创投成长最快的投资类别，规模预估将达约105亿美元（约新台币3,400亿元）。
+
+资金一多，想搭顺风车的新创也跟著变多。Mykyta Puz认为，国防新创已经开始出现泡沫，「就像加密货币，或2000年的网路泡沫」，他以前线使用者的身分表示，不少新创为了拿到资金，在投资简报上堆满流行词，例如号称打造了一个「AI量身打造、量子驱动、多领域、蜂群作战、具备韧性决策能力的平台」，简报看起来很漂亮，前线却未必用得上。
+
+投错公司的代价，国防领域也更高。Mykyta Puz表示，一般创投预期投资组合里多数公司会失败，靠少数独角兽赚回来；国防新创的产品一旦失败，代价则是战场上的伤亡。他遇过一位投资人，准备投资一家号称「在乌克兰经过实战测试」的公司，Mykyta Puz的团队向前线作战单位查证后发现，这套系统确实部署过，但几乎没有用处。
+
+因此Lola Onipko主张，投资人评估国防新创时，尽职调查（Due Diligence）一定要找乌克兰前线的使用者确认产品是否真的有用，并且要为这件事编列预算。
+
+第一季的出口数字显示台湾无人机已经进入这个市场，但是接下来买家会问的问题，布拉格的对谈都听得到：产品在前线测过吗？测试报告出来后，多久能改完？]]></description>
+  </item>
+  <item>
+    <title>Xbox Series X 成功跨界跑 PS5 游戏，却受限 5GB 记忆体天花板</title>
+    <link>https://ccc.technews.tw/2026/10/24/xbox-series-x-successfully-runs-ps5-games/</link>
+    <guid>https://ccc.technews.tw/2026/10/24/xbox-series-x-successfully-runs-ps5-games/</guid>
+    <pubDate>Sat, 24 Oct 2026 02:30:40 +0000</pubDate>
+    <description><![CDATA[开发者社群近日展示了一项引发热烈讨论的实验：Xbox Series X 已经能够透过移植版模拟器执行部分 PlayStation 5 游戏。不过，这项跨界成果目前仍停留在纯技术展示阶段，因为它仅能在主机官方的「开发者模式」下运作，该模式对游戏可用记忆体设下了 5GB 的严格上限，成为推广至更多现代游戏的最大障碍。
+
+这项计划是将开源的 PS5 模拟器 KytyPS5 移植到 Xbox 平台后所实现。开发者 Devran Cosmo Uenal 曾在 YouTube 影片中，展示使用 Xbox 控制器在 Xbox Series X 上游玩 PS5 版的《Quake II》。他表示目前已成功让 4 款 PS5 游戏顺利运作，包含《GEX Trilogy》、《Hellboy: Web of Wyrd》、《Marvel Cosmic Invasion》与《Quake II》，部分游戏不仅能正常播放音效，且皆完美支援 Xbox 控制器输入。
+
+之所以能达成这一步，归功于两款主机极为相近的硬体规格。Xbox Series X 与 PS5 均采用 AMD 的 Zen 2 八核心 CPU、RDNA 2 显示架构以及 16GB GDDR6 记忆体，且 PS5 游戏本身同样是针对 x86-64 架构进行编译。开发者指出，KytyPS5 并非凭空完整模拟 PS5 硬体，而是透过相容层（Compatibility layer）将 PS5 的指令转换成主机可理解的形式，让游戏程式码能直接在主机的 CPU 上执行。
+
+然而，这项技术的限制同样显而易见。Xbox 的开发者模式不仅将游戏记忆体限制在 5GB，应用程式本身更只有 1GB 可用，一旦超出资源分配就会导致运行失败。相较之下，一般零售版的 Xbox Series X 游戏可调用高达 13.5GB 的记忆体，开发者模式的可用空间仅约其 37%。这意味著目前的方案仅适用于规模较小或较旧的作品，对吃重效能的大多数现世代游戏而言极不切实际。
+
+此外，这套移植版模拟器目前尚未释出公开下载版本，开发者也坦言专案仍处于早期阶段，游戏相容性相当有限。虽然这次展示完美证明了 Xbox Series X 与 PS5 之间的硬体相似性足以支撑部分跨平台执行，但在没有获得更高记忆体配额或找到绕过限制的方法前，这项成果仍仅是一场令人惊艳的技术实验，而非玩家立即可受惠的实用方案。]]></description>
+  </item>
   <item>
     <title>AI 资料中心缺电怎么办？辉达从用电端下手，DSX 最高省电 30%</title>
     <link>https://technews.tw/2026/10/24/nvidia-dsx-ai-data-center-power-shortage-30-percent-savings/</link>
@@ -102,243 +375,6 @@ B. Riley Wealth 首席市场策略师 Art Hogan 表示，Meta 公布财报后，
 债券市场方面，美国 10 年期公债殖利率周五回升 3.7 个基点，来到 4.99%。BondBloxx Investment Management 资深投资策略师 JoAnne Bianco 指出，通膨黏著性仍是市场面临的重要压力。此前，美国 10 年期公债殖利率周四才创下近 4 年来最大单日跌幅。
 
 随著美股财报季持续进行，下周 Alphabet、微软及亚马逊等云端服务供应商（CSP）将陆续公布季度财报，市场将密切关注各大科技巨头的 AI 资本支出规划与后续展望。]]></description>
-  </item>
-  <item>
-    <title>辉达 AI 工厂点将！矽品 CPO 产能拚增 30 倍，欣兴、京元电迎扩产爆发期</title>
-    <link>https://technews.tw/2026/10/24/nvidia-names-4-supply-chain-boost-production-shipments-kyec-unimicron-spil/</link>
-    <guid>https://technews.tw/2026/10/24/nvidia-names-4-supply-chain-boost-production-shipments-kyec-unimicron-spil/</guid>
-    <pubDate>Sat, 24 Oct 2026 01:00:12 +0000</pubDate>
-    <description><![CDATA[辉达德国柏林 GTC 于 10 月 21 日登场，根据《财讯》双周刊报导，辉达超大规模与高效能运算副总裁 Ian Buck（伊恩·巴克）在展前记者会上宣布在欧洲建立主权 AI 工厂，合作伙伴为法国的 BULL（布尔电脑）以及鸿海集团的捷克厂。此外，辉达更直接点名四大供应链未来将大举扩产以配合这波 AI 基建，台系厂商包括欣兴、京元电子、矽品都入列。
-
-AI基础建设竞争进入新阶段，辉达正从GPU供应商，进一步扩大布局至整座AI工厂。最新公布的架构与生态系规画，涵盖Vera Rubin运算平台、网路交换器、储存系统、AI软体、电力管理及液冷设施，并携手欧洲制造与系统整合伙伴，推动在地化AI基础建设。
-
-值得注意的是，随著AI工厂对高频宽运算、先进封装及高速光通讯的需求持续攀升，相关投资也进一步带动IC载板、先进封装、测试设备及共同封装光学（CPO）供应链扩产。
-
-《财讯》双周刊指出，辉达直接点名四大供应链的扩产规画。第一，IC载板，整体产能预计在三年内增加2.5倍，供应商包括日本挹斐电（Ibiden）、三星电机及欣兴等业者。第二，先进封装，艾克尔（Amkor）的中介层晶圆产能目标在2028年底增加4倍。第三，IC测试服务厂商京元电子的相关产能，则规画于2027年增加至2倍。
-
-第四，光通讯项目，矽品的CPO光引擎产能目标于2027年年中增加至15倍，并于2028年底进一步扩大至30倍。这显示随著AI资料中心内部及机柜之间的资料传输需求快速成长，光通讯与共同封装光学正逐渐成为AI基础设施的重要环节。
-
-辉达提出全堆叠AI工厂（Full-Stack AI Factory）架构，今年整合Vera Rubin NVL72运算节点与交换器节点、Vera MGX运算节点、Vera STX储存节点、Spectrum-6交换器，以及Groq 3 LPU等产品，搭配CUDA-X函式库、平台软体与开放模型，建立从晶片、伺服器到资料中心的完整解决方案。
-
-根据《财讯》双周刊报导，这套架构的核心，在于让AI资料中心不再只是堆叠GPU，而是透过运算、网路、储存与软体协同设计，提高整体系统的使用效率。辉达将AI工厂定位为一种新的投资资产类别，提出生产力、耐久性及可替换性三大方向。
-
-在生产力方面，辉达以每百万瓦的运算产出为衡量指标，强调透过系统协同设计，在有限电力条件下提高AI工作负载的产出，以Vera Rubin NVL72与GB300 NVL72比较互动性与吞吐量，前者可带来最高30倍的吞吐量优势；不过，实际效能仍须视模型、工作负载与测试条件而定。
-
-耐久性则著重设备的长期营运价值。辉达以Volta平台已运作十年、Ampere平台推出六年，以及NVL72合约承诺七年并可选择延长至十年为例，强调AI基础设施需要考量整个使用周期，而非只看初期采购成本。至于可替换性，则是让同一套基础设施能够支援游戏、绘图、科学运算、资料处理及AI等多元工作负载，降低设备因技术更迭而闲置的风险。
-
-AI工厂另一项重要发展，是将资料中心建置流程标准化。辉达推出DSX POD AI工厂方案，透过预先完成配线、管路配置与系统验证的运算容器，降低传统资料中心现场施工与整合的复杂度。
-
-《财讯》采访得知，过去传统安装方式从机柜架设、配线、管路连接到验证及运转，可能需要六个月；DSX POD则主打在场地准备就绪后，将连接与启动时间缩短至14天。这项模式有助于加快AI算力上线速度，也让大型资料中心更容易透过模组化方式扩充。
-
-在区域布局方面，辉达正与欧洲供应链合作，推动Vera Rubin系统在地制造与整合，供应链横跨十多个国家，当中在欧洲主要的合作对象包括布尔电脑在法国昂杰进行机柜制造，以及鸿海在捷克进行系统制造，反映AI基础建设不只涉及晶片供应，也需要在地生产、机柜整合与系统交付能力。
-
-辉达并宣布推动DSX POD，携手Anduril、Armada、布尔电脑、Crusoe、戴尔、台达电、纬创、技嘉、英业达、仁宝、和硕、广达、施耐德电机及Vertiv等合作伙伴，扩大AI工厂的建置生态系。
-
-整体而言，辉达这波布局揭示AI产业竞争的下一个阶段，是比拚整座AI工厂的建置速度、每单位电力的运算产出、长期使用成本，以及供应链能否及时交付。从欧洲在地制造、模组化资料中心，到先进封装与CPO扩产，AI投资正由晶片向整体基础设施扩散，台湾相关供应链能否掌握系统整合与高速互连需求，将是下一波产业成长的重要观察指标。]]></description>
-  </item>
-  <item>
-    <title>Wi-Fi 也能当金属探测器用！瑞典开发 AI 系统辨识隐藏手枪，准确率达 72.5%</title>
-    <link>https://technews.tw/2026/10/24/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals/</link>
-    <guid>https://technews.tw/2026/10/24/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals/</guid>
-    <pubDate>Sat, 24 Oct 2026 00:45:26 +0000</pubDate>
-    <description><![CDATA[瑞典国防研究局（FOI）开发出名为 WiFireNet 的实验性人工智慧系统，尝试用 Wi-Fi 讯号变化辨识隐藏的手枪。论文 13 日以预印本发表于 arXiv，提供另一种不必依赖摄影机或金属探测门的侦测方法。
-
-WiFireNet 核心技术在分析所谓「信道状态资讯」（Channel State Information，CSI），即物体如何改变 Wi-Fi 讯号的测量结果。团队指出，当 Wi-Fi 讯号遇到物体，会因形状、方向与材质不同产生不同穿透与反射特征，或可辨识物体。为了训练模型，研究员建立 WiFire 资料库，同步录制 RGB 影像与反射的 Wi-Fi 讯号，并让受试者携带手机、塑胶手枪、金属水瓶与真实金属手枪并在室内移动，以协助模型学会区分外形或材质相近的物品。
-
-受控测试时，系统于小型室内空间追踪最多四名移动者时，仅凭 Wi-Fi CSI 辨识隐藏手枪的平均准确率达 72.5%。若要求更精准定位武器在携带者身上哪个位置，准确率会降至 53.8%。研究也显示，这套模型在陌生室内格局表现也不稳定。
-
-目前技术仍处于概念验证阶段。团队为了展示可行性，使用修改过旧版 IEEE 802.11a 无线标准实作，而非现成商用设备；后续计划导入 Wi-Fi 7 与 Wi-Fi 8，以取得更高解析度 CSI。研究员同时将程式码、模型与资料库开源，供后续研究使用。]]></description>
-  </item>
-  <item>
-    <title>AI 成功法则：20% 靠技术、80% 靠转型，打造对手难以复制的护城河</title>
-    <link>https://finance.technews.tw/2026/10/24/rules-for-successful-ai-transformation/</link>
-    <guid>https://finance.technews.tw/2026/10/24/rules-for-successful-ai-transformation/</guid>
-    <pubDate>Sat, 24 Oct 2026 00:30:06 +0000</pubDate>
-    <description><![CDATA[企业对人工智慧（AI）的投资热潮持续升温。相关报告显示，94% 的执行长表示即使短期回报不明朗，仍会持续加码投入；更有高达 72% 的执行长自认是企业 AI 策略的主要决策者。这项数据凸显出，AI 已正式从资讯部门主导的技术专案，全面升级为由高层直接拍板的企业级战略。
-
-最新观点指出，企业导入 AI 后，重点已不再只是追求「做得更快」，而是如何将省下来的时间转化为实质的成长动能。分析强调，AI 必须被视为企业策略的一部分，若单纯追求流程加速，反而容易因后续的反复审核与重工，抵销了初期的效率收益。
-
-因此，AI 带来的时间节省，并不一定会立刻反映在成本下降或绩效提升上。企业必须重新思考这些额外时间的投入方向，具体的可行策略包括：在不增加人力的前提下扩大服务量能、将资源挹注于提升产品与服务品质，或是深化员工的能力培养。业界提醒，真正应该衡量的指标，并非表面上的产出速度，而是扣除审核与返工后的「净效益」，借此建立难以取代的长期竞争优势。
-
-在更广泛的企业转型层面上，AI 正深刻改变营运模式与科技服务的样貌。多份观察指出，大型企业在导入 AI 时，往往面临老旧系统、分散资料、复杂流程与严格治理要求等挑战。这意味著导入 AI 绝非只是单纯「选择模型」，而是必须将技术无缝整合进既有的业务架构中，并同步重塑工作流程、资料治理与资安防护机制。这种转变，也让科技服务业的价值重心，从过往的人力投入，转向智慧、成果与商业价值。
-
-面对这样的趋势，AI 专案的成败不能仅凭「试点是否成功」来定论，而必须回归商业成果进行检视。企业在评估应用场景时，应先明确定义希望改善的客户体验、营收成长、成本效率或风险控管目标，再进一步决定技术、流程与人力的最佳配置。随著 AI 应用愈发深入企业核心，如何将节省下来的宝贵时间精准投注于对的地方，将成为下一阶段市场竞争力的关键分水岭。
-
-AI Reality Check: Going For Growth]]></description>
-  </item>
-  <item>
-    <title>一手送健保、一手削弱势？《老人福利法》大修背后的残酷代价</title>
-    <link>https://finance.technews.tw/2026/10/24/price-free-nhi-premiums-seniors-65-low-income-subsidies-dentures-lenses-gone-senior-benefits-healthcare-gap-vulnerable/</link>
-    <guid>https://finance.technews.tw/2026/10/24/price-free-nhi-premiums-seniors-65-low-income-subsidies-dentures-lenses-gone-senior-benefits-healthcare-gap-vulnerable/</guid>
-    <pubDate>Sat, 24 Oct 2026 00:00:37 +0000</pubDate>
-    <description><![CDATA[立法院三读通过《老人福利法》，未来将在排富前提下，由中央统一补助年满 65 岁以上长辈健保费。
-
-但这项修法可能反而冲击中低收入长辈医疗权益，同时增加保费负担的不公现象。
-
-10月16日，立法院院会在国民党团与民众党团主导下，三读通过《老人福利法》第22条修正案，未来年满65岁以上、近一年综合所得未达申报标准，或综所税率未达20％的长辈健保费，将全额由中央补助。预估「受益」人数约达403万人。
-
-法案三读后，台湾经济民主连合智库召集人赖中强发现新版条文中，一并删除了针对无力负担「健保部分负担」与「保险给付未涵盖之医疗费用」老人提供补助的法源，形同「政府一手代长辈支付健保费，另一手却削减弱势老人医疗权益」，且同时扩大保费负担不公，甚至有立法权逾越宪法的疑虑。
-
-早在2024年，立法院提出《老人福利法》修法草案时，就曾强力抨击修法目的的民间监督健保联盟（以下称督保盟）发言人滕西华分析，现行《老人福利法》第22条条文，要求地方政府依财政能力编列预算，补助无力负担「健保费」、「部分负担费用」、「保险给付未涵盖之医疗费用」3笔费用的老人。
-
-2024年12月，在野党立委提出的修法版本，则是要中央政府在排富后，一口气支付65岁以上长者健保费；同时中央也应代替地方政府编列预算，补助另两笔费用。
-
-滕西华表示，督保盟根据蓝白当时修法版本试算，光是增加非住院部分负担和住院部分负担的补助，中央就得每年编列超过500亿元的经常性预算，对财政造成严重冲击，修法因此暂缓，「这一次他们只保留健保费，把其他两项都删了。」滕西华苦笑。
-
-原本应由地方负责两项补助的条文遭删除，受冲击最大的将是「中低收入」老人。
-
-滕西华解释，根据《全民健康保险法》，符合社会救助法规定之「低收入户」成员就医时，相关负担费用由中央政府编列预算支应，因此不受这次修法影响。但针对「中低收入户」补助的唯一法源就是《老人福利法》第22条。
-
-卫福部社家署署长周道君也说明，修法后若地方政府决定不再持续补助，弱势长者的假牙、白内障手术使用的人工水晶体、心肌梗塞的心脏支架补助可能都会受到影响。
-
-除了修法瑕疵，以「年龄」做为补助与否的标准、且仅用20％所得税率做为排富门槛的修法意旨，也被学者质疑不符合公平原则。
-
-「高龄者只是没有所得，不是没有钱。这是两个概念。」政治大学财政学系特聘教授、中华经济研究院院长连贤明就直言，有些长辈没有所得，却有房租收益、资本利得；这次修法明显背离了健保基本的「量能课税」原则，反而把年龄做为补助判准，「为什么年纪大的人就需要补助？」
-
-（作者：吕苡榕；全文未完，完整内容请见《今周刊》；首图来源：Unsplash）]]></description>
-  </item>
-  <item>
-    <title>补足印太运补缺口，美国空军投资 Natilus 翼身融合货机</title>
-    <link>https://technews.tw/2026/10/24/usaf-invested-natilus-3-5-million-for-its-kona-bwb-aircraft/</link>
-    <guid>https://technews.tw/2026/10/24/usaf-invested-natilus-3-5-million-for-its-kona-bwb-aircraft/</guid>
-    <pubDate>Fri, 23 Oct 2026 23:00:55 +0000</pubDate>
-    <description><![CDATA[美国空军近期授予航空新创 Natilus 350 万美元研发合约，支持旗下翼身融合货机 KONA 开发，瞄准印太地区分散部署的运补需求，新机预计于 2027 年底或 2028 年初首飞。
-
-Natilus 营运长吉布林（Nolan Giblin）表示，这是公司首次获得美国政府投资，将搭配既有民间募资，降低关键技术风险。
-
-翼身融合（Blended Wing Body，BWB）设计将机身与机翼平顺整合，让机身也能产生升力，提高气动效率并降低油耗，这类构型已研究数十年，但机体整合与飞行控制等挑战，使其至今仍未成为主流商用机设计。
-
-KONA 翼展约 25.9 公尺，最大起飞重量约 8.6 公吨，规划搭载普惠（Pratt & Whitney）PT6 涡轮螺旋桨发动机，定位介于塞斯纳 C-208 轻型通用机与洛克希德马丁 C-130 战术运输机之间。
-
-吉布林将这类任务称为「次战术级空运」（sub-tactical lift），希望填补小型通用机运量不足，让部分补给任务不需动用到 C-130，为印太分散据点提供较符合运量需求的运输选择。
-
-美国空军曾于 2023 年投入 2 亿 3,500 万美元，支持 JetZero 打造翼身融合全尺寸验证机，探索未来空中加油与运输用途，相较之下 KONA 聚焦较小级距的区域货运，两者任务定位有所区别，空军也仍在评估未来机队需求。
-
-Natilus 仍以商业市场为主要目标，目前没有军用专属改装计划，将以相同设计服务军事与商业客户，初期 KONA 采用传统钢缆与滑轮操控系统，由飞行员透过机械连结操纵控制面，同时预留选择性有人驾驶或全自主飞行的升级空间，自主系统可能由公司自研或与外部供应商合作。
-
-KONA 原型机目前正在加州圣地牙哥组装，Natilus 规划进入全速量产后，每月可制造约 5 架。]]></description>
-  </item>
-  <item>
-    <title>NASA 最新示警：北极海冰「冬夏双减」结构脆化，2050 年前恐面临夏季无冰危机</title>
-    <link>https://technews.tw/2026/10/24/arctic-sea-ice-shrinking-crisis/</link>
-    <guid>https://technews.tw/2026/10/24/arctic-sea-ice-shrinking-crisis/</guid>
-    <pubDate>Fri, 23 Oct 2026 16:00:58 +0000</pubDate>
-    <description><![CDATA[根据 NASA 与美国国家冰雪资料中心（NSIDC）的最新分析，北极海冰正遭遇严峻的气候考验，无论是冬季还是夏季的覆盖面积均呈现缩减趋势。近 50 年来的卫星观测纪录显示，这片极地冰盖的长期变化正持续恶化，不仅夏季的最低覆盖面积持续走低，冬季的最大范围也同样呈现减弱的疲态。
-
-今年（2026年）的北极海冰在 9 月 12 日降至年度最低点，面积仅剩约 460 万平方公里，与 2008、2010 及 2025 年并列为卫星观测史上的「历史第 10 低」。尽管近十年来，夏季海冰的流失速度曾一度放缓，但科学家强调这绝非冰层正在恢复的迹象。事实上，自 2007 年至 2026 年，每一年的 9 月海冰面积，全数名列历史观测纪录中最低的 20 个年份之内。
-
-研究人员进一步指出，北极海冰不仅在「量」上锐减，在「质」与结构上也变得更加脆弱。过去能够撑过数个夏季融冰期的厚实「多年期海冰」大幅减少，取而代之的是较薄且较年轻的「单年期新冰」。这类年轻冰层在夏季气温升高时，极易迅速消融。此外，冬季的情况也不容乐观：2026 年 3 月的冬季海冰最大面积与 2025 年 3 月的纪录打平，双双创下观测史上的最低冬季峰值。
-
-▲ 根据「北极海冰面积走势图」，2026 年（红线）全年覆盖范围皆远低于历史平均（蓝虚线），并跌破标准差下限（蓝色阴影）。图中揭露两大警讯：3 月的冬季海冰最大值与 2025 年并列观测史最低；9 月 12 日夏季海冰则降至年度最低点，走势逼近 2012 年（橘线）的历史最低纪录，直观凸显北极冰盖长期衰退的严峻危机。（Source：NASA）
-
-NASA 表示，自 1978 年以来，科学家便仰赖配备「被动微波感测器」的卫星持续追踪北极海冰，这项技术能轻易穿透极地厚重的云层，精准辨识海冰与开放海面。科学家总结，全球气温攀升与自然气候变异共同推动了这股长期的衰退趋势。尽管近期北极上空云量增加，在一定程度上减缓了夏季的融冰速度，但整体的消退走向并未翻转。研究团队严正警告：若趋势不变，在 2050 年之前，北极洋极有可能面临至少一次「夏季近乎无冰」的历史性危机。
-
-（首图为北极海冰在 2026 年 9 月 12 日降至年度最低点，与过去数年并列为卫星观测纪录以来的第 10 低，来源：NASA）]]></description>
-  </item>
-  <item>
-    <title>科幻场景成真，研究证实「双太阳系统」有孕育稳定类地行星潜力</title>
-    <link>https://technews.tw/2026/10/24/could-a-two-sun-world-become-reality/</link>
-    <guid>https://technews.tw/2026/10/24/could-a-two-sun-world-become-reality/</guid>
-    <pubDate>Fri, 23 Oct 2026 16:00:47 +0000</pubDate>
-    <description><![CDATA[宇宙中，双太阳系统长期以来仅存在于科幻小说与电影的想像之中。然而，这类在天空中拥有两个恒星的奇特世界，是否真的能够孕育出稳定的适居行星？近期发表在《天文物理学期刊》（The Astrophysical Journal）上的研究给出肯定的答案，不仅证实了双星系统中也能拥有安稳的宜居带，同时也揭开了一个历史长达近两个世纪的寻星悬案。
-
-长期以来，科学家普遍认为双星系统中的第二颗恒星就像一颗四处闯荡的「破坏球」，其强大的引力干扰会让像地球这样大小的行星无法在宜居带中长期存活。然而，由跨国机构组成的研究团队，将目光转向了距离我们仅约16光年的著名双星系统70 Ophiuchi（70 Oph AB）。
-
-这个系统由两颗比太阳略小、温度较低且更为平静稳定的K型恒星组成，发现它们已快要250年。为了探讨该系统容纳行星的可能性，研究团队动用了跨越整整一个世纪的历史与近期「径向速度」观测数据，透过追踪恒星受到引力牵引而产生的微小速度变化（精确度甚至超越每秒1公尺），并结合高达2,000种不同距离的电脑模拟，对长达1,000万年的轨道稳定性进行了严格检验。模拟结果带来了令人振奋的突破：在主星周围的宜居带内，确实存在著让地球质量大小的岩石行星维持稳定运行的物理空间。第二颗恒星的存在并未如预期般彻底破坏轨道，这意味著双星系统完全具备孕育类地行星的潜力。
-
-▲ 双恒星系统下，两种可能类型的行星轨道，灰色圆圈表示恒星，蓝色圆圈表示行星。
-
-不过，这项研究也同时粉碎了一段天文学界的历史悬案。早在1855年，英国天文学家威廉·雅各布曾宣称70 Oph AB系统中藏有一颗巨大行星，使其成为人类史上最早被提出的系外行星候选者之一，但在这次的高精度数据审查中，研究人员证实该系统并不存在如木星般巨大的气态巨行星，过去观测到的微小「晃动」其实只是恒星自身的活跃活动所造成的假象。
-
-尽管如此，这项研究依然意义重大。宇宙中超过半数以上的恒星都拥有伴星，70 Oph AB 系统的验证证明了双星系统的宜居带内确实能够容纳类地行星。随著未来诸如美国太空总署（NASA）「宜居世界天文台」（HWO）等次世代望远镜的陆续上线，这处位于我们宇宙邻域的双星系统，将成为人类寻找地外生命与类地行星最具潜力的黄金标的之一。
-
-（本文由台北天文馆授权转载；首图艺术家绘制，双恒星系统下的系外行星，来源：NASA）]]></description>
-  </item>
-  <item>
-    <title>免吃药开刀，研究证实客制化「微调走路角度」有效缓解膝关节痛</title>
-    <link>https://technews.tw/2026/10/24/changing-walking-angle-can-relieve-arthritis/</link>
-    <guid>https://technews.tw/2026/10/24/changing-walking-angle-can-relieve-arthritis/</guid>
-    <pubDate>Fri, 23 Oct 2026 16:00:04 +0000</pubDate>
-    <description><![CDATA[美国最新研究指出，膝退化性关节炎患者若能根据自身状况，微调走路时的足部角度，即使不依赖药物或手术，也能有效减轻疼痛并减缓关节损伤。一项为期一年的随机安慰剂对照试验证实，这种「个人化步态训练」的止痛效果，已具备媲美常见临床治疗的潜力。
-
-该研究共招募 68 名轻至中度膝关节内侧骨关节炎患者。研究团队首先透过配备感测器的跑步机，测试受试者脚尖内转或外转 5 度、10 度时，何种角度最能有效降低膝盖内侧负荷。随后，一半的受试者获得专属的步态调整建议，另一半则做为对照组接受外观相似的「假训练」，维持原有走路姿势。两组均完成每周一次、连续六周的生物回馈训练，并被要求每天在日常中练习新步态至少 20 分钟。
-
-▲ 研究初期，参与者会先接受基础的 MRI 扫描，接著透过测力跑步机与动作捕捉摄影机，来测量并记录其步态。
-
-经过一年的追踪，个人化训练组在 0 至 10 分的疼痛量表上，平均改善幅度达 2.5 分，显著优于对照组的 1.3 分。进一步的探索性分析显示，高达 91% 的介入组患者达到具临床意义的疼痛缓解，而对照组仅约 66%。此外，观察结果指出，介入组膝关节内侧软骨健康相关的「T1rho 指标」恶化速度较慢，证实降低关节的机械性压力确实有助于维持软骨状态。
-
-不过，研究团队也强调，这项发现不代表受损软骨已获修复，也无法证明疾病进程被完全阻止。专家更特别提醒，此疗法绝不能盲目套用于所有人身上；由于每位患者最适合的角度各异，若未经专业评估而随意改变脚尖内外转的姿势，选错角度反而会加重膝关节负荷，造成反效果。]]></description>
-  </item>
-  <item>
-    <title>Space Bunny 身分揭晓！MiniMax 公开 M3.1 Flash 428B 模型权重</title>
-    <link>https://technews.tw/2026/10/23/minimax-m3-1-flash/</link>
-    <guid>https://technews.tw/2026/10/23/minimax-m3-1-flash/</guid>
-    <pubDate>Fri, 23 Oct 2026 09:40:47 +0000</pubDate>
-    <description><![CDATA[中国 AI 新创 MiniMax 今日在 Hugging Face 与 ModelScope公开程式设计用大型语言模型 M3.1 Flash 权重，证实之前匿名提供、处理逾 200 兆 Token 的「Space Bunny」就是它。授权采 MiniMax Community License，商用须标示并依营收规模通知或取得许可。
-
-日本 PC Watch 报导，MiniMax 今日在 Hugging Face 与 ModelScope 公开 MiniMax M3.1 Flash 的开放权重。这款模型先前以覆面 AI「Space Bunny」名义隐藏身分，据称累计处理超过 200 兆 Token；模型 19 日已发表，并先在 MiniMax API、付费方案「M Plan」与桌面 App「MiniMax Code」上线。
-
-授权采 MiniMax Community License，非商用免费。商用时必须以清楚醒目的方式标示「Built with MiniMax M3.1-Flash」；产品或服务年营收在 2,000 万美元以下者，须以电子邮件通知 MiniMax 一次，超过 2,000 万美元则须事先取得 MiniMax 书面许可。
-
-M3.1 Flash 锁定程式设计与 AI 自动执行任务的代理（agent）用途，输入可接受文字、图片与影片，输出为文字。它是混合专家（MoE）架构，总参数约 4,280 亿、每个 Token 启用 230 亿参数，上下文视窗 100 万 Token。架构承袭 2026 年 6 月公开的 MiniMax M3，主要改了三处：把 M3 保留的前三层完整注意力层换成自家的稀疏注意力，让整个模型全面采用稀疏注意力；训练时纳入量化考量；以及采用 DSpark 进行推测解码（speculative decoding）。本机推论 MiniMax 建议使用 SGLang、vLLM 与 TokenSpeed，Transformers、KTransformers、unsloth 与 ATOM 的支援也在进行。
-
-效能方面，衡量业务自动化能力的 Automation-Bench v1.0.6 得分 62.2（模型卡写 62.8），含自身等七个比较对象中居首；投资银行端到端业务测试 BankerToolBench 得 76.2，与 Anthropic 的 Claude Opus 5 相当。程式修正准确度测试 DeepSWE v1.1 得 73.7，高于 Kimi K3 的 67.5 与 GLM-5.3 的 66.9，但不及 DeepSeek V4.1 Flash-1017 的 77、DeepSeek V4.1 Flash 的 74.2 与 Opus 5 的 74.0。]]></description>
-  </item>
-  <item>
-    <title>年初还被要求别碰，美国太空军将向业界征求地月空间现成技术</title>
-    <link>https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/</link>
-    <guid>https://technews.tw/2026/10/23/us-space-force-is-requesting-techs-for-cislunar-space-operations/</guid>
-    <pubDate>Fri, 23 Oct 2026 09:40:26 +0000</pubDate>
-    <description><![CDATA[随著中国加快月地空间布局，美国太空军准备发布两项资讯请求书（RFI），寻求可迅速投入任务的商用设备与 AI 软体，目标在 2029 年形成可部署能力。
-
-太空军负责先进计划采购的普迪（Stephen Purdy）少将近日表示，年初他还被要求少谈「月地空间」（Cislunar space），如今五角大厦高层却已公开将这个区域列为作战领域，他表示政策转向的原因很简单：「中国正在这个领域积极推进，而我们过去没有。」
-
-中国 9 月公布的「国际地月立方星座大科学计划」，便规划分批部署 30 颗立方卫星，预计 2030 年左右完成整体发射部署。依照《人民日报》公告，计划将用于太空环境监测等科学研究，但《Breaking Defense》引述专家分析，相关布局也具有支援月地空间监视的用途。
-
-美国太空军第一项资讯征询将聚焦基础任务，包括太空领域感知，以及定位、导航与授时（PNT），普迪强调军方希望取得已有实证、接近商用成熟度的设备与软体，避免投入大笔经费进行漫长研发，地面系统也必须同步纳入整体网路设计。
-
-第二项则锁定太空载具自主操作所需的 AI 软体，普迪指出月地空间任务比靠近地球的卫星操作更困难，载具必须能自行侦测与处理硬体故障、分析感测器资料，并依环境变化调整任务。
-
-过去美国空军研究实验室、SpaceWERX 与国防高等研究计划署（DARPA）虽持续投入相关技术，但缺乏整体政策与资源支持，如今太空军也正与美国航太总署（NASA）协调基础设施投资，建立共用架构，再由军方补足需求缺口。
-
-今年 5 月成立的月地空间协调办公室（CCO），则负责向业界说明需求、协调资源，并完善涵盖月球时间、太空领域感知与通讯的发展路线图。
-
-不过经费仍是现实问题，普迪坦言部分基础工作仅需数十万美元就能改善，过去却仍难以取得资源，CCO 已整理出未获拨款需求清单，但尚未公开所需总额，后续经费与采购进度，将直接影响 2029 年部署目标能否实现。]]></description>
-  </item>
-  <item>
-    <title>日本免税改「退款制」，11 月起先付含税价出境再退税</title>
-    <link>https://finance.technews.tw/2026/10/23/japan-tax-free-system-changes-refund-model-november-pay-tax-inclusive-departure-refund/</link>
-    <guid>https://finance.technews.tw/2026/10/23/japan-tax-free-system-changes-refund-model-november-pay-tax-inclusive-departure-refund/</guid>
-    <pubDate>Fri, 23 Oct 2026 09:30:44 +0000</pubDate>
-    <description><![CDATA[外国旅客在日本购物可享的消费税免税制度，将自 11 月 1 日起改变办理方式，以防止免税商品在日本国内遭转售等不法情事。东京羽田机场已设置专用查验设备。
-
-日本电视台（Nippon TV）、朝日电视台及WWD JAPAN报导，外国旅客目前购物时可直接免除消费税，11月1日起将改为先支付含税价格、之后再办理退税的「退款制」。
-
-过去，海关是在旅客通过安全检查后，才确认商品购买资讯。新制上路后，外国旅客先以含税价格购买商品，并在通过安全检查前由海关确认购买品项等资讯，消费税款随后退还至事先登记的信用卡等支付工具。
-
-外国旅客可透过机场设置的设备、智慧型手机或专用无线区域网路办理手续。其中，日本数位厅的入境手续服务Visit Japan Web也派上用场，旅客可在日本主要机场的国际线出境楼层，以自己的智慧型手机办理出境时的海关确认，不必再使用免税手续专用终端机。
-
-东京羽田机场已设置好专用设备，让旅客只要扫描护照就能办理查验。羽田海关支署表示，预计每天将有1万2,000人使用。
-
-现行免税制度规定，旅客须将商品带出日本，才可免缴消费税，但免税商品在日本国内遭转售、转手牟利的违规情形，已成为严重问题。若有人将免税商品留在国内转售，原本应缴纳的税款就未能入帐。
-
-日本国税厅课税部消费税室长滨田正义表示：「我们发现，滥用免税店制度的情形时有所见，例如购买免税商品后，并未将商品带出日本，而是在日本国内转售。」
-
-3年前，出境旅客购买的免税商品总额一年超过6,000亿日圆（约新台币1,246亿元），其中有374人购买金额达1亿日圆（约新台币2,076万元）以上。然而，日本当局查核其中57人时，发现有56人无法出示所购商品，涉及欠税金额约18亿5,000万日圆（约新台币3.8亿元）。
-
-报导指出，出境时无法确认商品，意味著这些人多数可能将以免税价格购入的商品留在日本国内转售，赚取价差。
-
-滨田正义说：「这次改革的目的，就是为了防止这类情况发生。旅客在出境时接受确认后，再由免税店办理退税。」这种先付含税价、出境时再退税的方式，目前已为欧洲、亚洲等许多国家采用。
-
-除了防止不当转售，新制度也希望减轻店家的行政作业负担。尤其在人力不足、外语应对有困难、对接待外国旅客较不熟悉的地方城市，预期可办理免税的店家将增加，进一步带动访日旅客消费。
-
-现行免税商品分为衣物、服饰配件、家电、手表及珠宝等「一般物品」，以及化妆品、食品等「消耗品」两大类；新制将取消这项分类，只要购买时的未税金额合计达5,000日圆（约新台币1,038元）以上，即可统一认定为免税对象。此外，现行制度针对消耗品设有「每天在同一家店最多购买50万日圆（约新台币10.3万元）」的上限，新制也将取消。
-
-全国免税店协会22日举行媒体说明会，会长秋田正纪表示：「对销售方而言，作业负担会减轻；对顾客来说，店内手续也将取消，可以有更多时间享受购物。」
-
-不过，朝日电视台指出，这项改革是否会影响外国旅客的消费意愿、造成观光消费降温，后续仍须持续观察其经济影响。
-
-（译者：黎婧；首图为东京羽田机场，来源：Flickr/GoToVanCC BY 2.0）]]></description>
   </item>
 </channel>
 </rss>
