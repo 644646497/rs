@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sun, 25 Oct 2026 02:35:05 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 10:28:44 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 October 25 – Dark Matter in a Simulated Universe</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-october-25-dark-matter-in-a-simulated-universe/</guid>
+    <pubDate>Sun, 25 Oct 2026 08:19:48 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:Is our universe haunted? It might look that way on thisdark mattermap. The gravity of unseendark matteris the leading explanation for whygalaxies rotate so fast, whygalaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and howvisible matteris distributed. The featured image from theAmerican Museum of Natural History'sHayden PlanetariumSpace Show, Dark Universe, highlights one example of how pervasive dark matter might haunt our universe. In this frame from adetailed computer simulation, complex filaments of dark matter, shown in black, are strewnabout the universelikespider webs, while the relatively rare clumps of familiarbaryonic matter are colored orange. These simulations are good statistical matches to astronomical observations. In what is perhaps ascarierturn of events,dark matter-- although quite strange and in anunknown form-- is no longer thought to be the strangest source ofgravity in the universe. That honor now falls todark energy, a more uniform source ofrepulsive gravitythat seems to now dominate theexpansionof the entireuniverse.Tomorrow's picture:Orion the Great]]></description>
+  </item>
   <item>
     <title>APOD: 2026 October 24 – Rosetta’s Selfie</title>
     <link>https://science.nasa.gov/image-article/apod-2026-october-24-rosettas-selfie/</link>
@@ -219,15 +228,6 @@ Organized by the American Astronautical Society in collaboration with NASA’s M
 For more information on NASA Marshall, visit:
 
 Lance D. DavisMarshall Space Flight Center, Huntsville, Ala.256-640-9065lance.d.davis@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>Spiral’s Edge</title>
-    <link>https://www.nasa.gov/image-article/spirals-edge/</link>
-    <guid>https://www.nasa.gov/image-article/spirals-edge/</guid>
-    <pubDate>Thu, 22 Oct 2026 21:35:38 +0000</pubDate>
-    <description><![CDATA[This NASAHubble Space Telescopeimage released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of about 32 million light-years from Earth. Low-mass galaxies like the ones in this Hubble observing program provide a way to test the predictions of cosmological models on small scales, which struggle to match observations.
-
-Image credit: NASA, ESA, Michael Jones (California Institute of Technology); Image Processing: Gladys Kober (NASA/Catholic University of America)]]></description>
   </item>
 </channel>
 </rss>
