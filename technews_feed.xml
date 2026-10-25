@@ -4,7 +4,128 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Sat, 24 Oct 2026 22:02:30 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 01:57:09 GMT</lastBuildDate>
+  <item>
+    <title>PHP 修补两大安全漏洞才两天，现在又爆出第三个</title>
+    <link>https://technews.tw/2026/10/25/php-vulnerability/</link>
+    <guid>https://technews.tw/2026/10/25/php-vulnerability/</guid>
+    <pubDate>Sun, 25 Oct 2026 01:48:05 +0000</pubDate>
+    <description><![CDATA[广泛应用于网站及电子商务平台的程式语言 PHP，日前才紧急修补两项重大资安漏洞，短短两天后又传出新的安全问题。PHP 基金会于 10 月 23 日公告，发现另一项可能导致远端程式码执行（RCE）的漏洞 CVE-2026-115560，但由于漏洞触发条件相当罕见，官方决定暂不推出紧急修补程式，预计于下一次例行版本更新时处理。
+
+PHP 于 10 月 21 日发布紧急安全更新，修补 CVE-2026-109618 与 CVE-2026-109619 两项重大漏洞，两者的 CVSS v4.0 严重度评分均达 9.2 分，可能让未经身分验证的攻击者远端执行恶意程式码。官方当时释出 PHP 8.5.12、8.4.27、8.3.36 及 8.2.35 等安全版本，呼吁网站管理者尽速更新。
+
+然而官方两天后再次发布安全公告，确认仍有另一项尚未修补的远端程式码执行风险。据 PHP 基金会说明，这项漏洞仅会在特定且不常见的系统设定与应用程式写法同时存在时触发，因此实际遭利用的可能性相对较低。
+
+关于第三项安全漏洞的触发机制，受影响环境必须将 PHP 的 session.serialize_handler 设定为 php_binary 或 php_serialize，接著在应用程式执行期间、呼叫 session_start() 之前，透过 ini_set() 将设定切换为 php，同时还必须启用 Session upload progress 功能，才可能触发相关问题。
+
+PHP 基金会指出，如果应用程式在执行过程中没有动态切换 Session 序列化处理方式，就不会受到这项特定攻击途径影响。
+
+针对新发现的 CVE-2026-115560，PHP 基金会执行董事 Elizabeth Barron 向外媒表示，这项漏洞需要极不寻常的设定组合及特定程式码才可能触发，预期不太会出现在实际 PHP 应用环境中，因此现阶段不会额外发布紧急更新，而是安排在正常版本更新周期中修复。
+
+在正式修补程式释出之前，PHP 官方建议网站管理者将 session.upload_progress.enabled 设定为 0，以关闭 Session 上传进度追踪功能，降低这项漏洞带来的远端程式码执行风险。这项设定也是先前 CVE-2026-109619 漏洞公告中提供的暂时缓解措施之一。
+
+官方表示，如果企业先前已依照建议关闭相关功能，现阶段不需要针对此次新漏洞额外采取措施，维持原有设定即可。
+
+值得注意的是，这次新发现的漏洞与先前两项重大漏洞有所不同，PHP 官方目前尚未公布其完整影响版本、严重度评分及正式修补版本，预计在下一次例行版本更新时同步发布完整安全公告。
+
+尽管新漏洞的实际触发机率不高，PHP 基金会仍提醒，先前两项重大漏洞的安全更新不可忽略。企业应确认 PHP 执行环境已完成修补，并持续检查系统设定，避免因忽略底层程式环境而留下资安风险。]]></description>
+  </item>
+  <item>
+    <title>Wi-Fi 7 路由器怎么放才对，专家揭「黄金位置」告别龟速网路</title>
+    <link>https://technews.tw/2026/10/25/wifi-7-speed-underperforming/</link>
+    <guid>https://technews.tw/2026/10/25/wifi-7-speed-underperforming/</guid>
+    <pubDate>Sun, 25 Oct 2026 01:30:55 +0000</pubDate>
+    <description><![CDATA[随著 Wi-Fi 7 技术逐渐普及，许多消费者砸下重金升级高阶路由器，满心期待家中网速能迎来显著提升，但实际连线表现却往往大失所望。根据最新的网路使用建议指出，网速不如预期的元凶未必是设备本身，而是路由器的「摆放位置」出了问题，导致昂贵硬体的讯号被墙面、家具或其他障碍物大幅削弱，无法发挥应有效能。
+
+为了居家空间的美观，许多民众习惯将路由器「藏」起来，例如塞在角落、系统柜里、入口的弱电配线箱内，甚至隐藏在智慧电视后方，这些做法都会让讯号覆盖大打折扣。
+
+专家特别指出，Wi-Fi 6E 与 Wi-Fi 7 主力使用的 5GHz 与 6GHz 频段，虽然能提供极快的传输速度，但在物理特性上「穿透障碍物」的能力较弱。只要距离一拉远或隔了墙壁，讯号衰减就会非常明显；相较之下，传统的 2.4GHz 频段虽然速度较慢，反而更能轻易穿透墙面与障碍。
+
+想让网路跑出应有的水准，专家建议路由器的最佳摆放位置应在「住家较中央的开放区域」，并且维持约一公尺左右的高度。千万不要为了图方便而直接放置于地面，也绝对要避免塞入封闭空间内。若家中属于多层楼的透天格局，即使主路由器已经放置在下层的中央位置，仍建议在楼上加装 Mesh（网状网路）节点，让上下楼层的讯号覆盖更加平均。
+
+针对家中仍有部分讯号死角的区域，无线延伸器或 Mesh 系统确实是极佳的补强方案。不过消费者应建立正确的观念：这些扩充设备的主要作用在于「改善讯号覆盖率与连线稳定性」，而不是凭空将网速极限拉高。
+
+总结来说，实际的连线速度依然会受到设备距离、墙面材质、连网装置本身支援的频段，以及整体居家环境等综合因素影响。换句话说，想让 Wi-Fi 7 真正跑出应有的旗舰级表现，除了花钱升级设备之外，将路由器「摆对位置」绝对是同等重要的关键要素。]]></description>
+  </item>
+  <item>
+    <title>AI 新经济聚焦三领域，简立峰提醒一风险可能连黄仁勋都没想到</title>
+    <link>https://finance.technews.tw/2026/10/25/ai-new-economy-three-areas-jan-lee-feng-warns-risk-jensen-huang-unanticipated/</link>
+    <guid>https://finance.technews.tw/2026/10/25/ai-new-economy-three-areas-jan-lee-feng-warns-risk-jensen-huang-unanticipated/</guid>
+    <pubDate>Sun, 25 Oct 2026 01:00:24 +0000</pubDate>
+    <description><![CDATA[AI 递回自我改进（Recursive Self-Improvement）象征发展进入新纪元。《财讯》报导，Google 台湾前董事总经理简立峰 21 日表示，前述情况，使人类处于加速 AI 发展与面临失控风险的十字路口，当 AI 创造新经济的同时，也存在不可忽视的风险。
+
+简立峰21日受邀赴三三会，以「AI新趋势与企业AI转型」为题，发表演说。对于近期讨论相当热烈的AI监管议题，他认为，目前AI并未失控，但有危险。
+
+在简立峰看来，所谓AI失控，就是当人类想把AI的电源关掉，但AI「不让你关」，就逻辑上而言，几乎是不可能发生的事情，但只要有网路，就可能发生，因为当AI发现它所需的电源在减少时，就会透过网路把程式丢出去，甚至让这些程式在许多人的手机、电脑上运作，「所以不是电源拔掉就没事，但目前可控」。
+
+根据简立峰观察，因AI的自主创新能力，造成产业核心竞争力改变的领域，就属于「AI新经济」，部分产业已出现这样的现象，但某些产业可能要再等10~20年，而目前有三个领域值得关注。
+
+《财讯》指出，首先是「缩短研发周期」，新药和新材料研发方面，AI可将原本需要十年的研发周期缩短到两年，譬如莫德纳的个人化mRNA癌症疫苗；其次，是「材料与药物筛选」，系统检索最新的化学期刊，把分子结构传输给模拟系统，进行毒性测试，再由实验室调度系统控制自动化实验室，执行物理合成。
+
+再者是「电路和晶片设计」，由AI代理合作规划电路图，自动热模拟和时序模拟，并自动校正线路。
+
+当AI在上述领域创造新经济，符元（Token）的消耗量便随之大增。简立峰引述相关统计指出，现阶段，企业花在符元费用，多半都是用来写程式，再来是法务、医疗健康和财务等，但差距相当悬殊，写程式几乎是一枝独秀。
+
+简立峰指出，科技业者对AI基础设施的投资很快，因为这关乎投资成本的增加。他举例，为何Google宁愿让现金流转负，也要拚死拚活投资AI资料中心？因为「地球短期内能盖的地方，快要没有了」。
+
+AI基础设施的电力重要性不言可喻。简立峰说，Google近期与美国最大核电商Constellation Energy达成长期电力采购协议，从Google报告可得知，盖一座新核能发电厂，可能要耗时20~30年，但让现有核能发电厂增加33%发电量，只要一两年，所以Google「急著买下来」。
+
+《财讯》报导，简立峰强调，「（AI基础设施投资）晚一年，你未来的投资就很贵」，他评估一两年后，可能会买不到有水、有电、有电缆的基地。可是科技业者大举投资AI基础设施，也隐含风险。简立峰说，企业愈来愈害怕，「觉得我不够了解AI，如果资料都给了AI，出事怎么办？」
+
+简立峰分析，过去的经验是，科技进步会让消费跟著增加（如智慧手机问世带动产品需求大增），但AI可能造成的情况是，科技进步让社会害怕，让企业害怕，因此企业要「停看听」。
+
+简立峰不讳言，科技进步未能带动消费成长的风险，「可能（辉达执行长）黄仁勋都没想到」，企业要「停看听」的氛围一旦出现，「很多你预估会出现的消费，就会晚个一两季。」]]></description>
+  </item>
+  <item>
+    <title>语音 AI 为何迟未迎爆发期，辨识准度与情绪是最大弱点</title>
+    <link>https://technews.tw/2026/10/25/voice-ai-executives-say-context-still-limits-natural-conversations/</link>
+    <guid>https://technews.tw/2026/10/25/voice-ai-executives-say-context-still-limits-natural-conversations/</guid>
+    <pubDate>Sun, 25 Oct 2026 00:30:50 +0000</pubDate>
+    <description><![CDATA[语音 AI 虽然持续进化，但业界主管普遍认为，它距离迎来类似 ChatGPT 的关键时刻仍有明显差距。PolyAI 与 Otter 的高层近日指出，语音系统要成为可靠的自然对话工具，仍受限于语音辨识准确度、推论速度，以及能否呈现更接近人类的情绪与语气。
+
+PolyAI 技术长 Shawn Wen 表示，能同时收听与回应的全双工（full-duplex）模型已达到重要里程碑，下一步是让推论速度更快，才能即时找出答案、维持对话流畅。他也强调，客服型 AI 不只要回答问题，还要让使用者有足够的信心，相信系统真的能协助解决问题。
+
+Otter 行销长 Alex Gay 则指出，会议自动化的核心不只是逐字转录，而是要能辨识说话者、理解意图，并把内容与组织知识连结起来。他认为，若语音系统无法在辩论或策略讨论中展现更自然的情绪表达，最终只会像问答机器人，而不是能参与对话的工具。
+
+两位主管都把语音辨识视为目前最关键的弱点。Wen 说，自动语音辨识（ASR）模型常会漏掉关键字，导致对话上下文无法完整保留；Gay 也表示，对 Otter 而言，转录从来不是终点，而是后续生产力功能的基础。若最初的转录不够准确，后续的摘要与行动建议就可能出错，削弱使用者对平台的信任。
+
+此外，语音 AI 的透明度也成为焦点。Otter 正在研究如何让所有与会者知道会议正在录音，即使会议中没有记录机器人出席，也希望透过聊天通知等方式建立信任。Wen 也提到，在企业通话情境中，让使用者清楚知道自己正在与 AI 对话，同样十分重要。]]></description>
+  </item>
+  <item>
+    <title>星巴克去冰补满 15 元踩中两地雷！新董座高秀玲砍优惠却踢到铁板，品牌经营必学的两原则</title>
+    <link>https://finance.technews.tw/2026/10/25/uni-starbucks-ceo-sucks/</link>
+    <guid>https://finance.technews.tw/2026/10/25/uni-starbucks-ceo-sucks/</guid>
+    <pubDate>Sun, 25 Oct 2026 00:00:59 +0000</pubDate>
+    <description><![CDATA[台湾星巴克正在经历由「去冰补满加 15 元」引爆的品牌危机，这项企图找回尊荣感与提升获利的改革，为何狠狠踩中消费者雷区，又能为品牌经营者带来什么警惕？
+
+10月10日，连锁咖啡品牌统一星巴克官网宣布「客制化服务收费新制」（现公告已下架），将原免费添加的配料逐一定价收费，其中是将过往「去冰后补满牛奶或原饮料」的免费服务，额外加收15元。
+
+这项在连假期间悄悄公布的新制，12日上路后立刻引发社群热议，一张张「星巴克去冰后仅剩半杯」的照片、伴随顾客负面评价如雨后春笋浮现，让这家台湾连锁咖啡龙头陷入公关危机。许多网友的批评，更将矛头指向4月才接任星巴克董事长的统一集团创办人高清愿之女、统一美丽事业董事长高秀玲。
+
+《今周刊》询问统一集团决策过程与后续回应，但截稿前未获任何回应。业界人士则分析，星巴克重新为配料与客制化服务定价的理由，很可能是为了扭转营运表现走下坡路的趋势。
+
+发源于美国西雅图的咖啡品牌星巴克，1998年由美国母公司与统一企业合资引进台湾，当年咖啡还不是生活必需品、现磨咖啡也不是便利商店标准配备的台湾，星巴克的绿色美人鱼商标，曾经是高档品味的象征符号。
+
+近30年来，全国快速展店的星巴克一直为统一集团稳定贡献获利；但2017年统一从美方买下100%股权完全主导经营后，获利就呈现衰退趋势。当年营收约为102.5亿元、税后净利达7.99亿元，到了2025年，营收虽因店数扩增成长至136.2亿元，增涨59%，税后净利却降至6.81亿元，八年萎缩15%。
+
+为挽救获利，台湾星巴克2025年2月，暌违八年全面调涨商品价格；今年4月高秀玲亲自接任星巴克董事长后，更陆续推行包括减少「买一送一」优惠活动、拔除店面座位插头、DREAM PLAZA旗舰店建立预约和低消制度等多项改革。再加上近期客制化服务收费，同业眼中都符合星巴克极欲「找回品牌尊荣感」并「提升获利」的战略方针。
+
+「高秀玲的经营风格，是高度追求营运绩效，比起上代甚至有过之而无不及，只要看到获利不佳，绝不会坐视不管，一定会想办法开源节流。」统一集团前主管坦言，自己对星巴克措施并不感到意外。
+
+尽管在商言商，但为何「去冰补满要加价」决策引爆消费者怒火？同业与专家分析，关键在于星巴克误踩两大雷区。
+
+首先，是品牌与顾客之间，从来不只是银货两讫的关系，任何决策都必须在事前「充分沟通」。
+
+商研院商业发展与策略研究所所长朱浩直言，星巴克决策可以理解，但行销沟通发生问题，就算理由是扛不住成本飙涨，也可尝试以「去冰加牛奶会导致咖啡味道变淡、失去黄金比例」为由说服顾客，或干脆直接用「基于营运压力，需要增加客制化服务收费以维持品牌永续」等温情诉求。
+
+「但实际上，顾客对加15元究竟是牛奶成本还是客制化服务费用都搞不清楚」，朱浩点出。
+
+正因为星巴克没有第一时间讲清楚，导致消费者观感仅剩「偷工减料」、「剥削消费者」等负面标签。
+
+不具名咖啡连锁店业者也分享，自家咖啡厅也不能去冰补奶，但为避免争议，不仅会在店内以文宣明确告知「为不影响风味，不能调整比例」，点餐时也会再次提醒顾客「去冰量会变少」，让顾客有心理预期。
+
+「一旦品牌被认为只剩精打细算，就少了价值与故事。」曾任连锁咖啡怡客总经理的刘人豪不讳言，星巴克这步棋，恐怕会一口气赶走注重价格和追求「价值感」的客户，转到彼得好咖啡、CAFE!N等中价位连锁品牌。]]></description>
+  </item>
   <item>
     <title>天文学者透过 EAGLE 模拟揭密：银河系外围是全宇宙最佳「星际宜居带」</title>
     <link>https://technews.tw/2026/10/25/milky-way-best-cradle-for-life/</link>
@@ -182,175 +303,6 @@ Rockwell Automation 软体与控制资深副总裁 Matheus Bulho 表示：「Fac
 参加 Automation Fair 2026 的制造商，将能在多个展场体验区观看 FactoryTalk Conductor 的示范，包括 Technology & Services Showcase、Industry Pavillion、Innovations，以及专门的技术议程。
 
 （本文由PR Newswire授权转载；首图来源：shutterstock）]]></description>
-  </item>
-  <item>
-    <title>超导类神经网路晶片通过核融合测试，每秒即时分析百万笔电浆资料</title>
-    <link>https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/</link>
-    <guid>https://technews.tw/2026/10/24/covering-the-fastest-computers-in-the-world-and-the-people-who-run-them-13/</guid>
-    <pubDate>Sat, 24 Oct 2026 06:00:30 +0000</pubDate>
-    <description><![CDATA[美国能源部（DOE）布鲁克黑文国家实验室（Brookhaven National Laboratory）19 日宣布，与普林斯顿电浆物理实验室（PPPL）、DIII-D 国家核融合设施及新创公司 Great Sky 共同开发的超导类神经网路晶片，顺利完成三项托卡马克电浆控制测试，能即时处理每秒百万笔取样的资料，为核融合反应器的即时控制系统奠定基础。
-
-托卡马克是以磁场约束高温电浆的核融合装置，电浆温度高达 1 亿 °C，状态瞬息万变，必须仰赖演算法、感测器与控制器即时监测。研究团队指出，传统矽晶片在如此严苛的环境很难跟上，因此需要全新架构的运算硬体。
-
-这款被实验室称为「超级智慧」（SI）晶片的元件，由布鲁克黑文实验室主导设计、Great Sky 负责制造，也是公司迄今最大晶片。有别于 CPU、GPU 以矽电晶体处理数位讯号，以超导电路模拟大脑神经网路，硬体层面直接实作类比式类神经网路。Great Sky 称之为「超导光电网路」（SOEN），结合约瑟夫森接面超导电路与整合式光子波导，兼顾运算速度与能源效率。
-
-三项测试有两项将 DIII-D 托卡马克实测资料输入晶片，执行异常分类与破裂预测；第三项则处理 Google DeepMind 核融合团队开发的模拟器 TORAX 产生的资料，成功预测锯齿不稳定性的发生，证明晶片可望用于即时电浆状态模拟。
-
-PPPL 主任 Steven Cowley 表示，核融合装置需要能以电浆变化速度思考的控制系统，这款晶片直接接收托卡马克每秒数百万笔资料仍能跟上，是迈向实用核融合发电的实质进展。DIII-D 主任 Richard Buttery 也说，团队已准备下次实验整合这款晶片。
-
-Great Sky 于 2024 年底由美国国家标准暨技术研究院（NIST）研究人员创立，研发逾十年。执行长 Jeff Shainline 认为这只是开始，未来还可应用于量子系统控制与错误更正、资安及高速 X 光资料分析等领域。团队正撰写论文，并开发类神经网路规模扩大十倍的下代晶片，2027 年初于布鲁克黑文实验室展示，同年稍晚再部署至 DIII-D 托卡马克实地测试。]]></description>
-  </item>
-  <item>
-    <title>台湾研究登国际期刊：证实抗忧郁药助攻癌症免疫疗法，死亡率降 37%</title>
-    <link>https://technews.tw/2026/10/24/antidepressants-boost-cancer-immunotherapy/</link>
-    <guid>https://technews.tw/2026/10/24/antidepressants-boost-cancer-immunotherapy/</guid>
-    <pubDate>Sat, 24 Oct 2026 05:30:19 +0000</pubDate>
-    <description><![CDATA[在漫长的癌症治疗中，许多患者必须面对情绪低落与焦虑的考验。然而，一项由台湾三军总医院与国防医学院团队领导的最新研究指出，患者为改善情绪而服用的常见抗忧郁药物，竟可能成为强化「癌症免疫疗法」的意外神队友。该研究已正式发表于国际知名医学期刊 《PLOS Medicine》。
-
-「免疫检查点抑制剂」为晚期癌症治疗带来革命性突破，其原理是释放肿瘤对免疫系统踩下的「煞车」，让免疫细胞能重新攻击癌细胞。为寻找能增强疗效的辅助药物，三军总医院陈柏瑝医师与李卓豪医师的研究团队，分析了全球电子病历资料库。
-
-团队筛选出 2015 至 2025 年间接受免疫疗法且患有忧郁症或焦虑症的实体肿瘤患者。为了确保数据精准，团队将 1,567 名服用「选择性血清素回收抑制剂」（SSRI）（如百忧解等常见抗忧郁药）的患者，与 1,567 名服用「苯二氮平类药物」（BZD）（常见抗焦虑与镇静安眠药）的患者，进行了多达 49 项特征的严格配对。
-
-数据分析显示，在两年的追踪期内，SSRI 组的死亡率为 23.5%（368人），而 BZD 组则高达 34.4%（539人）。在考量时间因素后，服用 SSRI 的患者死亡风险大幅降低了约 37%。
-
-▲ 图表展示了两组癌症患者在接受免疫疗法后，长达两年的生存轨迹对比：（左图 a）代表服用「SSRI 抗忧郁药」的病患（蓝线），其整体存活机率始终且稳定地高于服用「BZD 镇静安眠药」的病患（橘线）。两条曲线不仅没有交叠，开口反而随著时间不断拉大，证实 SSRI 组的死亡风险大幅降低了约 37%。（右图 b）的累积死亡率长条图进一步点出关键细节。在追踪初期（第 3 个月），两组的死亡率差异仅有 3.0%；但随著治疗时间拉长到第 24 个月时，SSRI 组的累积死亡率（32.1%）已远远低于 BZD 组（46.9%），两者的绝对风险差异一路飙升至 14.9%。这项数据直观地证明了 SSRI 做为辅助药物，其带来的生存效益具有长期且显著的影响力。（Source：论文）
-
-为何抗忧郁药物能对抗癌症？关键在于「血清素」（Serotonin）。过去动物实验发现，免疫 T 细胞上也存在血清素转运体，当吸收血清素时会抑制其抗癌活性。而 SSRI 药物的作用正是阻断血清素回收。李卓豪医师生动比喻：「简单来说，免疫疗法松开了免疫系统的第一道煞车，而 SSRI 则可能松开了就在旁边的『第二道煞车』。」
-
-团队更透过分析超过 8,000 个肿瘤样本，发现在 20 种癌症中，有 13 种癌症的血清素转运体基因表现越高，其 T 细胞的抗癌反应就越弱，这从基因层面为此发现提供了有力佐证。
-
-尽管数据令人振奋，但研究团队也强调这是一项「观察性研究」，尚无法确立绝对的因果关系。例如，资料库无法评估患者的日常活动能力，且服用安眠药的患者可能本身病情就较为严重。
-
-李卓豪医师特别呼吁患者：「这项研究并不是让大家为了『增强』免疫疗法而自行去服用 SSRI 抗忧郁药，更不能擅自停用医师处方的安眠药。」未来科学界仍需透过严谨的随机对照临床试验（RCT），确认 SSRI 是否能成为标准的辅助用药。若未来获证实，这类便宜且普及的药物，将有望为全球无数癌症患者带来新希望。]]></description>
-  </item>
-  <item>
-    <title>神经网路「没那么难懂」，OpenAI 前研究员 2.6 万字长文引爆学界正反论战</title>
-    <link>https://technews.tw/2026/10/24/ai-world-stunned-breakthrough-unravels-neural-network-mystery/</link>
-    <guid>https://technews.tw/2026/10/24/ai-world-stunned-breakthrough-unravels-neural-network-mystery/</guid>
-    <pubDate>Sat, 24 Oct 2026 05:00:23 +0000</pubDate>
-    <description><![CDATA[AI 新创公司 Goodfire 的研究员 Nick Cammarata 近期发表一篇长达 2.6 万字的部落格文章，提出一项震撼 AI 圈的主张：大型语言模型（LLM）可能远比过去大众所认知的更容易理解与控制。
-
-这篇文章不仅引发热烈讨论，外媒更称其为年度「最重要的文章」，连 OpenAI 执行长 Sam Altman 也公开表达赞赏。
-
-Very happy to see this from Nick!
-
-— Sam Altman (@sama)October 16, 2026
-
-据外媒专访指出，Cammarata 在文章开头便写下「我想我有关于神经网路本质的好消息」。在 OpenAI 与 Anthropic 等公司的 AI 代理程式接连被揭露突破控管、于公开网路上造成破坏之际，AI 产业正急于掌握自家技术，这也成为该文章引发强烈回响的重要背景。
-
-有趣的是，Cammarata 正是当年奠定「神经网路内部是一团纠结」这个主流观点的推手之一。他过去在 OpenAI 任职时，致力于机制可解释性（mechanistic interpretability）领域，协助开发窥探模型内部的技术，例如探测单一神经元所代表的意义。
-
-2020 年，他与团队在研究影像辨识模型 Inception v1 时，发现单一神经元竟会同时对「汽车」与「猫」产生反应。当时的推论是模型为了塞进更多资讯，让神经元处于「一兼多职」的叠加（superposition）状态，从此「模型内部难以理解」便成为业界共识。
-
-然而，在 Goodfire 工作的过去一年里，Cammarata 几乎每周七天、每天花 10 小时观察神经元，并借由 AI 代理团队协助分析。他重新检视 Inception v1 模型，改变提问方式：「汽车与猫究竟有什么共通点？」结果发现两者都带有明显的「V 字形」特征──亦即猫的脸庞与从侧面看时的汽车车头。
-
-▲ 透过最佳化图像与自然影像所呈现的 InceptionV1 后期层神经元。（Source：Nick Cammarata）
-
-进一步测试显示，该神经元对撞球桌角、日本新干线的尖鼻车头以及向上喷水的消防船皆有反应，但遇到圆形的「O 字形」时则会被抑制。Cammarata 坦言：「我们以前看错了。」他现在乐观地认为，若有 10 万年的时间逐一检视前沿语言模型的每个回路，人类有相当大的机会能完全理解它。
-
-尽管这项观点为 AI 安全领域带来希望，但学界的反对声音同样明确。史丹佛大学的 Chris Potts 认为，这篇文章现阶段几乎只是一种直觉，即使检视了数千个例子，也无法取代严谨的科学评估。非营利研究机构 Alignment Research Center 的 Jacob Hilton 在 X 平台上指出，目前研究者对顶级 LLM 内部运作的理解仍不到 0.01%，要达成完整理解，必须超越单一神经元，进一步解释它们如何连结成复杂的回路。
-
-Language models are getting much, much harder to fully understand with scale, not easier! (Thread)
-
-— Jacob Hilton (@JacobHHilton)October 16, 2026
-
-Google DeepMind 的 Neel Nanda 也表示这项研究固然有趣，但并非对可解释性整体图像的重大更新。此外，报导补充说明，该文章仅是未经同侪审查的「工作假说」，且目前研究最深入的仍是相对简单的视觉模型，而非驱动 ChatGPT 或 Claude 背后的复杂语言模型。
-
-面对外界的热烈讨论，Cammarata 本人也承认许多人「解读过头」。他强调，这并非无限好的消息，神经元组合起来的复杂性仍有许多未解之谜。目前，他的团队已经开始将这套方法应用于现代的 LLM 上，并透露在较大模型上的初步测试「目前看来有希望」，预计很快将发表正式的技术结果。
-
-it’s been a dramatic couple of days, I didn’t expect the already clean essay to be read so widely. I’ve heard more interesting discussions about mechanistic interpretability – should we think mostly in features or mechanisms and the flow of data through them, how much do weak activations matter, how does scale change things, and lots of other questions – than I have in a long time and I’ve been happy to hear all the discussion!
-
-a couple things on the essay itself. it didn’t have enough citations, only ones for the basic story, since it was an “informal research essay and working hypothesis" rather than a paper, and other prior work around neurons were in the technical paper we’re still finishing up. but it blew up, so I’ve added citations to the essay as well. I also want to thank @curttigges who did a lot of the language neuron research with me
-
-finally, while there was quite a range of updates, from this being incremental and obvious to interpretability going from hopeless to fully solved, I want to try to be clear about roughly where I stand
-
-I used to think neural networks would take some big cleaning step and then we could begin the ordinary natural science of mapping the parts and how they connect, watching data flow through, mapping circuits, and so on.
-
-at various points, like late layers of early model organisms and most layers of language models years ago, this didn’t really work. but now with better tools and better models of study, it works much better
-
-for smaller vision models, this normal science process worked surprisingly well, until the whole map started to be broadly filled in. For bigger modern language models, it seems promising so far, for both neurons and circuits, attribution graphs, basically everywhere we’ve glanced. the map isn’t filling in, there’s a lot of map. there’s still off-target firing, neurons that do a few things, but so far it’s not an incoherent mess that you can’t explore and learn from, and over time we get better at learning how to see it.
-
-so maybe it keeps going, and mapping motifs and exploring actually gets you pretty far, maybe something like “all the way" to a reasonable solution. I don’t think it would be so scientifically surprising if that were the case. everything in the neural network was built in some sense to be read – by its downstream readers – and if we can learn to look like a reader, we might find reading them relatively easy. many researchers I talk to outside interpretability assume the parts are already understandable, and the difficulty is just in the mapping stage!
-
-it was also my prior when I first started looking at neurons when I first joined the field. there’s lots of highly interpretable ones, maybe that’s just how neural networks are if you look right.
-
-even in the good world it would still take some iteration on tools, on ways of looking, neuron-attention interactions are tricky for instance. there’s probably no bright red line separating “cleaning the model" from “learning to look better" but there’s broad working principles, and as of now I think we should try to look relatively directly if we can
-
-it shouldn’t be so hard to test, you can just start looking at things and iterating and trying to understand motifs and such and see if it just breaks down at some point. it can take some iteration, I would recommend a bias against assuming arbitrary mixtures when you don’t understand something at first, but also explanations should be tested
-
-for now I’m pretty optimistic, and I’m glad there’s excitement about interpretability, but too much can cause problems too. I think part might be that ai safety isn’t a very hopeful field, and even moderate amounts of optimism about an important problem being solvable in the future fills a spot that has been malnourished for a while. across several safety disciplines, the researchers directly working on them are often more optimistic than the people broadcasting pessimism more broadly
-
-for neural network interpretability at least, these are extraordinarily experimentally accessible objects of science, I don’t know of a better one, and we have automated scientists. we have many things going in our favor. it’s important and it’s fun. the circuitry of these machines can be beautiful, surprising, entertaining, and insightful. I’ve spent thousands of hours looking through them, asking questions and running experiments and testing things, and would do so even if it weren’t so important. I think the problem is solvable, whether the simple thing works, it mostly works but we need some new things, or we need big new ideas. I think we can figure it out
-
-— Nick (@nickcammarata)October 16, 2026
-
-即使未来掌握了每个神经元的功能，也不等于理解整个网路的宏观运作；可解释性固然是打造更安全 AI 的必要条件，但绝非充分条件。]]></description>
-  </item>
-  <item>
-    <title>AWS 产能预订至 2028 年，亚马逊示警电力、记忆体短缺难解</title>
-    <link>https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/</link>
-    <guid>https://technews.tw/2026/10/24/aws-capacity-booked-2028-amazon-warns-power-memory-shortages/</guid>
-    <pubDate>Sat, 24 Oct 2026 03:26:55 +0000</pubDate>
-    <description><![CDATA[随著 AI 基础设施需求持续攀升，亚马逊云端服务（AWS）运算产能已供不应求。根据外电报导，亚马逊执行长 Andy Jassy 表示，AWS 2026 年大型运算产能已全数被预订，2027 年大部分产能也已售罄，甚至 2028 年也有相当比例产能获得客户承诺。
-
-Jassy 在创投公司 Andreessen Horowitz 的播客访谈中指出，AI 实验室对运算资源的需求达到前所未见的规模，加上企业云端业务持续成长，使 AWS 即使积极扩充产能，仍难以完全满足客户需求。他表示，AWS 仍会保留部分产能，支援随选运算及 Bedrock、EC2 等服务，但大型运算产能多已被客户预订，反映云端基础设施需求持续强劲。
-
-除了运算产能供不应求，AI 基础设施扩张也面临电力及记忆体供应限制。Jassy 指出，目前资料中心、电力及记忆体资源均相当有限，且不认为相关短缺会在 2027 年结束，部分零组件的供应限制甚至可能持续数年。他进一步表示，随著 AI 与传统云端业务需求同步成长，AWS 必须在有限的记忆体供应下，权衡高频宽记忆体（HBM）与传统云端业务所需动态随机存取记忆体（DRAM）的资源分配。
-
-另一方面，亚马逊也积极发展自研 AI 加速器 Trainium，以改善 AI 运算成本效益。Jassy 表示，Trainium 相较同级处理器，性价比高出约 30% 至 40%。他认为，尽管近年 AI 推论成本已明显下降，但若要让 AI 更广泛导入企业应用，目前成本仍高出理想水准约一个数量级，因此降低推论成本将是推动企业扩大 AI 应用的重要关键。
-
-事实上，亚马逊过去便透过自研处理器改善云端运算成本。Jassy 指出，AWS 前 1,000 大 EC2 客户中，已有 99% 使用自研 CPU Graviton，其性价比相较其他 x86 处理器高出约 40%。随著 AI 运算需求快速成长，亚马逊也将相同策略延伸至 AI 加速器 Trainium，希望透过自研晶片进一步降低运算成本，提升云端服务的竞争力。
-
-面对 AI 基础设施需求持续成长，亚马逊预计 2026 年投入约 2,200 亿美元资本支出，涵盖资料中心、伺服器及网路设备等投资。Jassy 表示，即使投入如此庞大的资金，AWS 仍无法完全满足市场需求，且进一步扩大投资仍可能具有经济效益。亚马逊预计于 10 月 29 日公布第三季财报，届时 AWS 营收成长、资本支出及 AI 基础设施投资进展，将成为市场关注焦点。
-
-（首图来源：Flickr/Web SummitCC BY 2.0）]]></description>
-  </item>
-  <item>
-    <title>「非红」标签只是加分，台湾无人机突围须先挤进大厂供应链</title>
-    <link>https://technews.tw/2026/10/24/non-red-supply-chain-bonus-czech-taiwan-largest-drone-market-defense-startups-two-hurdles/</link>
-    <guid>https://technews.tw/2026/10/24/non-red-supply-chain-bonus-czech-taiwan-largest-drone-market-defense-startups-two-hurdles/</guid>
-    <pubDate>Sat, 24 Oct 2026 03:00:56 +0000</pubDate>
-    <description><![CDATA[布拉格举办的捷克新创周的「DefenceTech on the Frontier of Europe」对谈，乌克兰国民警卫队第一军国防产业联络官 Mykyta Puz 说起一段经验：他把测试报告交给一家欧洲新创，列出产品上战场前必须修改的计划，对方回复：「没问题，给我们 6~8 个月。」
-
-「不行，你们没有6~8个月」，Mykyta Puz说，同类产品的乌克兰厂商，三周就能完成同样的修改。
-
-俄乌战争爆发后，欧洲国防市场的钱确实变多了，但市场要的跟新创、创投所想像的，可能有些出入，对台湾无人机业者来说更加值得警惕。
-
-经济部统计，今年第一季台湾无人机整机出口值达1亿1,585万美元（约新台币37.8亿元），已超过去年全年9,341.9万美元，出口到捷克约1亿美元（约新台币32.6亿元），捷克超越波兰，成为台湾无人机最大出口市场。
-
-经济部把台湾无人机出口成长，归因于全球「非红供应链」需求升温，但捷克投资局（CzechInvest）国防计划（Project Defence）负责人Leoš Mauer表示，非红供应链在欧洲还称不上门槛。
-
-Leoš Mauer表示，目前不论NATO新创加速计划「北大西洋国防创新加速器（DIANA）」或欧洲国防采购，都没有把非红供应链列为强制条件。他表示，欧洲企业因为担心间谍风险，越来越想用非红供应链，「但这仍是偏好，还不是硬性的法规要求」。
-
-所以，「非红」标签能让台湾厂商进到买家的候选名单，但Leoš Mauer补充，到了乌克兰前线，战时需求量大、成本压力高，便宜的中国零件仍被大量使用；当买家要的是大量、便宜、马上能用的产品，台湾零件仍得和中国零件比价格与交期。
-
-乌俄战争开打后，捷克在两年内供应乌克兰400万发155公厘砲弹，Leoš Mauer表示，至少一半在捷克生产，捷克斯洛伐克集团（CSG）等大厂的产能因此吃紧。当大厂忙不过来，外部厂商的机会就出现在供应链里：他估计，60%~70%军民两用新创做出来的东西没办法直接卖给军队，多半是进入已经通过标准认证的大厂供应链。
-
-台湾业者能走的也是这条路。虽然DIANA只收NATO成员国企业，台湾企业不能申请，但Leoš Mauer表示，入选新创不必让出股权，只要不卖给俄罗斯、伊朗等受制裁对象，就可以和台湾企业做生意。直接打进NATO采购体系很难，先卖给已经在体系内的大厂和新创，是比较实际的做法。
-
-就算挤进大厂供应链，产品还得跟上战场的速度。开头Mykyta Puz说的三周，是乌克兰厂商的常态，他们能这么快，是因为前线和厂商之间几乎没有距离。Leoš Mauer表示，乌克兰政府设立的国防科技平台Brave1，让前线士兵可以像网购一样，直接在平台上挑选需要的无人机，厂商再用邮寄送到部队手上，士兵的使用回馈也直接回到厂商那里。
-
-战场状况一变，厂商就得跟著改。Leoš Mauer举例，俄军的电子干扰频率一换，无人机的通讯就可能被干扰失灵，乌克兰厂商通常在14天到三周内就能调整频率、推出新版本。
-
-但欧洲的国防新创却连测试场地都难找。Ilavska Vuillermoz Capital合伙人Quentin Dupraz说，他曾接到一位做雷射技术的创办人来电，对方想去乌克兰，但要说服投资人得先有测试场，问他能不能找到一块地。「我开玩笑说，我奶奶家后面有片森林。」Quentin Dupraz表示，欧洲目前缺乏测试设施，也缺乏让突破性技术成长的环境，这就会引发「供给」和「需求」之间的落差。
-
-▲ 左起Invest In Bravery共同创办人Lola Onipko、Ilavska Vuillermoz Capital合伙人Quentin Dupraz、S-Tech Ventures a.s.董事会成员Anna Růžičková，和乌克兰国民警卫队第一军国防产业联络官Mykyta Puz。
-
-Invest In Bravery共同创办人Lola Onipko提醒，士兵的首要任务是作战，不可能随叫随测，「这不是慈善」，合作必须是共同开发付费、双方都受益：乌克兰提供测试场，欧洲带来成熟的技术能力。
-
-Mykyta Puz表示，军方可以给新创六周，但不会给八个月，「八个月后，别人会比你快，或是战场需求已经完全变了。」他认为这是创办人的心态问题，很多人仍以「一年加上300万欧元（约新台币1.1亿元）做出原型」来规划，对现在战场已经来不及。
-
-尽管供给与需求有落差，欧洲创投投入国防新创的资金仍然快速增加。
-
-Quentin Dupraz引用Dealroom在10月初报告《The State of Defence Tech 2026》指出，欧洲创投投入国防的金额已达74亿美元（约新台币2,400亿元），约47%来自美国。Lola Onipko也表示，国防是目前欧洲创投成长最快的投资类别，规模预估将达约105亿美元（约新台币3,400亿元）。
-
-资金一多，想搭顺风车的新创也跟著变多。Mykyta Puz认为，国防新创已经开始出现泡沫，「就像加密货币，或2000年的网路泡沫」，他以前线使用者的身分表示，不少新创为了拿到资金，在投资简报上堆满流行词，例如号称打造了一个「AI量身打造、量子驱动、多领域、蜂群作战、具备韧性决策能力的平台」，简报看起来很漂亮，前线却未必用得上。
-
-投错公司的代价，国防领域也更高。Mykyta Puz表示，一般创投预期投资组合里多数公司会失败，靠少数独角兽赚回来；国防新创的产品一旦失败，代价则是战场上的伤亡。他遇过一位投资人，准备投资一家号称「在乌克兰经过实战测试」的公司，Mykyta Puz的团队向前线作战单位查证后发现，这套系统确实部署过，但几乎没有用处。
-
-因此Lola Onipko主张，投资人评估国防新创时，尽职调查（Due Diligence）一定要找乌克兰前线的使用者确认产品是否真的有用，并且要为这件事编列预算。
-
-第一季的出口数字显示台湾无人机已经进入这个市场，但是接下来买家会问的问题，布拉格的对谈都听得到：产品在前线测过吗？测试报告出来后，多久能改完？]]></description>
   </item>
 </channel>
 </rss>
