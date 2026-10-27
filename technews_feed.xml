@@ -4,7 +4,27 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 27 Oct 2026 16:55:57 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 23:17:24 GMT</lastBuildDate>
+  <item>
+    <title>Chrome 真是「记忆体怪兽」？吃 RAM 背后其实有原因</title>
+    <link>https://technews.tw/2026/10/28/why-google-chrome-is-always-using-so-much-ram/</link>
+    <guid>https://technews.tw/2026/10/28/why-google-chrome-is-always-using-so-much-ram/</guid>
+    <pubDate>Tue, 27 Oct 2026 23:10:31 +0000</pubDate>
+    <description><![CDATA[Google Chrome 长期被贴上「记忆体怪兽」的标签，但相关报导指出，这种印象更像是网路迷因，而不完全符合事实。Chrome 确实会使用不少 RAM，不过单看记忆体占用高低，并不能完整判断浏览器的表现。
+
+报导指出，Chrome 之所以看起来特别耗记忆体，关键在于它采用多处理程序架构：每个网站、分页与部分扩充功能都可能各自运作在独立的处理程序中。这种做法虽然比共享记忆体更耗资源，却能让浏览器维持更快的反应速度，也能避免单一网站当机时拖垮整个浏览器，并降低恶意页面互相窥探资料的风险。
+
+文章也提醒，RAM 的用途本来就是让系统把常用内容保留在记忆体中，以便更快载入。换句话说，未使用的记忆体并不等于更好的效能；只要电脑有足够余裕，让浏览器把页面、媒体与待命分页放进 RAM，反而是正常运作的一部分。对多数一般用途电脑来说，8GB 记忆体通常已足够应付日常需求。
+
+如果 Chrome 真的变慢，报导建议不要只盯著总记忆体数字，而是打开浏览器内建的工作管理员，查看是哪个分页或扩充功能持续吃资源。Chrome 也提供「记忆体节省模式」，可将长时间未使用的分页暂时休眠，释放 RAM，之后再重新载入。若仍感觉不顺畅，问题也可能出在磁碟空间不足、网路连线缓慢，或是浏览器本身需要重新启动。]]></description>
+  </item>
+  <item>
+    <title>Google Fitbit Edge 补齐穿戴产品线，AI 健康管理深化装置差异化竞争</title>
+    <link>https://technews.tw/2026/10/28/google-fitbit-edge-wearable-line-ai-health-management-device-differentiation-competition/</link>
+    <guid>https://technews.tw/2026/10/28/google-fitbit-edge-wearable-line-ai-health-management-device-differentiation-competition/</guid>
+    <pubDate>Tue, 27 Oct 2026 23:00:32 +0000</pubDate>
+    <description><![CDATA[Google 月中发表新健康穿戴装置 Fitbit Edge，定位介于无萤幕 Fitbit Air 与智慧手表 Pixel Watch 5 之间，整合健康感测、运动追踪及 AI 个人化健康管理功能。穿戴装置持续朝健康监测与 AI 服务深化，Google 藉不同产品形态扩大使用族群，并以 Google Health 平台的资料整合，强化软硬体整合及长期健康数据分析之商业价值。本篇文章将带你了解 :Fitbit Edge强化运动与健康监测，产品分层布局扩大市场Google扩大布局穿戴市场，AI服务与订阅模式成竞争关键]]></description>
+  </item>
   <item>
     <title>苹果创作坊也导入 OpenAI 技术，AI 助理进驻 Keynote、Pages</title>
     <link>https://technews.tw/2026/10/27/apple-creator-studio-openai/</link>
@@ -301,52 +321,6 @@ TOI-561 b 高龄近 100 亿岁，公转周期约 10.5 小时，团队指出，�
 另外，今年 10 月 OCP 全球高峰会上，光宝科展示 MW 级 Power Rack，整合 6 组 220 kW Power Shelf，总装置容量达 1.32 MW，采 5+1 备援设计，并搭配 180 kW BBU、电容缓冲单元（CBU）及直流配电设备（DC PDU），扩大 AI 资料中心高压直流电源布局。
 
 随 AI 资料中心逐步转向高压直流供电，800 VDC 市场渗透率也有望持续提升。根据巴克莱银行预估，800 VDC 架构将于 2027 年底开始扩大导入，至 2029 年可望占新增资料中心装置容量约 30%，涵盖 Sidecar 等过渡方案。]]></description>
-  </item>
-  <item>
-    <title>旺宏第三季获利创历史单季新高，毛利率突破七成促 EPS 达 5.52 元</title>
-    <link>https://finance.technews.tw/2026/10/27/macronixs-third-quarter-financial-report-hit-a-record-high/</link>
-    <guid>https://finance.technews.tw/2026/10/27/macronixs-third-quarter-financial-report-hit-a-record-high/</guid>
-    <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-    <description><![CDATA[记忆体大厂旺宏电子（MXIC）召开2026年第3季法人说明会，公布最新财务报告。受益于高密度 NOR Flash 在 AI 资料中心需求强劲，以及 SLC NAND 与 eMMC 市场严重供不应求，旺宏第3季营运缴出亮眼成绩单，营收与获利均创下成立以来的单季历史新高。
-
-旺宏2026年第3季合并营收达新台币242.37亿元，季增27%，年增高达195%。单季营业毛利为170.86亿元，营业毛利率冲上70.5%，相较上季的64.4%及2025年同期的13.5%显著提升；毛利率提升除受惠于产品价格调涨与产品组合改善外，亦包含约7.5亿元的存货回转利益。
-
-在费用与收益方面，第3季营业费用为41.53亿元，主要因估列员工酬劳增加，实际营运支出并无大幅变动。单季营业净利达129.32亿元，营业净利率升至53.4%。税后净利为109.51亿元，季增42%，年增1,370%，单季基本每股盈余（EPS）达5.52元。
-
-累计2026年前三季表现，旺宏累计合并营收达538.31亿元，年增155%，已超越历年全年营收水准；前三季累计营业毛利率为62.6%，营业净利率为44.3%，累计税后净利达204.66亿元（年增780%），累计前三季每股盈余高达10.34元。随著获利大幅成长，每股净值也提升至36.95元。
-
-从产品营收结构来看，旺宏第3季已成功转型为 NOR Flash 与 NAND Flash（含 eMMC）双主力供应商：
-
-NAND Flash（含 eMMC）：占单季总营收47%，营收季增39%、年增768%。其中，eMMC 与 SLC NAND 结构性缺货持续，主要应用于通讯领域（占NAND营收52%）及消费性电子（占23%）。
-
-NOR Flash：占单季总营收46%，营收季增21%、年增158%。主要受惠于资料中心强劲需求，电脑与资料中心相关应用占 NOR Flash 营收比重达47%，通讯相关占21%，工规、医疗、航太占16%，车用电子则占10%。
-
-唯读记忆体（ROM）与晶圆代工（FBG）：ROM 占总营收5%（季增9%、年减39%），晶圆代工事业群（FBG）占2%（季减10%、年减5%）。
-
-旺宏董事长吴敏求表示，第3季营运成果为公司成立以来最优异的一季。由于目前半导体产能有限，且任何新设备投资从下订到开出均需至少一年以上的时间，因此短期内的营收成长主要依靠产品价格（ASP）调涨与产品结构优化来带动。
-
-展望未来，吴敏求特别指出，除了 AI 资料中心带动高密度 NOR Flash 需求持续强劲外，卫星与太空通讯（Space Communication）的崛起也正快速拉升对 eMMC 与 Flash 的需求。旺宏在此领域已具备有利竞争地位，并吸引多家相关客户主动寻求合作。]]></description>
-  </item>
-  <item>
-    <title>餐饮缺工祭采购自动化！CocoMart 串联 5,000 家餐饮填补 ERP 断层</title>
-    <link>https://finance.technews.tw/2026/10/27/erp-cocomart/</link>
-    <guid>https://finance.technews.tw/2026/10/27/erp-cocomart/</guid>
-    <pubDate>Tue, 27 Oct 2026 08:42:19 +0000</pubDate>
-    <description><![CDATA[餐饮业长期面临缺工压力，繁琐的后勤采购与对帐作业成为品牌展店的隐形瓶颈，餐饮订供货平台 CocoMart 近日举办「2026 台湾餐饮数位共创年会」，从 B2B 订供货与系统整合切入，成功串联逾 3,000 家餐厅与 2,000 家供应商，单月交易总额（GMV）突破 4 亿元。
-
-CocoMart 创办人张瀚仁表示，台湾餐饮采购正从传统的电话、LINE，逐步转移至数位平台，因为过去门市、采购与财务端反复核对同一批纸本单据，管理者往往需等到隔月结帐才能掌握成本，这种「资讯落差」严重影响经营决策的即时性。
-
-张瀚仁指出，CocoMart 将餐厅与供应商的订单、交易资料集中於单一平台，不介入双方的商品选择与议价，而是专注于解决分散的资料与重复作业，并从中小型连锁品牌累积导入经验，逐步建立客服与导入能力，并陆续与多家连锁餐饮品牌签约。
-
-张瀚仁认为，企业内部的 ERP 或 POS 系统处理自身管理需求，跨公司订单仍需要传递与整合，CocoMart 希望承接这一段资料交换，并以年底服务 5,000 家台湾餐厅为目标，逐步建构餐饮供应链的「数位高速公路」，让采购资讯成为业者展店与改善营运的基础。
-
-膳馨营运副总张宸玮表示，目前已有一家门市启动 CocoMart 交易资料自动汇入 ERP，以熟手的作业时间估计，每天节省 20 分钟的货单输入时间，虽然膳馨原本就有 ERP，但由于与多家在地小农及食材供应商合作，过去门市仍须透过不同 LINE 群组订货，增加作业时间与出错风险。
-
-「客人看到的是一盘菜，老板烦恼的是这盘菜背后的二十通电话」，天帷企管顾问公司负责人、京站实业董事林刚羽指出，部分餐饮业者仍以纸本单据验收，再由人员于月底重新输入系统，但中小型连锁若能及早建立共通流程，便有机会在增加门市时，降低对个别人员经验的依赖。
-
-资本圈天使会创办人、食集资讯董事李丰源表示，餐饮市场的需求早已存在，投资机会在于找到尚未被充分解决的经营问题，并看中 CocoMart 较有系统的服务模式，以及日本同类平台的发展经验，已在 2025 年 11 月完成注资。
-
-日本 Infomart 的发展，提供餐饮采购平台规模化的参照，而 CocoMart 透过买卖双方共用的系统，让订购、交货到请款对帐的资料相互衔接，有助于减轻日常作业负担，并逐步成为餐饮业的数位基础设施。]]></description>
   </item>
 </channel>
 </rss>
