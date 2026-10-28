@@ -4,7 +4,45 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 28 Oct 2026 11:54:26 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:44:05 GMT</lastBuildDate>
+  <item>
+    <title>NASA Selects 19 New Citizen Science Proposals in 2026</title>
+    <link>https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/</link>
+    <guid>https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/</guid>
+    <pubDate>Wed, 28 Oct 2026 16:25:29 +0000</pubDate>
+    <description><![CDATA[So far, 2026 has seen a flood of successes for volunteers who do NASA science, exemplifying NASA’s commitment to gold-standard science—transparent, reproducible and intrinsically collaborative. The Backyard Worlds: Planet 9 project announced that their project volunteers have nowdiscovered most of the known brown dwarfs, celestial objects that are similar to planets. The Zooniverse platform, with grant from NASA, reached a milestone of1 billion classifications.Several projects have come online that leverage new super intelligence (SI) techniques to amplify or extend the work of volunteers. More NASA volunteers are using SI tobuild their own data toolsand helpwrite scientific papersthan ever before.
+
+Even with all of those achievements, our science community is already working on the next round of new volunteer projects and innovations. NASA’s Science Mission Directorate has selected nineteen proposals from research teams in 2026 that will result in new opportunities for you to do NASA science.
+
+The Citizen Science Seed Funding Program (CSSFP-25) of NASA’s Science Mission Directorate aims to support scientists and other experts to develop citizen science projects and expand the pool of professional scientists who use citizen science techniques in their science investigations. Twelve new proposals to this program were selected.
+
+“The Rogue Worlds Project: Activating volunteers to uncover the hidden population of super Jupiters with SPHEREx”led by Principal Investigator Jacqueline Faherty from the American Museum of Natural History. This project will invite you to search data from NASA's SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) mission to find free-floating planets and brown dwarfs in clusters of young stars. The SPHEREx space observatory mapping the entire sky in near-infrared wavelengths.
+
+“Quantifying the calibrations between intrinsic galaxy merger timescales with visual pair/tidal-feature classifications”led by Principal Investigator Kameswara Bharadwaj Mantha of the University of Missouri. This project will investigate galaxy mergers, helping astronomers understand how galaxies evolve through time. You will be invited to classify realistic mock images of galaxies to help probe the statistics and dynamical evolution of galaxy mergers.
+
+“Overlap Zoo; cosmic light tables for galaxy transparency”led by Principal Investigator Benne Holwerda of the University of Louisville. Galaxies, which glow with the light of the billions of stars they contain, also contain dust. This dust is easiest to see and quantify when it overlaps, or is backlit by, another galaxy. Help spot and characterize these rare overlapping galaxy pairs to help reveal how much dust they contain.Overlap Zoo is live! Follow this link to learn more and join the project.
+
+“Planet Hunters Roman: Extending Citizen Science to Planetary Microlensing”led by Principal Investigator Bernard Gaudi of the Ohio State University. Exoplanets are planets orbiting stars other than our Sun. Their gravity can bend the light that travels around them. This project will invite you to spot exoplanets in data from NASA’s new Nancy Grace Roman Space Telescope data by the way they bend starlight.
+
+“Space Weather UnderGround: Deploying a low-cost Magnetometer Array with Citizens for Heliophysics Research”led by Principal Investigator Hyunju Connor at NASA’s Goddard Space Flight Center. Along with sunshine, our Sun produces the solar wind, an unrelenting flow of charged particles. Earth's protective magnetic field shield deflects most of these particles, but not all, and not during extreme events. Help scientists monitor the subtle disturbances of Earth’s magnetosphere by the solar wind by setting up and monitoring your own magnetometer in Alaska.
+
+“A Citizen Science Initiative for Sonified Plasma Wave Characterization”led by Principal Investigator Lauren Blum of the University Of Colorado, Boulder. “Plasma” is the name given to the ionized gases at the edge of Earth’s magnetosphere. Solar wind, the rain of charged particles that flows out from the Sun, can interact with and generate waves in the plasma. This project will turn data from this dynamic zone into sound signals. You will be invited to listen in to identify waves in the Earth’s magnetosphere.
+
+“Revealing the Consequences of Foreshock Transients for Earth's Magnetospheric System Through Participatory Science”led by Principal Investigator Wenli Mo at the Johns Hopkins University. This project will invite you to examine data from NASA’s MMS (Magnetospheric Multiscale) mission to identify “foreshock transients,”  phenomena that have a critical but poorly understood role in space weather. The resulting dataset will help reveal how foreshock transients form, their properties, and their impacts.
+
+“IMPACT: Interactive Magnetospheric Particle Analysis and Citizen Technology”led by Principal Investigator Muhammad Fraz Bashir at the University of California, Los A]]></description>
+  </item>
+  <item>
+    <title>Webb Sees Turbulent Star Nursery</title>
+    <link>https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/</link>
+    <guid>https://www.nasa.gov/image-article/webb-sees-turbulent-star-nursery/</guid>
+    <pubDate>Wed, 28 Oct 2026 15:33:10 +0000</pubDate>
+    <description><![CDATA[In this Webb image released on Oct. 22, 2026, we see a turbulent cauldron of star formation filled with dense clumps of gas. This region is named N159 and is located 161,000 light-years away in the Large Magellanic Cloud, one of the satellite galaxies orbiting the Milky Way galaxy.
+
+This region has a lower metallicity (proportion of elements that are heavier than helium and hydrogen) than the Milky Way, giving astronomers an opportunity to learn more about conditions found in the early universe and how stars formed under those conditions.
+
+Image credit: ESA/Webb, NASA & CSA, E. Sabbi, M. Zamani (ESA/Webb); Acknowledgement: M. H. Özsaraç]]></description>
+  </item>
   <item>
     <title>Curiosity Blog, Sols 5043-5049: Preparing to Drill at ‘Nazca’</title>
     <link>https://science.nasa.gov/blog/curiosity-blog-sols-5043-5049-preparing-to-drill-at-nazca/</link>
@@ -198,50 +236,6 @@ Subscribe to the Earth Observatory and get the Earth in your inbox.
 NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
 
 Open access to NASA’s archive of Earth science data]]></description>
-  </item>
-  <item>
-    <title>NASA’s Perseverance Views Dust at Neretva Vallis</title>
-    <link>https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/</link>
-    <guid>https://science.nasa.gov/photojournal/nasas-perseverance-views-dust-at-neretva-vallis/</guid>
-    <pubDate>Mon, 26 Oct 2026 22:48:12 +0000</pubDate>
-    <description><![CDATA[This 360-degree look at Neretva Vallis within Mars’ Jezero Crater was stitched together using 217 images acquired by the rover’s Mastcam-Z on May 20, 2024, the 1,155th Martian day, or sol, of the mission. While it is a wind-swept dusty vista today, billions of years ago it was home to a river channel that fed fresh water into Jezero Crater.
-
-This is an enhanced-color version, which had its color bands processed to improve visual contrast and accentuate color differences,
-
-Arizona State University leads the operations of the Mastcam-Z instrument, working in collaboration with Malin Space Science Systems in San Diego, on the design, fabrication, testing, and operation of the cameras, and in collaboration with the Niels Bohr Institute of the University of Copenhagen on the design, fabrication, and testing of the calibration targets.NASA’s Jet Propulsion Laboratory, which is managed for the agency by Caltech, built and manages operations of the Perseverance rover.]]></description>
-  </item>
-  <item>
-    <title>NASA’s Perseverance Offers Clues to Protect Crews From Mars Dust</title>
-    <link>https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/</link>
-    <guid>https://www.nasa.gov/missions/mars-2020-perseverance/nasas-perseverance-offers-clues-to-protect-crews-from-mars-dust/</guid>
-    <pubDate>Mon, 26 Oct 2026 21:07:28 +0000</pubDate>
-    <description><![CDATA[Over 1,645 Martian days, NASA’s Perseverance Mars rover measured the fine and ultrafine Martian dust particles found clinging to samples of spacesuit materials that are carried aboard the rover, including some that are small enough to penetrate the lungs and enter the bloodstream. The findings will bepublishedTuesday, Oct. 27, in the Proceedings of the National Academy of Sciences and could inform spacesuit and habitat design, dust-removal procedures, and crew health standards for future NASA missions to Mars.
-
-“NASA has a long history of turning challenges into workable solutions and of finding creative ways to use the data that we have to answer questions beyond what it was originally collected for,” said Lindsay Hays, acting director, Planetary Science Division, NASA Headquarters in Washington. “Dust has been a surface-exploration challenge since the Apollo program. Perseverance is giving our engineers and flight surgeons measurements they can use to improve our existing designs well before the first American astronauts arrive on Mars.”
-
-Lunar dust scratched visors, degraded outer spacesuit layers, and damaged their seals during NASA’s Apollo missions, and some crew members reported symptoms similar to hay fever.
-
-Rounded by wind-driven collisions with other particles, dust grains on Mars are less abrasive than those on the Moon. They also are enriched in sulfur, chlorine, and iron and contain more silica than lunar dust. Regional and global dust storms on Mars can keep the grains recirculating throughout the atmosphere as well.
-
-The rover carries a set of five samples of spacesuit material. Theswatches, each three-quarters of an inch (20 millimeters) square, are part of acalibration targetused to test the settings ofSHERLOC(Scanning Habitable Environments with Raman and Luminescence for Organics and Chemicals), an instrument on Perseverance’s robotic arm. The calibration target for another instrument that provided the dust measurements, calledPIXL(Planetary Instrument for X-ray Lithochemistry), carries a sample of Teflon and of basaltic glass.
-
-Because Teflon contains no elements that PIXL can directly detect, whatever elemental signals the X-ray spectrometer picks up from that sample comes from dust resting on it.
-
-The team also analyzed swatches of Teflon and Vectran, two materials used in spacesuits, on SHERLOC’s calibration target. NASA sent the swatches to Mars to study how spacesuit materials hold up on the planet’s surface.
-
-“Perseverance’s main job is to search for signs of ancient microbial life, but the mission was also designed to help prepare for human explorers. That effort includes technology demonstrations likeMOXIE(Mars Oxygen In-Situ Resource Utilization Experiment) andIngenuity, as well as the spacesuit samples,” said Katie Stack Morgan, Perseverance’s project scientist at NASA’s Jet Propulsion Laboratory in Southern California.
-
-While earlier measurements on Mars resolved dust particles down to about 3 micrometers across, PIXL detected two categories of even smaller particles: fine particles measuring less than 2.5 micrometers (a human hair is about 70 micrometers wide) and ultrafine particles around 100 nanometers (about 700 times thinner than a human hair). Particles on PIXL’s Teflon target and SHERLOC’s Vectran swatch averaged about 2 micrometers. On PIXL’s basaltic glass and SHERLOC’s Teflon swatch, dust particle sizes ranged down to about 100 to 300 nanometers.
-
-Static electricity appears to determine which size dust particles stick to which surface. Dust grains become charged as they collide in the air, and different materials on the calibration target attract grains of different sizes. The finest particles stayed attached through years of driving and drilling. Organic polymers like SHERLOC’s Teflon spacesuit sample are common in the outer layers of spacesuits, and the results show they readily collect fine dust.
-
-The study also found that some materials hold less dust than others, which could guide future choices of materials and protective coatings for spacesuits and habitats. Designs such assuitports, which let astronauts enter a suit attached to the outside of a habitat, and dual-chamber airlocks could reduce how much dust gets inside astronauts’ living quarters.
-
-“The existence of Mars dust at these ultrafine sizes has been predicted for a long time, and PIXL gave us the chance to measure it directly on Mars,” said Scott VanBommel, a Perseverance scientist at Washington University in St. Louis and the paper’s lead author. “The larger clumps, the Martian dust bunnies, get shaken off over time. But the smallest particles stay behind, and those are the ones that pose the greatest challenge for human support systems.”
-
-Chemically, the dust matches the iron- and sulfur-rich composition that earlier missions measured. The PIXL instrument also found the dust to be enriched in phosphorus and detected signs of calcium sulfate.
-
-On Earth, airborne particles, or particulate matter, be]]></description>
   </item>
 </channel>
 </rss>
