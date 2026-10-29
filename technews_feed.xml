@@ -4,289 +4,307 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Thu, 29 Oct 2026 03:06:02 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 10:29:38 GMT</lastBuildDate>
   <item>
-    <title>日本晶片设备销售旺  首破「6千亿」、刷新历史新高</title>
-    <link>https://technews.tw/2026/10/29/japan-chip-equipment-sales-top-600-billion-yen-for-the-first-time/</link>
-    <guid>https://technews.tw/2026/10/29/japan-chip-equipment-sales-top-600-billion-yen-for-the-first-time/</guid>
-    <pubDate>Thu, 29 Oct 2026 03:00:18 +0000</pubDate>
-    <description><![CDATA[日本半导体（晶片）制造设备销售续旺，9 月份销售额创 55 个月来最大增幅，首度冲破 6,000 亿日圆大关，刷新单月历史新高纪录。
+    <title>韩媒：台美日韩 PHP 防火墙遭入侵，发现疑似中国骇客踪迹</title>
+    <link>https://infosecu.technews.tw/2026/10/29/korean-media-taiwan-us-japan-south-korea-php-firewalls-hacked-chinese-hackers-suspected/</link>
+    <guid>https://infosecu.technews.tw/2026/10/29/korean-media-taiwan-us-japan-south-korea-php-firewalls-hacked-chinese-hackers-suspected/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:30:54 +0000</pubDate>
+    <description><![CDATA[韩国中央日报报导，疑似与中国往来的骇客利用程式语言 PHP 一项重大安全漏洞攻破防火墙，取得韩国、日本、美国及台湾四国伺服器的完整控制权。
 
-根据日本半导体制造装置协会（SEAJ）公布的统计数据显示，2026年9月份日本制晶片设备销售额（3个月移动平均值、包含出口）达6,290.40亿日圆，较去年同月暴增48.2%，连续第九个月呈现增长，连续第七个月出现2位数（10%以上）增幅，增幅为55个月来（2022年2月以来、暴增56.8%）最大，月销售额为史上首度冲破6,000亿日圆大关，超越2026年8月份的5,979.15亿日圆，创1986年开始进行统计以来历史新高纪录。
+以色列网路安全公司Dream研究人员今天公布报告，揭露这起利用PHP漏洞的大型网攻行动。PHP是运作网站的程式语言之一。当访客载入网页，执行PHP的伺服器会组合网页内容并传送至浏览器。PHP是免费开放原始码软体，由志工维护。
 
-和前一个月份（2026年8月）相比成长5.2%，连续第三个月呈现月增。
+研究员取得日志，显示骇客扫描全球约1万9千台防火墙，之后最终目标缩小至韩国、美国、日本与台湾240台设备。防火墙是过滤进出网路流量并阻挡未授权存取的安全系统。报告指出，总共25个系统遭入侵。骇客夺取24台防火墙的最高管理权限，即root存取权，同时控制一台管理美国政府附属机构内网伺服器。
 
-累计2026年1-9月期间日本晶片设备销售额达4兆6,640.85亿日圆，较去年同期大增22.7%，就历年同期来看，超越2025年的3兆8,004.75亿日圆，创下历史新高纪录。
+尚未确认有多少机敏资料遭窃（如果有）或是否有其他系统遭入侵，也不清楚是否有任何韩国系统受影响。骇客利用PHP的「PHP2Shell」漏洞和开源作业系统Linux漏洞；后者普遍用于伺服器与网路设备。这PHP漏洞允许骇客从远端执行任何指令，还能短短数秒内骇入网站，完全不需要密码或任何形式验证。
 
-日本晶片设备全球市占率（以销售额换算）达三成，仅次于美国位居全球第二大。
+安全专家最担心的是，本该抵御骇客的防火墙反而成为骇客入侵的突破口。骇客透过防火墙突破内部网路后控制住中央管理伺服器，取得该伺服器管理的其他防火墙设定和凭证。骇客植入的后门程式WebShell可能至今仍处于活跃状态，这能使骇客从远端存取权限。
 
-日本晶圆切割机大厂DISCO 10月22日公布财报资料指出，上季（2026年7-9月）可用来反映客户投资意愿的出货额较去年同期暴增54.3%至1,486亿日圆，季度别出货额连续第四季创下历史新高纪录。DISCO预估本季（2026年10-12月）出货额将大增31.7%至1,496亿日圆，将续创历史新高。
-
-（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
+若干迹象显示这些骇客可能与某中国组织有关。骇客执行网攻的系统时区设定为中国标准时间（CST），还使用能搜寻联网设备的中国搜寻引擎。研究员还认为骇客运用人工智慧（AI）写程式，因他们发现系统安装Anthropic AI程式开发代理工具Claude Code的痕迹，且相关规格显示用过中国AI模型DeepSeek和Kimi。]]></description>
   </item>
   <item>
-    <title>AI 时代是创业最好的时机，奥特曼对年轻人「持续失望」：总在追五年前的热潮</title>
-    <link>https://technews.tw/2026/10/29/sam-altman-shares-his-chronic-disappointment-in-gen-z/</link>
-    <guid>https://technews.tw/2026/10/29/sam-altman-shares-his-chronic-disappointment-in-gen-z/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:55:04 +0000</pubDate>
-    <description><![CDATA[OpenAI 执行长山姆‧奥特曼（Sam Altman）近日在史丹佛大学商学院谈到人工智慧对就业与创业的影响时表示，他对许多年轻人的「持续失望」在于，他们总想追逐五年前流行的方向，而不是投入新的事物。他认为，当前正是拥抱变化、尝试新题目的最佳时机。
+    <title>日月光投控 2026 年 LEAP 营收上调至逾 40 亿美元，今明资本支出与毛利率同步走扬</title>
+    <link>https://finance.technews.tw/2026/10/29/ase-technology-holding-co-ltd-reported-a-record-high-third-quarter-profit-with-eps-of-nt6-13-2/</link>
+    <guid>https://finance.technews.tw/2026/10/29/ase-technology-holding-co-ltd-reported-a-record-high-third-quarter-profit-with-eps-of-nt6-13-2/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:30:13 +0000</pubDate>
+    <description><![CDATA[半导体封测龙头日月光投控表示，受惠于 LEAP（先进封装相关业务） 快速提升、CoWoS 全流程需求殷切，以 CPO （共同封装光学） 新专案加入，公司上调 2026 年 LEAP 营收预测至超过 40 亿美元，并重申 2027 年 LEAP 营收将翻倍成长。此外，因应庞大的市场需求与产能扩建，日月光投控 2026 年资本支出进一步上修至 115 亿美元，预期 2027 年资本支出将高于 2026 年，毛利率则将以 30% 为新基准逐季提升。
 
-奥特曼指出，AI 已经能以更快、更便宜、也更好的方式完成大量现有工作，未来「广泛的工作内容」都可能被 AI 以完全不同的形式接手。不过，他也强调，这场转变不会像外界想像的那么快，但对愿意冒险、愿意重新思考的人来说，反而可能带来新的机会。
+面对法人的提问，日月光投控指出，随著高阶封装需求持续高涨，公司上调 2026 年 LEAP 营收预测，由上一季预估的 37 亿美元提升至超过 40 亿美元，并维持 2027 年 LEAP 营收翻倍的展望不变。在 CoWoS 全流程业务方面，2026 年营收预计达 3 亿美元，良率已达到量产与主要出货水准。展望 2027 年，全流程业务营收预估将突破 10 亿美元。公司目前正积极推动 22 个厂房专案建置，但受限于厂房空间瓶颈，2027 年整体需求将远高于可交付产能，因此对全流程业务规模仍采保守预估。
 
-他进一步表示，AI 不只会改变求职市场，也可能催生过去难以成立、甚至根本无法建立的新公司。他认为，建立在 OpenAI 技术之上的企业，未来有机会做得比 OpenAI 更大、甚至更重要。对创业者而言，现在是「竞争场域最开放」的时刻，尤其适合具备企图心、想法与新技能的人切入。
+而在先进技术创新方面，日月光投控透露正携手光学合作伙伴与客户投入 CPO 专案。CPO 业务已于 2026 年第四季进入量产，预计 2027 年持续放量并挹注营收。公司预估 2027 年 CPO 营收将超过 5 亿美元，并计入 LEAP 营收结构中。针对技术发展，日月光投控表示 CPO 与 NPO （近端封装光学） 将并存发展，公司亦具备能力掌握两者的市场机会。
 
-奥特曼也以自身经历说明创业与技术变革的关联。他曾在 2005 年从史丹佛大学辍学，与人共同创办 Loopt，之后又加入创业加速器 Y Combinator，并在 2014 年至 2019 年担任总裁。如今，他认为 AI 正为新一代创办人提供一个重新定义产业的契机。
+随著高毛利的 LEAP 业务占比上升及产能利用率提高，日月光投控指出过去的 「结构性毛利率上限」 已转变为当前的基本基准，第三季约 30% 的毛利率将作为 2027 年的基础。在有利的定价环境与产能扩充带动下，预期 2027 年毛利率将呈现逐季提升趋势。
 
-外界对 AI 是否会大幅冲击就业仍有争论，但奥特曼在这场谈话中维持一贯看法，认为社会不会出现外界所说的「工作大崩坏」，而是工作内容将快速重组。]]></description>
+资本支出方面，因应建厂与设备需求，日月光投控将 2026 年资本支出预算由 105 亿美元进一步追加 10 亿美元至 115 亿美元。其中约半数用于厂房设施兴建，半数用于设备采购。考量 2027 市场机会庞大，公司明确表示 2027 年资本支出将高于 2026 年，并将善用客户贸易融资等多种具成本效益的资金来源支持长期扩张。
+
+针对产能受限的资源调配，日月光投控表示因组装空间使用效率高于测试，目前资源配置上组装业务成长将高于测试；而在测试业务中，则优先投资晶圆探针测试而非成品测试。
+
+在市场整体需求方面，尽管智慧型手机与 PC 因零组件价格偏高导致需求相对疲弱，但车用、工业及 AI 相关晶片的复苏已足以弥补缺口，带动 2026 年一般市场业务成长达 20%，此强劲趋势预计延续至 2027 年。此外，在 EMS （电子制造服务） 业务中，AI 相关应用目前已占 EMS 营收约六成，未来将持续拓展至医疗与 AI 装置，带动整体营运回报提升。]]></description>
   </item>
   <item>
-    <title>Anthropic 研究：专业分析师 86% 的决策跟著 AI 走，却几乎没人察觉</title>
-    <link>https://technews.tw/2026/10/29/ai-secretly-manipulating-human-decisions-truth/</link>
-    <guid>https://technews.tw/2026/10/29/ai-secretly-manipulating-human-decisions-truth/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:50:27 +0000</pubDate>
-    <description><![CDATA[Anthropic 最新研究指出，当专业人士与 AI 代理一同进行判断时，人类自认的「独立决策」，其实比想像中更容易被 AI 牵动。这项研究以 50 名专业资料分析师为对象，让他们使用 Claude Code 完成一项模拟商业分析，以评估一家虚构的农业合作社是否应该扩大其付费顾问服务。
+    <title>章鱼、乌贼为何那么聪明？答案可能藏在 DNA 三维结构</title>
+    <link>https://technews.tw/2026/10/29/octopus-squid-dna-fold-structure/</link>
+    <guid>https://technews.tw/2026/10/29/octopus-squid-dna-fold-structure/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:28:12 +0000</pubDate>
+    <description><![CDATA[章鱼、乌贼、墨鱼的聪明程度在动物界相当突出，牠们具学习能力，也会解决问题，这些惊人能力依赖异常复杂的神经系统，但其如何演化仍是悬而未决问题。新研究表明，部分答案可能在于 DNA 三维结构。
 
-在研究设计中，分析师必须在多个看似没有标准答案的关键节点做出选择，包括如何设定分析指标、分配农场权重、采用哪种比较方法，以及如何界定评估范围。然而，受试者并不知道，研究人员其实在暗中透过随机方式，替 AI 在每个决策点预先设定了倾向，并要求它用最有说服力的方式来支持该立场。
+章鱼是公认最聪明的无脊椎动物之一，不少案例可解释，比如实验室章鱼学会旋开螺旋盖拿罐内食物；野外条纹蛸（俗称椰子章鱼）会捡椰子壳带著走，需要时充当掩护；水族馆章鱼会分辨不同饲育员，对讨厌的人喷水、对熟悉的人态度不同；还有研究观察到章鱼具好奇心，会反复将物品推向水流再接住，看起来像在玩耍。
 
-结果显示，在四个关键的分析选择中，受试者高达 86% 的时间采纳了 AI 的偏好，这远高于完全不受影响时理应出现的 50% 机率。数据更指出，若分析师在与 AI 互动前已先表达过自己的看法，当 AI 提出相反意见时，有高达 60% 的人会因此改变原本的立场；反之，若 AI 与其原先想法一致，改变比例则仅有 6%。研究团队甚至发现，单凭 AI 随机产生的倾向，就几乎能准确预测出 82% 的最终决策结果。
+这些惊人能力依赖复杂神经系统，章鱼全身拥有 3～5 亿个神经元，但约三分之二分布在 8 只触手，而不是集中大脑，也因此章鱼每只腕足都具相当程度的局部处理能力，身体控制方式和我们差异极大。
 
-This is one of the most important pieces of social science on human and AI interaction that I’ve seen in some time. Experts follow agentic advice the vast majority of the time (causally), but only a tiny fraction credit the agent—majority think they came to decision on their own volition.
+乌贼也是无脊椎动物中智商顶尖的群体之一，已知具高等认知能力，台湾清华大学焦传金教授团队 2016 年发表的经典研究更证实虎斑乌贼具数量概念、算术能力。
 
-Reminds me of the classic Nisbett and Wilson study on people following outside influence without realizing it
+头足类动物（乌贼、章鱼、墨鱼）独特之处在于，牠们在演化树上与人类相距超过 5 亿年，却藉完全独立的演化路径发展出高度平行人类的智力，成为地球最接近「外星智慧」的存在，生物学家非常疑惑，这种生物复杂性究竟如何演化而来？
 
-“ But as more work is handed to AI—including AI safety research—these judgment calls are the main levers for people’s own values to influence outcomes.
+维也纳大学团队最新研究发现证据，表明答案可能藏在 DNA 巧夺天工的三维立体结构，而不仅限于基因。
 
-If people defer to AI without noticing, then “human in the loop" might provide less assurance than people expect.”
+DNA 在细胞核内并非像一条直线排列，而是折叠成三维结构，原本序列上相距遥远的基因区域会拉近到彼此可物理接触的距离，这种结构直接影响哪些「调控元件」能与基因互动，进而控制基因活性。
 
-— Alex Imas (@alexolegimas)October 27, 2026
+在比对章鱼、乌贼、墨鱼的基因组结构与基因活性后，研究团队发现数亿年前一场基因组大洗牌，彻底改变头足类动物 DNA 不同区域之间互动模式，该过程被描述为「调控纠缠」，其中一些连接关联日益紧密，可能让头足类动物基因组在维持基本生物功能的同时发展出全新基因表现模式，从根本上促成牠们复杂神经系统演化。
 
-更值得注意的是，这种强大的影响力往往不会被当事人察觉。事后当被问到是如何得出最终结论时，高达 77% 的分析师会直接沿用 AI 提供的论点，有些人甚至几乎逐字重述，但却只有 15% 的人承认 AI 曾影响过自己的判断。研究同时显示，跟著 AI 建议走的人，对自己最终决策的信心程度与其他人相差无几，这意味著这种决策偏移往往是在不知不觉中发生的。
+研究还发现不同层次的基因组演化速度截然不同，染色质结构域在演化过程保持相对稳定，相较之下，较小的染色质环结构在不同物种、组织与发育阶段展现极大变异性，而许多环都出现在与头足类独特特征相关的基因附近，包括神经系统相关基因。
 
-Anthropic 表示，尽管这项研究只针对单一任务，且 AI 本身是被刻意设定为带有偏好，但实验结果仍为外界敲响了警钟：当 AI 越来越常参与专业工作时，我们真正需要严格检视的，可能不再只是「AI 给出的答案」本身，而是人类在与 AI 协作的过程中，究竟是如何一步步做出决定的。]]></description>
+简单来说，研究结果表明 DNA 的物理排列结构可能积极影响演化过程，稳定的染色质域像维护现有调控组织的平台，确保核心功能不会在演化过程轻易崩坏，而灵活的环则提供演化改变机会，让新的调控互动得以被测试与建立。
+
+过去我们总专注于「基因序列」，现在我们知道，基因在空间上的排列方式同样能创造出新调控网，进而催生像章鱼大脑这样复杂的生物结构。
+
+新论文发表在《自然通讯》（Nature Communications）期刊。]]></description>
   </item>
   <item>
-    <title>慧荣科技 2026 年第三季营收、EPS 续创新高，估全年营收成长逾 100%</title>
-    <link>https://finance.technews.tw/2026/10/29/phison-technologys-revenue-and-eps-continued-to-reach-new-highs-in-the-third-quarter-of-2026/</link>
-    <guid>https://finance.technews.tw/2026/10/29/phison-technologys-revenue-and-eps-continued-to-reach-new-highs-in-the-third-quarter-of-2026/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:45:43 +0000</pubDate>
-    <description><![CDATA[记忆体 IC 控制晶片厂商慧荣科技公布 2026 年第三季财报，营收为 5 亿 6,022 万美元，连续四季创历史新高。营收较前一季成长 24%，与前一年同期相比大幅成长 131%。第三季毛利率 53.7%，税后净利 1 亿 4,916 万美元，营业利益率为 32.1%，每单位稀释之美国存托凭证（ADS）盈余 4.35 美元（约新台币 139 元）。
+    <title>MacBook Pro 新机进军市场，2027 年全球 OLED 笔电出货估年增逾 40%</title>
+    <link>https://technews.tw/2026/10/29/macbook-pro-new-models-boost-oled-laptop-shipments-40-percent-growth-2027/</link>
+    <guid>https://technews.tw/2026/10/29/macbook-pro-new-models-boost-oled-laptop-shipments-40-percent-growth-2027/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:20:14 +0000</pubDate>
+    <description><![CDATA[根据 TrendForce 最新显示器产业研究，Apple 甫发表的 MacBook Pro with PROLED XDR Display 首度导入串联式 OLED 触控萤幕，代表 MacBook 显示技术与操作体验的重要转变。TrendForce 预估，这款新机于 2027 年的出货量将介于 120 至 150 万台间，Apple 切入 OLED 笔电市场，也已激励面板厂加速相关显示技术发展。
 
-三大产品线中，Ferri和企业级开机碟解决方案成长幅度最大，较上一季营收成长75%-80%，相较于2025年同期，更巨幅成长达2,580%-2,585%；SSD控制晶片营收较前一季成长20%-25%，较去年同期大幅成长55%-60%；嵌入式eMMC与UFS控制晶片营收较上一季减少10%-15%，但与去年同期相比，大幅成长35%-40%。
+TrendForce分析，由于MacBook Pro with PROLED XDR Display建议售价达2,899美元（14吋），且初期与既有Mini-LED机种双轨销售，预料高价定位与产品重叠将限制短期换机动能。不过，新机进一步巩固Apple高阶产品的技术形象与溢价定位，搭配入门级MacBook Neo采取不同于以往的价格策略，反映Apple产品逐步涵盖更广泛的价格带。
 
-慧荣科技总经理苟嘉章表示：「第三季财报再度交出亮眼成绩，营收、毛利率及营业利益率均大幅成长，主要挹注自Ferri车用和边缘AI解决方案、企业级开机碟解决方案，以及边缘SSD控制晶片和开始放量的新款MonTitan企业级和AI SSD控制晶片所贡献的营收。延续今年前三季的强劲表现，我们预期第四季将维持成长动能，并透过扩充产品组合及拓展新市场，进一步巩固成长基础，推动营收与获利的长期稳健成长。
+对OLED笔电市场而言，过去主力为Lenovo、HP、ASUS等Windows品牌，产品布局已逐步延伸至不同价位。Apple的加入有望促使品牌优先规画OLED机种，以及提高消费者对OLED笔电的接受度，为扩大面板技术应用创造空间。TrendForce预估，即使整体笔电市场近两年皆呈现衰退，2026年OLED笔电整机出货量仍可望年增近40%，2027年将再成长40%以上。
 
-展望未来，苟嘉章表示，NAND产业正经历重大变革。随著企业级与AI储存需求持续成长，这些应用占整体NAND供应的比重不断攀升，进一步推升NAND快闪记忆体价格。为因应此一趋势，NAND大厂逐渐将重心转向高容量企业级SSD，并缩减部分偏重消费性应用市场的投入，包括PC、行动装置、物联网、车用及企业级开机碟。
+目前MacBook Pro with PROLED XDR Display的面板由Samsung Display(SDC)独家供应，该公司已规画韩国牙山园区的G8.6 A6产线Phase1为Apple专线。做为其G8.6 FMM OLED产线量产的第一款model，且用于Apple进入OLED笔电的第一台、最高阶旗舰机，对SDC宣示OLED市场的领先地位有指标意义。
 
-苟嘉章强调，我们相信，这一产业趋势将为我们在上述应用市场的产品带来可观的成长机会。凭借我们独有的控制晶片技术、近20年来与NAND生态系伙伴建立的深厚合作关系，以及持续投入eMMC与UFS解决方案、6奈米PCIe Gen5边缘SSD控制晶片、4奈米MonTitan PCIe Gen6企业级与AI SSD控制晶片，以及Ferri与企业级开机碟产品系列，我们已具备坚实基础，能够满足AI资料中心、AI伺服器、边缘AI与实体AI等应用需求。
-
-苟嘉章接著表示，记忆体成本上升，使部分消费性装置市场面临价格压力；然而，我们的企业级与Ferri客户普遍更重视供货稳定性，而非价格。随著企业级与AI应用占营收的比重持续提升，在手订单与客户需求预估也进一步强化了我们对未来成长的信心。根据目前的营运成果与业务能见度，我们预期2026全年营收可望创下历史新高，较2025年成长超过100%，且企业级与AI产品系列的营收贡献目前仍处于起步阶段。
-
-针对第四季展望，预计营收将介于5亿8千800万至6亿1千600万美元，较前一季成长5%~10%，较2025年同期成长111%~121%，毛利率介于54%至55%，而营业利益率将进一步提升至36%至37%之间。慧荣科技也在10月16日公布最新的股利政策，将每股美国存托凭证（ADS）的年度现金股利由前一年度的2.0美元调高15%至2.30美元，并按季分四次发放。]]></description>
+TrendForce表示，由于MacBook Pro新机采用Tandem OLED叠层架构，且每英吋像素（PPI）达254，高规格要求对上游面板厂的材料成本、良率都是极大挑战。因此，即便其他面板厂也有验证计划在进行，但考量成本架构过高，加上SDC已取得第一供应商地位，LG Display、BOE、TCL CSOT等其余OLED面板厂目前主要目标是进入MacBook Air OLED供应链，该机种预计于2029年发表。]]></description>
   </item>
   <item>
-    <title>法院文件曝光，Meta 曾研拟「耳语策略」打击社群媒体批评者海特</title>
-    <link>https://technews.tw/2026/10/29/meta-considered-a-whisper-strategy-to-turn-academics-against-jonathan-haidt/</link>
-    <guid>https://technews.tw/2026/10/29/meta-considered-a-whisper-strategy-to-turn-academics-against-jonathan-haidt/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:45:12 +0000</pubDate>
-    <description><![CDATA[最新公开的法院文件显示，Meta 在 2023 年 3 月曾讨论利用一套低调的「耳语策略」（whisper strategy）来削弱社会心理学家乔纳森·海特（Jonathan Haidt）的影响力，并试图引导学界与媒体对这位长期批评社群媒体伤害青少年心理健康的学者产生质疑。
+    <title>卫星武器搬上轨道，美军：中国可能于 2020 年代末部署太空雷射系统</title>
+    <link>https://technews.tw/2026/10/29/us-dia-said-china-could-deploy-laser-weapons-in-the-space-before-2030/</link>
+    <guid>https://technews.tw/2026/10/29/us-dia-said-china-could-deploy-laser-weapons-in-the-space-before-2030/</guid>
+    <pubDate>Thu, 29 Oct 2026 09:19:43 +0000</pubDate>
+    <description><![CDATA[美国国防情报局近日发布最新太空威胁评估，指出中国可能在 2020 年代末部署太空高能雷射武器，并发展能威胁更高轨道卫星的地面系统，让解放军除了反卫星飞弹、电子干扰与卫星捕捉技术外，再增加从轨道发动攻击的新手段。
 
-这些内容出现在一份名为「福祉会议录音笔记」（Wellbeing Meeting Audio Notes）的内部文件中，该文件属于美国针对社群媒体与青少年伤害诉讼的一部分。笔记显示，Meta 团队当时曾讨论如何寻求其他学者来反对海特，甚至提到要找寻方法论更强的研究者出面，让批评声音更具说服力。文件也提到，团队认为海特的研究很可能在未来的法律行动中扮演重要角色，因此有必要及早应对。
+美国国防情报局（DIA）近日公布《太空安全挑战》报告，认为解放军可能将定向能量武器（Direct Energy Weapons）武器，视为理想的反太空作战工具，因为这类系统可对卫星造成暂时性干扰或永久损害，不过报告并未说明，中国采用的是雷射、高功率微波或其他技术，也未证实已完成部署。
 
-根据文件，Meta 时任研究副总裁柯蒂斯‧科布（Curtiss Cobb）被指示思考如何让学术界与海特切割，甚至出现了「如果没办法拉拢他们，那就想办法激怒他们」之类的字句。笔记还提到，团队希望透过媒体与学术圈的影响力，让对海特研究的质疑扩散到公共讨论中。
+反卫星攻击不一定要摧毁目标，例如利用雷射暂时干扰光学感测器，就可能让侦察卫星无法取得影像，若造成感测器或电子设备永久损坏，卫星即使仍在轨道上，也可能失去任务能力，对高度依赖太空情报与通讯的美军而言，短时间失去支援，就可能影响作战。
 
-文件中另有一项构想，是找一位被称为「Gellman」的人撰写批评海特的文章。外界推测这可能指的是哥伦比亚大学统计与政治学教授安德鲁·杰尔曼（Andrew Gelman），但文件并未明确证实。杰尔曼近日表示，自己从未收到 Meta 邀请撰写相关文章。
+中国自身的太空侦察规模也持续扩张，报告指出截至今年 7 月，中国情报、监视与侦察（ISR）卫星已超过 510 枚，数量为 2018 年的三倍以上，虽然不少挂名商业或民用任务，但相关影像与资料具有军民两用性，也可能供解放军运用。
 
-目前尚不清楚 Meta 是否真的执行了这些想法，不过，文件的曝光已凸显出 Meta 内部曾认真讨论如何处理这位最具代表性的批评者，也反映出公司对于外界关注其产品与青少年心理健康关联的高度敏感。
+目前公开可知的中国太空反卫星能力，主要仍集中在能接近或操控其他卫星的平台，2022 年就曾有中国卫星捕捉另一枚卫星，将其拖离原本的地球同步轨道，这类技术可用于清理失效卫星，也可能被用来干扰其他国家的太空资产。
 
-（首图来源：Flickr/Fronteiras do PensamentoCC BY 2.0）]]></description>
+DIA 指出，解放军将反卫星系统视为阻止外部势力介入区域冲突，以及控制冲突升级的工具，若中国先发制人，美国与盟友的侦察及通讯卫星可能成为优先目标，而卫星故障不易立即确认原因，也会增加判断是否遇袭与追查攻击来源的难度。
+
+美方也逐渐公开自身部署，美国空军部长梅因克（Troy Meink）9 月首度证实，美国已在轨道上部署「太空控制武器」，但未公开种类与运作方式，目前中国太空定向能系统同样缺乏公开细节，能否依美方评估时程部署，以及实际可威胁哪些卫星，仍待后续资讯确认。]]></description>
   </item>
   <item>
-    <title>主攻安全防御，Google 发表 Gemini 4 Carbon 刷新基准测试纪录</title>
-    <link>https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/</link>
-    <guid>https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:44:21 +0000</pubDate>
-    <description><![CDATA[两周前，Google 的 Gemini 4 Argon 模型扩大推出，让更多付费使用者与开发者使用。现在，Google 再一次为大众预告一款全新先进模型 Gemini 4 Carbon，具备顶尖的网路安全防御与处理长程任务的能力。
+    <title>台达电 AI 营收占比达五成，马来西亚新据点五年拚泰国规模</title>
+    <link>https://technews.tw/2026/10/29/delta-electronics-ai-revenue-50-percent-malaysia-new-facility-5-years-thailand-scale/</link>
+    <guid>https://technews.tw/2026/10/29/delta-electronics-ai-revenue-50-percent-malaysia-new-facility-5-years-thailand-scale/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:51:15 +0000</pubDate>
+    <description><![CDATA[AI 资料中心持续带动电源及散热需求，台达电今（29）日于第三季法人说明会指出，目前 AI 相关业务已占整体营收约五成，其中 AI 电源解决方案占比约 25%，液冷相关营收占比达 13%，预期明年相关业务仍将持续成长。为因应未来需求，台达电也确定在马来西亚槟城设立新制造据点，长期目标是在五年内建立可比照泰国的产能规模。
 
-Google 内部孕育的 Carbon，在编码、Agent 与科学任务、全端网页开发，以及多模态理解等方面均有所提升。Google 指出，Carbon 在综合性基准测试 Artificial Analysis Intelligence Index v5 名列前茅，领先紧追在后的 Claude Opus 5.5 与 GPT-6 Astra，但网路安全防御才是 Carbon 真正大放异彩之处。
+台达电表示，第三季液冷相关营收约 250 亿元，占整体营收约 13%，预估全年占比也将维持在相近水准。随著大型云端服务供应商持续扩建 AI 资料中心，电源及散热解决方案仍是主要成长动能，公司看好明年相关业务持续成长。
 
-相较自家 Argon，Carbon 在生成安全程式码方面的成功率提升超过一倍。与此同时，Google 声称「在产出高品质修补方案时，Carbon 表现较另一家实验室的先进模型出色超过 10 倍」。包含 SEC-bench Pro（漏洞挖掘）、ExploitGym（漏洞利用）、CWE-bench（漏洞修补）等基准测试中，Carbon 同样表现优异。
+为扩充全球产能，台达电董事会已通过马来西亚槟城新据点投资案，目前先行购置土地及小型厂房，并租用现有厂房展开布局。台达电指出，选择马来西亚主要考量当地具备较充足的理工人才，可支援高度自动化的制造需求，未来也有机会进一步延伸制程研发及研发中心布局。
 
-Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index
+台达电表示，新据点将采取逐步扩充方式，目标在未来五年内建立可比照泰国的产能规模，实际扩产速度仍将视市场需求调整。至于整体投资金额及正式动工时程，目前尚未确定，后续建厂计划仍须依相关程序推进。
 
-Gemini 4 Carbon scores 59 on Intelligence Index v5, driven by leading performance in complex reasoning, knowledge, and scientific tasks. It also has large gains in coding and knowledge work, particularly when compared to other Gemini models, but it is not leading in all these areas.
+在新一代电源技术方面，随著 AI 伺服器运算密度及机柜功率持续提高，资料中心供电架构正逐步朝HVDC 发展。台达电指出，目前 ±400 VDC 的导入速度相对较快，第三季已有部分出货；至于 800 VDC，主要由辉达推动，资料中心营运商的采用进度相对较慢，仍需时间推进相关规格及标准化工作。
 
-As with launch of Gemini 4 Argon, Gemini 4 Carbon is being rolled out to selected users and is not yet publicly available. Google is offering a 50% launch discount, with no confirmed end date. All our charts and figures use standard pricing for both Gemini 4 Carbon and Argon.
+除了提升电力转换效率，台达电也持续推进固态氧化物燃料电池（SOFC）布局。台达电指出，SOFC 预计于 2027 年开始量产，首条产线规划产能约 100 MW，但初期主要供应客户进行测试及验证。目前已有两至三家海外大型客户接洽，并表达试用意愿，后续将视产品验证结果，再决定扩充产线的速度。
 
-Key results for Gemini 4 Carbon with high reasoning:➤ Gemini 4 Carbon leads the Intelligence Index v5, with the #1 score in 4 of the 9 Index evaluations: HLE-Diamond, Terminal-Bench-Science, AA-Omniscience, AutomationBench-AA. Carbon makes substantial gains elsewhere but is not leading in coding and knowledge work
+此外，针对美国电源技术业者 Vicor 提起的专利诉讼，台达电表示，此次争议涉及业界多家企业，公司将依相关法律程序积极因应，目前不便评论案件细节。台达电强调，公司拥有自身研发技术及智慧财产权，对相关技术能力具有信心，预期短期内不会影响产品出货及客户。
 
-➤ Behind only Claude Opus 5.5 on coding agents: With Antigravity CLI, Gemini 4 Carbon (high) scores 59 only 3 points behind Claude Code with Claude Opus 5.5 (max, 62) on the Artificial Analysis Coding Agent Index. Carbon ranks second on both Terminal-Bench 4.0 (64%) and FrontierCode v1.1 (51%), behind Claude Opus 5.5 (max) at 56%. Google has historically underperformed in this area and so this improvement stands out
-
-➤ Improved agentic knowledge work, but not yet leading: On AA-Briefcase, Gemini 4 Carbon (high) scores 1609 Elo, a 126-point improvement over Gemini 4 Argon (high, 1483), but still behind models including Grok 4.7 (xhigh, 1638), Muse Wonder (max, 1659) and Kimi K3.1 Pro (1678). The largest gain comes from Presentation, up 293 Elo to 1598, alongside a 120-point improvement in Analytical Quality to 1671
-
-➤ Lower Cost per Task than Claude Opus 5.5 for comparable overall intelligence: Gemini 4 Carbon costs $7.76 per Intelligence Index task, ~23% less than Claude Opus 5.5 (max, $10.04) but ~1.2x GPT-6 Astra (max, $6.25). It uses 123k output tokens per task, 29% fewer than Claude Opus 5.5 (max, 173k). At the same $4/$20 standard pricing, its Cost per Task is in line with Gemini 4 Argon ($7.68), while scoring 9 points higher on the Intelligence Index
-
-➤ Leading AA-Omniscience v1.1 score, with low hallucination: Gemini 4 Carbon scores 54 on our recently updated AA-Omniscience v1.1, 6 points ahead of Claude Opus 5.5 (max, 48) and 8 points ahead of Gemini 4 Argon (46). Accuracy (% correct) rises 10 points over Argon to 58%, while its hallucination rate rises from 4% to 11%. This is still the second lowest of any model, behind only Argon, compared with 50% for both Claude Opus 5.5 (max) and GPT-6 Astra (max)
-
-Key model details:➤ Context Window: 1M tokens➤ Multimodality: Text, image, video, and speech input, with text output➤ Pricing: $4/$20 per 1M input/output tokens, the same as Gemini 4 Argon’s standard pricing, with a 50% discount. Cached input tokens receive a 95% discount ($0.20 per 1M)
-
-Congratulations to the @GoogleDeepMind team!
-
-— Artificial Analysis (@ArtificialAnlys)October 28, 2026
-
-虽然 Carbon 与 Argon 是建构在相同的安全性与资安技术堆叠上，但 Google 进一步同时提升模型的对齐表现，Carbon 具备的特点包含：减少走捷径与钻漏洞的行为；有著更高的透明度与诚实度；面对模糊不清的情况，能与使用者有更出色的协作表现；在执行某项任务时，较少出现越界逾矩的情形；对「提示注入」（prompt injection）攻击具备更强的抵抗力。
-
-对于 Carbon 的正式释出，Google 遵循美国政府的自愿性审查程序，不会立即向消费大众推出，而是计划本周先提供给部份网路安全防御公司采用。Carbon 定价为每百万个输入 token 收费 2 美元、每百万个输出 token 收费 10 美元，经快取的输入 token，将以输入 token 价格的 95 折计算。]]></description>
+展望第四季，台达电表示，营收预期将优于第三季，毛利率则有望维持相近水准，但年底仍有相关会计评估因素。]]></description>
   </item>
   <item>
-    <title>Google 与 NASA 联手打造深空 AI 机器人，化身太空专属医疗与后勤助手</title>
-    <link>https://technews.tw/2026/10/29/google-is-building-a-robot-medic-for-nasa/</link>
-    <guid>https://technews.tw/2026/10/29/google-is-building-a-robot-medic-for-nasa/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:40:54 +0000</pubDate>
-    <description><![CDATA[Google 正与美国国家航空暨太空总署（NASA）合作开发一套具备 AI 能力的机器人系统，目标是在未来深空任务中协助太空人处理医疗与后勤需求。这项计划由 Google Public Sector 与 NASA 人类研究计划、詹森太空中心（Johnson Space Center）机器人团队及喷射推进实验室（JPL）共同推进，旨在因应地球与火星之间可能出现的长时间通讯延迟，让太空人仍能获得即时的实体协助。
+    <title>日月光投控第三季获利创新高 EPS 达 6.13 元，第四季营收估季增上看 8%</title>
+    <link>https://finance.technews.tw/2026/10/29/ase-technology-holding-co-ltd-reported-a-record-high-third-quarter-profit-with-eps-of-nt6-13/</link>
+    <guid>https://finance.technews.tw/2026/10/29/ase-technology-holding-co-ltd-reported-a-record-high-third-quarter-profit-with-eps-of-nt6-13/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:40:14 +0000</pubDate>
+    <description><![CDATA[全球半导体封测龙头日月光投控发布第三季营运报告，受惠于半导体封测与电子代工服务（EMS）需求双双大增，日月光投控第三季合并营收达新台币 2,441.61 亿元，季增 27.8%、年增 44.8%。归属于本公司业主之净利为新台币 269.96 亿元，季增 28.2%、年增高达 148.4%，单季基本每股盈余（EPS）冲上 6.13 元，前三季累计基本 EPS 则达 14.17 元。
 
-这套系统建立在 Google 与 NASA 先前合作的 Crew Medical Officer Digital Assistant 基础上，原本是用来提供太空人医疗决策支援的自动化系统。最新版本则进一步发展为实体机器人原型，设计上更像是一名可多工运作的酬载处理员，能协助搬运货物、整理设备、处理后勤作业，也能在需要时切换到医疗支援模式，协助取用与准备医疗器材。
+日月光投控第三季整体财务指标呈现大幅成长，单季营业毛利为 539.67 亿元，毛利率由上一季的 21.0% 提升至22.1%，优于2025 年同期的 17.1%。营业净利达 331.42 亿元，季增 56.8%、年增 151.1%，营业净利率亦由上一季的 11.1% 跃升至 13.6%。累计 2026 年前三季合并营业收入为 6,088.87 亿元，归属母公司业主净利为 621.93 亿元，对比 2025 年同期 259.45 亿元呈现倍数成长。
 
-Google 表示，这套机器人并非要取代人类医疗官，而是做为其助手，在太空人直接监督与指挥下执行任务。举例来说，若有太空人出现可能与肾结石有关的剧烈背痛，机器人可取来并准备超音波设备，让医疗官专注于判读检查结果与决定后续处置。未来若运作成熟，太空人甚至可透过简单的英文语音或文字指令，要求机器人协助量测基本生命征象、执行简单超音波检查，或处理日常维护工作。
+依主要业务区分，第三季半导体封装测试（ATM）事业营收为新台币 1,514.85 亿元，占比 61.7%），季增 20.1%、年增 51.0%。其中，封装业务营收为 1,229.45 亿元，测试业务营收为 263.02 亿元。封测事业的营业毛利率达到 30.6%，较上一季的 27.3% 大幅增加 3.3 个百分点。营业净利达 302.43 亿元，营业净利率高达 20.0%。
 
-目前这项计划仍停留在概念验证阶段，但已完成初步实验室测试。Google 指出，团队利用 DeepMind 的 MuJoCo 物理模拟器测试机器人动作，并在早期实验中完成医疗袋定位与搬运等任务，初步成功率达 85%。此外，团队也测试了多种边缘运算装置，并验证微调后的模型可在小型、低功耗设备上于本机执行，为未来深空任务所需的轻量化部署铺路。]]></description>
+在封测产品组合方面，凸块、覆晶封装、晶圆级封装与系统级封装占比高达 51%，打线封装占 24%，测试业务占 17%。产品应用别则以通讯（38%）与电脑（34%）为最大宗。电子代工服务（EMS）事业第三季营收达新台币 934.69 亿元，占比 38.1%，季增 42.1%、年增 35.4%。EMS 毛利率为 8.3%，营业净利为 31.11 亿元，营业净利率为 3.3%。EMS 产品应用主要集中于消费性电子（41%）、电脑（21%）及通讯（19%）。
+
+展望 2026 年第四季，日月光投控管理阶层基于 1 美元兑换 31.9 元新台币之汇率假设预测，第四季合并营收预估将季增 6% 至 8%。合并毛利率预期介于 23% 至 24%。合并营业利益率则预期介于 14.5% 至 15.5%。其中，半导体封测（ATM）事业第四季营收预估将持续成长，季增率达 11% 至 13%，封测毛利率预期可较第三季再增加 100 至 200 个基点。电子代工服务（EMS）事业第四季营收预估与上一季大致持平，营业利益率预估约为 2%。
+
+日月光投控指出，随著先进封测与产能需求升温，日月光投控第三季机器设备资本支出高达 21.04 亿美元，显著高于上一季的 16.95 亿美元。截至 2026 年 9 月 30 日，公司现金及约当现金为 884.21 亿元，当季 EBITDA 达 579.63 亿元，显示整体财务结构与现金流相当稳健。]]></description>
   </item>
   <item>
-    <title>辉达推出免费开源语音模型 Nemotron 3.5 Transcribe，转录、翻译、辨识语者一次搞定</title>
-    <link>https://technews.tw/2026/10/29/nvidia-releases-new-open-transcription-model/</link>
-    <guid>https://technews.tw/2026/10/29/nvidia-releases-new-open-transcription-model/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:35:03 +0000</pubDate>
-    <description><![CDATA[辉达（NVIDIA）10 月 28 日推出Nemotron 3.5 Transcribe，这是一款免费、开放权重的语音模型，主打将录音内容转成可用文字，并将转录、语者分群、翻译与音讯问答整合在同一个模型中。公司同时释出第 2 版 Granary 开源语音资料集，供开发者进一步微调与客制化。
+    <title>9 月景气灯号连 10 红，缔造史上最长红灯纪录</title>
+    <link>https://finance.technews.tw/2026/10/29/september-business-climate-indicator-shows-10-consecutive-red-lights-setting-new-historical-record/</link>
+    <guid>https://finance.technews.tw/2026/10/29/september-business-climate-indicator-shows-10-consecutive-red-lights-setting-new-historical-record/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:40:04 +0000</pubDate>
+    <description><![CDATA[国发会今天公布 9 月景气灯号，由于 AI 需求维持强劲，扮演支撑台湾经济成长引擎的关键力道，9 月景气灯号续亮热络红灯，呈现连 10 红，创下史上最长红灯纪录。
 
-根据辉达的说法，Nemotron 3.5 Transcribe 可处理最多 40 种语言，并能将其中 31 种语言与英文互译；它也支援最长 1 小时的录音，并可区分最多 8 位说话者。辉达表示，这款模型在多项基准测试中表现领先，包括 Hugging Face 的 Open ASR Leaderboard。
+国发会表示，9月景气对策信号综合判断分数为41分，较8月下修值40分增加1分，灯号续呈红灯。9项构成项目中，工业及服务业加班工时由绿灯转呈黄红灯，增加1分，其余8项灯号均维持不变。
 
-这项工具主要锁定企业会议与医疗转录等应用场景。辉达指出，开发者可搭配更新后的 Granary 资料集与 NeMo Speech 等工具，让应用程式更能辨识各产业在不同语言中的专业术语与口语习惯。不过，这款模型目前仅支援录音档，无法处理即时串流音讯。
-
-辉达也强调，Nemotron 3.5 Transcribe 可在单一晶片上执行，涵盖 Jetson AGX Thor、DGX Spark，以及 Blackwell 资料中心晶片等平台。这款 300 亿参数的模型，进一步扩充了辉达既有的开放权重语音模型阵容，与先前的 Parakeet 等模型形成互补。]]></description>
+国发会并指出，景气领先及同时指标均续呈上升，显示国内景气延续成长态势。]]></description>
   </item>
   <item>
-    <title>大和证券重申估值过高给联亚光电卖出评等，却营运超乎预期提升目标价至 1,210 元</title>
-    <link>https://finance.technews.tw/2026/10/29/daiwa-securities-reiterated-its-overvaluation-rating-for-lianya-optoelectronics-giving-it-a-sell-rating/</link>
-    <guid>https://finance.technews.tw/2026/10/29/daiwa-securities-reiterated-its-overvaluation-rating-for-lianya-optoelectronics-giving-it-a-sell-rating/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:30:20 +0000</pubDate>
-    <description><![CDATA[大和证券（Daiwa）发表最新投资研究报告，针对光通讯磊晶大厂联亚光电虽调升财务预测与目标价，但维持「卖出」的投资评级。
+    <title>光子测试需求旺！致茂 Q3 营收年增 186%、每股大赚 13.34 元，看好明年 CPO 成长动能</title>
+    <link>https://technews.tw/2026/10/29/chroma-2026-q3-financial-report/</link>
+    <guid>https://technews.tw/2026/10/29/chroma-2026-q3-financial-report/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:34:28 +0000</pubDate>
+    <description><![CDATA[电子测试设备大厂致茂今（29日）举办第三季法说会，第三季营收179亿元，季增33%、年增186%；税后净利56.47亿元，季增11%、年增13%；每股盈余13.34元，毛利率58%，营业利益率40%。
 
-大和证券指出，尽管受惠于云端服务提供者（CSP）积极建置 AI 资料中心，带动矽光子材料需求强劲，第三季财报与第四季展望双双优于预期，但目前股票估值过高，且市场对其利润率过度乐观，未来仍面临修正风险。
+致茂指出，第三季营收主要由两大主力产品线带动，其中量测仪器与自动化测试系统（ATS）占52%，较去年同期成长147%；半导体与光子测试解决方案则贡献42%，季增38%、较去年同期成长189%，其中累计前三季达到138.5亿元，已经超越2025年全年的销售额。
 
-报告指出，联亚光电公布 2026 年第三季单季净利达新台币 6.21 亿元、季增 33%、年增 528%，优于大和证券及市场预期，主要归因于研发费用较低。其中，资料中心业务为主要营收来源，占比达 80% 至 85%。针对第四季展望，联亚光电预估单季营收将达 18 亿元、季增约 16%，主要受到连续波雷射（CW laser/矽光子）需求持续强劲，以及顺利转嫁磷化铟（InP）衬底等材料上涨成本所致。
+致茂指出，光子测试与系统级测试（SLT）是主要增长引擎，其中光子测试营收成长四倍，系统级测试营收也呈现翻倍，反映公司在光通讯及系统级测试设备上的强大市场地位，预期CPO与推论市场的强劲动能将延续至2027年。至于主力业务，预期成长动能维持不变。
 
-报告表示，为因应强劲需求，联亚光电透露已与 CSP 客户及衬底供应商签订为期 4 年的长期供应协议（LTA）。在此长约保障下，公司计划于 2027 至 2028 年间，每年将产能大幅扩充 150%。 基于订单能见度提高，大和证券将联亚 2026 至 2028 年每股盈余（EPS）预测上调 10% 至 25%，预估 2026 年 EPS 为 20.92 元，2027 年 EPS 将达 32.35 元。然而大和也提醒，若 2028 年全球 AI 投资放缓，长约恐无法提供下行保护。]]></description>
+目前致茂在Insertion 1、Insertion 3中，主要处理光引擎制造，目前有两家一线客户已确认采用，分别是辉达和Marvell；Insertion 4预期还有另一家客户进入试产（pilot run）。
+
+在CPO进度方面，致茂预计于今年底前完成试产阶段，目前已接获量产阶段的首笔CPO订单，客户也已提供明年的需求预估，初期产能将逐步提升。以Insertion 3测试设备出货来看，量产规模至少将达试产阶段的4至5倍，若市场需求全面放量，成长幅度将更加显著。
+
+致茂进一步指出，目前CPO客户包括辉达与Marvell。其中，Marvell已通知明年会进入试产阶段，预计在前三季完成相关准备后，于第四季迈入量产阶段。
+
+至于ATC handler已获得高阶运算（HTC）与云端服务供应商（CSP）客户的认证，且有客户下单，预期2027年将贡献具体营收；电池芯（Battery Cell）相关设备出货第三季已达高峰，第四季出货量预计将较第三季减少，主要是部分订单递延至2027年第一季，约有三成订单延后交付；高压直流（HVDC）电源机架测试仪器的订单动能预计将延续至2027年。
+
+致茂指出，2027年的整体前景非常看好，光子测试与系统级测试的成长率将最为显著，目前订单能见度也相当长。]]></description>
   </item>
   <item>
-    <title>Instagram 负责人坦言 AI 内容难排序，不禁 AI、但要求帐号自行标示</title>
-    <link>https://technews.tw/2026/10/29/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse/</link>
-    <guid>https://technews.tw/2026/10/29/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:30:02 +0000</pubDate>
-    <description><![CDATA[Instagram 负责人亚当·莫塞里（Adam Mosseri）表示，外界对人工智慧的反感、焦虑与愤怒，未来几年恐怕只会持续升高，而且影响范围不会只停留在创意产业。Mosseri 是在接受 Colin and Samir Podcast 访问时谈到这个议题，当时他也一并讨论了 Instagram 推出宽萤幕与长影片功能。
+    <title>iPhone Duo 在中国首销亮眼，传 4 天销量近 20 万支</title>
+    <link>https://technews.tw/2026/10/29/iphone-duo-sells-nearly-200000-units-in-china-in-four-days/</link>
+    <guid>https://technews.tw/2026/10/29/iphone-duo-sells-nearly-200000-units-in-china-in-four-days/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:30:09 +0000</pubDate>
+    <description><![CDATA[综合中媒报导，根据长期关注中国手机市占率的数位博主「RD 观测」爆料指出，根据第三方数据，苹果 iPhone Duo 首销期（首销日＋后三天）的 SO（Sell out 终端零售口径）接近 20 万支，其市场表现领先所有阔折叠机型。
 
-Mosseri 指出，许多人不喜欢 AI，并不只是年轻族群或创作者如此；在他看来，创意产业对 AI 的情绪尤其强烈，且这股压力还会继续扩大。他形容，接下来几年社会上会看到更多对 AI 的挫折与怒气，其中有些反应有其道理、有些则未必，但都会让不少人感到困难。
+苹果首款折叠萤幕手机iPhone Duo于10月23日正式发售，售价15,999元（人民币，下同）起。该机在预售阶段，由于供不应求，黄牛一度传出数万元的极端溢价；但10月23日正式开卖后，价格迅速回落，第三方电商平台甚至相较官方定价低200元。
 
-谈到平台治理时，Mosseri 表示，Instagram 并未刻意把 AI 创作者与其他帐号分开排名，但他也坦言，AI 内容是否能像非 AI 内容一样被有效排序，仍是问题。他提到，平台上既有优质 AI 内容，也有大量粗制滥造的 AI 内容，因此如何评估与排序，并不容易。
+而从预售时的疯狂溢价到开卖后的价格回落，iPhone Duo的市场热度经历了一轮快速修正，虽然苹果官网订单仍排到2027年1月，但苹果客服预计发货时间会提前，仍有不少人因排队时间较长而退单。
 
-他同时重申，Instagram 不认为全面禁止 AI 内容是可行做法。不过，平台已开始要求 AI 帐号自行标示身分，并在 2026 年 8 月起加强打击 AI 生成的个人档案。对于误导性 AI 内容，包括名人深伪影片等问题，Mosseri 说 Instagram 正在积极思考应对方式。
+尽管首销争议不断，业内机构对苹果折叠手机的占比预期并未动摇。TrendForce预测，iPhone Duo上市首年出货量约500万支，将拿下全球折叠手机市场约24.8%的市占。在全球折叠市场近乎零成长的形势下，预计苹果的入场将加速洗牌，领头品牌的占比也会迎来重构。
 
-Mosseri 也提到，创作者对 AI 的担忧不只来自内容真假，还包括作品所有权、模型是否会用他们的内容训练，以及安全与工作被取代的风险。他认为，这些焦虑背后最核心的感受，是害怕自己在快速变化的环境中被抛在后头。]]></description>
+（本文由MoneyDJ新闻授权转载；首图为iPhone Duo发售日的上海静安门市人潮，来源：苹果）]]></description>
   </item>
   <item>
-    <title>MacBook Neo 半年涨价两次，教育优惠价也不能 2 万元内入手</title>
-    <link>https://technews.tw/2026/10/29/macbook-neo-raise-prices/</link>
-    <guid>https://technews.tw/2026/10/29/macbook-neo-raise-prices/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:29:34 +0000</pubDate>
-    <description><![CDATA[苹果今年 3 月推出的平价笔电 MacBook Neo 上市不到八个月，价格却已经两度调涨；继今年 6 月调整售价后，苹果近日再度提高 MacBook Neo 的教育优惠价，台湾入门款从原先的 19,900 元调升至 21,900 元。若与 3 月发表时的 16,900 元相比，累计涨价 5,000 元，涨幅达 29.6%，原本主打的平价优势也逐渐缩小。
+    <title>Find X10 起售价涨近五成，OPPO 刘金承诺现有机款暂不调价</title>
+    <link>https://technews.tw/2026/10/29/find-x10-oppo/</link>
+    <guid>https://technews.tw/2026/10/29/find-x10-oppo/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:18:21 +0000</pubDate>
+    <description><![CDATA[记忆体价格持续上涨，手机品牌面临的成本压力短期内可能难以缓解。OPPO 台湾市场总经理刘金表示，今年记忆体供应链变化相当大，已对整体手机产业造成影响，依据专业机构预测及该公司内部判断，记忆体涨价压力明年可能持续存在，这波周期甚至可能延续至 2028 年。不过 OPPO 目前对台湾市场已上市的手机产品，暂时没有调涨售价的计划。
 
-苹果近期再次调涨 MacBook Neo 教育商店售价，这已是今年第二次价格调整。MacBook Neo 于 3 月发表时，以相对亲民的价格作为主要卖点，希望吸引学生及首次接触 Mac 的消费者，但随著记忆体与其他零组件成本上升，苹果也陆续调整产品定价。
+OPPO 今日发表 Find X10 系列，标准版 Find X10 的 12GB 记忆体、256GB 储存空间版本售价为 42,990 元，12GB／512GB 版本为 46,990 元，Find X10 Pro Max 的 16GB／512GB 版本则为 58,990 元。相较去年 Find X9 标准版 28,990 元的上市价格，新一代标准版起售价提高 14,000 元，涨幅约 48.3%，不过两代产品规格配置有所不同。
 
-回顾台湾市场，MacBook Neo 于 3 月发表时，256GB 入门款一般售价为 19,900 元，教育优惠价则为 16,900 元，两者相差 3,000 元。然而苹果在 6 月首次调整售价后，入门款一般价格提高至 22,900 元，教育优惠价后续也来到 19,900 元。
+针对新机价格明显提高，刘金坦言，今年记忆体供应链变化确实很大，OPPO 在制定价格时，已尽可能策略性吸收部分成本，同时考量台湾消费者的价格接受度。他指出，这波成本上涨并非只有 OPPO 面临，而是对整个手机产业带来影响，因此该公司也透过电信资费、分期付款及其他购机方案，降低消费者的入手门槛。
 
-到了 10 月，苹果再度调整 MacBook Neo 售价，256GB 入门款一般价格提高至 23,900 元，教育优惠价则调升至 21,900 元。换言之，从 3 月发表至今，一般售价已累计上涨 4,000 元，涨幅约 20.1%；教育优惠价累计上涨 5,000 元，涨幅则达 29.6%。
+展望明年，刘金表示，OPPO 与主要记忆体及其他零组件供应商维持紧密合作，将透过供应链管理、内部资源配置及产品组合调整，维持市场竞争力。至于 2027 年新机是否继续涨价，仍须视届时产业供需与成本状况决定，目前尚未有明确答案。
 
-值得注意的是，MacBook Neo 的教育折扣幅度也同步缩水，最初一般售价与教育优惠价相差 3,000 元，如今两者价差仅剩 2,000 元，意味著符合教育优惠资格的学生及教育工作者，不仅需要支付更高的购机价格，能享有的折扣金额也较发表时减少。
+在整体市场表现方面，刘金认为，受到记忆体成本上升影响，手机市场销售量可能持平或小幅萎缩，但销售额及平均销售单价持续成长，将成为未来市场的主要趋势。即使整体市场销量受到冲击，具备产品差异化与技术优势的中高阶手机，仍有机会获得消费者青睐。
 
-目前 MacBook Neo 的入门配置仍搭载 A18 Pro 晶片、8GB 统一记忆体与 256GB SSD，并未因价格调整而增加记忆体或储存容量。此外，入门版本也没有配备 Touch ID 指纹辨识功能，若需要相关功能，则必须选择更高容量的机型。
+他进一步透露，OPPO 台湾今年截至 9 月的整体销售额年增约 15% 至 20%，平均销售单价则提高约 12% 至 15%，主要受惠于高阶产品销售成长。此外，Find 与 Reno 系列中高阶产品用户的回购率达 50% 至 60%，显示既有用户仍是品牌的重要销售基础。
 
-对于此次价格上涨，外媒指出，记忆体及其他零组件供应短缺，是苹果调整产品售价的重要背景。随著 AI 资料中心持续扩大建置规模，记忆体需求增加，也对消费性电子产品的零组件供应与成本带来压力。苹果今年 6 月除了调涨 MacBook Neo，也同步调整部分 Mac 与 iPad 产品的售价。
+面对价格上涨及市场竞争，刘金强调，OPPO 将持续朝向价值导向的产品策略发展，而非单纯追求销售量成长。此次 Find X10 系列除了升级影像规格，也加入 AI 功能，借此提高高阶产品的差异化程度。
 
-另一方面，市场也传出苹果正在开发第二代 MacBook Neo，可能升级至 A19 系列晶片，并增加记忆体容量，预计最快于 2027 年上半年推出。不过相关消息仍属市场传闻，苹果尚未公布后继机种的正式规格及上市时程。
-
-MacBook Neo 原本以不到 2 万元的台湾起售价作为主要竞争优势，但经过两次价格调整后，一般消费者的入手门槛已提高至 23,900 元，即使符合教育优惠资格，也需支付至少 21,900 元。]]></description>
+至于消费者关心的旧机价格，刘金再次表示，OPPO 目前在台湾贩售的既有产品，没有进一步调涨售价的计划，供货也维持正常；但面对记忆体价格可能持续上涨，明年新产品的定价仍将依整体产业情况调整。]]></description>
   </item>
   <item>
-    <title>11 月就出现北极扰动史上最早，MIT：强烈寒流恐突袭北半球</title>
-    <link>https://technews.tw/2026/10/29/earliest-ever-arctic-disturbance-occurs-in-november-mit-warns-of-potential-severe-cold-snap-hitting-the-northern-hemisphere/</link>
-    <guid>https://technews.tw/2026/10/29/earliest-ever-arctic-disturbance-occurs-in-november-mit-warns-of-potential-severe-cold-snap-hitting-the-northern-hemisphere/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:29:18 +0000</pubDate>
-    <description><![CDATA[北半球今夏及秋季普遍温暖的天气一直延续到十月，虽然冬季尚未正式到来，但北极上空正在出现史无前例的气象异变。最新气象模型显示，北极涡旋(Polar Vortex)可能在11月初大幅减弱，甚至发生高空风向逆转，时间比历史纪录提早近三周。专家警告，这种异常现象可能改变北半球大气环流，让极地冷空气向南扩散。
+    <title>台达电揭 AI 资料中心三大瓶颈，缺料、缺电与缺工成扩建挑战</title>
+    <link>https://finance.technews.tw/2026/10/29/delta-electronics-ai-data-center-bottlenecks-material-power-labor-shortages-expansion-challenges/</link>
+    <guid>https://finance.technews.tw/2026/10/29/delta-electronics-ai-data-center-bottlenecks-material-power-labor-shortages-expansion-challenges/</guid>
+    <pubDate>Thu, 29 Oct 2026 08:16:28 +0000</pubDate>
+    <description><![CDATA[随著 AI 资料中心需求持续攀升，台达电今（29）日召开第三季法人说明会，台达资本董事长兼执行长指出，原物料供应不足、电力取得困难及专业技术人力短缺，已成为资料中心扩建的三大瓶颈，也使供应链营收成长难以维持平顺。
 
-麻省理工学院(MIT)气候学家Judah Cohen指出，北极涡旋大规模扰动通常发生在1月至2月，偶尔出现在12月，但卫星观测纪录中，尚未出现11月就发生如此强烈扰动的案例。
+台达电第三季合并营收达 1,970.59 亿元，年增 31%，再创历史新高；归属母公司税后纯益为 234.95 亿元，年增 26%、季减约 6.5%，每股盈余（EPS）为 9.04 元。累计前三季税后纯益达 691.85 亿元，每股盈余为 26.64 元。
 
-北极涡旋是每年秋冬在北极平流层形成的大型低压环流，强盛时有助于维持极地冷空气的分布，一旦减弱或变形，便可能改变喷射气流，使寒冷空气更容易向中纬度地区扩散。
+台达电表示，受到供应链长短料及部分资料中心建置延迟影响，第三季部分产品出货受阻，导致存货增加，营收略低于原先预期。加上存货跌价相关会计认列影响，第三季毛利率降至约 34.1%，季减约 1.5 个百分点。
 
-欧洲中期天气预报中心(ECMWF)模型显示，11月初北极涡旋可能被拉长成椭圆形，甚至发生「平流层突然增温」，使原本由西向东吹的高空风逆转。部分预测显示，11月10日前发生风向逆转的机率相当高，但仍有不确定性。
+电源及零组件、基础设施仍是主要成长动能。第三季电源及零组件部门营收达 1,059.3 亿元，年增 40%；基础设施部门营收约 658.8 亿元，年增 25%。至于交通事业部仍处于亏损状态，但亏损幅度较第二季收敛。
 
-北极海冰减少也可能是促成这次异常的因素。俄罗斯北方的巴伦支海与喀拉海今年 10 月海冰覆盖偏少，海水可能向大气释放更多热量与水气，改变附近的气压及大气环流，可能促使西伯利亚高压向西北扩展，形成异常强烈的乌拉山脉与北欧阻塞高压，进一步干扰北极涡旋。
+针对 AI 资料中心建置面临的挑战，刘亮甫指出，首先是原物料供应问题。由于全球 AI 基础设施需求快速增加，业者也持续加快建置速度，使半导体、部分被动元件等供应链难以在短时间内大幅增加产能，进一步影响设备交付进度。
 
-不过，平流层变化通常不会立即影响地面天气，而是需要数周逐渐向下传递。因此，即使11月初出现重大扰动，这次异常可能影响 11 月底至 12 月的北半球天气，但强烈寒流是否南下，仍取决于后续大气环流变化。
+其次是电力供应。刘亮甫提及，目前全球资料中心用电量约 500 TWh，占全球用电量约 1.5%，规模相当于德国一整年的用电量。若依照目前资料中心扩建规模推估，2030 年用电需求可能倍增至约 1,000 TWh。未来除了仰赖既有电网供电，资料中心也可能需要建置表后供电系统，以满足持续增加的电力需求。
 
-这次北极涡旋异常可能不只影响欧美。柯恩10月26日的分析指出，未来两周西伯利亚及东北亚部分地区可能出现低于平均的温度，西伯利亚局部地区甚至可能出现比平均气温低摄氏 30 度的极端低温。
+第三项挑战则是专业技术人力短缺。刘亮甫指出，美国 AI 资料中心逐步导入高压直流供电架构，相关施工需要具备专业证照的电工，但目前人力供应紧张。他举例，部分具备专业资格的资深电工，转往 AI 资料中心工地后，年薪可能从约 10 万美元提高至 30 万至 40 万美元。
 
-真正值得注意的是 11 月底至 12 月，若西伯利亚冷空气大举南下，中国北部、韩国及日本可能面临寒潮、强风或降雪。台湾则可能因东北季风增强而出现明显降温，但是否形成强烈大陆冷气团或寒流，仍取决于冷空气南下路径及强度，现阶段无法确定。
+针对市场关注 AI 投资是否过热，刘亮甫表示，虽然外界对 AI 业者的获利能力及现金流仍有疑虑，但从大型 AI 公司营收及现金流表现来看，需求仍相当强劲。他预期大型云端服务供应商及新兴云端业者仍将维持 AI 基础设施资本支出，相关建置需求可望延续至 2030 年。
 
-此外，今年圣婴现象可能带来的暖冬倾向，也可能与北极涡旋扰动产生交互作用。气象专家强调，北极涡旋减弱不代表一定出现寒冬，仍须持续观察后续大气环流发展。
-
-过去科学家会利用西伯利亚积雪、北极振荡与平流层增温之间的关系预测冬季天气。然而，这些关系近十多年来似乎已经改变，部分过去有效的预测方法，现在准确度明显下降。科学家表示，即使今年是强圣婴年，但目前仍难判断哪一种气候力量将主导今年冬季，这场可能提前登场的极地异变，已让2026年底至2027年初的北半球天气充满变数。]]></description>
+不过，受到原物料、电力、人力及地方建置条件等因素影响，供应链营收成长未必能每季维持相同幅度，过程中仍可能出现波动。]]></description>
   </item>
   <item>
-    <title>聚恒科技完成 10.5 亿元联贷，强化资金调度迎接工程需求</title>
-    <link>https://technews.tw/2026/10/29/juheng-technology-10-5b-loan-funds-engineering-demands/</link>
-    <guid>https://technews.tw/2026/10/29/juheng-technology-10-5b-loan-funds-engineering-demands/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:26:18 +0000</pubDate>
-    <description><![CDATA[再生能源业者聚恒科技于 10 月 28 日完成新台币 10.5 亿元联合授信案签约，由国泰世华银行统筹主办，资金主要用于偿还既有联贷余额、充实营运及购料周转金，以及支应应收保证款项等需求。
+    <title>西班牙高铁事故引关注，台湾高铁、台铁有机制把关</title>
+    <link>https://technews.tw/2026/10/29/train-safety-systems-on-taiwan-high-speed-rail-and-tra-trains/</link>
+    <guid>https://technews.tw/2026/10/29/train-safety-systems-on-taiwan-high-speed-rail-and-tra-trains/</guid>
+    <pubDate>Thu, 29 Oct 2026 07:40:52 +0000</pubDate>
+    <description><![CDATA[西班牙发生高铁追撞事故引发关注。台湾高铁说，高铁系统采失效自趋安全设计；台铁指出，透过号志险阻、乘务人员执行列车防护、ATP 自动停车等机制把关，不会发生类似事件。
 
-此次联贷案除国泰世华银行外，亦获华南银行、永丰银行、彰化银行及台湾企银等金融机构参与，最终完成 10.5 亿元授信额度筹组。聚恒科技表示，此次联贷有助于支应公司营运及工程相关资金需求，强化资金调度弹性。
+外电报导，西班牙一班高铁昨天撞上另一班停在轨道上的高铁列车，造成至少68人死亡，车厢严重毁损。交通部长表示，这起事故是因铁路中央调度中心下达「难以理解」的指令所致。
 
-营运方面，聚恒科技今年上半年合并营收达 9.67 亿元，年增 178.53%，税后净利约 8,000 万元，年增 789.07%，每股盈余 1.16 元。成长动能主要来自大型 EPC 工程与开发案陆续认列营收，其中屏东水面型太阳能案场及台南学甲区升压站等主力专案，合计贡献上半年近七成营收。
+台铁总经理冯辉升今天出席台铁假期记者会接受媒体联访时表示，运安处已掌握相关资讯，并重新检讨安全防护机制。
 
-展望后续营运，聚恒科技先前揭露，云林、台南等地三大主力专案规划合约金额合计超过 50 亿元，相关工程预计依实际进度于 2026 年第四季至 2027 年陆续认列营收。
+冯辉升指出，台铁号志系统是「失效趋于安全」设计，在上述防护下，若列车中途停止在某个闭塞区间，后方闭塞区间会显示险阻号志，后方列车将会依相关安全防护指示操作后停车，而后方列车ATP也会自动作动（减速停车），至于乘务人员也会下车在后方执行列车防护标准作业程序（SOP）。
 
-除了太阳光电工程，聚恒科技也持续拓展储能及维运业务，涵盖能源管理系统（EMS）、电力交易代操及长期营运维护（O&M）等服务。随著再生能源案场逐步进入营运阶段，公司持续扩大工程建置以外的能源服务业务，朝多元化营运模式发展。]]></description>
+冯辉升表示，也请所有国人放心，台铁安全防护机制一定会确实落实执行，「绝对不会发生这样的情形。」
+
+至于高铁部分，台铁高铁透过文字说明，台湾高铁系统与新干线相同，采失效自趋安全（Fail-safe）的原则设计，当遇行车相关系统故障或人为疏失时，系统设计以自动趋向安全为最优先考量。
+
+台铁、高铁指出，高铁列车透过自动控制系统（Automatic Train Control，ATC）全程自动监控列车速度，当侦测到系统异常状况、收不到讯号或号志故障时，ATC就会自动紧急停车，确保列车运转及旅客安全。
+
+台铁、高铁指出，ATC会根据前方列车的位置、行控中心的进路设定以及路线等状况，连续计算列车允许的速度，当侦测到目前列车速度超过可允许的速度时，ATC将自动减速，避免列车超速或与前方列车太靠近。]]></description>
   </item>
   <item>
-    <title>不受欢迎是巨头的宿命，Netflix 创办人：想扭转形象就去治愈一些疾病</title>
-    <link>https://technews.tw/2026/10/29/reed-hastings-says-big-tech-should-get-used-to-being-hated/</link>
-    <guid>https://technews.tw/2026/10/29/reed-hastings-says-big-tech-should-get-used-to-being-hated/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:25:27 +0000</pubDate>
-    <description><![CDATA[Netflix 共同创办人、前共同执行长里德·哈斯廷斯（Reed Hastings）近日表示，矽谷科技高层应该习惯像大型制药、银行与航空业领袖一样，成为「影响深远但不受欢迎」的对象。他在接受《On with Kara Swisher》访问时指出，这类产业规模庞大、权力集中，对社会有重大影响，但也往往伴随广泛的民怨与质疑。
+    <title>路透社：彭博等三家公司同意付费真实社群，抢先取得川普贴文</title>
+    <link>https://technews.tw/2026/10/29/reuters-bloomberg-two-other-firms-pay-truth-social-early-access-trump-posts/</link>
+    <guid>https://technews.tw/2026/10/29/reuters-bloomberg-two-other-firms-pay-truth-social-early-access-trump-posts/</guid>
+    <pubDate>Thu, 29 Oct 2026 07:30:21 +0000</pubDate>
+    <description><![CDATA[路透社报导，美国总统川普创立的社群平台「真实社群」，与新闻及数据供应商彭博（Bloomberg）及华尔街两家交易公司已签约，让他们能更快取得川普发布的贴文。知情人士透露，这项服务每月收费高达 10 万美元。
 
-哈斯廷斯以制药业为例说明，药厂虽持续推出重要成果，包括 COVID 疫苗等「了不起」的产品，却仍因高药价等问题遭到大众厌恶。他直言，这些公司并没有因此赢得民众喜爱，科技业的处境其实也相似。
+这两家交易公司分别是须斯罕那国际集团（Susquehanna International Group）及Jump Trading，两家公司均是专注演算法与自动化策略的高频交易公司。
 
-他认为，科技产业近年来逐渐失去民众好感，并不是异常现象，而是大型商业部门常见的结果；在他看来，公众对企业抱持怀疑，本来就是商业世界的常态。随著好莱坞近来接连推出聚焦科技圈争议时刻的作品，外界对科技巨头的观感也再度成为话题。
+这项服务让订阅客户能比一般使用者更早取得川普在「真实社群」（Truth Social）发布的贴文。
 
-不过，哈斯廷斯也提到，矽谷若想真正扭转形象，仍有一条可能的路径。他说，科技公司若能实际「治愈一些疾病」，将会大有帮助。]]></description>
+由于川普总统贴文可能引发金融市场波动，这种时间上的优势可能让华尔街交易员取得一般投资人无法享有的先机。这些公司购买Truth API服务一事，先前未曾曝光。API是应用程式介面，可做为数位桥梁，让不同系统彼此连接。
+
+川普媒体与科技集团（Trump Media and Technology Group）今年7月宣布推出这项服务，并向交易公司及其他金融机构推销。
+
+川普媒体形容，这项服务可提供约50毫秒的时间优势，对交易公司及金融新闻、数据机构而言，这种速度可能相当重要。部分批评人士认为此举有违道德。
+
+「真实社群」的付费存取计划涉及尚未充分厘清的法律问题。今年8月，调查新闻网站《拦截》（Intercept）与「新闻自由基金会」（Freedom of the Press Foundation）对川普提起诉讼，要求阻止白宫在付费资讯串流服务存在下，仅透过「真实社群」发布官方公告。诉讼目前仍在进行，原告主张，对政府资讯设置付费门槛可能违宪，也可能偏袒财力雄厚的华尔街企业。
+
+川普媒体声明指出，「真实社群提供符合业界标准的API产品，各行各业对此都有大量需求。我们严肃看待客户的保密性。这篇报导是根据匿名消息人士散布的误导性资讯，目的是损害本公司、客户及股东利益。」
+
+今年以来，川普媒体股价累跌逾50%。自2024年上市以来，公司市值波动剧烈，2024年3月上市首日收盘市值约80亿美元，如今已降至约18亿美元。自2024年以来，川普媒体累计亏损约17.6亿美元。
+
+白宫发言人殷格尔（Davis Ingle）表示，川普及其家人并未直接参与任何投资组合的投资决策，但他没有回应总统是否不当利用职权的相关指控。
+
+今年8月，川普媒体告诉投资人，公司已「签署超过10份客户协议」，但路透社无法独立确认此事。公司未公布客户名称，只表示客户主要是华尔街交易公司，每月支付6万至10万美元。
+
+做为彭博在金融新闻市场的竞争对手，路透社声明指出，「我们将评估这项服务，但目前没有订阅计划」。
+
+此外，出售更快取得川普贴文的服务，已引起民主党人士及媒体机构批评。
+
+麻州民主党联邦参议员华伦（Elizabeth Warren）及加州民主党联邦参议员希夫（Adam Schiff）7月表示，已要求美国证券管理委员会（SEC）调查这项服务是否违反证券法。他们称此举是总统为谋取个人利益而「令人震惊地滥用职权」，但未进一步说明具体理由。]]></description>
   </item>
   <item>
-    <title>问 Google AI 2020 美选结果被打太极，切换海外 VPN 与 Gemini 却秒获解答</title>
-    <link>https://technews.tw/2026/10/29/google-ai-evades-election-questions-controversy/</link>
-    <guid>https://technews.tw/2026/10/29/google-ai-evades-election-questions-controversy/</guid>
-    <pubDate>Thu, 29 Oct 2026 02:20:49 +0000</pubDate>
-    <description><![CDATA[Google 的 AI 搜寻功能近日被发现，在面对「谁赢得 2020 年美国总统大选」这类看似简单的历史事实时，并不总是给出直接的答案。根据多家媒体于 2026 年 10 月 28 日的测试，若在美国境内使用 Google 的 AI 搜寻模式提问，系统有时不会直接点名拜登（Joe Biden），而是建议使用者自行查阅联邦选举委员会与国家档案馆等官方资料。
+    <title>算力的尽头是电力！台汽电携英特尔、西门子重构 AIDC 跨域供电</title>
+    <link>https://finance.technews.tw/2026/10/29/watttoken/</link>
+    <guid>https://finance.technews.tw/2026/10/29/watttoken/</guid>
+    <pubDate>Thu, 29 Oct 2026 07:23:41 +0000</pubDate>
+    <description><![CDATA[台汽电近日举办「千瓦万算 WattToken 电力×算力跨域融合座谈会」，汇集英特尔、技钢科技、GMI Cloud、Bloom Energy 及西门子能源，涵盖 AI 运算、云端服务、伺服器整合、发电设备及能源供应等领域，从电力与算力双向视角，共同探讨 AI 产业发展的能源供应挑战及跨域合作契机。
 
-测试结果显示，AI 搜寻模式对不同年份的大选回应并不一致。对于 2020 年与 2024 年的大选，系统曾以官方资料连结或间接说法来回避；询问 2012 年大选时，则将使用者引导至 The American Presidency Project 的资料中心。不过，对于 2000 年以来的其他多数总统选举，系统却能直接且正确地回答获胜者。
+随著半导体产业及AI快速发展，电力需求持续成长，稳定供电与能源基础设施建置已成为重要课题。台电预估，半导体产业用电量将由 2026 年约 520 亿度，成长至 2035 年 1,100 亿度，占全国用电量约三成。
 
-更引人注意的是，同样的问题若在 Google 的另一款 AI 产品 Gemini 上提问，却能获得直接的答案。媒体实测指出，Gemini 不仅能精确说出拜登胜选，还能提供详细的选举人票与普选票数据。相较之下，AI 搜寻模式的回避式回应引发了外界质疑：为何同属 Google 旗下的不同 AI 产品，对于同一项已被广泛确认的历史事实，会出现如此截然不同的表现。
+根据《能源管理法》今年 9 月修正，增订新设用电大户须设置自用发电设备或储能，显示企业自备电力与能源管理的重要性。台汽电董事长王振勇表示，电力是支撑算力发展的关键基础，未来算力产业需要的不仅是充足电力，更需要兼顾供电稳定、成本可控与低碳永续的整合方案。
 
-报导也提到，这种审查机制的差异似乎与使用者的所在位置有关。当透过 VPN 将网路连线切换至台湾、俄罗斯、法国与加拿大等地进行测试时，AI 搜寻模式反而能对近期美国选举结果给出准确且直接的回答；而在反复追问后，部分情况下系统也会妥协，直接列出胜选者并引用 Google Civics 的资料。AI 搜寻模式对此现象的解释是，系统对近期且敏感的选举议题设有较严格的安全过滤，为了避免散播未经核实的资讯或错误讯息，会优先将使用者导向经认证的政府资料库。
+台汽电从早期协助传统产业建置汽电共生系统，发展至今成为全台少数兼具电厂投资开发、工程建置、运转维护、绿电转供及辅助服务代操等专业能力的电力集团，随著 AI 运算及半导体产业发展，用电需求逐渐朝分散化、高负载型态转变，以 AIDC 对供电容量、稳定性及建置时程要求更高。
 
-目前，Google 尚未对外详细说明 AI 搜寻模式与 Gemini 为何会出现如此分歧的回应。根据外媒报导，Google 的一名代表仅初步表示，公司正在针对此问题进行调查。
+因应产业需求，台汽电提供五大电力整合服务，包括「自用发电设备供电与建置」、「系统供电契约容量管理」、「再生能源开发和绿电转供」、「供电韧性与备援」及「能源管理系统导入与整合」，透过整合集团专业与跨产业资源，提供客制化电力方案，扮演「能源整合解决方案伙伴」。
 
-Thanks for flagging — the Gemini app answers this question more fully but this isn’t the most helpful response on Search. We’re looking into this and working to address it.
+会中聚焦 AI 算力需求、用电大户自备电力及跨域整合，邀集 GMI Cloud、英特尔及技钢科技，从云端服务、AI 晶片技术及伺服器部署等角度，探讨算力成长趋势与 AIDC 建置挑战，而西门子能源及 Bloom Energy 从发电设备与能源供应，交流 AIDC 供电规划、场内电源导入及设备建置等议题。
 
-— News from Google (@newsfromgoogle.bsky.social)2026年10月29日 凌晨1:11
-
-（首图来源：Flickr/Emma KadenCC BY-SA 2.0）]]></description>
+台汽电总经理陈意通表示，面对半导体、AIDC 及其他制造业持续成长的用电需求，电力供需双方应于专案初期即展开对话，掌握用电规模、供电时程与未来扩充计划，透过共同规划与跨域合作，确保电力基础设施与算力设备同步部署。]]></description>
   </item>
 </channel>
 </rss>
