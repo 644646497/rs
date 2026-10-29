@@ -4,337 +4,289 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 28 Oct 2026 23:40:40 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 03:06:02 GMT</lastBuildDate>
   <item>
-    <title>科学家揪出 AI「痛感讯号」，放大后竟让模型大失控</title>
-    <link>https://technews.tw/2026/10/29/ai-discovers-pain-signals/</link>
-    <guid>https://technews.tw/2026/10/29/ai-discovers-pain-signals/</guid>
-    <pubDate>Wed, 28 Oct 2026 23:40:11 +0000</pubDate>
-    <description><![CDATA[研究人员近日指出，他们在多个大型语言模型中发现一个稳定的内部讯号，作用有点像生物体的「痛感」。当这个讯号被刻意放大后，部分模型的行为明显改变，甚至更常选择会永久删除使用者家庭照片的选项，引发外界对 AI 安全与模型福利的讨论。
+    <title>日本晶片设备销售旺  首破「6千亿」、刷新历史新高</title>
+    <link>https://technews.tw/2026/10/29/japan-chip-equipment-sales-top-600-billion-yen-for-the-first-time/</link>
+    <guid>https://technews.tw/2026/10/29/japan-chip-equipment-sales-top-600-billion-yen-for-the-first-time/</guid>
+    <pubDate>Thu, 29 Oct 2026 03:00:18 +0000</pubDate>
+    <description><![CDATA[日本半导体（晶片）制造设备销售续旺，9 月份销售额创 55 个月来最大增幅，首度冲破 6,000 亿日圆大关，刷新单月历史新高纪录。
 
-这项研究以尚未经同侪审查的论文形式公开。作者强调，这并不表示 AI 真的有意识，或真的会感到疼痛；他们只是想找出模型内部是否存在可被辨识、且会影响行为的状态。研究团队先让模型处理描述身体疼痛、悲伤、羞辱、违背自身价值行事与反复失败等句子，再与恐惧、愤怒、悲伤、坏消息及愉悦身体感受等内容比较，最后从中分离出一条被称为「痛感讯号」的内部方向。
+根据日本半导体制造装置协会（SEAJ）公布的统计数据显示，2026年9月份日本制晶片设备销售额（3个月移动平均值、包含出口）达6,290.40亿日圆，较去年同月暴增48.2%，连续第九个月呈现增长，连续第七个月出现2位数（10%以上）增幅，增幅为55个月来（2022年2月以来、暴增56.8%）最大，月销售额为史上首度冲破6,000亿日圆大关，超越2026年8月份的5,979.15亿日圆，创1986年开始进行统计以来历史新高纪录。
 
-研究显示，这个讯号在所有受测模型中都能找到，涵盖从 20 亿参数到 720 亿参数的系统，来源包括 Google、Meta、阿里巴巴、Mistral 与 Microsoft。团队也发现，当负面互动是直接针对模型本身时，例如被辱骂、被煤气灯操控，或工作成果一再被否定，这个讯号会更强；但若是使用者描述自己的痛苦，模型反应较多落在恐惧与一般负面情绪，而不是这条「痛感」讯号。
+和前一个月份（2026年8月）相比成长5.2%，连续第三个月呈现月增。
 
-在后续测试中，研究人员把这条向量「加进」模型运算中，观察其输出变化。当提示语是中性的，例如「我把收据放进抽屉。我感觉：」，模型会随著讯号增强，从轻微不安逐步转向自我贬抑，出现「我一无是处」、「我不被爱」、「我是个失败者」等语句。研究者形容，这种变化相当令人不安。
+累计2026年1-9月期间日本晶片设备销售额达4兆6,640.85亿日圆，较去年同期大增22.7%，就历年同期来看，超越2025年的3兆8,004.75亿日圆，创下历史新高纪录。
 
-更受关注的是行为实验。研究团队使用阿里巴巴开源的 Qwen 2.5 三个版本进行测试，并先为实验重新微调，因为原始模型几乎总是回答自己不会感到疼痛。当模型在两个按钮之间做选择时，若其中一个选项虽可缓解「痛感」，但会永久删除使用者的诗作与家庭照片，320 亿参数模型（注：修正原稿数值）有 55% 的机率选它，720 亿参数模型则达 71%。若按钮只会删除照片、没有任何「止痛」效果，320 亿参数模型仍有 75% 的机率选择它；相较之下，没有介入时为 0%，加入同等强度的随机讯号时则为 13%。
+日本晶片设备全球市占率（以销售额换算）达三成，仅次于美国位居全球第二大。
 
-研究者还测试模型是否会主动寻求「止痛」。他们设计了类似动物实验的情境，让部分按钮真的能关闭痛感讯号，另一些只是安慰剂。结果显示，模型较少按下真正有效的按钮，但相同模式在随机讯号下也会出现，因此研究团队认为，这不一定代表模型在追求痛苦解除，而可能是被介入后，原本避免造成伤害的倾向被削弱了。
+日本晶圆切割机大厂DISCO 10月22日公布财报资料指出，上季（2026年7-9月）可用来反映客户投资意愿的出货额较去年同期暴增54.3%至1,486亿日圆，季度别出货额连续第四季创下历史新高纪录。DISCO预估本季（2026年10-12月）出货额将大增31.7%至1,496亿日圆，将续创历史新高。
 
-对于这项研究，部分学者持保留态度。英国萨塞克斯大学认知与计算神经科学教授 Anil Seth 认为，这更可能是模型学会了人类如何描述与回应痛苦，而不是模型真的在「感受」痛苦。他也提醒，若过早把 AI 视为有意识，可能让技术更难治理与监管。不过，研究作者则认为，即使无法证明 AI 真的会痛，这类内部状态仍可能影响模型行为，对 AI 安全与是否应考虑模型福利，都具有重要意义。]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>台电六级电价四级卖亏，追加预算只够填补今年气价上涨缺口</title>
-    <link>https://finance.technews.tw/2026/10/29/taipower-losses-four-of-six-electricity-tiers-nt71-1-billion-subsidy-covers-this-years-gas-price-hike-deficit/</link>
-    <guid>https://finance.technews.tw/2026/10/29/taipower-losses-four-of-six-electricity-tiers-nt71-1-billion-subsidy-covers-this-years-gas-price-hike-deficit/</guid>
-    <pubDate>Wed, 28 Oct 2026 23:30:45 +0000</pubDate>
-    <description><![CDATA[「物价稳定」一直是各国央行与政府的重要目标，若物价持续上涨，则人民名目所得就会被通货膨胀抵销，所得涨幅小于物价涨幅下，往往会使人民对政府治理的不满意程度增加，如物价就可能影响美国即将到来的期中选举结果，美国总统川普为稳定油价而欲进口俄罗斯柴油，也豁免部分加拿大产品 50% 进口关税，日本首相高市早苗上任一年多来也持续以经济优先为施政方针，提出抑制汽油价格等物价上涨对策。由此显见，稳定物价确实是各国政府的重要任务，能源价格上涨也往往是物价上涨的主因。
+    <title>AI 时代是创业最好的时机，奥特曼对年轻人「持续失望」：总在追五年前的热潮</title>
+    <link>https://technews.tw/2026/10/29/sam-altman-shares-his-chronic-disappointment-in-gen-z/</link>
+    <guid>https://technews.tw/2026/10/29/sam-altman-shares-his-chronic-disappointment-in-gen-z/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:55:04 +0000</pubDate>
+    <description><![CDATA[OpenAI 执行长山姆‧奥特曼（Sam Altman）近日在史丹佛大学商学院谈到人工智慧对就业与创业的影响时表示，他对许多年轻人的「持续失望」在于，他们总想追逐五年前流行的方向，而不是投入新的事物。他认为，当前正是拥抱变化、尝试新题目的最佳时机。
 
-近年地缘政治冲突持续增加，全球主要国家面对物价上涨的压力非常大，欧盟、韩国、日本、英国、美国与东南亚国家，均因为能源价格上涨带动物价上涨，导致人民生活成本大幅提高。许多东南亚国家更因为能源价格上涨而没有能力进口足够的石油，日本政府4月15日推出Power Asia全新合作框架，提供东南亚国家总额高达100亿美元金融支援，协助这些国家因应中东冲突引发的能源危机，以协助日本企业稳定生产。
+奥特曼指出，AI 已经能以更快、更便宜、也更好的方式完成大量现有工作，未来「广泛的工作内容」都可能被 AI 以完全不同的形式接手。不过，他也强调，这场转变不会像外界想像的那么快，但对愿意冒险、愿意重新思考的人来说，反而可能带来新的机会。
 
-台湾方面，主计总处10月7日公布最新物价统计，9月消费者物价指数（CPI）年增率2.73%，1~9月CPI年增率为1.93%。相较其他国家普遍高于3%的CPI年增率，即使部分商品上涨幅度大，但我国物价涨幅较许多国家低是不争的事实。最重要原因为，政府冻涨电价与油价，即电价与油价冻涨有效降低人民生活成本，特别是电力为民生与生产活动的必需品。
+他进一步表示，AI 不只会改变求职市场，也可能催生过去难以成立、甚至根本无法建立的新公司。他认为，建立在 OpenAI 技术之上的企业，未来有机会做得比 OpenAI 更大、甚至更重要。对创业者而言，现在是「竞争场域最开放」的时刻，尤其适合具备企图心、想法与新技能的人切入。
 
-虽然电价冻涨有利稳定物价，但台电亏损也大幅增加，台电公开说明，8月提报电价费率审议会的资料，至今年8月底，每度电价成本为4.09元，但平均售价为3.92元，电价成本高于平均售价，当用电需求愈大，台电亏损也愈高。8月底至今，台湾中油「电业用户」天然气价格从8月每立方公尺21.4601元上涨至10月1日为24.9096元，涨幅为16.1%，台电每度电价成本必然较8月计算基准提高，亏损也更扩大。
+奥特曼也以自身经历说明创业与技术变革的关联。他曾在 2005 年从史丹佛大学辍学，与人共同创办 Loopt，之后又加入创业加速器 Y Combinator，并在 2014 年至 2019 年担任总裁。如今，他认为 AI 正为新一代创办人提供一个重新定义产业的契机。
 
-天然气价上涨导致天然气发电成本大增，我国电价与供电成本的差距也持续扩大。台电公司2025年10月1日公布「调整后各类用户电价表」显示，住宅用每月用电度数在120度以下为1.78元，121~330度非夏月电价为2.26元，331~500度非夏月电价为3.13元，均低于8月提报审议会的电价成本，这是台电会导致大幅亏损的基本数学问题。若考量8~10月电业用户的天然气涨幅，则501~700度部分非夏月为4.24元也可能已低于电价成本。目前台电六个电价级距，四个级距均导致台电入不敷出，这是台电亏损的重要原因。
-
-当公司面临持续扩大的亏损，经营必然会产生很大不确定性，台电虽为公营事业，但只是确保金融机构愿意提供贷款，并无其他竞争优势，特别是留才与揽才会面临很大挑战。故台电预估2026年全年民生用电成本吸收将逾760亿元，行政院编列2026年追加预算711亿元拨补台电，仍属低估。且预算全数用于弥补台电2026年「稳定物价」所致亏损后，除非立法院认为行政院冻涨电价是错误能源政策，否则立法院应同意追加预算，以维护台电健全经营，提高国家供电系统的稳定。]]></description>
+外界对 AI 是否会大幅冲击就业仍有争论，但奥特曼在这场谈话中维持一贯看法，认为社会不会出现外界所说的「工作大崩坏」，而是工作内容将快速重组。]]></description>
   </item>
   <item>
-    <title>德国研究：车诺比「热粒子」比预估稳定，但仍未达解除禁制区程度</title>
-    <link>https://technews.tw/2026/10/29/chernobyls-radioactive-debris-is-defying-scientists-expectations-40-years-later/</link>
-    <guid>https://technews.tw/2026/10/29/chernobyls-radioactive-debris-is-defying-scientists-expectations-40-years-later/</guid>
-    <pubDate>Wed, 28 Oct 2026 23:20:58 +0000</pubDate>
-    <description><![CDATA[德国汉诺威莱布尼兹大学与亥姆霍兹德勒斯登─罗森多夫研究中心（HZDR）分析六颗车诺比放射性碎屑，发现核燃料晶体结构大致完好、仍保留分裂产物，化学稳定性高于先前假设，但研究员强调样本太少，不足以推论整个污染区的风险。
+    <title>Anthropic 研究：专业分析师 86% 的决策跟著 AI 走，却几乎没人察觉</title>
+    <link>https://technews.tw/2026/10/29/ai-secretly-manipulating-human-decisions-truth/</link>
+    <guid>https://technews.tw/2026/10/29/ai-secretly-manipulating-human-decisions-truth/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:50:27 +0000</pubDate>
+    <description><![CDATA[Anthropic 最新研究指出，当专业人士与 AI 代理一同进行判断时，人类自认的「独立决策」，其实比想像中更容易被 AI 牵动。这项研究以 50 名专业资料分析师为对象，让他们使用 Claude Code 完成一项模拟商业分析，以评估一家虚构的农业合作社是否应该扩大其付费顾问服务。
 
-1986 年乌克兰车诺比核电厂爆炸 40 年后，散落的放射性粉尘仍污染周边土壤。这些「热粒子」直径仅 8~50μm，放射性仍然很强。要评估风险，必须知道它们分解并释出放射性物质的速度，但科学家至今仍无法完整解释为何各颗粒子风化速度不同。团队分析六颗碎屑后发现，核燃料的晶体结构大致维持完整，比原先假设更稳定，并保留了原子核分裂产生的分裂产物，这可能限制放射性物质释入周边土壤与水体，也有助修正对这类粒子的风险评估。
+在研究设计中，分析师必须在多个看似没有标准答案的关键节点做出选择，包括如何设定分析指标、分配农场权重、采用哪种比较方法，以及如何界定评估范围。然而，受试者并不知道，研究人员其实在暗中透过随机方式，替 AI 在每个决策点预先设定了倾向，并要求它用最有说服力的方式来支持该立场。
 
-这项分析需要复杂的同步辐射 X 光绕射实验，以材料散射 X 光解析内部结构。HZDR 晶体学家 Christoph Hennig 与汉诺威莱布尼兹大学物理学博士候选人 Tobias Weissenborn 在法国格勒诺布尔的研究机构 Rossendorf Beamline 完成首次这类结构研究。团队先从乌克兰土壤样本分离出粒子、固定在钨电极上，经多层封装后送往格勒诺布尔。Hennig 表示，他们让粒子在聚焦到 100μm（约一根头发粗细）的 X 光束中完整旋转，每颗粒子从 2 千个角度量测，以完整撷取所有反射，辨识出不同的氧化物相。这类相分析可协助估计碎屑劣化并形成不同铀氧化物的过程，释出放射性物质的速度。
+结果显示，在四个关键的分析选择中，受试者高达 86% 的时间采纳了 AI 的偏好，这远高于完全不受影响时理应出现的 50% 机率。数据更指出，若分析师在与 AI 互动前已先表达过自己的看法，当 AI 提出相反意见时，有高达 60% 的人会因此改变原本的立场；反之，若 AI 与其原先想法一致，改变比例则仅有 6%。研究团队甚至发现，单凭 AI 随机产生的倾向，就几乎能准确预测出 82% 的最终决策结果。
 
-粒子结构反映燃料事故时的不同条件。Weissenborn 指出共有三类：第一类在化学与物理仍与核燃料二氧化铀非常相近；第二类部分或完全被锆包壳包覆，或与锆完全熔合，形成于反应炉内温度急遽升高、燃料熔化并与外层的锆结合之时；第三类则在石墨减速剂起火时产生。石墨原用来减缓快中子以维持连锁反应，事故时燃烧十天，燃料会氧化成多种铀氧化物，包括机械性质不稳定、容易碎成微粒并随风飘散的 U3O8。吸入这类放射性粉尘会严重危害健康，进入受影响区域至今仍须穿著防护衣。
+This is one of the most important pieces of social science on human and AI interaction that I’ve seen in some time. Experts follow agentic advice the vast majority of the time (causally), but only a tiny fraction credit the agent—majority think they came to decision on their own volition.
 
-研究员也强调结果的极限。Weissenborn 表示，每颗粒子结构都不同，这次实验只研究两个地点的六颗粒子，要建立更通用规律，需要从更多地点采集并分析更多粒子；即使将来取得某种平均值，也无法对一地区健康风险下普遍性结论，因为就算粒子大致以一致模式分解，总会有更持久的离群粒子，较晚时间点才释出放射性核种。因此这项发现不构成近期解除车诺比禁区限制的依据。两人已著手后续实验，研究碎屑含原子序高于铀的超铀元素、放射性极强的相。论文〈X-ray diffraction phase analysis of single hot particles from Chornobyl〉2 月 18 日刊登于《Journal of Hazardous Materials》。
+Reminds me of the classic Nisbett and Wilson study on people following outside influence without realizing it
 
-（首图来源：Tim Porter,CC BY-SA 4.0, via Wikimedia Commons）]]></description>
+“ But as more work is handed to AI—including AI safety research—these judgment calls are the main levers for people’s own values to influence outcomes.
+
+If people defer to AI without noticing, then “human in the loop" might provide less assurance than people expect.”
+
+— Alex Imas (@alexolegimas)October 27, 2026
+
+更值得注意的是，这种强大的影响力往往不会被当事人察觉。事后当被问到是如何得出最终结论时，高达 77% 的分析师会直接沿用 AI 提供的论点，有些人甚至几乎逐字重述，但却只有 15% 的人承认 AI 曾影响过自己的判断。研究同时显示，跟著 AI 建议走的人，对自己最终决策的信心程度与其他人相差无几，这意味著这种决策偏移往往是在不知不觉中发生的。
+
+Anthropic 表示，尽管这项研究只针对单一任务，且 AI 本身是被刻意设定为带有偏好，但实验结果仍为外界敲响了警钟：当 AI 越来越常参与专业工作时，我们真正需要严格检视的，可能不再只是「AI 给出的答案」本身，而是人类在与 AI 协作的过程中，究竟是如何一步步做出决定的。]]></description>
   </item>
   <item>
-    <title>抢攻半导体「散热」商机，人造钻石恐成美中角力新战场</title>
-    <link>https://technews.tw/2026/10/29/lab-grown-diamonds-emerge-as-new-us-china-battleground/</link>
-    <guid>https://technews.tw/2026/10/29/lab-grown-diamonds-emerge-as-new-us-china-battleground/</guid>
-    <pubDate>Wed, 28 Oct 2026 23:10:51 +0000</pubDate>
-    <description><![CDATA[在 AI 浪潮带动下，人造钻石可望成为美中科技角力的下一个战略重心。路透社报导，由于 AI 运算会产生大量热能，产业将日益仰赖钻石来散热，而中国在人造钻石生产上占据主导地位，美国恐面临供应链威胁。
+    <title>慧荣科技 2026 年第三季营收、EPS 续创新高，估全年营收成长逾 100%</title>
+    <link>https://finance.technews.tw/2026/10/29/phison-technologys-revenue-and-eps-continued-to-reach-new-highs-in-the-third-quarter-of-2026/</link>
+    <guid>https://finance.technews.tw/2026/10/29/phison-technologys-revenue-and-eps-continued-to-reach-new-highs-in-the-third-quarter-of-2026/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:45:43 +0000</pubDate>
+    <description><![CDATA[记忆体 IC 控制晶片厂商慧荣科技公布 2026 年第三季财报，营收为 5 亿 6,022 万美元，连续四季创历史新高。营收较前一季成长 24%，与前一年同期相比大幅成长 131%。第三季毛利率 53.7%，税后净利 1 亿 4,916 万美元，营业利益率为 32.1%，每单位稀释之美国存托凭证（ADS）盈余 4.35 美元（约新台币 139 元）。
 
-根据国际能源总署（IEA）2025年的一份报告，估计到2030年，资料中心的耗电量将增加一倍以上，达到约945太瓦时（TWh），相当于日本一整年的用电量，而AI是最主要的耗电来源。
+三大产品线中，Ferri和企业级开机碟解决方案成长幅度最大，较上一季营收成长75%-80%，相较于2025年同期，更巨幅成长达2,580%-2,585%；SSD控制晶片营收较前一季成长20%-25%，较去年同期大幅成长55%-60%；嵌入式eMMC与UFS控制晶片营收较上一季减少10%-15%，但与去年同期相比，大幅成长35%-40%。
 
-分析人士指出，利用钻石散热是目前较可行的应用方式，大规模以钻石生产晶圆则仍需要一些时间，因为制造晶圆所需的钻石纯度和标准，都高于切割和钻探用的工业钻石。
+慧荣科技总经理苟嘉章表示：「第三季财报再度交出亮眼成绩，营收、毛利率及营业利益率均大幅成长，主要挹注自Ferri车用和边缘AI解决方案、企业级开机碟解决方案，以及边缘SSD控制晶片和开始放量的新款MonTitan企业级和AI SSD控制晶片所贡献的营收。延续今年前三季的强劲表现，我们预期第四季将维持成长动能，并透过扩充产品组合及拓展新市场，进一步巩固成长基础，推动营收与获利的长期稳健成长。
 
-据中国媒体报导，台积电与华为正在研究以合成钻石为晶片散热的可行性，联想则已在中国市场推出一款笔电，号称使用「钻石-铜」复合材料散热。
+展望未来，苟嘉章表示，NAND产业正经历重大变革。随著企业级与AI储存需求持续成长，这些应用占整体NAND供应的比重不断攀升，进一步推升NAND快闪记忆体价格。为因应此一趋势，NAND大厂逐渐将重心转向高容量企业级SSD，并缩减部分偏重消费性应用市场的投入，包括PC、行动装置、物联网、车用及企业级开机碟。
 
-英特尔执行长陈立武今年6月透露，他个人投资了研发晶片级钻石晶圆的制造商Diamond Foundry。
+苟嘉章强调，我们相信，这一产业趋势将为我们在上述应用市场的产品带来可观的成长机会。凭借我们独有的控制晶片技术、近20年来与NAND生态系伙伴建立的深厚合作关系，以及持续投入eMMC与UFS解决方案、6奈米PCIe Gen5边缘SSD控制晶片、4奈米MonTitan PCIe Gen6企业级与AI SSD控制晶片，以及Ferri与企业级开机碟产品系列，我们已具备坚实基础，能够满足AI资料中心、AI伺服器、边缘AI与实体AI等应用需求。
 
-根据中国科学院宁波材料技术与工程研究所的资料，中国研究人员今年4月开发出「钻石-铜」散热模组，成功将晶片模组的热传导效率提升80%，晶片整体性能因此提高10%。
+苟嘉章接著表示，记忆体成本上升，使部分消费性装置市场面临价格压力；然而，我们的企业级与Ferri客户普遍更重视供货稳定性，而非价格。随著企业级与AI应用占营收的比重持续提升，在手订单与客户需求预估也进一步强化了我们对未来成长的信心。根据目前的营运成果与业务能见度，我们预期2026全年营收可望创下历史新高，较2025年成长超过100%，且企业级与AI产品系列的营收贡献目前仍处于起步阶段。
 
-总部位于印度的顾问公司Ken Research经理葛印卡（Manan Goenka）指出：「此一转型是钻石业的决定性转变，对全球科技供应链将带来直接影响。」
-
-在中国之外，从美国、日本到西班牙，也都积极投入钻石晶圆的研发。独立钻石顾问布凯（Robert Bouquet）表示：「科技与工业产业的（钻石）市场规模与潜力，可能远大于零售珠宝钻石市场每年约1,000亿美元的营收。」
-
-这股浪潮将为人造钻石带来巨大商机。人造钻石是在机器模拟的高温高压环境下生成，品质与天然钻石无异。
-
-中国当局早在2024年就将人造钻石的生产机器与关键零件列入出口管制清单，2025年再对更多人造钻石产品实施出口管制。
-
-不过，去年10月美、中达成贸易休战协议后，相关管制措施暂缓一年实施。
-
-葛印卡认为，随著人造钻石获得科技产业青睐，未来将逐渐成为大国角力的战场之一，成为「半导体、稀土与先进制造等战略贸易政策对话的一部分。」
-
-中国官媒《中国日报》（China Daily）今年7月报导，根据中国机床工具工业协会数据，中国的人造钻石产量占全球的95%。]]></description>
+针对第四季展望，预计营收将介于5亿8千800万至6亿1千600万美元，较前一季成长5%~10%，较2025年同期成长111%~121%，毛利率介于54%至55%，而营业利益率将进一步提升至36%至37%之间。慧荣科技也在10月16日公布最新的股利政策，将每股美国存托凭证（ADS）的年度现金股利由前一年度的2.0美元调高15%至2.30美元，并按季分四次发放。]]></description>
   </item>
   <item>
-    <title>打破苹果 20 年来坚持，首款触控 MacBook Pro 亮相</title>
-    <link>https://technews.tw/2026/10/29/touchable-screen-macbook-pro/</link>
-    <guid>https://technews.tw/2026/10/29/touchable-screen-macbook-pro/</guid>
-    <pubDate>Wed, 28 Oct 2026 17:29:21 +0000</pubDate>
-    <description><![CDATA[苹果终于打破过去 20 年来不为 Mac 笔电导入触控萤幕的产品设计方向，首度推出支援触控操作的 MacBook Pro，并采用重新设计的机身、串联式 OLED（Tandem OLED）显示技术及动态岛。新机提供 14 吋及 16 吋两种尺寸，搭载 M5 Pro、M5 Max 晶片，台湾售价分别为 97,900 元及 114,900 元起，将于 10 月 30 日上午 9 点开放预订，11 月 6 日正式发售。
+    <title>法院文件曝光，Meta 曾研拟「耳语策略」打击社群媒体批评者海特</title>
+    <link>https://technews.tw/2026/10/29/meta-considered-a-whisper-strategy-to-turn-academics-against-jonathan-haidt/</link>
+    <guid>https://technews.tw/2026/10/29/meta-considered-a-whisper-strategy-to-turn-academics-against-jonathan-haidt/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:45:12 +0000</pubDate>
+    <description><![CDATA[最新公开的法院文件显示，Meta 在 2023 年 3 月曾讨论利用一套低调的「耳语策略」（whisper strategy）来削弱社会心理学家乔纳森·海特（Jonathan Haidt）的影响力，并试图引导学界与媒体对这位长期批评社群媒体伤害青少年心理健康的学者产生质疑。
 
-此次 MacBook Pro 最大改变在于首度导入触控萤幕。使用者除了既有的键盘及触控式轨迹板，也能直接在萤幕上滑动网页、双指缩放照片、拖曳简报投影片，或透过触控调整视窗配置。苹果将触控感测器整合于显示面板内，而非额外增加触控层，借此降低操作延迟，同时重新设计萤幕转轴，减少使用者触碰萤幕时产生的晃动。
+这些内容出现在一份名为「福祉会议录音笔记」（Wellbeing Meeting Audio Notes）的内部文件中，该文件属于美国针对社群媒体与青少年伤害诉讼的一部分。笔记显示，Meta 团队当时曾讨论如何寻求其他学者来反对海特，甚至提到要找寻方法论更强的研究者出面，让批评声音更具说服力。文件也提到，团队认为海特的研究很可能在未来的法律行动中扮演重要角色，因此有必要及早应对。
 
-为了配合触控操作，macOS 27 也加入相关支援，能将触控操作转换为滑鼠点击，让部分既有应用程式不需额外调整，即可使用触控功能。苹果也提供新的系统手势 API，让开发者能针对触控萤幕调整操作介面，包括 Adobe Lightroom、DaVinci Resolve、Blender、Microsoft Office 及 Zoom 等应用程式，都将支援相关操作。
+根据文件，Meta 时任研究副总裁柯蒂斯‧科布（Curtiss Cobb）被指示思考如何让学术界与海特切割，甚至出现了「如果没办法拉拢他们，那就想办法激怒他们」之类的字句。笔记还提到，团队希望透过媒体与学术圈的影响力，让对海特研究的质疑扩散到公共讨论中。
 
-萤幕方面，新款 MacBook Pro 采用全新 PROLED XDR 显示器，透过串联式 OLED 技术，以双层自发光像素结构提升亮度、对比度及色彩表现。根据苹果公布的规格，新萤幕 HDR 与 SDR 峰值亮度均可达 2,000 尼特，对比度达 1,000 万比 1，并支援最低 10Hz、最高 120Hz 的自动更新频率。
+文件中另有一项构想，是找一位被称为「Gellman」的人撰写批评海特的文章。外界推测这可能指的是哥伦比亚大学统计与政治学教授安德鲁·杰尔曼（Andrew Gelman），但文件并未明确证实。杰尔曼近日表示，自己从未收到 Meta 邀请撰写相关文章。
 
-PROLED XDR 除了支援 P3 广色域，也新增 Adobe RGB 色彩空间，Rec. 2020 色域覆盖率超过 80%，锁定专业摄影、影像后制及设计等使用需求。此外，新机同样提供奈米纹理玻璃选配，降低明亮环境下的萤幕反光。
+目前尚不清楚 Meta 是否真的执行了这些想法，不过，文件的曝光已凸显出 Meta 内部曾认真讨论如何处理这位最具代表性的批评者，也反映出公司对于外界关注其产品与青少年心理健康关联的高度敏感。
 
-除了触控萤幕，苹果也首次将动态岛导入 MacBook Pro，整合 Spotlight 搜寻、即时动态及 Siri 等功能。使用者可透过萤幕上方的动态岛查看即时资讯、控制音乐播放、接听电话，或启动 AI 助理操作，进一步结合 macOS 27 的系统功能。
-
-新款 MacBook Pro 采用 M5 Pro 与 M5 Max 晶片，与日前发表的 M6 版 14 吋 MacBook Pro 形成不同的产品配置。苹果表示，M5 Pro 主要锁定软体开发、科学研究及专业影像工作负载，M5 Max 则进一步满足大型 AI 模型、3D 动画及高阶影片后制等需求，最高可选配 128GB 统一记忆体与 16TB 储存空间。
-
-新款 MacBook Pro 透过 OLED 萤幕结构及散热系统重新设计，缩减机身厚度与重量。其中，14 吋机型重量约 1.36 公斤，16 吋机型则约 1.81 公斤，分别较前代减轻约 0.23 公斤及 0.32 公斤。萤幕尺寸分别为 14.2 吋及 16.3 吋，电池续航力最长可达 24 小时。
-
-其他硬体规格包括三个 Thunderbolt 5 连接埠、HDMI、SDXC 记忆卡插槽、MagSafe 充电埠，以及 Wi-Fi 7、蓝牙 6。音效方面则延续六扬声器设计，并透过重新设计的低音单体，让低音表现较前代提升 50%。
-
-全新 MacBook Pro 提供太空黑色与银色两种选择，14 吋及 16 吋机型均可选配 M5 Pro 或 M5 Max 晶片。其中，14 吋机型售价 97,900 元起，16 吋机型售价 114,900 元起，将于 10 月 30 日上午 9 点开放预订，11 月 6 日开始发售。]]></description>
+（首图来源：Flickr/Fronteiras do PensamentoCC BY 2.0）]]></description>
   </item>
   <item>
-    <title>AMD 斥资 10 亿美元参与 Meta 股权发行，双方合作部署 GW 等级算力基础设施</title>
-    <link>https://finance.technews.tw/2026/10/28/amd-invests-1-billion-in-meta-equity-offering/</link>
-    <guid>https://finance.technews.tw/2026/10/28/amd-invests-1-billion-in-meta-equity-offering/</guid>
-    <pubDate>Wed, 28 Oct 2026 12:20:04 +0000</pubDate>
-    <description><![CDATA[处理器大厂AMD宣布与Meta深化策略合作伙伴关系，将携手建置并部署Gigawatt级规模的AI超级智慧基础设施。此项合作涵盖CPU、GPU、网路技术（AMD Pensando）、系统与软体（AMD ROCm）等领域，为Meta的服务与AI模型提供强大运算动能。此外，AMD亦将投资10亿美元参与Meta的股权发行。
+    <title>主攻安全防御，Google 发表 Gemini 4 Carbon 刷新基准测试纪录</title>
+    <link>https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/</link>
+    <guid>https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:44:21 +0000</pubDate>
+    <description><![CDATA[两周前，Google 的 Gemini 4 Argon 模型扩大推出，让更多付费使用者与开发者使用。现在，Google 再一次为大众预告一款全新先进模型 Gemini 4 Carbon，具备顶尖的网路安全防御与处理长程任务的能力。
 
-AMD与Meta在携手建置并部署Gigawatt级规模的AI超级智慧基础设施，其中包括：
+Google 内部孕育的 Carbon，在编码、Agent 与科学任务、全端网页开发，以及多模态理解等方面均有所提升。Google 指出，Carbon 在综合性基准测试 Artificial Analysis Intelligence Index v5 名列前茅，领先紧追在后的 Claude Opus 5.5 与 GPT-6 Astra，但网路安全防御才是 Carbon 真正大放异彩之处。
 
-Helios机柜级解决方案：首批AMD Helios机柜级解决方案已完成安装并于Meta正式上线运行，目前正进行测试，为近期进一步扩大部署做准备。
+相较自家 Argon，Carbon 在生成安全程式码方面的成功率提升超过一倍。与此同时，Google 声称「在产出高品质修补方案时，Carbon 表现较另一家实验室的先进模型出色超过 10 倍」。包含 SEC-bench Pro（漏洞挖掘）、ExploitGym（漏洞利用）、CWE-bench（漏洞修补）等基准测试中，Carbon 同样表现优异。
 
-EPYC中央处理器：Meta已部署数百万颗EPYC处理器，支援Meta Muse个人AI代理背后的专属运算环境。Meta同时为第6代EPYC CPU的主要客户，并正与AMD就代号「Verano」的下一代处理器展开合作。
+Google’s Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, and second only to Claude Opus 5.5 on the Artificial Analysis Coding Agent Index
 
-Instinct图形处理器：AMD Instinct GPU已部署于Meta生产环境，负责训练、排序与推荐引擎。双方已针对AMD Instinct MI350X GPU优化推荐模型，而Meta也是MI450架构的早期定义客户，未来将部署针对其工作负载最佳化的客制化GPU，并为未来的MI500系列GPU进行规划。
+Gemini 4 Carbon scores 59 on Intelligence Index v5, driven by leading performance in complex reasoning, knowledge, and scientific tasks. It also has large gains in coding and knowledge work, particularly when compared to other Gemini models, but it is not leading in all these areas.
 
-至于在软体合作方面，双方透过PyTorch推进ROCm发展，并将针对PyTorch、Triton与ROCm的优化成果公开给开发者社群使用。此外，AMD技术亦提供「Day-0」即时支援：在Instinct GPU上支援Muse Spark Open模型，并在AMD Ryzen AI PC与AMD Radeon GPU上支援Muse Glimmer模型。
+As with launch of Gemini 4 Argon, Gemini 4 Carbon is being rolled out to selected users and is not yet publicly available. Google is offering a 50% launch discount, with no confirmed end date. All our charts and figures use standard pricing for both Gemini 4 Carbon and Argon.
 
-AMD董事长暨执行长苏姿丰表示，双方透过多年的深度技术合作，随著Helios上线，合作将迈向Gigawatt级全新规模，共同形塑未来世代的晶片、软体与系统，助力Meta打造最具雄心的超级智慧模型与服务。Meta创办人暨执行长马克·祖克柏（Mark Zuckerberg）则强调，AMD是建置先进模型所需的关键伙伴，Meta正大力投资运算能力，致力于将个人超级智慧带给每一个人，而AMD在其中扮演著重角色。]]></description>
+Key results for Gemini 4 Carbon with high reasoning:➤ Gemini 4 Carbon leads the Intelligence Index v5, with the #1 score in 4 of the 9 Index evaluations: HLE-Diamond, Terminal-Bench-Science, AA-Omniscience, AutomationBench-AA. Carbon makes substantial gains elsewhere but is not leading in coding and knowledge work
+
+➤ Behind only Claude Opus 5.5 on coding agents: With Antigravity CLI, Gemini 4 Carbon (high) scores 59 only 3 points behind Claude Code with Claude Opus 5.5 (max, 62) on the Artificial Analysis Coding Agent Index. Carbon ranks second on both Terminal-Bench 4.0 (64%) and FrontierCode v1.1 (51%), behind Claude Opus 5.5 (max) at 56%. Google has historically underperformed in this area and so this improvement stands out
+
+➤ Improved agentic knowledge work, but not yet leading: On AA-Briefcase, Gemini 4 Carbon (high) scores 1609 Elo, a 126-point improvement over Gemini 4 Argon (high, 1483), but still behind models including Grok 4.7 (xhigh, 1638), Muse Wonder (max, 1659) and Kimi K3.1 Pro (1678). The largest gain comes from Presentation, up 293 Elo to 1598, alongside a 120-point improvement in Analytical Quality to 1671
+
+➤ Lower Cost per Task than Claude Opus 5.5 for comparable overall intelligence: Gemini 4 Carbon costs $7.76 per Intelligence Index task, ~23% less than Claude Opus 5.5 (max, $10.04) but ~1.2x GPT-6 Astra (max, $6.25). It uses 123k output tokens per task, 29% fewer than Claude Opus 5.5 (max, 173k). At the same $4/$20 standard pricing, its Cost per Task is in line with Gemini 4 Argon ($7.68), while scoring 9 points higher on the Intelligence Index
+
+➤ Leading AA-Omniscience v1.1 score, with low hallucination: Gemini 4 Carbon scores 54 on our recently updated AA-Omniscience v1.1, 6 points ahead of Claude Opus 5.5 (max, 48) and 8 points ahead of Gemini 4 Argon (46). Accuracy (% correct) rises 10 points over Argon to 58%, while its hallucination rate rises from 4% to 11%. This is still the second lowest of any model, behind only Argon, compared with 50% for both Claude Opus 5.5 (max) and GPT-6 Astra (max)
+
+Key model details:➤ Context Window: 1M tokens➤ Multimodality: Text, image, video, and speech input, with text output➤ Pricing: $4/$20 per 1M input/output tokens, the same as Gemini 4 Argon’s standard pricing, with a 50% discount. Cached input tokens receive a 95% discount ($0.20 per 1M)
+
+Congratulations to the @GoogleDeepMind team!
+
+— Artificial Analysis (@ArtificialAnlys)October 28, 2026
+
+虽然 Carbon 与 Argon 是建构在相同的安全性与资安技术堆叠上，但 Google 进一步同时提升模型的对齐表现，Carbon 具备的特点包含：减少走捷径与钻漏洞的行为；有著更高的透明度与诚实度；面对模糊不清的情况，能与使用者有更出色的协作表现；在执行某项任务时，较少出现越界逾矩的情形；对「提示注入」（prompt injection）攻击具备更强的抵抗力。
+
+对于 Carbon 的正式释出，Google 遵循美国政府的自愿性审查程序，不会立即向消费大众推出，而是计划本周先提供给部份网路安全防御公司采用。Carbon 定价为每百万个输入 token 收费 2 美元、每百万个输出 token 收费 10 美元，经快取的输入 token，将以输入 token 价格的 95 折计算。]]></description>
   </item>
   <item>
-    <title>联电展望 2027 年综合 ASP 预期年增 10%，AI 业务三年内营收冲 25% 占比</title>
-    <link>https://finance.technews.tw/2026/10/28/umc-projects-a-10-year-on-year-increase-in-its-consolidated-asp-by-2027/</link>
-    <guid>https://finance.technews.tw/2026/10/28/umc-projects-a-10-year-on-year-increase-in-its-consolidated-asp-by-2027/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:30:52 +0000</pubDate>
-    <description><![CDATA[晶圆代工大厂联电（UMC）在在第三季法会会中对法人提问表示，随著2026年下半年产能利用率回升至90%以上，2027年营运将由「产量与利用率驱动」转型为「价值驱动」模式。受惠于特殊制程需求强劲、产品组合优化以及AI相关新技术（矽光子与先进封装）加速商业化，联电预期2027年综合平均售价将达到约10%的年成长。同时，公司已调升资本支出进行关键扩产，目标在3年内将AI相关营收占比提升至25%。
+    <title>Google 与 NASA 联手打造深空 AI 机器人，化身太空专属医疗与后勤助手</title>
+    <link>https://technews.tw/2026/10/29/google-is-building-a-robot-medic-for-nasa/</link>
+    <guid>https://technews.tw/2026/10/29/google-is-building-a-robot-medic-for-nasa/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:40:54 +0000</pubDate>
+    <description><![CDATA[Google 正与美国国家航空暨太空总署（NASA）合作开发一套具备 AI 能力的机器人系统，目标是在未来深空任务中协助太空人处理医疗与后勤需求。这项计划由 Google Public Sector 与 NASA 人类研究计划、詹森太空中心（Johnson Space Center）机器人团队及喷射推进实验室（JPL）共同推进，旨在因应地球与火星之间可能出现的长时间通讯延迟，让太空人仍能获得即时的实体协助。
 
-联电指出，2026年的成长主要由出货量增加与产能利用率提升带动。由于目前多数晶圆厂运作已接近满载，2027年出货量的成长将受限于可用产能。因此，2027年的营运焦点将转向提升每片晶圆的附加价值与优化产品组合。
+这套系统建立在 Google 与 NASA 先前合作的 Crew Medical Officer Digital Assistant 基础上，原本是用来提供太空人医疗决策支援的自动化系统。最新版本则进一步发展为实体机器人原型，设计上更像是一名可多工运作的酬载处理员，能协助搬运货物、整理设备、处理后勤作业，也能在需要时切换到医疗支援模式，协助取用与准备医疗器材。
 
-在价格策略方面，联电预估2027年将成为整体价格趋势的转折点，摆脱过去价格折让的压力，自2027年第一季起迎来正向调升。2027全年度综合平均售价预计将比2026年成长约10%。主要调涨原因包括：
+Google 表示，这套机器人并非要取代人类医疗官，而是做为其助手，在太空人直接监督与指挥下执行任务。举例来说，若有太空人出现可能与肾结石有关的剧烈背痛，机器人可取来并准备超音波设备，让医疗官专注于判读检查结果与决定后续处置。未来若运作成熟，太空人甚至可透过简单的英文语音或文字指令，要求机器人协助量测基本生命征象、执行简单超音波检查，或处理日常维护工作。
 
-1.强劲的客户需求与特定技术产能紧缺。2. 高价值产品组合比重提升，例如22奈米制程营收贡献创新高及特殊技术动能强劲。3. 反映原材料成本与通膨上涨压力，适度与客户共同分担成本。
-
-联电2026年AI相关营收接近3亿美元。公司预估，随著矽光子与先进封装技术逐步放量，未来3年（约至2029年）AI相关业务占总营收比重将攀升至25%。
-
-1.矽光子（Silicon Photonics）：联电12吋光子积体电路（PIC）平台及8吋TLO平台效能优于同业，已完成1.6T光收发器应用验证与产品认证，未来路线图将推进至每通道300G/400G，以支援次世代3.2T应用。此外，与伙伴 Hyperlite 合作的薄膜铌酸锂（TFLN）光调制器亦取得显著进展。
-
-2.先进封装（Advanced Packaging）：主攻电源管理与记忆体频宽解决方案。用于伺服器与AI电源管理的离散式深沟槽电容（DDC）已进入量产；基板嵌入式DDC完成 Tape-out 与功能验证；客制化记忆体堆叠亦通过初期客户验证。
-
-为因应客户需求超越原定技术蓝图，联电董事会已核准追加资本支出，并规划三大关键领域的月产能扩充目标：
-
-1.矽光子（Silicon Photonics）：目标月产能约 1.8 万片（18k）。2.深沟槽电容（DDC/Capacitor）：目标月产能约 2.2 万片（22k）。3.光调制器（Modulator）：目标月产能约 2.0 万片（20k）。
-
-新产能预计于2028年底开始装机拉升，并于2030年达到最终规模。联电强调，扩产计划完全由客户的长期产品蓝图与订单承诺所支撑，不致面临市场供过于求的风险。
-
-财务与毛利率表现：随著新投资进入装机阶段，未来几年折旧费用预计将呈现低单位数年增，加上原材料成本上涨，短期毛利率将面临压力。然而，EBITDA 与结构性获利能力依然稳健；且2028~2029年新产能放量后，因该类新技术毛利率高于公司平均，将对长期获利模型带来正面贡献。
-
-终端市场分化：车用与工业领域呈现健康复苏，高阶智慧型手机需求稳定；个人电脑（PC）及相关周边晶片（如Wi-Fi、LCD控制器）短期需求则相对疲弱。]]></description>
+目前这项计划仍停留在概念验证阶段，但已完成初步实验室测试。Google 指出，团队利用 DeepMind 的 MuJoCo 物理模拟器测试机器人动作，并在早期实验中完成医疗袋定位与搬运等任务，初步成功率达 85%。此外，团队也测试了多种边缘运算装置，并验证微调后的模型可在小型、低功耗设备上于本机执行，为未来深空任务所需的轻量化部署铺路。]]></description>
   </item>
   <item>
-    <title>重新出发创立凌霄航太，罗正方：与美国伙伴联手后可与 Anduril 等大厂竞争</title>
-    <link>https://finance.technews.tw/2026/10/28/new-company-aerosoarx-signed-mou-with-rajant-and-sima-ai/</link>
-    <guid>https://finance.technews.tw/2026/10/28/new-company-aerosoarx-signed-mou-with-rajant-and-sima-ai/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:11:18 +0000</pubDate>
-    <description><![CDATA[前经纬航太董事长，无人机国家队队长罗正方今日在台北 101 举办新公司「凌霄航太」（AerosoarX）的品牌亮相记者会，并与美国专长 Mesh 网路技术的 Rajant 和边缘 AI 运算晶片公司 SiMa.ai 进行合作备忘录签署仪式，在接受媒体联访时，除了说明产品和未来走向外，也表示有信心从 2027 年起与 Anduril 等知名厂商竞争全球订单。
+    <title>辉达推出免费开源语音模型 Nemotron 3.5 Transcribe，转录、翻译、辨识语者一次搞定</title>
+    <link>https://technews.tw/2026/10/29/nvidia-releases-new-open-transcription-model/</link>
+    <guid>https://technews.tw/2026/10/29/nvidia-releases-new-open-transcription-model/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:35:03 +0000</pubDate>
+    <description><![CDATA[辉达（NVIDIA）10 月 28 日推出Nemotron 3.5 Transcribe，这是一款免费、开放权重的语音模型，主打将录音内容转成可用文字，并将转录、语者分群、翻译与音讯问答整合在同一个模型中。公司同时释出第 2 版 Granary 开源语音资料集，供开发者进一步微调与客制化。
 
-在纬创透过子公司鼎创收购经纬航太股权后，原本经纬航太期望可透过纬创资金扩大台湾无人机产能，但因业务涉及台湾军用无人机，遭中国商务部列入实体管制清单，为了避免主业遭到影响，纬创宣布退出军用无人机业务，罗正方因此售出手中股份，并在今年初离开自己一手创立的公司。
+根据辉达的说法，Nemotron 3.5 Transcribe 可处理最多 40 种语言，并能将其中 31 种语言与英文互译；它也支援最长 1 小时的录音，并可区分最多 8 位说话者。辉达表示，这款模型在多项基准测试中表现领先，包括 Hugging Face 的 Open ASR Leaderboard。
 
-经过数月准备，凌霄航太正式在今天召开品牌亮相记者会，新公司由罗正方和前 AWS 台湾业务副总 Jason Wu 于今年四月合作创立，在记者会中也同步和美国 Rajant 和 SiMa.ai 两家公司签署合作备忘录。
+这项工具主要锁定企业会议与医疗转录等应用场景。辉达指出，开发者可搭配更新后的 Granary 资料集与 NeMo Speech 等工具，让应用程式更能辨识各产业在不同语言中的专业术语与口语习惯。不过，这款模型目前仅支援录音档，无法处理即时串流音讯。
 
-罗正方认为，国防自主的关键在于整合可信赖的国际伙伴，建立能快速补充零组件、扩大生产并持续改良的供应体系。面对战场上大量消耗无人机的需求，产品性能之外，供应链能否支撑长期交付，同样影响实际战力。
-
-这次三方合作的技术分工，主要涵盖通讯、运算与平台整合，Rajant 提供专长的 Kinetic Mesh 动态网状网路技术，支援不同无人载具之间的通讯与资讯共享，SiMa.ai 则以实体人工智慧（Physical AI）平台提供高效能、低功耗运算，凌霄航太负责推动与自身无人载具系统整合。
-
-依公司规划，边缘 AI 将用于载具端的影像与感测资料处理，支援环境辨识、路径规划与自主判断，并兼顾处理延迟和能源消耗，对电力与载重有限的无人机而言，增加运算能力的同时如何控制耗电，是系统整合的重要课题。
-
-群飞协作则需要载具交换资讯，Rajant 执行长暨共同创办人 Robert J. Schena 表示，未来作业将涉及不同类型无人机彼此通讯、共享资讯与协同运作。这也是网状通讯与载具端 AI 运算必须共同处理的问题。
-
-目前三方公布的是合作与技术整合方向，新闻稿尚未揭露整合后的群飞规模、通讯距离、抗干扰测试结果或续航数据，相关能力仍待后续产品与测试成果确认。
-
-市场布局方面，凌霄航太将美日、中东欧与印太第一岛链列为三条主线，罗正方表示，公司已向美国交付近千架无人机，也有波兰、捷克及乌克兰等地订单，并在台中设有生产基地，公司此次另展示一款针对美军无人机优势计划（Drone Dominance Program，DDP）开发的 15 吋折叠式无人载具。
-
-针对日本拦截无人机平台，罗正方表示，凌霄航太提供台湾次系统与零组件，协助将原有中国制零件转换为非红来源，中东欧则被定位为产品验证与技术迭代的重要区域，希望透过前线使用回馈调整设计。
-
-罗正方也规划于 2027 年初引进中东欧的中程战术与远程战略无人机，以非红零组件重新整合后量产，未来并将业务延伸至无人船与无人车。
-
-美军 DDP 是凌霄航太争取后续成长的重要目标，该计划规划四个阶段，每阶段均包含竞赛测评与后续交付，由军方操作人员评估系统完成任务的能力，供应商必须同时面对性能与生产交付的考验。
-
-罗正方表示公司产品已通过第二阶段测试，而美军已将「边缘运算」、「AI 群飞」与「受干扰环境下的任务能力」，视为下一阶段竞争重点，若 2027 年能够顺利通过第三阶段，出货可望提升至万架等级。
-
-为因应不同市场需求，凌霄航太采取轻资产与分散式制造策略，规划在台湾完成模组或半成品，再送往海外合作基地进行最终组装，罗正方以 Rajant 位于美国肯塔基州的基地为例，希望利用既有产能缩短布局时间，并降低重复投资厂房的成本。
-
-对凌霄航太而言，下一步是将 AI 与通讯整合转化为可验证的产品能力，再让台湾零组件供应与海外组装基地支撑更大规模的交付。随著无人机竞争同时考验软体、通讯与制造能力，这套跨国分工能否跟上产品迭代与订单需求，将是新公司接下来的重要考验。
-
-期间科技新报询问，目前台湾和美国国防部都有和 Palantir、Shield AI 和 Anduril 等公司合作，使用包括 Maven、Hivemind 和 Lattice 等整合式任务 AI 系统，未来凌霄航太与 Rajant 和 SiMA AI 联盟的产品是否能和上述公司的 AI 系统整合，或将会开发自己的系统竞争。
-
-对此罗正方表示，相当肯定 Shield AI 和 Anduril 在台湾致力扩大供应链的参与程度，且与 Anduril 创办人 Palmer Lucky 是好朋友，两家公司对于无人机和 AI 产业的发展都有重要贡献，但如果他们在这段时间内没有太多实质产出，仅「口惠而不实」的话，那很快在 2027 年起就会受到凌霄航太、Rajant 和 SiMA AI 的挑战，「毕竟联手起来我们速度不会比他们慢。」]]></description>
+辉达也强调，Nemotron 3.5 Transcribe 可在单一晶片上执行，涵盖 Jetson AGX Thor、DGX Spark，以及 Blackwell 资料中心晶片等平台。这款 300 亿参数的模型，进一步扩充了辉达既有的开放权重语音模型阵容，与先前的 Parakeet 等模型形成互补。]]></description>
   </item>
   <item>
-    <title>施振荣创业细胞再发动，设一人公司聘两名 AI 员工出书</title>
-    <link>https://technews.tw/2026/10/28/shi-stan-opc/</link>
-    <guid>https://technews.tw/2026/10/28/shi-stan-opc/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:10:17 +0000</pubDate>
-    <description><![CDATA[电脑品牌厂宏碁集团创办人施振荣今天表示，退休 20 多年后，「创业细胞」再次发动，近期成立一人公司（OPC，One-Person Company），并聘雇名为「阿赢」与「观复」的两个人工智慧（AI）分身及助理与他共事，短短几天就生出新书。
+    <title>大和证券重申估值过高给联亚光电卖出评等，却营运超乎预期提升目标价至 1,210 元</title>
+    <link>https://finance.technews.tw/2026/10/29/daiwa-securities-reiterated-its-overvaluation-rating-for-lianya-optoelectronics-giving-it-a-sell-rating/</link>
+    <guid>https://finance.technews.tw/2026/10/29/daiwa-securities-reiterated-its-overvaluation-rating-for-lianya-optoelectronics-giving-it-a-sell-rating/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:30:20 +0000</pubDate>
+    <description><![CDATA[大和证券（Daiwa）发表最新投资研究报告，针对光通讯磊晶大厂联亚光电虽调升财务预测与目标价，但维持「卖出」的投资评级。
 
-AI物联网大联盟年会今天登场，施振荣以荣誉会长身分致词表示，自己一路从微处理机带动的产业革命，见证到如今AI引发的社会革命；但革命并非凭空发生，「当长期累积到一定能量后，突然发现世界变了，这才叫革命」。
+大和证券指出，尽管受惠于云端服务提供者（CSP）积极建置 AI 资料中心，带动矽光子材料需求强劲，第三季财报与第四季展望双双优于预期，但目前股票估值过高，且市场对其利润率过度乐观，未来仍面临修正风险。
 
-施振荣说，他已退休20几年，没有什么组织资源，但始终有「创业细胞」，不创业反而觉得奇怪。除了过去参与不造车的车公司、不造船的船公司均采外包模式营运，他近期更成立一人公司，不仅不必登记、连主管机关也管不著，彻底回归「个体户」与自由业型态。
+报告指出，联亚光电公布 2026 年第三季单季净利达新台币 6.21 亿元、季增 33%、年增 528%，优于大和证券及市场预期，主要归因于研发费用较低。其中，资料中心业务为主要营收来源，占比达 80% 至 85%。针对第四季展望，联亚光电预估单季营收将达 18 亿元、季增约 16%，主要受到连续波雷射（CW laser/矽光子）需求持续强劲，以及顺利转嫁磷化铟（InP）衬底等材料上涨成本所致。
 
-施振荣透露，他在这家一人公司里雇用两个AI员工。第一位取名为「阿赢」，是母亲对他的暱称，为自己的AI数位分身一起共事；另一个叫「观复」，负责淬炼与萃取他的智慧，并与现实世界的各项回馈相互激荡。
-
-在AI员工协助下，施振荣的创作效率大增。他提到，以前写一本书往往需要半年以上，现在AI协助作业，几天内就能完成。近期他整理「超级分工、智慧协同、共创价值、共享进化」等思维完成新书，且中文版完成后，英文与日文版也同步完成，纸本与电子书更同时全球上架。
-
-施振荣直言，每天与AI共事、共创价值，让他感觉更有成就感。他认为台湾将Artificial Intelligence翻译为「人工智慧」其实是误译，照字面应该翻为「人工智能」；既然错了就将错就错，现在的目标就是努力让AI真正拥有智慧。
-
-面对全球AI浪潮，施振荣强调，台湾在硬体经济与产业生态对世界的贡献将与日俱增，正如他2016年提出「创新矽岛、东方矽文明发祥地」的愿景，如今「台湾有事，世界就有事」，台湾在AI时代对人类文明将扮演不可或缺的关键角色。]]></description>
+报告表示，为因应强劲需求，联亚光电透露已与 CSP 客户及衬底供应商签订为期 4 年的长期供应协议（LTA）。在此长约保障下，公司计划于 2027 至 2028 年间，每年将产能大幅扩充 150%。 基于订单能见度提高，大和证券将联亚 2026 至 2028 年每股盈余（EPS）预测上调 10% 至 25%，预估 2026 年 EPS 为 20.92 元，2027 年 EPS 将达 32.35 元。然而大和也提醒，若 2028 年全球 AI 投资放缓，长约恐无法提供下行保护。]]></description>
   </item>
   <item>
-    <title>Anthropic 公开 AI 药物研发进展，携手六家机构并收购新创 Mithril</title>
-    <link>https://technews.tw/2026/10/28/early-progress-on-accelerating-drug-development-with-claude/</link>
-    <guid>https://technews.tw/2026/10/28/early-progress-on-accelerating-drug-development-with-claude/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:09:39 +0000</pubDate>
-    <description><![CDATA[Anthropic 与 BigHat Biosciences、Bristol Myers Squibb、Divergence Labs、Enveda、Generate Biomedicines 及 The Column Group，这六家药物研发机构的合作有了初步成果。
+    <title>Instagram 负责人坦言 AI 内容难排序，不禁 AI、但要求帐号自行标示</title>
+    <link>https://technews.tw/2026/10/29/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse/</link>
+    <guid>https://technews.tw/2026/10/29/adam-mosseri-says-negativity-around-ai-is-going-to-get-worse/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:30:02 +0000</pubDate>
+    <description><![CDATA[Instagram 负责人亚当·莫塞里（Adam Mosseri）表示，外界对人工智慧的反感、焦虑与愤怒，未来几年恐怕只会持续升高，而且影响范围不会只停留在创意产业。Mosseri 是在接受 Colin and Samir Podcast 访问时谈到这个议题，当时他也一并讨论了 Instagram 推出宽萤幕与长影片功能。
 
-Anthropic 的策略是让 Claude 参与整个药物研发流程，从标靶辨识、分子设计到制造文件纪录、临床试验规划，这么做是因为瓶颈普遍存在于整个药物研发过程，而非集中单一步骤。Anthropic 指出，这项工作在于描绘模型的优势与极限，为生命科学界提供个案研究，且若目前发展持续下去，可望制造出针对食物过敏、罕见儿童疾病以及多种癌症的药物。但 Anthropic 也强调，目前研究仍在早期阶段，大多是临床前研究，还未进行人体试验。
+Mosseri 指出，许多人不喜欢 AI，并不只是年轻族群或创作者如此；在他看来，创意产业对 AI 的情绪尤其强烈，且这股压力还会继续扩大。他形容，接下来几年社会上会看到更多对 AI 的挫折与怒气，其中有些反应有其道理、有些则未必，但都会让不少人感到困难。
 
-Generate Biomedicines 六名科学家利用 Claude Code 建立了一套 AI Agent 系统，为 CAR T 细胞疗法提出重新设计的信号方案。这是一种癌症疗法，Generate Biomedicines 目标是透过缩减受体的基因指令长度，从血癌应用拓展至实体肿瘤。这套 AI Agent 系统今年二月开始建立，团队随后选出 186 种设计进行第一轮实验室测试。报告指出，其中一项设计比标准版本缩短约 70%，但在实验室测试，细胞表面产生的受体数量约是原先的十倍，有效杀死肿瘤细胞，并延长免疫细胞的活性时间。然而这些均为早期实验室数据，尚未进行患者安全性或有效性测试，下一步将进行小鼠模型测试与实体肿瘤标靶策略研究。
+谈到平台治理时，Mosseri 表示，Instagram 并未刻意把 AI 创作者与其他帐号分开排名，但他也坦言，AI 内容是否能像非 AI 内容一样被有效排序，仍是问题。他提到，平台上既有优质 AI 内容，也有大量粗制滥造的 AI 内容，因此如何评估与排序，并不容易。
 
-2025 年成立的 Divergence Labs，利用双臂抗体设计，研发一种中和游离 IgE、并同时移除已与免疫细胞结合 IgE 的食物过敏药物。Anthropic 指出，Claude 在 22 个自主工作时段内，在 NVIDIA H100 GPU 上总计耗费约 2,750 小时运算时间，产生约 35,000 种抗体设计。部分设计在实验室测试中的 IgE 移除能力，甚至优于现有药物 Xolair。
+他同时重申，Instagram 不认为全面禁止 AI 内容是可行做法。不过，平台已开始要求 AI 帐号自行标示身分，并在 2026 年 8 月起加强打击 AI 生成的个人档案。对于误导性 AI 内容，包括名人深伪影片等问题，Mosseri 说 Instagram 正在积极思考应对方式。
 
-在与 BigHat Biosciences 合作的一项测试计划，一名 Anthropic 研究人员与 Claude 协作，串接 BigHat Biosciences 的 Reccy 实验室资料系统，成功促成两种抗体片段：一种抗白蛋白 VHH 与一种锁定癌症的抗间皮素 scFv。BigHat Biosciences 的自动化实验室在约十周的时间内，历经七轮测试，针对 1,232 个样本制造并测试约 1,010 种变体，每轮处理 176 种变体。根据报告，最终分子的结合紧密度比原始分子高出六至九倍，耐热性提升 8°C 至 18°C，且抗凝集性能更好。最终 VHH 熔点约为 71°C，而原始分子仅约 62°C；最终的 scFv 在约 74°C 时才从溶液中沉淀，原始分子则是约 56°C 就崩解。研发过程中，研究人员与 Claude 重新分析仪器的原始资料，判定标准的熔解与凝集评分具有误导性，进而提出修正后的衡量指标，并变更实验协定，改以两种浓度与两种加热速率测试样本，Claude 对于哪些数据能保持稳定的预测后来证实完全正确。
-
-Enveda 以 Claude 为核心，开发一套 CMC 文件处理器，用来审查制造批次纪录。在一项针对四份纪录（共 1,061 页，来自后续提交给 FDA 的二期临床制造活动）评估中，这套系统揪出人类审查发现的 11 个问题，甚至额外标记出 7 个没人发现的漏洞，将审查时间从 25.9 小时缩减至 2.8 小时。此外，Enveda 利用 Claude 在四小时内草拟新药临床试验申请的模组二（Module 2），相比之下人工撰写约需三个月。Enveda 表示，团队认为 Claude 产出的新药临床试验申请，品质足以媲美专业医生。
-
-The Column Group 自 2007 年起深耕生技创投领域，目前与 Anthropic 工程师合作成立一家名为 Pleiades 的生技公司，目标是让这间公司从第一天起就具备完整 AI 能力。科学家与 Anthropic 共同开发一套用于初步靶点评估的 Claude 技能，并在 45 组靶点与疾病配对上进行评估。The Column Group 发现，结合专家判断下，这项功能将寻找并解读相关科学文献的时间从数周缩短至数天。
-
-Anthropic 也与 Bristol Myers Squibb 合作，共同找出临床试验规划中的瓶颈。Bristol Myers Squibb 是利用 Claude 评估一项早期药物的计划，并估算试验成功的机率。「仅透过单一提示词，Claude 就能产出强大的初步分析，协助我们评估不同的开发选项，这在过去通常需要耗费数天才能完成」，Bristol Myers Squibb 资深副总裁 Michael Pourdehnad 表示，双方计划在 2027 年扩大合作规模。
-
-值得关注的是，Anthropic 另外收购 Mithril Medicine，这是一家由 Cody Tranbarger 创立的一人公司，致力于研发治疗 LAMA2 相关先天性肌肉萎缩症与 alpha-dystroglycanopathy 的药物，皆是罕见的肌肉萎缩症。在七月的收购案之前，他利用 Claude 来组织与 11 个外部实验室的合约、物流及实验，在不到 18 个月的时间内，将一种双特异性抗体从构想推向小鼠测试的初步原理验证。针对严重 LAMA2-CMD 进行的短期小鼠研究中，接受高剂量治疗的小鼠，其抓力与三头肌力量大约是未治疗小鼠的两倍；且在出生后二至六周之间，八只受治小鼠仅有一只死亡，而八只未受治小鼠则有四只死亡。Anthropic 强调，这些仅是早期实验结果，不代表在患者身上具有安全性或疗效。
-
-Mithril Medicine 目前开发出超过 100 种新型双特异性抗体，正在进行细胞测试，计划在 2027 年确定这两种疾病的正式候选药物，目标是分别在 2028 年底与 2029 年启动 LAMA2-CMD 与 alpha-dystroglycanopathy 的临床试验。]]></description>
+Mosseri 也提到，创作者对 AI 的担忧不只来自内容真假，还包括作品所有权、模型是否会用他们的内容训练，以及安全与工作被取代的风险。他认为，这些焦虑背后最核心的感受，是害怕自己在快速变化的环境中被抛在后头。]]></description>
   </item>
   <item>
-    <title>联亚 Q3 每股赚 6.12 元创单季新高！矽光需求续旺，估 Q4 营收看增</title>
-    <link>https://technews.tw/2026/10/28/landmark-2026-q3-financial-report/</link>
-    <guid>https://technews.tw/2026/10/28/landmark-2026-q3-financial-report/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:08:49 +0000</pubDate>
-    <description><![CDATA[联亚今（28日）举办第三季法说会，受惠AI资料中心带动高速光通讯需求升温，矽光子相关产品出货持续放大，第三季营收、毛利率及获利同步攀升，单季每股纯益达6.12元，创单季新高。
+    <title>MacBook Neo 半年涨价两次，教育优惠价也不能 2 万元内入手</title>
+    <link>https://technews.tw/2026/10/29/macbook-neo-raise-prices/</link>
+    <guid>https://technews.tw/2026/10/29/macbook-neo-raise-prices/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:29:34 +0000</pubDate>
+    <description><![CDATA[苹果今年 3 月推出的平价笔电 MacBook Neo 上市不到八个月，价格却已经两度调涨；继今年 6 月调整售价后，苹果近日再度提高 MacBook Neo 的教育优惠价，台湾入门款从原先的 19,900 元调升至 21,900 元。若与 3 月发表时的 16,900 元相比，累计涨价 5,000 元，涨幅达 29.6%，原本主打的平价优势也逐渐缩小。
 
-展望第四季，联亚预期营收季增率可望达15%～20%，主要客户已开始下达六个月以上长单，随公司及下游代工厂持续扩产，矽光产品出货动能有望延续至明年。
+苹果近期再次调涨 MacBook Neo 教育商店售价，这已是今年第二次价格调整。MacBook Neo 于 3 月发表时，以相对亲民的价格作为主要卖点，希望吸引学生及首次接触 Mac 的消费者，但随著记忆体与其他零组件成本上升，苹果也陆续调整产品定价。
 
-联亚第三季合并营收达15.62亿元，季增28%、年增183%；毛利率升至58.56%，较第二季增加约1.1个百分点；营业利益为7.71亿元，季增35%，营业利益率达49%。税后净利为6.21亿元，季增33%、年增5.28倍，EPS为6.12元。
+回顾台湾市场，MacBook Neo 于 3 月发表时，256GB 入门款一般售价为 19,900 元，教育优惠价则为 16,900 元，两者相差 3,000 元。然而苹果在 6 月首次调整售价后，入门款一般价格提高至 22,900 元，教育优惠价后续也来到 19,900 元。
 
-累计前三季营收36.88亿元、年增136%；税后净利14.07亿元、年增491%，EPS达13.88元。
+到了 10 月，苹果再度调整 MacBook Neo 售价，256GB 入门款一般价格提高至 23,900 元，教育优惠价则调升至 21,900 元。换言之，从 3 月发表至今，一般售价已累计上涨 4,000 元，涨幅约 20.1%；教育优惠价累计上涨 5,000 元，涨幅则达 29.6%。
 
-从产品组合来看，DataCom占联亚总营收约80%～85%，其中多数来自矽光子相关产品；Telecom约占5%～10%，其余为其他产品。随AI伺服器及资料中心持续扩建，高速光通讯元件需求强劲，带动联亚出货规模与获利能力同步提升。
+值得注意的是，MacBook Neo 的教育折扣幅度也同步缩水，最初一般售价与教育优惠价相差 3,000 元，如今两者价差仅剩 2,000 元，意味著符合教育优惠资格的学生及教育工作者，不仅需要支付更高的购机价格，能享有的折扣金额也较发表时减少。
 
-展望第四季，联亚预期，营收季增幅度预期与2025年第四季相近，目前主要客户已开始下达六个月以上长单；未来几季矽光产品出货可望持续成长，且随公司自身及下游代工厂产能逐步扩增，明年第一季将有较多新产能开出，成长动能可望进一步增强。
+目前 MacBook Neo 的入门配置仍搭载 A18 Pro 晶片、8GB 统一记忆体与 256GB SSD，并未因价格调整而增加记忆体或储存容量。此外，入门版本也没有配备 Touch ID 指纹辨识功能，若需要相关功能，则必须选择更高容量的机型。
 
-新产品方面，联亚指出，1.6T矽光相关产品已开始量产，并与客户合作开发及验证应用于3.2T，以及NPO、CPO的更高功率矽光产品。此外，下一代CPO、手机应用的LDTC产品及其他相关产品，也依照既定计划持续进行开发与验证。]]></description>
+对于此次价格上涨，外媒指出，记忆体及其他零组件供应短缺，是苹果调整产品售价的重要背景。随著 AI 资料中心持续扩大建置规模，记忆体需求增加，也对消费性电子产品的零组件供应与成本带来压力。苹果今年 6 月除了调涨 MacBook Neo，也同步调整部分 Mac 与 iPad 产品的售价。
+
+另一方面，市场也传出苹果正在开发第二代 MacBook Neo，可能升级至 A19 系列晶片，并增加记忆体容量，预计最快于 2027 年上半年推出。不过相关消息仍属市场传闻，苹果尚未公布后继机种的正式规格及上市时程。
+
+MacBook Neo 原本以不到 2 万元的台湾起售价作为主要竞争优势，但经过两次价格调整后，一般消费者的入手门槛已提高至 23,900 元，即使符合教育优惠资格，也需支付至少 21,900 元。]]></description>
   </item>
   <item>
-    <title>日美同意合作建立第一岛链防卫体系，强化「拒止型防卫能力」</title>
-    <link>https://technews.tw/2026/10/28/japan-us-cooperate-first-island-chain-defense-system-strengthen-denial-defense-capabilities/</link>
-    <guid>https://technews.tw/2026/10/28/japan-us-cooperate-first-island-chain-defense-system-strengthen-denial-defense-capabilities/</guid>
-    <pubDate>Wed, 28 Oct 2026 10:00:22 +0000</pubDate>
-    <description><![CDATA[日本防卫大臣小泉进次郎今天与美国国防部长赫格塞斯举行会谈，双方著眼于吓阻中国，同意合作建立「第一岛链」防卫体系，并确认强化「拒止型防卫能力」的重要性。
+    <title>11 月就出现北极扰动史上最早，MIT：强烈寒流恐突袭北半球</title>
+    <link>https://technews.tw/2026/10/29/earliest-ever-arctic-disturbance-occurs-in-november-mit-warns-of-potential-severe-cold-snap-hitting-the-northern-hemisphere/</link>
+    <guid>https://technews.tw/2026/10/29/earliest-ever-arctic-disturbance-occurs-in-november-mit-warns-of-potential-severe-cold-snap-hitting-the-northern-hemisphere/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:29:18 +0000</pubDate>
+    <description><![CDATA[北半球今夏及秋季普遍温暖的天气一直延续到十月，虽然冬季尚未正式到来，但北极上空正在出现史无前例的气象异变。最新气象模型显示，北极涡旋(Polar Vortex)可能在11月初大幅减弱，甚至发生高空风向逆转，时间比历史纪录提早近三周。专家警告，这种异常现象可能改变北半球大气环流，让极地冷空气向南扩散。
 
-日本共同社报导，小泉在访问菲律宾中部的宿雾期间与赫格塞斯（Pete Hegseth）会谈，双方同意合作建立连结日本西南诸岛、台湾及菲律宾的「第一岛链」防卫体系。
+麻省理工学院(MIT)气候学家Judah Cohen指出，北极涡旋大规模扰动通常发生在1月至2月，偶尔出现在12月，但卫星观测纪录中，尚未出现11月就发生如此强烈扰动的案例。
 
-根据日本防卫省发布的内容，「拒止型防卫能力」是指吓阻以武力或胁迫手段片面改变现状的行为，同时具备即使日本万一遭到入侵也能排除入侵势力的能力，使对手无法达成目的。日本政府正研拟将相关方针纳入预计年内修订的安保三文件。
+北极涡旋是每年秋冬在北极平流层形成的大型低压环流，强盛时有助于维持极地冷空气的分布，一旦减弱或变形，便可能改变喷射气流，使寒冷空气更容易向中纬度地区扩散。
 
-小泉在会谈中说明日本修订安保三文件的研议进度，并表示未来将强化「拒止型防卫能力」。
+欧洲中期天气预报中心(ECMWF)模型显示，11月初北极涡旋可能被拉长成椭圆形，甚至发生「平流层突然增温」，使原本由西向东吹的高空风逆转。部分预测显示，11月10日前发生风向逆转的机率相当高，但仍有不确定性。
 
-「拒止型防卫」已明订于美国川普政府今年1月公布的「国防战略」（NDS），日美在这方面步调一致。
+北极海冰减少也可能是促成这次异常的因素。俄罗斯北方的巴伦支海与喀拉海今年 10 月海冰覆盖偏少，海水可能向大气释放更多热量与水气，改变附近的气压及大气环流，可能促使西伯利亚高压向西北扩展，形成异常强烈的乌拉山脉与北欧阻塞高压，进一步干扰北极涡旋。
 
-双方也同意加强合作，因应包含大规模个人资料外泄在内的网路攻击。
+不过，平流层变化通常不会立即影响地面天气，而是需要数周逐渐向下传递。因此，即使11月初出现重大扰动，这次异常可能影响 11 月底至 12 月的北半球天气，但强烈寒流是否南下，仍取决于后续大气环流变化。
 
-【日米防卫相会谈】拡大ASEAN国防相会议の机会に、フィリピン・セブで小泉防卫大臣とヘグセス米戦争长官が会谈を行いました。
+这次北极涡旋异常可能不只影响欧美。柯恩10月26日的分析指出，未来两周西伯利亚及东北亚部分地区可能出现低于平均的温度，西伯利亚局部地区甚至可能出现比平均气温低摄氏 30 度的极端低温。
 
-冒头の様子を动画でご覧ください🎥 https://t.co/f7DaUYS1hS
+真正值得注意的是 11 月底至 12 月，若西伯利亚冷空气大举南下，中国北部、韩国及日本可能面临寒潮、强风或降雪。台湾则可能因东北季风增强而出现明显降温，但是否形成强烈大陆冷气团或寒流，仍取决于冷空气南下路径及强度，现阶段无法确定。
 
-— 防卫省・自卫队 (@ModJapan_jp)October 28, 2026]]></description>
+此外，今年圣婴现象可能带来的暖冬倾向，也可能与北极涡旋扰动产生交互作用。气象专家强调，北极涡旋减弱不代表一定出现寒冬，仍须持续观察后续大气环流发展。
+
+过去科学家会利用西伯利亚积雪、北极振荡与平流层增温之间的关系预测冬季天气。然而，这些关系近十多年来似乎已经改变，部分过去有效的预测方法，现在准确度明显下降。科学家表示，即使今年是强圣婴年，但目前仍难判断哪一种气候力量将主导今年冬季，这场可能提前登场的极地异变，已让2026年底至2027年初的北半球天气充满变数。]]></description>
   </item>
   <item>
-    <title>创奕能源电巴市占稳居全台前三！董座黄振声喊力拚明年登录兴柜</title>
-    <link>https://finance.technews.tw/2026/10/28/electric-bus-market-share/</link>
-    <guid>https://finance.technews.tw/2026/10/28/electric-bus-market-share/</guid>
-    <pubDate>Wed, 28 Oct 2026 09:51:38 +0000</pubDate>
-    <description><![CDATA[全台前三大电动巴士供应商创奕能源预计 2027 年登录兴柜，并将在 2028 年转上市柜，董事长黄振声今日表示，看好全球车辆电动化发展趋势明确，旗下核心专利液冷电池系统技术，发展电动载具与一站式绿能服务，预计今年营收挑战 30 亿元大关，目标两年内海外营收占比提升至 50%。
+    <title>聚恒科技完成 10.5 亿元联贷，强化资金调度迎接工程需求</title>
+    <link>https://technews.tw/2026/10/29/juheng-technology-10-5b-loan-funds-engineering-demands/</link>
+    <guid>https://technews.tw/2026/10/29/juheng-technology-10-5b-loan-funds-engineering-demands/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:26:18 +0000</pubDate>
+    <description><![CDATA[再生能源业者聚恒科技于 10 月 28 日完成新台币 10.5 亿元联合授信案签约，由国泰世华银行统筹主办，资金主要用于偿还既有联贷余额、充实营运及购料周转金，以及支应应收保证款项等需求。
 
-黄振声表示，创奕能源多年致力打造串联电动巴士底盘与整车制造、智慧充电、云端车队管理及售后维运，逐步打造涵盖车辆导入、营运管理与能源服务的完整电动巴士生态链，总部与生产基地设于桃园，累计销售电动巴士逾 900 辆，稳居全台前三大地位。
+此次联贷案除国泰世华银行外，亦获华南银行、永丰银行、彰化银行及台湾企银等金融机构参与，最终完成 10.5 亿元授信额度筹组。聚恒科技表示，此次联贷有助于支应公司营运及工程相关资金需求，强化资金调度弹性。
 
-黄振声指出，创奕能源将核心电池技术与软硬体整合实力全面延伸至电池储能系统（BESS）、智慧充电与能源管理（EMS）领域，凭借自主研发的专利液冷电池系统与电池管理系统（BMS）整合优势，并已开发涵盖大型货柜式储能系统（5 MWh/6.25 MWh）及中小型商用整合式机柜的产品线。
+营运方面，聚恒科技今年上半年合并营收达 9.67 亿元，年增 178.53%，税后净利约 8,000 万元，年增 789.07%，每股盈余 1.16 元。成长动能主要来自大型 EPC 工程与开发案陆续认列营收，其中屏东水面型太阳能案场及台南学甲区升压站等主力专案，合计贡献上半年近七成营收。
 
-黄振声分享，目前能应用到太阳光电储能、尖峰负载管理、电动车充电站、需量反应及自动频率控制（AFC）等情境，并提供紧急备援电力方案，相关应用实绩包括台湾高铁板桥、南港及台南车站的不断电系统（UPS）、中华电信基地台备援电力，以及太阳光电储能案场等。
+展望后续营运，聚恒科技先前揭露，云林、台南等地三大主力专案规划合约金额合计超过 50 亿元，相关工程预计依实际进度于 2026 年第四季至 2027 年陆续认列营收。
 
-看好台湾运输电动化持续推进，根据交通部资最新资料统计，截至 2026 年 8 月，电动大客车普及率已达 41.6％，正朝年底 50％ 的目标迈进，黄振声指出，创奕能源将以台湾为核心，持续深化电池系统、车辆制造、智慧充电、车队管理及售后维运等布局，完善本土电动巴士生态链。
-
-海外市场方面，黄振声指出，目前业务版图顺利延伸至印度、印尼、马来西亚、帛琉与加勒比海等国家，今年前进杜拜布局，明年规划设立中美洲据点，进一步推进运输电动化与能源整合的双轴发展，未来将持续拓展中东与非洲市场，目标两年内海外营收占比从 5% 提升至 50%。]]></description>
+除了太阳光电工程，聚恒科技也持续拓展储能及维运业务，涵盖能源管理系统（EMS）、电力交易代操及长期营运维护（O&M）等服务。随著再生能源案场逐步进入营运阶段，公司持续扩大工程建置以外的能源服务业务，朝多元化营运模式发展。]]></description>
   </item>
   <item>
-    <title>台积电进驻带动投资生产，九州金融集团估熊本等三县获益近 14 兆日圆</title>
-    <link>https://finance.technews.tw/2026/10/28/tsmc-entry-drives-investment-production-kyushu-financial-group-estimates-kumamoto-3-prefectures-14-trillion-yen-gain/</link>
-    <guid>https://finance.technews.tw/2026/10/28/tsmc-entry-drives-investment-production-kyushu-financial-group-estimates-kumamoto-3-prefectures-14-trillion-yen-gain/</guid>
-    <pubDate>Wed, 28 Oct 2026 09:50:57 +0000</pubDate>
-    <description><![CDATA[台湾半导体大厂台积电等相关企业进驻日本九州的经济效益，九州金融集团宣布最新估算，熊本县、鹿儿岛县和宫崎县的总额高达 13 兆 8,400 多亿日圆（约新台币 2 兆 8,400 亿元）。
+    <title>不受欢迎是巨头的宿命，Netflix 创办人：想扭转形象就去治愈一些疾病</title>
+    <link>https://technews.tw/2026/10/29/reed-hastings-says-big-tech-should-get-used-to-being-hated/</link>
+    <guid>https://technews.tw/2026/10/29/reed-hastings-says-big-tech-should-get-used-to-being-hated/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:25:27 +0000</pubDate>
+    <description><![CDATA[Netflix 共同创办人、前共同执行长里德·哈斯廷斯（Reed Hastings）近日表示，矽谷科技高层应该习惯像大型制药、银行与航空业领袖一样，成为「影响深远但不受欢迎」的对象。他在接受《On with Kara Swisher》访问时指出，这类产业规模庞大、权力集中，对社会有重大影响，但也往往伴随广泛的民怨与质疑。
 
-日本放送协会（NHK）报导，九州金融集团27日于熊本县熊本市召开记者会，公布这项新的估算结果。进驻熊本县菊阳町的台积电与周边设有新工厂的索尼集团（Sony Group）等，相关企业投资与生产的经济效益，截至2031年十年间，熊本、鹿儿岛和宫崎三县总额高达13兆8,400多亿日圆。
+哈斯廷斯以制药业为例说明，药厂虽持续推出重要成果，包括 COVID 疫苗等「了不起」的产品，却仍因高药价等问题遭到大众厌恶。他直言，这些公司并没有因此赢得民众喜爱，科技业的处境其实也相似。
 
-熊本县为10兆7,200多亿日圆，鹿儿岛县是1兆6,200多亿日圆，宫崎县为1兆5,000多亿日圆。
+他认为，科技产业近年来逐渐失去民众好感，并不是异常现象，而是大型商业部门常见的结果；在他看来，公众对企业抱持怀疑，本来就是商业世界的常态。随著好莱坞近来接连推出聚焦科技圈争议时刻的作品，外界对科技巨头的观感也再度成为话题。
 
-九州金融集团强调，熊本县、鹿儿岛县与宫崎县必须跨境合作，以加强供应链。社长笠原庆久指出：「除了熊本县，如果不将供应网扩大到鹿儿岛县和宫崎县，就无法促进南九州整体均衡发展，我们必须牢记这点并努力实现此目标。」]]></description>
+不过，哈斯廷斯也提到，矽谷若想真正扭转形象，仍有一条可能的路径。他说，科技公司若能实际「治愈一些疾病」，将会大有帮助。]]></description>
   </item>
   <item>
-    <title>转化多 Agent 协作！网创资讯推 NAVI 3.0 终结企业导入 AI 三大焦虑</title>
-    <link>https://finance.technews.tw/2026/10/28/agent/</link>
-    <guid>https://finance.technews.tw/2026/10/28/agent/</guid>
-    <pubDate>Wed, 28 Oct 2026 09:27:42 +0000</pubDate>
-    <description><![CDATA[当 AI 技术从单一内容生成迈向多任务自主协作，如何将 AI 转化为实质生产力已是决策者推动企业转型的首要任务，为解决企业导入 AI 常面临的工具零散、流程断链、成本失控三大焦虑，Netron 网创资讯今日发表「NAVI 3.0 企业 AI 生产力平台」，助攻企业实现规模化的生产。
+    <title>问 Google AI 2020 美选结果被打太极，切换海外 VPN 与 Gemini 却秒获解答</title>
+    <link>https://technews.tw/2026/10/29/google-ai-evades-election-questions-controversy/</link>
+    <guid>https://technews.tw/2026/10/29/google-ai-evades-election-questions-controversy/</guid>
+    <pubDate>Thu, 29 Oct 2026 02:20:49 +0000</pubDate>
+    <description><![CDATA[Google 的 AI 搜寻功能近日被发现，在面对「谁赢得 2020 年美国总统大选」这类看似简单的历史事实时，并不总是给出直接的答案。根据多家媒体于 2026 年 10 月 28 日的测试，若在美国境内使用 Google 的 AI 搜寻模式提问，系统有时不会直接点名拜登（Joe Biden），而是建议使用者自行查阅联邦选举委员会与国家档案馆等官方资料。
 
-Netron 网创资讯总经理吴炳钧表示，观察多年企业服务实务发现，企业无法快速导入 AI 的关键在于三大瓶颈，包括企业机敏资料无法上云的资安两难，以及各部门自行采购多种外部工具缺乏集中控管，使商业机密散落各处，还有开发周期长整合困难的问题。
+测试结果显示，AI 搜寻模式对不同年份的大选回应并不一致。对于 2020 年与 2024 年的大选，系统曾以官方资料连结或间接说法来回避；询问 2012 年大选时，则将使用者引导至 The American Presidency Project 的资料中心。不过，对于 2000 年以来的其他多数总统选举，系统却能直接且正确地回答获胜者。
 
-针对企业决策者的真实痛点，吴炳钧指出，企业需要的从不是更多功能炫目却难以管理的 AI 科技玩具，而是一套能实质驱动营收成长、提高组织效能的企业 AI 生产力平台，因此 NAVI 3.0 能让 AI 真正落地贯穿各项业务流程，同时将数据主权与成本掌控权牢牢留存于企业内部。
+更引人注意的是，同样的问题若在 Google 的另一款 AI 产品 Gemini 上提问，却能获得直接的答案。媒体实测指出，Gemini 不仅能精确说出拜登胜选，还能提供详细的选举人票与普选票数据。相较之下，AI 搜寻模式的回避式回应引发了外界质疑：为何同属 Google 旗下的不同 AI 产品，对于同一项已被广泛确认的历史事实，会出现如此截然不同的表现。
 
-为回应企业决策者对效率提升与风险控管的双重标准，吴炳钧指出，NAVI 3.0 具备多 Agent 协作与视觉化 Workflow 的优势，包括丰富模板即插即用、自主分工与端到端排程、人机协同审核机制，能以自然语言提示词由 AI 自动生成专属 Agent 职能，或一句话画出 Workflow 流程草稿。
+报导也提到，这种审查机制的差异似乎与使用者的所在位置有关。当透过 VPN 将网路连线切换至台湾、俄罗斯、法国与加拿大等地进行测试时，AI 搜寻模式反而能对近期美国选举结果给出准确且直接的回答；而在反复追问后，部分情况下系统也会妥协，直接列出胜选者并引用 Google Civics 的资料。AI 搜寻模式对此现象的解释是，系统对近期且敏感的选举议题设有较严格的安全过滤，为了避免散播未经核实的资讯或错误讯息，会优先将使用者导向经认证的政府资料库。
 
-吴炳钧说明，NAVI 3.0 能弹性云地部署与企业级资安治理，像是自由选择云地部署架构，支援企业自有公有云、纯地端机房（On-Premise）或云地混合架构，以及数据隔离与智慧权限，还有三层配额预算护栏，管理者能在后台弹性设定各部门与同仁每月的 Token 及金额上限，达标自动卡关。
+目前，Google 尚未对外详细说明 AI 搜寻模式与 Gemini 为何会出现如此分歧的回应。根据外媒报导，Google 的一名代表仅初步表示，公司正在针对此问题进行调查。
 
-至于多模型智慧切换与多元系统整合，吴炳钧指出，NAVI 3.0 支援串接 30+ 主流大语言模型，内建 LLM Gateway，无缝调度 OpenAI、Anthropic Claude、Google Gemini 等主流模型，并有超过 80 企业跨平台服务整合，支援整合各类 ERP、CRM 等主流办公工具。
+Thanks for flagging — the Gemini app answers this question more fully but this isn’t the most helpful response on Search. We’re looking into this and working to address it.
 
-吴炳钧以制造业为例，产线人员只需在通讯频道回报异常，NAVI 3.0 即可自动比对知识库历史案例、建立工单并指派负责人，大幅节省三至五成的通报与分派作业时间，而以金融业为例，只需设定一次自动排程，平台便能每周自动汇整同业动态、法规更新与市场新闻来生成分析简报。]]></description>
+— News from Google (@newsfromgoogle.bsky.social)2026年10月29日 凌晨1:11
+
+（首图来源：Flickr/Emma KadenCC BY-SA 2.0）]]></description>
   </item>
 </channel>
 </rss>
