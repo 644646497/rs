@@ -4,7 +4,52 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Tue, 03 Nov 2026 13:22:41 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 22:44:33 GMT</lastBuildDate>
+  <item>
+    <title>Astronaut and Earth</title>
+    <link>https://www.nasa.gov/image-article/astronaut-and-earth/</link>
+    <guid>https://www.nasa.gov/image-article/astronaut-and-earth/</guid>
+    <pubDate>Tue, 03 Nov 2026 16:37:42 +0000</pubDate>
+    <description><![CDATA[CSA (Canadian Space Agency) astronaut Joshua Kutryk is pictured during the Oct. 29, 2026, spacewalk. The International Space Station was soaring 267 miles above the South Atlantic Ocean at the time of this photograph. Kutryk and NASA astronaut Anil Menon installed a new roll-out solar array on the space station and performed some get-ahead work for theirnext spacewalk, which will take place on Nov. 5, 2026. The pair will install the eighth and final roll-out solar array; together, the eight arrays will increase the station’s available power by up to 30%.]]></description>
+  </item>
+  <item>
+    <title>TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking</title>
+    <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/</guid>
+    <pubDate>Tue, 03 Nov 2026 15:35:14 +0000</pubDate>
+    <description><![CDATA[For more information, contact Joel W. Sills, Langley Research Center,joel.w.sills@nasa.gov.
+
+Chip resistors are widely used in NASA projects, yet cases of alumina substrate cracking during environmental testing are rare. Two instances of thick-film chip resistor cracking were observed during thermal cycling after vibration, with fractures occurring across the short axis due to bending. Failure analyses ruled out defective lots and fatigue, identifying board flexure, component orientation, excessive solder, and mounting stresses as contributing factors. The bulletin recommends careful component placement, finite element analysis, controlled solder fillet height, thorough inspection, and functional thermal shock testing to mitigate flexure-induced cracking risks in ceramic body components on printed circuit boards.
+
+BackgroundThe NESC noted historical lack of reported cases of chip resistors’ alumina substrate cracking during vibration and thermal cycling, although chip resistors are ubiquitous across NASA projects. Two instances of thick film chip resistor body cracking were observed during environmental acceptance testing on printed circuit board assemblies. Both failures occurred during thermal cycling after vibration testing, exhibiting intermittent open circuit failures at hot dwell temperatures that recovered at room temperature. Transverse fracture occurred at the mid-span of each resistor, running parallel to the terminations. The two resistors were installed in similar locations near the edge of the boards on two identical boards. Cracks in failed resistors were along the short axis of the resistor due to apparent bending of the resistors, Figure 1. Resistors showed no signs of pre-existing defects.
+
+Causal Relationships Initial theories pointed to vibration-induced damage of potentially defective resistors since both resistors came from the same production lot. However, the resistor lot not only meets the requirements of procurement specification MIL-PRF-55342 but additional tests were performed and did not reveal any direct evidence of a defective resistor lot. There was no evidence of an elevated risk of defective resistors within the production lot.
+
+Failure AnalysesIndependent failure analyses concluded that the cracked chip resistors were due to bending/tensile failures. There was no clear-cut root cause or visible defect identifying a crack initiation site. Both resistors exhibited a single, straight crack across the short axis (perpendicular to the long axis), indicating a bending/tensile failure without twisting.
+
+The damage signatures are not consistent with cyclic fatigue, likely ruling out fatigue failure during vibration. In addition, NESC independent optical and scanning electron microscopy (SEM), Figure 2, of both resistors did not identify any clear flaw locations for fatigue damage initiation and progression; therefore, the possibility of defective resistors as well as fatigue vibration as the root cause becomes unlikely.Cause ConclusionsNo direct root cause was identified, but contributing factors leading to increased design consideration needed for large footprint ceramic components located near the edges of a printed circuit board that can lead to stress cracks due to manufacturing or installation bow/twist of the printed circuit board include:Location of the relatively large resistors (case size 2512) next to the edge of the board with resistor’s long axis parallel to the card edge, increasing susceptibility to board flexure-induced damage.Excessive solder that extended to the top pads on the resistor terminations.Excessive bending moments or loads resulting from board bow/twist.Hard mounting the board to a rigid frame, which can store and amplify these bow/twist stresses.Suboptimal fastener torquing patterns, which may concentrate mounting stresses specifically at the resistor locations.Guidelines for Assembly of Ceramic Body Components to Printed Circuit BoardsThe following guidelines are to be considered given the recent experience.Component Orientation: Avoid orienting the long axis of large footprint ceramic components parallel to nearby printed circuit board edges to reduce susceptibility to global and local flexure damage.Finite Element Analysis: Perform sufficient Finite Element Analysis to demonstrate adequate stress and displacement margins on large components when they must be placed near the edge of the board.Solder Joint Fillet Limits: Keep solder off the top surface of terminations. Solder on top creates a rigid joint that transfers printed circuit board flexure directly into the ceramic increasing risk of flexure-induced cracking. Consult the individual parts manufacturers for guidance, as they may place specific limits on solder fillet height.Solder Joint Inspection: Inspect physical solder joints or review photographic images of the joints to verify that components have sufficient, but not excessive, solder fillets according to manufacturer limits.Functional Ther]]></description>
+  </item>
+  <item>
+    <title>NASA Astronaut, STEM Creator Connect with Students for STEM Day</title>
+    <link>https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/</link>
+    <guid>https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/</guid>
+    <pubDate>Tue, 03 Nov 2026 15:15:50 +0000</pubDate>
+    <description><![CDATA[Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, engineering, and exploration into classrooms nationwide.
+
+The Earth-to-space call will begin at 11 a.m. EST on Wednesday, Nov. 4, and will be available to watch on the agency’s flagshipYouTubewith additional engagement across Learn With NASA channels.
+
+From aboard the space station, Menon will answer questions from students about living and working in microgravity, the path to becoming an astronaut, and the technologies that make human spaceflight possible. Rober, joining from California, will share how curiosity, creativity, and hands‑on problem‑solving shaped his career from NASA engineer to STEM creator.
+
+During the downlink, students will see the space station in real time as Menon demonstrates how everyday activities, from eating to experimenting, change in microgravity. The downlink supports NASA’s broader effort to connect students with authentic STEM experiences to help build technical skills and introduce aerospace careers to students. National STEM Day is an opportunity to recognize the power of hands‑on learning and to inspire the next generation of scientists, technicians, engineers, and innovators who will carry NASA’s exploration goals forward.
+
+A new collaboration to expand STEM access
+
+This downlink also marks the launch of a new collaboration between NASA and the ClassCrunchLabs Foundation. Together, the organizations will work to broaden access to STEM learning experiences for students across the country by aligning NASA’s mission‑driven educational resources with CrunchLabs’ hands‑on engineering content. Through shared programming and outreach, the partnership aims to inspire more learners to engage with science, engineering, and problem‑solving skills that prepare them for future opportunities in the aerospace sector and beyond.
+
+Educators and families are encouraged to tune in and celebrate National STEM Day with an inspiring conversation between a NASA astronaut in orbit and a STEM educator on Earth.
+
+For more information on NASA in-flight calls, visit:]]></description>
+  </item>
   <item>
     <title>APOD: 2026 November 3 – Comet PanSTARRs and Rainbow Meteor</title>
     <link>https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/</link>
@@ -12,7 +57,7 @@
     <pubDate>Tue, 03 Nov 2026 05:05:00 +0000</pubDate>
     <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-Explanation:Did this meteor come from that comet? Probably not. Although manymeteorsdo originate from comets, there arethousandsofcometsthat have visited the innerSolar Systemrecently, and matching meteors to them can be tricky. And to be clear, thepictured cometis far behind thestreaking meteor. CometC/2025 R3 (PanSTARRS)was captured fromHautacam,Francein April when thegiant space icebergsported impressiveion(blue) and dusttails. Sand-sized rocky debris that entersEarth’s atmospheretypically appears asmeteors, while thecolorful foreground streakhere may indicate a complicated composition. This month threenotable meteor showerswill reach their peaks. Over the next few days, the SouthernTauridswill be reaching their apex, while the NorthernTauridswill top out about a week later. Both originate fromComet 2P/Encke. November is most famous for theLeonids Meteor Shower, though, which originates fromComet 55P/Tempel-Tuttleand willreach its crescendoin about two weeks.Tomorrow's picture:open space]]></description>
+Explanation:Did this meteor come from that comet? Probably not. Although manymeteorsdo originate from comets, there arethousandsofcometsthat have visited the innerSolar Systemrecently, and matching meteors to them can be tricky. And to be clear, thepictured cometis far behind thestreaking meteor. CometC/2025 R3 (PanSTARRS)was captured fromHautacam,Francein April when thegiant space icebergsported impressiveion(blue) and dusttails. Sand-sized rocky debris that entersEarth’s atmospheretypically appears asmeteors, while thecolorful foreground streakhere may indicate a complicated composition. This month threenotable meteor showerswill reach their peaks. Over the next few days, the SouthernTauridswill be reaching their apex, while the NorthernTauridswill top out about a week later. Both originate fromComet 2P/Encke. November is most famous for theLeonids Meteor Shower, though, which originates fromComet 55P/Tempel-Tuttleand willreach its crescendoin about two weeks.Tomorrow's picture:a hidden gem]]></description>
   </item>
   <item>
     <title>The Pacific’s Busy Storm Season</title>
@@ -193,85 +238,6 @@ Josh Finch / Jimi RussellHeadquarters, Washington202-358-1100joshua.a.finch@nasa
 Steven SiceloffKennedy Space Center, Fla.321-876-2468steven.p.siceloff@nasa.gov
 
 Sandra Jones / Leah CheshierJohnson Space Center, Houston281-483-5111sandra.p.jones@nasa.gov/leah.d.cheshier@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies</title>
-    <link>https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/</link>
-    <guid>https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/</guid>
-    <pubDate>Mon, 02 Nov 2026 15:00:39 +0000</pubDate>
-    <description><![CDATA[NASA’s Hubble Space Telescope just revealed a mystery in our cosmic neighborhood. In apaperpublished Monday in The Astrophysical Journal, researchers using Hubble studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — and found that much of the oxygen they expected to see is missing.
-
-Simulations predict that significantly more oxygen, a tracer of a wider set of heavy elements, should reside in these galaxies. So where did it go?
-
-“Oxygen is produced by stars, which are inside of galaxies. We know that the oxygen had to be inside of the galaxies at some point in the past, so the oxygen must have been ejected,” said co-investigator Grace Telford, assistant professor in the Department of Physics and Astronomy at the University of Utah. “And to do that, you need energy from massive stars and supernova explosions to drive material out of the host galaxies and into the space between galaxies.”
-
-Galactic winds unleashed by supernovae are apparently more effective at removing oxygen from low-mass galaxies than current models predict, according to the new study. The findings show that dwarf galaxies can hold onto only a small fraction of the oxygen made by stars.
-
-In the Galaxies Losing Oxygen via Winds (GLOW) project, funded by NASA and the National Science Foundation, scientists traced the oxygen to understand how it is distributed inside stars, in the gas between stars, and in the space between galaxies. But, of all the elements in the galaxies, why study oxygen?
-
-Oxygen, the most abundant element after hydrogen and helium, is relatively easy to detect and measure, and its production is well understood — making it a reliable indicator of how chemical elements are distributed in a galaxy.
-
-“So, it's really for practical reasons that we've chosen oxygen,” said Kristen Wingfield McQuinn, GLOW principal investigator and mission head of the Science Operations Center for NASA’s newly launched, panoramicNancy Grace Roman Space Telescopeat the Space Telescope Science Institute in Baltimore, Maryland. She also is an associate professor at Rutgers University in New Brunswick, New Jersey.
-
-“Oxygen is one of the primary elements formed by stars. Being able to trace how much oxygen gets made, and then how much is distributed inside and outside of galaxies, helps us understand galaxy evolution,” said McQuinn. “It also helps us learn where and how much galaxies are enriching the space between galaxies, called the intergalactic medium.”
-
-The study used archival optical imaging data fromHubbleto resolve stellar populations and determine star-formation histories and compositions. Along with data from NASA’s retiredSpitzer Space Telescopeas well as the ground-based Very Large Array and Australian Telescope Compact Array, the researchers analyzed 37 nearby dwarf galaxies to trace oxygen atoms produced by stars.
-
-The team wanted to understand how oxygen is distributed across the stars, gas, and dust in the galaxies. These dwarf galaxies were selected because their masses fall in the range where simulations and theory predict that an increasing amount of their oxygen will be expelled from the galaxies via supernovae explosions. These 37 galaxies also are all close enough for Hubble to resolve their individual stars. That's not true for the vast majority of known dwarf galaxies, which are too far away for this kind of study.
-
-Although astronomers already suspected that galaxies expel a large fraction of oxygen and other heavy elements, an open question has been where these metals end up. Aprevious studyfrom 2014 addressed this question for Milky Way-like, star-forming galaxies, finding that these galaxies lost a large fraction of their oxygen, some of which is found in the diffuse haloes of gas surrounding galaxies outside their disks, called the circumgalactic medium.
-
-In the GLOW study, McQuinn and her team extended this research to low-mass galaxies across a wide range of masses and environments. While previous teams have measured oxygen in the circumgalactic medium of dwarf galaxies, it is still unclear if most of the missing oxygen is in this region, or if it has been completely ejected from the galaxy’s surroundings.
-
-In the future, McQuinn hopes to study even lower-mass galaxies in the nearby universe. She has an approved program to use the Roman Space Telescope to find these faint and tiny systems across a wide swath of sky. Once she’s identified these galaxies, McQuinn hopes to use Hubble and NASA’sJames Webb Space Telescopeto get deeper observations of their stars. This would allow her to reconstruct the galaxies’ histories to understand how they formed stars across cosmic time.
-
-Telford’s future work involves using Hubble to zoom in on the individual, massive stars that produce oxygen and eject it from their host galaxies. She’s using some of the nearby GLOW targets to get very detailed observations to characterize how the massive stars are different in these small gal]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 November 2 – A Long Cloud on Mars</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/</guid>
-    <pubDate>Mon, 02 Nov 2026 05:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:What’s causing this unusually long cloud onMars? Known as theArsia Mons Elongated Cloud(AMEC) and first recorded by NASA’sViking Orbiter 2in 1977, thestrange cloudhas been imaged in greater detail more recently byESA’s roboticMars Expressspacecraft. Thefeaturedimageis from 2018. Thecloud formsonly duringspringand summerseasonsand then only during morning hours. Made of water-ice, the most familiar process that causescloud crystalstoform around bits of dustwould fail due to the thinness and lack of dust high in theMartian atmosphere.Leading speculationholds that dust is not involved. After the cloud forms near the volcanoArsia Mons, wind blows the clouddownstream— creating a tail that can extend over 1500 kilometers. Efforts to better understandAMECs will continue, an understanding that may bolster amore complete viewofcloud formationonEarth.Tomorrow's picture:eyeing a cat]]></description>
-  </item>
-  <item>
-    <title>Pennsylvania’s Grand Canyon</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/</guid>
-    <pubDate>Mon, 02 Nov 2026 05:01:00 +0000</pubDate>
-    <description><![CDATA[Amid the warm hues of fall foliage, Pine Creek Gorge forms a deep scar in the Allegheny Plateau.
-
-North-central Pennsylvania is canyon country with an Appalachian flair. Pine Creek Gorge reaches depths of about1,500 feet(460 meters) along its gently curving path through the forests of theAllegheny Plateau. Instead of thesteep rock wallscharacteristic of canyons in the desert Southwest, lushly vegetated slopes outline the dramatic topography. In autumn, greens give way to a palette of reds and goldssought outby leaf peepers.
-
-Nicknamed the “Grand Canyon of Pennsylvania,” the gorge runs for some 45 miles (72 kilometers) from Ansonia south to Pine Creek’s confluence with the West Branch Susquehanna River, reaching its greatest depths around Waterville. TheOLI(Operational Land Imager) on the NASA-USGSLandsat 8satellite captured this image of Pine Creek Gorge on October 25, 2026, when colorful fall foliage was on display.
-
-Glaciers played a key role in the canyon’s formation, though ice itself did not carve it. Pine Creek onceflowed to the north, opposite of what it does today. As glaciers advanced into the region from the northeast during the last ice age, they dammed the river and filled the valley with lakes. Those lakes eventually overflowed, sending water streaming to the south.
-
-When the ice receded, Pine Creek was already becoming entrenched in its southward course. Rocks and sand left behind by the melting ice further prevented the water from turning back north. Glacial meltwater continued to rush through the valley, deepening and shaping it into its current form.
-
-Today, the hillsides around the gorge are blanketed innorthern hardwoodand mixed oak forest, sprinkled with hemlock and white pine. In autumn, the deciduous trees impartred and gold huesto the landscape akin to the rock of the famousArizona canyon.
-
-This seasonal change around Pine Creek Gorge has not always been so visually pleasing. With increasing demand for wood products in early 19th-century America, loggers found their way to the area’s stately trees. At the time, white pine and hemlockseveral feet in diameterand towering hardwoods populated the slopes around Pine Creek Gorge. The pines were especially valued for making ship masts, and hemlock bark was used to tan leather. Before railroads, logs were floated down Pine Creek to the Susquehanna in massive drives. By the early 20th century, decades of logging left the land so barren that the area earned the moniker “Pennsylvania Desert.”
-
-The forest has since returned, and with it,wild inhabitantssuch as black bears, coyotes, bobcats, timber rattlesnakes, and a diversity of songbirds. In 1968, an area of 30,000 acres (12,000 hectares) was designated aNational Natural Landmark. Visitors can experience the gorge’s natural splendor at many points along its path, including from multiple state parks and thePine Creek Rail Trail.
-
-NASA Earth Observatory images by Michala Garrison, using Landsat data from theU.S. Geological Survey.Photo byfishhawk, via Flickr. Story by Lindsey Doermann.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-One narrowing icefall remains the linchpin for the Alpine glacier—and it may not be long for this world.
-
-The hills and basins of Seattle, Washington, have been sculpted by glaciers and modified by humans.
-
-These glacial landforms jut into northern Lake Huron, surrounded by sheltered channels and coves frequented by fish and small watercraft.
-
-Subscribe to the Earth Observatory and get the Earth in your inbox.
-
-NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
-
-Open access to NASA’s archive of Earth science data]]></description>
   </item>
 </channel>
 </rss>
