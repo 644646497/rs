@@ -4,7 +4,7 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 03 Nov 2026 15:31:46 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 21:19:07 GMT</lastBuildDate>
   <item>
     <title>永丰银爆集体盗转，金管会：共影响 419 人、转出逾 4 千万</title>
     <link>https://infosecu.technews.tw/2026/11/03/sinopac-bank-mass-fraudulent-transfers-fsc-419-affected-40-million-stolen/</link>
@@ -54,17 +54,17 @@
     <link>https://finance.technews.tw/2026/11/03/marvell-acquires-lumentum-optical-electrical-integration-challenge-broadcom-leadership/</link>
     <guid>https://finance.technews.tw/2026/11/03/marvell-acquires-lumentum-optical-electrical-integration-challenge-broadcom-leadership/</guid>
     <pubDate>Tue, 03 Nov 2026 09:50:43 +0000</pubDate>
-    <description><![CDATA[Marvell 正式宣布将收购光通讯大厂 Lumentum，两家公司的董事会已于 11 月 2 日通过这笔交易，但此案仍待双方股东及各国主管机关核准。TrendForce 表示，若并购案成立，除了有助 Marvell 补足光学业务版图，与 Lumentum 携手提出更佳的次世代光互连技术服务，目前光通讯产业由 Broadcom 强势领导的局面也将出现变化。
+    <description><![CDATA[Marvell 正式宣布将收购光通讯大厂 Lumentum，两家公司的董事会已于 11 月 2 日通过这笔交易，但此案仍待双方股东及各国主管机关核准。TrendForce 表示，若并购案成立，除了有助 Marvell 补足光学业务版图，与 Lumentum 携手提出更佳的次世代光互连技术服务，目前光通讯产业由博通强势领导的局面也将出现变化。
 
-根据TrendForce估算，2026年Marvell、Lumentum的有线通讯半导体市场（Semiconductor wired communication）营收市占分居第四、第八名，合并之后，两家在该应用的市占率将上升至6.4%左右，仅次于NVIDIA和Broadcom。
+TrendForce估算，2026年Marvell、Lumentum的有线通讯半导体市场（Semiconductor wired communication）营收市占分居第四、第八名，合并之后，两家在该应用的市占率将上升至6.4%左右，仅次于NVIDIA和博通。
 
-TrendForce分析，在AI光通讯与互连领域中，Broadcom拥有Tomahawk Switch交换晶片、DSP（数位讯号处理器）等半导体晶片以及EML与CW Laser光源等元件，是同时具备「光」与「电」能力的领导厂商。Marvell则以「电」为主、Lumentum著重「光」，两者合并后将同时具有光电元件与半导体IC能力，打破Broadcom的领导地位。
+TrendForce分析，AI光通讯与互连领域，博通拥有Tomahawk Switch交换晶片、DSP（数位讯号处理器）等半导体晶片与EML与CW Laser光源等元件，是同时具备「光」与「电」的领导厂商。Marvell则以「电」为主、Lumentum著重「光」，两者合并后将同时有光电元件与半导体IC，打破博通领导地位。
 
-TrendForce表示，在现行的光通讯关键零组件当中，Lumentum为重要雷射光源供应商之一，Marvell则供应DSP与相关光通讯应用晶片。合并案若能通过，对NVIDIA与其他云端服务大厂（CSP）而言，则有机会降低对Broadcom方案的依赖，并获得更多的完整电光互连方案，以维持采购弹性。
+TrendForce表示，现行光通讯关键零组件，Lumentum为重要雷射光源供应商之一，Marvell则供应DSP与相关光通讯应用晶片。合并案若能通过，对NVIDIA与其他云端服务大厂（CSP）而言，则有机会降低博通方案依赖度，并获得更多的完整电光互连方案，以维持采购弹性。
 
-从技术的角度观察，该合并案亦可视作Marvell为CPO/NPO世代的Scale-in 与 Scale-up光互连提前布局。Marvell补上自身最欠缺的InP雷射光源后，可形成「一电一光」的光引擎整合能力。合并后可望将Marvell的先进CMOS晶片设计、高速交换晶片、电光互连、矽光子与客制化XPU能力，结合Lumentum的InP高效能雷射、光收发模组、光路交换（OCS），提供涵盖晶片、光引擎、光源与模组的整合方案，透过共同设计与预先验证，缩短客户开发及导入时程。
+从技术的角度观察，合并案亦可视作Marvell为CPO / NPO世代的Scale-in 与 Scale-up光互连提前布局。Marvell补上自身最欠缺的InP雷射光源后，可形成「一电一光」的光引擎整合。合并后可望将Marvell的先进CMOS晶片设计、高速交换晶片、电光互连、矽光子与客制化XPU，结合Lumentum的InP高效能雷射、光收发模组、光路交换（OCS），提供涵盖晶片、光引擎、光源与模组的整合方案，以共同设计与预先验证，缩短客户开发及导入时程。
 
-然而，此案尚待美国、中国监理机关批准。TrendForce观察，中国光模组厂是全球800G／1.6T光模组的主要供应商，高度依赖Marvell的DSP以及Lumentum等业者提供的EML／CW雷射光源。由于Lumentum旗下也有光模组厂Cloud Light，合并通过后若限制竞争对手取得关键光源、搭售DSP与雷射，或优先供应旗下公司，将直接削弱中国模组厂的竞争力。因此，合并案是否会影响中国光模组厂商的生存空间，估计将会是中国政府的审查重点。]]></description>
+然而，此案尚待美国、中国监理机关批准。TrendForce观察，中国光模组厂是全球800G / 1.6T光模组的主要供应商，高度依赖Marvell的DSP以及Lumentum等业者提供的EML / CW雷射光源。由于Lumentum旗下也有光模组厂Cloud Light，合并通过后若限制竞争对手取得关键光源、搭售DSP与雷射，或优先供应旗下公司，将直接削弱中国模组厂的竞争力。因此，合并案是否会影响中国光模组厂商的生存空间，估计将会是中国政府的审查重点。]]></description>
   </item>
   <item>
     <title>NASA「雨燕」天文台本周坠毁，专家：百公斤残骸将砸落地面</title>
