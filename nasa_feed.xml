@@ -4,7 +4,185 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Mon, 02 Nov 2026 14:23:09 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 00:14:55 GMT</lastBuildDate>
+  <item>
+    <title>Happy 65 Years: NASA’s Johnson Space Center Then and Now</title>
+    <link>https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/</guid>
+    <pubDate>Mon, 02 Nov 2026 21:35:59 +0000</pubDate>
+    <description><![CDATA[Sixty-five years ago, a bold vision took root in Houston: a NASA center dedicated to human spaceflight. Since its founding, NASA’s Johnson Space Center has helped lead the nation’s human spaceflight program, supporting missions from Project Mercury through Artemis.
+
+Today, Johnson serves as NASA’s Center of Excellence for Human Spaceflight, and its workforce is helping to usher in a Golden Age of innovation and discovery. Johnson is home to America’s astronaut corps, the Mission Control Center, and the teams behind some of humanity’s greatest achievements in space. As NASA’s human spaceflight programs evolve, Johnson remains at the forefront of these efforts.
+
+Houston is home to NASA’s Low Earth Orbit Program, comprising International Space Station operations and commercial partnerships and destinations in low Earth orbit. For missions beyond low Earth orbit, Johnson houses theMoon Base Program⁠andOrion Program⁠, while NASA’sHuman Health and Performance Directorate⁠andHuman Research Program⁠ work to protect crew health and performance as missions extend farther from Earth.
+
+On May 25, 1961, the center’s story began when PresidentJohn F. Kennedygave a speech before a joint session of Congress, committing the nation to achieve the goal of landing a man on the Moon and returning him safely to Earth before the end of the decade.
+
+NASA’s Space Task Group, in charge of America’s human spaceflight program, was already working on Project Mercury to put astronauts into Earth orbit, but with the additional task of a human lunar landing, it soon outgrew its facilities at NASA’s Langley Research Center in Hampton, Virginia. The agency decided it needed a dedicated field center for human spaceflight and on Sept. 19, 1961, after evaluating multiple sites around the country, NASA announced that thenew Manned Spacecraft Centerwould be built near Houston, Texas. The agency established the center on Nov. 1, 1961, and construction began in 1962. In 1973, itofficially became NASA’s Lyndon B. Johnson Space Centerin honor of President Johnson for his ardent support of America’s space program from its foundation.
+
+The Manned Spacecraft Centerofficially openedon Nov. 1, 1961, and while construction continued on the Clear Lake site, employeesworked in 13 leased buildingsin southeast Houston. The design phase took six months and construction of the first buildings took 18 months, with the first employees moving onto the new site in late 1963.
+
+Over the decades, the number of buildings grew, and continues to grow, to meet the demands of new spaceflight programs.
+
+Construction of the nine-storyProject Management Buildingbegan on Dec. 5, 1962, and concluded on March 15, 1964.Robert Gilruth, the center’s first director, moved into his office on March 5, 1964, on the top floor of the edifice then known as Building 2. The building swapped numbers with the Public Affairs Building, originally known as Building 1, on June 30, 1974.
+
+The use ofneutral buoyancyfor spacewalk training began with the Gemini XII mission in 1966. In 1967, workers installed an above-ground circular pool called the Water Immersion Facility for astronaut training that supported Apollo and pre-Shuttle spacewalk training.. To accommodate the larger size of the space shuttle payload bay, spacewalk training moved to the Weightless Environment Training Facility iin 1980. Astronauts used it for nearly all shuttle spacewalk training until 1997, when the Neutral Buoyancy Laboratory in the Sonny Carter Training Center entered operations for both shuttle and space station training, as well as testing future space suits and lunar surface activities.
+
+To prevent any back contamination from any possible lunar microorganisms, NASA designed theLunar Receiving Laboratoryin Building 37. Construction began in August 1966, with the first employees moving into their offices in June 1967. The astronauts from Apollo 11, 12, and 14 completed their three-week postflight quarantine in the lab, and scientists in the various laboratories studied the lunar samples all the Apollo missions returned.
+
+Following the Apollo program, Life Sciences division and laboratories moved into the building until they relocated in 2017. Following demolition of Building 37, the Lunar Receiving Park, dedicated in 2026, honors the history of the laboratory.
+
+Construction ofBuilding 9began in December 1965 and finished in March 1967. The building initially housed the Technical Services Facility. In April 1969, workers converted a portion of the building to include a mock lunar surface scene, complete with a mockup of a Lunar Module, used by Apollo 11 astronauts. To support the space shuttle program, workers completed an addition that housed the Mockup and Integration Laboratory in September 1974. Astronauts for all 135 shuttle missions used the mockups for training. An extension on the northwest side of thebuilding begun in 1986 and completed in 1988. It received mockups of Space Station Freedom and later of the Int]]></description>
+  </item>
+  <item>
+    <title>TB 26-09 Measured Hammer-Tap Inputs</title>
+    <link>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/</link>
+    <guid>https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/</guid>
+    <pubDate>Mon, 02 Nov 2026 20:47:41 +0000</pubDate>
+    <description><![CDATA[For more information, contact Joel W. Sills, Langley Research Center,joel.w.sills@nasa.gov.
+
+An instrumented hammer test does not require an idealized single half-sine waveform. When the complete force and response are measured accurately, crest ripples and separated contacts remain known inputs. Force shape changes excitation, but does not inherently invalidate the record. Adequacy depends on measurement accuracy, bandwidth, signal-to-noise ratio, and coverage of the test objective.
+
+Background: What the Hammer Actually MeasuresHammer tests support modal analysis [2–4] and can precede pyroshock testing [6]. Figure 1 compares a half-sine, maintained-contact rippling, and separated contacts. During a zero-force interval, the structure continues to vibrate; re-contact acts on that vibration.
+
+If an exact model and test article receive the same force and initial conditions, uniqueness gives identical responses for each bounded measured history. An approximate model can show different errors as inputs excite different frequencies, amplitudes, or nonlinear states. See [1] for the exact-model derivation.
+
+Analysis: A Half-Sine Is Broadband, but Not FlatFigure 2 shows that a finite half-sine is broadband but contains spectral zeros at f/fo = 3, 5, 7, …, with fo = 1/(2T) for pulse duration T. Its appearance alone cannot establish adequate excitation.
+
+Analysis: Spectral Content Is Determined by the Measured Force HistoryFigure 3 normalizes each spectrum to its own DC value. Crest rippling adds content and can fill half-sine notches. Timing between separated contacts creates deterministic interference. For adequacy, inspect the unnormalized measured spectrum and response signal-to-noise ratio.
+
+Recommended Practice: Evaluate Test Adequacy Against the Intended Objective• Measure the complete applied force with adequate bandwidth, calibration, dynamic range, and time synchronization.• Verify that the response measurements have adequate bandwidth and signal-to-noise ratio and are not clipped or saturated.• Confirm that the excitation covers the frequency, amplitude, and nonlinear-response ranges required by the intended test objective.• Reject or repeat a test only for an identified measurement, excitation, or coverage deficiency.
+
+ConclusionHalf-sine appearance neither establishes validity nor guarantees adequacy. Judge each hammer test by its purpose and by accurate, complete force and response measurements over the required range.
+
+References1. A. Majed, J. Sills, E. Henkel, V. Babuska, S. Yunis, D. Hamilton, J. Akers, and T. Kinney, Validity and Predictability of Measured Hammer Tap Inputs: Linear and Nonlinear Structural Systems, September 2026.2. D. J. Ewins, Modal Testing: Theory, Practice and Application, 2nd ed., 2000.3. ISO 7626-5:2019, Mechanical Vibration and Shock—Experimental Determination of Mechanical Mobility—Part 54. K. G. McConnell and P. S. Varoto, Vibration Testing: Theory and Practice, 2nd ed., 2008.5. A. H. Nayfeh and D. T. Mook, Nonlinear Oscillations, 1979. 6. NASA-STD-7003, Pyroshock Test Criteria, 1999]]></description>
+  </item>
+  <item>
+    <title>NASA’s CHAPEA Crew “Returns” to Earth</title>
+    <link>https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/</link>
+    <guid>https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/</guid>
+    <pubDate>Mon, 02 Nov 2026 18:50:42 +0000</pubDate>
+    <description><![CDATA[The four-memberCrew Health and Performance Exploration Analog(CHAPEA) crew poses outside for the first time in more than a year following the end of their simulated Mars journey on Oct. 31, 2026. Crew members Matthew Montgomery (left), James Spicer (middle left), Ross Elder (middle right), and Ellen Ellis (right) spent more than a year testing systems, maintaining crops, managing limited resources and communication delays, conducting extravehicular activities and more in efforts to help NASA better understand how crews adapt to long-duration stays. Insights from their experiences will help NASA design its future Moon Base and plan for missions on Mars.]]></description>
+  </item>
+  <item>
+    <title>What’s Up: November 2026 Skywatching Tips from NASA</title>
+    <link>https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/</link>
+    <guid>https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/</guid>
+    <pubDate>Mon, 02 Nov 2026 18:19:58 +0000</pubDate>
+    <description><![CDATA[Catch Taurid and Leonid meteors, spot Mars near Jupiter, celebrate Voyager 1's light-day milestone, and watch November's supermoon.
+
+A month of meteor showers ... a close pairing of Mars and Jupiter ... and a supermoon!
+
+November offers a buffet of opportunities to see a meteor streak across the sky!
+
+The Southern Taurids peak around November 5th, followed by the Northern Taurids around November 12th.
+
+Those names refer to the two areas in the constellation Taurus, where the meteors appear to originate.
+
+Each Taurid shower produces only a handful of meteors per hour—around five, under ideal conditions—but an occasional bright fireball can make the wait worthwhile.
+
+Next up are the Leonids. For the best viewing times, try the early morning hours of November 17th and 18th, after the Moon sets. Under ideal conditions, the shower could produce around 15 meteors per hour, though most viewers will see fewer.
+
+To level up your viewing experience, you will want to find a dark location, give your eyes about half an hour to adjust, and take in as much sky as you can.
+
+Around mid-month, there’s another reason to head outside early. On the mornings of November 15th and 16th, look southeast before sunrise to see Mars and Jupiter close together.
+
+They’ll appear about 1.2 degrees apart—a little more than the width of two full Moons side by side. Jupiter is the brighter point of light, with reddish Mars nearby.
+
+Both planets are easy to see with the unaided eye. They’re still far apart in space, but from Earth, they appear almost side by side.
+
+Watch over several mornings to see them draw closer together - and then go their separate ways.
+
+This month, NASA’s Voyager 1 spacecraft will reach a historic milestone, becoming the first human-made object to travel one light-day from Earth.
+
+That means a signal traveling at the speed of light takes 24 hours to reach the spacecraft - and another 24 hours for us to hear back from it!
+
+If you want to imagine where Voyager 1 is currently traveling, look in the direction of the constellation Ophiuchus, the Serpent Bearer.
+
+And on November 17th, join us in celebrating this milestone by participating in our Shine Bright for Voyager’s Light-Day activation. Learn more atnasa.gov/voyager.
+
+On November 24th, the evening sky will be lit by a supermoon.
+
+Because the Moon’s orbit is slightly oval, its distance from Earth changes. When it’s closer, the full Moon appears larger and brighter than average - though the difference can be subtle.
+
+This kicks off a series of three consecutive supermoons in November, December, and January.
+
+Look east around sunset to watch it rise. It may look even bigger near the horizon, but that’s the Moon illusion —a common effect with any full Moon.
+
+Here are the phases of the Moon for November:
+
+You can stay up to date on all of NASA's missions exploring the solar system and beyond atNASA Science.
+
+I'm Raquel Villanueva from NASA's Jet Propulsion Laboratory and that's What's Up this month.
+
+The Night Sky Network is a nationwide coalition of amateur astronomy clubs bringing the science, technology, and inspiration of NASA's missions to the general public.
+
+Expert skywatching tips and more from our experts.
+
+The Moon makes Earth more livable, sets the rhythm of ocean tides, and keeps a record of our solar system's…]]></description>
+  </item>
+  <item>
+    <title>NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch</title>
+    <link>https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/</guid>
+    <pubDate>Mon, 02 Nov 2026 17:33:22 +0000</pubDate>
+    <description><![CDATA[Media accreditation is open for the next launch to deliver NASA science investigations, supplies, and equipment to the International Space Station. A Northrop Grumman Cygnus XL spacecraft will launch in November to the orbital laboratory on a SpaceX Falcon 9 rocket for NASA.
+
+The mission is known as NASA’s Northrop Grumman Commercial Resupply Services 25, or NASA’s Northrop Grumman CRS-25. Liftoff is targeted for no earlier than 10:49 a.m. EST, Sunday, Nov. 29, from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida.
+
+Following launch, astronauts aboard the space station will use the Canadarm2 robotic arm to capture Cygnus and install the spacecraft to the Unity module’s Earth-facing port for cargo unloading. The spacecraft will remain at the space station until May 2027. This is the company’s 25th spacecraft built to deliver supplies to the International Space Station under contract with NASA.
+
+Credentialing to cover prelaunch and launch activities is open to U.S. media. The application deadline for U.S. citizens is 11:59 p.m. EST, Thursday, Nov. 12. All accreditation requests must be submitted online at:
+
+Credentialed media will receive a confirmation email following approval. NASA’smedia accreditation policyis available online. For questions about accreditation, or to request special logistical support, email:ksc-media-accreditat@mail.nasa.gov.For other questions, please contact NASA’s Kennedy Space Center newsroom at: 321-867-2468.
+
+In addition to food, supplies, and equipment for the crew, Cygnus will deliver several new experiments, including hardware to manufacture tiny,DNA-inspired particlesin space that could improve drug delivery for cancer and osteoarthritis, as well as a study that couldguide cancer treatmentsby predicting whether a patient’s cancer is likely to spread to other parts of the body. Cygnus also will carryhuman muscle cellsand medications to test therapeutics for muscle loss associated with spaceflight and aging on Earth, and acompact radiation sensordesigned to improve crew safety on future missions.
+
+Each resupply mission to the station delivers scientific investigations in the areas of biology and biotechnology, Earth and space science, physical sciences, and technology development and demonstrations. Cargo resupply from U.S. companies ensures a national capability to deliver scientific research to the space station, increasing NASA’s ability to conduct new investigations aboard humanity’s laboratory in space.
+
+For 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs that are not possible on Earth. The space station is an important testbed for NASA to understand and overcome the challenges of long-duration spaceflight and to expand commercial opportunities in low Earth orbit. As commercial companies concentrate on providing human space transportation services and destinations as part of a stronglow Earth orbit economy, NASA is focusing its resources on deep space missions to the Moon as part of the Artemis and Moon Base programs to build on our foundation for the first astronaut missions to Mars.
+
+Learn more about International Space Station research and operations at:
+
+Josh Finch / Jimi RussellHeadquarters, Washington202-358-1100joshua.a.finch@nasa.gov/james.j.russell@nasa.gov
+
+Steven SiceloffKennedy Space Center, Fla.321-876-2468steven.p.siceloff@nasa.gov
+
+Sandra Jones / Leah CheshierJohnson Space Center, Houston281-483-5111sandra.p.jones@nasa.gov/leah.d.cheshier@nasa.gov]]></description>
+  </item>
+  <item>
+    <title>NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies</title>
+    <link>https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/</link>
+    <guid>https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/</guid>
+    <pubDate>Mon, 02 Nov 2026 15:00:39 +0000</pubDate>
+    <description><![CDATA[NASA’s Hubble Space Telescope just revealed a mystery in our cosmic neighborhood. In apaperpublished Monday in The Astrophysical Journal, researchers using Hubble studied 37 nearby dwarf galaxies — small galaxies containing a few thousand to hundreds of millions of stars — and found that much of the oxygen they expected to see is missing.
+
+Simulations predict that significantly more oxygen, a tracer of a wider set of heavy elements, should reside in these galaxies. So where did it go?
+
+“Oxygen is produced by stars, which are inside of galaxies. We know that the oxygen had to be inside of the galaxies at some point in the past, so the oxygen must have been ejected,” said co-investigator Grace Telford, assistant professor in the Department of Physics and Astronomy at the University of Utah. “And to do that, you need energy from massive stars and supernova explosions to drive material out of the host galaxies and into the space between galaxies.”
+
+Galactic winds unleashed by supernovae are apparently more effective at removing oxygen from low-mass galaxies than current models predict, according to the new study. The findings show that dwarf galaxies can hold onto only a small fraction of the oxygen made by stars.
+
+In the Galaxies Losing Oxygen via Winds (GLOW) project, funded by NASA and the National Science Foundation, scientists traced the oxygen to understand how it is distributed inside stars, in the gas between stars, and in the space between galaxies. But, of all the elements in the galaxies, why study oxygen?
+
+Oxygen, the most abundant element after hydrogen and helium, is relatively easy to detect and measure, and its production is well understood — making it a reliable indicator of how chemical elements are distributed in a galaxy.
+
+“So, it's really for practical reasons that we've chosen oxygen,” said Kristen Wingfield McQuinn, GLOW principal investigator and mission head of the Science Operations Center for NASA’s newly launched, panoramicNancy Grace Roman Space Telescopeat the Space Telescope Science Institute in Baltimore, Maryland. She also is an associate professor at Rutgers University in New Brunswick, New Jersey.
+
+“Oxygen is one of the primary elements formed by stars. Being able to trace how much oxygen gets made, and then how much is distributed inside and outside of galaxies, helps us understand galaxy evolution,” said McQuinn. “It also helps us learn where and how much galaxies are enriching the space between galaxies, called the intergalactic medium.”
+
+The study used archival optical imaging data fromHubbleto resolve stellar populations and determine star-formation histories and compositions. Along with data from NASA’s retiredSpitzer Space Telescopeas well as the ground-based Very Large Array and Australian Telescope Compact Array, the researchers analyzed 37 nearby dwarf galaxies to trace oxygen atoms produced by stars.
+
+The team wanted to understand how oxygen is distributed across the stars, gas, and dust in the galaxies. These dwarf galaxies were selected because their masses fall in the range where simulations and theory predict that an increasing amount of their oxygen will be expelled from the galaxies via supernovae explosions. These 37 galaxies also are all close enough for Hubble to resolve their individual stars. That's not true for the vast majority of known dwarf galaxies, which are too far away for this kind of study.
+
+Although astronomers already suspected that galaxies expel a large fraction of oxygen and other heavy elements, an open question has been where these metals end up. Aprevious studyfrom 2014 addressed this question for Milky Way-like, star-forming galaxies, finding that these galaxies lost a large fraction of their oxygen, some of which is found in the diffuse haloes of gas surrounding galaxies outside their disks, called the circumgalactic medium.
+
+In the GLOW study, McQuinn and her team extended this research to low-mass galaxies across a wide range of masses and environments. While previous teams have measured oxygen in the circumgalactic medium of dwarf galaxies, it is still unclear if most of the missing oxygen is in this region, or if it has been completely ejected from the galaxy’s surroundings.
+
+In the future, McQuinn hopes to study even lower-mass galaxies in the nearby universe. She has an approved program to use the Roman Space Telescope to find these faint and tiny systems across a wide swath of sky. Once she’s identified these galaxies, McQuinn hopes to use Hubble and NASA’sJames Webb Space Telescopeto get deeper observations of their stars. This would allow her to reconstruct the galaxies’ histories to understand how they formed stars across cosmic time.
+
+Telford’s future work involves using Hubble to zoom in on the individual, massive stars that produce oxygen and eject it from their host galaxies. She’s using some of the nearby GLOW targets to get very detailed observations to characterize how the massive stars are different in these small gal]]></description>
+  </item>
   <item>
     <title>APOD: 2026 November 2 – A Long Cloud on Mars</title>
     <link>https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/</link>
@@ -68,120 +246,6 @@ Explanation:What color is the Moon? It depends on the night -- and the time. Out
     <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
 Explanation:What spooky planet is this?Planet Earth on a dark and stormy night, of course. The ghostly scene wasphotographed at Hverir, a geothermally active area found along northeastern Iceland'svolcanic landscape. Triggered bysolar activity,geomagnetic stormshave unleashed energetic particles trapped in Earth's magnetic field. Penetrating the planet's upper atmosphere at high latitudes, the particles createauroral displaysin the starry night sky. Ghostly towers of steam and gas are venting fromlocal fumaroles to danceagainst the eerie, greenish northern lights. For now, auroral activity on planet Earth remains in a high state as the Sun is only in early phases of decline from the peak of itssolar activity cycle. And soon, other ghostly apparitions may dance in your neighborhood.Happy Halloween!Tomorrow's picture:many moons]]></description>
-  </item>
-  <item>
-    <title>NASA Releases MAX POWER Key Events for Media, Participants</title>
-    <link>https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/</guid>
-    <pubDate>Fri, 30 Oct 2026 19:31:02 +0000</pubDate>
-    <description><![CDATA[America’s newest aerospace expo and air show – MAX POWER – is fast approaching, and NASA has announced key events beginning Friday, Nov. 6, and running through Sunday, Nov. 8, hosted on and near the agency’s Kennedy Space Center in Florida.
-
-Through multiple park experiences atMAX POWER, NASA and a variety of external collaborators will showcase the newest aircraft, autonomous vehicles, technologies, and more defining the future of air and space. NASA will display its quiet supersonic X-59 plane, and agency partners will showcase Moon rovers, spacecraft, and more. The expo also is a culmination of the agency’s recentInspiration Tour, which included numerous flyovers to highlight NASA’s fleet of aircraft.
-
-A current schedule of events is available on the agency’swebsite.
-
-MAX POWER includes opportunities to meet leadership, astronauts, engineers, scientists, and other subject matter experts during the family-friendly public events with gates opening at 9 a.m. EST on Nov. 7 and Nov. 8.
-
-NASA also will share multiple news updates during the weekend, including hosting a news conference at 5 p.m. on Nov. 7, to provide its latest Moon Base update. Located near the lunar South Pole, theMoon Baseis humanity’s first outpost for long-term lunar exploration.
-
-Live coverage of the news conference will stream on a variety of platforms online. Learn where to watch:
-
-Media credentialing for this event is closed. Media approved for this event must request interviews in advance. Space in the news conference is limited, and first come, first served. Media also may participate in the news conference virtually. To request call details or an interview, please contact Lauren Low in the NASA Headquarters newsroom at:lauren.e.low@nasa.gov.
-
-A short list of key NASA activities during MAX POWER are listed below. All times are listed in Eastern Standard Time, and are subject to change.
-
-For more information about MAX POWER, including the latest schedule of events and how to attend, visit the agency’s website:
-
-George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov/cheryl.m.warner@nasa.gov]]></description>
-  </item>
-  <item>
-    <title>NASA’s James Webb Space Telescope Captures Eerie Cat’s Head</title>
-    <link>https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/</link>
-    <guid>https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/</guid>
-    <pubDate>Fri, 30 Oct 2026 15:56:26 +0000</pubDate>
-    <description><![CDATA[Intricate structures within theCat’s Head Nebulaare illuminated in this mid-infrared view from NASA’s James Webb Space Telescope released on Oct. 29, 2026. The distinctive “cat’s head” shape of the nebula was likely sculpted over time by the intense ultraviolet radiation and winds from massive stars in the Carina Nebula. As this stellar feedback erodes the surrounding gas and dust, denser material within the feline-shaped pillar resists erosion, at least for now.
-
-Image credit: NASA, ESA, CSA, STScI; Image Processing: Joseph DePasquale (STScI)]]></description>
-  </item>
-  <item>
-    <title>NASA Explores Potential Commercial Servicing for Hubble Telescope</title>
-    <link>https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/</link>
-    <guid>https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/</guid>
-    <pubDate>Fri, 30 Oct 2026 14:51:21 +0000</pubDate>
-    <description><![CDATA[NASA issued a Request for Information Oct. 29 to learn more about industry capabilities for in-space servicing to support the agency’s Hubble Space Telescope.“Hubble still has important science ahead of it, and we should be looking at every reasonable opportunity to keep it delivering for as long as possible,” said NASA Administrator Jared Isaacman. “If there are innovative and cost-effective ways to extend the life of an asset already on orbit, we owe it to the American taxpayer and the scientific community to explore them. Extending Hubble’s life would mean more discoveries, more science, and more opportunities to expand our understanding of the universe.”The Request for Information seeks commercial interest in: potentially conducting a mission to boost Hubble to a higher altitude to extend its science lifetime; servicing Hubble to enhance its capabilities; or performing a safe, controlled re-entry into Earth’s atmosphere or orbital disposal at the end of Hubble’s mission.“Hubble is a national icon that has fundamentally changed how humanity views our universe for more than 35 years,” said Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters in Washington. “Commercial industry has rapidly evolved in recent years to offer new capabilities for in-space satellite capture and servicing. Given the time we have until Hubble’s anticipated re-entry, we are eager to explore the breadth of possibilities to boost Hubble to a higher orbit while we develop the flagship mission to follow.”The Request for Information isavailable onlineand will remain open for responses until 3 p.m. EST, Monday, Nov. 30.Like all spacecraft in low Earth orbit, Hubble’s altitude is slowly decreasing over time because of atmospheric drag. Hubble does not have a propulsion system to maintain its own orbit, and analysis predicts Hubble is likely to re-enter the atmosphere in the 2033 to 2034 timeframe. As such, NASA anticipates that a mission would need to take place by 2032.The Hubble Space Telescope has been operating for more than three decades and continues to make ground-breaking discoveries that shape our fundamental understanding of the universe. Hubble is a project of international cooperation between NASA and ESA (European Space Agency). NASA’s Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope and mission operations. Lockheed Martin Space, based in Denver, also supports mission operations at Goddard. The Space Telescope Science Institute in Baltimore, which is operated by the Association of Universities for Research in Astronomy, conducts Hubble science operations for NASA.To learn more about NASA’s Hubble Space Telescope, visit:
-
-Media Contacts:Alise FisherHeadquarters, Washington202-358-2546alise.m.fisher@nasa.govClaire AndreoliGoddard Space Flight Center, Greenbelt, Md.202-286-1940claire.andreoli@nasa.gov
-
-Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.
-
-The Nancy Grace Roman Space Telescope will settle essential questions in the areas of dark energy, exoplanets, and astrophysics.
-
-NASA’s TESS discovers exoplanets, worlds beyond our solar system. In the course of its extended observations of the sky, TESS…
-
-Webb is the premier observatory of the next decade, serving thousands of astronomers worldwide. It studies every phase in the…]]></description>
-  </item>
-  <item>
-    <title>November’s Night Sky Notes: Light-Day Away</title>
-    <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/</link>
-    <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/</guid>
-    <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
-    <description><![CDATA[In 1977, NASA launched twin spacecraft Voyager 1 and 2, taking advantage of a once-every-175-year planetary alignment of the four largest planets in our solar system: Jupiter, Saturn, Uranus, and Neptune. Using six gravity assists between them, thisGrand Tourgave us up-close views of the gas and ice giants, including several moons. By the 1980s, the two probes went their separate ways at Saturn. As Voyager 2 continued toward Uranus and Neptune, Voyager 1 grabbed one moreportrait of the solar system(excluding Mercury and Mars), including a final image of thepale blue dotwe call home.
-
-“Hello from the children of planet Earth.”
-
-Every good road trip needs some music to match. In this case, each craft carries theGolden Record, a 12-inch phonograph record with spoken greetings in 55 languages, 27 musical tracks, 116 images, and other sounds from Earth. Each record is protected by anouter coverfeaturing etchings showing our Sun's location relative to 14 pulsars, along with instructions on how to play it. The design used various metals to protect the information encoded from space radiation: the record used copper and gold plating, and the cover used aluminum. The cover was electroplated with an ultra-pure sample of the isotope uranium-238. Uranium-238 has a half-life of 4.468 billion years.
-
-Did you know that a light-minute is a measure of distance, not time? In August 2012 and November 2018, Voyager 1 and 2 crossed the heliopause, the boundary where the Sun’s solar wind meets the interstellar medium. Using NASA’sDeep Space Network, Earth communicates with both spacecraft and tracks each on its journey. At the time of this article, the Canberra antenna tracked Voyager 1 at 25.80 billion km, or just over 16 billion miles.
-
-On November 18, 2026, 49 years after its launch, Voyager 1 will cross the one-light-day mark, 16.1 billion miles from the Sun. You may have heard the termlight-yearin your favorite sci-fi movie or show, or when stargazing and referring to an object outside of our solar system.This videobest demonstrates the different distances between the inner solar system, outer solar system, and beyond, using light measurements. Additionally, track each Voyager spacecrafthere.
-
-You can get a real understanding of what a gravity assist might be like with ourGravity Assistactivity and learn what it’s like to measure a “light minute” with ourMeasuring a Kid Minuteactivity guide!]]></description>
-  </item>
-  <item>
-    <title>APOD: 2026 October 30 – Haunting the Cepheus Flare</title>
-    <link>https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/</link>
-    <guid>https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/</guid>
-    <pubDate>Fri, 30 Oct 2026 04:05:00 +0000</pubDate>
-    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
-
-Explanation:Spookyshapes seem to haunt this dusty expanse, drifting through the night in the royal constellationCepheus. Of course,the shapesare cosmic dust clouds visible in dimly reflected starlight. Far fromyour own neighborhood, they lurk above the plane of the Milky Way at the edge of theCepheus Flaremolecular cloud complex some 1,200 light-years away. Over 2 light-years across and brighter than most of the other ghostly apparitions, vdB 141 or Sh2-136 is also known as theGhost Nebula. It lies at lower right in the starry field of view. Inside the Ghost Nebula are reddish telltale signs of dense cores collapsing in the early stagesof star formation. With the eerie hue of interstellar dust reflecting bluish light from hot young stars ofNGC 7023, the Iris Nebulastands out against the dark just left of center.In the broad telescopic frame, these fertile interstellar dust fields stretch almost six full moons across the sky.Tomorrow's picture:night on a spooky planet]]></description>
-  </item>
-  <item>
-    <title>Vega Island Frozen in Fright</title>
-    <link>https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/</link>
-    <guid>https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/</guid>
-    <pubDate>Fri, 30 Oct 2026 04:01:00 +0000</pubDate>
-    <description><![CDATA[The sight of an icy skull-like visage on the Antarctic island could make one’s blood run cold.
-
-Shrouded in ice in the lonely Weddell Sea, Vega Island is an eerie sight to behold. On this speck of land east of the Antarctic Peninsula, ice, rock outcrops, and glacial moraines combine to create the appearance of a smirking skull in profile looking toward Devil Island.
-
-These images show Vega Island’s creepy countenance at the start of austral autumn (left) and in spring (right). They were acquired with theOLI(Operational Land Imager) onLandsat 9on March 22, 2025, and October 10, 2026, respectively. (Clouds obscured the island in March 2026.) Anunatakjutting out of the ice has the appearance of an eye socket, alateral moraineforms a mouth, andBahía del Diablo(Devil’s Bay) Glacier constitutes a jawbone. In the March 2025 image, a layer of snow coats the ice, which is typical of the region’s wettest month. That contrasts with the October 2026 image, when snow is absent from large areas and darker ice surfaces are visible.
-
-Above-averagetemperatures in winter 2026—particularlyin June—were partly responsible for so muchbare ice in October, said glaciologist Mauri Pelto of Nichols College. The ice exposed on Vega and nearby islands indicates limited new snow accumulation over the winter, further reduced by sublimation and wind scouring, he said. “The winter season was no treat for these glaciers.”
-
-The melt season ahead may also be more trick than treat. Bare ice is darker than snow and absorbs more solar energy, meaning that melting is poised to speed up as the days grow longer and warmer. “Even a thin cover of new snow from a spring storm would be helpful in the short run,” Pelto said. “When entombed in snow and ice, the skull is preserved. But when exposed to melt, it weathers away, which will lead to a changing jawline and expanding eye socket.”
-
-The first comprehensive mapping of Vega Island’s ice was aided by Landsat imagery. In astudy published in 1982, scientists described the island’s four ice caps with protruding rocky cliffs and outlet glaciers. They leveraged early Landsat observations along with aerial photos and topographic maps to catalog 29 glaciers on Vega.
-
-Of those glaciers, Devil’s Bay Glacier has beenclosely monitoredsince the austral summer of 1998-1999, with researchers measuring anoverall declinein its mass. Satellite images acquired inrecent decadesshow ice loss from other glaciers on the island as well, with increased areas of exposed bedrock.
-
-Long before scientists began tracking its glaciers, Vega was a bright spot in a tale of terror born out of early exploration of the area. TheSwedish Antarctic Expeditionof 1901-1903 set out to study the geography, geology, climate, and wildlife on and around the eastern Antarctic Peninsula. The party became split into three groups during their explorations, isolated for a winter in different locations. Adding to the horror, theylost their shipto the pack ice. Cape Well-met, as it would come to be known, off the “forehead” of the Vega Island skull, was the site of a happy reunion of two of the groups in spring 1903. Soon thereafter, an Argentinean expedition rescued the survivors of the ordeal.
-
-NASA Earth Observatory images by Lauren Dauphin, using Landsat data from theU.S. Geological Survey.Story by Lindsey Doermann.
-
-Stay up-to-date with the latest content from NASA as we explore the universe and discover more about our home planet.
-
-In summer 2026, a substantial iceberg calved from Petermann Glacier in northwest Greenland and swiftly drifted into Nares Strait, colliding…
-
-The expanse of glacial ice on Canada’s Baffin Island lost its snow cover quickly and early in summer 2026, revealing…
-
-One narrowing icefall remains the linchpin for the Alpine glacier—and it may not be long for this world.
-
-Subscribe to the Earth Observatory and get the Earth in your inbox.
-
-NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
-
-Open access to NASA’s archive of Earth science data]]></description>
   </item>
 </channel>
 </rss>
