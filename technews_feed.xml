@@ -4,7 +4,34 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 04 Nov 2026 11:39:43 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 18:56:37 GMT</lastBuildDate>
+  <item>
+    <title>Windows 11 效能大升级！微软称 8GB 记忆体电脑速度可提升 20%</title>
+    <link>https://technews.tw/2026/11/04/microsoft-improves-windows-11-performance-on-pcs-with-just-8gb-of-ram/</link>
+    <guid>https://technews.tw/2026/11/04/microsoft-improves-windows-11-performance-on-pcs-with-just-8gb-of-ram/</guid>
+    <pubDate>Wed, 04 Nov 2026 13:24:02 +0000</pubDate>
+    <description><![CDATA[微软分享 Windows 11 改善进展与具体变化，宣称在 8GB 记忆体的电脑上，Windows 11 的系统反应将提升 20%，多工处理速度最高加快 40%。微软也解释如何调整 Windows 11 的压缩技术，使系统在 8GB 记忆体的电脑上运作更出色，可将多达 2GB 的活动资料保留在记忆体中。
+
+微软 Windows 与装置执行副总裁达武鲁里（Pavan Davuluri）撰文指出，微软的策略归纳为三个部分：首先，为每台 Windows 11 电脑的记忆体使用最佳化；接著，确保即使在大量工作负载下，系统互动依然能保持即时回馈；最后，是降低核心应用程式对记忆体的需求。
+
+Today, we’re sharing updates from the team on memory improvements, including work that makes experiences on 8 GB @Windows 11 PCs faster and more responsive.
+
+Windows quality is an ongoing journey. We’ll keep listening, building on what we learn, and sharing our progress 🚀. https://t.co/4CQOSspoaS
+
+— Pavan Davuluri (@pavandavuluri)November 3, 2026
+
+达武鲁里概述 Windows 11 的核心互动反应如何变得更迅速，包含开启「开始」功能表、搜寻、点击右键、开启「设定」、启动剪取工具以及开启档案总管。根据达武鲁里的说法，与今年 1 月的 Windows 11 更新版本相比，这些功能的顺畅度提升 20%。Windows 11 透过优先处理使用者当下的操作，并缩减背景任务的资源占用，得以达成这部分的最佳化。
+
+效能提升的效益也延伸到应用程式，尽管达武鲁里在文章中只点名 Microsoft Teams，但表示它能在 8GB 记忆体的电脑预设开启「效率模式」，让应用程式启动速度加快 20%，并减少系统资源消耗。此外，应用程式还能调整笔电的视讯镜头解析度，借此腾出处理器效能供音讯支援，确保电脑在大量工作负载依然能维持通话清晰。
+
+为完整说明更新内容，达武鲁里举微软的一项测试案例：在一台 8GB 记忆体的电脑，接连开启 20 个 Microsoft Edge 浏览器分页，一部 4K 影片，大型的 Word、PowerPoint 及 Excel 档案，还有 Outlook 与档案总管，并在测试过程维持全程开启。有了这次系统更新，这套工作流程的完成速度比今年 1 月版本快了 40%。
+
+展望未来，微软提升 Windows 11 的全面计划持续进行中，计划将 WinUI 3 导入 Windows 11 各部分，包括档案总管、记事本、小画家、Windows 搜寻等，并且进一步改善记忆体压缩技术，将 Windows 搜寻与小工具切换至统一的网页引擎。
+
+若要获得最新的效能与记忆体最佳化体验，使用者可更新至 Windows 11 26H2 版本，或 Build 26300.9818 以上版本。
+
+微软的 K2 计划已经进行数个月，目前为止，使用者看到 Copilot 的整合被撤回、工作列可以自由移动到上下左右、Windows Update 的重新启动机制变得更合理、Windows 搜寻变得更简洁、更快速，更持续使系统更具记忆体使用效率。]]></description>
+  </item>
   <item>
     <title>永丰银证实遭外部骇客盗转！董总鞠躬致歉「垫付 4,176 万全额退款」</title>
     <link>https://finance.technews.tw/2026/11/04/unauthorized-account-transfer/</link>
@@ -105,7 +132,7 @@ Mandiant 指出，今年这类攻击事件已蔓延至北美、南美与亚太�
 面对来势汹汹的 LLMjacking 威胁，Google 建议企业应立即强化身分与存取管理，并落实以下防御措施：]]></description>
   </item>
   <item>
-    <title>当年投资一亿只赚 250 万，U-POWER 下周正式兴柜</title>
+    <title>当年投资 1 亿只赚 250 万，U-POWER 下周正式兴柜</title>
     <link>https://technews.tw/2026/11/04/upower-ready-ipo/</link>
     <guid>https://technews.tw/2026/11/04/upower-ready-ipo/</guid>
     <pubDate>Wed, 04 Nov 2026 09:45:02 +0000</pubDate>
@@ -256,19 +283,6 @@ Windows 11 用户如只想开启工作管理员，可以直接按 Ctrl+Shift+Esc
 要锁定电脑、切换用户或进入安全选单，Ctrl+Alt+Del 仍然有用；只想开启工作管理员，改按 Ctrl+Shift+Esc 就可以少走一步。
 
 （本文由Unwire HK授权转载；首图来源：pixabay）]]></description>
-  </item>
-  <item>
-    <title>AI 智慧社区专案挹注，撷发科 10 月营收年增 611%</title>
-    <link>https://technews.tw/2026/11/04/microip-2026-oct-revenue/</link>
-    <guid>https://technews.tw/2026/11/04/microip-2026-oct-revenue/</guid>
-    <pubDate>Wed, 04 Nov 2026 08:55:26 +0000</pubDate>
-    <description><![CDATA[撷发科公告2026年10月合并营收达新台币（下同）1,291万，月增217.1%、年增610.9%。该公司表示，10月营收跳跃式成长的主因，在于先前取得的北部指标性大型「AI智慧社区」建案系统整合专案正式启动第一阶段完工比例认列，加上AI智慧车载、AI软体专案与ASIC设计服务按既定计划达标。
-
-撷发科预期，随著该专案未来36个月履约期持续推进，公司将旗下AI边缘算力核心技术与智慧建筑、商用垂直场域进行深度结合，不仅验证技术商用化的能力，更开启长期稳定的营收挹注。
-
-撷发科董事长杨健盟指出，10月营收显著成长标志公司长期深耕边缘AI软硬体整合与ASIC设计服务的策略，已迎来良好的丰收期。不仅看到市场对边缘算力、智慧社区与智慧车载的刚性需求持续升温，更证明其长期积极投入新世代科技的研发，与拥有将创新AI技术落实为营运成长实绩的执行力。展望未来，将维持审慎乐观看法。
-
-除了AI智慧社区专案带来的强劲贡献，撷发科在边缘AI应用与ASIC设计服务领域的布局也同步收割，包括在AI智慧车载系统配合客户时程交付，AI智慧制造在传统产业中提供AI视觉与边缘演算法技术导入服务与既有的ASIC设计服务与开发；公司亦瞄准海外无人系统与智慧载具开发需求，主打符合美国规范及国际非红可信赖供应链标准，切入海外利基市场。]]></description>
   </item>
 </channel>
 </rss>
