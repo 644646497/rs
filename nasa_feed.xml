@@ -4,7 +4,30 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Wed, 04 Nov 2026 23:01:57 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 04:32:06 GMT</lastBuildDate>
+  <item>
+    <title>NASA Announces X-70 Experimental Aircraft to Advance Flight Research</title>
+    <link>https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/</guid>
+    <pubDate>Thu, 05 Nov 2026 01:43:21 +0000</pubDate>
+    <description><![CDATA[On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.
+
+The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.
+
+“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”
+
+The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach .75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.
+
+“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”
+
+The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.
+
+With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation.
+
+For more information about NASA’s aeronautics research, visit:
+
+George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov/cheryl.m.warner@nasa.gov]]></description>
+  </item>
   <item>
     <title>NASA Shares Plans to Accelerate Artemis, Return to Moon</title>
     <link>https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/</link>
@@ -179,27 +202,6 @@ Causal Relationships Initial theories pointed to vibration-induced damage of pot
 Failure AnalysesIndependent failure analyses concluded that the cracked chip resistors were due to bending/tensile failures. There was no clear-cut root cause or visible defect identifying a crack initiation site. Both resistors exhibited a single, straight crack across the short axis (perpendicular to the long axis), indicating a bending/tensile failure without twisting.
 
 The damage signatures are not consistent with cyclic fatigue, likely ruling out fatigue failure during vibration. In addition, NESC independent optical and scanning electron microscopy (SEM), Figure 2, of both resistors did not identify any clear flaw locations for fatigue damage initiation and progression; therefore, the possibility of defective resistors as well as fatigue vibration as the root cause becomes unlikely.Cause ConclusionsNo direct root cause was identified, but contributing factors leading to increased design consideration needed for large footprint ceramic components located near the edges of a printed circuit board that can lead to stress cracks due to manufacturing or installation bow/twist of the printed circuit board include:Location of the relatively large resistors (case size 2512) next to the edge of the board with resistor’s long axis parallel to the card edge, increasing susceptibility to board flexure-induced damage.Excessive solder that extended to the top pads on the resistor terminations.Excessive bending moments or loads resulting from board bow/twist.Hard mounting the board to a rigid frame, which can store and amplify these bow/twist stresses.Suboptimal fastener torquing patterns, which may concentrate mounting stresses specifically at the resistor locations.Guidelines for Assembly of Ceramic Body Components to Printed Circuit BoardsThe following guidelines are to be considered given the recent experience.Component Orientation: Avoid orienting the long axis of large footprint ceramic components parallel to nearby printed circuit board edges to reduce susceptibility to global and local flexure damage.Finite Element Analysis: Perform sufficient Finite Element Analysis to demonstrate adequate stress and displacement margins on large components when they must be placed near the edge of the board.Solder Joint Fillet Limits: Keep solder off the top surface of terminations. Solder on top creates a rigid joint that transfers printed circuit board flexure directly into the ceramic increasing risk of flexure-induced cracking. Consult the individual parts manufacturers for guidance, as they may place specific limits on solder fillet height.Solder Joint Inspection: Inspect physical solder joints or review photographic images of the joints to verify that components have sufficient, but not excessive, solder fillets according to manufacturer limits.Functional Ther]]></description>
-  </item>
-  <item>
-    <title>NASA Astronaut, STEM Creator Connect with Students for STEM Day</title>
-    <link>https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/</link>
-    <guid>https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/</guid>
-    <pubDate>Tue, 03 Nov 2026 15:15:50 +0000</pubDate>
-    <description><![CDATA[Students across the country will have the opportunity to connect directly with the International Space Station during a live, interactive in-flight call with NASA astronaut Anil Menon and Mark Rober STEM content creator and founder of ClassCrunchLabs Foundation. The event, hosted by NASA’s Office of STEM Engagement, celebrates National STEM Day by bringing real‑world science, engineering, and exploration into classrooms nationwide.
-
-The Earth-to-space call will begin at 11 a.m. EST on Wednesday, Nov. 4, and will be available to watch on the agency’s flagshipYouTubewith additional engagement across Learn With NASA channels.
-
-From aboard the space station, Menon will answer questions from students about living and working in microgravity, the path to becoming an astronaut, and the technologies that make human spaceflight possible. Rober, joining from California, will share how curiosity, creativity, and hands‑on problem‑solving shaped his career from NASA engineer to STEM creator.
-
-During the downlink, students will see the space station in real time as Menon demonstrates how everyday activities, from eating to experimenting, change in microgravity. The downlink supports NASA’s broader effort to connect students with authentic STEM experiences to help build technical skills and introduce aerospace careers to students. National STEM Day is an opportunity to recognize the power of hands‑on learning and to inspire the next generation of scientists, technicians, engineers, and innovators who will carry NASA’s exploration goals forward.
-
-A new collaboration to expand STEM access
-
-This downlink also marks the launch of a new collaboration between NASA and the ClassCrunchLabs Foundation. Together, the organizations will work to broaden access to STEM learning experiences for students across the country by aligning NASA’s mission‑driven educational resources with CrunchLabs’ hands‑on engineering content. Through shared programming and outreach, the partnership aims to inspire more learners to engage with science, engineering, and problem‑solving skills that prepare them for future opportunities in the aerospace sector and beyond.
-
-Educators and families are encouraged to tune in and celebrate National STEM Day with an inspiring conversation between a NASA astronaut in orbit and a STEM educator on Earth.
-
-For more information on NASA in-flight calls, visit:]]></description>
   </item>
 </channel>
 </rss>
