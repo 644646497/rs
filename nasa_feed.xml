@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sat, 07 Nov 2026 03:57:18 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 12:12:27 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 November 7 – De Gerlache-Kocher Massif</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/</guid>
+    <pubDate>Sat, 07 Nov 2026 05:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:De Gerlache-Kochermassiflooms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boastingpermanently shadowedcrater floors that likely contain deposits of water ice and peaks that receive almost continuous sunlight for solar power generation, the south polar region is consider a prime location for the first human settlement on the Moon.In fact, De Gerlache-Kocher massif itself has been consider as a potentiallanding sitefor future crewedArtemis missions to the Moon. The remarkable telescopic image of the massif at the lunar limb was captured on October 31. Then, a favorable libration angle orlunar wobbleenhanced this oblique viewacross the Moon's south pole.Tomorrow's picture:meteoric]]></description>
+  </item>
   <item>
     <title>M30’s Sparkling Stars</title>
     <link>https://www.nasa.gov/image-article/m30s-sparkling-stars/</link>
@@ -163,29 +172,6 @@ Subscribe to the Earth Observatory and get the Earth in your inbox.
 NASA's Earth Observatory brings you the Earth, every day, with in-depth stories and stunning imagery.
 
 Open access to NASA’s archive of Earth science data]]></description>
-  </item>
-  <item>
-    <title>NASA Announces X-70 Experimental Aircraft to Advance Flight Research</title>
-    <link>https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/</link>
-    <guid>https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/</guid>
-    <pubDate>Thu, 05 Nov 2026 01:43:21 +0000</pubDate>
-    <description><![CDATA[On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.
-
-The crewed X-70 features advanced, rapidly reconfigurable flight-control technology that will allow NASA to explore aircraft maneuverability in ways never before demonstrated in crewed flight. The aircraft can also accommodate up to 2,000 pounds of experimental payloads in internal and external locations, enabling a wide range of research and flight-testing opportunities.
-
-“The X-70 Fractal gives NASA a crewed, high-performance platform to test advanced flight-control, maneuverability, and other cutting-edge technologies in real flight,” said NASA Administrator Jared Isaacman. “Its modular design and ability to rapidly swap internal and external payloads will keep our teams flying, learning, and moving quickly from one experiment to the next. We expect her first flight under the NASA banner within the next two years, and X-70 is just one part of this new beginning for aeronautics. This is why people come to NASA: to build, to learn, and most importantly, to fly.”
-
-The X-70 Fractal has a takeoff weight of 10,000 pounds and is designed to cruise at Mach .75, reach altitudes of up to 45,000 feet, and provide an operational range exceeding about 1,726 miles (1,500 nautical miles). These capabilities will enable NASA to conduct demanding flight research across a broad range of operating conditions.
-
-“For decades, NASA Aeronautics has used X-planes to develop technologies that advance aviation,” said Laurie Grindle, director of the Aeronautics Division within NASA’s Research and Technology Mission Directorate. “It’s exciting to bring on another X-plane to accelerate and drive aeronautics research.”
-
-The X-70 joins a storied legacy of experimental aircraft that have helped establish America’s leadership in aviation. From the Bell X-1, which first broke the sound barrier in 1947, to the X-15 hypersonic research aircraft and today’s X-59 quiet supersonic demonstrator, NASA has spent decades pushing the boundaries of flight.
-
-With the X-70, NASA will expand its capacity to conduct experimental flight research, accelerate the testing of emerging technologies, and advance the next generation of American aviation.
-
-For more information about NASA’s aeronautics research, visit:
-
-George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov/cheryl.m.warner@nasa.gov]]></description>
   </item>
 </channel>
 </rss>
