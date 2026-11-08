@@ -4,7 +4,36 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sun, 08 Nov 2026 12:32:24 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 21:30:59 GMT</lastBuildDate>
+  <item>
+    <title>NASA Announces $1 Million to Students for Moon Base Challenge</title>
+    <link>https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/</link>
+    <guid>https://www.nasa.gov/news-release/nasa-announces-1-million-to-students-for-moon-base-challenge/</guid>
+    <pubDate>Sun, 08 Nov 2026 15:26:38 +0000</pubDate>
+    <description><![CDATA[On Sunday, NASA announced the opening of its $1 million Moon Base Student Challenge during a MAX POWER event at Kennedy Space Center Visitor Complex in Florida. As part of a Golden Age of Science, the competition invites student teams at U.S. high schools and post-secondary schools to contribute designs for the Moon Base.
+
+“We’re looking for students ready to think creatively, work as a team, and take on real problems connected to NASA’s future on the Moon,” said NASA Administrator Jared Isaacman. “You do not have to wait until graduation to contribute. Curiosity, creativity, and the willingness to tackle hard problems without obvious answers are exactly the qualities we need as we build what comes next.”
+
+NASA is building aMoon Basewhere astronauts will live, work, and explore at the lunar South Pole region. A permanent human presence on the Moon paves the way for future crewed missions to Mars and requires talent from various industries and backgrounds.
+
+“As we build and design the foundations of Moon Base, we want to leverage all the ingenuity and innovation to think of every consideration our explorers might need to live and work there,” said Carlos García-Galán, manager, Moon Base Program. “Students bring exactly the bold ideas that we’re looking for, and I’m looking forward to their fresh perspective. Ultimately, Moon Base is for them, people who will experience a world where humans are on the Moon to stay.”
+
+The multiphase challenge supports NASA’s commitment to cultivating the technical skills of tomorrow’s aerospace workforce. For this challenge, student teams will design innovative solutions for Moon Base across six categories: power generation and storage, construction, life-support systems, surface mobility, communications networks, and astronaut safety. The challenge gives participants an opportunity to develop necessary skills for careers in the space industry while helping advance new concepts for Moon Base technologies.
+
+Participants are required to register for the challenge through theNASA STEM Gateway.Registration is open until Jan. 25, 2027.
+
+“Students are the next generation of explorers and innovators. Their unique perspectives are key to helping us envision a future away from Earth, and I’m excited to see the creativity and ingenuity spurred by this challenge,” said Elaine Ho, associate administrator for the Office of STEM Engagement at NASA Headquarters.
+
+The Moon Base Student Challenge addresses authentic environmental and mission design parameters for life and operations on the lunar surface. The deliverables reflect industry skills – such as trade studies, concept proposals, and stakeholder briefings – allowing participants across technical, vocational, and various academic tracks to build career-relevant skills without requiring prior specialized engineering or technical experience.
+
+The Office of STEM Engagement designed the challenge in collaboration with the Moon Base Program. The Institute of Competition Sciences administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the agency’s Research and Technology Mission Directorate.
+
+For complete competition details, eligibility requirements, and official rules, visit:
+
+George Alderman / Cheryl WarnerHeadquarters, Washington202-358-1600george.a.alderman@nasa.gov/cheryl.m.warner@nasa.gov
+
+Nilufar Ramji / Kenna PellJohnson Space Center, Houston281-483-5111nilufar.ramji@nasa.gov/kenna.m.pell@nasa.gov]]></description>
+  </item>
   <item>
     <title>APOD: 2026 November 8 – Major Fireball Meteor</title>
     <link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</link>
@@ -163,23 +192,6 @@ Open access to NASA’s archive of Earth science data]]></description>
     <guid>https://www.nasa.gov/image-article/midwestern-city-lights/</guid>
     <pubDate>Thu, 05 Nov 2026 15:17:19 +0000</pubDate>
     <description><![CDATA[City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Station was orbiting 259 miles above Earth when this photograph was taken.]]></description>
-  </item>
-  <item>
-    <title>NASA Astronauts to Answer Questions from Florida Students</title>
-    <link>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/</link>
-    <guid>https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/</guid>
-    <pubDate>Thu, 05 Nov 2026 15:11:25 +0000</pubDate>
-    <description><![CDATA[Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard theInternational Space Station.
-
-The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s Learn With NASAYouTubechannel.
-
-This event is hosted by Freedom Crossing Academy in St. Johns, Florida, for students in grades K-12, and the community. This unique opportunity aims to deepen understanding of space exploration and enhance awareness of STEM careers.
-
-Media interested in covering the event must RSVP no later than 5 p.m. EST, Monday, Nov. 9, to Christina Upchurch at (904) 547-7517, or atchristina.upchurch@stjohns.k12.fl.us.
-
-For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars.
-
-For more information on NASA in-flight calls, visit:]]></description>
   </item>
 </channel>
 </rss>
