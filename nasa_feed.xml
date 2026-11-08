@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sun, 08 Nov 2026 03:42:43 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 12:32:24 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 November 8 – Major Fireball Meteor</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-november-8-major-fireball-meteor/</guid>
+    <pubDate>Sun, 08 Nov 2026 05:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:The sky glowswith soft pinkish colors of fading twilight in this serendipitous mountaintop vista. Taken in subfreezing temperatures, thethoughtfully composed photoshows snowy, rugged peaks seen from a mountain pass on 2017 November 14. Below lies the village ofLa Villa, Alta BadiainItaly'sDolomite Alps. Above the nestled village lights, theconstellation Ursa Majorhangs over the northern horizon. But moststunningis the intensefireballmeteor. It wascapturedduring the camera's exposure by chance as it flashed east to west across the northern horizon, under Ursa Major's familiarBig Dipperasterism. Sightings ofthis major fireball meteorwere widely reported in European skies, making it one of the most reported fireball events ever for planet Earth'sAmerican Meteor Societyand theInternational Meteor Organization. The meteor's measured track overGermanyis consistent with its origin near the activeradiantof November's NorthernTaurid Meteor Shower, a shower associated with dust fromEncke's comet.Tomorrow's picture:witch sky?]]></description>
+  </item>
   <item>
     <title>NASA Awards Moon Base Transportation, Technology, Science Projects</title>
     <link>https://www.nasa.gov/news-release/nasa-awards-moon-base-transportation-technology-science-projects/</link>
@@ -171,37 +180,6 @@ Media interested in covering the event must RSVP no later than 5 p.m. EST, Monda
 For more than 26 years, people have lived and worked continuously aboard the International Space Station, advancing scientific knowledge and making research breakthroughs not possible on Earth. The space station helps NASA understand and overcome the challenges of human spaceflight, expand commercial opportunities in low Earth orbit, and build on the foundation for long-duration missions to the Moon, as part of the Artemis program, and to Mars.
 
 For more information on NASA in-flight calls, visit:]]></description>
-  </item>
-  <item>
-    <title>Hubble Learns Galactic History From Stars</title>
-    <link>https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/</link>
-    <guid>https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/</guid>
-    <pubDate>Thu, 05 Nov 2026 12:56:21 +0000</pubDate>
-    <description><![CDATA[This NASA/ESA Hubble Space Telescope image provides a lesson in galactic history. The sparkling collection of stars is namedMessier 30(M30) after the French astronomer,Charles Messier, who cataloged M30 and other diffuse objects that might be mistaken for comets in the early telescopes of Messier’s time. M30 lies about 27,500 light-years away in the constellation Capricornus.
-
-M30 is aglobular cluster: a roughly spherical grouping of stars containing anywhere from tens of thousands to millions of stars. These clusters generally reside on the outskirts of galaxies, orbiting within a vast, diffuse region called the halo like a swarm of moths around a lightbulb. Our Milky Way galaxy has at least 150 globular clusters, the nearest of which is about 6,000 light-years away. These clusters are impressively ancient: astronomers estimate their ages are between 11.5 to 13.5 billion years, making certain globular clusters nearly as old as the universe itself.
-
-Globular clusters have long played an important role in helping us learn about our galaxy. More than a century ago, astronomer Harlow Shapley used observations of a particular type of variable star to measure the locations of and distances to dozens of globular clusters within our galaxy. His work showed that the Sun is not in the center of our galaxy, and that the galactic center lies toward the constellation Sagittarius. (His distance measurements were incorrect, however, and he concluded that our galaxy is about twice as large as it really is.)
-
-Today, astronomers continue to learn about our galaxy by observing globular clusters. Because globular clusters are so ancient, they can give us clues about how our galaxy developed long ago. Globular clusters that formed within our galaxy can act as time capsules, preserving the original chemistry of our young galaxy.
-
-However, it’s possible that not all globular clusters that orbit within our galaxy today formed there. Researchers have discovered that M30 and many other globular clusters orbit in the direction opposite from the way our galaxy spins. This may mean that these clusters did not form within our galaxy at all. Instead, our Milky Way galaxy may have captured them in the distant past!
-
-Hubble has observed M30 multiple times. Apreviously released image of M30featured data from Hubble’sAdvanced Camera for Surveys(ACS) and was part of an observing program (#10775; PI: Sarajedini) that surveyed dozens of Milky Way globular clusters in red and near-infrared light, revealing stars down to just 20% of the mass of the Sun. A more recent program (#13297; PI: Piotto) returned to M30 and other globular clusters in our galaxy, this time observing the clusters with Hubble’sWide Field Camera 3and using three filters that captured bluer light. This program collected data that was critical for studying exotic objects like “blue straggler” stars as well as for investigating the multiple populations of stars that can inhabit a single globular cluster.
-
-More recently, Hubble’s ACS viewed many of these globular clusters again. Those observations were part of a program (#16298, PI: Libralato) that looked at how different populations of stars in globular clusters moved over the 15 years since Hubble first observed them — a feat made possible by Hubble’s longevity and ability to discern fantastically small details in distant objects.
-
-The image above was created with data from all three observing programs and includes the wide range of wavelengths Hubble can see — ultraviolet, visible, and near-infrared light. Each wavelength helps us better understand how these groups of stars formed and evolved.
-
-Claire AndreoliNASA'sGoddard Space Flight Center,Greenbelt, MDclaire.andreoli@nasa.gov
-
-Since its 1990 launch, the Hubble Space Telescope has changed our fundamental understanding of the universe.
-
-These jewels of the night sky offer us a glimpse at the lifecycle of stars.
-
-Hubble's most notable scientific discoveries reflect the broad range of research and the breakthroughs it has achieved.
-
-Explore Hubble's iconic images of the universe, and view photos of mission operations and astronauts servicing Hubble in space.]]></description>
   </item>
 </channel>
 </rss>
