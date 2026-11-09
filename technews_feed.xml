@@ -4,257 +4,167 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 09 Nov 2026 03:16:02 GMT</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:14:37 GMT</lastBuildDate>
   <item>
-    <title>告别死板聊天机器人，Airbnb 预告 2027 推出「AI 原生」旅游管家</title>
-    <link>https://technews.tw/2026/11/09/airbnb-targets-first-half-2027-for-ai-agent-launch/</link>
-    <guid>https://technews.tw/2026/11/09/airbnb-targets-first-half-2027-for-ai-agent-launch/</guid>
-    <pubDate>Mon, 09 Nov 2026 03:15:41 +0000</pubDate>
-    <description><![CDATA[Airbnb 执行长布莱恩‧切斯基（Brian Chesky）表示，外部通用 AI 代理目前为平台带来的流量与订单都相当有限，像 Meta 的 Muse 与 Instinct 迄今仅贡献极少量预订，对 Airbnb 近乎每日 50 万笔的订单规模而言，影响「非常不显著」。他在 2026 年 11 月 5 日的第三季财报电话会议上指出，相关流量在 10 月初达到高点后，近四周并未再明显增加。
-
-Chesky 强调，他并不把这类 AI 代理视为威胁，反而认为它们可能像 Google 一样，成为使用者发现 Airbnb 的新入口，再把需求导回平台完成预订。他也提到，Airbnb 对与这些代理合作持开放态度，但目前观察到的资料显示，外部代理尚未成为重要的订房来源。
-
-面对 AI 代理可能改变旅游搜寻与预订流程的趋势，Airbnb 也同步加快自家产品布局。公司在第三季股东信中表示，将于 2027 年上半年开始向消费者推出自家的 AI 旅游代理，并强调这不是一般聊天机器人，而是专为旅游设计的「AI 原生」体验。该系统将依照使用者需求即时组合地图、照片、比较、行事历与行程等介面元素，提供更贴近旅游决策流程的互动方式。
-
-Chesky 认为，规划旅行与处理日常简单任务不同，因为旅游本身带有探索与期待的成分。Airbnb 引述内部资料指出，80% 的旅客喜欢花时间研究行程，且多数人会查看照片、比较房源，并与同行者一起做决定；平台上约 90% 的使用者也会直接与房东沟通。公司因此认为，专注旅游的专属代理，比起通用型 AI 更能满足这类需求。
-
-Airbnb 也表示，新代理不只会协助搜寻与预订，还能在旅途中处理改订、付款问题、退款、重新预订与 24 小时安全支援等服务。Chesky 并提到，Airbnb 也会透过 MCP（Model Context Protocol，模型上下文协定）等整合方式，让外部服务接入平台，但核心仍将聚焦在旅游场景。]]></description>
+    <title>久元10月营收月减8.7%</title>
+    <link>https://finance.technews.tw/2026/11/09/ytec-6261-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/ytec-6261-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 11:10:03 +0000</pubDate>
+    <description><![CDATA[久元（6261）公布 10 月合并营收 3.93 亿元，较上（9）月成长 -8.7%，与去年同期相比为年增 2 [&#8230;]]]></description>
   </item>
   <item>
-    <title>韩国 DEEPX 推低发热 AI 晶片 DX-M1，执行长夸口「奶油放在上面都不会融化」</title>
-    <link>https://technews.tw/2026/11/09/deepx-says-dx-m1-chip-keeps-butter-from-melting/</link>
-    <guid>https://technews.tw/2026/11/09/deepx-says-dx-m1-chip-keeps-butter-from-melting/</guid>
-    <pubDate>Mon, 09 Nov 2026 03:10:10 +0000</pubDate>
-    <description><![CDATA[韩国人工智慧晶片新创 DEEPX 近日在美国展示低发热 AI 晶片 DX-M1，强调运作时温度表现明显优于一般晶片。 执行长 Kim Keun-won 接受 CNBC 访问时表示，与其他晶片相比，DX-M1 温差可达 25°C~40°C，甚至用「奶油放在上面都不易融化」形容卓越低温特性。
-
-DEEPX 补充，DX-M1 是主打推论运算的 AI 加速器，采用 M.2 规格设计，可直接装在主机板的 M.2 插槽，售价 139 美元。 这款晶片提供 25TOPS 的 INT8 算力，功耗仅约 2W~5W，非常适合地端电脑视觉、物件侦测、即时影像分析、机器人导航与视觉检测等应用场景。
-
-DX-M1 内建 4GB LPDDR5 记忆体与 128GB QSPI NAND Flash，并经 PCIe Gen 3 介面运作，支援 PyTorch、TensorFlow、TensorFlow Lite 与 ONNX 等框架，并搭配 DXNN SDK 使用。DEEPX 明确指出，这款产品并非训练大型模型用，也不适合执行 70B 或 27B 等级的重型大型语言模型（LLM），只锁定低功耗、低噪音与稳定散热的边缘 AI（Edge AI）应用场景。]]></description>
+    <title>讯芯-KY10月营收7.99 亿元</title>
+    <link>https://finance.technews.tw/2026/11/09/shunsin-6451-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/shunsin-6451-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:50:07 +0000</pubDate>
+    <description><![CDATA[讯芯-KY（6451）今（9）日公布 10 月营收，达 7.99 亿元，较 9 月成长 11.5%，较去年同期 [&#8230;]]]></description>
   </item>
   <item>
-    <title>币安遭骇 63 亿美元后换财务长，官方：交接半年前就已规划</title>
-    <link>https://technews.tw/2026/11/09/binance-names-new-cfo-days-after-6-3-billion-cryptocurrency-hack/</link>
-    <guid>https://technews.tw/2026/11/09/binance-names-new-cfo-days-after-6-3-billion-cryptocurrency-hack/</guid>
-    <pubDate>Mon, 09 Nov 2026 03:05:58 +0000</pubDate>
-    <description><![CDATA[全球最大加密货币交易所币安（Binance）在遭遇重大资安事件后，宣布更换财务长。公司表示，任职超过五年的 Kaiser Ng 将离任，改由金融科技公司空中云汇（Airwallex）前财务主管 Justin Yek 接任，接手币安的财务管理工作。
-
-这项人事异动发生在币安于 10 月 29 日遭骇、约 63 亿美元加密资产被窃之后不久，外界关注两者是否相关。不过，币安发言人向外媒表示，这次领导层交接其实早在六个多月前就已规划，与近期的安全事件没有关联。币安共同执行长何一也指出，Ng 离职是为了追求新的事业发展，过去半年已启动交接安排。
-
-币安目前正一边追查失窃资产，一边加强资安防护。公司先前表示，已补回 98% 的受影响代币资产，并称约 28.5 亿美元的被盗资产已遭冻结或拦截。币安也承诺由平台自行吸收损失，不会转嫁给用户。
-
-根据币安说法，这起攻击是透过伪造征才与恶意程式入侵员工电脑，进一步利用内部系统与人工智慧工具执行未授权交易。美国联邦调查局（FBI）则将这起事件归咎于与北韩有关的骇客组织。新任财务长 Yek 表示，期待在公司持续扩张之际，带领财务团队稳健前进。]]></description>
+    <title>旭隼10月营收16.11 亿元</title>
+    <link>https://finance.technews.tw/2026/11/09/voltronic-6409-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/voltronic-6409-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:50:03 +0000</pubDate>
+    <description><![CDATA[旭隼（6409）今（9）日公布 10 月营收，达 16.11 亿元，较 9 月成长 -14.0%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>Firefly 获 13 亿美元火箭引擎大单  股价飙逾 36%</title>
-    <link>https://technews.tw/2026/11/09/firefly-aerospace-signs-rocket-engine-deal-valued-at-more-than-1-3-billion-with-ast-spacemobile/</link>
-    <guid>https://technews.tw/2026/11/09/firefly-aerospace-signs-rocket-engine-deal-valued-at-more-than-1-3-billion-with-ast-spacemobile/</guid>
-    <pubDate>Mon, 09 Nov 2026 03:00:12 +0000</pubDate>
-    <description><![CDATA[美国航太业者 Firefly Aerospace 6 日宣布，与卫星通讯公司 AST SpaceMobile 签署总值逾 13 亿美元的火箭引擎供应及技术授权协议，协助 AST 开发自有重型运载火箭 Blacklift，降低对 SpaceX 等外部发射服务商的依赖。利多消息激励 Firefly 股价飙涨逾 36%。
-
-路透社等外媒报导，根据为期三年的协议，Firefly将供应27台Miranda引擎及9台Vira真空引擎，用于AST首批三枚Blacklift火箭，并提供技术授权及工程支援，让AST未来能自行生产引擎。
-
-AST预计2028年底首度发射Blacklift火箭，采可重复使用设计，每次最多可搭载五颗BlueBird卫星。AST正积极部署全球卫星宽频网路，计划发射共248颗卫星，提供一般手机直接连接卫星的通讯服务。
-
-近年SpaceX等大型火箭业者优先安排自家卫星发射任务，压缩其他卫星业者可取得的发射量能。AST因此决定自行开发火箭，以提高卫星部署时程的掌控度，但仍将同步采用第三方发射服务。
-
-AST将以现金及股份为对价支付予Firefly，相关资金用于扩充火箭产能、招募工程人员，以及增设德州火箭引擎测试设施，加速旗下Alpha与新一代Eclipse火箭的研发及生产。
-
-Firefly将保有引擎技术的智慧财产权，并持续服务政府及商业发射客户。
-
-11月6日Firefly股价飙涨36.80%、收20.76美元，AST股价劲扬7.05%、收32.33美元。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Firefly Aerospace）]]></description>
+    <title>金宝10月营收月减23.6%</title>
+    <link>https://finance.technews.tw/2026/11/09/kinpo-2312-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/kinpo-2312-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:30:06 +0000</pubDate>
+    <description><![CDATA[金宝（2312）公布 10 月合并营收 169.38 亿元，较上（9）月成长 -23.6%，与去年同期相比为年增 8.3%；累计其今年前 10 月营收为 1,435.62 亿元，较去年同期增加 5.5%。]]></description>
   </item>
   <item>
-    <title>AI 吸走七成 DRAM，记忆体荒恐延续到 2030 年代，GPU 价格难回落</title>
-    <link>https://technews.tw/2026/11/09/there-is-no-end-in-sight-for-the-gpu-supply-problem/</link>
-    <guid>https://technews.tw/2026/11/09/there-is-no-end-in-sight-for-the-gpu-supply-problem/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:55:27 +0000</pubDate>
-    <description><![CDATA[AI 资料中心需求持续升温，正把全球记忆体供应推向更紧绷的局面，也让消费级 GPU 与其他电脑零组件价格一路攀升。根据多份产业报告与市场追踪，这波由 AI 带动的缺货潮不仅没有降温，反而可能一路延续到 2027 年之后，甚至拖到 2030 年代。
+    <title>酷澎涉滥用餐饮外送市场主导地位，遭韩重罚 2.2 亿美元</title>
+    <link>https://technews.tw/2026/11/09/coupang-fined-220-million-south-korea-alleged-abuse-dominant-food-delivery-market-position/</link>
+    <guid>https://technews.tw/2026/11/09/coupang-fined-220-million-south-korea-alleged-abuse-dominant-food-delivery-market-position/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:20:37 +0000</pubDate>
+    <description><![CDATA[韩国公平交易委员会今天以酷澎滥用餐饮外送市场的主导地位为由，对电商巨擘酷澎（Coupang）处以 3,009 亿韩圜（约 2 亿 2,059 万美元）罚款。
 
-市场压力首先反映在 DRAM 与显示卡价格上。摩根大通（JPMorgan Chase）预估，到 2026 年底，DRAM 价格将较 2024 年上涨 400%。Tom’s Hardware 的追踪显示，辉达（NVIDIA）旗舰消费级显示卡 GeForce RTX 5090 目前售价已高达 4,920 美元，远高于其 2025 年 1 月上市时 1,999 美元的建议售价。在日本，部分游戏显示卡价格也比美国市场高出约 41%。
+路透社报导，韩国公平交易委员会（Korea Fair Trade Commission，FTC）指出，酷澎要求商家必须配合提供和竞争对手平台一样的优惠条件，并对未配合商家采取惩罚措施。酷澎要求餐厅遵守六项条件，包括菜单价格、最低订单金额、折扣及外送费。
 
-这波涨势不只冲击显示卡，还扩散到整体消费电子市场。摩根大通指出，软体与配件的消费者物价指数在过去两年几乎上升了四分之一；《经济学人》2026 年的报告也发现，游戏主机与笔电价格同步走高，甚至导致 PC 出货量出现少见下滑。市场上也出现转售商趁势加价的情况，像是 GameStop 贩售的 Sony PlayStation 5 Pro，价格就比建议售价高出约 500 美元。
+公平交易委员会还表示，未能配合的餐厅可能失去一项特殊资格，无法再向酷澎付费会员提供折扣及免运费优惠。符合这些要求的餐厅比例，已从2023年7月约13%，升至2025年10月近94%。
 
-供应吃紧的核心，仍是记忆体产能被 AI 资料中心大量吸走。高频宽记忆体（HBM）是 AI 模型训练与推论的关键元件，而 HBM 与 DRAM、其他记忆体产品共享晶圆产能。由于 HBM 售价约比传统 DRAM 高出 30%，供应商持续把产能转向利润更高的 HBM，并且还在切换到 HBM4 与 HBM4E 等新世代产品，进一步压缩整体供给。业界估计，AI 资料中心 2026 年将消耗全球约 70% 的 DRAM 供应。
+公平交易委员会也以类似行为为由，对竞争对手外送平台Baemin的营运商Woowa Brothers处以3,311亿韩圜罚款。Woowa Brothers之后声明，已向公平交易委员会说明并未违法，对相关论点未获充分采纳感到遗憾，并将审慎评估这项裁决。
 
-供应商的接单状况也显示短缺恐怕不会很快结束。报导指出，美光（Micron）已卖出 2027 年 HBM 产量的 75%，且成交价格明显高于 2026 年；三星（Samsung）则已售出近 80% 的 2027 年记忆体产能，其中约 70% 还被五年期合约绑定。多家业者都在扩产，但仍坦言短缺将持续一段时间，部分供应商甚至已把销售重心转向 2028 年以后。
+酷澎则声明，罚款金额过高，是2020年涉及另一家外送平台的类似案件罚款金额的600倍余。公平交易委员会计算罚款时，将与遭指控行为无关的营收纳入计算，损害公司的答辩权利；公司将透过法律程序对这项裁决提出异议。
 
-在这样的背景下，业界对何时能恢复平衡看法分歧。宏碁（Acer）执行长陈俊圣认为，若中国替代方案更便宜，2027 年价格可能趋于平稳；但也有供应链人士警告，记忆体荒可能延续到 2028 年下半年，甚至更久。整体来看，AI 资料中心对记忆体的强劲需求，已让 GPU 与 RAM 价格短期内难见明显回落。]]></description>
+这项裁决使得在美国上市的酷澎与韩国当局的紧张关系再度升高。韩国当局6月才因酷澎2025年发生资料外泄事件、影响超过3,300万名客户，开罚公司6,240亿韩圜。]]></description>
   </item>
   <item>
-    <title>DraftKings 财报后崩二成  重押预测市场伤财测</title>
-    <link>https://finance.technews.tw/2026/11/09/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock/</link>
-    <guid>https://finance.technews.tw/2026/11/09/draftkings-expensive-bet-on-prediction-markets-is-crushing-its-stock/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:50:28 +0000</pubDate>
-    <description><![CDATA[美国线上运动博弈平台 DraftKings 大举投入预测市场，庞大支出侵蚀获利，导致大幅下修财测，市场对竞争与监管风险的疑虑也升温，股价崩跌逾二成。
-
-MarketWatch等外媒报导，DraftKings于上周四（5日）美股盘后宣布，今年预计投入6.5亿至7亿美元发展预测市场，受此影响，全年经调整息税折旧摊销前获利（EBITDA）预估降至1.75亿至2.75亿美元，远低于8月时预估的7亿至9亿美元。
-
-展望2027会计年度，DraftKings预估预测市场业务营收将达6.5亿至7.5亿美元，相关投资则为2.5亿至3.5亿美元。
-
-DraftKings是美国知名线上运动博弈平台，近年也积极拓展预测市场业务，即让用户针对选举、体育及娱乐等事件下注的投注活动；除两大平台Polymarket和Kalshi之外，Robinhood及Coinbase等交易平台也积极抢进，竞争日益激烈。
-
-DraftKings执行长罗宾斯（Jason Robins）表示，今年迄今已有逾160万名客户以某种形式参与预测市场业务，客户参与度、留存率及交易量均高，看好2027年表现续强；核心业务持续产生可观自由现金流，可支应预测市场成长。
-
-预测市场业务的监管风险和激烈竞争仍令投资人不安，各界现预期，民主党掌控国会，可能使运动博弈与预测市场面临更严格的审查。
-
-MoffettNathanson分析师费许曼（Robert Fishman）直言，DraftKings形同将所有筹码押在仍充满未知数的业务上，并质疑公司如何与规模远高于自身的对手竞争。
-
-美银分析师胡佛（Julie Hoover）则认为，考量监管风险，投资人对预测市场的高额投资感到失望；公司应更严格控管支出，才可能提升获利和股价。
-
-DraftKings股价6日崩跌21.30%，收18.51美元，年初迄今已惨跌近五成。
-
-（本文由MoneyDJ新闻授权转载；首图来源：Unsplash）]]></description>
+    <title>博智10月营收5.64 亿元</title>
+    <link>https://finance.technews.tw/2026/11/09/accl-8155-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/accl-8155-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:20:09 +0000</pubDate>
+    <description><![CDATA[博智（8155）今（9）日公布 10 月营收，达 5.64 亿元，较 9 月成长 0.1%，较去年同期成长 2 [&#8230;]]]></description>
   </item>
   <item>
-    <title>AI 带旺记忆体，三星现金资产冲破 200 兆韩圜创韩国企业纪录</title>
-    <link>https://technews.tw/2026/11/09/samsungs-cash-pile-hits-record-214-8-trillion-won/</link>
-    <guid>https://technews.tw/2026/11/09/samsungs-cash-pile-hits-record-214-8-trillion-won/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:45:31 +0000</pubDate>
-    <description><![CDATA[受惠于人工智慧带动的半导体景气，三星电子（Samsung Electronics）2026 年第三季末现金资产攀升至 214.8 兆韩圜，成为韩国首家现金持有突破 200 兆韩圜的企业。这笔金额包含现金、现金等价物与短期金融商品，较前一季的 190 兆韩圜增加 24.8 兆韩圜，与 2025 年同期的 108.5 兆韩圜相比几乎翻倍。
-
-业界资料显示，三星电子的净现金（即扣除借款后的金额）已达 197.6 兆韩圜，逼近 200 兆韩圜大关；截至 2026 年 9 月底，总资产也增至 791.8419 兆韩圜，距离 800 兆韩圜仅一步之遥。借款减少与获利改善，让公司财务体质进一步强化。
-
-在资金充裕之下，三星电子 2026 年的股东回馈与投资规模也同步放大。公司先前表示，2026 年可用于股东回馈的金额约在 90 兆至 110 兆韩圜之间，市场普遍认为，现有现金水位足以支撑最高上限的回馈方案。另一方面，三星电子 2026 年的资本支出预估达 84.4 兆韩圜，研发支出也将创新高，两者合计可望突破 130 兆韩圜。
-
-其中，半导体部门预计投入 76.8 兆韩圜，用于扩充记忆体产能并强化美国德州泰勒厂的晶圆代工业务。三星电子并预期，随著 AI 投资持续扩大、记忆体供给仍偏紧，半导体超级景气有望延续到 2027 年；公司也计划在 2027 年 1 月的董事会上公布下一年度的股东政策。]]></description>
+    <title>旺矽10月营收月增9.0%</title>
+    <link>https://finance.technews.tw/2026/11/09/mpi-6223-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/mpi-6223-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:20:08 +0000</pubDate>
+    <description><![CDATA[旺矽（6223）公布 10 月合并营收 22.32 亿元，较上（9）月成长 9.0%，与去年同期相比为年增 9 [&#8230;]]]></description>
   </item>
   <item>
-    <title>连洗澡做饭都成难题，印尼巴淡岛居民抗议 AI 资料中心抢民生用水</title>
-    <link>https://technews.tw/2026/11/09/indonesians-take-aim-at-data-centres/</link>
-    <guid>https://technews.tw/2026/11/09/indonesians-take-aim-at-data-centres/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:40:24 +0000</pubDate>
-    <description><![CDATA[在印尼巴淡岛，随著一座座资料中心拔地而起，为全球人工智慧（AI）热潮提供支援，当地自来水却面临枯竭，连做饭与洗澡都变得十分困难，引发当地居民发起抗议。
-
-当地自来水营运商告诉法新社，这个地区因降雨量偏低，长期饱受干旱之苦，强烈的圣婴现象更使干燥情况加剧。
-
-不过，与其他国家情况相同，资料中心也引发民众不满。这类设施外观类似仓库，负责维持各种应用程式及AI工具运作，且往往需要大量用水来冷却运转中的伺服器。
-
-印尼和马来西亚民众的不满情绪日益升高，尤其是在与新加坡接壤、被视为兴建新科技设施的优先地点。
-
-54岁的技工朱尼亚迪（Juniardi Adinda Sembiring Gurukinayan）告诉法新社，起初当地民众的主要反应是「感谢上天，巴淡岛终于有产业进驻了」。但近期巴淡岛部分社区的自来水服务频繁严重中断，导致他「有时甚至只好不洗澡」。他说：「没有水，我们就无法煮饭，也不能煮蔬菜。」
-
-在情况最严重的时候，数十名愤怒居民自发前往农沙数位园区（Nongsa Digital Park）外抗议。这座由资料中心及其他设施组成的新兴聚落，已被划定为经济特区。
-
-朱尼亚迪指出，当地居民认为，「缺水问题……与资料中心的兴建有关」。
-
-自来水公司巴Air Batam Hilir发言人金达（Ginda Alamsyah）表示，干旱导致附近的农沙水库（Nongsa Reservoir）水位大幅下降，供水系统又因电力故障进一步受到影响。
-
-根据KPMG安侯建业一份报告，受AI使用量暴增10倍带动，东南亚资料中心的容量预计到2030年将达到2025年的3倍。
-
-这可能对供水造成压力，也让仍严重依赖暖化地球之化石燃料的电网面临严峻考验。
-
-印尼和马来西亚的资料中心兴建热潮，始于高度联网的新加坡受资源限制影响，于2019年至2022年间暂停核准新的资料中心开发案。
-
-此后，两国资料中心建设加速，政府与科技巨头投入数千亿美元，用于训练及运行AI，带动两国经济成长。
-
-金达表示，Air Batam Hilir支持鼓励在巴淡岛投资与发展的政策。巴淡岛位于新加坡南方、并透过海底电缆与新加坡相连。但他也指出，必须妥善管理用水需求。他补充说，Air Batam Hilir正透过疏浚作业，提高巴淡岛6座水库的蓄水能力，干旱期间也可考虑采取人工造雨的措施。]]></description>
+    <title>嘉威10月营收2.87 亿元</title>
+    <link>https://finance.technews.tw/2026/11/09/gamma-3557-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/gamma-3557-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:20:05 +0000</pubDate>
+    <description><![CDATA[嘉威（3557）今（9）日公布 10 月营收，达 2.87 亿元，较 9 月成长 -3.6%，较去年同期成长  [&#8230;]]]></description>
   </item>
   <item>
-    <title>打得出来却不会被推荐，iPhone 键盘暗藏约 10 万个「不建议词」</title>
-    <link>https://technews.tw/2026/11/09/apples-iphone-keyboard-has-a-hidden-list-of-words-it-refuses-to-suggest/</link>
-    <guid>https://technews.tw/2026/11/09/apples-iphone-keyboard-has-a-hidden-list-of-words-it-refuses-to-suggest/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:35:38 +0000</pubDate>
-    <description><![CDATA[研究人员近日发现，苹果（Apple） iPhone 键盘内部存在一份未公开的多语言灰名单，涵盖约 10 万个词汇与片语，会被系统排除在自动完成与滑动输入建议之外。不过，这并不代表使用者无法输入这些字词；若以逐字方式键入，仍可正常输入，且也能手动略过系统的预测建议。
+    <title>易游网遭骇 69 万人个资外泄，业者：未涉及信用卡号</title>
+    <link>https://infosecu.technews.tw/2026/11/09/eztravel-hacked-690000-personal-data-records-leaked-company-says-credit-card-numbers-not-compromised/</link>
+    <guid>https://infosecu.technews.tw/2026/11/09/eztravel-hacked-690000-personal-data-records-leaked-company-says-credit-card-numbers-not-compromised/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:10:27 +0000</pubDate>
+    <description><![CDATA[易游网 7 日侦测到会员中心出现外部异常网路攻击行为，部分历史订单联络资料遭不当取得，逾 69 万人受影响。易游网指出，经清查，本次事件未涉及信用卡卡号等，但提醒要留意诈骗。
 
-根据独立研究人员 Derik Kauffman 的说法，这份名单大多由粗俗、冒犯性内容，以及与毒品、性和暴力相关的字词组成，但其中也出现一些政治敏感片语，例如「dictator Trump」（独裁者川普）、「sleepy Joe」（瞌睡乔）、「right wing conspiracy」（右翼阴谋论）、「Tibetan independence」（西藏独立运动）与「United Ireland」（联合爱尔兰）。他还指出，不同语言版本的 iOS 键盘也各自有不同的限制，像是印地语、法语与希伯来语都能找到对应的被排除词组。
+易游网今天声明，7日主动侦测到会员中心出现外部异常网路攻击行为，发现异常后，立即启动资安防御与应变机制，并完成异常流量拦截与阻断，同步委请外部第三方资安专业团队协助调查及数位鉴识。
 
-Kauffman 表示，他是在今年 9 月注意到某些片语在滑动输入时会出现异常，例如「bad boy」与「white man」会被系统卡住，但「bad girl」或「black man」却没有同样情况，因而展开追查。他后来利用 AI 程式工具深入分析 iOS 系统，最终在系统深处找到这份清单，并将其整理公开。路透社（Reuters）也测试了其中部分词组，确认它们确实无法顺利透过滑动输入完成，或不会出现在自动完成建议中。
+易游网指出，经初步清查，部分历史订单联络资料遭不当取得，涉及资料可能包含姓名、电子邮件、联络电话及商品订购资讯等，经系统比对与去重后，受影响人数逾69万人，已依个人资料保护相关法令，主动于法定时限内向主管机关及警政单位通报。
 
-苹果对此未直接回应名单的规模、内容或为何纳入部分政治词汇，只表示 iPhone 键盘的设计目的是避免提供可能不适当或冒犯性的建议，使用者仍可自行输入任何想输入的字词。这份隐藏名单的存在，也让外界重新关注科技公司如何在预测输入便利性与内容过滤之间拿捏界线。]]></description>
+易游网表示，本次事件无涉及信用卡卡号、 安全码及帐号登入密码，亦不包含消费者护照号码与身分证字号，不影响任何交易金流安全。
+
+造成消费者的不安与疑虑，易游网郑重致上最深切的歉意，任何影响消费者资料安全的情事绝不轻忽，也不会回避应尽的责任。
+
+易游网说，已主动以简讯及信件通知受影响消费者，提醒相关风险及防诈注意事项，但诈骗集团可能会利用订单资讯，假冒客服或银行人员，以「订单异常」、「重复扣款」等理由诱导消费者提供信用卡资讯、简讯验证码，要求操作ATM及点击不明连结。
+
+易游网提醒旅客，绝对不会透过客服电话、简讯或电子邮件要求消费者提供帐户密码、简讯验证码，或操作ATM解除分期付款。]]></description>
   </item>
   <item>
-    <title>彭博：苹果特纳斯施压软体主管，下令全面加速 AI 开发蓝图</title>
-    <link>https://technews.tw/2026/11/09/apple-executives-pressure-accelerate-ai-development/</link>
-    <guid>https://technews.tw/2026/11/09/apple-executives-pressure-accelerate-ai-development/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:30:03 +0000</pubDate>
-    <description><![CDATA[《彭博社》引述消息人士报导，苹果新任执行长约翰·特纳斯（John Ternus）近期在一场闭门会议中，要求软体主管克雷格·费德里吉（Craig Federighi）加快公司的软体工程与 AI 开发步调。他期望苹果不要仅停留在改善 Siri，而是应朝著更具野心的方向前进。
-
-报导指出，特纳斯对苹果在 AI 领域的进展速度感到挫折，认为相较于竞争对手，公司的脚步仍显得保守。尽管费德里吉在前任 AI 负责人离职后已全面接手相关业务，且目前没有任何迹象显示他将离开苹果，但高层显然希望改变他对软体发展的策略思维。
-
-消息人士也提到，苹果内部在开发节奏上存在落差。费德里吉主导的软体团队，通常只制定 12 到 18 个月的短期计划，但硬体工程团队往往采用长达数年的长期蓝图。这种软硬体计划上的时间差，被认为可能影响了新产品的开发速度与初期版本的雄心。
-
-除了面临高层施压，彭博也披露苹果正在试验全新的开发流程。随著 AI 程式码生成工具持续进步，苹果正寻求透过流程调整来提升研发效率，让工程师减少「程式码整合」的工作比重，从而有更多时间专注于撰写与创新探索。报导并称，为了让组织运作更顺畅，费德里吉未来可能必须适度放宽对软体工程团队的高度掌控，给予其他领导者更多独立发挥的空间。
-
-（首图来源：Flickr/MIKI YoshihitoCC BY 2.0）]]></description>
+    <title>新日兴10月营收6.50 亿元</title>
+    <link>https://finance.technews.tw/2026/11/09/szs-3376-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/szs-3376-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:10:06 +0000</pubDate>
+    <description><![CDATA[新日兴（3376）今（9）日公布 10 月营收，达 6.50 亿元，较 9 月成长 -23.5%，较去年同期成 [&#8230;]]]></description>
   </item>
   <item>
-    <title>黄仁勋间谍外遇案扩大：纽时揭露两家获准经手辉达 H200 中企是空壳公司</title>
-    <link>https://finance.technews.tw/2026/11/09/nvidia-h200-china-buyer-turns-out-to-be-an-empty-office/</link>
-    <guid>https://finance.technews.tw/2026/11/09/nvidia-h200-china-buyer-turns-out-to-be-an-empty-office/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:25:06 +0000</pubDate>
-    <description><![CDATA[《纽约时报》调查指出，美国商务部核准多家中国企业经手辉达 H200 人工智慧晶片后，发现至少两家公司登记地址几乎形同空壳，且与遭美方制裁或列入实体清单的企业关联密切，又引发外界质疑出口审查机制是否真的落实。
-
-获准处理 H200 晶片的北京公司 New Matrix，登记地点位于北京西北郊一处新建工业园区，但现场却是一栋灰色空楼，天花板还可见外露电线。公司成立仅 17 个月，官网也找不到员工名单、征才资讯或公司历史。根据中国企业登记资料，New Matrix 主要股东与智路资本（Wise Road）有关，而智路资本 2024 年就被美国列入实体清单，原因是协助北京取得敏感晶片技术。New Matrix 董事长李滨也与紫光集团及旗下新华三半导体等企业有关。
-
-另一家同样获准处理 H200 晶片的中国公司 Maginfra，《纽约时报》也查到登记地址空无一人，办公室只有几张椅子与空桌，楼层人员与大楼接待人员都表示不认识这家公司。分析人士认为，Maginfra 可能与因涉中国军方合作遭美方制裁的浪潮集团（Inspur）有关，双方人员、专利与政府持股结构都有重叠。
-
-除了这两家公司，报导还提到另有获准购买 H200 晶片的浙江银盾云科技，高层与资料中心商 Range Intelligent Computing Technology Group 创办人关系密切，此集团曾出租算力给中国军方承包商。《纽时》指出，美国商务部已核准约 24 家中国企业购买或经手 H200 晶片，名单还有百度、比亚迪、特斯拉上海、阿里巴巴、腾讯与字节跳动等知名企业。
-
-白宫国安会中国事务前主任托宾（Liza Tobin）表示，她担心商务部与辉达都没有做好必要的尽职调查，无法确保授权条款确实遵守。这起调查也让外界再度聚焦川普政府放宽辉达晶片销中政策后，审查是否足以防堵敏感技术流向北京。]]></description>
+    <title>微星10月营收月减2.3%</title>
+    <link>https://finance.technews.tw/2026/11/09/msi-2377-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/msi-2377-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:10:03 +0000</pubDate>
+    <description><![CDATA[微星（2377）公布 10 月合并营收 194.61 亿元，较上（9）月成长 -2.3%，与去年同期相比为年增 -5.6%；累计其今年前 10 月营收为 1,825.76 亿元，较去年同期增加 -5.5%。]]></description>
   </item>
   <item>
-    <title>食药署：瘦瘦针疑不良反应通报达 63 件，非罕见副作用</title>
-    <link>https://technews.tw/2026/11/09/taiwan-fda-63-suspected-adverse-reaction-reports-weight-loss-injections-not-uncommon-side-effects/</link>
-    <guid>https://technews.tw/2026/11/09/taiwan-fda-63-suspected-adverse-reaction-reports-weight-loss-injections-not-uncommon-side-effects/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:20:20 +0000</pubDate>
-    <description><![CDATA[瘦瘦针当心误用没效又伤身，食药署今年接获 63 件疑似使用 GLP-1 药品减重不良反应通报案件，最常见的不良事件并非罕见副作用，是以肠胃疾病、低血糖、恶心等为主。
-
-卫生福利部食品药物管理署透过全国药物不良反应通报系统，持续监测GLP-1受体促效剂注射剂，俗称瘦瘦针，用于减重的上市后安全性，并已于115年3月13日发函，要求药商及医疗院所加强安全监测与通报。食药署8日公布最新统计，今年共计接获63件疑似不良反应通报案件。
-
-根据食药署统计，63件疑似不良反应通报案件里，其中用于减重共39件，通报症状如肠胃疾病，含腹痛、肠阻塞、胰脏炎，另外还有低血糖、恶心、呕吐、注射部位不适等。食药署提醒GLP-1受体促效剂注射剂属医师处方药，民众应经医师诊察及专业评估后，依处方及医嘱使用。
-
-食药署透过文字向媒体再次呼吁，使用瘦瘦针的民众用药期间如发生药品不良反应，应立即寻求医疗协助。将持续透过多元宣导管道，加强宣导民众于减重时，使用GLP-1受体促效剂注射剂正确观念。
-
-另外，医界提醒使用瘦瘦针存在「麻醉风险」，中华民国糖尿病卫教学会理事长欧弘毅指出，瘦瘦针会影响胃部消化速度，使胃排空时间拉长，即使术前已禁食，胃中仍可能残留食物，一旦进行麻醉，恐提高胃内容物逆流，甚至误入气管及肺部的风险。
-
-欧弘毅进一步说明，为建立更完善的用药安全规范，学会目前正积极推动亚洲跨国专家合作，预计由台湾携手日本、韩国等国专家共同研拟指引，盼于明年初完成讨论，做为医疗团队评估用药及手术风险的重要依据。
-
-（作者：陈婕翎；首图来源：Flickr/mahmoud99725CC BY 2.0）]]></description>
+    <title>宏碁10月营收263.91 亿元</title>
+    <link>https://finance.technews.tw/2026/11/09/acer-2353-202610-financial-report/</link>
+    <guid>https://finance.technews.tw/2026/11/09/acer-2353-202610-financial-report/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:10:02 +0000</pubDate>
+    <description><![CDATA[宏碁（2353）今（9）日公布 10 月营收，达 263.91 亿元，较 9 月成长 -24.0%，较去年同期 [&#8230;]]]></description>
   </item>
   <item>
-    <title>伺服器上升周期带动信骅强劲成长，高盛力挺目标价 22,000 元</title>
-    <link>https://finance.technews.tw/2026/11/09/the-server-upcycle-has-driven-aspeeds-strong-growth/</link>
-    <guid>https://finance.technews.tw/2026/11/09/the-server-upcycle-has-driven-aspeeds-strong-growth/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:20:17 +0000</pubDate>
-    <description><![CDATA[外资高盛发布最新研究报告指出，伺服器产业上升周期将持续驱动台湾伺服器远端管理晶片（BMC）大厂信骅强劲成长。高盛重申对信骅的「买进」投资评等，并维持目标价新台币 22,000 元。
+    <title>辉达董事会调查黄仁勋婚外情间谍案，耶鲁学者估保住职衔机率五五波</title>
+    <link>https://finance.technews.tw/2026/11/09/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</link>
+    <guid>https://finance.technews.tw/2026/11/09/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</guid>
+    <pubDate>Mon, 09 Nov 2026 10:00:08 +0000</pubDate>
+    <description><![CDATA[辉达（NVIDIA）董事会针对执行长黄仁勋与疑似中国间谍的关系展开独立调查，耶鲁大学管理学院资深副院长 Jeffrey Sonnenfeld 接受 TechCrunch 访问时认为，黄仁勋的职涯仍可挽救，但续任机率大约只有五成。
 
-报告指出，信骅2026年第3季营收达新台币47.86亿元，季增23.6%、年增105.4%，毛利率受原料成本上升影响降至69.5%，符合市场预估，单季每股盈余（EPS）来到48.13元。高盛分析，信骅客户订单能见度已延伸至2027年第2季，主要由四大动能推升：
+辉达董事会 8 日宣布展开独立调查，起因是黄仁勋向员工坦承对妻子不忠，而对象 Megaspeed 高层 Alice Huang 被美国官员认为是向北京传递资讯的中国间谍。中国驻美大使馆发言人 10 月下旬斥责相关指控是「毫无根据的抹黑与诽谤」，目前也没有任何人遭到起诉；董事会则表示，没有迹象显示国家安全或公司机密遭泄漏。
 
-展望2026年第4季，在通用型与AI伺服器需求强劲、导入新封测伙伴缓解产能瓶颈，以及调涨价格转嫁成本带动下，高盛预估第4季营收将季增38%，金额达66.21亿元，毛利率回升至71.9%。其中，10月营收月增24%，11月与12月平均月营收预估达23亿元。
+Sonnenfeld 是耶鲁管理学院领导力研究资深副院长，也是执行长领导学院（Chief Executive Leadership Institute）创办人，曾邀请黄仁勋出席执行长峰会。他表示自己欣赏黄仁勋，但形容这次事件是「非常糟糕的判断」，并指出即使黄仁勋只是天真，「辉达除他外的任何员工都会因此被开除」，光是鲁莽本身就可能造成「无法挽回的信任流失」。
 
-高盛预估，信骅BMC总出货量在2026至2028年将分别达到3,350万颗、5,150万颗与6,540万颗。财务表现方面，2026年营收预估年增102.8%，金额达到184.26亿元，EPS 198.25元。2027年营收预估年增97.3%，金额增加至363.58亿元，EPS 414.12元。2028年营收预估达528.23亿元，EPS 624.94元，营业利益率将由2026年的53.5%，逐步攀升至2028年的61.2%。]]></description>
+Sonnenfeld 认为，黄仁勋若能证明自己遭到欺骗，社会心理学所说的「特异信用」（idiosyncrasy credits）或许能救他一命。这个概念由社会心理学家 Edwin Hollander 在 1958 年提出，指人在群体展现能力并遵守规范后，会累积一定的容许空间；但若失误看起来出于私利、或触及群体的核心规范，这些信用也可能用尽。这个案例相关群体包括辉达董事会、约 4.2 万名受安全规范约束的员工，以及管制出口的美国政府。
+
+接班问题同样缺乏前例。Sonnenfeld 举惠普（HP）前执行长 Mark Hurd 为例，他在 2010 年因费用报告不实被迫辞职，约一个月后就获甲骨文（Oracle）延揽，但辉达是黄仁勋创办的公司，没有可比照之处。黄仁勋刻意维持扁平组织，自称约有 60 名直属部属，使外界很难判断接班人选会是谁。Sonnenfeld 指出，陷入危机的董事会常会向外寻求「弥赛亚式解方」，提出 Google 前执行长 Eric Schmidt 为可能性之一。
+
+TechCrunch 指出，辉达同时是 AI 建设的重要出资者，已投资 OpenAI、Anthropic、xAI、CoreWeave 与 Nebius，8 月与 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs、KKR 签署初步协议，目标是长期动员超过 5,000 亿美元。辉达表示黄仁勋将继续主持公司，但他接下来要面对 17 日公布最新财报，以及三名众议院委员会主席要求举行的 18 日闭门简报。Sonnenfeld 预期，即使黄仁勋保住职衔，也得交出部分日常决策权。
+
+Sonnenfeld 也提到，黄仁勋并未持有可巩固控制权的超级投票权股票，若有，要撤换他会更困难。他认为与必须接受安全审查制度的国防承包商相比，科技业保护机密方面「太过松散」，并希望董事会调查能厘清黄仁勋并未蓄意协助任何人。]]></description>
   </item>
   <item>
-    <title>马斯克揭露 Starlink V4 蓝图：打造太空通讯骨干，挑战海底电缆</title>
-    <link>https://technews.tw/2026/11/09/elon-musk-unveils-starlink-v4-blueprint-space-communication-backbone-challenges-submarine-cables/</link>
-    <guid>https://technews.tw/2026/11/09/elon-musk-unveils-starlink-v4-blueprint-space-communication-backbone-challenges-submarine-cables/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:15:05 +0000</pubDate>
-    <description><![CDATA[SpaceX 执行长马斯克近日再度描绘 Starlink 的下一阶段蓝图，表示公司正朝向以 Starlink V4 建立一套可与海底电缆竞争的太空通讯骨干。根据他在与投资人对谈及社群平台上的说法，这一代卫星将大幅提升整体传输能力，并把重点放在卫星之间的长距离雷射连结。
+    <title>Kobo Stack 订阅制首度亮相，电子书、文件及笔记云端同步</title>
+    <link>https://technews.tw/2026/11/09/kobo-stack-lets-users-securely-upload-files-and-sync-reading-progress-across-devices/</link>
+    <guid>https://technews.tw/2026/11/09/kobo-stack-lets-users-securely-upload-files-and-sync-reading-progress-across-devices/</guid>
+    <pubDate>Mon, 09 Nov 2026 09:59:01 +0000</pubDate>
+    <description><![CDATA[Kobo 推出一项名为 Kobo Stack 的全新订阅服务，读者能将自己的电子书与各项文件上传至 Kobo Cloud，并在阅读器与应用程式之间同步，包含阅读进度、划线重点及各项注记。Kobo Stack 还有类似于亚马逊 Send to Kindle 的功能「Send to Kobo」，然而 Kobo 的版本夫要付费才能使用。
 
-马斯克指出，Starlink V4 的整体能力预计将比 V3 再提升约 10 倍，而 V3 本身又比 V2 强约 10 倍。他同时提到，未来每颗卫星可能配备约 100 条雷射连结，每条连结的传输速度可超过 10 Tbps，借此让大量资料能直接在轨道间传输，而不必过度依赖地面基础设施。
+Kobo Stack 支援的文件类型包含 EPUB 与 PDF，档案大小上限为 200MB，可透过 Kobo 网站上传至 Kobo Cloud，也能透过电子邮件寄送至订阅 Kobo Stack 所取得的专属邮件地址，最高能有 50GB 储存空间。读者上传的电子书与文件，可同步至登入 Kobo 帐号的阅读器及应用程式、网站。
 
-在他看来，若 SpaceX 最终部署约 10 万颗这类卫星，整体网路不仅有机会在容量上逼近甚至挑战传统海底电缆，还可能因为光在太空中的传播速度较快、路径更直接，而在跨洲通讯上具备优势。马斯克也将这项构想视为提升全球网路韧性的一环，认为太空中的冗余架构可在海底电缆遭破坏时，成为额外的全球连线通道。
+随著 Kobo 电子书阅读器软体测试版 6.0+ 释出，Kobo Stack 适用的阅读器包含 Kobo Libra Colour、Kobo Clara Colour 及 Kobo Clara BW，而对 2018 年至 2024 年之间较旧阅读器的支援即将推出。
 
-这番说法出现在外界对海底电缆安全日益关注之际。相关报导提到，阿曼湾近期曾出现与伊朗有关的船只在多条电缆路线附近徘徊，而海底通讯基础设施本身也被视为容易遭受破坏的关键民用设施。马斯克的构想，等于是把部分全球通讯能力移往低轨道，做为对现有海底网路的补强与备援。]]></description>
+Kobo 执行长 Michael Tamblyn 在 Threads 贴文分享，Kobo Stack 初期推出范围仅限加拿大、爱尔兰、英国、西班牙、澳洲、纽西兰 6 国，台湾尚未列入；其中，加拿大收费为每月 3.99 加币，英国则是每月 2.99 英镑。Kobo 将为 6 国读者提供 90 天的免费试用期，如果选择取消订阅，则有 60 天宽限期，用以下载并备份自己上传的档案，并汇出所有笔记，期限截止就会删除所有内容。
+
+（首图为 Kobo 执行长 Michael Tamblyn，来源：乐天 Kobo）]]></description>
   </item>
   <item>
-    <title>传 Anthropic 斥资逾千亿元采购发电机，供电 AI 资料中心</title>
-    <link>https://technews.tw/2026/11/09/anthropic-strikes-3-4bn-deal-to-generate-gas-fired-power-for-data-centres/</link>
-    <guid>https://technews.tw/2026/11/09/anthropic-strikes-3-4bn-deal-to-generate-gas-fired-power-for-data-centres/</guid>
-    <pubDate>Mon, 09 Nov 2026 02:10:17 +0000</pubDate>
-    <description><![CDATA[英国《金融时报》报导，美国人工智慧（AI）公司 Anthropic 已敲定一项价值 34 亿美元（约新台币 1,114 亿元）协议用于采购发电机，为 AI 资料中心供电。
+    <title>辉达与 SK 电信等韩企签 MOU，未回应黄仁勋争议</title>
+    <link>https://technews.tw/2026/11/09/nvidia-sk-telecom-korean-companies-mou-no-response-jensen-huang-controversy/</link>
+    <guid>https://technews.tw/2026/11/09/nvidia-sk-telecom-korean-companies-mou-no-response-jensen-huang-controversy/</guid>
+    <pubDate>Mon, 09 Nov 2026 09:50:52 +0000</pubDate>
+    <description><![CDATA[辉达（NVIDIA）、SK 电信及 Rebellions 三方今天在首尔签署 NVLink Fusion 合作备忘录（MOU）。虽然黄仁勋的女儿黄敏珊临时取消访韩，黄仁勋也深陷与疑似中国女间谍关系密切等争议，不过今天现场辉达并未回应相关争议。
 
-金融时报（Financial Times）引述知情人士披露，Anthropic 9月底向德州发电设备供应商OnePWR Solutions取得发电量合计1.7 GW（gigawatt，百万瓩）的重型发电机采购承诺。
+韩国科学技术资讯通信部今天发布新闻稿表示，签署仪式由科学技术部资讯通信政策室长李道奎（音译）、辉达资深副总裁雷蒙德（Raymond Teh）等人出席。科学技术部表示，此次合作备忘录是先前与辉达持续协商、以NVLink Fusion技术串接韩国国产NPU合作计划的一环。
 
-Anthropic并未收购该公司，这家供应商也没有任何员工转移至Anthropic。这笔交易还包含安装发电机所需的工程与施工能力。
+根据合作内容，SK电信未来在建置AI资料中心（AIDC）的过程中，将以辉达NVLink Fusion技术为基础，推动整合Rebellions的NPU与辉达GPU，建构异质AI运算系统。NVLink Fusion是辉达推出的平台，可支援将外部合作伙伴的加速器整合至辉达AI运算系统。
 
-路透社无法立即核实这篇报导。Anthropic和OnePWR均暂未回复媒体置评请求。
+科学技术部表示，此次合作的重要意义在于，国产NPU不再仅止于自主技术研发，而是进一步整合至引领全球AI运算市场的辉达系统架构。韩国AI半导体企业有望透过全球性AI运算平台，扩大产品应用范围，并在国际市场取得技术验证及商业化机会。
 
-外界目前对Anthropic旗下Claude系列AI模型的需求强劲，使该公司设法积极获取额外算力与电力产能。
+尤其随著近年AI推论需求增加，结合GPU与NPU的异质运算逐渐成为下一代AI基础设施的重要发展方向。科学部指出，国产NPU与辉达系统的整合，有望协助企业进军AI资料中心市场，并在重视运算效能、成本及能源效率的AI推论市场中取得新的商机。
 
-路透社9月报导，Anthropic预计未来10年投入逾5,000亿美元，用于建置AI基础设施。]]></description>
+科学技术部指出，将持续提供支持，让此次合作不仅限于Rebellions，也能扩大至其他国产NPU企业。
+
+科学技术部表示，为使与全球企业合作所创造的机会，实际转化为国内AI半导体产业的成长，政府将不仅著重技术研发与效能提升，也将建立涵盖实际验证、商业化及出口的产业生态系，积极强化国产AI半导体的全球竞争力。
+
+此外，根据韩联社报导，针对黄敏珊临时取消访韩行程、黄仁勋坦承与一名被控是间谍的中国籍女子关系密切等争议，今天辉达方面在现场并未回应。]]></description>
   </item>
 </channel>
 </rss>
