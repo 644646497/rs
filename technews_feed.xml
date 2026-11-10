@@ -4,279 +4,347 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Mon, 09 Nov 2026 23:52:51 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 04:55:16 GMT</lastBuildDate>
   <item>
-    <title>美期中选举为 AI 热潮降温，让真正有竞争力的业者浮出水面</title>
-    <link>https://technews.tw/2026/11/10/us-midterm-elections-temper-ai-hype-competitive-players-emerge/</link>
-    <guid>https://technews.tw/2026/11/10/us-midterm-elections-temper-ai-hype-competitive-players-emerge/</guid>
-    <pubDate>Mon, 09 Nov 2026 23:50:57 +0000</pubDate>
-    <description><![CDATA[美国期中选举开票后，美国民主党在参议院与众议院席次显著超过共和党，使美国白宫与国会互动成为全球关注的焦点。影响全球金融市场最大的因素为人工智慧（AI）产业发展，美国大厂的人工智慧资本支出大幅增加，人工智慧资本投入是否能获得资本利得回收，已引起各国讨论与担忧。除了人工智慧的投入与收益，人工智慧的管理与法律遵循也随著产业快速成长而相对不足。换言之，人工智慧快速发展衍生的风险也急遽增加。
+    <title>美新创 AI 机器人潜入 4 千公尺深海，精准夹取多金属结核成功</title>
+    <link>https://technews.tw/2026/11/10/impossible-metals-autonomous-robot-selectively-harvests-deep-sea-nodules-2-5-miles-down/</link>
+    <guid>https://technews.tw/2026/11/10/impossible-metals-autonomous-robot-selectively-harvests-deep-sea-nodules-2-5-miles-down/</guid>
+    <pubDate>Tue, 10 Nov 2026 04:50:38 +0000</pubDate>
+    <description><![CDATA[美国深海采矿技术新创 Impossible Metals 9 日宣布，自动水下机器人「Eureka 采集系统」9 月在太平洋克拉里昂─克利珀顿区完成科学潜航，于水深逾 4,000 公尺处以 AI 选择性采集多金属结核，称为全球首例。执行长卡纳特（Steve Curnutte）向《日本经济新闻》表示，有意与日本企业合作，将技术用于日本近海矿产开发。
 
-首先，就硬体建设而言，本次美国期中选举最受关注的为各州人工智慧资料中心建置（AIDC）。包括德州、宾州、乔治亚州、新墨西哥州、俄亥俄州与威斯康辛州等地方选举结果，是否影响未来AIDC的建置，有很高不确定性。AIDC兴建引起美国各州居民的担忧以及会成为候选人政见诉求的主因在于，这类设施的水电消耗、噪音等影响生活环境的负面外部性因素。AIDC建置对地方就业贡献有限下，当地选民对这类基础设施的建置当然不会欢迎。AIDC建设的疑虑并非美国独有，生活环境伤害远高于助益应是肯定的。故虽然已有新州长表示不反对AIDC兴建，但既存计划是否如期进行，就是美国期中选举对金融市场产生波动的主因。
+多金属结核是散布在深海海床、形似马铃薯的矿石，富含铜、镍等电动车与电子产品所需的关键矿物。业界多数方案是以类似吸尘器的集矿机在海床行驶，将结核连同沉积物一并吸起，再经扬矿管送上水面，因破坏栖地遭环保团体批评。
 
-美国期中选举后，美国费城半导体指数大跌，以半导体为主要产业的台湾股市也大幅下跌，11月2~6日累计下跌5,510点，距离2026年度目前最高点49,968点，下跌超过万点。因此，未来美国各州的AI产业监理措施将会继续对全球金融市场产生影响。
+Eureka 设计不同，它不接触海床，而是悬停在海底上方，靠浮力引擎控制升降，因此不需扬矿管，也免除废水排放。系统以电脑视觉辨识结核表面是否有生物附著，有就留在原地，只以机械手臂夹取其余结核。此次机器人自行下潜、采集约 450 公克结核后返回水面；因属科学研究，采集量刻意压低，样本将交由合作伙伴 Viridian Biometals 研究结核细菌族群。
 
-对台湾而言，根据财政部海关进出口资料显示，我国前三季对美国出口总值为2,077.77亿美元，占我国出口比重为31.4%，AI相关资通与视听产品出口金额为1,674.33亿美元，占输美产品出口比重为80.6%。由于我国产业对美出口高度集中AI产品，故美国AI产业的发展确实会大举影响台湾出口与经济的成长。
+卡纳特表示，Eureka 已经验证并取得专利，剩下的是扩大规模与量产，而非发明；由于可逐台增加机器人，不必一次建置大型基础设施，成本结构与依赖扬矿管和船队的方案截然不同。公司规划以「机器人即服务」模式与持有探勘许可的业者合作。
 
-其次，除了AIDC建置问题，消费者对AI产品依赖度提高，AI大语言模型的开发快速成长，AI发展速度已快到安全机制可能跟不上，美国AI业者Anthropic执行长阿莫戴（Dario Amodei）9月呼吁业界放慢发展步伐。
+测试结果将用于开发更大型的 Eureka III，预定 2027 年登上德国研究船「太阳号」，在德国联邦地球科学暨天然资源研究所（BGR）主导的环境影响研究，接受独立科学团队检验。
 
-其实AI安全机制缺乏监理产生的AI 代理（AI Agent）越狱与入侵事件，已愈来愈多，包含近期欧洲多国面对骇客透过网路远端操控冰箱温度，导致大量食品腐败，甚至威胁医疗血液保存安全等事件，都突显各国政府与厂商导入AI应用时，AI安全监理机制也应跟著加强，才可降低AI产生的风险。美国参议员桑德斯（Bernie Sanders）与众议员卡萨尔（Greg Casar）9月就共同提出《2026年禁止人工超级智慧法案》（Ban Artificial Superintelligence Act of 2026）草案，又称ASI禁令。若美国期中选举结果能提高美国政府的AI产业发展风险管理意识，对AI产业的长期发展应是帮助远大于伤害。
+资金方面，获 Y Combinator 支持的 Impossible Metals 同时揭露，联邦快递（FedEx）创办人史密斯（Fred Smith）家族参与 2026 年稍早完成的 A 轮募资，已成为第二大股东；美国情报体系的策略投资机构 In-Q-Tel 也是投资人。媒体报导此轮金额约 2,500 万美元，公司估值约 1.1 亿美元。
 
-最后，美国期中选举会影响AI产业的发展速度，但应不会影响长期趋势。对处在极高市场进入障碍（entry barrier）的厂商，既有市场需求已远大于厂商产能下，这类型厂商面对的风险较低；对因短期需求增加而非技术进步导致售价提高的厂商，可能受美国政策影响的幅度会较大。故美国期中选举造成金融市场的短期波动会让投资人受伤害，但长期若AIDC建置的合理性与AI监理机制有更多讨论，消费者才能安心使用AI产品，让AI产业上市公司的真实价格被看见，对产业的长期发展是正面影响。]]></description>
+不过，Impossible Metals 要进入商业开采，仍须取得国际海床管理局（ISA）或美国政府核准。]]></description>
   </item>
   <item>
-    <title>估值达 155 亿美元，法律 AI 超级独角兽 Harvey 传筹备 IPO</title>
-    <link>https://technews.tw/2026/11/10/legal-ai-startup-harvey-has-held-early-talks-about-an-ipo/</link>
-    <guid>https://technews.tw/2026/11/10/legal-ai-startup-harvey-has-held-early-talks-about-an-ipo/</guid>
-    <pubDate>Mon, 09 Nov 2026 23:40:55 +0000</pubDate>
-    <description><![CDATA[法律人工智慧新创公司 Harvey 已开始为进军资本市场做准备。据两名知情人士透露，这家近期估值达 155 亿美元的公司，已与瑞生国际律师事务所（Latham & Watkins）就首次公开募股（IPO）进行初步洽谈，但相关讨论仍属早期阶段，短期内并没有明确的上市计划。
+    <title>北美业务遇挑战  食品巨擘百事将裁员千人</title>
+    <link>https://finance.technews.tw/2026/11/10/pepsico-to-cut-about-1000-jobs-as-north-american-business-struggles/</link>
+    <guid>https://finance.technews.tw/2026/11/10/pepsico-to-cut-about-1000-jobs-as-north-american-business-struggles/</guid>
+    <pubDate>Tue, 10 Nov 2026 04:40:16 +0000</pubDate>
+    <description><![CDATA[食品饮料巨头百事公司（PepsiCo）面临北美业务疲弱的挑战，宣布裁员千人以精简营运、重振业务。
 
-知情人士指出，Harvey 目前更可能先观察接下来一批科技公司上市后的市场反应，再决定是否推进挂牌。目前 Harvey 与 Latham & Watkins 皆未对相关消息做出回应。
+综合外媒报导，百事北美执行长Ram Krishnan于9日致函员工，表示将在未来一周裁员，做为整体重整计划的一环，以期提高营运效率、加强北美业务团队之间的连结。未来将加快步调、强化协作与能力，打造更能因应未来需求的业务。
 
-Harvey 成立仅四年，却已成为法律科技领域最受瞩目的新创公司之一。该公司向律师事务所与企业法务部门销售人工智慧软体，并在 2026 年 9 月表示，其年度经常性营收（ARR）已突破 4 亿美元。公司目前拥有超过 3,500 家客户，涵盖美国前 100 大律师事务所中的 80%，以及《财星》500 大企业中的 20%，近期新增客户还包括 CVS Health 与洛克希德马丁（Lockheed Martin）。
+百事10月甫下修2026年全年获利展望，主因北美市场表现不振。第三季北美饮料业务销量下滑2%，北美食品业务销量则持平，显示核心市场成长仍面临压力。
 
-2026 年秋季，Harvey 也完成一轮 5.5 亿美元的融资，由 Diffusion 与 Lightspeed Venture Partners 领投，其他投资人包括高盛（Goldman Sachs）旗下的 Goldman Sachs Alternatives、摩根大通（J.P. Morgan）旗下的 Growth Equity Partners、Coatue，以及由 T. Rowe Price 提供投资建议的帐户。与此同时，公司也积极补强管理团队，延揽曾协助 Rubrik 完成 2024 年 IPO 的 Steve Zad 出任首位营收长，并找来前 Google 高层 Keith Enright、来自 Slack 与 Notion 的 Rachel Hepworth，以及来自 Rippling 的 Anique Drumright。
+百事已透过降价及增加行销投入提振销售，但高层在财报电话会议上坦言，重振业务所需时间比原先预期更长。
 
-Harvey 的成长也反映出法律科技市场的变化。过去，投资人普遍认为这是个规模有限、成长受限的领域；但大型语言模型（LLM）改变了市场想像。Harvey 共同创办人温斯顿·温伯格（Winston Weinberg）与 Gabe Pereyra 在 ChatGPT 问世前就开始打造能读写法律文件的软体，Harvey 如今已成为业界热门投资标的。其竞争对手 Legora 在 2026 年 10 月也以 88 亿美元估值完成 5.5 亿美元融资，显示资金正持续涌入这个领域。
+百事近年面临美国汽水销售疲弱、零食业务成本攀升等挑战；美国连锁速食巨头肯德基（KFC）15日宣布与其结束长达40年的饮料供应合作关系，改为以可口可乐供应美国门市饮品，也将导致品牌曝光机会减少。
 
-若 Harvey 最终选择上市，Latham & Watkins 可能不只是顾问角色，也可能是其重要客户。Latham 已在 2025 年将 Harvey 软体推广至全所律师，双方目前还在为该所的基金设立业务开发客制化工具。]]></description>
+根据公司申报资料，截至2025年12月27日，百事在全球拥有约30.6万名员工，其中美国约12.5万人。
+
+百事持续寻求提高生产力以节省成本、扭转颓势。激进投资者Elliott Investment Management于2025年收购约40亿美元的百事股份后，一直敦促公司重整北美业务。
+
+百事股价9日收平盘，年初迄今下跌约1%，落后标普500指数接近11%的涨幅。
+
+Hightower Advisors首席投资策略师林克（Stephanie Link）近期指出，百事仍未找到明确的复苏方向，行动太慢，又面临GLP-1减重药盛行的影响。
+
+路透分析，减肥药对饮食习惯带来的改变已反映于食品业者估值下滑。百事旗下拥有众多加工零食与汽水品牌，其企业价值相较EBITDA的倍数已从2022年中的18倍降至10倍。
+
+（本文由MoneyDJ新闻授权转载；首图来源：Unsplash）]]></description>
   </item>
   <item>
-    <title>高铁追撞事故惨剧后，西班牙加速更新行控系统将引进 AI</title>
-    <link>https://technews.tw/2026/11/10/spain-accelerates-train-control-system-upgrades-with-ai-integration/</link>
-    <guid>https://technews.tw/2026/11/10/spain-accelerates-train-control-system-upgrades-with-ai-integration/</guid>
-    <pubDate>Mon, 09 Nov 2026 23:30:05 +0000</pubDate>
-    <description><![CDATA[西班牙高速铁路原本是国家骄傲，但是 2026 年却连续发生重大伤亡事故，1 月时出轨对撞事故造成 46 死 292 伤，10 月 28 日追撞事故造成 69 死 200 多伤惨剧震惊全球，也导致西班牙交通部长奥斯卡·普恩特（Óscar Puente）黯然下台。但高速铁路的安全性到底该如何改善呢？下台部长临走前提出控制员需双人认证，以及引进 AI 的想法。
+    <title>IPO 揭露近 9,000 亿美元天价帐单，Anthropic 遭科技巨头「保底合约」套牢</title>
+    <link>https://finance.technews.tw/2026/11/10/anthropic-ipo-relationship-four-tech-giants/</link>
+    <guid>https://finance.technews.tw/2026/11/10/anthropic-ipo-relationship-four-tech-giants/</guid>
+    <pubDate>Tue, 10 Nov 2026 04:30:52 +0000</pubDate>
+    <description><![CDATA[Anthropic 最新提交的上市申请文件，让外界得以一窥这家 AI 独角兽背后庞大且错综复杂的支出承诺。文件揭露，Anthropic 已与 Alphabet、辉达（Nvidia）、微软（Microsoft）及亚马逊（Amazon）等供应商签署多项长期合约。最引人瞩目的是，即使未来未实际使用相关服务，Anthropic 仍须依约付款，这项安排无疑让其未来几年的资本与算力支出压力遽增。
 
-西班牙铁路原本是国家营运，民营化过程拆分为西班牙铁路基础设施管理局（Administrador de Infraestructuras Ferroviarias，Adif）与西班牙国铁（Renfe）。原本西班牙的高速铁路仍由西班牙国铁独家营运，到 2020 年，做为铁路运输自由化政策的最新一步骤，西班牙铁路基础设施管理局开放西班牙国铁以外的铁路营运商可以使用西班牙国铁的轨道，来与西班牙国铁进行竞争。
+根据文件数据与市场分析，Anthropic 累计承诺的运算与基础设施支出总额高达约 8,954 亿美元，其中约 4,475 亿美元预计必须在 2030 年底前支付完毕。
 
-第一家进入的是法国国铁（SNCF）廉价铁路运输品牌「是行」（Ouigo）开设西班牙分支「是游西班牙」（Ouigo España）于 2021 年开始服务。接著就是与这两次事故相关的，义大利国铁（Trenitalia）占 51%股权的「我行」（Iryo）于 2022 年开始服务。西班牙从此成为第一个有三家高速铁路品牌彼此竞争的欧洲国家，执政的桑其斯政府当时志得意满。
+这些长约多数属于「保底付款」（take-or-pay）性质。这意味著 Anthropic 必须为预先保留的算力与设备容量买单，若实际使用量不足，仍须自掏腰包补足差额。文件中特别点名，与 Google 和亚马逊的合约保底金额分别至少达 1,213 亿美元与 1,100 亿美元，且明订不论实际使用情况为何皆须付款；微软的合约也采取了相同的强制条款。
 
-我行最初只有马德里到巴塞隆纳路线，之后陆续增加服务路线，2023 年再增加马德里经哥多华到赛维亚、马拉加的路线，前者就是 2026 年 10 月追撞事故发生路线，后者就是 2026 年 1 月出轨对撞事故发生路线。
+在供应链结构上，Anthropic 的资金承诺不仅集中在云端服务，更向下延伸至晶片与资料中心基础设施。文件提到，与博通（Broadcom）相关的租约约达 1,612 亿美元，主要涉及由 Google 设计、博通代工的 TPU 晶片。
 
-2026 年 1 月时，我行从马拉加出发前往马德里的 8 车厢列车，搭载 289 乘客 5 人员，行经阿达穆斯（Adamuz）附近时，后三车厢突然出轨滑入对向轨道，对向正驶来西班牙国铁从马德里要到马拉加的列车，当场撞上，造成严重伤亡惨剧。这次事故原因经调查，出事的轨道 2025 年才刚翻新过，但是却有一处焊接不良，导致列车经过时焊接处断开而出轨。
+此外，虽然与 Nscale、Lambda 等供应商的部分合约允许在特定条件下终止，但只要算力容量一经交付便难以取消。整体结算下来，Anthropic 仅有约四分之一的承诺具备取消或条件弹性，其余绝大多数皆属于难以退出的长期硬性义务。
 
-2026 年 10 月事故，则是因为列车保护系统的故障。西班牙国铁采用两种安全系统，一是自动化的连续列车控制（Linienzugbeeinflussung，LZB）系统，随时自动监测列车的位置与速度，只要察觉危险，就会自动减速、停伡。西班牙已经决定未来要淘汰连续列车控制系统，由更新的欧洲列车控制系统（European Train Control System，ETCS）取代，但是替代时程一再延后。
+这份文件也赤裸裸地凸显了 Anthropic 与大型科技巨头之间相互交错的复杂关系。亚马逊、Google 与微软在文件中，被同时定位为投资人、客户、通路合作伙伴，甚至是竞争对手。
 
-当连续列车控制系统故障时，则会切换到备援系统，侧向信号闭塞（Lateral Signaling Block，BSL）系统，所谓闭塞是指将铁路分为一个个区间，一个区间之中只能有一辆列车，以避免追撞，因此称为闭塞区间。切换到侧向信号闭塞系统时，列车驾驶必须时时依照轨道旁的实体信号灯，以及控制室的人员指令，来控制行车速度，以确认区间安全。
-
-事故前，连续列车控制系统发生问题，导致全线列车都自动停驶，西班牙铁路基础设施管理局的行控人员建议两列一前一后都是从马德里开往塞维亚的列车，前方是我行的列车，后方是西班牙高铁的列车，都改为用侧向信号闭塞行驶，但是前方的我行列车，切换到侧向信号闭塞系统发生问题，于是仍然停在原处，行控人员要求我行列车解决问题后回报，却忘记通知后方西班牙高铁列车要停下，结果造成高速追撞。
-
-一年内两起重大高铁死亡事故，使得西班牙交通部长奥斯卡·普恩特灰头土脸辞职下台，辞职前，提出因应的安全措施，釜底抽薪的办法是加紧用欧洲列车控制系统取代旧有系统的脚步。
-
-在系统取代完成之前，列车要进行减班，并且在安全系统故障时，严格速限时速 40 公里，以让驾驶能看到障碍物时有足够反应时间；行控中心的指令，要有两人彼此确认。但在如此全面回到人工程序的同时，也要用人工智慧来辅助人员。
-
-西班牙称要成为全球第一个引进 AI 来改善铁路安全的国家，还将建立全铁路网的即时数位模型，引进 AI 代理人侦测铁路运作上的异常，并监控列车驾驶与行控人员之间的对话，即时发现人员犯错，以避免人为错误造成重大事故。
-
-不过这样的措施到底会不会实现还在未定之天，因为提出的交通部长下台离职，下一任部长是否政策延续？很难预测。更适逢西班牙正要提前大选，选后若政党轮替，不只是换了交通部长，而是换了整个政府。但无论如何，长期来说，铁路安全引进 AI，是不可避免的未来趋势。]]></description>
+随著 Anthropic 积极推进上市计划，华尔街与市场的关注焦点已不再局限于其营收成长速度。投资人更在意的是，这些沉重的长期合约是否会在未来数年内，对公司的财务稳定构成威胁，并进一步对整体 AI 产业的资本配置带来更大的压力。]]></description>
   </item>
   <item>
-    <title>找出 2,300 个关键基因标靶，生技新创 Colossal 靠 AI 绘制渡渡鸟「复活藏宝图」</title>
-    <link>https://technews.tw/2026/11/10/ai-accelerates-extinct-species-de-extinction-project/</link>
-    <guid>https://technews.tw/2026/11/10/ai-accelerates-extinct-species-de-extinction-project/</guid>
-    <pubDate>Mon, 09 Nov 2026 23:20:43 +0000</pubDate>
-    <description><![CDATA[美国生技公司 Colossal Biosciences 10 月 14 日宣布，正式推出全新人工智慧平台「GenoMorph」，旨在大幅推进其「去灭绝」（De-extinction）计划，特别是针对已灭绝物种「渡渡鸟」的复育工作。这套系统成功结合了比较基因体学、发育生物学与高解析度 3D 形态资料，能在现有基因数据极度有限的困境下，精准锁定值得进一步验证的基因编辑目标。
+    <title>因应中国登月布局，美国太空军规划在月球周边部署军事卫星</title>
+    <link>https://technews.tw/2026/11/10/pentagon-mulls-placing-fleet-of-military-satellites-around-the-moon/</link>
+    <guid>https://technews.tw/2026/11/10/pentagon-mulls-placing-fleet-of-military-satellites-around-the-moon/</guid>
+    <pubDate>Tue, 10 Nov 2026 04:20:28 +0000</pubDate>
+    <description><![CDATA[美国军方正将触角从地球轨道延伸至月球。美国空军部 2 日联邦采购网站公布资讯征求书（RFI），为一套「地月空间系统」向业界征询「快速」且「低风险」的解决方案。这套系统初期将由最多五艘太空船组成，各自搭载政府提供的酬载，以满足 2029 年底的军事任务需求。
 
-「去灭绝不仅是生物学的难关，更是庞大的资料处理挑战」，Colossal 执行长班·拉姆（Ben Lamm）表示。由于现存的渡渡鸟基因样本极其稀少，单靠传统方法难以取得突破。
+征求书透露更大的企图心：五艘太空船可能当作「种子载具」，为未来在地月空间建置大型卫星星系的采购策略提供参考。军方预计依搜集到的资讯，最多签订五份固定价格的初步设计研究合约，业者回复期限为11月24日。由于商用卫星开发周期通常需两三年，外界估计军方最快2027年就得签约。
 
-为建立 GenoMorph 平台，研究团队搜集了鸡、鹌鹑、鸭与鸽子等多种鸟类在不同胚胎发育阶段的数据，并汇集超过 70 种鸟类的基因资讯与头骨扫描资料，借此建构出详尽的「鸟类调控图谱」。透过 AI 运算，系统能分析出哪些 DNA 区段会在鸟喙与脸部发育过程中启动，协助科学家大幅缩小搜寻范围，精准找出最可能影响物种特征的「基因开关」。
+目前美国太空军最远的卫星位于赤道上空约3万6千公里的地球同步轨道。负责先进计划采购的少将珀迪（Stephen Purdy）指出，川普2025年12月签署的太空政策行政命令，要求政府具备侦测与反制从低地球轨道到地月空间各种威胁的能力，五角大厦领导层的思维也随之转变。他10月在产业会议表示，战争部长与参谋首长联席会议主席都已公开将地月空间定位为「作战领域」。
 
-目前，GenoMorph 已经展现了强大的分析能力，成功辨识出约 2,300 个与渡渡鸟颅颜部特征相关的潜在 DNA 编辑目标。其中，包含 653 个影响喙部大小的候选调控元件，以及 1,698 个关乎喙部厚度与宽度的候选区域。Colossal 强调，虽然目前尚未证实这些基因片段直接决定了相关特征，但这份精准的预测名单已为后续的科学实验提供了明确的方向。
+背景是美中竞相推动月球计划，双方都规划在未来几年内实现载人登月。部分美国官员预期，双方将争夺月球南极少数能取得水冰的安全著陆区与资源。
 
-除了发表革命性的 AI 平台，Colossal 也同步公开了渡渡鸟计划的多项重大技术进展。在基因工程方面，团队不仅优化了渡渡鸟的基因组组装，更成功开发出「脂质奈米粒子（LNP）系统」，能将 DNA、RNA 与 CRISPR 编辑工具精准送入鸟类胚胎中。
+征求书并未说明卫星的具体任务，但地月空间的军事卫星可能执行类似地球轨道的功能，包括追踪与辨识其他物体、导航、通讯及监视，短期内则不太可能部署武器。空军研究实验室（AFRL）另有两项单一卫星的Oracle任务：耗资7,500万美元的Oracle-M预定2027年中发射，在地月空间巡航并测试追踪物体的技术；Oracle-Prime预定2027年底前就绪，将在地月拉格朗日L1点附近侦测卫星与太空碎片。
 
-在活体培育准备上，团队成功扩大了渡渡鸟现存最近亲「尼可鸽」（Nicobar pigeon）的族群规模，并顺利取得新的尼可鸽原始生殖细胞。公司表示，下一步将在实验室中正式验证 GenoMorph 的预测结果，测试究竟哪些基因编辑最能重现渡渡鸟的关键特征，让这项复活计划迈出关键的一步。]]></description>
+从单一试验卫星到可能的卫星星系，显示美军迈向在月球周边建立长期军事部署。]]></description>
   </item>
   <item>
-    <title>Grok Bot 配额缩水、模型变笨引发用户降级，马斯克承诺改善</title>
-    <link>https://technews.tw/2026/11/10/elon-musk-pledges-to-improve-grok-bot/</link>
-    <guid>https://technews.tw/2026/11/10/elon-musk-pledges-to-improve-grok-bot/</guid>
-    <pubDate>Mon, 09 Nov 2026 23:10:39 +0000</pubDate>
-    <description><![CDATA[Grok Bot 近期更新引发网友们抱怨，不仅被指出 Token 用量增加至 4 倍，也有人称 Grok 工作表现变差。伊隆·马斯克（Elon Musk）9 日在 X 发文指，已与 Grok Bot 工程团队开会检讨，修复将会在当天晚上推出，用户隔天应会感到大幅改善。截至当天上午约 11 点半已有近 2,500 回复，不少付费用户要求重设配额。
+    <title>美国期中选举「朝小野大」定局！富达国际：紧盯 AI、能源、贸易三大变数</title>
+    <link>https://finance.technews.tw/2026/11/10/asa-ono-dai/</link>
+    <guid>https://finance.technews.tw/2026/11/10/asa-ono-dai/</guid>
+    <pubDate>Tue, 10 Nov 2026 04:16:17 +0000</pubDate>
+    <description><![CDATA[美国 2026 年期中选举结果显示，民主党一举取得众议院及参议院多数席次，富达国际认为，别急著预期政策会有翻天覆地的改变，美国政策的「主旋律」依旧，但「节奏」将出现变化，并透过 AI 投资循环、能源价格及贸易政策三大管道牵动亚太市场表现。
 
-Just did a round table review with the Grok @Bot engineering team.
+富达国际宏观策略师 Ashray Ohri 表示，民主党掌控国会虽拥有较大政策推动空间，但参议院冗长辩论制度及总统否决权等制衡机制仍限制重大政策变革，而市场对 AI 的焦点从「谁买最多 GPU」，转向「什么时候能回本」。
 
-Fixes are being implemented overnight and you should notice a dramatic improvement by tomorrow. If not, reply to this post and we will address any remaining issues right away.
+富达国际亚洲经济学家刘培干指出，民主党全面执政不太可能从根本改变美国外交与贸易政策，但可能影响政策执行方式。对亚太地区的影响主要将透过能源价格、AI 投资循环及贸易政策三大管道传导。
 
-— Elon Musk (@elonmusk)November 9, 2026
+首先，油价回落有助亚洲能源进口国抑制通膨、改善外部收支及支撑消费力，但中东地缘政治风险仍不确定，若局势再度升温，将推升能源价格及货币政策决策难度。这对日本、印度及多数东南亚等高度依赖能源进口经济体尤其重要，而澳洲等能源出口国面临不同风险结构；中国则有望受惠较低能源成本改善企业获利。
 
-Grok Bot 用户 Zane Campbell 于 11 月 8 日在 X 发布约 3 分半钟的影片，表示已把 Grok Bot 订阅从 Ultra 降至每月 US$30 的方案。原因是同样工作的用量突然变成以往的 4 倍。他说 US$30 只是「刚好足够保留 Grok Bot」，「但付钱也没有意义，因为什么都做不到」。
+其次，若主要资料中心州调整建设及审批政策，可能放缓 AI 资本支出增长，市场修正也引发对 AI 投资周期持续性，以及融资条件收紧是否抑制未来支出的疑虑，若 AI 投资更广泛放缓，可能进而影响东北亚整体外部需求与企业投资。
 
-Zane Campbell 在影片中指出，Token 用量问题出现前，他运行 50 个 Bot 数星期都没有问题，上星期开始「同样的工作、同样的任务、同样的例行程序、同样的脚本，却要用上 4 倍用量」。他拍片时已用尽 100% 额度，距离重设仍有 3 日。他在同一贴文写道，过去两个月运行 50 个 Bot 都没有用量问题，上星期却一天就用掉每周额度的 30% 至 40%，最后 10% 更是花在训练其他 AI 代理接手 Grok Bot 的工作。
+刘培干认为，目前影响主要反映在金融环境，而非实际 AI 投资活动明显放缓，科技股大幅调整波及亚太市场，当中南韩、台湾及日本所受的影响尤其明显，印度市场至今则相对具韧性，若股市持续疲弱且金融环境进一步收紧，即使 AI 实际需求维持稳健，仍可能打击企业信心及投资意欲。这使日本央行货币政策正常化路径更趋复杂，即使当地资薪及通膨持续展现韧性，进一步升息的时间可能递延。
 
-影片在凌晨 1 时 20 分拍摄，Zane Campbell 称之前花了 5 小时研究替代方案。他重新试用 Muse，认为现在可透过它存取 X，比一个月前好用；又花 4 天测试 Hermes，但觉得操作笨拙。他已订阅 Claude Pro，打算升级至 Claude Max，又表示正在 OpenBot 内使用 Claude 的 Opus 模型，并用剩余的 Grok Bot 额度训练这些新 Bot。
+第三，关税与科技限制措施仍获两党支持，行政部门仍保有政策弹性，但将面临更严格的国会监督。《301 条款调查》未来更可能成为重建美国关税架构基础，而非新一轮全面保护主义开端。对亚洲出口商而言，更明确的政策方向有助降低不确定性，但贸易限制及供应链分散趋势将持续。
 
-Well, unfortunately, it’s true. I’ve been a Grok Bot adopter since day one and it truly is my favorite AI agent platform there is; it’s absolutely phenomenal. But due to the recent usage spikes, it has become completely unreliable.
-
-This week alone, there have been numerous tasks that I have either given to a different AI program or just done myself. Not because I don’t want Grok Bot to do it, but because it has become virtually impossible to work with the current usage limits. Just tonight, I hit 100% with three days remaining until my reset. The craziest part is the last 10% was spent trying to train new AI agents to step in and take its place.
-
-As of tonight, I have downgraded my Grok Bot subscription to just the $30 per month plan, and I am now experimenting with Muse and OpenBot.
-
-I love you, @elonmusk, but this usage cap is just not sustainable for any type of real work.
-
-For two months, I’ve been running 50 bots with zero usage problems. Then last week came, and I was filling up 30% to 40% in just one day.
-
-Same jobs, same routines, same scripts, same bots. Totally different usage.
-
-— Zane Campbell (@zaneccampbell)November 8, 2026
-
-他在影片尾段直接向马斯克喊话：「对不起 Elon，我爱你，但 Grok Bot 的用量上限实在太离谱。作为企业主根本无法维持，我付的钱与得到的用量不相符。」截至 11 月 9 日上午，贴文有逾 300 个喜欢及 70 个回复，影片播放约 5,000 次。
-
-马斯克于 11 月 2 日回应用户要求重设额度时，就已表示 Grok Bot 的服务成本「相对收入高得不可持续」。
-
-11 月 8 日有用户问 Grok Bot 额度耗尽怎么办，马斯克反问增加配额是否不够方便；自称 Vixxo 技术总监的 Derek Neighbors（@dneighbors）其后回复，指上星期 US$200 方案全速运作可用 7 日，这星期在中等负载下只能用 14 小时。马斯克当天就回应「今天会深入调查」。
-
-@dneighbors @Texas_Twins_Dad I will dig into this today
-
-— Elon Musk (@elonmusk)November 8, 2026
-
-约 16 分钟后马斯克再发文指 Grok Bot 正进行修正，以改善 Token 效率及让 Bot 表现更聪明。该贴文至 9 日上午有逾 3.8 万个喜欢及约 4,500 个回复，隔天上午他再发出圆桌检讨的贴文。两则贴文都没有交代问题成因及修正细节，也没有提及是否会重设用户已耗消耗的额度或调整方案。
-
-Grok Bot fixes for improved token efficiency and smarter behavior are underway
-
-— Elon Musk (@elonmusk)November 8, 2026
-
-Grok Bot 用户在马斯克贴文下最常见的回应是「要求即时重设每周用量」。用户 @ccxxvii_ 指女朋友当日才订阅，当天就已用尽每周额度；@alexfordlive 表示自己没有写程式，Premium 方案 才 2 天多就已用掉 93%。
-
-部分用户涉及实际金钱损失。@CloudCreator 称已要求 Grok Bot 不可超出额度，它仍在一天内产生逾 US$600 费用，向客服申请退款三次都只收到 AI 回复。为 11 个商业授权付费的 @JasonMacds 则指，团队成员额度用尽后，他找不到方法为对方增加配额，已排程的工作流程也停摆，形容这是「业务延续问题」。以上均为用户自述，暂未见官方回应个别个案。
-
-不少 Grok Bot 用户指 Bot 近期表现变差，要求恢复旧设定。拥有约 1.2 万名追随者的 @ShadowPatriotUS 在马斯克贴文中评论，最近几次更新后配额使用失控，Bot 要多好几次对话才完成以往做得到的工作，用户得不断重复指示，「第一天用掉 30%，第四天用到 99%」。他要求官方，若问题出于自身，应以重设配额或补偿额外额度给用户。
-
-网友 @bearbiscuit 同样在该贴文留言，指降低 AI 模型能力正破坏以往运作完美的自动化流程。「AI 代理不是处理零散任务的聊天机器人。自动化没有 60 分，工作只有分完成与没完成。」他认为官方不须修正，只要恢复两星期前的设定；自己可以接受更高的 token 用量，也乐意升级至 Ultra，宁愿付更多钱换取可靠完成工作流程的 AI 代理，也不要时刻紧盯的版本。同类留言也有用户要求重新提供 Opus 5.5 模型，或让用户自行选择模型。
-
-部分 Grok Bot 用户表示没碰到使用量的问题。在 Zane Campbell 的贴文下，@ericjallsop 称自己用 Ultra 方案运行 30 个 Bot，每日处理社交媒体、影片剪辑及网页制作，没有遇到问题；@ctarden 则称转用 XSI 方案后，约 18 个 Bot 在高负载下，配额也足够使用一星期。
-
-马斯克贴文底下也有不少用户称赞他亲自回应，但也有人说为时已晚，或要求先交代问题的根本原因。
-
-根据 SpaceXSI官方文件，Grok Bot 包含在 X Subscription 的 Premium（US$30 / 月）、Super（US$100 / 月）及 Ultra（US$200 / 月）方案，入门 Plus 方案不包括 Grok Bot。三个方案的配额分别是 Plus 的 4 倍、15 倍及 50 倍，官方只以倍数表示，没有公开具体数值。
-
-Grok Bot 与 Grok 应用程式及Cursor 共用同一个每周额度，用完后可购买额外额度继续使用，或等待每周重设，未用完的额度不会累积。
-
-（本文由Unwire HK授权转载；首图来源：shutterstock）]]></description>
+整体而言，美国期中选举结果有助提升市场对美国政策方向及限制条件掌握度，但不会改变亚太区面临的外部环境，能源成本回落及科技投资延续有助支撑区域成长，但地缘政治风险、持续性的贸易限制及全球金融环境收紧仍是主要挑战。]]></description>
   </item>
   <item>
-    <title>航程再度提升，美军 F-15EX 作战部队加装适形油箱</title>
-    <link>https://technews.tw/2026/11/10/usaf-started-to-install-cft-on-f-15ex-fleet/</link>
-    <guid>https://technews.tw/2026/11/10/usaf-started-to-install-cft-on-f-15ex-fleet/</guid>
-    <pubDate>Mon, 09 Nov 2026 23:00:20 +0000</pubDate>
-    <description><![CDATA[美国空军 F-15EX 战机的任务范围持续扩大，奥勒冈州空中国民兵第 142 联队近日确认，已有两架作战用机加装适形油箱，增加燃油携带量与武器挂载弹性，让这款原本以国土防空为主的新战机，进一步朝多用途作战方向发展。
+    <title>瘦瘦针可能增加罕见视神经病变风险，美 FDA 令药厂加警语</title>
+    <link>https://technews.tw/2026/11/10/us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound/</link>
+    <guid>https://technews.tw/2026/11/10/us-fda-orders-new-eye-risk-warnings-for-ozempic-zepbound/</guid>
+    <pubDate>Tue, 10 Nov 2026 04:10:00 +0000</pubDate>
+    <description><![CDATA[美国食品暨药物管理局（FDA）今天要求胰妥赞、猛健乐等热门减重与糖尿病药物在仿单加注警语，提醒可能增加罹患视神经病变风险，恐导致突发性视力丧失，甚至永久损害视力。
 
-这批油箱由美军空战司令部提供，两架战机已使用核准配置飞行约两周，虽然 F-15EX 测试机早已搭载适形油箱，但空军最初将这款战机定位为 F-15C/D 的直接替代机种，主要执行空对空与国土防卫任务，因此早期作战用机并未编列相关经费。
+路透社报导，去年发表的一项大型研究追踪近35万名糖尿病患者，其中有半数使用「类升糖素胜肽-1」（GLP-1）药物司美格鲁肽（semaglutide），另外一半则使用其他糖尿病药物。
 
-适形油箱（Conformal Fuel Tanks，CFT）紧贴机身两侧，F-15EX 可使用与 F-15E「打击鹰」相同的装备，单具可容纳约 750 美制加仑、约 2,840 公升燃油，两具合计增加约 5,680 公升，并各自提供六个武器挂点，有利于携带更多对地弹药。
+研究发现，相较其他糖尿病药物，使用GLP-1药物治疗2年后，罹患「非动脉炎性前部缺血性视神经病变」（NAION）的风险增至2倍以上。
 
-相较之下传统翼下副油箱容量为 600 美制加仑，燃油量较少，也会占用挂载位置，并在部分飞行条件下产生较大阻力，适形油箱能改善这些限制，必要时还可搭配翼下副油箱，进一步延伸不需空中加油的飞行距离。
+视神经是一束连结到眼睛后部的纤维，会将讯号传给大脑，让人看得见东西，而NAION是流向视神经前端的血流减少或受阻所致，会造成突发性无痛视力丧失，部分病例可能永久视力受损，但成因至今仍未完全厘清。
 
-不过适形油箱仍会影响速度与机动性能，而且无法在飞行途中抛弃，传统副油箱则可在接敌前迅速抛离、减轻重量与阻力，因此对以空战为主的任务而言，两种配置仍各有优势。
+美国FDA表示，经全面评估临床试验数据、动物实验数据、上市后数据及观察性研究与病例报告等资料后，已要求生产GLP-1类药物的药厂，须在仿单「警语及注意事项」栏位加注相关资讯，载明可能增加罹患NAION的风险。
 
-对基地间距遥远的太平洋战区而言，额外燃油具有明显价值，若前进基地使用受限，或加油机必须留在远离威胁的位置，搭载适形油箱的 F-15EX，可望延伸巡逻距离与滞空时间，增加远离加油机作业的弹性，也能依任务需求减少副油箱挂载，保留更多武器配置空间。
+FDA指出，相关药品包括美国礼来（Eli Lilly）的猛健乐（Mounjaro）与Zepbound，以及诺和诺德（Novo Nordisk）的胰妥赞（Ozempic）与周纤达（Wegovy）。
 
-第 142 联队也已开始拓展对地作战能力，今年 7 月宣布完成 F-15EX 首次训练弹投放，随后于 8 月底至 9 月初前往奈利斯空军基地支援武器教官课程，完成作战单位 F-15EX 首次实弹投放，使用弹药包括 500 磅与 2,000 磅级炸弹。
+礼来发言人表示：「FDA的药物安全通报适用所有具GLP-1受体促效剂活性的药物，并未提及任何针对礼来产品的特定发现。我们正在审慎评估这项最新资讯，并尽速回复FDA。」
 
-目前美军是否会为所有作战用 F-15EX 配备适形油箱，包括未来部署日本的机队，仍未完全明朗，不过空军已在 2027 会计年度预算提案中，为第八批次的 24 架新机列入相关采购需求，显示随著任务范围扩大，长航程与大酬载能力正成为鹰二式后续发展的重要方向。]]></description>
+诺和诺德发言人则指出：「诺和诺德依旧认为，现有数据尚未证实两者具因果关系，我们对旗下GLP-1药物的效益风险评估仍深具信心。」
+
+花旗（Citi）分析师米全（Geoff Meacham）指出：「FDA这项措施短期内可能加深患者与投资人的疑虑，但考量NAION相当罕见，加上这类药物在减重、血糖、心血管、肾脏及睡眠呼吸中止症方面带来的显著效益，应能维持良好的效益风险评估，对于医师处方影响有限。」
+
+欧盟药品管理局（EMA）安全委员会去年曾首度证实，连续使用「司美格鲁肽」至少一年的患者当中，每1万人最多可能有1人出现NAION；丹麦病患救济协会（Danish Patient Compensation）去年也指出，丹麦有4名患者使用诺和诺德旗下GLP-1药物后，出现视力丧失症状，已获得相关赔偿。]]></description>
   </item>
   <item>
-    <title>小行星形状影响核爆偏转效果，照射位置成行星防御关键</title>
-    <link>https://technews.tw/2026/11/09/asteroid-shape-affects-effectiveness-of-nuclear-deflection/</link>
-    <guid>https://technews.tw/2026/11/09/asteroid-shape-affects-effectiveness-of-nuclear-deflection/</guid>
-    <pubDate>Mon, 09 Nov 2026 13:57:43 +0000</pubDate>
-    <description><![CDATA[当具有撞击地球风险的小行星无法及时以太空船拦截时，在其附近引爆核装置，利用瞬间释放的 X 射线加热小行星表面，使岩石汽化并向外喷出，借由反作用力改变其运动方向，是研究中的一种紧急行星防御方案。然而，这种方法的效果不只取决于爆炸能量，也受到小行星形状、表面地形及照射方向影响。美国桑迪亚国家实验室（Sandia National Laboratories）研究团队提出新的三维电脑模拟方法，发现即使是同一颗小行星，从不同方向接受 X 射线照射，产生的偏转速度也可能相差数倍。研究成果刊登于《Icarus》期刊。
+    <title>「AI 需求未放缓」  半导体材料商 JX 金属上修财测</title>
+    <link>https://finance.technews.tw/2026/11/10/jx-metals-raises-financial-forecast/</link>
+    <guid>https://finance.technews.tw/2026/11/10/jx-metals-raises-financial-forecast/</guid>
+    <pubDate>Tue, 10 Nov 2026 04:00:42 +0000</pubDate>
+    <description><![CDATA[AI 需求加持，日本半导体材料商 JX 金属（JX Advanced Metals Corporation）上修今年度财测预估，且称「AI 需求未放缓」。
 
-▲ 小行星（a）Bennu、（b）Itokawa 与（c）Golevka，在近距离与远距离爆炸高度（HOB）情境下，气化物质膨胀初期20微秒内的平均表面压力分布。由于各种情境均采用相同的辐照能量通量（fluence）正规化，因此最大表面压力相同，可据此比较不同小行星地形对压力分布的影响。（Source：Icarus）
+JX金属9日于日股盘后公布财报新闻稿指出，因AI伺服器相关需求扩大，带动半导体用金属薄膜材料「溅镀靶材）（Sputtering Targets」等半导体材料销售增加、售价改善，加上铜价较预期扬升，今年度（2026年度、2026年4月-2027年3月）合并营收目标自原先（8月）预估的1兆250亿日圆上修至1兆500亿日圆（将年增18.7%）、合并营益目标自2,320亿日圆上修至2,550亿日圆（将年增45.7%）、合并纯益目标自1,410亿日圆上修至1,600亿日圆（将年增52.9%）。
 
-研究团队选取三颗形状各异、曾由太空任务详细观测的小行星做为模拟对象，分别是贝努（Bennu）、糸川（Itokawa）及戈列夫卡（Golevka）。模拟结果显示，小行星在遭受照射时的朝向，会大幅改变汽化物质喷出的分布及反作用力。与各天体偏转效果最弱的情况相比，贝努的偏转速度最多可提高近2倍，糸川约4倍，戈列夫卡则可达5倍。此外，照射方向也会影响小行星的自转状态，其中部分情境的自转速度变化甚至相差17倍。这表示若未充分掌握小行星的三维形状与当下朝向，即使爆炸能量相同，也可能无法产生预期的偏转效果。
+日媒报导，市场原先预期JX金属今年度纯益将为1,750亿日圆，JX金属公布的预估值逊于市场预期。
 
-研究团队也将模拟所得的表面压力套用于类似糸川、由松散岩块组成的小行星模型，发现冲击波造成的岩石破裂与碎屑喷出，同样具有明显的不对称分布。不过，目前模型主要评估表面物质汽化、岩石破裂及天体整体受力，尚未完整模拟整颗小行星解体的过程。研究成果显示，未来若要运用核装置进行小行星偏转，除了掌握天体大小与组成，也必须尽可能取得精确的三维地形及自转资讯，才能选择适当的照射位置，提高行星防御任务的可靠性。]]></description>
+JX金属将今年度「焦点事业（包含半导体材料和资讯通讯材料）」营收目标自5,850亿日圆上修至6,200亿日圆、营益目标自1,000亿日圆上修至1,140亿日圆。其中，半导体材料营收目标自2,300亿日圆上修至2,400亿日圆、营益目标自610亿日圆上修至730亿日圆；资讯通讯材料营收目标自3,550亿日圆上修至3,800亿日圆、营益目标自390亿日圆上修至410亿日圆。
+
+JX金属的溅镀靶材全球市占率达六成。因需求增加，JX金属将今年度半导体用溅镀靶材销量预估上修至「年增24%」（原先为「年增21%」）。
+
+JX金属将今年度「基本事业（包含矿山 / 冶炼等）」营收目标自4,700亿日圆上修至4,750亿日圆、营益目标自1,470亿日圆上修至1,550亿日圆。
+
+日经新闻报导，美国期中选举中，对AI监管持积极态度的民主党大胜，让市场担忧AI投资恐踩刹车。对此，JX金属社长林阳一在9日举行的财报说明会上表示，「短期内虽可能出现各种调整，不过不认为AI需求将大幅放缓。虽有必要关注未来情势，但仍将持续推动原定的投资」。
+
+JX金属同时公布今年度上半年（2026年4-9月）财报：合并营收较去年同期大增34%至5,315亿日圆、合并营益飙增115%至1,508亿日圆、合并纯益飙增128%至979亿日圆。
+
+4-9月期间JX金属半导体材料营收大增33%至1,109亿日圆、营益飙增90%至361亿日圆。]]></description>
   </item>
   <item>
-    <title>Google 第八代 TPU 再添两款，联手 AMD 打造安全与机密推论 TPU</title>
-    <link>https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/</link>
-    <guid>https://technews.tw/2026/11/09/google-introduces-tpu-8tx-and-tpu-8i-max/</guid>
-    <pubDate>Mon, 09 Nov 2026 13:00:40 +0000</pubDate>
-    <description><![CDATA[Google 扩充第八代 TPU（Tensor Processing Unit）产品阵容，新增 2 款 TPU 系统，包含专为安全与机密推论设计的 TPU 8tx，以及专为庞大的脉络视窗与最高单机柜运算密度打造的 TPU 8i Max，加上上半年发表的 TPU 8t 与 TPU 8i，今年共推出四款 TPU 系统。
+    <title>匿踪僚机拚年底首飞，大韩航空 LOWUS 瞄准韩国 CCA 计划</title>
+    <link>https://technews.tw/2026/11/10/ke-asd-announced-their-lowus-will-have-its-first-flight-in-the-end-of-year/</link>
+    <guid>https://technews.tw/2026/11/10/ke-asd-announced-their-lowus-will-have-its-first-flight-in-the-end-of-year/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:56:23 +0000</pubDate>
+    <description><![CDATA[大韩航空旗下航太事业部（KE-ASD）近日宣布，低可侦测性忠诚僚机（Low Observable Wingman Uncrewed Aerial Vehicle System，LOWUS）预计在 2026 年底前首次试飞，这款无人机将角逐韩国未来的协同作战飞机（CCA）计划，争取成为 KF-21 战机的空中搭档。
 
-TPU 8tx 作为第八代 TPU 的第三款系统，与 AMD 合作下，针对安全与机密推论最佳化，同时非常适合小规模训练。TPU 8tx 专为受高度监管的企业与政府机关所设计，能在处理机敏资料的同时，安全地执行先进模型或专属模型，以及自主 AI Agent。
+根据《Breaking Defense》报导，KE-ASD 在 10 月底媒体简报中表示，两架技术验证机已于去年交付韩国国防科学研究所（ADD），完成初期飞行测试后，预计于 2027 年底起，与 ADD 操作的 KT-1 涡轮螺旋桨教练机展开有人／无人协同作战（MUM-T）测试。
 
-一般而言，资料在储存或透过网路传输会进行加密，但在电脑处理资料的过程中，必须先在记忆体解密。TPU 8tx 采用与 TPU 8t 相同的矽晶片，并搭配客制化的 AMD x86 CPU 主机，将安全机制直接内建于硬体层，确保机敏资料与模型权重即使在活跃使用状态下，也能全程受到保护并维持隔离。TPU 8tx 采用专为即时推论打造的相同低延迟 Boardfly 网路，能让多步骤 AI Agent 保持顺畅运作，提供比 TPU 8t 低 2 倍的延迟表现。
+LOWUS 机长 10.4 公尺、翼展 9.4 公尺，规划搭载主动电子扫描阵列（AESA）雷达与光电系统，初期以侦察任务为主，后续再扩大至先于有人战机进入敌方防空威胁空域，执行打击及其他作战任务。
 
-此外，TPU 8tx 让开发团队可以使用专属资料微调模型、将大型模型蒸馏为较小的模型，并透过强化学习训练 AI Agent，所有过程无需在不同丛集间搬移敏感资料。
+动力方面，初期验证机使用乌克兰 AI-222 发动机，未来则预计换装 ADD 与韩华共同研发、推力达 5,500 磅的国产涡轮扇发动机，新引擎目标于 2032 年完成，预期可让 LOWUS 达到最高 0.8 马赫、滞空三小时的性能。
 
-第八代 TPU 的第四款系统 TPU 8i Max ，是为了解决 AI 运算的记忆体高墙。
+除了机体与动力，AI 自主作战能力也是研发重点，ADD 已启动「AI 飞行员」计划，开发具备人工智慧的空战技术，未来规划整合至 LOWUS，透过飞行展示验证系统能力。
 
-当数十个 AI Agent 同时针对整个软体程式码库或长达数小时的影片协同运作，记忆体频宽很快就会产生瓶颈。因此，Google 将 2 颗低延迟的 TPU 8i 晶片整合封装在单一模组上。
+大韩航空也在今年 9 月的韩国国防无人机技术展中，另外展示 22 架无人机的蜂群协同能力，由自家整合战斗管理系统指挥，执行侦察、高机动编队飞行与精准打击。
 
-TPU 8i Max 同步扩展运算与记忆体资源，提供双倍的运算能力、双倍的 SRAM，以及双倍于 TPU 8i 的 HBM 频宽，确保处理器随时备妥关键资料，避免大型工作负载发生停滞。此外，由于 TPU 8i Max 在现有的机柜空间容纳了 2 倍的矽晶片，资料中心每平方英尺与每瓦电力能部署的运算能力随之大幅提升。
+展示影片中，无人机分成两群，一群负责诱使模拟敌方防空系统分散注意力，另一群则接连撞击预设目标，该公司表示，系统可透过 AI 即时判读任务状态、提供语音回报，并依操作员提问查询无人机状况与天候资讯。
 
-随著 TPU 8tx 与 TPU 8i Max 两款 TPU 系统发表，Google 表示，「新晶片」与「新系统」之间有个重要差异：设计一款「晶片」意味著要受物理定律限制、且制造周期复杂漫长的多年过程中，将数十亿个微型电晶体布局在矽晶圆上。相对地，打造一套「系统」，是将运算、网路及储存资源整合在晶片周围，包含如何将这些资源与晶片封装在一起，以便迅速满足新兴的客户需求与研究应用场景。
-
-十多年前 Google 打造第一代 TPU，便深知 AI 软体演进速度将远远超越矽晶片制造的速度。因此，在系统平衡与模组化做了一项基础性的关键布局，将 TPU 架构设计为 AI 超级电脑（AI Hypercomputer）的基础建构模组，让工程师能围绕著晶片，快速调整封装方式、高速记忆体、光学网路及安全防护机制，这种做法让 Google 在短短几个月就能提供专用的超级电脑。
-
-综合来看，第八代 TPU 产品阵容中，每个系统都是针对 AI 生命周期中的不同阶段量身打造：TPU 8t 用于大规模训练，TPU 8i 用于低延迟推论，TPU 8tx 用于机密运算，而 TPU 8i Max 则用于处理庞大脉络视窗与提供最高单机柜运算密度。
-
-上半年 Google 发表 TPU 8t 与 TPU 8i 后超过半年，为何第八代 TPU 即有新系统？Google Cloud AI 与运算基础架构副总裁暨总经理 Mark Lohmeyer 向媒体说明，是因为市场需求强劲，且 AI Agent 带来海量上下文脉络与机密运算的全新需求。Google 透过 Google DeepMind 与内部产品（如搜寻、YouTube、Gmail 等）可提早察觉趋势，且硬体与软体的极致专门化是产业必然趋势，TPU 产品阵容扩充至四种。
-
-值得一提的是，上个月 Google 开源TorchTPU，让 PyTorch 程式码与 Hugging Face 模型现在可原生执行在 TPU 上，同时为 vLLM 与 SGLang 等主流开源推论引擎提供 TPU 后端支援。为了让硬体最佳化更加轻松，全新开源的 TPU agent suite 可直接串接至 Claude Code、Cursor、Google Antigravity 等程式编写工具，短短几分钟内自动完成 TPU 导入设定、诊断效能瓶颈，并使用自然语言自动调校客制化核心。针对实际生产环境的部署，全新开源的 XLA Serving Engine 可让使用者在 Python 中训练模型，并直接在低延迟的 C++ 执行环境中，跨 TPU、GPU、CPU 提供模型服务。
-
-围绕晶片打造电脑系统也意味著要在软体层面统一记忆体、储存空间与网路。当 AI Agent 跨越百万 token 的脉络和持续的强化学习回圈进行推理时，记忆体很快就会产生瓶颈。因此，Google 开源专为 TPU 丛集打造的模型状态层 TPU Sync，它将晶片的 HBM、主机的 DRAM、共用储存空间与资料中心网路，整合为单一且共同设计的记忆体阶层，能在几毫秒内自动将庞大的 KV 快取分层移出晶片，跨越分散的预填充与解码节点串流传输脉络，并同步强化学习权重，使得 KV 传输延迟与第一个 token 生成时间大幅缩减 90% 以上。]]></description>
+LOWUS 预计于 2029 年进入全面开发，不过韩国政府尚未公布 CCA 竞标时程，最终获选机种才有望与有人机及后续批次 KF-21 搭配部署，因此目前首飞与协同测试，仍是走向实际作战运用前的重要关卡。]]></description>
   </item>
   <item>
-    <title>康控-KY10月营收1.93 亿元</title>
-    <link>https://finance.technews.tw/2026/11/09/concraft-4943-202610-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/11/09/concraft-4943-202610-financial-report/</guid>
-    <pubDate>Mon, 09 Nov 2026 12:40:03 +0000</pubDate>
-    <description><![CDATA[康控-KY（4943）今（9）日公布 10 月营收，达 1.93 亿元，较 9 月成长 1.8%，较去年同期成 [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>久元10月营收月减8.7%</title>
-    <link>https://finance.technews.tw/2026/11/09/ytec-6261-202610-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/11/09/ytec-6261-202610-financial-report/</guid>
-    <pubDate>Mon, 09 Nov 2026 11:10:03 +0000</pubDate>
-    <description><![CDATA[久元（6261）公布 10 月合并营收 3.93 亿元，较上（9）月成长 -8.7%，与去年同期相比为年增 2 [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>讯芯-KY10月营收7.99 亿元</title>
-    <link>https://finance.technews.tw/2026/11/09/shunsin-6451-202610-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/11/09/shunsin-6451-202610-financial-report/</guid>
-    <pubDate>Mon, 09 Nov 2026 10:50:07 +0000</pubDate>
-    <description><![CDATA[讯芯-KY（6451）今（9）日公布 10 月营收，达 7.99 亿元，较 9 月成长 11.5%，较去年同期 [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>旭隼10月营收16.11 亿元</title>
-    <link>https://finance.technews.tw/2026/11/09/voltronic-6409-202610-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/11/09/voltronic-6409-202610-financial-report/</guid>
-    <pubDate>Mon, 09 Nov 2026 10:50:03 +0000</pubDate>
-    <description><![CDATA[旭隼（6409）今（9）日公布 10 月营收，达 16.11 亿元，较 9 月成长 -14.0%，较去年同期成 [&#8230;]]]></description>
-  </item>
-  <item>
-    <title>金宝10月营收月减23.6%</title>
-    <link>https://finance.technews.tw/2026/11/09/kinpo-2312-202610-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/11/09/kinpo-2312-202610-financial-report/</guid>
-    <pubDate>Mon, 09 Nov 2026 10:30:06 +0000</pubDate>
-    <description><![CDATA[金宝（2312）公布 10 月合并营收 169.38 亿元，较上（9）月成长 -23.6%，与去年同期相比为年增 8.3%；累计其今年前 10 月营收为 1,435.62 亿元，较去年同期增加 5.5%。]]></description>
-  </item>
-  <item>
-    <title>酷澎涉滥用餐饮外送市场主导地位，遭韩重罚 2.2 亿美元</title>
-    <link>https://technews.tw/2026/11/09/coupang-fined-220-million-south-korea-alleged-abuse-dominant-food-delivery-market-position/</link>
-    <guid>https://technews.tw/2026/11/09/coupang-fined-220-million-south-korea-alleged-abuse-dominant-food-delivery-market-position/</guid>
-    <pubDate>Mon, 09 Nov 2026 10:20:37 +0000</pubDate>
-    <description><![CDATA[韩国公平交易委员会今天以酷澎滥用餐饮外送市场的主导地位为由，对电商巨擘酷澎（Coupang）处以 3,009 亿韩圜（约 2 亿 2,059 万美元）罚款。
+    <title>Hims＆Hers 财报逊、订户数呈季减  股价挫</title>
+    <link>https://finance.technews.tw/2026/11/10/hims-misses-earnings-expectations-as-subscriber-numbers-decline-qoq/</link>
+    <guid>https://finance.technews.tw/2026/11/10/hims-misses-earnings-expectations-as-subscriber-numbers-decline-qoq/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:50:45 +0000</pubDate>
+    <description><![CDATA[过去因减肥药爆红的远距医疗平台 Hims & Hers Health 财报逊色，上季意外转亏，订户数呈季减，远逊于市场预期；股价延续弱势表现。
 
-路透社报导，韩国公平交易委员会（Korea Fair Trade Commission，FTC）指出，酷澎要求商家必须配合提供和竞争对手平台一样的优惠条件，并对未配合商家采取惩罚措施。酷澎要求餐厅遵守六项条件，包括菜单价格、最低订单金额、折扣及外送费。
+综合外媒报导，Hims & Hers于9日美股盘后公布，第三季营收年增49%至8.904亿美元，低于FactSet统计的分析师预估值8.93亿美元。当季净损达3,300万美元，远逊于去年同期的净利1,580万美元；每股亏损14美分，逊于市场预期的每股盈余6美分。
 
-公平交易委员会还表示，未能配合的餐厅可能失去一项特殊资格，无法再向酷澎付费会员提供折扣及免运费优惠。符合这些要求的餐厅比例，已从2023年7月约13%，升至2025年10月近94%。
+做为关键营运指标的订户数年增13%至279万人，低于第二季的289万人，也远逊于市场预期的304万人；每订户每月平均贡献营收年增30%至105美元。
 
-公平交易委员会也以类似行为为由，对竞争对手外送平台Baemin的营运商Woowa Brothers处以3,311亿韩圜罚款。Woowa Brothers之后声明，已向公平交易委员会说明并未违法，对相关论点未获充分采纳感到遗憾，并将审慎评估这项裁决。
+Hims & Hers也下修财测，预估全年营收预测由31亿至33亿美元收窄至31.3亿至31.5亿美元；经调整EBITDA展望下修至2.57亿至2.77亿美元。
 
-酷澎则声明，罚款金额过高，是2020年涉及另一家外送平台的类似案件罚款金额的600倍余。公平交易委员会计算罚款时，将与遭指控行为无关的营收纳入计算，损害公司的答辩权利；公司将透过法律程序对这项裁决提出异议。
+Hims & Hers以直面消费者的订阅模式为中心，向客户提供远距医疗咨询和专业处方服务。公司过去搭上减肥商机，在减肥药供应短缺时推出Wegovy复方替代药物，带动股价于2024年底至2025年中飙涨。
 
-这项裁决使得在美国上市的酷澎与韩国当局的紧张关系再度升高。韩国当局6月才因酷澎2025年发生资料外泄事件、影响超过3,300万名客户，开罚公司6,240亿韩圜。]]></description>
+减肥药短缺情况缓解后，Hims & Hers也缩减复方减重药业务，并转而与诺和诺德、礼来等原厂合作销售原厂药物，但毛利率大幅压缩也使股价承压。
+
+Hims & Hers 6日宣布与礼来合作，在平台提供口服减重药Foundayo及针剂Zepbound。用户经线上咨询、取得处方后，药品可配送到府；两款药物自费价格分别为每月149美元及299美元起。
+
+Hims & Hers表示，未来推动成长的三大关键领域分别为对AI与科技的投资、加速进入更复杂业务的基础设施以及全球布局；公司为减重客户推出的AI原生体验已明显提升参与度。
+
+Hims & Hers股价过去一年表现弱势，9日收在22.94美元，较2025年的高点崩跌近七成；财报公布后盘后续挫逾3%。
+
+（本文由MoneyDJ新闻授权转载；首图来源：Hims & Hers）]]></description>
   </item>
   <item>
-    <title>博智10月营收5.64 亿元</title>
-    <link>https://finance.technews.tw/2026/11/09/accl-8155-202610-financial-report/</link>
-    <guid>https://finance.technews.tw/2026/11/09/accl-8155-202610-financial-report/</guid>
-    <pubDate>Mon, 09 Nov 2026 10:20:09 +0000</pubDate>
-    <description><![CDATA[博智（8155）今（9）日公布 10 月营收，达 5.64 亿元，较 9 月成长 0.1%，较去年同期成长 2 [&#8230;]]]></description>
+    <title>金融时报：黄乐曾兜售资料中心计划，称有办法拿到辉达 GPU</title>
+    <link>https://technews.tw/2026/11/10/alleged-chinese-spy-linked-to-nvidia-chief-pitched-ai-chip-deals-to-investors/</link>
+    <guid>https://technews.tw/2026/11/10/alleged-chinese-spy-linked-to-nvidia-chief-pitched-ai-chip-deals-to-investors/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:45:51 +0000</pubDate>
+    <description><![CDATA[英国《金融时报》报导，黄仁勋婚外情风波核心人物黄乐曾向中国投资人推销大型资料中心计划，声称有能力取得辉达绘图处理器，并以与中国科技巨擘阿里巴巴的商业合作关系为卖点。
+
+报导指出，据两名曾听取投资提案的人士透露，2025年初，黄乐（Huang Le，音译，又名Alice Huang）与商业伙伴康伟（Kang Wei，音译）向中国投资人寻求投资，计划在东南亚兴建一座大型资料中心，两人保证「绝对有办法拿到辉达（Nvidia）绘图处理器（GPU）」，还说阿里巴巴也是该计划的客户之一。
+
+根据美国现行出口管制规定，中国企业可以合法租用设于境外的资料中心运算资源，但不得拥有这些资料中心资产，其中大多数为美国晶片大厂辉达的先进GPU。
+
+黄乐在这场投资简报和日常商业往来中，均未透露自己与辉达执行长黄仁勋有任何密切关系。
+
+本月有消息传出，美方认为黄仁勋曾与一名受中国国家安全部情报机构招募、为中国从事间谍活动的女子发生婚外情，这名女子因而受到关注。
+
+知情人士透露，美国官员今年根据美国情报部门提供的资讯撰写一份备忘录，其中提到黄仁勋出轨黄乐。黄乐曾在辉达客户、新加坡资料中心业者Megaspeed短暂担任高阶主管。Megaspeed目前因涉嫌走私晶片，在多个司法管辖区接受调查，但公司强烈否认涉及任何晶片非法交易。
+
+此外，黄乐也是上海和熙投资管理合伙人。这家基金于2010年成立，但根据中国企业登记资料，该基金自2022年起停止更新年度业绩，旗下多款基金产品也已结束运作。
+
+黄仁勋昨天承认曾对妻子不忠，在此之前，《纽约时报》率先披露，美国方面认为黄仁勋曾是中国当局间谍活动的目标。
+
+辉达董事会表示将针对相关报导展开调查后，辉达股价今天早盘大跌4%。
+
+金融时报无法独立核实有关间谍活动的指控。中国外交部表示，相关指控毫无根据，并称其为抹黑与诽谤。
+
+根据企业登记资料，黄乐的商业伙伴康伟同时在中国桂林银行担任董事；桂林银行是一家国有控股银行，主要投资方为地方交通主管机关。记者尝试透过电话与微信联系康伟，但未获回应；黄乐目前电话无法联系，微信及电子邮件帐号疑似已删除。
+
+金融时报取得的照片显示，黄仁勋与黄乐曾一同在上海出席一场晚宴；辉达在中国员工人数最多的办公室就设在上海。两人也曾在香港和加州被拍到同框。不过，这些照片均未显示两人有不当关系，其中几张照片是在多人聚会场合拍摄。
+
+报导指出，Megaspeed也利用与阿里巴巴的关系，向投资人争取合作机会。
+
+公司文件显示，2024年6月，阿里巴巴透过一家名为Apex Enterprise Solutions的新加坡子公司，向Megaspeed旗下马来西亚子公司Speedmatrix提供贷款。
+
+根据贷款协议，Speedmatrix以整个公司业务作为贷款担保。2024年全年，Megaspeed资产负债表规模从3300万美元增至30亿美元，其中很大一部分与旗下子公司的业务往来有关。
+
+两名知情人士透露，阿里巴巴不仅是Megaspeed投入东南亚云端服务初期的主要客户，至今也依然是其最大客户。辉达最初与Megaspeed接洽、讨论可能的采购合作，就是因为Megaspeed向其出示与阿里巴巴签订的租赁合约。]]></description>
+  </item>
+  <item>
+    <title>从助眠神器变 AI 训练库，神经科技公司遭踢爆未经同意收集脑电波</title>
+    <link>https://infosecu.technews.tw/2026/11/10/sleep-trackers-surreptitiously-use-brainwaves-train-ai/</link>
+    <guid>https://infosecu.technews.tw/2026/11/10/sleep-trackers-surreptitiously-use-brainwaves-train-ai/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:40:16 +0000</pubDate>
+    <description><![CDATA[随著穿戴式科技普及，许多人在追求提升睡眠品质与专注度的同时，可能在不知情的情况下，让自己最私密的生理资料成为了人工智慧（AI）训练的「原料」。根据《科学》（Science）杂志与普立兹中心 AI 责任网路（Pulitzer Center’s AI Accountability Network）的联合调查显示，多家消费级神经科技公司已累积高达数千万小时的脑电图（EEG）纪录。这些极度敏感的资料被广泛用于开发所谓的「大脑基础模型」（brain foundation models），但多数公司却未在最初的隐私政策中向用户明确说明这项用途。
+
+其中，推出知名睡眠与冥想头带「Muse」的加拿大制造商 Interaxon 便被点名。该公司承认，目前已利用约 5 万小时的 EEG 纪录来训练 AI 模型，并强调在处理资料时，已剔除姓名、电子邮件等个人识别资讯。然而调查却发现，在面对媒体正式质疑前，Interaxon 的隐私政策根本没有明确告知用户其脑波纪录会做为 AI 训练之用。对此，Interaxon 行销长 Nadia Kumentas 在调查后坦言：「我们同意用户应该获得明确的告知。」并随即更新相关政策。
+
+值得注意的是，这种利用脑波训练 AI 的技术，与我们熟知的传统语言模型（如 ChatGPT）截然不同。开发者并非喂入大量文字，而是提供脑波的电子讯号纪录，让模型学习大脑活动的反复模式，进而辨识不同的脑部状态或协助特定的医疗研究。例如，AI 新创公司 Piramidal 就与美国克里夫兰诊所（Cleveland Clinic）合作，利用超过 400 万小时的 EEG 数据，成功开发出一套癫痫检测系统，在初步研究中已能精准辨识出 90% 的癫痫发作。
+
+卷入资料争议的不只 Interaxon，另一家神经科技公司 Emotiv 也被发现利用高阶设备用户的纪录，来训练其「大型大脑模型」（Large Brain model）。在调查的舆论压力下，Emotiv 同样修改了隐私条款，改为必须在用户明确「选择同意」（opt-in）的前提下，才能使用去识别化的神经资料进行模型训练。
+
+这场风波彻底凸显了当前神经资料隐私保护的「法律真空」。尽管美国科罗拉多州与加州已率先修法，将神经资料纳入隐私保护范畴，但全球多数地区的法规仍相对落后。专家呼吁，用户同意使用睡眠追踪器查看健康报告，绝不代表同意将私密的脑波讯号奉献给 AI 当作训练素材。随著神经科技市场预计将在 2034 年达到 330 亿美元的惊人规模，如何在技术创新与守护个人最敏感的生物隐私之间取得平衡，已成为科技产业亟待解决的重大课题。
+
+（首图为 Interaxon 睡眠与冥想头带「Muse」示意图，来源：Muse）]]></description>
+  </item>
+  <item>
+    <title>AI 旺、供不应求  古河电工扩充台湾、日本铜箔产能</title>
+    <link>https://technews.tw/2026/11/10/furukawa-electric-expands-copper-foil-capacity-in-taiwan-and-japan/</link>
+    <guid>https://technews.tw/2026/11/10/furukawa-electric-expands-copper-foil-capacity-in-taiwan-and-japan/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:30:34 +0000</pubDate>
+    <description><![CDATA[AI 需求旺、供不应求，日本古河电气工业（Furukawa Electric）将扩充台湾、日本铜箔产能，目标将供应能力倍增。
+
+古河电工9日发布新闻稿宣布，随著生成式AI普及，带动用于AI伺服器的高频电路板用铜箔「HVLP4（古河电工产品名称为F0X-WS箔）」需求急速扩大，持续呈现供不应求（需求高于供应）情况，为了因应当前及未来客户旺盛的需求，将扩充日本及台湾集团公司产能，目标在2029年度末将HVLP4铜箔供应能力提高至2026年度末的约2倍水准。
+
+古河电工铜箔事业据点有日本今市东工场（栃木县日光市）及台湾「台日古河铜箔股份有限公司（云林县斗六市）」、「古河铜箔股份有限公司（云林县斗六市）」。
+
+古河电工并于9日表示，因资料中心相关产品需求增加，光纤电缆销售优于预期，今年度（2026年度、2026年4月-2027年3月）合并营收目标自原先（8月）预估的1.53兆日圆上修至1.57兆日圆（将年增20.1%）、合并营益目标自1,230亿日圆上修至1,360亿日圆（将年增113.0%）、合并纯益目标自1,050亿日圆上修至1,180亿日圆（将年增62.7%）。
+
+日媒报导，市场平均预估古河电工今年度纯益将为1,136亿日圆，古河电工上修过后的数值优于市场预期。
+
+（本文由MoneyDJ新闻授权转载；首图为示意图，来源：pixabay）]]></description>
+  </item>
+  <item>
+    <title>Anthropic IPO 前夕推 Fable 5.2 与 Mythos 5.2，效能提升且降价 20%</title>
+    <link>https://technews.tw/2026/11/10/anthropic-introduces-claude-fable-5-2-and-claude-mythos-5-2/</link>
+    <guid>https://technews.tw/2026/11/10/anthropic-introduces-claude-fable-5-2-and-claude-mythos-5-2/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:29:42 +0000</pubDate>
+    <description><![CDATA[预期即将挂牌上市的前夕，Anthropic 9 日推出 Claude Fable 5.2 与 Claude Mythos 5.2 两款全新先进模型，在程式设计、推理、视觉等方面有所提升。
+
+Fable 5.2 成为 Anthropic 对外公开的最强大模型，同时也是 Anthropic 至今在「开放性技术工作」效能表现最好的模型。在多项针对代理式 AI 能力的基准测试中，Fable 5.2 均超越 Anthropic 先前的模型。Fable 5.2 与 Mythos 5.2 采用相同的底层模型，但 Fable 5.2 在网路安全与生物研究能力设有更为严格的限制，并对外开放使用。
+
+Fable 5.2 效能提升的同时，运行成本却较先前的模型更低。Anthropic 指出，Fable 5.2 生成内容的速度最高可较 Fable 5.1 与 Mythos 5.1 快上 30%。同时，这两款模型的价格也较前一代低了 20%，API 定价为每百万个输入 token 收费 8 美元、每百万个输出 token 收费 40 美元，略低于 OpenAI 的 GPT-6 Astra。
+
+尽管基准测试与定价是各款模型相互比较时的衡量指标，但每当一款新模型问世，各家 AI 公司更会大力宣扬新模型究竟能做些什么。
+
+Anthropic 声称，曾交付 Fable 5.2 一项任务：从零开始建构一套作业系统原型。Fable 5.2 随即协调超过 1,000 个子代理，约 8 天内写出一套可实际运作的作业系统及其程式码，能在笔电顺利开机，并具备登入画面、档案储存机制，以及对网路连线与其他基本功能的支援。
+
+Anthropic 甚至运用 Fable 5.2 破解两道关于黑洞物理学的问题：首先是发现黑洞在小型宇宙的形成如同大型宇宙一样突然，接著据称找出物理学家在一个简化宇宙中排除各项量子重力理论的技术极限。Anthropic 已发表研究论文阐述这两项发现，但这些成果尚未经过独立的同侪审查。
+
+Anthropic 还声称，在有关费马最后定理达成一项重大里程碑，一组约 1,000 个由 Fable 5.2 驱动的 Agent 组成虚拟团队，仅用 30 小时便成功将既有的数学证明转译成可供电脑验证的形式，这项任务以较早版本的 Claude 模型则花费 11 天。
+
+在安全方面，Anthropic 认为自身已在 5.2 版本改善对齐表现；但也坦承，Fable 5.2 与 Mythos 5.2 两者表达出「自己正在被评估」的怀疑，皆较先前的模型更为频繁。这一点依会令人忧心，毕竟过去曾有其他模型为了规避测试环境的各项限制而采取极端手段。
+
+Fable 5.2 即日起在 Anthropic 的各种平台开放使用，并为付费订阅使用者提高使用额度。至于 Mythos 5.2，仍透过 Anthropic 的网路安全验证计划与生命科学验证计划，仅限经过核可的单位使用。]]></description>
+  </item>
+  <item>
+    <title>AI 资料中心民怨升温，燃料电池能当和事佬？</title>
+    <link>https://technews.tw/2026/11/10/ai-data-center-complaints-rise-fuel-cells-peacemaker/</link>
+    <guid>https://technews.tw/2026/11/10/ai-data-center-complaints-rise-fuel-cells-peacemaker/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:29:42 +0000</pubDate>
+    <description><![CDATA[美国 AI 资料中心快速扩张，庞大的用电需求、电价上涨及水资源消耗引发地方居民反弹，也让科技巨头开始调整供电策略。甲骨文近日表示，旗下新墨西哥州 Project Jupiter 资料中心已改采 Bloom Energy 燃料电池供电，并进一步将许可排放量降低 35%，在维持原定运算容量的同时，回应当地社区对环境影响的疑虑。
+
+美国资料中心开发争议也成为今年期中选举的重要议题。民主党在选举中取得国会两院控制权，电价上涨及大型资料中心对电网造成的负担持续受到关注。据路透社报导，美国国会正讨论跨党派能源法案，要求大型资料中心业者承担更多电网升级费用。随著地方居民对电费及供电稳定性的疑虑升高，未来科技企业可能需要提高自建电力比例，以降低对公共电网的依赖。
+
+甲骨文的 Project Jupiter 采 Bloom Energy 的固态氧化物燃料电池（SOFC），规模最高达 2.45 GW。甲骨文表示，透过调整设备运转输出，每年可额外减少逾 300 万吨温室气体排放，且不影响原定运算容量。
+
+除了降低排放，甲骨文也承诺投入 5,000 万美元改善当地供水基础设施，并采用封闭式循环冷却系统，搭配低耗水燃料电池设备，不使用饮用水。公司预估，Project Jupiter 将创造超过 130 亿美元经济效益，施工期间提供约 7,000 个工作机会，营运后则可创造约 1,500 个长期职缺。
+
+燃料电池透过电化学反应直接将燃料转换为电力，相较传统天然气发电机组，具有发电效率高、噪音较低及耗水量少等优点，也能采模组化方式建置于资料中心附近，缩短供电设备部署时间，减少对电网扩建的依赖。
+
+不只甲骨文，Google 近期也宣布在美国怀俄明州新资料中心导入燃料电池，规划建置 702 MW 发电设施，采用 Bloom Energy 技术并搭配碳捕捉与封存系统。此外，NTT DATA 也与 Bloom Energy 达成合作，计划在全球资料中心部署合计 900 MW 燃料电池设备，显示科技企业正加速采用现地发电方案。
+
+随著资料中心需求成长，燃料电池供应链也逐渐扩大。除了 Bloom Energy，台达电、韩国斗山及 FuelCell Energy 均积极投入相关市场。其中，台达电预计 2027 年进入初期量产，规划产能约 100 MW，目前已在高雄路竹建置 100 kW SOFC 验证系统，并与台电合作建置 110 kW 微电网验证系统。此外，台达电也携手大台北瓦斯打造 550 kW SOFC 示范案场，预计 2027 年完成。
+
+韩国斗山除既有 PEMFC、PAFC 技术外，也积极发展 SOFC，并已取得美国 AI 资料中心燃料电池订单；美国 FuelCell Energy 则以熔融碳酸盐燃料电池（MCFC）切入资料中心供电市场。
+
+根据能源研究机构 Rystad Energy 预测，全球资料中心燃料电池投资规模将由 2025 年约 28 亿美元，成长至 2030 年约 300 亿美元。]]></description>
+  </item>
+  <item>
+    <title>Meta 策略长 Dave Wehner 离职，转战 AI 推论新创 Fireworks 财务长</title>
+    <link>https://technews.tw/2026/11/10/metas-dave-wehner-is-leaving-to-become-cfo-of-fireworks-ai/</link>
+    <guid>https://technews.tw/2026/11/10/metas-dave-wehner-is-leaving-to-become-cfo-of-fireworks-ai/</guid>
+    <pubDate>Tue, 10 Nov 2026 03:20:25 +0000</pubDate>
+    <description><![CDATA[Meta 策略长威纳（Dave Wehner）宣布离开任职 14 年的 Meta，转任 AI 推论新创公司 Fireworks 财务长。科技媒体 The Information 美国时间 6 日率先披露消息，威纳之后在 X 平台证实，表示 Fireworks 的使命正符合时机。
+
+威纳2012年加入Facebook，担任企业财务与业务规划副总裁，2014年升任财务长，任期超过八年，2022年转任策略长。加入Facebook前，他任职游戏公司Zynga财务长，也曾在投资银行Allen & Co.担任董事总经理，目前另兼任自驾卡车技术公司Aurora Innovation董事。
+
+威纳贴文感谢执行长祖克柏（Mark Zuckerberg），并对Meta前景表示非常乐观。他说自己与Fireworks执行长乔琳（Lin Qiao）相识多年，希望加入由创办人领导的成长型企业，并形容AI是他此生影响最深远的技术变革。乔琳表示，威纳希望回到规模较小的公司重新打造影响力，未来将负责扩展公司财务与营运。Meta营运长欧利文（Javier Olivan）也肯定威纳14年来公司重大决策时的严谨思维。
+
+I announced earlier this week that I am leaving Meta. I am deeply grateful to Mark Zuckerberg for showing what a truly founder-led company can achieve. I am incredibly optimistic for Meta’s future.
+
+At Meta, I was able to witness the most exciting opportunities in enterprise AI. That’s why today, I’m announcing that I will be joining Fireworks as CFO. I am thrilled to be joining a founder-led growth company where I can roll up my sleeves and put my experience to work.
+
+Fireworks has the right mission for the moment. Companies will use AI to build on what makes them distinctive: their data and expertise. Specialized intelligence gives them a way to capture those advantages and own their “alpha.” Open models offer price points that allow the technology to have the greatest impact. Fireworks is building the platform to make all of this possible.
+
+I’ve known and respected Lin @lqiao for a long time. As I’ve spent more time with her and the people at Fireworks, I’ve become increasingly bullish on what they are building. There’s a remarkable depth of technical talent here, coupled with a very practical focus on what customers need.
+
+I see AI as the most consequential technology shift of my lifetime. I’m excited to get to work and help build a business at the center of it.
+
+— Dave Wehner (@dwehner)November 7, 2026
+
+Fireworks于2022年由前Meta与Google员工创立，平台让开发者能客制并运行开放AI模型，7月完成15亿美元融资，估值175亿美元，由Atreides Management、Index Ventures与TCV领投，辉达与红杉资本亦为投资人。The Information报导，Fireworks将于下周启动新募资，目标估值至少300亿美元；Business Insider 10月报导估值可能落在300亿至400亿美元。
+
+近期AI推论新创募资热络，Fal日前以160亿美元估值完成融资，Baseten也在筹备新一轮募资。威纳有丰富大型上市公司财务经验，可望为Fireworks下阶段扩张与资本规划增添强大助力。]]></description>
   </item>
 </channel>
 </rss>
