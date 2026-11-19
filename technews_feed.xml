@@ -4,305 +4,355 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Wed, 18 Nov 2026 22:44:01 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 04:44:08 GMT</lastBuildDate>
   <item>
-    <title>找到 8 分钟重复一次的神秘电波来源，天文学家证实源自白矮星双星系统</title>
-    <link>https://technews.tw/2026/11/18/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it/</link>
-    <guid>https://technews.tw/2026/11/18/a-mysterious-radio-signal-repeats-every-8-minutes-astronomers-finally-know-whats-behind-it/</guid>
-    <pubDate>Wed, 18 Nov 2026 13:56:15 +0000</pubDate>
-    <description><![CDATA[澳洲默奇森宽场阵列（MWA）侦测到每约 8 分钟脉冲一次的无线电讯号 GPM J071507-114153。刊登于《自然天文学》（Nature Astronomy）的研究指出，讯号最可能来自一颗白矮星与一颗类似太阳的 G 型恒星组成的双星系统，是首次观测到白矮星绕行类日恒星时发出的无线电脉冲。
+    <title>美国能源改革法案加速闯关，力拚参众两院改组前完成立法</title>
+    <link>https://technews.tw/2026/11/19/us-energy-reform-bill-fast-tracked-before-congressional-reorganization/</link>
+    <guid>https://technews.tw/2026/11/19/us-energy-reform-bill-fast-tracked-before-congressional-reorganization/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:42:49 +0000</pubDate>
+    <description><![CDATA[随著 AI 资料中心快速扩建，美国电力需求持续攀升，电网建设速度与能源成本问题也受到关注。美国参议院正加速推动《跨党派美国可负担性与就业法案》（Bipartisan American Affordability and Jobs Act），继上周同意展开审议后，11 月 18 日进一步通过法案修订版本，朝最终表决迈进。法案拟加快电厂与输电线路建设，同时要求大型资料中心承担更多电网扩建成本，避免相关支出转嫁给一般用户。
 
-Gizmodo 报导，位于澳洲的默奇森宽场阵列（Murchison Widefield Array，MWA）自 2024 年底起侦测到 GPM J071507-114153 这个大约每 8 分钟脉冲一次的无线电讯号。从 2024 年 12 月到 2025 年 9 月，MWA 共侦测到 214 次脉冲，天文学家归类为长周期暂现源（long-period transient）。团队 12 日发表于《自然天文学》的论文指出，讯号最可能的来源是一双星系统，由一颗白矮星与一颗类似太阳的 G 型恒星组成。
+根据路透社报导，这项长达 400 页的法案，主要希望解决美国大型能源基础设施审批程序冗长的问题。根据白宫经济顾问委员会资料，目前美国大型联邦环境审查平均需要超过 4 年，法案则设定 2 年的审查目标，并要求联邦机关协调许可程序、建立审批进度追踪机制，以加快能源计划开发。以美国 SunZia 输电计划为例，这条长达约 885 公里的输电线路，负责将新墨西哥州的风力发电输送至亚利桑那州及加州，从最初提出到完工历时将近 20 年，凸显大型电力基础设施面临的开发挑战。
 
-白矮星是恒星死亡后残留的核心。研究员表示，这是首次侦测到绕行类日恒星、而非红矮星的白矮星发出的无线电脉冲。通讯作者科廷大学（Curtin University）天文学家 Natasha Hurley-Walker 声明，用无线电波段就能侦测到 5 千光年外一颗恒星的风暴，令人惊叹。
+除了缩短环境审查时间，法案也将加快输电线路规划、选址及既有电网升级，并提高能源开发许可的法律确定性。依照法案内容，许多许可及环境审查决定的司法挑战期限将限制在 150 天内，减少能源计划在取得批准后，仍因诉讼而长期延宕的情况。支持者认为，相关措施有助于降低开发风险，提高投资者投入电力基础设施的意愿。
 
-长周期暂现源是相对新的天体讯号类别。科学家 2005 年首次察觉这类辐射，2022 年起才开始深入研究。包括这次研究员等团队检视 2022 年讯号后发现，与高速自转、发出快速光束的中子星不同，也就是脉冲星；长周期暂现源的脉冲周期长得多，2022 年那个讯号周期约 18 分钟，一年后发现的另一个讯号则约 21 分钟。
+值得注意的是，随著美国各地居民对资料中心开发的反对声浪升高，法案也将大型资料中心的电网成本分摊列为改革重点。未来大型运算设施将需要负担更多因自身用电需求而产生的输电及基础设施成本，避免电网扩建支出由一般家庭及企业共同承担。不过，部分批评者认为，全面简化能源与基础设施许可程序，也可能让资料中心更容易取得开发许可，进一步推升区域用电需求。
 
-已知的 12 个长周期暂现源，至少有四个是白矮星与红矮星组成的双星系统，但究竟是哪颗星发出长周期无线电脉冲，之前并不清楚。团队花了 100 小时处理 GPM J071507-114153 的无线电资料后，发现这个讯号是观测突破。论文第一作者科廷大学天文学家 Sam McSweeney 表示，这是首次脉冲清晰到可看见白矮星在轨道绕行伴星，因此可知脉冲来自白矮星附近的区域，甚至可能来自白矮星本身。
+在电价方面，白宫经济顾问委员会估计，若能源许可改革顺利推动，每年可增加约 820 亿至 1,640 亿美元的经济产出，并使美国家庭每年平均节省约 178 至 251 美元电费。美国能源与环境研究机构 Resources for the Future 也预估，改革有助于大幅扩增输电容量，并在 2050 年前累计节省约 3,500 亿美元成本。荣鼎集团（Rhodium Group）的研究则认为，扩大能源基础设施建设也可能带来温室气体减排效益。
 
-Hurley-Walker 补充，白矮星的脉冲也让团队得以捕捉到类日伴星的恒星闪焰。后续以凯克天文台（Keck Observatory）进行的光学观测，证实另一个天体确实是 G 型恒星。论文指出，之后侦测到的长周期暂现源，或许能帮助找出传统天文台观测不到的白矮星。
+不过，法案仍面临环境保护方面的争议。包括塞拉俱乐部（Sierra Club）、自然资源保护委员会（NRDC）等环保团体，虽然支持加快输电线路及洁净能源建设，但也担忧放宽审批程序可能加速石油、天然气等化石燃料开发，削弱公共土地、水资源及野生动物保护。此外，部分原住民族组织也质疑，缩短审查时间可能影响部落咨商及传统土地权益。
 
-（首图来源：Natasha Hurley-Walker /Curtin University）]]></description>
+目前法案仍须完成参议院最终表决，并交由众议院审议，能否在今年完成立法仍存在不确定性。随著 AI 资料中心持续扩张，美国能源政策的关注焦点已逐渐从增加发电量，延伸至电网建设效率、电力成本分摊及基础设施开发程序。未来如何在加快能源供应、控制家庭电费与维持环境保护之间取得平衡，将成为美国推动新一波电力基础设施投资的重要课题。]]></description>
   </item>
   <item>
-    <title>双鸿看好明年营收成长高于今年，ASIC 业务超越 GPU</title>
-    <link>https://finance.technews.tw/2026/11/18/auras-earnings-call-26q3/</link>
-    <guid>https://finance.technews.tw/2026/11/18/auras-earnings-call-26q3/</guid>
-    <pubDate>Wed, 18 Nov 2026 10:10:48 +0000</pubDate>
-    <description><![CDATA[散热大厂双鸿今天举行法人说明会，董事长林育申（见首图）表示，ASIC（特殊应用积体电路）客户产品大量出货，双鸿 2027 年营收成长没问题，幅度有望比今年的七成还要高，且毛利率也比今年好。
+    <title>AI 投资压抑短期获利，大摩降腾讯目标价</title>
+    <link>https://finance.technews.tw/2026/11/19/morgan-stanley-cuts-tencent-price-target/</link>
+    <guid>https://finance.technews.tw/2026/11/19/morgan-stanley-cuts-tencent-price-target/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:40:36 +0000</pubDate>
+    <description><![CDATA[综合港媒报导，摩根士丹利（大摩）发布报告指出，更高的人工智慧（AI）投资将对腾讯的短期获利施加压力，将该公司目标价下调近 13% 至 480 港元，但维持「超配」评级。腾讯股价19日早盘开低走跌，截至 10:17 左右暂报 350.4 港元、跌约 6%。
 
-面对近期AI市场利空频传，法人担心2028年之后AI资料中心的建置可能放缓。林育申在法说会一开场就坦言，最近风风雨雨，深刻影响产业发展，但实际影响，可能还是要到明年中才会看得比较清楚。
+报告指出，消费疲软、微短剧业务及此前记忆体价格上涨，预计会在未来数季限制腾讯的核心业务利润率；而尽管受到美国商务部工业与安全局（BIS）限制，但推理业务仍具有韧性；相关限制对云业务收入影响有限，高效推理可以使用中国国产晶片运行，而WorkBuddy可从模型合作伙伴获得多元化的Token供应。
 
-林育申表示，双鸿资本支出高峰落在今、明两年，今年双鸿资本支出金额约新台币40亿至50亿元，估计明年金额和今年差不多。至于法人追问接下来如果AI成长速度放缓，是否担心产能过剩，林育申表示扩产第一步先盖厂房，接下来设备才是金额最大的重头戏，这部分会视客户需求情形，逐季检视增加，
+报告并指出，腾讯的核心业务仍是中国网路科技行业中实力最强的之一，AI投资增加将拖累短期获利，但AI生产力产品和智慧语音助理解决方案「小微」具有可观的长期潜力。
 
-至于辉达（NVIDIA）执行长黄仁勋闪辞，引发市场震撼。林育申形容，黄仁勋是偏执狂，把整条供应链压到极致，对大家而言，这几年都很辛苦。接下来如果没有黄仁勋，他认为速度可能会放缓，大家可以稍微轻松一些，但对整体AI产业发展不见得是好事。
-
-林育申认为，黄仁勋已经把辉达之后产品蓝图都规划好了，虽然领导团队变化，但只要照著走，成长不是太大问题。
-
-不过林育申也表示，双鸿明年最主要的成长动能来自AWS、Meta等新ASIC客户。双鸿估计明年伺服器占公司营收比重将从今年80%提升到90%。ASIC营收将超过辉达主导的GPU阵营。
-
-双鸿刚公布第三季财报，单季毛利率25.65%，较去年同期下滑4.12个百分点，也比第二季减少2.77个百分点，不如法人预期。双鸿发言人陈玉玲今天说明，第三季毛利率下滑，主要受消费型产品组合影响，以及第三季有多项新设计试产，成本偏高。第四季辉达Vera Rubin与ASIC客户新品陆续量产出货，毛利率可望回升。
-
-林育申乐观预估2027年对双鸿来说会是不错的一年，双鸿估计今年营收年增率超过七成，明年成长幅度不会低于这个数字。加上ASIC毛利率略高于GPU，明年毛利率也可望会比今年好。]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>无密码登入更安全，LINE「通行金钥」设定快速上手</title>
-    <link>https://infosecu.technews.tw/2026/11/18/how-to-register-a-passkey-in-the-line-app/</link>
-    <guid>https://infosecu.technews.tw/2026/11/18/how-to-register-a-passkey-in-the-line-app/</guid>
-    <pubDate>Wed, 18 Nov 2026 10:09:12 +0000</pubDate>
-    <description><![CDATA[「通行金钥」（Passkey）是用来取代传统密码的无密码登入技术，这种做法在 Google、微软等服务越来越普遍。现在 LINE 也跟进采用，只要事先完成设定，未来换手机或重新登入 LINE 时，透过装置的生物辨识（如脸部辨识或指纹辨识）就能快速完成验证登入。
+    <title>抢攻AI电力需求 日立能源泰国工厂增产变压器</title>
+    <link>https://finance.technews.tw/2026/11/19/hitachi-energy-expands-transformer-production-at-thailand-plant/</link>
+    <guid>https://finance.technews.tw/2026/11/19/hitachi-energy-expands-transformer-production-at-thailand-plant/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:30:46 +0000</pubDate>
+    <description><![CDATA[抢攻 AI 电力需求，日立制作所（Hitachi）旗下负责能源部门核心业务的子公司「日立能源」（Hitachi Energy）将扩充泰国工厂变压器产能，目标扩产 30%。
 
-登入 LINE 除输入密码与验证码外，现在正式支援通行金钥，事先设定就能直接用手机的脸部辨识、指纹辨识或萤幕锁快速验证，免记密码，换机移动更顺畅。
+日经新闻报导，日立能源18日表示，为了因应AI普及、带动电力需求扩大，计划自2027年初起，扩充泰国工厂（位于泰国中部北榄府）变压器产能。日立能源变压器事业CEO Bruno Melles等人18日在泰国曼谷举行了记者会。
 
-▲ iOS 版本设定与登入。（Source：LINE Blog）
+据报导，日立能源正在全球推动总额90亿美元（约1.4兆日圆）的投资计划。其中，在泰国投资4亿5,500万泰铢（约21亿日圆）扩充生产设备，待扩产工程完成后，将逐步把产能提高30%。
 
-▲ Android 版本设定与登入。（Source：LINE Blog）
+日立能源泰国工厂于1990年投产，所生产的变压器约50~60%出口至海外。
 
-LINE 指出，采用 Passkey 具有以下安全优势：一是不用重复使用 e-mail 与密码登入，解锁手机即完成身分验证。二是安全性高，杜绝密码外流与钓鱼盗用风险。三是借由登入相同 Apple ID 或 Google 帐号即可安全同步，减轻换机重设负担。]]></description>
+根据Yahoo Finance的报价显示，截至台北时间19日上午9点55分为止，日立大涨2.26%至4,984日圆。
+
+日立10月28日公布财报资料指出，今年度（2026年度、2026年4月-2027年3月）合并营收目标自原先（7月）预估的11.7兆日圆上修至12兆日圆（将年增13.3%）、合并纯益目标自9,000亿日圆上修至9,200亿日圆（将年增14.7%）。
+
+日立预估今年度包含输配电设备在内的能源部门（电网事业+核能事业、电网事业占比超过九成）营收将年增26%至4.06兆日圆。其中，日立预估今年度电网事业营收将年增26%至3兆7,815亿日圆。
+
+日立指出，截至2026年9月底，日立能源订单余额（积压订单）达10.5兆日圆（669亿美元）。
+
+日立能源9月15日宣布，为了因应AI普及、电力需求急速扩大，将投资5亿2,800万美元（约800亿日圆）在美国密西西比州兴建变压器新工厂，扩增当地变压器产能。该座变压器新厂将在2026年内动工兴建，预计2029年开始进行生产，新厂规模将达日立能源位于密西西比州的现有工厂的约2倍，产能将达2倍以上水准，]]></description>
   </item>
   <item>
-    <title>韩中 FTA 谈判达成协议，限韩令是否松绑仍有待观察</title>
-    <link>https://finance.technews.tw/2026/11/18/korea-china-fta-deal-hallyu-ban-relaxation-uncertain/</link>
-    <guid>https://finance.technews.tw/2026/11/18/korea-china-fta-deal-hallyu-ban-relaxation-uncertain/</guid>
-    <pubDate>Wed, 18 Nov 2026 10:00:46 +0000</pubDate>
-    <description><![CDATA[韩中今天宣布 FTA 实质达成协议，影视、观光等领域相关限制皆有调整，被视为「限韩令」出现松绑的契机。不过也有韩媒分析，协定并没有提到韩国艺人演出、或韩剧播出等内容，实际效果仍待观察。
+    <title>从谨慎飞行到挑战音障，NASA 下一代火星直升机性能大跃进</title>
+    <link>https://technews.tw/2026/11/19/helicopter-mars-skyfall/</link>
+    <guid>https://technews.tw/2026/11/19/helicopter-mars-skyfall/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:26:44 +0000</pubDate>
+    <description><![CDATA[NASA 持续推进探索火星的无人直升机性能极限，目标旋翼叶尖达超音速以大幅提升升力，测试成果直接影响下一代火星飞行器载重能力及续航距离。
 
-藉APEC韩中领袖会谈，韩中今天宣布「韩中FTA（自由贸易协定）服务与投资后续谈判」实质达成协议。韩国产业通商部表示，韩中FTA服务与投资后续谈判，是根据2015年12月生效的韩中FTA原协定所推动的后续措施，目的是提高服务与投资领域的自由化程度。
+火星大气极度稀薄，大气密度仅约地球 1%。旋翼叶片能推动的空气分子大幅减少，要产生足够升力，工程师必须让旋翼极高速运转逼近音速。相较之下，地球上的小型旋翼虽也能达到每分钟数千转，但因大气浓密，根本无须将叶尖推向超音速便能获得可观升力。
 
-韩中自2018年3月启动后续谈判，持续就服务、投资及金融领域的协定条文与市场开放协商，但过程中也曾因双方立场分歧，出现超过四年未举行正式谈判的情况。
+2021 年 4 月，机智号火星直升机创下历史，成为首架在另一个天体实现「动力受控飞行」的飞行器，不过机智号设计初衷仅是证明火星飞行可行，而非搭载科学仪器，因此工程师在机智号 72 次飞行任务中，都刻意将旋翼转速限制在每分钟2,700转，叶尖速度控制在 0.7 马赫。
 
-今年1月韩中领袖会谈期间，韩国总统李在明、中国国家主席习近平同意努力促成后续谈判，并在年内取得确实进展，使谈判加速。最终启动谈判约八年八个月后，实质达成协议。
+用意之一是让叶片远离音障附近复杂且难预测的气流状态，其二是预留安全空间，万一遭遇火星阵风导致叶尖相对空气速度骤增，才不至于意外进入超音速。
 
-此次协议最受瞩目的内容，是中国承诺在电影、游戏等领域给予韩国不低于第三国待遇的「最惠国待遇」；并对网路游戏、电影等内容的事前审查适用不歧视原则。此外，两国也将共同制作范围从电影扩大至电视剧、动画、综艺及纪录片等领域。
+新一代火星直升机不再仅满足于飞行，而是携带更重科学仪器与电池，执行更长时间的低空探测。
 
-这次影视领域相关规定松绑，也被视为「限韩令」松绑的契机。不过根据韩媒《亚洲经济》报导，虽然此次谈判同意禁止基于国籍的歧视性待遇，但并不保证作品一定能通过审查或取得许可；尤其协议并未明文纳入允许韩国歌手恢复演出，或允许韩剧在中国电视台、OTT平台播出的条款。
+去年，NASA 喷射推进实验室（JPL）工程团队在专门重现火星严苛大气条件的特制舱室内，成功将实验性三叶旋翼尖端推过音速且未解体，先是达到每分钟 3,750 转，叶尖速度冲上 0.98 马赫（略低于音速），随后工程师逐步加大舱室逆风，最终将叶尖推至 1.08 马赫，正式突破音障且叶片完好无损，使飞行器升力提高 30%。
 
-所谓「限韩令」是指2016年韩国决定部署萨德系统（THAAD）后，中国非正式扩大对韩国文化内容的限制措施。根据韩国贸易协会资料，韩国广播产业对中国的出口额，从2016年9,400万美元降至2022年5,400万美元。
+接著团队测试了为 SkyFall 计划设计的双叶旋翼，由于叶片略长，在施加模拟逆风前，仅需每分钟 3,570 转便能让叶尖达到同样逼近超音速的程度。
 
-此外，协定距离正式产生法律效力仍有相关程序待完成，两国预定完成技术性条文协商及法律审查后，再推动签署与生效。]]></description>
+SkyFall 计划目标为 2028 年 12 月将 3 架次世代微型直升机送往火星，若成功开发并部署，这些直升机将扩展火星探索可能性，为科学家提供调查火星表面的新方式，从传统探测车难抵达的地点搜集资讯。]]></description>
   </item>
   <item>
-    <title>日本硫磺岛火山喷发，南岸形成大片新陆地</title>
-    <link>https://technews.tw/2026/11/18/iwo-jima-volcanic-eruption-creates-new-landmass-southern-coast/</link>
-    <guid>https://technews.tw/2026/11/18/iwo-jima-volcanic-eruption-creates-new-landmass-southern-coast/</guid>
-    <pubDate>Wed, 18 Nov 2026 09:50:27 +0000</pubDate>
-    <description><![CDATA[日本小笠原群岛之中的硫磺岛 10 月下旬起持续喷发，喷发物在硫磺岛南岸附近形成的新陆地，面积达约 50 公顷。硫磺岛之后的火山活动将会改变岛屿的大小与形状。
+    <title>Gemini 4 Neon 新模型登场，兼具 Carbon 级能力与 Flash 级反应速度</title>
+    <link>https://technews.tw/2026/11/19/google-introduces-gemini-4-neon/</link>
+    <guid>https://technews.tw/2026/11/19/google-introduces-gemini-4-neon/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:24:52 +0000</pubDate>
+    <description><![CDATA[继上周推出 Gemini 4 Carbon 与 Gemini 4 Hydrogen 后，Google 18 日进一步发表 Gemini 4 Neon，适合复杂、高频率的各种工作流程，以更快速、更具成本效益的方式提供前沿等级的推论能力。
 
-硫磺岛的行政区域划分属于东京都小笠原村。1945年，日军与美军曾在岛上爆发激烈的硫磺岛战役，双方均死伤惨重。
+Neon 在编码、推论及代理式 AI 任务方面的效能表现，可媲美自家 Carbon、甚至更胜一筹，却具备 Flash 等级的速度与更低的成本。
 
-读卖新闻、TBS今天报导，气象厅等单位指出，硫磺岛南岸近海频繁火山喷发。根据欧洲的地球观测卫星「哨兵二号」（Sentinel-2）10月27日以来拍到的画面显示，海面冒出灰烟。11与16日画面可见，出现三角形的陆地，且这片陆地跟硫磺岛连在一起。新陆地面积约50公顷，约等于10~11个东京巨蛋大（东京巨蛋的建筑面积约4.7公顷）。
+Neon 生成的文字表达清晰，回应内容结构完善，并具备自然而直接的语气。它能更精准地判读如试算表、PDF、照片等上传内容、将艰涩繁琐的素材转化为实用的摘要或报告，并从 Gmail、文件等 Google 应用程式撷取相关资讯的细节。Neon 也纳入来自网路各处资料来源的细节内容，让回应内容对于迅速变动的主题能保有最新
 
-2023年硫磺岛喷发形成的岛屿所在地，就在新陆地附近。不过后来海浪侵蚀之下，新岛屿数个月就后消失。气象厅表示「由于大量浮石正在漂流，将持续密切监测」。
+Gemini 中的各项任务如今能以 Neon 处理，相较于较大型的模型，它能更快速、更具效率地处理各项复杂的多步骤任务。当使用者把繁琐的待办事项交付给 Gemini，便能完成更多的事，同时让使用额度撑得更久
 
-朝日电视台报导，日本海上保安厅（相当于海巡署）出动飞机观测后发现，喷发口周边形成新陆地，长度约1.5~2公里，且与硫磺岛连在一起。海保厅将持续观测这片陆地，同时呼吁附近船只留意航行安全。]]></description>
+Neon 为复杂的编码作业、分析推论，以及生产等级的企业端工作流程而打造。当 Carbon 负责处理最艰难的专案任务、Hydrogen 负责应付快速的日常作业时，Neon 则在深度与效率之间取得平衡。
+
+Neon 已在 Gemini 应用程式向 Google AI Pro 与 Google AI Ultra 订阅用户开放使用，旧款模型 Gemini 3.1 Pro 不仅功成身退，而 Neon 也取代了 Argon。
+
+随著 Neon 的推出，在 Gemini 4 家族位居 Hydrogen 与 Carbon 之间，Gemini 应用程式的模型选单变成：]]></description>
   </item>
   <item>
-    <title>M8 先不要，美国海军陆战队继续增购 M27 步枪</title>
-    <link>https://technews.tw/2026/11/18/us-marine-bought-more-m27-iars/</link>
-    <guid>https://technews.tw/2026/11/18/us-marine-bought-more-m27-iars/</guid>
-    <pubDate>Wed, 18 Nov 2026 09:45:32 +0000</pubDate>
-    <description><![CDATA[美国五角大厦近期公告，海军陆战队与德国枪械厂 Heckler & Koch（H&K）的 M27 步兵自动步枪（Infantry Automatic Rifle，IAR）采购合约上限，由约 3,923 万美元提高至 8,460 万美元，增幅超过一倍。
+    <title>黄仁勋闪辞掀风暴  微软：客户更想找辉达替代品</title>
+    <link>https://finance.technews.tw/2026/11/19/jensen-huang-sudden-resignation-sparks-controversy-microsoft-customers-seek-nvidia-alternatives/</link>
+    <guid>https://finance.technews.tw/2026/11/19/jensen-huang-sudden-resignation-sparks-controversy-microsoft-customers-seek-nvidia-alternatives/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:20:20 +0000</pubDate>
+    <description><![CDATA[辉达 (Nvidia Corp.) 执行长黄仁勋 (Jensen Huang) 闪电辞职，引发公司治理动荡，也让客户寻求 AI 晶片替代供应商的意愿更升温。
 
-美国海军陆战队可依需求分批采购新枪、备用零件及相关装备，其中约七成工作将由德国奥伯恩多夫（Oberndorf）厂区执行，其余由美国乔治亚州哥伦布（Columbus）厂区负责，预计 2028 年 4 月 27 日完成履约。
+Seeking Alpha等外电18日引述彭博社报导，微软(Microsoft)商业业务执行长Judson Althoff受访时表示，客户早在黄仁勋离职前，就已希望拥有更多晶片选择，近期事件更强化供应来源多元化的必要性。
 
-M27 以 HK416 为基础，采用短行程活塞设计，最初是为了接替 M249 班用机枪而引进，陆战队 2018 年签订为期五年的不定期交付、不定量（IDIQ）合约扩大采购，M27 随后逐渐取代 M4 系列卡宾枪与 M16A4 步枪，成为各步兵营的制式步枪，此外陆战队近年也陆续配发抑音器及雷射瞄准具，今年更将 M27 等制式轻兵器纳入小型无人机应对训练。
+Althoff指出，黄仁勋辞职的消息，确实让客户更加认同寻找替代方案是正确方向。他预期，未来客户将更广泛采用不同供应商的晶片，包括超微(AMD)产品，以及大型云端服务业者自行研发的处理器。
 
-美国陆军开始配发使用 6.8 公厘弹药的 M7 步枪后，陆战队今年 2 月确认续用 M27，沿用 M4、M16 系列使用的 5.56 公厘北约制式弹药，陆战队发言人当时向《军事时报》（Military Times）表示，M27 更符合近距离与两栖作战需求，也能维持与美军其他军种及盟军的互通性。]]></description>
+Althoff表示，过去一年来，他一直大力主张AI模型与晶片多元化将成为主流。不过，他也指出，目前客户大多仍在等待辉达人事风波尘埃落定，而微软也会持续与辉达合作。
+
+微软正在积极开发AI晶片，降低对辉达昂贵处理器的依赖，并已宣布计划于2027年推出Maia 300晶片。The Information 8月报导，微软已与台积电洽谈，希望确保超过30万颗Maia 300的产能，2027年交货。
+
+黄仁勋离职，若客户加速分散晶片采购来源，超微、博通(Broadcom)及云端业者自研晶片有望受到更多关注。辉达17日盘后虽公布优于预期的财报并上调财测，18日股价却开高走低，终场下挫2.89%、收150.96美元，创2025年6月24日以来收盘新低。辉达竞争对手超微、博通18日却分别上涨5.31%、3.64%。
+
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>希格诺、茂纶展示 Physical AI，机器手臂精准挥杆打高尔夫</title>
-    <link>https://technews.tw/2026/11/18/epson-physical-ai-nvidia/</link>
-    <guid>https://technews.tw/2026/11/18/epson-physical-ai-nvidia/</guid>
-    <pubDate>Wed, 18 Nov 2026 09:45:26 +0000</pubDate>
-    <description><![CDATA[希格诺科技股份有限公司（SignalPro Technology）于 11 月 18 日与茂纶股份有限公司共同举办展览活动，展示 Physical AI 于实体场域的应用成果。此次展出的核心亮点，是在机器手臂上整合毫米波雷达与双目相机，让机器手臂具备感测与判读能力，实际执行挥击打高尔夫球的动作。
+    <title>传微软向字节跳动洽售 AI 服务  引 OpenAI 不满</title>
+    <link>https://technews.tw/2026/11/19/microsoft-reportedly-negotiating-sell-ai-services-bytedance-openai-displeasure/</link>
+    <guid>https://technews.tw/2026/11/19/microsoft-reportedly-negotiating-sell-ai-services-bytedance-openai-displeasure/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:10:31 +0000</pubDate>
+    <description><![CDATA[综合港媒报导，科技媒体《The Information》报导，TikTok 母公司字节跳动正与微软深入洽谈，计划额外斥资约 5 亿美元购买 Azure 云端服务，字节跳动可透过微软 Azure 云端平台使用 OpenAI 模型。有关洽谈引起OpenAI不满，令两家公司原已存在分歧的合作关系再添变数。
 
-活动过程中，每一局击球的目标位置与分数皆为随机产生，Epson 机器手臂搭载的 AI 系统需即时判读所需的击打力度与速度，并据此调整挥杆动作，将球精准打向系统设定的目标位置。此设计目的在于呈现 Physical AI 如何让机器具备「感知环境、即时决策、精准执行」的完整能力。
+据悉，微软也寻求与阿里巴巴等其他中国企业达成协议，出售OpenAI模型。OpenAI禁止多数中国企业使用自家AI技术，但微软有销售OpenAI技术的权利，且未采取与OpenAI相同的限制措施。
 
-在运算架构上，本次展示以 NVIDIA Jetson Orin Nano 8GB 模组作为边缘运算核心，采用 NVIDIA CUDA 平台，并以 NVIDIA TensorRT 进行加速，负责感测资料的即时处理与初步判读。
+知情人士指出，OpenAI近月向微软投诉，怀疑中国企业透过「模型蒸馏」，利用OpenAI模型的输出训练自家竞争产品。OpenAI限制大部分中国企业直接使用旗下模型，但微软凭借双方授权协议，可以透过中国境外的Azure数据中心向中国客户提供相关服务。微软管理层向OpenAI表示，未发现字节利用模型蒸馏技术违规，认为对方主要将AI用于软体开发等工作，也没有发现复制模型推理过程的证据。
 
-模型端则由 MSI EdgeXpert 提供（搭载 NVIDIA GB10 Grace Blackwell 超级晶片），用于感测器模型训练，并利用 NVIDIA Nemotron 开放式模型，针对每一局赛况估算最佳击球决策。透过 TensorRT-LLM 与 NVFP4 进行推论加速，在维持判读准确度的同时，大幅提升系统的即时反应速度。
-
-希格诺科技表示，毫米波雷达可提供高精度的距离与速度资讯，搭配双目相机的空间影像判读，两者结合后大幅提升 Epson 机器手臂对周遭环境与目标物的感知准确度；再结合上述 NVIDIA 加速运算与 NVIDIA AI 软体堆叠，是此次展示能够稳定完成随机分数击球任务的关键技术基础。
-
-此次活动也是希格诺科技、茂纶、Epson 与 NVIDIA 在感测技术与AI运算平台合作上的具体展现，未来将持续探索毫米波雷达结合 AI 感测技术于工业自动化、机器人与智慧制造等领域的应用可能性。
-
-希格诺科技是台湾专注于 AI Infrastructure 建置与营运的服务商，具备 AI Data Center（AIDC）场域规划、高密度 GPU 丛集整合、算力平台营运及 AI 平台整合的完整能力，定位为 AI Factory（AI工厂）的建置者与营运者，致力于协助企业与产业加速 AI 应用落地，打造具国际竞争力的台湾 AI 算力平台。
-
-茂纶股份有限公司是台湾资深的半导体与电子零组件代理服务商，隶属日商 Macnica 集团，具备半导体技术支援、系统整合与客户端应用开发的完整能力，服务范畴涵盖伺服器、物联网、通讯、工业电子、汽车工业与智慧工厂等领域，并积极布局 AIoT 与 AI 商用服务型机器人等新事业，致力于协助客户导入先进运算与感测技术，加速智慧应用落地。
-
-（资料来源：希格诺科技；首图来源：希格诺科技；图片来源：希格诺科技 ；首图图说：希格诺科技与茂纶共同举办展览，展示 Physical AI 应用成果。）]]></description>
+微软2019年起投资OpenAI，累计投入逾130亿美元。双方今年4月修订合作协议，确认微软可继续以非独家形式使用OpenAI模型及产品技术至2032年。但双方近年技术资料共享、商业销售及智慧财产权保护方面屡有分歧。微软AI业务行政总裁Mustafa Suleyman曾对员工说，公司须为未来可能失去OpenAI技术授权预作准备，同时也努力自研AI模型。]]></description>
   </item>
   <item>
-    <title>欧洲绿电面临输电瓶颈，欧盟推动电网审批改革</title>
-    <link>https://technews.tw/2026/11/18/green-power-increases-grid-lags-eu-accelerates-wind-solar-storage-approvals/</link>
-    <guid>https://technews.tw/2026/11/18/green-power-increases-grid-lags-eu-accelerates-wind-solar-storage-approvals/</guid>
-    <pubDate>Wed, 18 Nov 2026 09:23:50 +0000</pubDate>
-    <description><![CDATA[欧洲再生能源发电占比持续提高，但电网建设速度未能跟上，导致部分风电与太阳能被迫限发。据路透社报导，欧盟理事会 18 日宣布，已与欧洲议会达成临时协议，将加速再生能源、电网及储能设施的许可审批程序，以改善电网瓶颈并缩短建设等待时间。
+    <title>英特尔 18A 制程重大突破  终于拿到首家外部客户</title>
+    <link>https://finance.technews.tw/2026/11/19/intel-18a-process-major-breakthrough-first-external-customer/</link>
+    <guid>https://finance.technews.tw/2026/11/19/intel-18a-process-major-breakthrough-first-external-customer/</guid>
+    <pubDate>Thu, 19 Nov 2026 04:00:28 +0000</pubDate>
+    <description><![CDATA[美国晶片大厂英特尔（Intel）代工业务传出重大进展。执行长陈立武（Lip-Bu Tan）18 日宣布，已成功签下首家 18A 先进制程外部客户，为英特尔近年积极追赶台积电、力拚晶圆代工布局的重要里程碑。
 
-根据欧盟统计局（Eurostat）数据，2025 年欧盟再生能源发电量约达 1,330 TWh，占整体发电量的 47.2%，高于化石燃料的 29.6% 与核能的 23.2%。不过，随著再生能源发电规模扩大，欧洲电网基础设施也面临压力。
+CNBC报导，陈立武18日出席美国德州奥斯汀举行的TomorrowX峰会时透露，英特尔已与首家18A制程客户签约，但并未公开客户身分。英特尔技术长Pushkar Ranade之后X说明，客户采用18A-P制程，这项技术6月已进入风险试产（risk production）阶段。
 
-根据欧盟能源监管合作署（ACER）报告，2025 年欧盟输电系统营运商为缓解电网壅塞，支出约 54 亿欧元，高于 2024 年的 43 亿欧元，增幅超过 25%。此外，欧盟电网投资虽持续增加，但跨境输电计划仍面临审批延误等问题，限制电力在不同地区之间的输送效率。
+市场高度关注神秘客户身分。Creative Strategies分析师Ben Bajarin推测，高机率是辉达、苹果，或亚马逊、微软及Google等积极开发自家晶片的云端服务巨头。
 
-欧盟执委会先前在《电网行动计划》中指出，欧洲约 40% 的配电网已使用超过 40 年，预估本十年电网投资需求将达 5,840 亿欧元。此外，欧盟理事会指出，目前欧洲输电网建设平均需要约 10 年，其中许可审批就占超过一半时间，成为电网扩建的重要瓶颈。
+五年来英特尔晶圆代工业务投注极大心力，试图挑战台积电在先进制程霸主地位，但始终遭遇良率不佳及缺乏大型外部客户等问题，如今18A制程终于迎接首家外部客户，象征晶圆代工布局迈出关键一步。
 
-为加速能源基础设施建置，欧盟此次达成的临时协议，允许成员国将再生能源与电网建设认定为具有重大公共利益的项目，以简化相关许可程序。这项改革也是欧盟 2025 年底提出的「欧洲电网套案」（European Grids Package）一部分，旨在推动电网现代化、扩大输电容量，并改善再生能源并网效率。
-
-不过，这项协议仍须经欧盟理事会与欧洲议会正式批准，待法案生效后，各成员国将有 18 个月时间完成国内法规调整。随著欧盟再生能源发电占比逼近五成，电网建设速度已成为影响能源转型的重要因素。此次改革能否缩短审批时间、加快输电设施扩建，并减少风电与太阳能限发问题，将是后续观察重点。]]></description>
+陈立武同时宣布，微软成为首家公开具名采用英特尔EMIB先进封装的客户，显示英特尔先进封装业务也有斩获。但英特尔近期仍面临PC需求疲弱及供应链问题等阻碍，股价9月底以来重挫逾五成。]]></description>
   </item>
   <item>
-    <title>波士顿动力跨界半导体，人型机器人 Atlas 2027 年进驻格罗方德晶圆厂</title>
-    <link>https://technews.tw/2026/11/18/boston-dynamics-enters-semiconductor-industry/</link>
-    <guid>https://technews.tw/2026/11/18/boston-dynamics-enters-semiconductor-industry/</guid>
-    <pubDate>Wed, 18 Nov 2026 09:20:13 +0000</pubDate>
-    <description><![CDATA[现代汽车集团旗下的机器人制造商波士顿动力（Boston Dynamics）于美国时间 11 月 17 日宣布，将扩大与全球晶圆代工大厂格罗方德（GlobalFoundries）的策略合作。除了大幅扩增四足机器狗「Spot」在全球主要厂区的部署规模，旗下备受瞩目的人型机器人「Atlas」也预计于 2027 年初，正式进驻格罗方德厂区展开实地测试。
+    <title>Google 联手三星推 AI 智慧眼镜遭秒杀，Gemini 语音助理成大卖点</title>
+    <link>https://technews.tw/2026/11/19/google-smart-glasses-pre-order-frenzy/</link>
+    <guid>https://technews.tw/2026/11/19/google-smart-glasses-pre-order-frenzy/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:50:33 +0000</pubDate>
+    <description><![CDATA[Google 睽违多年重返智慧眼镜市场，初期的市场反应出乎外界预期地热烈。由 Google 与三星（Samsung）携手研发，并结合知名眼镜品牌 Gentle Monster 与 Warby Parker 共同设计的首批 AI 智慧眼镜，日前已于美国与韩国开放预购。其中，Gentle Monster 联名款上架后迅速出现缺货潮，部分款式甚至在预购开跑不久后便被抢购一空。
 
-这项合作为机器人跨领域应用写下新页：格罗方德不仅是波士顿动力在汽车产业以外的首位 Atlas 测试客户，更是全球第一家在厂房内实地测试人型机器人的半导体制造商。
+这波备受瞩目的穿戴新品预计于 12 月 10 日正式上市，并主打以 Gemini AI 为核心的语音互动体验。使用者不仅能透过眼镜拍照、录影、接听电话、播放音乐及路线导航，还能直接用语音向 Gemini 提问。此外，针对外界最关注的隐私问题，新产品也加入了严格的防护机制：相机系统设定为「只有在配戴状态」下才会启动，且若镜框上的录影指示灯遭到遮蔽或干扰，摄影功能便会自动强制停止。
 
-双方预定于 2027 年初在格罗方德的重点厂区启动实地测试，将聚焦寻找人型机器人在高精密半导体制程中适合胜任的任务。透过评估产线具体需求、进行初步实测与 AI 训练，双方期盼能进一步探索「实体人工智慧」（Physical AI）在精密制造业的应用潜力。
+为了洗刷过去智慧眼镜「科技感过重」的刻板印象，Google 与三星在设计上大幅向时尚与日常靠拢。这款无内建显示器的版本改采开放式喇叭与麦克风设计，将整体重量轻量化至约 39.6 至 43.9 公克，并提供多种框型选择。在定价策略上，Warby Parker 版本以较亲民的 395 美元起价切入市场；而 Gentle Monster 版本在韩国的售价则落在 65 万至 70 万韩圜之间。
 
-在四足机器狗 Spot 的应用上，基于美国佛蒙特州伯灵顿（Burlington）厂区超过四年的成功操作经验，格罗方德计划将 Spot 的部署阵容扩大至纽约州马尔他（Malta）、德国德勒斯登（Dresden）以及新加坡等全球主要制造据点。
+▲ Gentle Monster 联名款。（Source：Google）
 
-数据显示，自 2026 年 4 月引进以来，两台 Spot 在新加坡厂区次层（sub-fab，即主生产线下方的厂务设施空间）已累计巡逻约 900 公里，完成超过 9 万次设备巡检，任务成功率高达 99%。未来，格罗方德将进一步利用 Spot 卓越的视觉检测能力，将例行巡检的频率提升至现行的两倍以上。
+尽管 Google 过去曾因第一代 Google Glass 引发不小的隐私争议，但这次的预购热潮证明，消费者对于「时尚外型结合 AI 功能」的穿戴装置依然抱有高度兴趣。不过市场人士也点出，初期的预购售罄未必等同于长期的需求稳定；未来产品正式上市后的补货速度、实际的 AI 互动表现，以及升级后的隐私体验是否真能打动大众，才是这场 AI 穿戴大战的致胜关键。
 
-透过 Spot 在数千个检测点持续搜集数据，厂方不仅能提升营运效率，更能提早揪出设备异常，避免产线无预警停机，成功让工厂转向「预测性维护」。波士顿动力产品暨技术长 Zack Jackowski 表示，像格罗方德这类的创新企业，已从机器人身上获得实际的营运价值，并持续为未来的制造业创新积累宝贵数据；格罗方德制造长 Pradip Singh 则强调，接下来的 Atlas 测试将是公司迈向 AI 智慧制造的重要下一步。
-
-在跨足半导体产业之余，波士顿动力在汽车本业的应用也未曾停歇。目前，Atlas 正在现代汽车集团位于美国乔治亚州厂（HMGMA）内的机器人应用中心进行训练与验证。该中心已于 2026 年 9 月正式启用，Atlas 正积极学习依组装顺序排列汽车零件等精细工作。现代汽车集团计划自 2028 年起，将 Atlas 正式部署于 HMGMA 的整车生产线。
-
-（首图为波士顿动力开发的人型机器人 Atlas（右）与四足机器狗 Spot，未来将进驻格罗方德（GlobalFoundries）厂区进行测试与扩大部署，来源：Boston Dynamics）]]></description>
+（首图为 Warby Parker 联名款，来源：Warby Parker）]]></description>
   </item>
   <item>
-    <title>韩华「天橆」火箭弹搬上船，栈板式发射器完成海上试射</title>
-    <link>https://technews.tw/2026/11/18/hanhwa-tested-k239-chunmoo-pallet-launcher-on-the-sea/</link>
-    <guid>https://technews.tw/2026/11/18/hanhwa-tested-k239-chunmoo-pallet-launcher-on-the-sea/</guid>
-    <pubDate>Wed, 18 Nov 2026 08:45:15 +0000</pubDate>
-    <description><![CDATA[韩国军工大厂韩华昨日宣布，已在美国密西西比州外海，从测试船上的栈板式发射器射出一枚「天橆」飞弹，完成总计两枚的海上试射计划，韩华希望借此将陆用多管火箭系统的打击能力，延伸到有人及无人舰艇。
+    <title>美国一周内接连大当机，官方称系统升级与维护失误是主因</title>
+    <link>https://infosecu.technews.tw/2026/11/19/whats-behind-the-wave-of-outages-cybersecurity-expert-explains/</link>
+    <guid>https://infosecu.technews.tw/2026/11/19/whats-behind-the-wave-of-outages-cybersecurity-expert-explains/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:40:11 +0000</pubDate>
+    <description><![CDATA[美国近一周接连发生多起重大科技服务中断，电子信箱、航空交通和网路银行都受波及，引发外界对数位基础设施脆弱性的忧虑。不过美国官方表示，目前没有证据显示这些事件彼此相关，也没有遭到恶意攻击的迹象，问题多出在系统升级与维护作业。
 
-K239「天橆」原为车载多管火箭系统，可发射精准导引飞弹及无导引的火箭弹，韩华这次在海上发射服务商 The Spaceport Company 营运的测试船上，验证栈板式发射器在海上运作的可行性，并搜集资料以改良发射器与电子系统。
+这波当机潮始于11月12日，微软Microsoft 365服务中断近24小时，Outlook与Teams受创最重。微软主管拉马纳指出，肇因是先前未被发现的软体缺陷，加上流量增加与伺服器容量下降。隔天，美国联邦航空总署（FAA）因航管通讯与雷达讯号不稳，下令全国航班停飞近5小时，当天约有1万2,462个航班取消。运输部长达菲表示，问题与承包商L3Harris将铜线汰换为光纤的工程有关，导致路由器超载。
 
-美国海军作战部长考德尔（Daryl Caudle）今年 4 月说明货柜化计划时表示，将武器与感测设备做成可更换的模组，舰艇就能依任务调整酬载，同一套设备也能在不同舰型间调度。
+之后人资软体Workday、摩根大通网银、苹果App Store、国家安全局（NSA）内部系统与万豪会员登入也相继出状况。官方说法多指向软体更新或例行维护。
 
-美国海军 3 月也选定 Anduril 以 Dive-XL 参与自主水下载具计划（CAMP），这款载具的最小构型可装入商用货柜，便于运输及部署。
+国家情报总监克莱顿表示，未见协调性网路攻击的迹象。他说部分故障发生在安全修补与系统升级之后，有些系统无法重新启动，或无法彼此通讯。FAA署长也驳斥停飞是AI造成的说法，认为毫无根据。
 
-韩华防务美国公司飞弹业务执行副总裁舒诺弗（Kevin Schoonover）表示，韩华希望借由共用发射模组，降低在不同舰艇上部署精准打击武器的成本，该公司也将利用这次试射资料，评估栈板式与货柜式发射器如何支援分散式海上作战。
-
-（首图来源：ROK Ministry of National Defense’s public work is used according to Korea Open Government License (KOGL)(KOGL Type 1orKOGL Type 1), via Wikimedia Commons）]]></description>
+专家指出，银行、医疗与交通等关键系统历经数十年层层堆叠，新旧软硬体之间的平衡相当脆弱，即使是为了提升效能的变更也可能引发崩溃。美国网路安全暨基础设施安全局（CISA）前局长伊斯特利认为，美国真正的问题不在资安，而在软体品质。麻省理工学院史隆管理学院教授库苏马诺则说，现代系统复杂到人类难以全面分析，AI是唯一希望；但AI让写程式更容易，也可能让数位世界变得更复杂。]]></description>
   </item>
   <item>
-    <title>新创不能只靠技术！资策会董事长：串联产业需求，助攻新创走向市场</title>
-    <link>https://technews.tw/2026/11/18/ai-living-lab-g-camp-dekra/</link>
-    <guid>https://technews.tw/2026/11/18/ai-living-lab-g-camp-dekra/</guid>
-    <pubDate>Wed, 18 Nov 2026 08:30:45 +0000</pubDate>
-    <description><![CDATA[面对 AI 技术快速发展，创新应用正加速进入制造、医疗及各类实体产业，新创企业如何突破技术研发与商业化之间的落差，成为台湾创业生态系的重要课题。由财团法人资讯工业策进会（资策会）协办的 2026 台湾新创育成产业年会于今（18）日登场，以「加速器 × 新创 × 产业 × 投资」为核心，集结创育机构、加速器、创投及产业代表，探讨如何透过跨域资源整合，协助新创从技术验证走向市场应用。
+    <title>辉达代理 CEO 试图稳军心股价仍跌  艾克曼轰董事会</title>
+    <link>https://finance.technews.tw/2026/11/19/bill-ackman-slams-nvidia-board-of-directors/</link>
+    <guid>https://finance.technews.tw/2026/11/19/bill-ackman-slams-nvidia-board-of-directors/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:30:31 +0000</pubDate>
+    <description><![CDATA[辉达（Nvidia）代理执行长 Colette Kress 18 日召开员工会议，试图在创办人黄仁勋（Jensen Huang）闪辞后稳定军心，呼吁员工「向前走」，并谈及加薪议题。然而，即使辉达前一天公布优于预期的财报并上调财测，股价18日仍下挫逾3%。亿万富豪投资人艾克曼（Bill Ackman）更公开砲轰董事会，质疑其未充分调查便草率接受黄仁勋辞呈，未善尽对股东的受托责任。
 
-资策会董事长黄仲铭获邀出席年会并致词，分享法人投入创业育成及技术商业化的实务经验，强调新创成长不能只靠技术与热情，更需要真实产业需求、产品验证场域及长期合作伙伴，才能将创新构想转化为市场价值。
+CNBC 18日引述一名要求匿名的与会人士报导，Kress 18日向员工表示「让我们向前走」（Let’s move forward），并谈及员工加薪及公司未来方向。新任董事长Harvey Jones也出席会议，与多名高阶主管共同面对员工。
 
-▲ 资策会董事长黄仲铭今（18）日于 2026 台湾新创育成产业年会中莅临致词。（图片来源：资策会）
+与会主管包括被视为潜在执行长接班人选的Ian Buck、Jeff Fisher、Jonah Allen、Debora Shoquist，以及共同创办人Chris Malachowsky。会中也讨论正式执行长遴选事宜。
 
-本届年会为台湾新创育成产业协会成立后的第一届年会，协会目前已汇聚 28 家国内创育机构，今年上半年参与推动「创业绽放计划」，进一步串联 22 家加速器及超过 100 位业师，共同投入新创培育与辅导。年会首度聚焦「产业 × 加速器」共创模式，以大健康及汽车零组件两大领域为起点，由产业联盟提出实际需求，结合加速器的创育网络，媒合具潜力的新创团队，推动技术验证、场域应用及商业合作，让企业需求成为新创创新的重要方向。同时透过国际创投与加速器经验分享，协助新创掌握海外市场布局及跨境合作机会。
+不过，一名与会人士透露，部分员工仍希望黄仁勋回归，显示公司内部对接班安排尚未完全取得共识。
 
-资策会董事长黄仲铭指出，自己曾有创业经验，深刻了解新创从创意发想到产品上市，往往需要克服技术以外的多重挑战。尤其在 AI 带动产业转型的趋势下，新创已不只是技术发明者，更是推动产业升级、创造新商业模式的重要力量。因此，创业生态系不能只著重早期培育，更应建立从育成、技术验证、资金媒合到市场拓展的完整支持机制，让新创能够找到真正的应用场域，并与企业建立长期合作关系。
+另一方面，对冲基金Pershing Square创办人艾克曼18日在社群平台X发文，批评辉达董事会拒绝让黄仁勋复职，既不符合股东最佳利益，也有违董事应尽的受托责任。
 
-资策会长期透过技术衍生与创业育成，累积研发成果商业化的实务经验，目前平均每年辅导并验测逾 140 家新创企业，并透过两大核心机制推动新创落地：第一是「Living Lab + 共创实验室」，提供业者需求分析及服务设计、软硬整合方案设计，以及展示与媒合场域，每年培育 60 家业者；第二是透过「G-Camp 国际新创训练营」辅导机制，每年举办培训课程、商务对接及海外展会等，培育约 80 家业者，让创新不再流于实验室的空谈，而是真正做到商品化与市场化。
+I believe the @nvidia board is not acting in the best interest of shareholders nor in a manner consistent with their fiduciary duties.
 
-此外，由资策会资安研发团队衍生成立的安华联网，亦是将物联网资安检测技术转化为商业服务的成功典范，协助全球超过 300 家企业取得产品资安认证，并于 2023 年加入德国 DEKRA 集团。这些经验展现法人研发技术透过创业育成、产品验证及市场拓展，进一步创造产业价值与国际发展机会，也说明新创要走得长远，需要结合技术实力与产业资源，逐步建立商业模式及市场竞争力。
+What we know is that the board fired Jensen or forced his resignation for violating company policy and/or in response to the accusation of an affair with a spy.
 
-黄仲铭董事长表示，期待透过年会交流，让加速器找到更多合作资源、企业找到创新方案、投资人发掘具成长潜力的团队，也让新创取得客户及拓展市场的机会。透过创育机构、加速器、产业与投资伙伴的共同投入，串联创业生态系资源，让台湾优秀人才与技术走进产业、链结世界，持续创造创新价值，促进产业发展与社会共荣。
+They did so without careful consideration of the impact on the company, its customers, its shareholders or other stakeholders.
 
-（首图来源：资策会；首图图说：台湾新创育成产业协会携手资策会、新创总会于今（18）日举办 2026 台湾新创育成产业年会，图为贵宾合影，左起为：资策会董事长黄仲铭、新创总会总会长邱铭干、台湾新创育成产业协会理事长陈彦谕以及国发会副主委詹方冠；资料来源：资策会）]]></description>
+They rushed to judgment without the benefit of careful due diligence or even with a basic understanding of the facts.
+
+We know this by how quickly Jensen was fired and how little was known at the time of his firing.
+
+It takes time to convene a board meeting. There was time, maybe, for one Zoom.
+
+And this is a decision that should have been made by a board sitting in person and carefully deliberating the facts once they are known.
+
+And they should have slept on the decision and met again the day after to discuss the facts, the risks and the other implications of their decision.
+
+The timing and lack of information did not allow for careful board deliberation.
+
+While boards can fire a CEO for an inappropriate relationship with a subordinate, it should not be an automatic decision. That is why we have boards comprised of humans and not agents.
+
+A board should consider whether or not such a relationship was consensual or whether it was an abuse of power dynamics. And a board has to consider what the impact of the firing is on all stakeholders.
+
+If I were in this board, I would not have rushed to judgment based on articles in the media. I would have made sure the board had all of the facts so it could make a careful and informed decision.
+
+Boards of Delaware companies have a duty of care which means they must make informed, prudent and good faith decisions. This clearly did not happen here.
+
+What law firm is advising this board?
+
+Or is the board even taken good legal advice?
+
+And now the board is compounding its failures by insisting that there is no possibility for Jensen’s return as CEO.
+
+Why is it in the best interest of the company to foreclose the possibility of Jensen’s return and to do so before all of the facts are known? This is yet another breach of their duty of care.
+
+Furthermore, the board has launched an investigation whose scope is unknown. Investigations can be extremely damaging to a company and should be carefully targeted to address whatever facts need to be known rather than be overly broad in scope.
+
+In short, this looks like a series of major governance failures by directors that panicked due to headlines in the media. They likely felt compelled to do something because they were afraid of looking bad in the media, not because it was the right thing for them company.
+
+The board’s conduct here is shocking for a company of this scale and importance to our country and the world at large, particularly at this moment in history.
+
+— Bill Ackman (@BillAckman)November 18, 2026
+
+艾克曼指控，董事会在缺乏充分尽职调查、甚至未掌握基本事实的情况下仓促作出决定，也未审慎评估对公司、客户及股东的冲击。
+
+他表示，从丑闻曝光到黄仁勋请辞的时间推算，董事会顶多只来得及召开一次视讯会议，令人质疑是否有足够时间厘清事实。
+
+艾克曼先前曾主张，若黄仁勋经调查确认未涉及国安风险，辉达应考虑让他复职。但Jones已在17日财报电话会议上明确表示，董事会无意让黄仁勋重掌执行长。
+
+随著黄仁勋相关调查持续，辉达一方面寻找正式接班人，一方面面临员工与投资人要求他回归的压力。Kress虽试图稳定内部士气，市场对这场领导权风波的疑虑仍未消散。
+
+辉达18日股价开高走低，终场下挫2.89%、收150.96美元，创2025年6月24日以来收盘新低。辉达竞争对手超微（AMD）、博通（Broadcom）分别上涨5.31%、3.64%。
+
+（本文由MoneyDJ新闻授权转载；首图来源：Flickr/ACRM-RehabilitationCC BY 2.0）]]></description>
   </item>
   <item>
-    <title>Anthropic 启动上市，将成检验全球 AI 投资热潮关键指标</title>
-    <link>https://finance.technews.tw/2026/11/18/anthropic-ipo-to-test-the-ai-investment-boom/</link>
-    <guid>https://finance.technews.tw/2026/11/18/anthropic-ipo-to-test-the-ai-investment-boom/</guid>
-    <pubDate>Wed, 18 Nov 2026 08:30:24 +0000</pubDate>
-    <description><![CDATA[人工智慧（AI）新创公司 Anthropic 将于 18 日敲定备受瞩目的首次公开募股（IPO）价格，让一般投资人首度有机会直接投资一家独立营运的 AI 巨擘，这项投资案也将成为检验 AI 投资热潮还能持续多久的重要指标。
+    <title>赞成暂停 AI 开发的前 OpenAI 研究员宣布出售持股，所得捐作 AI 安全用途</title>
+    <link>https://technews.tw/2026/11/19/ex-openai-researcher-jacob-coxon-says-hell-donate-equity-to-ai-safety/</link>
+    <guid>https://technews.tw/2026/11/19/ex-openai-researcher-jacob-coxon-says-hell-donate-equity-to-ai-safety/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:20:07 +0000</pubDate>
+    <description><![CDATA[曾任职 OpenAI 与 Anthropic 的研究员雅各‧考克森（Jacob Coxon，首图左）18 日在社群平台 X 宣布，将出售手中的 OpenAI 股权，并把所得捐给人工智慧（AI）安全用途。他写道：「我们必须暂停，或大幅放慢迈向超级智慧的竞赛。其他一切都是干扰。」
 
-法新社报导，随著投资人开始质疑巨额AI投资能否带来相应回报下，AI股票近期剧烈震荡。
+A few days ago, I committed to donating the equity I hold in OpenAI. I plan to give all of it to AI safety causes, both because I think donations are impactful and because I want to back my message.
 
-华尔街同时也在消化美国期中选举结果。民主党取得国会参众两院控制权，而民主党对AI发展抱持较为审慎的态度。
+We need to pause or drastically slow down the race to superintelligence. Everything else is a distraction.
 
-此外，身处AI基础建设核心、也是Anthropic早期投资者之一的晶片制造商辉达（Nvidia），近期也受到执行长黄仁勋辞职事件冲击。黄仁勋坦承曾与一名女性发生婚外情，而美国情报单位据报认为这名女性可能是中国间谍。
+I intend to keep using my platform to raise awareness about this, and I’m proud of the part I’ve played in bringing good policy responses to AI development into the Overton window. I plan to stay independent so I can keep doing that.
 
-18日定价是指Anthropic与承销银行敲定股票最终售价的阶段，适用对象为在这次发行中下单认购的投资人，通常在股票开始交易前一天晚间、股市收盘后进行。
+— Jacob Coxon (@hilbertspaess)November 18, 2026
 
-Claude系列AI模型开发商Anthropic上周向美国证券管理委员会（SEC）提交的文件指出，计划以每股70至78美元的价格，发行8亿2,500万股股票。
+Business Insider报导，考克森此举等于放弃一笔可能高达数百万美元的收益。OpenAI执行长奥特曼（Sam Altman）之前表示，公司首次公开发行（IPO）已在规划，届时员工持股才有机会变现。不过，考克森并未透露持股规模与出售时程，也没有说明会捐给哪些机构。
 
-Anthropic预计于19日在那斯达克（Nasdaq）挂牌交易，股票代号为ANT，上市后股价可能迅速突破发行价。太空探索科技公司（SpaceX）今年6月上市首日，股价上涨19%。
+这项决定与他不久前说法大相迳庭。考克森9日在史丹佛大学活动承认，自己持有的OpenAI股权是「沾血的钱」，但仍不打算放手，理由是「我就是喜欢钱」。他还说，父母当时已担心他精神崩溃，若再把钱全部捐出，只会让他们更确信。现场对谈人莱希（Reich）则直言这是在「闪躲」，并认为捐出股权有助提升他的道德可信度。
 
-根据申报文件，Anthropic营收大幅攀升，今年第三季达到170亿美元，远高于去年同期的14亿美元。截至10月31日，Anthropic按年化营收规模（Annualized Run-Rate Revenue）计算的营收约为810亿美元，较9月底增加100亿美元。
+现年27岁的英国人考克森，2023年起任职OpenAI，今年转往Anthropic从事预训练研究。他在Anthropic仅待了四个月，9月8日辞职，距离股权归属期满只差两个月，因此放弃所有未归属的Anthropic股权。
 
-若以发行价格区间上限每股78美元计算，这次IPO预计可募资约644亿美元。若将员工股票选择权及限制型股票纳入计算，Anthropic整体估值约达1.4兆美元。
+他辞职当天发文警告，Anthropic与OpenAI正「拿我们的性命当赌注」，并称「打造AI的人真心相信，AI可能在这个十年结束前杀死我们所有人」，强调「这不是行销噱头」。贴文已累积约1.75亿次浏览，在美国引发广泛讨论。
 
-兄妹档阿莫戴（Dario Amodei）与丹妮拉·阿莫戴（Daniela Amodei），目前分别担任公司执行长及总裁。两人5年前离开ChatGPT开发商OpenAI后，与数名同事共同创立Anthropic。
-
-外界原先预期Anthropic这次IPO募资金额可能高达1,000亿美元，若实现，将创下史上最大规模IPO纪录。
-
-然而，这次募资规模可能低于马斯克（Elon Musk）旗下SpaceX上市时筹得的860亿美元，当时SpaceX估值达1.77兆美元。
-
-市场之前预估Anthropic估值最高可达2兆美元，但随著华尔街AI概念股下跌，相关估值预期也随之下修。
-
-包括Google、辉达、超微（AMD）及微软（Microsoft）等7家科技公司，已同意以IPO发行价格，透过另一项私募配售方式认购总额260亿美元的无投票权股票。这些公司都是Anthropic的投资者，或是提供其运算能力的重要供应商。
-
-根据软体产业刊物SaaStr分析，Anthropic的5,000多名员工预计可透过这次IPO获得总额超过2,000亿美元的财富收益，这波财富效应也可能进一步扩散至旧金山经济。
-
-Anthropic在上市申报文件中指出，7名共同创办人承诺，将把个人持有公司股权的80%捐赠给慈善机构。
-
-Anthropic也表示，将把公司5%的股分投入新成立的公共利益基金。加上创办人的捐赠承诺，以及公司为员工捐款提供的配对计划，预计将有约20%的公司股分用于公共利益目的。]]></description>
+之后考克森频繁接受媒体访问，倡议强化AI防护措施，核心诉求是暂停「递回式自我改进」，也就是AI模型自行训练、开发更强大后继模型的过程。]]></description>
   </item>
   <item>
-    <title>美收紧 AI 晶片管制，传字节 4.8 亿美元贷款遭搁置</title>
-    <link>https://technews.tw/2026/11/18/us-tightens-ai-chip-regulations-bytedance-480-million-loan-shelved/</link>
-    <guid>https://technews.tw/2026/11/18/us-tightens-ai-chip-regulations-bytedance-480-million-loan-shelved/</guid>
-    <pubDate>Wed, 18 Nov 2026 08:20:26 +0000</pubDate>
-    <description><![CDATA[综合港媒报导，美国收紧先进 AI 晶片及运算设备出口管制，导致一笔 4.8 亿美元的贷款陷入停滞。
+    <title>Waymo 高速公路事件，映射自动驾驶技术三大考验</title>
+    <link>https://technews.tw/2026/11/19/autonomous-driving-next-level-challenging/</link>
+    <guid>https://technews.tw/2026/11/19/autonomous-driving-next-level-challenging/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:17:55 +0000</pubDate>
+    <description><![CDATA[Waymo 被加州政府下令禁行高速公路，背后反映了三个层面的自动驾驶技术难关，包括：训练资料、备援机制和场域界定，同时也显示 Level 3 技术上仍然有其必要性。
 
-这笔贷款原计划用于为马来西亚一座资料中心购买先进的辉达（NVIDIA）硬体，供中国科技巨头字节跳动使用。正评估这笔交易的五家银行表示，由于担心该交易可能违反美国新规，他们已在内部讨论退出或不参与。
+由于「存在立即公共安全风险」，加州车辆管理局本周下令禁止 Waymo 自动驾驶车辆使用高速公路，这个脉络要追回到数个月前高速公路安全局的召回报告。2026 年 6 月，Waymo 第五代无人车就被发现存在软体瑕疵，电脑无法辨识施工区域，不仅会开进工程作业范围，而且会保持高速行驶。
 
-据悉，总部位于新加坡的云端服务商Aolani Cloud Pte先前邀请银行参与这笔贷款，所得资金意在为马来西亚的资料中心购买GPU。然而，美国政府16日宣布新规，要求新加坡和马来西亚等国家的资料中心营运商在购买先进AI晶片时获得许可，意在限制中国企业远端使用这类技术，而字节跳动正计划以这种方式使用相关辉达GPU。
+具体来说，电脑面临几个不同的考题。在凤凰城，车辆看不懂「匝道封闭标志」，而开入封闭的施工车道。在旧金山，车辆看见了工人摆放的交通锥，但却从两个交通锥之间穿越过去。另一起事件，则是看不懂现场交通警察的指挥，而闯入施工区域。
 
-Aolani发言人表示，之前已投入大量时间评估监管风险，正积极与监管机构及融资合作伙伴合作，确保项目在完全符合新规的情况下推进。不过，知情人士认为，在银行行员全面评估新规前，这笔融资不大可能取得进展，且部分银行家担忧潜在合规风险，使该贷款实际上难以继续推进。]]></description>
+这就带出第一个问题：有上亿公里的训练资料，为什么电脑会看不懂这么简单的标示？
+
+答案可能出奇的简单，因为在超过 4 亿公里的完全自动驾驶里程经验中，高速公路数据极低。Waymo 其实是在大约一年前，才首度尝试高速公路服务，他们是在封闭场域内模拟高速公路行驶状况之后，就上路了，软体和硬体都是相同的第五代架构。而现实世界总是让工程师头痛，因为高速公路施工时，充满非常多变数，而资料库内的相关案例又极为稀少，系统缺乏足够的佐证来判断，因此造成辨识失败。
+
+▲NHTSA 认定召回车辆共 3,871 辆，瑕疵机率为 100%。（Source：NHTSA）
+
+按照 Waymo 说法，电脑是在「优先闪避其他潜在危险时，没有辨识出施工标志」。细节还没有完全公开，但按照现有资讯拼凑，当下的场景应该是其他车辆都因为施工车道封闭，而减速挤到一边，电脑认为这样很危险，决定开进空旷无车的施工车道。
+
+6 月发布召回之后，Waymo 在 7 月底就推出新版本，强化场景辨识与路径规划能力，在旧金山、凤凰城和洛杉矶恢复高速公路服务。没想到 11 月又发生状况，只好再次暂停。
+
+对于一般乘客来说，Level 4 无人车似乎已经可以完全负责，不需要备援。但事实上，无论是 Waymo、Tesla 或是百度跟华为的技术，L4 无人车都具备远端接管的功能，如果车辆发生意外状况或是无法处理的情形，会由人类远端接管遥控车辆，协助排除状况。
+
+更宽松一点的说，无人车如果发现自己开错车道，它还有机会自己倒车，或是决定将车辆暂停，让人类远端接管，这是 Level 4 的备援机制。而这两个方案，用在高速公路上就变成自杀机制。同时，高速行驶中，每个决策的时间变得更为短暂，错误决策的代价也更高昂，这些都让远端接管变得更为困难。
+
+在 Level 4 前一个等级，L3 自动驾驶仍然把驾驶者当作备援机制，最重要的触发条件就是时速。当车辆时速超过 60（不同国家设定各异），人类就必须接手，虽然还有像是天气、夜间、施工跟前方无车辆等外部条件，但那也都是辨识问题，用 Waymo 的例子来看，车辆根本没辨识出施工告示，因此最保险的条件依然是车速。
+
+许多人认为 Level 3 的一堆限制，让它根本没有实用价值，特斯拉基本上从来不谈 Level 3，而是直上 Level 4，再加上人类直觉会认为 4 > 3，所以只要把 L4 做好，就可以达成 L3。但 Waymo 和 Robotaxi 的现况，恰好点出这个矛盾之处，也就是自动驾驶的第三个考验：场域界定。
+
+▲Level 3 是最关键的转折阶段，却因为实际启用条件过于严格而经常被忽视。
+
+我们可以用一个夸张的说法来描述自动驾驶的场域界定问题：只要场域设定够小，大家都可以达成 L4。事实上，早在三年前，我们就亲自到德国体验了真实世界、私人车辆的 Level 4 自动驾驶。只要把你的宾士 S-Class 开进斯图加特停车场的下车位置，你就可以拿著行李去搭飞机，车辆会自动开去停车格，取车的时候，点一下 app，车辆会自动从停车格开到你面前。
+
+在这短短的两百公尺范围内，宾士确实做到了 Level 4 自动驾驶定义的所有要素，和 Waymo 无人计程车看起来像是完全不同的两件事，但工程定义上是同一件事。
+
+回到 Waymo 和 Robotaxi，他们虽然在更大范围内达成 Level 4 自驾，但同样在场域界定玩了一点小把戏，那就是避开高速公路。Waymo 尝试了一年后，暂时放弃，特斯拉则是自始至终都没打算开上去。
+
+从 Waymo 事件来看，自动驾驶技术仍然面临许多难关，如果要应用在私人用车辆上，Level 3 似乎还是无法跳过。然而宾士已经不再提供 S-Class Level 3 自驾功能，原因是成本太高、需求太低，毕竟只有 S-Class 的售价才撑得住高昂的软硬体成本，但 S-Class 车主自己开车的比例相对较少，让这项功能变得鸡肋。换言之，Level 3 以上自驾要用在私人车辆，成本恐怕是比技术更大的考验。]]></description>
   </item>
   <item>
-    <title>怪物在你背后呼气，索尼申请 VR 吹风颈圈专利让恐怖游戏更真实</title>
-    <link>https://ccc.technews.tw/2026/11/18/monsters-breathing-down-your-neck-sony-patents-vr-fan-collar-realistic-horror-games/</link>
-    <guid>https://ccc.technews.tw/2026/11/18/monsters-breathing-down-your-neck-sony-patents-vr-fan-collar-realistic-horror-games/</guid>
-    <pubDate>Wed, 18 Nov 2026 08:10:40 +0000</pubDate>
-    <description><![CDATA[索尼互动娱乐（Sony）近期申请了一项奇特的 PlayStation 虚拟实境（VR）配件专利──一款配备微型气嘴的「吹风颈圈」。若投入量产，这款被视为 PlayStation VR 2（简称「PSVR2」）潜在配件的装置，将能把 VR 游戏的沉浸感推向令人毛骨悚然的新境界。
+    <title>汇丰台湾私人银行客户资料疑外泄？网传逾万笔个资遭公开兜售</title>
+    <link>https://infosecu.technews.tw/2026/11/19/hsbc-data-leak-hack/</link>
+    <guid>https://infosecu.technews.tw/2026/11/19/hsbc-data-leak-hack/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:11:21 +0000</pubDate>
+    <description><![CDATA[市场消息传出，汇丰银行（HSBC）台湾私人银行及财富管理业务的客户资料疑似遭外泄，且已有网路论坛使用者公开兜售相关资料，声称涉及超过10,000笔客户纪录，开价288美元，引发外界关注。
 
-根据专利文件与设计图，该弧形颈挂装置内侧建有排气孔。它能透过通讯单元接收来自游戏主机或 PC 的控制指令，从不同方向将气流精准吹向玩家的颈部与脸部。
+根据资安情资业者S2W在社群平台X分享的资讯显示，使用者帐号名为「h********1」近日在地下论坛Cabyc发布贴文，声称持有汇丰银行台湾私人银行客户资料，并以CSV档案格式对外贩售。该贴文以中文撰写，推测其目标买家可能以中文使用者为主。
 
-Sony 特别将「恐怖游戏」列为该装置的最佳使用情境。试想，当游戏中的虚拟怪物从背后悄悄逼近时，颈圈会释放短促气流，随著威胁靠近，风的频率与强度也会增加，让玩家真实感受到怪物在后颈「呼气」或阴风拂过的恐惧。除了恐怖游戏，这项设计若应用于赛车微风拂面、高空滑翔，或是冷兵器挥过面前的「咻咻」风声，同样能带来极佳的沉浸体验。
+从卖家公布的资料描述来看，这批疑似外泄的资料据称超过10,000笔，内容不仅包括客户姓名、出生日期、电话号码、住址及电子邮件等个人识别与联络资讯，还涵盖存款方案、利率及外币相关资讯，涉及客户的财务概况与金融往来资料，贩售价格则订为288美元。
 
-然而，这类「第三感官」能否成功，极度仰赖游戏开发者是否愿意费心将其完美融入情境中。此外，注册专利并不代表产品必定问世，Sony 过去也曾申请过触觉回馈手套或脚踩控制器等实验性专利，而这类超前构想多半仅停留在实验室阶段。未来玩家是否真能戴上这款「吹风颈圈」体验极致恐惧，仍有待观察。]]></description>
+S2W指出，这批资料同时包含个人身分、联络方式及财务概况等资讯，若属实，可能被转售并用于金融诈骗，或针对高资产客户进行精准攻击。
+
+[DATA LEAK] “h*******1″ claims to sell HSBC Taiwan private banking client data on Cabyc forum.
+
+• 🇹🇼 Taiwan• HSBC Taiwan, private banking and wealth management.• 10,000+ client records allegedly exposed.• Includes full names, birthdates, phone numbers, addresses, deposit plans, interest rates, emails, and currency details.• Listed at $288.
+
+✔ Posted in Chinese on the Cabyc forum by “h*******1″, who offers the data as a CSV dump; the Chinese-language framing points to a Chinese-speaking buyer pool.
+
+📌 S2W note: The combination of identity, contact, and financial-profile fields in one dump suggests resale for fraud or targeting of high-value clients.
+
+#DataLeak #Finance #Taiwan #DarkWeb #S2W
+
+— S2W_DailyThreat (@S2W_DailyThreat)November 18, 2026
+
+不过，目前相关资讯主要来自地下论坛卖家的公开贩售声称，资料是否真实、是否确实来自汇丰银行，以及实际外泄规模，仍有待进一步查证，尚不能据此认定汇丰银行系统已遭入侵。]]></description>
   </item>
   <item>
-    <title>400 家制造业客户规划 118 条新产线，Profet AI 推五大 Domain Twin 补扩产人力缺口</title>
-    <link>https://technews.tw/2026/11/18/profet-ai-unveils-twin-accelerator-with-five-domain-twin-applications/</link>
-    <guid>https://technews.tw/2026/11/18/profet-ai-unveils-twin-accelerator-with-five-domain-twin-applications/</guid>
-    <pubDate>Wed, 18 Nov 2026 08:09:06 +0000</pubDate>
-    <description><![CDATA[为协助企业突破人才瓶颈，台湾软体新创杰伦智能科技（Profet AI）发表 Twin Accelerator，提出涵盖新品导入、设备技术服务、生产与物料管理、品质工程及策略人才规划共五大 Domain Twin 应用，并搭配「30 小时师徒制 2.0」，将资深工程师与老师傅的经验转化为 AI Agent，协助制造业扩产时不再仰赖大量增聘人力。
+    <title>迪士尼携手 AWS 发表全新 AI 机器人，《星际大战》安泽兰人颠覆传统互动体验</title>
+    <link>https://technews.tw/2026/11/19/disney-partners-aws-build-ai-robots/</link>
+    <guid>https://technews.tw/2026/11/19/disney-partners-aws-build-ai-robots/</guid>
+    <pubDate>Thu, 19 Nov 2026 03:10:27 +0000</pubDate>
+    <description><![CDATA[迪士尼（Disney）与亚马逊云端服务（AWS）于 18 日共同发表最新合作里程碑。由迪士尼幻想工程团队精心打造的三款〈星际大战〉「安泽兰人」（Anzellans）发声机动机器人原型正式亮相。这批机器人结合了先进的 AI 与云端运算技术，打破过去仅能依赖固定脚本重复演出的限制，赋予角色根据现场情境进行即时互动的革命性能力。
 
-杰伦智能科技执行长黄建豪指出，Profet AI 约有 65% 客户来自半导体产业，今年起产业出现明显转变，过去企业四处向品牌厂与云端服务业者争取订单，如今则是忙著盖厂、追产能。Profet AI 汇整超过 400 家既有制造业客户的扩产规划，未来 3 年合计规划新增逾 118 条产线，其中约 88% 与半导体相关。他也引述调查数据指出，2024 年至 2028 年全球预计兴建 38 座 3 奈米晶圆厂，平均每座需要 1,000 人至 1,500 人。
+这三位来自〈星际大战〉宇宙的安泽兰角色分别名为 Vilo Vele、Kado Bre’a 与 Jibu Bre’a。他们的外型细节与独特个性完全由迪士尼幻想工程团队主导设计；AWS 则为其注入强大的「科技大脑」，透过整合摄影机、麦克风与感测器，让机器人能敏锐辨识宾客的动作、语音及周遭环境，并于瞬间判断出最合适的回应方式。
 
-黄建豪认为，买地、买设备是台湾企业擅长的资本运作，真正难题在于新厂落成后，如何同步复制资深工程师的维运与除错经验。若沿用挖角、招募的传统做法，企业恐将落入两大陷阱：第一，从人口结构来看，台湾出生率较十年前下降 41%，适龄工作人口减少约 160 万人，每座新厂招募上千人已不可行；加上景气循环，若在繁荣期大幅扩充固定人力，一旦景气反转，人事负担将重压财务与现金流。第二，部分企业尚未建立管控机制前，就开放员工使用云端 AI 工具，累积二三十年的制造 know-how 可能因此外流。
+针对 AI 的应用界线，迪士尼特别强调，这套系统并非任由 AI 随机生成台词或改变角色人设。机器人的所有对白、动作与性格基础，皆由幻想工程师事先精心编写与设计；AWS 的 AI 模型则负责在现场「读空气」，从庞大的资料库中挑选最契合当下情境的预录语音与动画反应。
 
-Profet AI 在 2018 年成立，第一代产品以 AutoML 处理预测与结构化资料，去年推出的解决方案 Domain Twin，结合预测型 AutoML 与推论型 Agentic AI，将老师傅的决策经验标准化为所谓的「Twin」，再以软体形式扩散到新厂。黄建豪表示，Domain Twin 至今已有超过 400 家企业采用，累积超过 5,500 个专案应用实例。
+AWS 团队指出，此次开发过程中运用了 Amazon Bedrock 与 AI 助理 Kiro 等工具，大幅加速将创意概念转化为可执行的软体。系统更巧妙采用了「快速决策模型」与「更大型模型」的分工机制，完美兼顾了即时反应的速度与复杂情境的精准判断。
 
-企业过去 20 年投资了 ERP、MES 等 IT 系统与机台自动化等 OT 设备，但串联两者的「老师傅层」始终无法被取代。Profet AI「师徒制 2.0」形同老师傅改带 AI Agent 徒弟，企业每周投入约 2 小时、累计约 30 小时，在 1~3 个月内训练出 6~8 个 AI Agent。
-
-而针对制造业最急迫的难题，Profet AI 推出五大 Twin Accelerator，涵盖新品导入（NPI）、设备技术服务（FAE）、生产与物料管理（PMC）、品质工程（QE）及策略人才规划（HRBP），让专业知识得以跨厂区、跨团队运用，加速经验传承与问题解决，突破传统依靠增加人力的扩张模式，兼顾扩产需求与营运韧性。
-
-在实际案例方面，IC 载板的新品导入涉及研发、制程、品保、生产等多部门，过去工程资料分散在不同系统，资深工程师的判断经验也难以跨产品、跨厂区传承。ABF 载板大厂景硕科技透过 Domain Twin 建立工程决策中枢平台，串联工程资料、分析预测与专业知识，使跨部门协作效率提升 40%、新人上手时间缩短 35%，并获得 2026 鼎革奖肯定。
-
-其他应用场景中，FAE Twin 将资深工程师的操作与维修经验转化为 AI Agent，支援第一线诊断，黄建豪以测试设备商捷创为例，说明资深现场工程师的除错经验可随设备出海、交付全球客户，也为设备商发展技术服务与订阅模式的机会。QE Twin 整合跨厂品质纪录与异常调查经验，协助工程师比对相似案例，他提及新唐的导入经验；PMC Twin 整合需求、库存及供应商交期资讯，在今年记忆体、铜等原物料价格波动之际，致茂即结合资深采购的判断与外部公开数据进行分析比价。HRBP Twin 整合职能模型与人才培育纪录，协助企业评估扩产所需的关键人才缺口；Profet AI 也与泰国一家资深顾问平均年龄 63 岁的领导力培训集团合作，协助赴泰设厂的台商规划人力配置。
-
-「建立单一 AI Agent 已不是企业最大的挑战。」杰伦智能科技执行长特助杨建洲指出，「真正困难的是，如何让大量 AI Agent 在共同的治理架构下安全运作、持续最佳化，并能跨部门、跨厂区扩展。」
-
-Domain Twin 透过权限管理、流程控管、工具串接与执行追溯，协助企业建立可管、可控、可稽核的 Agent Workforce。黄建豪也说明，平台底层透过 MCP 串接企业累积多年的 ERP、MES 与内部文件，并以九层资安机制控管；由于 Agent Memory 会随使用持续演化，将成为企业未来的核心竞争力，因此坚持全数留在地端。当 Agent 要执行可能造成重大损失的高风险决策，例如机台开关机或大额采购，系统会透过 SIM 卡层级的硬体认证，交由真人确认后才执行。
-
-海外布局方面，Profet AI 目前除台北、新竹、高雄外，已在东京、苏州、上海设有据点。日本办公室正与当地金融相关企业洽谈合作，同时评估在泰国曼谷与马来西亚槟城设立分公司。黄建豪表示，过去台厂海外设厂多派驻台湾技术人员前往教学，容易面临人才流失与技术外流的风险，如今透过 Domain Twin，核心技术可留在母公司，由软体在远端提供作业指引，企业甚至可将 Domain Twin 与当地既有厂房合资运作，以轻资产模式快速扩张。他更透露，预计 2027 年第一季 Profet AI 将与日本、泰国合作伙伴，展开新型态的资本合作。
-
-（首图为杰伦智能科技共同创办人暨执行长黄建豪，来源：科技新报摄）]]></description>
+这批备受瞩目的安泽兰机器人，预计将于 11 月 30 日至 12 月 4 日在拉斯维加斯举办的 AWS re:Invent 大会上首度公开亮相，展出地点位于 Caesars Forum 的客户展示区（Customer Showcase）。迪士尼与 AWS 表示，这次的技术突破不仅延续了双方多年来在 Disney+ 串流平台基础设施上的深厚情谊，更象征著双方的伙伴关系已成功迈入「实体角色互动」的崭新纪元。]]></description>
   </item>
 </channel>
 </rss>
