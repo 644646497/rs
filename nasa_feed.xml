@@ -4,7 +4,81 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Thu, 19 Nov 2026 14:59:13 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 00:05:37 GMT</lastBuildDate>
+  <item>
+    <title>Challenge: Public Input on Life and the World in 2075</title>
+    <link>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/</link>
+    <guid>https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/challenge-public-input-on-life-and-the-world-in-2075/</guid>
+    <pubDate>Thu, 19 Nov 2026 19:34:20 +0000</pubDate>
+    <description><![CDATA[NASA’sTransformational Tools and Technologies(TTT) is gathering public perspectives on life today and how the world may change by 2075. This challenge asks for conceptual ideas about life in 2075 across four challenge topics.
+
+Ideas should explore how future aviation or aerospace systems could:
+
+Ideas should be conceptual rather than technical.
+
+For more information including registration,rules, and eligibility, visit:https://work.crowdplat.com/challenge/life-2075]]></description>
+  </item>
+  <item>
+    <title>NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars</title>
+    <link>https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/</link>
+    <guid>https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/</guid>
+    <pubDate>Thu, 19 Nov 2026 15:33:55 +0000</pubDate>
+    <description><![CDATA[Communications Lead for the Office of the Chief Science Data Officer
+
+An international team of scientists has developed a method that can find pulsars in publicly available NASA data about a million times faster than before. This opens the door to discovering many more of these rapidly spinning objects. Apaper describing the resultspublished Thursday in the Physical Review Letters.
+
+Using 15 years of data from NASA'sFermi Gamma-ray Space Telescopeand a cryptography-based method developed by study co-authors Dotan Gazith and Barak Zackay from the Weizmann Institute of Science in Israel, the team found PSR J1622−7204, an isolated pulsar spinning 261 times per second, using the equivalent of 10 hours of computing time on a standard computer processor.
+
+By comparison, the previous best method failed to find the pulsar, despite using enough computing power that a standard processor would take 600 years to perform the calculation.
+
+A pulsar is a rapidly spinning neutron star that sweeps beams of radiation toward Earth, much like a lighthouse. Finding pulsars in gamma-ray data is extraordinarily difficult because Fermi detects only a tiny number of photons from a given pulsar, mixed in with background noise from other gamma-ray-emitting sources and the broader universe. To find the signal, researchers must accurately guess several unknowns at once: how fast the star spins, how quickly the spin is slowing down, and precisely where it sits in the sky. Searching every possible combination would require an impossible number of computations.
+
+"We don't see every rotation from the pulsar, and we can't just count the rotations to work out where the photon came from," said lead author Daniel Pook-Kolb, a scientist at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Germany. “We have a four-dimensional grid, and we must search each direction with millions of trials in it. There’s just not enough computing power on Earth to do it.”
+
+Traditionally, scientists have searched for these pulsars by breaking Fermi data into smaller chunks and analyzing them by crowdsourcing computing power from volunteers around the world. Even with these volunteers contributing their computers’ unused processing power to run searches, it typically took the equivalent of hundreds of computer-years to identify a single pulsar.
+
+Gazith and Zackay realized that the search could be transformed into a geometry problem: finding the shortest vector in a high-dimensional lattice, or a regularly spaced array of points. This lattice technique draws on algorithms developed by cryptographers trying to break encryption systems designed to resist code-breaking by futurequantum computers. The method has also been used to help make satellite navigation systems more efficient.
+
+"We have nothing to do with cryptography in our analysis here, but those algorithms can help us solve the problem of searching for pulsars in our data," Gazith said.
+
+Each trial run of the algorithm took about five minutes on a single computer core — easily doable on a standard laptop, which usually has between two and eight cores. Once the lattice method identified a pulsar candidate, the researchers confirmed it by feeding in the full Fermi data set, revealing a signal so strong it could not be a chance occurrence.
+
+The team’s next goal is even more ambitious: finding pulsars in binary systems, where a pulsar orbits a star. These discoveries have long been considered out of reach because a companion star’s gravity distorts the signal in ways that have made these pulsars essentially impossible to discover with traditional methods.
+
+"We know that there are probably tens or maybe even hundreds of these pulsars in the data set that we just couldn't find," said Colin Clark, an astrophysicist at the Max Planck Institute who co-authored the study. "The next goal is to extend the searches and use the combination of the new algorithm and the crowdsourced computing power from volunteers in our Einstein@Home program to hopefully find many new pulsars that we think should be there.”
+
+The discovery would not have happened without NASA's longstanding, Gold Standard Science policy of making its science data, including data from Fermi, freely available to anyone. Launched in 2008, Fermi surveys the entire sky every three hours, observing the universe in gamma rays — the highest-energy form of light. After an initial one-year calibration period, all Fermi data became fully public and continues to be released as soon as it is processed.
+
+"The nice thing about NASA data is it's all open," Clark said. "All 18 years of Fermi data have been made public, and the data just keeps growing."
+
+That openness allowed researchers from outside the Fermi mission, including the cryptography-inspired team, to apply a completely new approach to the dataset. NASA’s support for the science community, through open software and tools such as NASA'sFermitools, enabled the team to prepare their da]]></description>
+  </item>
+  <item>
+    <title>Lake Pelku</title>
+    <link>https://www.nasa.gov/image-article/lake-pelku/</link>
+    <guid>https://www.nasa.gov/image-article/lake-pelku/</guid>
+    <pubDate>Thu, 19 Nov 2026 15:32:39 +0000</pubDate>
+    <description><![CDATA[An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia.
+
+The International Space Station serves as a unique platform forobserving Earthwith both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real time and support research and disaster relief.]]></description>
+  </item>
+  <item>
+    <title>NASA Conducts Latest RS-25 Engine Test in Support of Future Artemis Missions</title>
+    <link>https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/</link>
+    <guid>https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/</guid>
+    <pubDate>Thu, 19 Nov 2026 14:44:39 +0000</pubDate>
+    <description><![CDATA[NASA tested RS-25 engine No. 10001 on Nov. 18 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi.
+
+Test teams fired the developmental engine for the planned duration of three minutes and 20 seconds (200 seconds).
+
+While this developmental engine will not be used in flight, the hot fire test provides NASA and NASA’s prime contractor L3Harris Technologies with the capability to capture critical data to improve engine performance and reliability for future Artemis missions.
+
+For the Artemis IV Moon landing mission in 2028, the SLS rocket will launch astronauts aboard the Orion spacecraft from NASA’s Kennedy Space Center in Florida. This mission will be a key step in the agency’s broader goals to explore the lunar South Pole, establish an enduring human presence on the lunar surface, and build on the agency’s foundation for the first crewed mission to Mars.
+
+For each Artemis mission, four RS-25 engines produce up to 2 million pounds of combined thrust to help launch the SLS rocket.
+
+All RS-25 engines are tested and proven flightworthy at NASA Stennis prior to use. Tests are conducted by a team of operators from NASA, L3Harris, and Nova Space Solutions.]]></description>
+  </item>
   <item>
     <title>NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth</title>
     <link>https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/</link>
@@ -182,118 +256,6 @@ In total, two winning teams may be selected to receive up to $250,000 each.
 The AMPERE Challenge is open for registration until Jan. 27, 2027, at 5 p.m. EST. The challenge supports the Advanced Mid-Power Electric Rocket project, managed by NASA Glenn and NASA’sJet Propulsion Laboratoryin Southern California. The project is funded by the agency’sResearch and Technology Mission Directorate. Yet2 administers the challenge through a contract with the NASA Center of Excellence for Collaborative Innovation within the Research and Technology Mission Directorate.
 
 For complete competition details, eligibility requirements, and official rules, visit:]]></description>
-  </item>
-  <item>
-    <title>Empire State Building Goes Gold for Voyager</title>
-    <link>https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/</link>
-    <guid>https://www.nasa.gov/image-article/empire-state-building-goes-gold-for-voyager/</guid>
-    <pubDate>Wed, 18 Nov 2026 17:50:26 +0000</pubDate>
-    <description><![CDATA[TheEmpire State Buildingis seen illuminated in gold to celebrate NASA’sVoyager 1spacecraft as it was about to pass one light-day away from Earth, a distance reached by no other human-made object, Nov. 17, 2026. The color gold represents the gold-plated copper phonograph record that is flying on Voyager; theGolden Recordcontains sounds and images selected to portray the diversity of life and culture on Earth.]]></description>
-  </item>
-  <item>
-    <title>What Is the Moon Base?</title>
-    <link>https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/</link>
-    <guid>https://www.nasa.gov/learning-resources/for-kids-and-students/what-is-the-moon-base/</guid>
-    <pubDate>Wed, 18 Nov 2026 17:36:03 +0000</pubDate>
-    <description><![CDATA[NASA is returning astronauts to the Moon – and this time they will spend more time on the lunar surface. The Moon Base is humanity’s first lunaroutpost. It will be a place where astronauts live, work, and explore.
-
-______________________________________________________________________
-
-outpost:a station or base located in a remote, distant place
-
-infrastructure:the basic framework and systems that make up a larger building or organization
-
-terrain:the physical features, shape, and layout of the surface of a piece of land, including its slope and elevation
-
-regolith: the layer of loose, fragmented rock and mineral dust covering most of the lunar surface
-
-______________________________________________________________________
-
-The Moon Base will be built in the lunar South Pole region. This area was selected for its unique lighting conditions and potential for scientific discovery.
-
-Near the lunar South Pole, the Sun stays low on the horizon. Some areas can receive extended periods of sunlight. Other areas stay in shadows for long periods of time. In some craters, sunlight may never reach the surface at all.
-
-Areas that receive extended sunlight could be good for generating solar power. Longer sunlight hours are also good for navigating and exploring. Areas that remain in shadows are some of the coldest areas on the Moon. In these locations, scientists hope to find deposits of frozen water ice.
-
-The Moon Base will be constructed in three phases. Each phase will build on what is learned along the way.
-
-Phase One is taking place right now. Over the next few years, NASA and its partners will send robotic missions to explore the lunar South Pole region. They will test new technologies and practice landing on the Moon. This phase will include multiple different landers and lunar terrain vehicles. These missions will conduct science experiments and look for the best locations for building the Moon Base.
-
-Phase Two is planned for 2029-2032. During this period, NASA will begin setting up long-terminfrastructure. This includes things like power systems, cargo transportation, and communications hardware. These components will be set up across multiple locations. This will allow for future expansion of the Moon Base.
-
-During Phase Three, NASA will begin assembling a permanent lunar outpost. This is where astronauts will be able to live and work for extended periods. Habitats, power and communication systems, and transportation will all come together to grow Moon Base.
-
-Crewed and robotic lunar rovers will play an important role in the development of the Moon Base. These rovers will test out technologies, transport astronauts, mapterrain, and more. Let’s learn about a few of the rovers being built as part of the Moon Base.
-
-NASA’sVIPER(Volatiles Investigating Polar Exploration Rover) is fully built. It is being tested at NASA’s Johnson Space Center in Houston. In 2027, it will launch to the Moon from NASA’s Kennedy Space Center in Florida. Its mission will be to explore permanently shadowed craters to look for water and other resources. It will travel more than 15 miles, collecting data and analyzing the lunar soil.
-
-NASA’sPROMISE(Polar Rover for Observation, Mapping, and In-Situ Exploration) is a nuclear-powered rover. It is being built from existing hardware that was created for NASA’s Mars rover missions. PROMISE will look for resources – like potential water ice – on and below the lunar surface. It will carry multiple science instruments, including several that are also on VIPER. The mission is targeted to launch by late 2028.
-
-Lunar terrain vehicles(LTVs) will launch to the lunar South Pole region by 2028. These crewed vehicles will be driven by astronauts during missions to the Moon. This will allow the crew to explore larger areas and gather geology samples. When astronauts are not on the Moon, the LTVs will be remotely operated from Earth. They will map the lunar surface and collect data about the extreme environment in the region.
-
-In addition to rovers, NASA’sMoonFallmission will send a group of propulsive drones to the Moon. They will land near the lunar South Pole by 2028. The drones will descend to the lunar surface independently. They will operate separately over the course of a single lunar day (about 14 Earth days). They will use high-definition cameras to map hard-to-reach terrain. This data will help NASA select potential Artemis landing sites.
-
-The lunar South Pole region is an extreme environment. The Moon doesn’t have any noticeable atmosphere. This means temperatures can reach more than 130°F (54°C) in sunlit areas. And it can be as cold as -334°F (-203°C) inside permanently shadowed craters. This can be very dangerous for astronauts. But it is also a challenge for designing infrastructure and hardware.
-
-Navigating the uneven lunar surface can be difficult. The South Pole region of the Moon has steep slopes, ridges, rocks, and deep craters. Shackleton Crater is more than twice as deep as the Grand Ca]]></description>
-  </item>
-  <item>
-    <title>Thank You for Doing NASA Science!</title>
-    <link>https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/</link>
-    <guid>https://science.nasa.gov/get-involved/citizen-science/thank-you-for-doing-nasa-science/</guid>
-    <pubDate>Wed, 18 Nov 2026 17:32:52 +0000</pubDate>
-    <description><![CDATA[It’s Thanksgiving time, and we’re giving thanks to you for doing NASA Science with us! You and NASA’s other volunteers have enabled an incredible banquet of discoveries—by taking data, analyzing data, writing code, writing papers, and even inventing your own science projects. Whether you’re an expert participant or someone who’s just started your science journey, we’re deeply grateful for your help.
-
-Here are a few more messages of gratitude our scientists sent in to share with you.
-
-Chihoko Cullens, principal investigator (PI) of theSpace Cloud Watchproject, said: “Thank you toPirjo Koski, Huub Eggen, and Brian Scott! Pirjo posts beautiful Noctilucent Cloud photos and has introduced us to other cloud databases in the Netherlands. Huub goes beyond basic data requested by us and actively discusses his observations providing helpful insights. Brian contributes consistently and has provided us with useful time-lapse videos. All three volunteers have consistently provided much needed data and have contributed their time in developing our Field Guide that now helps new citizen scientists correctly identify and report their observations. We are grateful for their contributions.”
-
-Ryan Scott from theOpen Science Data Repository Analysis Working Groups(OSDR AWGs) project said:“A cohort of high school students took NASA’s free Machine Learning for Space Biologycourse and then kept working as citizen science volunteers. Guided by OSDR AWG members​ who also gave their time freely, they mined open-access retinal data from the International Space Station (ISS) Rodent Research-9 Mission in theNASA Open Science Data Repositoryand trained a machine learning ensemble that separates oxidative damage from cell death in the eyes of space-flown mice, now published in the scientific journalnpj Microgravity:Machine learning ensemble reveals distinct molecular pathways of retinal damage in spaceflown mice. Every citizen science student co-author earned authorship, and many of those listed above started college this fall with a NASA publication already behind them. Thanks toAditi Adapala, Mushtaq Ali, Naomi Z. Chang, Sophie Cai, Margaret Hitt, Anishka Jain, Matthew Lin, MarcAnthony Paolieri Della Monica, Elior Paley, Rudransh Pathak, Shawnak Samaddar, Shriya Sawant, Zhihan Shi, Rohin Sood, Fabian P. Uribe, Maxwell Volkan,andJessica Wu,plus OSDR AWG membersAnna Lewkowicz, Sunny Narayanan, Daniya Thomas, Ethan Waisberg, Pinar Avci, Joshua Ong, Marshall Tabetah, Richard Barker, Lauren Sanders,andXiao Wen ‘Vivien’ Mao.”
-
-Kyra Shaw, project coordinator forSnapshot Wisconsinat the Wisconsin Department of Natural Resources, said: “Our team has a Thanksgiving thank-you message for Snapshot volunteerTim Sparks.Tim has been a dedicated Snapshot Wisconsin volunteer for nearly 10 years. Tim went above and beyond these past two years by helping to pilot test protocols and then joining the full launch for a new initiative, the Snapshot Phenology Project. Joining a select group of volunteers, Tim set up and is maintaining extra equipment to measure snow depth, temperature, and sound recordings at his Snapshot trail camera site. Thank you, Tim, for joining in our events, sending in your favorite photos, and going the extra mile to make the Snapshot Phenology Project a success!”
-
-Benjamin Fernando from theImpact Flash!project said: "Thank you to everyone who’s been sending in images of the Moon! A special thanks toJoerg Tomczak,who helped us with the Artemis II campaign!”
-
-Rachael Mady from theChesapeake Water Watchproject said: “We are so thankful for all of our volunteers! Since 2021, volunteers have been with us every step of the way and have made Chesapeake Water Watch possible. The Chesapeake Bay is the nation's largest estuary, and we had people all over submitting observations and helping us cross our 6,000 observation milestone this year. While the project may be wrapping up, the impact that our volunteers have on improving the health of the Bay will continue for years to come. Thanks for all that you do!”
-
-Marc Kuchner, from theBackyard Worlds: Planet 9science team, said: “Thank you toPrateek Singhfor creating new tools for astronomy and for helping us lead our Space Apps challenge! Thank you toBruce BallerandKatharina Dollfor sharing their lists of brown dwarf discoveries and for inspiring all of us! Thank you toFrank Kiwyfor his latest batch of python tools – shared with everyone – that dig through Pan-STARRS, WISE, SIMBAD, Gaia DR3, CatWISE, and NSC DR2 data! Thank you toMichiharu Hyogofor keeping the new publications coming,Hugo Durantini Luca, Jim Rabe, and Lisa Stillerfor helping keep us all connected,Peter Jalowiczorfor traveling around the world in the snow, and toFarid CedenoandMartin Bilsingfor teaching others about our project!”
-
-Emma Yates, PI of theOzone Where We Live(OWWL) project, said:  “We have developed an amazing collaboration with Quest Science Center, a non-profit that among many other things supports high school stude]]></description>
-  </item>
-  <item>
-    <title>NASA Data Clinches First-of-Its-Kind Stellar Merger</title>
-    <link>https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/</link>
-    <guid>https://science.nasa.gov/missions/webb/nasa-data-clinches-first-of-its-kind-stellar-merger/</guid>
-    <pubDate>Wed, 18 Nov 2026 16:00:00 +0000</pubDate>
-    <description><![CDATA[Researchers recently identified a first of its kind: A star slightly less massive than the Sun spiraled into and merged with a puffy supergiant star at the outskirts of our neighboring Andromeda galaxy. They nicknamed the newly single, potentially “rejuvenated” star Bao. Their NASA-funded discovery was then bolstered by quick-turn observations from NASA’s James Webb Space Telescope that were carefully cross-referenced with extensive data from telescopes in space and on the ground.
-
-“Stellar mergers are very, very difficult to observe in real time because they are hard to predict,” said Viraj Karambelkar, the first author of a new paper in Nature published Wednesday and a NASA Hubble Fellow at Columbia University in New York. “However, we noticed something unusual was going on in 2023 and continued to monitor the system to see what it would do. Then, in 2025, it erupted! Webb observed Bao only 47 days after the stars’ eruption peaked, the earliest ever follow-up of an event like this. The telescope’s data helped us characterize what the system looked like before, during, and immediately after the merger, which is absolutely mind-blowing.”
-
-Before their transformation, the two stars spent millennia placidly orbiting one another as a binary pair. But once the smaller star came into contact with the surface of the giant star, their “unification” happened after only seven orbits (about seven years). Other known binary star mergers, featuring two smaller stars, occurred after thousands of orbits.
-
-“We thought an outburst from a such an extended star would take years,” said co-author Nadia Blagorodnova, an associate professor at the University of Barcelona in Spain. “One day, its brightness started rising and within a week, it peaked!”
-
-“When a companion star begins to interact with the outer surface of the primary star, it produces a subtle effect — a slow brightening, which we clearly saw in Bao’s data,” said co-author Kishalay De, an assistant professor at Columbia University in New York. “As the companion continues its orbit, it keeps peeling off the primary star’s outer layers, and that gas flows away into the surrounding space.”
-
-This is the beginning of a high-stakes showdown some binary stars go through, known as a common envelope evolution. The gas between the stars at this stage is known as a common envelope because its outer layer is shared between them. In this system, the primary star engulfed the smaller star and the companion plummeted, spiraling through the envelope as it was robbed of orbital energy by drag. While Webb’s data proved the stars merged, a merger wasn’t the only possible outcome for this system.
-
-In other systems, both stars survive the process — shedding a lot of mass along the way, but remaining independent in tight orbits. Over time, such surviving pairs can transform intoneutron starsandblack holes, explode assupernovae, produce ripples in space-time known asgravitational waves, and create millisecondpulsars.
-
-The team reconstructed what happened to Bao by updating their ongoing simulations. They found the model that matched Webb’s mid-infrared observations, which detailed the dust shed by the more massive primary star over centuries.
-
-The team concluded that prior to the eruption, Bao’s primary star dwarfed the Sun: It was seven times as massive, 350 times the radius, and 18,000 times brighter — making “Big Bao” an appropriate nickname.
-
-“It was an absolute beast of a star, completely outshining its companion in the data,” said co-author Karel Temmink, a Ph.D. student at Radboud University in Nijmegen, Netherlands, who led the simulations.
-
-Their modeling resulted in the first mass estimate for the smaller, now demolished, companion. Compared to our Sun, they found that “Little Bao” was likely less massive (about 0.7 solar masses), with a slightly smaller radius and fainter.
-
-After revealing the masses of the pair, the model showed there might be leftover energy for Little Bao to “flee” the scene. However, further analysis determined that Little Bao was dragged into Big Bao's core. Their encounter was “almost like a bomb exploding inside a living star,” De said.
-
-What does the new star — now simply Bao — look like today? Only future observations will identify how its “heft” settles.
-
-While Webb’s data allowed the team to measure how much mass was ejected during this process and how efficient the process of common envelope evolution was, Karambelkar’s team also used observations that span ultraviolet, visible, and near-infrared light from several telescopes to watch the events, often as they unfolded. (In fact, theypublished their first paperright before the eruption in 2025.)
-
-Bao first caught the team’s attention in February 2023, when they saw an unusual variable star in data fromNASA’s retired NEOWISE(Near-Earth Object Wide-Field Infrared Survey Explorer) mission. Before 2018, the object had a consistent luminosity. Observations from theWide-field Infrared Transient Explorer (]]></description>
   </item>
 </channel>
 </rss>
