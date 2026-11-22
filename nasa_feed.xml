@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sun, 22 Nov 2026 04:24:34 GMT</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 13:51:24 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 November 22 – Swirls and Colors on Jupiter from Juno</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-november-22-swirls-and-colors-on-jupiter-from-juno/</guid>
+    <pubDate>Sun, 22 Nov 2026 05:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:What creates the colors in Jupiter's clouds? No one is sure. The thick atmosphere ofJupiteris mostlyhydrogenandhelium, elements which are colorless at the low temperatures of theJovian cloud tops. Which trace molecules provide the colors remains atopic of research, although small amounts ofammonium hydrosulfideareone leading candidate. What is clear from thefeatured color-enhanced image-- and many similar images -- is that lighter clouds are typically higher up than darker ones. Pictured,light clouds swirlaroundreddish regionstoward the lower right, while they appear to cover over some darker domains on the upper right. The featured image was taken by the roboticJuno spacecraftin 2018 during its14th low pass over Jupiter.Junocontinues in its looping elliptical orbit,swooping near the huge planetevery 33 days and exploring a slightly different sector each time around.Tomorrow's picture:emerging darkness]]></description>
+  </item>
   <item>
     <title>APOD: 2026 November 21 – Voyager’s Neptune</title>
     <link>https://science.nasa.gov/image-article/apod-2026-november-21-voyagers-neptune/</link>
@@ -191,15 +200,6 @@ The discovery would not have happened without NASA's longstanding, Gold Standard
 "The nice thing about NASA data is it's all open," Clark said. "All 18 years of Fermi data have been made public, and the data just keeps growing."
 
 That openness allowed researchers from outside the Fermi mission, including the cryptography-inspired team, to apply a completely new approach to the dataset. NASA’s support for the science community, through open software and tools such as NASA'sFermitools, enabled the team to prepare their da]]></description>
-  </item>
-  <item>
-    <title>Lake Pelku</title>
-    <link>https://www.nasa.gov/image-article/lake-pelku/</link>
-    <guid>https://www.nasa.gov/image-article/lake-pelku/</guid>
-    <pubDate>Thu, 19 Nov 2026 15:32:39 +0000</pubDate>
-    <description><![CDATA[An astronaut on the International Space Station captured this photograph of Lake Pelku (near center) as the station orbited above Asia.
-
-The International Space Station serves as a unique platform forobserving Earthwith both hands-on and automated equipment. Station crew members have produced hundreds of thousands of images. These images record phenomena in real time and support research and disaster relief.]]></description>
   </item>
 </channel>
 </rss>
