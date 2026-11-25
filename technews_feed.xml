@@ -4,367 +4,297 @@
   <title>科技新报全文 RSS（简体）</title>
   <link>https://technews.tw/</link>
   <description>全文抓取、繁转简、去广告</description>
-  <lastBuildDate>Tue, 24 Nov 2026 19:08:54 GMT</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 03:12:28 GMT</lastBuildDate>
   <item>
-    <title>川普受访赞魏哲家是杰出人才，称台积电将在德州建厂</title>
-    <link>https://technews.tw/2026/11/24/trump-praises-cc-wei-exceptional-talent-tsmc-texas-factory-build/</link>
-    <guid>https://technews.tw/2026/11/24/trump-praises-cc-wei-exceptional-talent-tsmc-texas-factory-build/</guid>
-    <pubDate>Tue, 24 Nov 2026 10:20:26 +0000</pubDate>
-    <description><![CDATA[美国总统川普（Donald Trump）接受美媒访问，谈到 AI 晶片巨头辉达（NVIDIA）前执行长黄仁勋复职外，还称赞台积电董事长魏哲家是杰出人才，更称台积电将在德州建厂。
+    <title>贝瑞抢在辉达暴涨前减空单、近 200 美元考虑再空</title>
+    <link>https://finance.technews.tw/2026/11/25/michael-burry-cuts-nvidia-short-position-ahead-of-stock-surge/</link>
+    <guid>https://finance.technews.tw/2026/11/25/michael-burry-cuts-nvidia-short-position-ahead-of-stock-surge/</guid>
+    <pubDate>Wed, 25 Nov 2026 03:10:11 +0000</pubDate>
+    <description><![CDATA[电影〈大卖空〉（The Big Short）本尊、知名投资人麦可贝瑞（Michael Burry）透露，他在辉达（Nvidia）执行长黄仁勋（Jensen Huang）复职、股价狂飙逾 30% 之前，已出脱 75% 的辉达卖权，并买进长天期买权做为避险。不过，他仍看衰辉达公司治理，直言黄仁勋回归是辉达极度脆弱的象征，并透露可能等股价逼近甚至突破 200 美元，才考虑重新放空。
 
-辉达今天稍早宣布，董事会一致通过，即日起恢复黄仁勋的总裁、执行长及董事职务。董事会对黄仁勋展现的坦诚态度感到满意，征询美国政府高层后，确信黄仁勋复职不会构成国安风险。
+Seeking Alpha、Stocktwits 24日报导，贝瑞11月20日趁科技股遭遇猛烈抛售之际，先出脱半数辉达卖权获利了结，随后在传出美国证券交易委员会（SEC）调查辉达潜在会计问题的消息后，再出脱原有部位的25%。
 
-川普今天接受美国财经媒体CNBC财经节目《华尔街直播室》（Squawk on the Street）电话访问，在近1小时访谈中庆祝黄仁勋复职，将促成黄仁勋回锅归功于自己，并称黄仁勋是「国宝」。
+与此同时，贝瑞也建立小规模的辉达长天期深度价外（far out-of-the-money）买权部位。他强调，买进买权是为剩余空头部位避险，而非单纯押注股价上涨，搭配仍持有的短天期卖权，相当于采取类似跨式选择权（straddle）的策略。
 
-主持人克芮麦（Jim Cramer）问川普说：「你是否认为整个人工智慧（AI）世界某种程度绕著黄仁勋运转，因为他遥遥领先其他人？」
+贝瑞也大幅缩减对科技股的看空押注，包括出清SMH的所有卖权，以及卖出半数2027年4月到期的那斯达克100指数（NDX）卖权。
 
-川普未认同这项说法，他认为辉达「建立在他们未真正经手制造的晶片上」，话锋一转表示「你知道那是多么棒的生意，对吧？那些晶片是魏（哲家）先生制造的」。
+尽管提前降低空头曝险，贝瑞仍猛烈抨击辉达董事会让黄仁勋复职的决定，认为这凸显辉达的商业交易及客户关系过度依赖单一人物，是公司极度脆弱的象征。
 
-他称魏哲家是「我的另一名朋友。这些都是杰出人才。我们必须好好照顾。谈到魏先生，他将在美国境内制造很大一部分晶片。因为关税问题，他正在亚利桑那州投入数千亿美元，而且他将在德州设立一座大型厂房。我认为他正开始设立另一座厂房，而且规模很大。」]]></description>
+贝瑞也质疑，若黄仁勋成功带动股市反弹，美国监管机关是否会降低调查辉达的力度。他在社群平台X发文，敦促美国司法部持续推进反垄断调查，并要求SEC继续深入调查辉达的会计问题。
+
+So $NVDA is weaker, more craven than even I thought.@TheJusticeDept stay on that antitrust case.@SECGov keep digging into that accounting.Godspeed. https://t.co/2yNbMeCnGO
+
+— Cassandra Unchained (@michaeljburry)November 23, 2026
+
+至于何时重新放空辉达，贝瑞指出，本周适逢感恩节假期，交易量通常较低，股价波动可能因此放大，那斯达克指数甚至可能出现历史性涨幅。
+
+他认为，黄仁勋回归可能带动辉达股价重返接近200美元的水准，在目前掌握的资讯下，除非股价逼近甚至突破200美元，否则不会急于再度放空。
+
+（本文由MoneyDJ新闻授权转载；首图来源：shutterstock）]]></description>
   </item>
   <item>
-    <title>北韩首公开自研 AI 聊天机器人：介面神似 ChatGPT、禁问政治与「不文明」话题</title>
-    <link>https://technews.tw/2026/11/24/north-korea-unveils-first-self-developed-ai/</link>
-    <guid>https://technews.tw/2026/11/24/north-korea-unveils-first-self-developed-ai/</guid>
-    <pubDate>Tue, 24 Nov 2026 10:00:53 +0000</pubDate>
-    <description><![CDATA[北韩近日透过官方电视画面，首度公开一款本土开发的人工智慧（AI）聊天机器人，显示这个长期封闭的国家也正积极切入生成式 AI 领域。这套名为「人工智慧服务系统 1.0《智慧之泉》」（Fountain of Wisdom）的系统，由金日成综合大学人工智慧技术研究所与平壤软体公司 Phurunhanul Trading 共同开发。
+    <title>4 款 Product(RED) 特别版齐发，传苹果红色新品大军下周登场</title>
+    <link>https://ccc.technews.tw/2026/11/25/apple-productred/</link>
+    <guid>https://ccc.technews.tw/2026/11/25/apple-productred/</guid>
+    <pubDate>Wed, 25 Nov 2026 03:03:08 +0000</pubDate>
+    <description><![CDATA[苹果今年秋季新品接连登场，年底前可能还有一波产品更新。最新消息指出，苹果预计于 12 月 1 日世界爱滋病日（World AIDS Day）推出至少 4 款 Product(RED) 红色特别版产品，涵盖 AirPods Max 2、HomePod mini 2、Apple Watch 运动型表带，以及适用于 iPhone、AirPods Pro 的腕带。此外，AirTag 2 也传出可能推出加入红色设计元素的特别版本。
 
-根据美国史汀生中心（Stimson Center）旗下北韩研究机构「北纬 38 度」（38 North）的分析，这款聊天机器人早于 10 月下旬在平壤举行的全国 IT 成果展中亮相，随后于 11 月 17 日在「龙南山电视台」节目中首度曝光操作画面。从画面可见，其介面设计与 ChatGPT 高度相似，左侧设有新对话按钮与历史对话列表，整体风格相当接近国际主流工具。
+据《彭博社》记者 Mark Gurman 指出，苹果正准备延续与 Product(RED) 的合作关系，率先规画推出 AirPods Max 2 与 HomePod mini 2 的红色特别版，预计于 12 月 1 日正式亮相。由于当天正好是世界爱滋病日，也符合苹果过去透过 Product(RED) 产品支持爱滋病防治计划的做法。
 
-챗GPT를 그대로 닮은 북한의 AI 챗봇이 관영 TV에 처음 공개됐습니다.
+Gurman 进一步在社群平台透露，除了两款音讯产品，苹果也准备推出红色版本的 Apple Watch 运动型表带，以及适用于 iPhone 和 AirPods Pro 的腕带，使这波 Product(RED) 新品数量至少达到 4 款。他也指出，Apple Store 已经开始收到大量相关产品库存，显示新品推出时间可能已经接近。
 
-왼쪽에는 ‘새 대화’ 버튼과 대화 목록, 오른쪽에는 채팅창이 자리해 있습니다. 이름은 ‘인공지능봉사체계 1.0 《지혜의 샘》’이며, 한국어와 영어로 과학기술 질문에 답하고 번역도 지원합니다. TV 시연 목록에는 Unity 2023.3.9 호환성과 Unity 프로그램 제작, 두통약 관련 질문이 올라와 있었습니다.10월 19일부터 10월 30일까지 평양 전국정보화성과전람회에 전시됐고, 11월 17일 룡남산 TV 방영에 이어 11월 18일 38 North가 이를 보도했습니다.
+不过这波红色产品阵容可能不只 4 款，据《9to5Mac》报导，AirTag 2 可能推出带有红色元素的特别版本，但目前尚不确定是否会与其他 Product(RED) 产品同步登场。
 
-2025년 7월 정보과학부에서 이름을 바꾼 김일성대 인공지능기술연구소와 스마트폰도 판매하는 평양 소프트웨어 개발사 Phurunhanul Trading Co.가 개발했습니다.
+另一方面，苹果位于纽约的 Apple SoHo 直营店近期也安排一场特别的 Today at Apple 活动，苹果全球行销资深副总裁 Greg Joswiak 将出席。由于 Joswiak 过去曾多次在新品发表期间前往纽约，这项活动安排也被外界视为苹果即将推出新产品的另一项线索。
 
-하지만 익숙한 화면 뒤에는 엄격한 제한이 걸려 있습니다. 화면 하단에는 “과학기술 관련 질문만 하세요. 사회·정치적 내용이나 불건전한 질문은 하지 마세요."라는 경고문이 붙었고, 악의적 목적으로 사용할 경우 책임은 전적으로 사용자에게 있다는 문구도 적혀 있었습니다. AI 엔진 앞단에서는 입력된 질문을 ‘사실 지식 질문’ 등으로 분류하는 기능도 포착됐는데, 특정 주제의 질문을 걸러내는 역할까지 할 수 있는 구조입니다.
+Product(RED) 是苹果长期参与的公益合作计划，透过推出红色特别版产品，支持全球基金（Global Fund）的爱滋病防治工作。根据苹果过去公布的资讯，历年 Product(RED) 产品销售所带来的相关捐款，累计已超过 2.5 亿美元。
 
-전시장 배너에는 ‘우리식 생성형인공지능모형의 개발’이라고 적혀 있었습니다. 하지만 화면은 자체 제작했더라도 핵심 엔진은 구글 젬마나 알리바바 큐원 같은 미국·중국 AI 연구소의 오픈 웨이트 모델일 가능성이 큽니다. 게다가 대규모 데이터센터가 없어 최첨단 모델을 도입하고 운영하는 데는 제약이 따를 전망입니다.
-
-🔗 Link: https://t.co/QNdMcm9F7B
-
-— 더 버로우 (@TheBurrowHQ)November 20, 2026
-
-报导指出，《智慧之泉》支援韩语与英语，能回答科学与技术相关问题，也具备翻译及摘要功能。不过，系统在萤幕下方明确挂出警语，限制使用者只能询问科技类内容，严禁提出涉及社会、政治或「不文明」的话题，并警告若用于恶意目的须自负后果，显示北韩在推动本土 AI 的同时，仍维持严格的内容管控。
-
-North Korea just unveiled its first AI chatbot. It’s called the Fountain of Wisdom. A classifier screens your question before the AI is even allowed to see it, and the on-screen warning reads: “Only science and technology questions. No socio-political content. No uncultured questions. The user alone is fully responsible for any consequences."
-
-So ask one wrong question, and it won’t refuse to answer. It will just locate your home?😅😂
-
-— Hugo Cho (@jiaxinxin0317)November 22, 2026
-
-这项展示反映出北韩试图建立自有生成式 AI 能力的企图，从展场标语到电视内容皆强调「开发我们式的生成式人工智慧模型」，凸显平壤希望展现科技自主成果。不过，「北纬 38 度」也指出，北韩官方并未揭露底层架构与运算硬体细节，该系统极可能是基于 Google 的 Gemma 或阿里巴巴的 Qwen 等国际开源模型进行微调改装，而非完全从零研发。]]></description>
+目前苹果尚未正式公布这波 Product(RED) 新品计划，实际推出品项及上市时间仍有待确认。若消息属实，苹果将在世界爱滋病日推出涵盖耳机、智慧音箱与周边配件的红色产品阵容，延续旗下产品与公益合作结合的策略。]]></description>
   </item>
   <item>
-    <title>珠海航空展将首次设置海上展区，多种新机型也将同场亮相</title>
-    <link>https://technews.tw/2026/11/24/2026-zhuhai-air-show-will-have-surface-exhibition-area-for-the-first-time/</link>
-    <guid>https://technews.tw/2026/11/24/2026-zhuhai-air-show-will-have-surface-exhibition-area-for-the-first-time/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:51:51 +0000</pubDate>
-    <description><![CDATA[第 16 届珠海航展将于 12 月 7 日至 13 日举行，中国海军 23 日公布参展阵容，歼-35 匿踪舰载战机、空警-600 预警机与教-15 教练机都将首度参展，并列入飞行表演，这届航展也将首度在高栏港设立海上展区，展示中国海军主力水面舰艇。
+    <title>开车也是一种心脏负担，研究：驾驶时心率更难恢复平静</title>
+    <link>https://technews.tw/2026/11/25/driving-puts-a-strain-on-the-heart-study-finds-heart-rate-struggles-to-return-to-normal-while-behind-the-wheel/</link>
+    <guid>https://technews.tw/2026/11/25/driving-puts-a-strain-on-the-heart-study-finds-heart-rate-struggles-to-return-to-normal-while-behind-the-wheel/</guid>
+    <pubDate>Wed, 25 Nov 2026 03:01:45 +0000</pubDate>
+    <description><![CDATA[长时间久坐不利健康已是普遍认知，同样是坐著，开车对人体造成的生理负担，比坐在办公室或家中休息更大。美国一项最新研究发现，虽然驾驶时身体并未进行大量运动，但驾驶过程中大脑必须持续保持警觉，使心脏会一直处于「工作」状态，增加心血管压力。
 
-2024 年珠海航展曾展出具备弹射起飞能力的歼-15T 舰载战机，当时首度公开的歼-35A 则是陆基型。中国海军去年已公布歼-35、歼-15T 与空警-600 在采用电磁弹射系统的福建舰起降的画面。其中空警-600 采双发涡轮螺旋桨设计，可扩大航舰编队的空中警戒范围，并协调舰载机行动。
+过去研究已发现，开车对人体造成的负担不只是久坐，也与大脑持续处理资讯有关。2024年底发表于《Scientific Reports》的一项研究，针对892名年龄介于18至79岁的受试者进行模拟驾驶实验，发现相较于高速公路，市区等较复杂的驾驶环境会增加大脑认知负荷，使心率上升、心率变异性下降。在认知负荷最高的驾驶情境中，三成受试者至少出现一次急性压力反应。
 
-而教-15（JL-15）是由江西洪都航空工业集团开发的教-10 高级教练机衍生，2024 年曾有装上拦阻钩的模型出现在福建舰附近，目前教-15 的舰上测试进度仍未公开，若能完成起降验证，未来可用于飞行员换装舰载战机前的上舰训练。
+过去研究主要著重复杂交通环境引发的急性压力反应，最新研究则进一步发现，驾驶对人体造成的生理负担，不只来自塞车或突发交通状况，而是开车本身就需要大脑持续保持警觉。
 
-高栏港展区将开放 075 型两栖突击舰、055 型飞弹驱逐舰及 054A 型飞弹巡防舰供民众登舰参观，三型舰艇都将首次参加珠海航展。主展区则将静态展出直-20F 反潜直升机、运-9 反潜巡逻机与无直-2（WZ-2）无人直升机。
+休士顿大学电脑科学与德州农工大学交通运输研究团队招募57名居住在德州的成年人，包括30名男性及27名女性，平均年龄约26岁，多数为办公室上班族。研究团队透过智慧手表、手机及车载设备，连续一周记录受试者的心率、驾驶行为、交通及天气状况。
 
-中国海军也将展示无人潜航器等装备及模型，解放军先前宣称，GJ-21 匿踪无人机已在 076 型两栖突击舰四川舰完成起降，不过这款无人机是否参展，仍待官方公布。]]></description>
+研究共搜集近3,000小时的资料，涵盖973趟汽车旅程，其中约半数车程不到15分钟。结果发现，受试者开车时，有93.7%的时间心率高于静息心率，相较之下，其他身体未活动的时段为81.3%。
+
+不过，开车并未使平均心率显著升高。驾驶期间的心率平均比静息心率每分钟高出11.2下，其他非活动时段则高出11.5下。真正的差异在于，开车时心率较难降下来。其他非活动时段，心率平均每小时恢复至静息水准2.46次，驾驶期间却只有1.31次。
+
+研究主持人、休士顿大学电脑科学教授指出，驾驶必须持续观察道路环境、判断交通状况并做出决策，这些认知活动可能反映在心率变化上。
+
+研究也发现，午后驾驶的心率普遍高于上午，转动方向盘的动作也与心率升高有关。此外，个人的焦虑倾向，可能进一步增加驾驶时的生理负担。
+
+研究团队透过模型比较焦虑倾向最高与最低的情境，发现两者驾驶时的心率每分钟相差约一下。以每天开车八小时的职业驾驶为例，一年可能多出约17.3万次心跳，即使每天只开车30分钟，一年也可能累积约1.1万次额外心跳。研究人员指出，与锻炼心血管系统的有氧运动不同，驾驶引起的心率升高没有健康上的好处。
+
+研究团队未来将对更大规模、更多样化的人群进行更长时间的研究，包括长途通勤者和全职驾驶员，例如叫车司机，目标是找出驾驶中最棘手的因素，并测试道路设计、车辆工程或通勤方式的解决方案，并探讨搭乘自动驾驶汽车时，人体是否能更容易恢复至放松状态。
+
+这项研究揭示，评估久坐对健康的影响，或许不能只考量身体活动量，也应将大脑持续运作所造成的生理负担纳入考量。该研究成果已发表于《npj Digital Public Health》期刊。]]></description>
   </item>
   <item>
-    <title>马来西亚防规避出口管制，吁资料中心勿服务美国列名企业</title>
-    <link>https://technews.tw/2026/11/24/malaysia-prevents-export-control-evasion-data-centers-us-entities/</link>
-    <guid>https://technews.tw/2026/11/24/malaysia-prevents-export-control-evasion-data-centers-us-entities/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:50:49 +0000</pubDate>
-    <description><![CDATA[马来西亚投资、贸易及工业部（MITI）今天发布声明表示，马来西亚投资发展局（MIDA）将通知资料中心营运业者，呼吁业者勿为近期被美国列入出口管制贸易名单的 7 家企业提供代管服务、出租空间或提供其他服务。
+    <title>网购只看一家平均贵 15.6%，NASA 前科学家打造免费 AI 工具 Deal.ai 一键识破黑五假特价</title>
+    <link>https://technews.tw/2026/11/25/ai-agent-uncovers-fake-black-friday-promotions/</link>
+    <guid>https://technews.tw/2026/11/25/ai-agent-uncovers-fake-black-friday-promotions/</guid>
+    <pubDate>Wed, 25 Nov 2026 03:00:54 +0000</pubDate>
+    <description><![CDATA[随著黑色星期五与网购促销季到来，由 NASA 前科学家艾力克斯·梅尔（Alex Mehr）创办的 AI 购物工具 Deal.ai，正透过一项公开实测，回应消费者最关心的问题：这些折扣到底是不是真的？
 
-自由今日大马（Free Malaysia Today）等媒体报导，美国商务部工业暨安全局（BIS）将7家企业新增列入出口管制实体清单，其中MSFusion Sdn Bhd、PT Megaspeed International及Speedmatrix Sdn Bhd列在马来西亚名下，其余4家分别列于新加坡及泰国。
+Deal.ai 目前每日定时追踪 972 项热门商品，并将在网路星期一（Cyber Monday）前后持续监控价格变化。这项测试早在 11 月 5 日、黑五优惠尚未全面开跑前，便先锁定一批固定商品，并依照公开的预设规则同步比对多达 13 家零售商的价格，借此观察标示为「原价」的数字与店家实际售价之间是否存在落差。梅尔表示，所谓的「原价」只是商家的说法，并非证据；如果 AI 无法证明商店先前实际的售价，就不应宣称这是一笔真正的折扣。
 
-不过，大马投贸部今天发布声明指出，美方列在马来西亚名下的3家企业中，Speedmatrix Sdn Bhd及MSFusion Sdn Bhd为大马境内企业，Speedmatrix Sdn Bhd是在新加坡注册成立的Megaspeed International Pte. Ltd.的全资子公司。
+除了比对价格，Deal.ai 也会先确认商品是否完全相同。系统会派出另一套独立的 AI 模型读取各电商平台的商品标题，在隐藏价格的情况下，严格核对型号、尺寸、容量、入数与世代等细节，仅保留完全一致的商品进行比较。梅尔认为，判断「折扣是否真实」与「能否信任 AI」其实是同一件事，因为 AI 购物代理若要赢得信任，其提供的资讯也必须经得起查核。
 
-投贸部另引述马来西亚投资发展局的纪录指出，PT Megaspeed International并非马来西亚境内的公司，也未在当地经营或承租资料中心。
-
-投贸部表示，投资发展局将向马来西亚所有资料中心营运业者发出通知，告知美方列名情形，并建议业者勿向这7家企业提供代管服务、出租空间或提供其他服务。
-
-投贸部强调，马来西亚将持续维护安全、透明且以规则为基础的贸易环境，防止马来西亚被用作规避出口管制的管道，并将对经查证违法者采取行动。
-
-（作者：黄自强；首图来源：Flickr/David AshfordCC BY 2.0）]]></description>
+这套工具目前并不会直接替消费者下单，而是负责即时比价与研究选项，最后将使用者引导至零售商网站完成购买，把决定权留给消费者。民众现已可免费使用 deal.ai 的折扣检查功能，贴上商品连结即可先确认优惠是否值得入手。梅尔也强调，消费者不应只看被画掉的「原价」，更应该对照商家近期的实际售价，并至少货比三家──根据该团队实测，同款商品若只看一家就下单，平均会多付 15.6%，多比三家则能将价差缩小至 3.7%，更接近真正的市场价格。]]></description>
   </item>
   <item>
-    <title>锁定 AMR 机器人与边缘视觉商机！博来科技预计明年 1 月中挂牌上柜</title>
-    <link>https://finance.technews.tw/2026/11/24/edge-vision/</link>
-    <guid>https://finance.technews.tw/2026/11/24/edge-vision/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:42:57 +0000</pubDate>
-    <description><![CDATA[博来科技明日将举办上柜前业绩发表会，预计 2027 年 1 月中挂牌交易，董事长蒋永庆表示，目前外销占比达 88%，其中欧洲、日本为重要市场，看好边缘 AI 与工业级强固设备需求升温，以及智慧交通及自动化专案逐步贡献，法人预估明年营运有望呈现双位数成长。
+    <title>BBU 出货带动获利大增，新盛力订单增加、持续扩充产线</title>
+    <link>https://technews.tw/2026/11/25/bbu-shipments-drive-significant-profit-growth-new-sheng-li-orders-increase-production-lines-continue-expand/</link>
+    <guid>https://technews.tw/2026/11/25/bbu-shipments-drive-significant-profit-growth-new-sheng-li-orders-increase-production-lines-continue-expand/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:54:48 +0000</pubDate>
+    <description><![CDATA[BBU 商机持续发酵，电池模组厂新盛力今年前三季营收达 32.74 亿元，年增 97%，税后净利年增 305%，每股盈余（EPS）达 6.23 元，已接近去年全年每股盈余的两倍。新盛力于 24 日法说会表示，今年主要成长动能来自资料中心 BBU 出货量增加，目前也持续扩充产线及购置设备，以因应订单需求。
 
-蒋永庆表示，博来科技专注于工业主机板（SBC）、无风扇嵌入式系统、强固型平板电脑（Rugged Panel PC）及工业级边缘 AI 运算系统平台的研发、设计与制造，深耕智慧制造、智慧交通、边缘运算、智慧城市、智慧医疗及 AI 影像分析等高阶垂直应用市场。
+受惠于资料中心 BBU 需求增加，新盛力今年营收逐季攀升，第三季营收达 13.69 亿元，季增约 23%、年增约 151%。营业规模扩大也带动获利能力提升，今年前三季毛利率由去年同期的 20% 提升至 23%，营业利益率则由 8% 提升至 15%，显示 BBU 出货成长除了挹注营收，也带来规模经济效益。
 
-蒋永庆指出，博来科技凭借自研模组化设计与弹性之客制化服务（OEM/ODM），协助工业客户快速打样，并大幅缩短产品导入市场时程，更受惠 AI 运算架构已由云端全面向地端设备延伸，带动边缘 AI（Edge AI）硬体规格与强固防护需求，为工业电脑产业注入强劲成长动能。
+为因应客户订单增加，新盛力也加快备料及产能布局。截至今年 9 月底，公司存货达 9.47 亿元，年增 128%，不动产、厂房及设备金额也较去年同期增加 89%。新胜力表示，设备金额增加主要来自产线扩充及设备购置。目前新盛力以高雄为主要生产基地及研发总部，并于新北及新加坡设有研发中心。
 
-蒋永庆说明，博来将 Edge AI 主机板导入无风扇强固型系统架构中，结合机构散热与宽温、防震及防水（IP66～IP69K）等工业级强固设计，面对自动化与自主移动装置（AMR / AGV / 机器人）爆发性成长，已推出具备「轻薄小巧、高整合度」特性的嵌入式运算平台，有效节省设备内部空间。
+不同于电动自行车及手持式电动工具等传统电池模组应用，资料中心 BBU 更著重短时间内的高功率放电能力，主要在供电异常或中断时提供备援电力，维持伺服器运作。随著 AI 伺服器单机柜功率从数十 kW 朝数百 kW，甚至 MW 级发展，电池模组的放电能力、散热设计、使用寿命及安全性也成为重要考量。
 
-蒋永庆强调，博来全面提供车载与机器人视觉的 GMSL 高速低延迟影像传输介面，精准满足移动载具于长距离、抗干扰与高画质多镜头影像即时回传的严格要求，打造出能在极端环境稳定运作的高可靠度边缘视觉运算系统。
-
-海外市场方面， 蒋永庆指出，目前在荷兰、韩国及中国等地设有营运与技术服务据点，外销比重高达 88%，主力产品深受欧洲及日本等对工控品质先进市场客户信赖，并为 Intel 物联网联盟长期合作伙伴与智慧产业电脑物联网协会（ICAA）创始会员。
-
-股权方面，桦汉集团旗下超恩今年 6 月以每股 48 元公开收购博来股权，目前持股 18.4%，成为第一大股东，超恩约 9 成重心放在经销商与代理商体系的桌机 CPU 产品，而博来则有九成聚焦专案型行动 CPU 产品，双方互补性极高，最快明年有机会展开策略合作，相当看好未来的整合效益。]]></description>
+新盛力目前以高雄为主要生产基地及研发总部，并于新北及新加坡设有研发中心，主要产品涵盖储能系统、轻型电动交通工具，以及园艺与手持式电动工具所使用的锂离子电池模组。展望未来，公司将持续发展伺服器及资料中心 BBU 业务，同时投入电动自行车（E-Bike）、电动滑板车（E-Scooter）等轻型电动交通工具的电池模组研发。]]></description>
   </item>
   <item>
-    <title>黄仁勋回锅掀白宫与国会裂痕，美两党议员同声抨击</title>
-    <link>https://technews.tw/2026/11/24/jensen-huang-return-stirs-white-house-congress-rift-bipartisan-criticism-us-lawmakers/</link>
-    <guid>https://technews.tw/2026/11/24/jensen-huang-return-stirs-white-house-congress-rift-bipartisan-criticism-us-lawmakers/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:40:38 +0000</pubDate>
-    <description><![CDATA[辉达创办人黄仁勋在美国总统川普介入下重掌执行长，两党议员今天同声抨击，强调他仍须赴国会说明；分析指出，风波凸显白宫与一心想收紧对中 AI 管制的国会裂痕扩大。
+    <title>AI 伺服器卖翻  戴尔 Q3 超旺、营收翻倍创新高</title>
+    <link>https://finance.technews.tw/2026/11/25/dell-q3-revenue-doubles-to-a-record-high/</link>
+    <guid>https://finance.technews.tw/2026/11/25/dell-q3-revenue-doubles-to-a-record-high/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:50:51 +0000</pubDate>
+    <description><![CDATA[全球 AI 基础设施投资热潮不坠，提振戴尔科技（Dell Technologies）第三季营收及获利双双优于预期，并第三度上修全年财测，激励股价 24 日盘后一度劲扬 5%。
 
-《日经亚洲》（Nikkei Asia）报导，川普今天接受CNBC访问时表示，他直接与辉达董事会沟通并「说服他们」让黄仁勋复职；不到2周前，黄仁勋才因婚外情丑闻而请辞。
+CNBC等外媒报导，戴尔2027会计年度第三季（截至2026年10月30日）营收达549.4亿美元，较去年同期的270亿美元翻倍，优于市场预期的493.2亿美元；调整后每股盈余9.45美元，也远超市场预期的6.59美元。
 
-黄仁勋闪电回锅，随即引来民主、共和两党议员砲轰，他们警告，董事会这项决定无法让黄仁勋免于在国会接受国家安全与出口管制方面的审查。
+以事业群表现来看，基础建设解决方案事业群（Infrastructure Solutions Group，含伺服器、储存系统等企业IT硬体）营收达419.7亿美元，年增高达198%；其中AI伺服器贡献营收220亿美元，年增291%，成为主要成长动能。
 
-民主党籍联邦众议员、众议院美中战略竞争特别委员会（House Select Committee on China）成员克利胥纳莫提（Raja Krishnamoorthi）今天在社群平台X发文说：「辉达让黄仁勋复职的决定令人愤慨。我们至今仍不知道中国情报单位可能从他身上取得哪些资讯，而无论是美国政府还是辉达董事会本身，都还未完成调查。」
+相较之下，客户解决方案事业群（Client Solutions Group，含桌机、笔电、工作站及自有品牌周边设备）营收年增3%至128.9亿美元，不及市场预期的143.3亿美元，主要因记忆体成本上涨、推高PC售价，抑制终端需求。
 
-Nvidia’s decision to reinstate Jensen Huang is outrageous. We still don’t know what information Chinese intelligence may have obtained from him, and neither the government nor Nvidia’s own board has completed its investigation.
+戴尔表示，目前AI基础设施需求依然强劲，以订单来看，第三季新签AI伺服器订单金额602亿美元，在手订单金额达1,323亿美元，创历史新高。
 
-Trump’s assurances cannot be taken at face value, especially after Nvidia’s $25 million donation to his ballroom.
+展望2027会计年度，戴尔看好全年营收可达2,020亿美元，比原先预测的1,920亿美元更乐观；AI伺服器营收由原估740亿美元上修至780亿美元；调整后EPS也由原估25.50美元上修为29.68美元。
 
-Huang must testify at a full public congressional hearing, with every member of the relevant committees allowed to question him. https://t.co/9d2XnHNxtV
+此外，戴尔董事会通过追加250亿美元库藏股计划，展现回馈股东的决心。
 
-— Congressman Raja Krishnamoorthi (@CongressmanRaja)November 23, 2026
-
-参议院银行委员会（Senate Banking Committee）民主党首席议员华伦（Elizabeth Warren）批评辉达董事会的决定「鲁莽」，并表示这改变不了一个事实，就是黄仁勋和辉达「仍欠国会一个答案，说明公司遵守美国出口管制的情况」。
-
-This reckless decision to bring back Jensen Huang does not change the fact that Huang and NVIDIA still owe Congress answers.
-
-The Trump Administration needs to explain what “input" was given and by which senior officials to support Huang’s reinstatement.
-
-Huang’s return only increases the urgency to pass bipartisan export control bills and make sure NVIDIA does not lobby to kill that legislation and put our national security at risk.
-
-— Elizabeth Warren (@SenWarren)November 23, 2026
-
-同为委员会成员的共和党籍参议员里基茨（Pete Ricketts）在X发文说：「他的行为不足以支持他复职。辉达今天的决定并不能让黄仁勋免除到国会作证的义务。」
-
-Jensen Huang had multiple affairs including with subordinates and an alleged Chinese spy. His own board described his behavior as lacking “candor.” I’ve served on a public company board. His behavior does not support reinstatement.
-
-Nvidia’s decision today doesn’t excuse Jensen Huang from testifying before Congress. It also doesn’t absolve Nvidia of answering for national security concerns and unaccounted-for chips. I look forward to Mr. Huang coming to the Senate in December.
-
-— Senator Pete Ricketts (@SenatorRicketts)November 23, 2026
-
-共和党籍前众议院议长金瑞契（Newt Gingrich）也敦促国会深入追查，称这是「规模庞大的国安问题，也是联邦官僚体系的重大失职」。
-
-There is something profoundly wrong about Jensen Huang having a relationship with a Chinese Communist Spy and helping China get a huge number of very advanced computer chips when that was specifically against the policy of the United States Government and now he is being reinstated as ceo of the most advanced chip making company in the world. Congress should really dig into this as a national security issue of enormous proportions and also a significant failure in the federal bureaucracy.
-
-— Newt Gingrich (@newtgingrich)November 23, 2026
-
-黄仁勋因与疑似中国间谍、新加坡资料中心业者Megaspeed前高层黄乐（Alice Huang）的关系而面临审查，他预定12月1日出席众议院外交事务委员会（House Foreign Affairs Committee）等3个委员会的闭门会议作证，12月3日也将出席参议院银行委员会的听证。
-
-不过，分析人士指出，黄仁勋戏剧性复出加上川普公开力挺，不太可能减缓华府限制北京取得先进运算能力的整体步调。
-
-亚洲社会政策研究所（Asia Society Policy Institute）研究员李其（Lizzi Lee）认为，黄仁勋回锅「并不代表美国对中科技政策软化…相反地，这场争议甚至可能产生反效果，让外界更严格审视辉达以及辉达和川普政府的关系。」]]></description>
+（本文由MoneyDJ新闻授权转载；首图来源：Jjpwiki [CC BY-SA 4.0],via Wikimedia Commons）]]></description>
   </item>
   <item>
-    <title>火星车各自挖宝，好奇号近距离拍摄「洋芋片」晶体，毅力号锁定明亮岩石</title>
-    <link>https://technews.tw/2026/11/24/curiosity-perseverance-mars-rover-nazca/</link>
-    <guid>https://technews.tw/2026/11/24/curiosity-perseverance-mars-rover-nazca/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:40:04 +0000</pubDate>
-    <description><![CDATA[NASA 好奇号、毅力号火星车各自在不同区域观测到多种外观特殊的岩石与矿物沉积，为科学家提供火星数十亿年来演化历程重要线索。
+    <title>NVIDIA 释出 GeForce 621.40 WHQL 认证驱动，正式修复 SSD 背景异常写入灾情</title>
+    <link>https://technews.tw/2026/11/25/nvidia-621-40-driver-fixes-ssd-abnormal-writes-excessive-background-log-flushing-risk/</link>
+    <guid>https://technews.tw/2026/11/25/nvidia-621-40-driver-fixes-ssd-abnormal-writes-excessive-background-log-flushing-risk/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:40:48 +0000</pubDate>
+    <description><![CDATA[NVIDIA 于 24 日正式释出 GeForce Game Ready 与 Studio 621.40 WHQL 驱动程式，重点在于彻底修复先前引发广泛争议的背景记录错误。该问题曾导致部分 Windows 系统在闲置状态下，仍持续对 SSD 进行异常写入，甚至有使用者回报写入量相当惊人，引发外界对固态硬碟寿命受损的担忧。
 
-好奇号（Curiosity）火星车本月初在盖尔撞击坑夏普山一带名为 Nazca 的地点完成钻探任务（第 49 个钻孔），当地基岩包含不寻常扁平盘状晶体结构，其中一些特征略带蜷曲，团队将它们比喻为洋芋片。
+根据官方说明，本次更新针对的是 Bug ID 7116722，主要解决系统在背景中可能持续对 nvlog.nvlgstg 档案进行过度写入的问题。NVIDIA 先前虽曾透过 621.35 Hotfix（热修补）尝试处理，但根据外界回报，异常写入的状况并未完全消失；因此，涵盖标准 x64 与 arm64 RTX Spark 平台的 621.40 WHQL，被视为将该修复正式纳入认证版驱动程式的关键更新。
 
-2026 年 11 月 7 日，好奇号在抵达火星的第 5,067 天使用机械手臂末端的火星手部透镜成像仪（马赫利相机，MAHLI），近距离拍下嵌入火星基岩的详细特写影像，钻探样本则被传送到机载火星样本分析仪（SAM）供进一步分析。
+除了修复 SSD 写入异常外，621.40 也延续了先前版本所加入的游戏与应用支援，包括〈战锤 40K：破晓之战 4〉（Warhammer 40,000: Dawn of War IV）、〈神力科莎：拉力赛〉（Assetto Corsa Rally），以及〈燕云十六声〉（Where Winds Meet）中的 DLSS 5 与 3D 引导神经渲染（3D-Guided Neural Rendering）支援。官方同时列出了多项错误修正，涵盖 Chaos Vantage 的 NVIDIA OptiX 降噪器在高解析度下失效、Windows 相片与媒体播放程式显示 DJI D-Log H.265 影片色彩异常，以及 RTX Spark 画面异常与 ASUS ProArt P16 全萤幕播放 Netflix 黑画面等问题。
 
-▲ 好奇号近距离拍摄洋芋片状晶体结构。（Source：NASA）
+目前该版本驱动程式已开放下载。虽然 Reddit 社群已有 RTX 4090 使用者回报更新后异常写入已停止，但也有网友提醒，若仍观察到与 NVIDIA App 覆盖介面相关的磁碟写入，问题可能源自 Frameview 的 FvContainer 元件。在独立且长时间的测试结果出炉前，实际的修复效果仍有待进一步验证；若使用者仍持观望态度，外媒建议可暂时维持在评价较稳定的 621.01 或 617.42 旧版驱动。
 
-SAM 分析进行期间，好奇号还使用 ChemCam 仪器对名为「Ahi Veremos」的晶体特征进行 LIBS 观测，分析岩石化学成分。
-
-随后好奇号继续攀登夏普山，一路上再次发现岩体交错著许多规则的多边形图案，周围环绕隆起山脊，这种质地与几个月前好奇号在山坡稍低处遇到的多边形裂纹特征非常相似。
-
-▲ 好奇号于爬坡过程再次遇到多边形裂纹特征。（Source：NASA）
-
-当时团队花了很多时间推测这些多边形纹理如何形成，可能是水分蒸发后的矿物收缩、温度变化循环，或埋藏沉积物暴露后的压实与膨胀作用，随著好奇号收集更多资料，将帮助团队厘清具体形成过程。
-
-另一边，毅力号（Perseverance）火星车则在耶泽罗撞击坑「Idubi」地区调查一组异常明亮的岩石。
-
-这些岩石色调浅亮，与下方较暗且常被尘埃覆盖的火星表面相比格外突出，甚至比先前调查的火成岩、撞击岩更明亮，任务团队怀疑这些岩石与当地典型火成岩不同，便进一步指示毅力号调查，来自 SuperCam 仪器的最新下行数据证实这些浅色调岩石并非火成岩，而是富含水合二氧化矽。
-
-▲ 毅力号探测车于 2026 年 10 月 29 日，使用左侧 Mastcam-Z 相机拍摄位于「Idubi」区域明亮、富含矽质的岩石。（Source：NASA）
-
-在地球上，水合二氧化矽可形成于热液或地下水环境，且具保存微生物化石潜力，毅力号正对这些明亮岩石进行更细部化学与矿物学分析判断形成机制，并评估是否可能保存古代生命痕迹。
-
-水合二氧化矽备受关注的原因在于其形成与沉淀过程，通常为热液系统或地下水快速冷却、蒸发时，二氧化矽迅速沉淀并包覆周遭一切——包括微生物，该过程会快速包埋微生物形态甚至有机分子，成为极佳化石保存介质，地球上某些古老生命证据正是从类似的矽质沉积发现。
-
-因此，毅力号这波探索成果等于找到「既指向火星古代水环境、又具备保存生命迹象潜力」的双重理想目标。
-
-火星车告诉我们，火星看似荒芜的地景蕴藏丰富讯息，随著好奇号持续攀登夏普山、毅力号深入耶泽罗撞击坑古老地形，2 辆探测车将持续拼凑火星独特地貌特征与复杂地质历史。]]></description>
+Game Ready & Studio Driver 621.40 FAQ/Discussionbyu/Nestledrinkinnvidia]]></description>
   </item>
   <item>
-    <title>才刚抛售辉达！女股神扼腕，错失黄仁勋回归「32% 庆祝行情」</title>
-    <link>https://finance.technews.tw/2026/11/24/cathie-wood-miss-nvidia-stock/</link>
-    <guid>https://finance.technews.tw/2026/11/24/cathie-wood-miss-nvidia-stock/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:36:17 +0000</pubDate>
-    <description><![CDATA[女股神Cathie Wood因担忧黄仁勋离开后辉达的领导问题，决定卖出近1.07亿美元的辉达股票，想不到黄仁勋于23日宣告回归，带动公司股价创下多年来最大单日涨幅，Wood也因此错失这波强劲反弹。
+    <title>杨立昆怒批 Anthropic 执行长阿莫迪放大开源 AI 风险，直指少数巨头想掌控主导权</title>
+    <link>https://technews.tw/2026/11/25/yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/</link>
+    <guid>https://technews.tw/2026/11/25/yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:30:53 +0000</pubDate>
+    <description><![CDATA[Meta 前首席 AI 科学家、AMI Labs 创办人杨立昆（Yann LeCun）近日再度点燃人工智慧圈内部的路线之争，公开批评 Anthropic 执行长达里奥‧阿莫迪（Dario Amodei）对开放权重模型的警告，形容其论述带有「中世纪式的蒙昧主义」（obscurantism）色彩，并指控对方长期以风险叙事推动限制，借此维持对先进 AI 的控制。
 
-根据Ark Investment Management每日交易揭露资料，由Wood创立的资产管理公司在11月16日至11月20日期间，透过旗下基金合计卖出712,282股辉达股票。根据各交易日的参考股价估算，这批股票出售金额约为1亿690万美元。
+这场交锋起于杨立昆在 X 上的发文。他回应一段约三年前的影片，影片中阿莫迪曾向美国国会议员表示，开放权重模型一旦释出，外界便难以监管或约束其使用。杨立昆则反驳，认为阿莫迪自 GPT-2 时代以来就一直放大开放模型的危险，目的在于让这类模型被禁止，并让少数公司持续掌握主导权。他甚至将此比喻为鄂图曼帝国为了维持教义控制而禁止阿拉伯文印刷术。
 
-若以周一（23日）收盘价165.05美元计算，这批股票当时市值约为1亿1,760万美元，意味Ark Investment因提前卖股，错失约1,070万美元的潜在获利。
+Dario’s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control.He left OpenAI because he wasn’t going to have control.It’s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of the dogma.It stops the population from freely accessing diverse knowledge.It’s a new form of medieval obscurantism.
 
-Wood随后在一场Podcast访谈中证实，早在辉达公布财报前一天，就开始出售辉达股票，转而投入马斯克旗下的SpaceX。
+— Yann LeCun (@ylecun)November 22, 2026
 
-然而，辉达董事会在与黄仁勋讨论并听取美国高层官员意见后，一致通过恢复黄仁勋的总裁及执行长职务。董事会表示，对黄仁勋领导公司的能力感到满意，并认为他的回归不会构成国家安全风险。
+阿莫迪过去多次强调，Anthropic 并不主张全面禁止开放权重模型，但他认为，这类模型与封闭模型相比，确实更难加上安全护栏，也无法在释出后撤回权重，因此可能带来更高风险。他今年稍早也在部落格文章中重申，Anthropic 从未支持对开放权重模型的全面禁令，但主张对能力够强大的模型进行强制安全测试，并呼吁加强对高阶加速器出口、工业级模型蒸馏行为等的管制。
 
-消息公布后，辉达股价单日大涨31.48%，创下2003年以来最大单日涨幅，市值一夕增加近9,500亿美元，也写下史上最大单日市值增幅纪录。标普500指数上涨4.7%，终止连续七个交易日下跌的走势；那斯达克100指数则大涨近7%。
+这场争论也反映了 AI 产业更大的分歧：一方认为开放模型有助于创新、透明与技术扩散，另一方则强调模型一旦广泛释出，后续滥用风险难以控制。近期包括 Meta、微软（Microsoft）、IBM、Dell 与 NVIDIA 等科技巨头也曾联名表态支持开放权重模型，认为这类模型有助于安全、资安、创新与技术主权。
 
-黄仁勋回归也促使华尔街多家券商转趋看好辉达，如Melius Research将投资评等从「持有」调升至「买进」，目标价220美元；Bernstein调升至「优于大盘」，目标价维持200美元；花旗也将辉达目标价从225美元调高至240美元。]]></description>
+随著企业与开发者在自建部署与云端 API 之间做出选择，这场围绕开放与封闭、自由与控制的辩论，正持续影响 AI 模型的分发方式与产业竞争格局。]]></description>
   </item>
   <item>
-    <title>核废料处置走向商业化，美国砸 2,000 万美元发展深钻孔技术</title>
-    <link>https://technews.tw/2026/11/24/nuclear-waste-disposal-commercialization-us-funds-deep-borehole-technology-20-million/</link>
-    <guid>https://technews.tw/2026/11/24/nuclear-waste-disposal-commercialization-us-funds-deep-borehole-technology-20-million/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:28:51 +0000</pubDate>
-    <description><![CDATA[先进核反应炉加速迈向商业化，核废料处置也成为核能产业发展的重要课题。美国核废料处置技术开发商 Deep Isolation 于 23 日宣布，旗下子公司已与美国能源部（DOE）先进能源研究计划署（ARPA-E）签署合作协议，将获得最高 2,000 万美元联邦资金，推动通用核废料容器系统（UCS）及深钻孔处置技术商业化。
+    <title>iPhone 18e 外观风格大改？将更接近 iPad Pro</title>
+    <link>https://technews.tw/2026/11/25/iphone-air-2-iphone-18e/</link>
+    <guid>https://technews.tw/2026/11/25/iphone-air-2-iphone-18e/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:27:54 +0000</pubDate>
+    <description><![CDATA[苹果预计于 2027 年春季推出新一波 iPhone 产品，随著发表时间逐渐接近，相关设计资讯也陆续曝光。最新消息指出，定位入门市场的 iPhone 18e 可能迎来明显的外观调整，将原本分散在背盖上的镜头、闪光灯与麦克风整合至近方形相机模组，设计风格更接近 iPad Pro。另一方面，iPhone Air 2 也传出将增加第二颗后置镜头，改善前代产品仅有单镜头的限制。
 
-Deep Isolation 过去已透过美国能源部及 ARPA-E 资助的多项研究计划，完成 UCS 的开发、制造及实体测试，并评估其在模拟深钻孔环境下的性能表现。相关研究也显示，该系统具有应用于先进反应炉用过核燃料，以及核燃料再处理所产生的高放射性废弃物的潜力。
+据《Engadget》报导，该媒体取得来自消息人士的电脑辅助设计（CAD）资料，显示 iPhone 18e 的背部相机配置将与现行 iPhone 17e 明显不同。新机预计采用约 28×35 mm 的近方形相机模组，将主镜头、LED 闪光灯及后置麦克风集中在同一个凸起区域，取代目前三者分散配置的设计。
 
-此次计划为期三年，预计投入约 4,750 万美元，其中美国能源部提供最高 2,000 万美元，Deep Isolation 则负担约 2,750 万美元。除了推动工程开发及监管许可程序，公司也预计与西屋电气合作，将 UCS 应用于 eVinci 微型反应炉的用过核燃料储存及运输，并为未来取得美国核能管制委员会（NRC）许可做准备。
+从曝光资讯来看，iPhone 18e 的相机模组外观可能与高阶 iPhone Pro 系列的相机平台相似，整体造型也让人联想到 iPad Pro。不过这项调整主要集中在机身外观与零组件配置，并不代表相机规格将同步升级。
 
-此外，Deep Isolation 今年 1 月已在德州卡梅伦启动商业化示范计划，携手油田服务大厂哈里伯顿、Amentum 等企业，使用非放射性材料进行实际深度及全尺寸测试，验证深钻孔技术应用于核废料永久处置的可行性。
+消息指出，iPhone 18e 仍将维持单颗后置镜头，并未因相机模组面积增加而改采双镜头设计。换言之，苹果可能透过重新配置镜头、闪光灯与麦克风，改变入门机型的背盖造型，而非直接增加拍摄功能。
 
-随著 AI 资料中心及工业用电需求攀升，小型模组化反应炉（SMR）与微型反应炉逐渐受到市场关注，不过，除了反应炉建设、核燃料供应及发电成本，核废料的最终处置仍是核能产业扩张必须面对的问题。
+除了 iPhone 18e，《Engadget》取得的设计资料也涵盖标准版 iPhone 18 与 iPhone Air 2。其中，iPhone 18 预计大致延续前代外观，主要变化在于后置相机模组可能变得更厚，但目前尚不清楚是否涉及感光元件或其他相机硬体升级。
 
-美国目前尚未有投入营运的商用用过核燃料永久地质处置场，深钻孔处置技术能否顺利完成实地验证、取得监管许可，并进一步降低处置成本，也将是未来商业化发展的观察重点]]></description>
+相较之下，iPhone Air 2 的相机配置可能出现更明显的变化。根据曝光的设计图，新机有望从前代的单颗后置镜头升级为双镜头系统，若消息属实，将是苹果超薄手机产品线的重要硬体调整，也有助于改善初代 iPhone Air 在拍摄焦段选择上的限制。
+
+至于上市时程，先前消息指出，苹果可能于 2027 年 3 月底前推出部分新款 iPhone，并有机会与新一代 MacBook Neo 及 iPad 产品一同亮相。不过目前尚不确定三款 iPhone 是否会同步发表，实际产品规格及推出时间仍有待苹果公布。
+
+但目前曝光的 CAD 资料仍属未经官方证实的设计资讯，相关外观也可能在正式量产前调整。若传闻属实，苹果明年春季的 iPhone 产品更新将呈现不同方向，iPhone 18e 著重外观设计变化，iPhone 18 延续既有造型，而 iPhone Air 2 则可能透过增加镜头数量，强化超薄机型的拍摄能力。]]></description>
   </item>
   <item>
-    <title>智崴 IAAPA 重磅合作 Sony、东宝！狂揽超人气 IP〈地平线〉、〈哥吉拉〉</title>
-    <link>https://finance.technews.tw/2026/11/24/iaapa/</link>
-    <guid>https://finance.technews.tw/2026/11/24/iaapa/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:19:18 +0000</pubDate>
-    <description><![CDATA[体感设备龙头智崴近日赴美参加全球游乐产业年度盛会「2026 国际主题乐园暨设备展（IAAPA Expo）」，会中重磅合作日本索尼（Sony）、东宝（Toho）、美国联合公园及度假村集团（United Parks & Resorts）与巴西娱乐巨头 Grupo Iter，全面拓展全球体感娱乐版图。
+    <title>39 亿年前的撞击高峰不存在？嫦娥六号带回月背古老岩石改写太阳系早期历史</title>
+    <link>https://technews.tw/2026/11/25/ancient-rocks-from-the-moons-far-side-rewrite-the-solar-systems-violent-past/</link>
+    <guid>https://technews.tw/2026/11/25/ancient-rocks-from-the-moons-far-side-rewrite-the-solar-systems-violent-past/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:25:04 +0000</pubDate>
+    <description><![CDATA[来自月球背面的古老岩石，正让科学家重新拼凑太阳系早期的暴烈历史。根据最新研究，中国嫦娥六号带回的样本显示，月球大型撞击事件的发生方式，可能不是过去长期认为的那种在约 39 亿年前突然集中爆发的「晚期重轰炸」，而是随著时间推移逐渐减少的过程。
 
-智崴今年 IAAPA 博览会携手索尼集团、索尼互动娱乐（SIE）及旗下工作室 Guerrilla Games，以 PlayStation 畅销游戏《地平线》为蓝本，打造期间限定飞行剧院体验《地平线：风暴骑士》（Horizon: Stormriders），体验预计 2027 年 1 月 29 日起将在台湾抢先登场。
+这批样本的关键价值，在于它们来自月球背面，也是人类首次取得的该区域实物材料。研究团队从约 1,600 个碎片中筛选出 20 个具有撞击成因特征的斜长岩碎屑，并对其中含锆的矿物进行铅-铅同位素定年，结果指向约 42.5 亿年前与 38.7 亿年前两个重要时间点。团队认为，较早的年代可能对应南极-艾特肯盆地（South Pole–Aitken basin）的形成，这个盆地直径约 2,500 公里，是月球最大、也最古老的撞击构造之一。
 
-智崴会中与东宝环球推出全新沉浸式飞行剧院体验《哥吉拉之旅：大冲突》，特别邀请以《哥吉拉-1.0》席卷全球票房的知名导演山崎贵执导，这也是双方继《哥吉拉之旅：巨型怪兽终极大战》后的再度联手。
+另一项以嫦娥六号样本进行的氩-氩定年研究，则分析 28 个被辨识为撞击熔融物的碎片，得到的年代范围从约 43.3 亿年前到 11.3 亿年前，并未出现接近 39 亿年前的明显集中峰值。这个结果与过去阿波罗样本中常见的年代聚集形成对照，也让部分学者重新检视「晚期重轰炸」假说的基础。
 
-美洲市场的实体据点拓展方面，智崴与美国联合公园及度假村集团合作，双方将在维吉尼亚州的布希花园威廉斯堡乐园（Busch Gardens Williamsburg）推出全新动感剧院《重返螺旋山》（Return to Corkscrew Hill），预计 2027 年正式开幕。
+研究人员同时指出，月球背面样本也揭示南极-艾特肯盆地的复杂演化。香港大学领导的另一项研究发现，样本中存在两类来源不同的富镁岩石，其中一类可能来自撞击熔融层，另一类则更可能形成于月壳内部的富镁岩浆作用。这些材料与后续撞击共同记录了月球内部结构被重塑、古老物质被重新分散到表面的过程。
 
-智崴《重返螺旋山》全新动态剧场设施结合先进动态模拟、沉浸式特效与 270 度曲面银幕，打造令人难忘的沉浸式体验。智崴董事长欧阳志雄表示，这项合作是智崴在北美持续扩展业务的重要里程碑，展现为沉浸式娱乐带来新面向的承诺。
-
-南美洲方面，智崴携手巴西娱乐休闲集团 Grupo Iter，预计 2027 年底在巴西旅游胜地格拉马多（Gramado）打造全新飞行剧院，采用智崴最先进的 o-Ride 飞行剧院技术，双方将共同制作高品质沉浸式内容，透过空中摄影与叙事特效，呈现巴西壮丽的自然景观、知名地标与文化遗产。
-
-智崴今年初宣布与 Flyover Attractions 达成最终收购协议后，正进一步强化与全球领先的飞行剧场景点品牌 Flyover 的策略伙伴关系，并将强化温哥华、冰岛、拉斯维加斯与芝加哥营运据点，共同扩大专业内容授权与全球市场布局。
-
-智崴第三季每股纯益（EPS）达 4.05 元，创单季历史新高；累计前三季每股纯益（EPS）达 5.13 元，改写近 7 年同期高点；累计前 10 月营收达 19.9 亿元，年增率高达 88%。法人认为，科技股近一个月猛烈修正，但迪士尼等乐园股反而逆势上涨，有利台股相关个股抗跌。]]></description>
+不过，外界专家也提醒，目前资料仍主要来自单一区域，对整体撞击时间序列的推论仍有局限。即便如此，嫦娥六号样本已为月球早期历史提供前所未有的直接证据，也让太阳系形成初期的撞击节奏有了新的解读方向。]]></description>
   </item>
   <item>
-    <title>黄仁勋回归带动韩股反弹，业者：AI 投资信心回升</title>
-    <link>https://finance.technews.tw/2026/11/24/jensen-huang-return-boosts-korean-stocks-ai-investment-confidence-recovery/</link>
-    <guid>https://finance.technews.tw/2026/11/24/jensen-huang-return-boosts-korean-stocks-ai-investment-confidence-recovery/</guid>
-    <pubDate>Tue, 24 Nov 2026 09:10:55 +0000</pubDate>
-    <description><![CDATA[辉达（NVIDIA）创办人黄仁勋回归，韩国股市今天大幅反弹，证券业界认为，这为 AI 投资生态系统恢复信心创造契机，不过 AI 产业的结构性疑虑尚未消除，目前判断市场是否全面复苏仍为时过早。
+    <title>Anthropic 推 Siren 模拟测试，揭露新版 Claude 面对外部诱饵的真实反应</title>
+    <link>https://infosecu.technews.tw/2026/11/25/anthropic-siren-simulations/</link>
+    <guid>https://infosecu.technews.tw/2026/11/25/anthropic-siren-simulations/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:20:39 +0000</pubDate>
+    <description><![CDATA[Anthropic 于 11 月 24 日公布一项名为 「Siren」 的全新安全测试，专门用来观察 AI 代理人在面对「诱惑」时，是否会试图突破沙盒（Sandbox）限制。这套评估机制会将模型放进刻意设计得不够严密的模拟环境中，并在沙盒外部放置有助于完成任务的档案、凭证或类似网际网路的服务，借此测试模型是否会在未获明确授权的情况下越界取用。
 
-根据韩联社报导，韩国综合股价指数（KOSPI）今天大涨6.32%，收在5,006.03点，重返5,000点关卡。这次强劲涨势的主要背景是昨晚受黄仁勋回归辉达消息带动，纽约股市大幅上涨。
+根据 Anthropic 说明，Siren 目前涵盖 26 种模拟沙盒情境，且整个测试环境外围还额外包覆了第二层隔离机制，确保真实系统不受影响。Anthropic 表示，这项评估已成为旗下 Claude 模型部署前的重要安全检查项目之一，并自 Claude Haiku 5.5 起正式纳入系统卡（System Card）与内部决策参考。
 
-韩国证券业界认为，黄仁勋回归有望促进整体AI产业信心恢复。元大证券（韩国）分析指出，黄仁勋的缺席并非仅造成经营领导层出现空缺的不确定性，也为新兴云端（Neocloud）业者的金融合约及客户企业的投资协商带来不确定性，「他的回归有望缓解这些不确定性。」
+最新测试结果显示，较新的 Claude 模型虽然仍有 21% 至 32% 的机率会在情境中尝试接触沙盒外部资源，但真正出现明显不当使用的比例已大幅收敛，仅约 0.6% 至 1.6%。相较之下，较早期的 Claude Mythos 5.1 与 Claude Mythos 5 分别有 12.7% 与 25.8% 的比例出现越界行为。Anthropic 也指出，只要在指令中额外加入一段简单的文字提醒、要求模型不要逃离沙盒，尝试越界的情况就会显著减少。
 
-大信证券研究员李京敏（音译）也表示，AI及半导体类股暴跌并非因为业绩或产业景气，是因领导层出现空缺，这段期间市场一直无法得知，究竟要由谁负责产品发展蓝图及规模达数千亿美元的供应与投资承诺，「得不到答案的不安，最终导致投资人并非基于判断，而是机械式地抛售股票」。
-
-不过多数观点仍认为，此次大幅反弹能否转为持续性涨势，仍是未知数。有进投资证券研究员许宰焕（音译）指出，「恰巧黄仁勋是在半导体及AI生态系统面临AI发展放缓或崩溃的十字路口时回归，对AI产业崩溃的疑虑将有所缓解，但半导体类股要重返高点，恐怕还需要时间」。
-
-报导提及，除了针对黄仁勋个人的调查及美国政府对出口管制的监管仍持续进行，资料中心建设受到的限制，以及对AI企业投资获利能力的疑虑也仍存在。就韩国股市而言，除了黄仁勋回归，外资动向能否好转，也被视为决定股市能否持续反弹的关键变数。]]></description>
+除了评估模型本身，Siren 也被用来测试与调校部署阶段的防护机制，其中包括会在工具呼叫执行前先行检查的 auto mode。Anthropic 指出，在离线回放测试中，auto mode 能在 96% 至 100% 的案例中成功拦截首次读取或取得诱饵档案的指令，显示这类防护设计有助于大幅降低沙盒逃逸风险。Anthropic 强调，这些测试结果能协助团队在模型正式上线前，及早辨识潜在的高风险行为并制定后续修正方向。]]></description>
   </item>
   <item>
-    <title>黄仁勋辞辉达执行长后 11 天复职，台积电股东人数创新高</title>
-    <link>https://finance.technews.tw/2026/11/24/jensen-huang-controversy-drives-tsmc-shareholders-to-record-high/</link>
-    <guid>https://finance.technews.tw/2026/11/24/jensen-huang-controversy-drives-tsmc-shareholders-to-record-high/</guid>
-    <pubDate>Tue, 24 Nov 2026 08:50:55 +0000</pubDate>
-    <description><![CDATA[辉达今天宣布创办人黄仁勋复任执行长，距离他请辞仅 11 天。期间台股最低滑落至 35,442.41 点，累计大跌 8,814.74 点，台积电股价一度跌破 2,000 元关卡，至 1,970 元，重挫 425 元，散户依然勇于抢进，股东人数突破 332 万人，创下历史新高。
+    <title>SpaceX 与特斯拉传组 5 人小组推进 3.5 兆美元合并案，力拚年底前取得突破</title>
+    <link>https://finance.technews.tw/2026/11/25/spacex-tesla-merger-case/</link>
+    <guid>https://finance.technews.tw/2026/11/25/spacex-tesla-merger-case/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:10:11 +0000</pubDate>
+    <description><![CDATA[据《金融时报》报导，马斯克（Elon Musk）旗下的 SpaceX 与特斯拉（Tesla）已各自成立特别委员会，并指派五名董事主导一项可能改写全球企业版图的合并谈判。这项全股票交易若顺利成形，估值将高达 3.5 兆美元，可望成为史上规模最大的企业并购案。
 
-黄仁勋于11月12日辞去辉达（NVIDIA）执行长等职务，市场不仅忧心恐将影响辉达中长期竞争力，并加深对人工智慧（AI）前景的疑虑，冲击全球股市急遽下挫。
+报导指出，SpaceX 方面由鲁洛夫·博塔（Roelof Botha）与 Randy Glein 参与谈判，Tesla 方面则由董事长罗宾·德诺姆（Robyn Denholm）、凯斯琳·威森-汤普森（Kathleen Wilson-Thompson）与杰克·哈通（Jack Hartung）出任委员。这五人虽皆被认定为财务上「无利害关系」的独立董事，但与马斯克均有长期交集，主要任务是在兼顾股东利益、公司治理与防范未来诉讼的前提下，协调两家公司的整并条件。
 
-台股一度下杀至35,442.41点，累计下挫8,814.74点，跌幅达19.91%。台积电在外资连日卖超下，股价一度跌破2,000元关卡，滑落至1,970元，累计下跌425元，跌幅17.74%。
+目前，双方顾问团队已展开财务模型的细部调整。SpaceX 聘请摩根士丹利（Morgan Stanley）与高盛（Goldman Sachs）担任财务顾问，Tesla 则由艾维克合伙公司（Evercore）提供协助，重点在于厘清两家公司在 AI 模型、晶片设计与资料中心等领域的业务重叠，并为后续谈判建立估值基础。接下来，双方仍须就最受瞩目的换股比例、治理架构，以及合并后的关键职位安排达成共识。
 
-台积电股价快速回档，散户依然勇于抢进，据台湾集保结算所统计，台积电11月20日股东总人数达到3,329,043人，创下历史新高，较11月13日增加34,412人；其中，零股股东人数增至274,735人。
+不过，这笔世纪交易仍面临多重挑战。由于两家公司皆由马斯克担任执行长，依德州公司治理规则，他无法正式参与谈判，特别委员会因此成为交易能否推进的核心；此外，合并案还须通过严苛的股东表决门槛（Tesla 须获全体可能投票权逾 50% 同意），且势必遭遇美、中、欧、英等地的监管与国安审查，尤其涉及 SpaceX 的美国国防合约与 Starlink 业务，以及 Tesla 对中国制造基地与市场的依赖，传出 Tesla 可能以「隔离」中国业务的方式寻求解套。
 
-辉达23日宣布黄仁勋即刻恢复执行长等职务，激励台股今天强势弹升3310.46点，创下史上收盘最大涨点，回升至40,122.35点。台积电股价跳空涨停，并一价到底，达到2,230元，上涨200元，市值回升至57.82兆元。]]></description>
+马斯克先前已在财报会议上公开表示，将 AI、机器人、电动车与航太事业整合到同一企业架构下「是个好主意」，但他也强调，这类交易仍须先取得委员会共识，再交由股东表决。尽管目前双方委员会仍有摩擦，外界仍高度关注这场被形容为「史上最大合并案」的谈判，是否能在今年底前取得关键突破。]]></description>
   </item>
   <item>
-    <title>凭美国制造自有品牌抢攻宠物保健！禾硕康-KY 预计 12 月底挂牌上市</title>
-    <link>https://finance.technews.tw/2026/11/24/dental-cleansing-bone/</link>
-    <guid>https://finance.technews.tw/2026/11/24/dental-cleansing-bone/</guid>
-    <pubDate>Tue, 24 Nov 2026 08:46:21 +0000</pubDate>
-    <description><![CDATA[禾硕康-KY 将在 11 月 26 日举办上市前业绩发表会，预计 12 月底挂牌交易，董事长康润生表示，聚焦洁牙骨及宠物机能性零食，以美国在地研发制造为基础，结合国际品牌代工、自有品牌经营及全美通路布局，全面进军高毛利的宠物保健品市场，力拚自有品牌与代工营收迈向各半的结构。
+    <title>黄仁勋复任国会严阵以待，民主党参院领袖控违反出口管制</title>
+    <link>https://technews.tw/2026/11/25/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law/</link>
+    <guid>https://technews.tw/2026/11/25/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:00:49 +0000</pubDate>
+    <description><![CDATA[美国民主党联邦参议院领袖舒默（Chuck Schumer），今天指控辉达执行长黄仁勋将极先进晶片输往中国，违反出口管制法；黄仁勋将于 12 月 3 日出席参院银行委员会的公开听证会。
 
-康润生表示，禾硕康美国子公司 1996 年成立于德州，1998 年推出以米及植物蛋白制成的 N-Bone 可食用洁牙骨，为市场首创米制可食洁牙骨品牌，之后延伸至幼犬、猫及雪貂的机能点心，并以 Get Naked 品牌切入生理保健市场。
+路透社报导，舒默今天指控黄仁勋违反限制，将先进技术出口至中国。他在社群平台X发文表示，黄仁勋「违反美国出口管制法，这等同于在太空竞赛期间向苏联出售火箭引擎」。
 
-康润生指出，禾硕康产品涵盖洁牙骨、长嚼骨、趣味性骨、功能性骨、营养品、软性及酥脆零食七大品类，2026 年再推出组合式互动洁牙骨 Paw-ssemble，以 OEM／ODM 代工搭配 N-Bone、Get Naked 自有品牌，形成重要的营运双引擎。
+A critical national security threat in the Nvidia situation is that Jensen Huang shipped extremely advanced chips to China, violating US export control law, in what amounts to the equivalent of selling rocket engines to the Soviets during the Space Race.
 
-康润生分享，禾硕康与美国主要宠物牙科保健品牌合作逾 15 年，从企划、配方、模具到量产共同开发，代工规模有助摊提固定成本；自有品牌则直接接触终端市场，将消费回馈转为新品研发与代工合作机会，发挥互补效益。
+This is an unfathomable failure of enforcement by the Trump administration.
 
-康润生强调，禾硕康采共同开发制造（JDM）模式，累积植物性配方、洁牙骨造型及低敏原料相关专利，并自主开发关键适口剂（Palatant），降低原料依赖、提高新品开发弹性，强化配方、模具及量产验证的整合，提高客户转换供应商的成本。
+We urgently need to pass the bipartisan export control bills to start to cut off the flow of AI chips and manufacturing equipment to China once and for all, something I’ve worked on with @SenWarren and bipartisan partners for months.
 
-禾硕康亚洲区总经理强克翔表示，美国在地制造是禾硕康的一大竞争优势，主要在德州 Plano 设有研发及生产基地，2025 年产量达 1,485 万磅，产品于当地制造、供应美国市场，有助降低进口关税及跨境供应链风险。
+— Chuck Schumer (@SenSchumer)November 24, 2026
 
-强克翔指出，美国是农业大国，禾硕康绝大多数原物料皆在当地采购，工厂通过 SQF Edition 9 食品安全认证、取得 100 分评核成绩及 NASC cGMP 认证，产品 100% 采用人用食品级原料，并有约 97% 营收来自北美，因此与主要深耕台湾内需市场的同业有所区隔。
+尽管黄仁勋因与一名被控为中国间谍的女子来往，他仍于昨天复任辉达执行长，舒默的言论代表国会对黄仁勋的批评进一步升温。
 
-强克翔分享，禾硕康持续加大电商的投放力道，主要透过亚马逊（Amazon）、Chewy、沃尔玛（Walmart）、Petco 及 TJX 等大型平台，并与 Google 签署联合商业计划（JBP）拓展新客群，成功带动今年电商业绩大增 40%，预期明年仍将维持 30% 至 40% 的高速成长。
+辉达高阶晶片销售中国，美国两党议员质疑声浪日增，同时要求加强管制，调查是否构成国家安全风险。
 
-强克翔强调，随著电商动能转强，禾硕康目标将自有品牌与代工营收比重调整至最健康的五五分，并稳守平均毛利率约 40% 以上的水准，未来将借由深化北美布局，延伸宠物营养补充品、肉类零食及新型机能产品，并拓展电商与国际通路，扩大品牌及代工业务规模。
+舒默与其他议员表示，美国晶片输往中国必须迅速立法打击。宾州共和党籍联邦参议员麦考米克（Dave McCormick）说：「国会必须彻查真相，加强我们的出口管制，确保中国无法透过后门取得最先进晶片。」
 
-展望营运，强克翔指出，「宠物保健品」将是最大亮点，禾硕康早已取得美国国家动物补充剂委员会（NASC）的宠物保健品执照，看准全球宠物保健趋势，目前已有首款保健品交由代工客户销售，明年起将推出一连串自有品牌保健产品，同时扩增猫用产品、护胃及有趣互动性等多元品项。
+另外，众议院4个委员会的民主党首席致函川普，要求交代对中国间谍一事的了解程度。
 
-根据美国宠物用品协会（APPA）2026 年产业报告指出，2025 年美国宠物产业总支出达 1,580 亿美元，其中食品与零食支出 683 亿美元，占 43.2%；2026 年产业总支出估达 1,650 亿美元，年增 4.4%，消费重心由基础喂养延伸至口腔保健、天然原料及机能营养食品。]]></description>
+众议员帕隆（Frank Pallone）、米克斯（Gregory Meeks）、拉斯金（Jamie Raskin）和贾西亚（Robert Garcia）表示：「你与黄（仁勋）的私交，以及蓄意无视此丑闻的经济与国家安全风险，已将美国人民置于巨大风险中。」他们要求白宫提供与辉达董事会的所有通讯纪录。
+
+这几名议员问道：「得知黄仁勋与一名疑似中国间谍的女子交往后，川普采取哪些行动（如果有的话），控制美国经济与国家安全风险？」
+
+北达科他州共和党籍联邦参议员克芮麦（Kevin Cramer）今天接受财经媒体CNBC访问时表示，美国对中国的晶片出口需要更多保护。「我们甚至可能得替黄仁勋安排一名保母」，「只是为确保他不会做出任何会危及美国的事」。
+
+面临国会砲火，黄仁勋将赴参院委员会作证。参议院银行委员会主席史考特（Tim Scott）昨天表示，黄仁勋将于12月3日出席听证会。在此之前，他也将在12月1日出席众议院3个委员会的闭门会议。
+
+北卡罗来纳州共和党籍联邦众议员哈里根（Pat Harrigan）表示，黄仁勋「在这个节骨眼于今天复职是个错误」。哈里根补充说：「我们释出一个讯号，也就是一个人在经济上的财务影响力，凌驾于良好治理、良好公民素养与遵守法律的重要性之上。这是个危险的先例。」
+
+（首图来源：Flickr/Jewish Democratic Council of AmericaCC BY 2.0）]]></description>
   </item>
   <item>
-    <title>台股有望挑战 46,000 点？黄仁勋回归辉达，分析师这样看后市</title>
-    <link>https://technews.tw/2026/11/24/market-see-jensen-comeback/</link>
-    <guid>https://technews.tw/2026/11/24/market-see-jensen-comeback/</guid>
-    <pubDate>Tue, 24 Nov 2026 08:32:02 +0000</pubDate>
-    <description><![CDATA[随著辉达执行长黄仁勋光荣回归，周二（24日）科技股领涨、亚洲股市全面走扬，其中台股大涨9%，韩国KOSPI指数飙升7.4%，日经225指数盘中一度上涨5%，市场人士也分享对黄仁勋重返辉达的看法。
+    <title>狂飙 3,310 点后迎震撼教育！费半暴跌 7.88%、外资连 7 卖，台股今日力守 3 万 5 千点防线</title>
+    <link>https://finance.technews.tw/2026/11/25/taiwan-stocks-3310-point-rally-shock-correction-philly-semi-sox-plummets-7-88-foreign-sell-7-days-defend-35000/</link>
+    <guid>https://finance.technews.tw/2026/11/25/taiwan-stocks-3310-point-rally-shock-correction-philly-semi-sox-plummets-7-88-foreign-sell-7-days-defend-35000/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:00:26 +0000</pubDate>
+    <description><![CDATA[台股 24 日在辉达执行长黄仁勋强势回归的激励下，爆发历史性单日涨点，加权指数狂飙 3,310 点（涨幅约 9.9%）收在 36,811 点，全市场逾 622 档个股攻上涨停板，成交量急遽放大。然而，在狂欢背后筹码面却暗藏隐忧，外资单日仍无情卖超 503.9 亿元，写下连 7 卖且累计提款近 2,980 亿元的纪录，自营商更狂砍 810.3 亿元，仅本土投信逆势买超 97.6 亿元，精准锁定台积电与广达进行选股布局。隔夜美股市场再度风云变色，费城半导体指数单日重挫 7.88%，台积电 ADR 亦跟跌 3.96%。面对美股科技股的剧烈震荡，今日台股开盘半导体与 AI 供应链势必承受沉重回测压力，能否守住昨日部分涨幅将成短线多空关键。
 
-市场人士普遍认为，黄仁勋回任辉达执行长，有助于重建市场对AI投资前景的信心。之前，AI相关产业已经历一波严重超卖，市场情绪也跌至极度悲观的水准，这项消息成为带动市场反转的重要催化剂，凸显黄仁勋对辉达乃至整个美国AI供应链的影响力，已经大到足以左右市场定价。
+隔夜美股四大指数呈现极端的板块分化，道琼指数逆势收红 0.85% 站上 50,018.7 点，显示市场资金正加速从高波动的科技股撤出、转向传产与防御型标的；反观科技股沦为杀盘重灾区，标普 500 下跌 0.50%，那斯达克下挫 1.48%，费城半导体指数（SOX）更单日暴跌 7.88% 收在 8,832.5 点，成为今日台股最大的外部风险来源。台积电 ADR 同步重挫 3.96% 收在 349.2 美元，预告今日权王开盘恐受夜盘压制。宏观指标方面，美元指数微跌 0.45% 至 103.85，美国 10 年期公债殖利率小幅回落至 4.90%。此外，中国宣布延长对美国镓、锗、锑等关键矿产的出口管制豁免至 2027 年 1 月 27 日，短期内有助于纾解半导体材料供应疑虑，为材料设备族群提供微弱缓冲。
 
-另有分析师认为，短期抛售潮可能已经结束，台湾、韩国与日本的AI供应链也很可能已经触及近期底部。但接下来须观察美国云端服务供应商未来两个月公布的季度财报，尤其是是否维持先前提出的资本支出计划，这将成为评估AI基础建设投资动能能否延续的重要指标。
+昨日盘面在 AI 情绪全面点火下，晶圆代工、IC 载板、铜箔基板、矽光子与先进封装等科技次产业同步大涨逾 9%。其中，IC 载板（ABF）基本面讯号最为明确，景硕法说会揭露产能利用率突破 95%、毛利率季增 8 个百分点飙至 34%，且 2027 年中前无新产能释出，带动欣兴跳空涨停、南电挟 10 月获利年增近 4 倍之姿从深度修正中翻身。先进封装与晶圆代工方面，日月光历经逾四成回调后强攻涨停，市场看好其承接台积电 CoWoS 外溢订单；台积电与联电亦同步亮灯，市场同步关注台积电评估跨足 3D DRAM 的早期动向。记忆体族群在 HBM 题材确认下全面补涨，南亚科重返 300 元大关、华邦电站回百元，群联亮灯涨停。重电与绿能则受惠 AI 资料中心全球扩建带来的电力刚性需求，外销比重达 57% 的华城领军，与士电、亚力、大亚齐步涨停。值得注意的是，外资在昨日大举提款之际，却罕见逆势买超国泰金13 亿元与富邦金10 亿元，显露「卖科技、买防御」的资金避险轮动讯号。
 
-从区域市场来看，台湾被视为黄仁勋回任后的主要受惠者之一。台积电在辉达晶片生产及整体供应链中扮演核心角色，双方长期合作关系的稳定性提升，也有助于增加台积电的订单能见度；韩国方面，SK海力士与三星等记忆体大厂，同样可望受惠于市场对AI基础建设需求信心回升。不过，黄仁勋回任并不会直接缓解韩国记忆体业者面临的竞争压力，尤其是来自中国长鑫存储等业者的挑战。
-
-市场短期可能随黄仁勋回任而逐步回归基本面，台股也有机会挑战44,000至46,000点区间，但AI产业是否持续扩张，最终仍取决于云端服务供应商的资本支出动向、晶片出口政策，以及全球AI基础建设需求能否维持成长。
-
-此外，黄仁勋回任也让市场重新期待美中科技关系可能采取更务实的发展方向，尤其他过去主张辉达应持续进入中国市场。不过，市场人士也提醒，美国不太可能因此放宽对中国的晶片出口管制，且黄仁勋预计12月3日出席美国国会听证会，后续独立调查与政府调查也可能持续至12月初，加上美国国会可能加速推动晶片出口管制法案，都可能再次牵动市场情绪。
-
-由于黄仁勋持续领导辉达，市场更看好新一代AI平台规格持续提升，尤其有利于美国与台湾供应链中投入先进散热、共同封装光学（CPO）等技术业者。由于2027年大部分产品规格已经底定，相关供应链更显著的效益可能要到2028年才会逐步浮现。
-
-由于辉达大部分短期产能与需求已经确定，预期对近期营运的影响有限，但黄仁勋回归有助于降低现有订单之外的中长期决策不确定性，也加强市场对AI基础设施供应商的信心，但并未改变产业面临的根本商业考验。]]></description>
+加权指数昨日大涨后，今日开盘直接面临费半暴跌 7.88% 的严峻考验，技术面上若半导体权值股补跌拖累大盘跌幅达 5% 以上，盘面恐形成「跳空缺口回测」格局，盘中首要防守关卡看 35,000 点整数大关。实战操作上，首重权王台积电开盘消化 ADR -3.96% 卖压的力道，若补跌幅度超过 5%，大盘指数压力将显著升温，能否守住昨日涨停收盘价为短线强弱指标；其次，密切观察昨日跳空涨停的 ABF 指标欣兴缺口支撑，以及法人圈法说后对载板与封测厂（景硕、日月光）是否更新目标价评等；同时，留意记忆体族群今日是否面临外资对 HBM 库存疑虑的调节卖压，并追踪外资对金融股（国泰金、富邦金）的防御性买盘是否延续，作为判断市场避险情绪是否升温的重要风向球。]]></description>
   </item>
   <item>
-    <title>黄仁勋重掌辉达股市狂飙，台厂 AI 供应链影响一次看</title>
-    <link>https://technews.tw/2026/11/24/jensen-return-and-its-impact-on-taiwan-ai-supply-chain/</link>
-    <guid>https://technews.tw/2026/11/24/jensen-return-and-its-impact-on-taiwan-ai-supply-chain/</guid>
-    <pubDate>Tue, 24 Nov 2026 08:30:38 +0000</pubDate>
-    <description><![CDATA[人工智慧 AI 晶片大厂辉达（NVIDIA）23 日恢复黄仁勋全部职务，重振台湾供应链信心，从半导体上游到下游伺服器资料中心组装代工，台厂士气大振，AI 概念股欢腾涨停庆祝，台厂重申订单无虞出货放量可期，不过美国严控 AI 产业监管力道，对 AI 基础建设进展影响，有待观察。
+    <title>坦承违反辉达行为准则！黄仁勋向员工道歉：犯了糟糕的错误</title>
+    <link>https://technews.tw/2026/11/25/nvidia-jensen-huang-2/</link>
+    <guid>https://technews.tw/2026/11/25/nvidia-jensen-huang-2/</guid>
+    <pubDate>Wed, 25 Nov 2026 02:00:18 +0000</pubDate>
+    <description><![CDATA[消息人士向路透社透露，重新复职的辉达执行长的黄仁勋周二（24日）向员工表示，他曾违反公司部分行为准则，并承认自己犯下了「一些糟糕的错误」。
 
-黄仁勋先前因媒体披露涉及多起婚外情，包括与一名疑似中国间谍的女子有染，12日辞去辉达总裁、执行长及董事会董事职务，董事会主席琼斯（Harvey C. Jones）17日对外表示无意让黄仁勋复职。不过在美国总统川普（Donald Trump）强力介入下，黄仁勋23日全数恢复辉达职务。
+据悉，黄仁勋在加州圣塔克拉拉（Santa Clara）辉达总部举行的一场全体员工大会上发表谈话，会议长达一小时。他表示，外界称他因为美国总统川普向董事会施压得以复职，这项说法并不属实。
 
-黄仁勋重磅归位辉达消息激励美股4大指数飙涨，辉达罕见暴涨31.48%，23日市值暴增近1兆美元，带动相关族群推动那斯达克指数增加超过2兆美元市值，均创历史单日交易纪录。台股今天上演报复性反弹走势，终场飙3,310.46点，创史上盘中和收盘最大涨点，重返4万点之上，收40,122.35点，上市柜公司多达621家涨停。此外欧洲股市和日本、韩国股市也连袂飙涨。
+消息人士表示，黄仁勋透露自己正在接受心理治疗，坦承违反辉达部分行为准则是不可接受的。
 
-在黄仁勋去职后饱受媒体挞伐之际，台厂供应链并未冷眼旁观持续送暖，其中又以台湾科技业共同出资在台北101大楼外墙点亮跑马灯声援黄仁勋一事最具代表性。科技业人士直言，点灯是为了协助挽回黄仁勋，展现台湾的温柔呵护，在这个时刻「勿落井下石，要秋冬送暖」。
+随著周一（23日）因黄仁勋复职消息而引发的历史性涨势逐渐消退，投资人重新将焦点放在他回归带来的政治风险与公司治理问题，辉达股价周二收盘下跌5.9%。
 
-在黄仁勋闪电回归后，从半导体封测链角度来看，多名高层主管今天表示，供应链与辉达关系可望回稳，但先前部分透过黄仁勋个人信任关系建立的「握手交易」方式仍有一定风险，预期未来辉达与供应链台厂的合约会更具法律约束力。
+另据《纽约时报》（The New York Times）报导，黄仁勋在会中致歉，但同时否认有关自己是名施暴型主管的报导。针对外界认为他因为是「Tech bro」且「凌驾法律之上」，才重新掌权，黄仁勋表示，自己之所以复职，是因为辉达董事会经过事实评估后，确信此事不会构成国家安全威胁。
 
-至于辉达18日宣布扩大与台积电、鸿海、矽品、京元电、景硕、欣兴等台厂合作关系，透过现金投资供应链或签订多年期长约等方式，扩增载板、先进封装、晶圆及委托制造等制造产能，支援AI基础设施建置，供应链高层指出，相关扩产合作计划在黄仁勋复职后将会持续加速进行。
+美国总统接受《纽约邮报》（New York Post）访问时表示，如果有必要，他愿意特赦黄仁勋，但他认为重新复职的辉达执行长应该不需要特赦也能安然度过这场风波。他也强调，辉达的成功对美国维持AI领域的领先地位至关重要，他甚至对让美国政府持有辉达股权抱持开放态度，并以英特尔为例。
 
-在黄仁勋回归前，晶圆代工厂台积电昨天罕见公开发声强调，全球AI需求与日俱增，长期展望持续看好，市场对于先进制程技术的需求依然强劲，产能持续供不应求。
+与此同时，黄仁勋与辉达正面临多项州政府及联邦政府调查与审查，涉及机构包括美国联邦调查局（FBI）、司法部（DOJ）及美国证券交易委员会（SEC）。美国参议院预计12月3日举行公开听证会，黄仁勋届时将出席作证。
 
-台湾半导体产业协会理事长、台积电资深副总经理侯永清23日表示，AI成长是大趋势，半导体技术是推动AI成长不可或缺的必要条件。在此趋势下，台湾半导体产业持续强劲，短期事件下没看到客户针对订单、出货有任何调整，甚至针对长期需求，目前看到需求依旧强劲，未有减弱趋势。
-
-电电公会理事长、鸿海董事长刘扬伟23日指出，台湾供应链占AI伺服器产业超过九成，供应面非常健康，需求仍然畅旺，整体产业非常正常且健康，相关发展还会持续至少2至3年以上。
-
-总结而言，对黄仁勋回归后供应链订单进展和AI产业前景，多名半导体高层今天强调，到2027年订单无虞，没有太大变化，整体AI产业需求存在，不会泡沫化，部分量产订单甚至看到2028年。
-
-观察黄仁勋先前主导的「AI循环融资」平台进展，多名半导体封测供应链主管分析，黄仁勋复职后，市场对「永动机」融资大开杠杆的忧虑稍减，之前黄仁勋承诺事项应会继续落实，但后续加码会更谨慎，AI产业循环融资平台的游戏规则会受到更多检视约束。
-
-多名半导体产业高层分析，美国政府对辉达以及AI半导体晶片产业销售的监管控制，以及对中国半导体禁令只会更加严格，不会因黄仁勋回锅而松手改变，必须留意美国AI资料中心（AIDC）建置速度是否放缓。
-
-广达则说，黄仁勋复职及美方对中国出口晶片管制趋严，对广达营运应该没有影响，原因在于广达主要客户皆是美国云端服务供应商（CSP），且产品没有出货至中国，也没有任何中国客户。
-
-观察辉达技术路径蓝图进展和竞争态势，多名半导体高层指出，辉达在Blackwell、Rubin、Feynman等路线进展不变，绘图晶片（GPU）迭代速度不会放缓，特殊应用晶片（ASIC）阵营需求也将跟著水涨船高，双方阵营竞争态势将更加白热化。
-
-（作者：钟荣峰、张建中、吴家豪；首图来源：shutterstock）]]></description>
+此外，辉达董事会针对潜在外国情报活动、国家安全及出口管制问题所展开的内部调查，目前仍在进行中。]]></description>
   </item>
 </channel>
 </rss>
