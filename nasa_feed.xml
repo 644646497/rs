@@ -4,7 +4,16 @@
   <title>NASA 新闻 RSS（简体中文版）</title>
   <link>https://www.nasa.gov/</link>
   <description>NASA 官方新闻 + 英译简</description>
-  <lastBuildDate>Sat, 28 Nov 2026 00:55:21 GMT</lastBuildDate>
+  <lastBuildDate>Sat, 28 Nov 2026 14:50:41 GMT</lastBuildDate>
+  <item>
+    <title>APOD: 2026 November 28 – Apollo 17 VIP Site Anaglyph</title>
+    <link>https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/</link>
+    <guid>https://science.nasa.gov/image-article/apod-2026-november-28-apollo-17-vip-site-anaglyph/</guid>
+    <pubDate>Sat, 28 Nov 2026 05:05:00 +0000</pubDate>
+    <description><![CDATA[Discover the cosmos!Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
+Explanation:Get out your red/blue glasses and check out this stereo scene fromTaurus-Littrowvalley on the Moon! The color anaglyph features a detailed 3D view of Apollo 17'sLunar Roverin the foreground. Behind it lies the Lunar Module and distant lunar hills. Because the world was going to be ableto watchtheLunar Module'sascent stage liftoff via the rover's TV camera, thisparking placewas also known as the VIP Site.Fifty years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon, while colleague Ronald Evansorbited overhead. The crew returned with 110 kilograms of rock and soil samples, more than from any of the other lunar landing sites. Cernan and Schmittare stillthe lastto walk(or drive)on the Moon.Tomorrow's picture:dark cloud]]></description>
+  </item>
   <item>
     <title>Artemis III Astronaut Andre Douglas Visits VAB</title>
     <link>https://www.nasa.gov/image-article/artemis-iii-astronaut-andre-douglas-visits-vab/</link>
@@ -23,11 +32,11 @@ During Artemis III, four RS-25 engines will power the SLS (Space Launch System) 
 
 Investigations from NASA’s Biological and Physical Sciences Division will advance research that benefits life on Earth and future exploration, expanding knowledge of space crops and human health.
 
-Astronauts will need sustainable sources of food to travel farther and stay longer in space. To help understand how crop production works in microgravity, NASA is launching a novelspace crops experiment.
+Astronauts will need sustainable sources of food to travel farther and stay longer in space. To help understand how crop production works in microgravity, NASA is launching a novelspace crops growth chamber called Ohalo III.
 
-The new prototype growth chamber will provide critical insights for developing safe, nutritious, and reliable crop production systems for future Moon Base habitats and Mars missions. Knowledge gained from the space crop production system also could help inform agricultural practices such as vertical farming and indoor growing systems.
+The new prototype growth chamber will provide critical insights for developing safe, nutritious, and reliable crop production strategies for future Moon Base habitats and Mars missions. Knowledge gained from the space crop production system also could help inform agricultural practices such as vertical farming and indoor growing systems.
 
-Researchers will use this investigation to validate the system’s water delivery and volume optimization technology aboard the space station.
+Researchers will validate the system’s water delivery and volume optimization technology aboard the space station.
 
 Aprecision health investigationis the next step toward enabling long-duration studies of human brain tissues in space.
 
@@ -223,13 +232,6 @@ The workforce directive, entitled “Restoring NASA’s Core Competencies” and
 “The directive has given our office an opportunity to rebalance positions across the organization and remove limitations that were applied to those who were previously not government employees,” said Lisa Kelleher, Goddard’s chief financial officer. “We are now better able to insource many of our experienced contractor staff, allowing us to build up our in-house core competencies in areas such as budget analysis and accounting, and in turn increase our support for mission success.”
 
 For Knight, she sees an increasing importance for her organization and hopes to make im]]></description>
-  </item>
-  <item>
-    <title>Eye of the Sahara</title>
-    <link>https://www.nasa.gov/image-article/eye-of-the-sahara/</link>
-    <guid>https://www.nasa.gov/image-article/eye-of-the-sahara/</guid>
-    <pubDate>Wed, 25 Nov 2026 16:21:04 +0000</pubDate>
-    <description><![CDATA[The Richat Structure, also known as the “Eye of the Sahara,” is seen from the International Space Station as it orbited above on Nov. 14, 2026. It is an eroded geological dome about 100 million years old created by igneous activity and uplift in the nation of Mauritania. In this type of geologic structure, rocks exposed in the center of the “bullseye” are older than rocks forming the outer rings. This structure measures 45 kilometers (28 miles) across and is made up of igneous and sedimentary rocks.]]></description>
   </item>
 </channel>
 </rss>
